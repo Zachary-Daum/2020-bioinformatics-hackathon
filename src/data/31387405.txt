@@ -1,0 +1,282 @@
+
+Pubmed-entry ::= {
+  pmid 31387405,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The circular RNA circ-ITCH acts as a tumour suppressor in
+ osteosarcoma via regulating miR-22."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ren C",
+            affil str "a Department of Orthopedic Oncology, The Affiliated
+ Hospital of Qingdao University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Liu J",
+            affil str "b Department of Pediatrics, The Affiliated Hospital of
+ Qingdao University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Zheng B",
+            affil str "a Department of Orthopedic Oncology, The Affiliated
+ Hospital of Qingdao University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Yan P",
+            affil str "a Department of Orthopedic Oncology, The Affiliated
+ Hospital of Qingdao University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Sun Y",
+            affil str "a Department of Orthopedic Oncology, The Affiliated
+ Hospital of Qingdao University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Yue B",
+            affil str "a Department of Orthopedic Oncology, The Affiliated
+ Hospital of Qingdao University , Qingdao , Shandong , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3359-3367",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31387405,
+        doi "10.1080/21691401.2019.1649273",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1649273"
+        }
+      }
+    },
+    abstract "Background: Osteosarcoma (OS) is the most prevailing primary
+ bone tumour and the third prevalent tumour in children and adolescents.
+ Despite advanced treatments, the survival rate of OS has not been effectively
+ improved. Here, we intended to investigate the functional impacts of
+ circ-ITCH on OS. Methods: Circ-ITCH expression in OS tissues and cells was
+ evaluated utilizing qRT-PCR. Viability and proliferation of MG63 and Saos-2
+ cells were determined by utilizing CCK-8 assay and BrdU assay. Transwell
+ assay was utilized to investigate migration and invasion. Western blot was
+ utilized to distinguish apoptosis and metastasis-related proteins expression.
+ Sequentially, the above-mentioned parameters were reassessed when
+ up-regulating miR-22. Results: Circ-ITCH was low expressed in OS tissues and
+ cells. Overexpressing circ-ITCH facilitated apoptosis and repressed
+ viability, proliferation, migration and invasion in MG63 and Saos-2 cells.
+ MiR-22 expression was reduced by overexpressing circ-ITCH. The decline of
+ viability, proliferation, migration and invasion made by overexpressing
+ circ-ITCH was alleviated by up-regulating miR-22. Conclusively, circ-ITCH
+ suppressed PTEN/PI3K/AKT and SP-1 pathways via down-regulating miR-22.
+ Conclusion: Circ-ITCH took effects on apoptosis, viability, proliferation,
+ migration and invasion through restraining PTEN/PI3K/AKT and SP-1 pathways
+ via down-regulating miR-22 in MG63 and Saos-2 cells. Highlights Low
+ expression of circ-ITCH is observed in osteosarcoma tissues and cell lines;
+ Overexpression circ-ITCH suppresses miR-22 expression; Circ-ITCH promotes
+ proliferation and represses apoptosis by up-regulating miR-22; Circ-ITCH
+ promotes migration and invasion by up-regulating miR-22; Circ-ITCH activates
+ PTEN/PI3K/AKT and SP-1 pathways by up-regulating miR-22.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "PTEN Phosphohydrolase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Circular",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN22 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Circular"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN Phosphohydrolase"
+      }
+    },
+    pmid 31387405,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

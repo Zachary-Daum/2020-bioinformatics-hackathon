@@ -1,0 +1,270 @@
+
+Pubmed-entry ::= {
+  pmid 30569716,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA BCAR4 up-regulates EGFR and thus promotes human thyrocyte
+ proliferation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhai HY",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Yan RH",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Yang TZ",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Zhou ZH",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Gao L",
+            affil str "Laboratory of Molecular Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Li J",
+            affil str "Department of Endocrinology, Liaocheng People's
+ Hospital, Liaocheng, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neoplasma",
+          ml-jta "Neoplasma",
+          issn "0028-2685",
+          name "Neoplasma"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3,
+            day 5
+          },
+          volume "66",
+          issue "2",
+          pages "222-231",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 12
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30569716,
+        doi "10.4149/neo_2018_180105N12",
+        pii "180105N12",
+        other {
+          db "ELocationID doi",
+          tag str "10.4149/neo_2018_180105N12"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "180105N12"
+        }
+      }
+    },
+    abstract "This study establishes that BCAR4 has pro-proliferative effects
+ on normal thyroid cells. BCAR4 up-regulation promotes proliferation and
+ suppresses apoptosis of NTHY-ORI 3-1 cells and human primary thyrocytes, and
+ EGFR is highly expressed in BCAR4 over-expressing-cells. In contrast, BCAR4
+ up-regulation did not modulate cell viability or cell cycle progression when
+ EGFR was knocked-down. Further, the phosphorylated forms of PI3K, AKT, mTOR
+ and p70S6K were up-regulated by BCAR4 up-regulation, and the alteration in
+ these kinases induced by BCAR4 up-regulation was abolished when EGFR was
+ knocked-down. This study therefore revealed the pro-proliferative role of
+ lncRNA BCAR4 in NTHY-ORI 3-1 cells and human primary thyrocytes; where BCAR4
+ accelerated thyroid cells proliferation by EGFR up-regulation and the
+ modulation of PI3K/AKT/mTOR signaling. These findings indicate that targeting
+ BCAR4 has potential in hyperthyroidism treatment.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        term "ErbB Receptors",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Ribosomal Protein S6 Kinases, 70-kDa",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Thyroid Epithelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BCAR4 non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "EGFR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "ErbB Receptors"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Ribosomal Protein S6 Kinases, 70-kDa"
+      }
+    },
+    pmid 30569716,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

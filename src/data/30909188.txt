@@ -1,0 +1,256 @@
+
+Pubmed-entry ::= {
+  pmid 30909188,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Schizandrin A inhibits proliferation, migration and invasion of
+ thyroid cancer cell line TPC-1 by down regulation of microRNA-429."
+      },
+      authors {
+        names ml {
+          "Ding Q",
+          "Li X",
+          "Sun Y",
+          "Zhang X"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cancer Biomark",
+          ml-jta "Cancer Biomark",
+          issn "1875-8592",
+          name "Cancer biomarkers : section A of Disease markers"
+        },
+        imp {
+          date std {
+            year 2019
+          },
+          volume "24",
+          issue "4",
+          pages "497-508",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30909188,
+        pii "CBM182222",
+        doi "10.3233/CBM-182222",
+        other {
+          db "ELocationID doi",
+          tag str "10.3233/CBM-182222"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Schizandrin A (SchA) exerts anticancer potential.
+ However, the effects of SchA on thyroid cancer (TC) have not been clear
+ illuminated. Therefore, we investigated the effects of SchA on TC cell line
+ TPC-1 and the underlying mechanisms. METHODS: TPC-1 cells were treated with
+ SchA and/or transfected with miR-429 mimic, anti-miR-429 and their
+ corresponding negative controls (NC). Cell viability, proliferation,
+ migration, invasion and cell apoptosis were examined by CCK-8 assay,
+ bromodeoxyuridine, modified two-chamber migration assay, Millicell Hanging
+ Cell Culture and flow cytometry analysis, respectively. The expression of
+ miR-429, p16, Cyclin D1, cyclin-dependent kinases 4 (CDK4), matrix
+ metalloprotein (MMP)-2, MMP-9 and Vimentin was detected by qRT-PCR. All
+ protein expression was examined by western blot. RESULTS: SchA inhibited cell
+ proliferation, metastasis and induced cell apoptosis. Moreover, SchA
+ negatively regulated miR-429 expression. Treatment with miR-429 mimic and
+ SchA reversed the results led by SchA and NC. Furthermore, the
+ phosphorylation beta-catenin, mitogen-activated protein kinase (MEK) and
+ extracellular signal-regulated kinase (ERK) were statistically down-regulated
+ by SchA while co-treatment with miR-429 mimic and SchA led to the opposite
+ trend. Moreover, miR-429 knockdown showed contrary results. CONCLUSION: SchA
+ inhibits cell proliferation, migration, invasion and inactivates
+ Wnt/beta-catenin and MEK/ERK signaling pathways by down regulating miR-429.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cyclooctanes",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lignans",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Polycyclic Compounds",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "Thyroid Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cyclooctanes"
+      },
+      {
+        type nameonly,
+        name "Lignans"
+      },
+      {
+        type nameonly,
+        name "MIRN429 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Polycyclic Compounds"
+      },
+      {
+        type cas,
+        cit "74XQL5DO3S",
+        name "schizandrin A"
+      }
+    },
+    pmid 30909188,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

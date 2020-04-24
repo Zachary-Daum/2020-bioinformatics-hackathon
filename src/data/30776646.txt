@@ -1,0 +1,352 @@
+
+Pubmed-entry ::= {
+  pmid 30776646,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Kaempferol protects chondrogenic ATDC5 cells against
+ inflammatory injury triggered by lipopolysaccharide through down-regulating
+ miR-146a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jiang R",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Hao P",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Yu G",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Liu C",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Yu C",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Huang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China. Electronic address:
+ yongkunwang42@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "69",
+          pages "373-381",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 2,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30776646,
+        pii "S1567-5769(19)30293-0",
+        doi "10.1016/j.intimp.2019.02.014",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(19)30293-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2019.02.014"
+        }
+      }
+    },
+    abstract "Kaempferol is a kind of bioflavonoid exerts diverse
+ pharmacological activities, including anti-apoptotic and anti-inflammatory
+ activities. Kaempferol has been recognized as an effective agent for
+ alleviating the clinical symptoms of osteoarthritis (OA). This study aimed to
+ provide evidence that Kaempferol has potential in the management of OA.
+ Lipopolysaccharide (LPS) stimulation induced a significant cell death and
+ inflammatory injury in ATDC5 cells, as evidenced by the decreased cell
+ viability, the induced apoptosis, the activated caspase-3, and the excessive
+ production of IL-6, IL-8 and TNF-alpha. Precondition of cells with Kaempferol
+ prevented apoptosis and the release of proinflammatory cytokines triggered by
+ LPS. miR-146a was down-regulated by Kaempferol treatment, and Decorin was
+ up-regulated by miR-146a overexpression. Consistently, both silence of
+ miR-146a and Decorin exhibited Kaempferol-like effects towards ATDC5 cells
+ stimulated by LPS. Moreover, Decorin silence activated PI3K/AKT/mTOR
+ signaling pathway. In rat model of OA, the expression of miR-146a and Decorin
+ in cartilage tissues was repressed by Kaempferol. Also, the activated
+ PI3K/AKT/mTOR signaling pathway in OA animal model was enhanced by Kaempferol
+ administration. These data suggested that Kaempferol exerted potential
+ anti-OA effects through down-regulation of miR-146a, and thus repressing the
+ expression of Decorin.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Decorin",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Inflammation Mediators",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Kaempferols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Decorin"
+      },
+      {
+        type nameonly,
+        name "Inflammation Mediators"
+      },
+      {
+        type nameonly,
+        name "Kaempferols"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn146 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type cas,
+        cit "731P2LE49E",
+        name "kaempferol"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      }
+    },
+    pmid 30776646,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

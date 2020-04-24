@@ -1,0 +1,353 @@
+
+Pubmed-entry ::= {
+  pmid 30308510,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lycium Barbarum Polysaccharides Alleviates Oxidative Damage
+ Induced by H2O2 Through Down-Regulating MicroRNA-194 in PC-12 and SH-SY5Y
+ Cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Niu T",
+            affil str "Department of Spine Surgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Jin L",
+            affil str "Department of Spine Surgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Niu S",
+            affil str "School of Clinical Medicine, Jining Medical University,
+ Jining, China."
+          },
+          {
+            name ml "Gong C",
+            affil str "Department of Clinical Laboratory, Jining No. 1 People
+'s Hospital, Jining, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Department of Spine Surgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "50",
+          issue "2",
+          pages "460-472",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 10,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30308510,
+        pii "000494159",
+        doi "10.1159/000494159",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000494159"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Currently, scientists attempt to improve
+ outcome of spinal cord injury (SCI) via reducing secondary injury during SCI.
+ Oxidative stress is critical for pathophysiology of secondary damage, thus we
+ mainly focused on the anti-oxidant effects of Lycium barbarum polysaccharides
+ (LBPs) on PC-12 and SH-SY5Y cells as well as the underlying mechanisms.
+ METHODS: Oxidative stress was induced by H2O2 stimulation. Effects of LBPs on
+ cell viability, apoptosis, and expression of proteins associated with
+ apoptosis and autophagy in H2O2-induced cells were assessed by CCK-8 assay,
+ flow cytometry assay and Western blot analysis, respectively. Then,
+ expression of miR-194 was determined by qRT-PCR. Expression of miR-194 was
+ dysregulated, and whether LBPs affected H2O2-treated cells through modulating
+ miR-194 was verified. The expression of key kinases in the PI3K/AKT pathway
+ and the intracellular levels of ROS and NO were testified by Western blot
+ analysis and flow cytometry with fluorescent probes. RESULTS: H2O2-induced
+ decrease of cell viability and increases of apoptosis and autophagy in PC-12
+ cells were mitigated by LBPs treatment. Next, we found that miR-194
+ expression was both down-regulated by LBPs treatment in PC-12 and SH-SY5Y
+ cells. More experiments consolidated that influence of LBPs on H2O2-treated
+ cells was reversed by miR-194 overexpression while was augmented by miR-194
+ inhibition. LBPs elevated the phosphorylated levels of PI3K and AKT and
+ reduced levels of ROS and NO through miR-194. CONCLUSION: LBPs alleviated
+ H2O2-induced decrease of cell viability, and increase of apoptosis and
+ autophagy through down-regulating miR-194. Moreover, LBPs activated the
+ PI3K/AKT pathway and reduced oxidative stress through miR-194.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Microtubule-Associated Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Microtubule-Associated Proteins"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "lycium barbarum polysaccharide"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      }
+    },
+    pmid 30308510,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

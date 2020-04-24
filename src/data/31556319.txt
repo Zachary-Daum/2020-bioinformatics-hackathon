@@ -1,0 +1,332 @@
+
+Pubmed-entry ::= {
+  pmid 31556319,
+  medent {
+    em std {
+      year 2019,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Activation of lncRNA lnc-SLC4A1-1 induced by H3K27 acetylation
+ promotes the development of breast cancer via activating CXCL8 and NF-kB
+ pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yi T",
+            affil str "Department of Thyroid and Breast Surgery, Jiangsu
+ Taizhou People's Hospital , Taizhou , Jiangsu , China."
+          },
+          {
+            name ml "Zhou X",
+            affil str "Department of Thyroid and Breast Surgery, Jiangsu
+ Taizhou People's Hospital , Taizhou , Jiangsu , China."
+          },
+          {
+            name ml "Sang K",
+            affil str "Department of Thyroid and Breast Surgery, Jiangsu
+ Taizhou People's Hospital , Taizhou , Jiangsu , China."
+          },
+          {
+            name ml "Huang X",
+            affil str "Department of Thyroid and Breast Surgery, Jiangsu
+ Taizhou People's Hospital , Taizhou , Jiangsu , China."
+          },
+          {
+            name ml "Zhou J",
+            affil str "Department of Thyroid and Breast Surgery, Jiangsu
+ Taizhou People's Hospital , Taizhou , Jiangsu , China."
+          },
+          {
+            name ml "Ge L",
+            affil str "Department of Thyroid and Breast Surgery, Jiangsu
+ Taizhou People's Hospital , Taizhou , Jiangsu , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3765-3773",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31556319,
+        doi "10.1080/21691401.2019.1664559",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1664559"
+        }
+      }
+    },
+    abstract "This study aimed to investigate the effect and potential
+ modulation mechanism of lnc-SLC4A1-1 on breast cancer (BC) carcinogenesis.
+ The expression of lnc-SLC4A1-1 in tissue and serum samples from BC patients,
+ as well as BC cell lines, was detected by real-time quantitative reverse
+ transcription-polymerase chain reactions (qRT-PCRs). Next, the expression of
+ lnc-SLC4A1-1 was silenced or upregulated in BC cells, then cell
+ proliferation, apoptosis, migration and invasion were detected using MTT,
+ flow cytometry analysis and Transwell assay. Meanwhile, the expression of
+ apoptosis-related proteins and epithelial-mesenchymal transition-related
+ proteins were detected by western blotting. Furthermore, potential mechanism
+ of lnc-SLC4A1-1 was explored by chromatin immunoprecipitation and RNA
+ immunoprecipitation assays. CXCL8 was overexpressed to evaluate the
+ relationship between lnc-SLC4A1-1 and CXCL8. Lnc-SLC4A1-1 was significantly
+ up-regulated in BC tissue, serum samples and cell lines. In BC cells,
+ lnc-SLC4A1-1 knockdown promoted cell apoptosis and suppressed cell
+ proliferation, migration and invasion. Furthermore, lnc-SLC4A1-1 is
+ transcriptionally activated by H3K27 acetylation, and lnc-SLC4A1-1 interacted
+ with transcription factor (NF)-kappaB p65, thereby regulating CXCL8
+ expression. Meanwhile, CXCL8 overexpression partly reversed the effects of
+ lnc-SLC4A1-1 knockdown on cell viability, apoptosis, migration and invasion
+ in BC cells. Lnc-SLC4A1-1 could promote the development of BC by regulating
+ NF-kappaB/CXCL8. Highlights Lnc-SLC4A1-1 was overexpressed in BC tissues,
+ blood and cell lines. Lnc-SLC4A1-1 was transcriptionally activated by H3K27
+ acetylation. Lnc-SLC4A1-1 interacted with NF-kappaB to promote CXCL8
+ expression. Lnc-SLC4A1-1 could promote the development of BC.",
+    mesh {
+      {
+        term "Acetylation"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Anion Exchange Protein 1, Erythrocyte",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Carcinogenesis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-8",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lysine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Transcriptional Activation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anion Exchange Protein 1, Erythrocyte"
+      },
+      {
+        type nameonly,
+        name "CXCL8 protein, human"
+      },
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type nameonly,
+        name "Interleukin-8"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "K3Z4F929H6",
+        name "Lysine"
+      }
+    },
+    pmid 31556319,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

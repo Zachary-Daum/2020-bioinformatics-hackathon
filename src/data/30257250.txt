@@ -1,0 +1,352 @@
+
+Pubmed-entry ::= {
+  pmid 30257250,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Schizandrin A Alleviates LPS-Induced Injury in Human
+ Keratinocyte Cell Hacat Through a MicroRNA-127-Dependent Regulation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li S",
+            affil str "Department of Rheumatology and Immunology, Jining No. 1
+ People's Hospital, Jining, China."
+          },
+          {
+            name ml "Xie R",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Jiang C",
+            affil str "Department of Rheumatology and Immunology, Jining No. 1
+ People's Hospital, Jining, China."
+          },
+          {
+            name ml "Liu M",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "49",
+          issue "6",
+          pages "2229-2239",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30257250,
+        pii "000493826",
+        doi "10.1159/000493826",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000493826"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Inflammatory skin diseases are the most common
+ problems in dermatology. Schizandrin A (SchA) has been reported to have
+ anti-inflammatory properties. Herein, we aimed to investigate the protective
+ effects of SchA on lipopolysaccharide (LPS)-induced injury in keratinocyte
+ HaCaT cells. METHODS: Inflammation injury in HaCaT cells was induced by LPS
+ treatment. Cell viability, apoptotic cell rate, and apoptosis-related
+ proteins were analyzed by cell counting kit-8 (CCK-8) assay, Annexin
+ V-(fluorescein isothiocyanate (FITC)/ Propidium Iodide (PI) double staining
+ method, and western blot, respectively. The pro-inflammatory factors were
+ analyzed by western blot and quantified by enzyme linked immunosorbent assay
+ (ELISA). Expression of miR-127 in SchA-treated cells was analyzed by qRT-PCR.
+ The effects of SchA on activations of p38MAPK/ERK and JNK pathways were
+ analyzed by western blot. RESULTS: SchA protected HaCaT cells from
+ LPS-induced inflammation damage via promoting cell viability, suppressing
+ apoptosis. Meanwhile, SchA inhibited IL-1beta, IL-6, and TNF-alpha
+ expression. miR-127 expression was up-regulated in LPS-treated HaCaT cells
+ but down-regulated after SchA treatment. Overexpression of miR-127 inhibited
+ cell growth and induced expression of IL-1beta, IL-6 and TNF-alpha.
+ Additionally, miR-127 overexpression impaired the protective effects of SchA,
+ implying miR-127 might be correlated to the anti-inflammation property of
+ SchA and also involved in inactivation of p38MAPK/ERK and JNK pathways by
+ SchA. CONCLUSION: miR-127 is involved in the protective functions of SchA on
+ LPS-induced inflammation injury in human keratinocyte cell HaCaT, which might
+ inactivates of p38MAPK/ERK and JNK signaling pathways in HaCaT cells.",
+    mesh {
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cyclooctanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lignans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polycyclic Compounds",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Cyclooctanes"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lignans"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN127 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Polycyclic Compounds"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "74XQL5DO3S",
+        name "schizandrin A"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 30257250,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

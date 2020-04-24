@@ -1,0 +1,313 @@
+
+Pubmed-entry ::= {
+  pmid 29036788,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of lncRNA CCAT2 inhibits endometrial cancer cells
+ growth and metastasis via sponging miR-216b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xie P",
+            affil str "The Affiliated Hospital of Qingdao University, Qingdao
+ 266003, Shandong, China.; Department of Gynecology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Cao H",
+            affil str "Department of Pathology, Jining No.1 People's Hospital,
+ Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Gynecology and Obstetrics, Shanxian
+ Central Hospital, Heze 274300, Shandong, China."
+          },
+          {
+            name ml "Wang J",
+            affil str "Department of Gynecology and Obstetrics, Shanxian
+ Central Hospital, Heze 274300, Shandong, China."
+          },
+          {
+            name ml "Cui Z",
+            affil str "Department of Gynecology, The Affiliated Hospital of
+ Qingdao University, Qingdao 266003, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cancer Biomark",
+          ml-jta "Cancer Biomark",
+          issn "1875-8592",
+          name "Cancer biomarkers : section A of Disease markers"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12,
+            day 12
+          },
+          volume "21",
+          issue "1",
+          pages "123-133",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29036788,
+        pii "CBM170388",
+        doi "10.3233/CBM-170388",
+        other {
+          db "ELocationID doi",
+          tag str "10.3233/CBM-170388"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Colon cancer-associated transcript 2 (CCAT2), a novel
+ lncRNA has been reported as an oncogene in several cancers. This study was
+ aimed to explore whether CCAT2 also exerted oncogenic roles in endometrial
+ cancer cells. MATERIALS AND METHODS: The expression of CCAT2 in 30 pairs of
+ endometrial cancer and matched non-cancerous tissues were detected by
+ qRT-PCR. Two endometrial cancer cell lines HEC-1-A and RL95-2 were used
+ throughout this study. CCAT2 in cells was silenced by transfection with shRNA
+ targeted CCAT2, then cell growth and metastasis were assessed by performing
+ trypan blue staining, Transwell assay, and flow cytometry. Dual-luciferase
+ reporter assay was used to detect the combination of miR-216b and CCAT2.
+ Besides, the expression of miR-216b and Bcl-2 in cells were overexpressed or
+ suppressed by transfection with their correspondingly mimic/vector or
+ inhibitor/shRNA. qRT-PCR and western blot analysis were performed to detect
+ the expression of Bcl-2 and main factors in PTEN/PI3K/AKT and mTOR signaling
+ pathways. RESULTS: CCAT2 was highly expressed in endometrial cancer tissues
+ when compared to non-cancerous endometrial tissues. Knockdown of CCAT2
+ inhibited HEC-1-A and RL95-2 cells viability, migration, invasion, but
+ induced apoptosis. CCAT2 was an endogenous sponge by competing for miR-216b,
+ and miR-216b suppression alleviated CCAT2 silence-diminished cell growth and
+ metastasis. miR-216b negatively regulated Bcl-2 and Bcl-2 could further
+ active PTEN/PI3K/AKT and mTOR signaling pathways. CONCLUSIONS: To conclude,
+ these results demonstrated lncRNA CCAT2 was highly expressed in endometrial
+ cancer tissues. Knockdown of CCAT2 inhibited cell growth and metastasis of
+ endometrial cancer cells by sponging miR-216b.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Endometrial Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "PTEN Phosphohydrolase",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN216 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "long non-coding RNA CCAT2, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN Phosphohydrolase"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN protein, human"
+      }
+    },
+    pmid 29036788,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 31071509,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragalus polysaccharide promotes proliferation and osteogenic
+ differentiation of bone mesenchymal stem cells by down-regulation of
+ microRNA-152."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Q",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China."
+          },
+          {
+            name ml "Xing W",
+            affil str "Department of Breast Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, Jilin 130033, China."
+          },
+          {
+            name ml "Gong X",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China. Electronic address:
+ wangys042@sohu.com."
+          },
+          {
+            name ml "Sun H",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China. Electronic address:
+ feiqiaotang4393zs@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "115",
+          pages "108927",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 4,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31071509,
+        pii "S0753-3322(19)30523-2",
+        doi "10.1016/j.biopha.2019.108927",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(19)30523-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.108927"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Astragalus polysaccharide (APS) has been
+ clarified to possess antibacterial, antiviral and other activities.
+ MicroRNA-152 (miR-152) is a tumor suppressor, which has been testified to be
+ involved in promoting osteogenic differentiation of marrow mesenchymal stem
+ cells (MSCs). However, whether APS can affect BMSCs proliferation and
+ osteogenic differentiation via mediating miR-152 remains uninvestigated.
+ METHODS: After treatment with APS or transfection with pre-miR-152 and
+ anti-miR-152, cell viability, cell proliferation-associated factors,
+ differentiation of BMSCs-related genes, and the relative miR-152 expression
+ was determined by CCK-8, Western blot and qRT-PCR assays. The relationship
+ between miR-152 and BMP9 was assessed by qRT-PCR and dual luciferase activity
+ assay. The effects of BMP9 on cell proliferation and osteogenic
+ differentiation were determined in BMSCs after transfection with pEX-BMP9 and
+ sh-BMP9. The key components in PI3K/AKT and Wnt/beta-catenin pathways were
+ analyzed by Western blot. RESULTS: APS promoted proliferation and
+ differentiation of BMSCs by increasing viable cells, up-regulating CyclinD1,
+ down-regulating p21, and increasing expressions of Runx2, OCN, OPN, and
+ Col-1. miR-152 was down-regulated by APS and miR-152 suppression exhibited
+ the similar promoting effects on BMSCs, whereas miR-152 overexpression
+ inhibited proliferation and differentiation of BMSCs. BMP9 was a direct
+ target of miR-152 and was involved in mediating the function of miR-152 in
+ BMSCs. BMP9 up-regulation enhanced proliferation and differentiation of
+ BMSCs. BMP9 was observed to activate PI3K/AKT and Wnt/beta-catenin pathways
+ in BMSCs. CONCLUSION: These results demonstrated that APS promoted
+ proliferation and osteogenic differentiation of BMSCs by down-regulating
+ miR-152 and further up-regulating BMP9 and activating PI3K/AKT and
+ Wnt/beta-catenin pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Astragalus Plant",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Bone Marrow Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mesenchymal Stem Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteogenesis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN152 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      }
+    },
+    pmid 31071509,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

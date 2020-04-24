@@ -1,0 +1,239 @@
+
+Pubmed-entry ::= {
+  pmid 31094031,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lipopolysaccharides-mediated injury to chondrogenic ATDC5 cells
+ can be relieved by Sinomenine via downregulating microRNA-192."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Yu C",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "Department of Orthopaedics, The Second Hospital of
+ Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phytother Res",
+          ml-jta "Phytother Res",
+          issn "1099-1573",
+          name "Phytotherapy research : PTR"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "33",
+          issue "7",
+          pages "1827-1836",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31094031,
+        doi "10.1002/ptr.6372",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ptr.6372"
+        }
+      }
+    },
+    abstract "Sinomenine (SIN) is an isoquinoline derived from Caulis
+ Sinomenii that has been used to treat rheumatoid arthritis and osteoarthritis
+ for several decades in China. This study aims to reveal the effects of SIN on
+ mouse chondrogenic ATDC5 cells growth and inflammation. SIN was used to treat
+ ATDC5 cells injured by lipopolysaccharides (LPS). The following parameters
+ were determined for evaluating the treatment effects of SIN: cell viability,
+ apoptosis, reactive oxygen species generation, and pro-inflammatory cytokines
+ release. Besides, the expression of LPS-sensitive miRNA (miR-192) and the
+ activation of NF-kappaB and MAPK signaling were studied to explain SIN's
+ function. SIN with concentration of 30 muM significantly attenuated
+ LPS-induced cell damage via increasing cell viability, inhibiting apoptosis
+ and reactive oxygen species generation, and declining IL-6 and TNF-alpha
+ release. miR-192 was downregulated by SIN treatment. Restoration of miR-192
+ expression by miRNA transfection could significantly impede SIN's protective
+ action. Besides, the inhibitory effects of SIN on the activation of NF-kappaB
+ and MAPK signaling were attenuated by miR-192 overexpression. Furthermore,
+ GDF11 was found to be a target gene of miR-192. LPS-mediated injury to
+ chondrogenic ATDC5 cells can be relieved by SIN via downregulating miR-192
+ and subsequently repressing the activation of NF-kappaB and MAPK signaling.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrogenesis"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Morphinans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn192 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "Morphinans"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "63LT81K70N",
+        name "sinomenine"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31094031,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

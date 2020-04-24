@@ -1,0 +1,255 @@
+
+Pubmed-entry ::= {
+  pmid 31079494,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Emodin weakens liver inflammatory injury triggered by
+ lipopolysaccharide through elevating microRNA-145 in vitro and in vivo."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xie R",
+            affil str "a Department of Gastroenterology , Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Liu M",
+            affil str "a Department of Gastroenterology , Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Li S",
+            affil str "b Department of Rheumatology and Immunology , Jining
+ No.1 People's Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1877-1887",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31079494,
+        doi "10.1080/21691401.2019.1614015",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1614015"
+        }
+      }
+    },
+    abstract "Hepatitis is a severe liver disease with worldwide distribution.
+ This study explored the anti-inflammatory influence of Emodin on
+ LPS-triggered liver injury in vitro and in vivo. In vitro, we discovered that
+ LPS treatment triggered L-02 cell and primary hepatocyte inflammatory injury.
+ Emodin weakened the LPS-triggered cell inflammatory injury and NF-kappaB
+ pathway activation. Emodin alleviated LPS-stimulated decrease of miR-145
+ expression. Moreover, miR-145 participated in the regulation of
+ pro-inflammatory factors expression and negatively regulated IRAK1. Besides,
+ IRAK1 exert regulatory roles in the activation of NF-kappaB pathway. In vivo,
+ we found that Emodin pre-treatment weakened the LPS-triggered increases of
+ pro-inflammatory factors expression, up-regulations of AST and ALT level,
+ liver cell apoptosis, reduction of miR-145 and enhancement of IRAK1. Our
+ research verified that Emodin weakened LPS-triggered liver cell inflammatory
+ injury in vitro and in vivo might be achieved by elevating miR-145,
+ decreasing IRAK1 and then suppressing NF-kappaB pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chemical and Drug Induced Liver Injury",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Emodin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Wistar"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "KA46RNI6HN",
+        name "Emodin"
+      }
+    },
+    pmid 31079494,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

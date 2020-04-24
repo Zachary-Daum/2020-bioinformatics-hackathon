@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 31250665,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Emodin protects against lipopolysaccharide-induced inflammatory
+ injury in HaCaT cells through upregulation of miR-21."
+      },
+      authors {
+        names std {
+          {
+            name ml "Song Y",
+            affil str "a Department of Health Management, Heze Medical College
+ , Heze , China."
+          },
+          {
+            name ml "Cui X",
+            affil str "b Department of Breast and Thyroid Surgery, Heze
+ Municipal Hospital , Heze , China."
+          },
+          {
+            name ml "Zhao R",
+            affil str "c Department of General Medicine, Heze Municipal
+ Hospital , Heze , China."
+          },
+          {
+            name ml "Hu L",
+            affil str "d Department of Joint Surgery, Heze Municipal Hospital
+ , Heze , China."
+          },
+          {
+            name ml "Li Y",
+            affil str "e e Department of Nursing, Heze Medical College , Heze
+ , China."
+          },
+          {
+            name ml "Liu C",
+            affil str "b Department of Breast and Thyroid Surgery, Heze
+ Municipal Hospital , Heze , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2654-2661",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31250665,
+        doi "10.1080/21691401.2019.1629951",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1629951"
+        }
+      }
+    },
+    abstract "Background/aim: Pressure ulcers are a disastrous health issue in
+ which inflammation is involved. Emodin possesses biological properties in
+ inflammation. Our study investigated functions of emodin in
+ lipopolysaccharide (LPS)-treated HaCaT cells. Methods: LPS was used to induce
+ cell inflammation. MTT and flow cytometry were applied for cell viability and
+ apoptosis assays, respectively. Moreover, apoptotic proteins were detected by
+ western blot. Similarly, inflammatory factors and signalling related proteins
+ were also determined by western blot. Results: Emodin increased cell
+ viability and diminished apoptosis in LPS-treated HaCaT cells. Moreover,
+ cleaved-PARP, cleaved-caspase-3 and cleaved-caspase-9 were all downregulated
+ by emodin. Furthermore, inflammatory factors IL-1beta, IL-6, Cox-2 and iNOS
+ were inhibited by emodin in LPS-treated cells. In addition, emodin decreased
+ phosphorylation of p65 and IkappaBalpha and the level of PTEN while enhanced
+ phosphorylation of PI3K and AKT. Importantly, emodin increased expression of
+ miR-21 suppressed by LPS and miR-21 downregulation negated the protective
+ functions of emodin. Conclusions: Emodin promoted cell growth presented by
+ increasing viability and blocking apoptosis process with inflammation
+ inhibition. The protective activity of emodin was mediated by miR-21
+ up-regulation.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Emodin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PTEN Phosphohydrolase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN21 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN Phosphohydrolase"
+      },
+      {
+        type cas,
+        cit "KA46RNI6HN",
+        name "Emodin"
+      }
+    },
+    pmid 31250665,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

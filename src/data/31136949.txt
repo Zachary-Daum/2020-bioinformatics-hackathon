@@ -1,0 +1,290 @@
+
+Pubmed-entry ::= {
+  pmid 31136949,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragaloside IV protects cardiomyocytes from hypoxia-induced
+ injury by down-regulation of lncRNA GAS5."
+      },
+      authors {
+        names std {
+          {
+            name ml "Du J",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin, 130021, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin, 130021, China."
+          },
+          {
+            name ml "Zhen J",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin, 130021, China."
+          },
+          {
+            name ml "Yang ST",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin, 130021, China."
+          },
+          {
+            name ml "Zheng EL",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin, 130021, China."
+          },
+          {
+            name ml "Leng JY",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin, 130021, China. Electronic address:
+ lengjiy424@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8
+          },
+          volume "116",
+          pages "109028",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 2,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 5,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 5,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31136949,
+        pii "S0753-3322(19)30534-7",
+        doi "10.1016/j.biopha.2019.109028",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(19)30534-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.109028"
+        }
+      }
+    },
+    abstract "BACKGROUND: Poor understanding of the regulatory mechanisms of
+ astragaloside IV (AS-IV) in cardiovascular protection limits clinical
+ application of AS-IV in heart failure. Hypoxia is an important stimulus in
+ the progression of heart failure. We investigated the role of AS-IV in
+ hypoxia-treated cardiomyoblast H9c2 cells. METHODS: Cell viability and
+ apoptotic cells in hypoxia-treated H9c2 cells were detected by CCK-8 assay
+ and flow cytometry, respectively. Expression of proteins associated with
+ proliferation and apoptosis was measured by Western blot. Then effects of
+ AS-IV on hypoxia-induced cell injury were explored, and the alteration of
+ lncRNA growth arrest specific 5 (GAS5) level under AS-IV treatment was
+ determined by RT-qPCR. Whether AS-IV affected hypoxia-treated H9c2 cells via
+ lncRNA GAS5 was subsequently testified. Besides, whether AS-IV regulated
+ lncRNA GAS5 expression was via modulating the PI3K/mTOR pathway was
+ investigated. RESULTS: Hypoxia-induced decreasing cell viability, increasing
+ apoptotic cells, and proteins associated with proliferation and apoptosis
+ were all attenuated by AS-IV treatments. Then, we found that lncRNA GAS5
+ expression was down-regulated by AS-IV treatment, and AS-IV might affect
+ hypoxia-stimulated H9c2 cells through lncRNA GAS5. Finally, we found that
+ inhibition of PI3K/mTOR or mTOR could reverse the AS-IV-induced
+ down-regulation of lncRNA GAS5 in H9c2 cells. CONCLUSION: AS-IV protected
+ H9c2 cells against hypoxia through down-regulating lncRNA GAS5. Besides,
+ AS-IV might repress lncRNA GAS5 expression via activation of the PI3K/mTOR
+ pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cardiotonic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Saponins",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Triterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cardiotonic Agents"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Saponins"
+      },
+      {
+        type nameonly,
+        name "Triterpenes"
+      },
+      {
+        type cas,
+        cit "3A592W8XKE",
+        name "astragaloside A"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      }
+    },
+    pmid 31136949,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,267 @@
+
+Pubmed-entry ::= {
+  pmid 31184231,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of MEG3 intensifies lipopolysaccharide-stimulated damage
+ of human lung cells through modulating miR-4262."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X",
+            affil str "a Department of Respiratory and Critical Care Medicine,
+ Henan Provincial People's Hospital , Zhengzhou , China."
+          },
+          {
+            name ml "Zhang Q",
+            affil str "a Department of Respiratory and Critical Care Medicine,
+ Henan Provincial People's Hospital , Zhengzhou , China."
+          },
+          {
+            name ml "Yang Z",
+            affil str "a Department of Respiratory and Critical Care Medicine,
+ Henan Provincial People's Hospital , Zhengzhou , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2369-2378",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31184231,
+        doi "10.1080/21691401.2019.1623233",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1623233"
+        }
+      }
+    },
+    abstract "Acute lung injury (ALI) is a serious threat for health and lives
+ worldwide. Recently, lncRNA MEG3 has been well studied to participate in lung
+ cancer, making us speculate that it may be essential for ALI. ALI was
+ simulated by treatment of LPS in human lung fibroblast WI-38 cells and human
+ PMVECs. Cell viability, migration, apoptosis and MEG3 level were assessed by
+ CCK-8, Transwell, flow cytometry/Western blot and qRT-PCR assays,
+ respectively. Utilizing bioinformatics methods, luciferase activity assay and
+ assessments of cell viability, migration and apoptosis, the possible
+ interacted microRNA were explored. We found that, LPS induced decreases of
+ cell viability, migration and MEG3 expression but promoted cell apoptosis.
+ MEG3 knockdown aggravated LPS-induced injury of WI-38 cells and PMVECs. MEG3
+ acted as a sponge of miR-4262 and effects of MEG3 knockdown could be
+ alleviated by miR-4262 inhibition. Kruppel-like factor 4 (KLF4) was
+ negatively regulated by miR-4262, and its overexpression ameliorated
+ LPS-induced cell injury. LPS-induced alterations of key kinases in the
+ PI3K/AKT and JAK/STAT pathways were reversed by KLF4 overexpression. In
+ conclusion, MEG3 was down-regulated by LPS and its knockdown aggravated
+ LPS-induced injury of human lung cells through miR-4262-mediated
+ down-regulation of KLF4. The PI3K/AKT and JAK/STAT pathways were implicated.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Silencing"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kruppel-Like Transcription Factors",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "GKLF protein"
+      },
+      {
+        type nameonly,
+        name "Kruppel-Like Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MEG3 non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "microRNA-4262 microRNA, human"
+      }
+    },
+    pmid 31184231,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

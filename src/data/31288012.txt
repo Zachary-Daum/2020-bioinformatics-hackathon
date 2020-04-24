@@ -1,0 +1,339 @@
+
+Pubmed-entry ::= {
+  pmid 31288012,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Angelica polysaccharide alleviates oxidative response damage in
+ HaCaT cells through up-regulation of miR-126."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang X",
+            affil str "Department of Coronary Care Unit, Qingdao Hiser Medical
+ Center, Qingdao 266033, China."
+          },
+          {
+            name ml "Xue H",
+            affil str "Second Department of Cardiovascular, Qingdao Hiser
+ Medical Center, Qingdao 266003, China."
+          },
+          {
+            name ml "Zhou P",
+            affil str "Second Department of Cardiovascular, Qingdao Hiser
+ Medical Center, Qingdao 266003, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Second Department of Cardiovascular, Qingdao Hiser
+ Medical Center, Qingdao 266003, China."
+          },
+          {
+            name ml "Yu J",
+            affil str "Department of Cadre Health Care, Qingdao Hiser Medical
+ Center, Qingdao 266003, China."
+          },
+          {
+            name ml "Dai P",
+            affil str "Second Department of Cardiovascular, Qingdao Hiser
+ Medical Center, Qingdao 266003, China."
+          },
+          {
+            name ml "Qu M",
+            affil str "Department of Hepatobiliary Internal Medicine, Qingdao
+ Hiser Medical Center, Qingdao 266003, China.. Electronic address:
+ qu17ma@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10
+          },
+          volume "110",
+          pages "104281",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 7,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 7,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31288012,
+        pii "S0014-4800(19)30355-7",
+        doi "10.1016/j.yexmp.2019.104281",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(19)30355-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.104281"
+        }
+      }
+    },
+    abstract "BACKGROUND: Pressure ulcers (PUs) prevalence has been considered
+ as an index for patient safety and cure quality of hospital and community.
+ Skin cellular oxidative response damage is existed in the development of PUs.
+ Angelica polysaccharide (AP) has the anti-oxidation function. Therefore, our
+ goal was to investigate the mechanism of AP in relieving cellular oxidative
+ damage. METHODS: Transfected HaCaT cells with miR-126 inhibitor, pre-treated
+ by AP, and then treated by H2O2. CCK-8 assay and flow cytometry detection
+ were set to test viability and apoptosis of cells respectively. qRT-PCR and
+ western blot tested levels of miR-126 and oxidative damage relative factors.
+ ROS assay tested the production of ROS in cells. RESULTS: Cellular oxidative
+ response damage was induced by H2O2 at concentration of 300muM. We found that
+ AP could attenuate cellular oxidative response damage caused by H2O2 that it
+ elevated cell viability, attenuated cell apoptosis and production of ROS and
+ promoted activation of PI3K/AKT and mTOR signal pathways. Further, miR-126
+ was up-regulated by AP. The up-regulation of miR-126 could activate the
+ PI3K/AKT and mTOR signal pathways. CONCLUSION: Our study demonstrated that AP
+ attenuated cellular oxidative response damage in HaCaT cells by positively
+ regulated miR-126.",
+    mesh {
+      {
+        term "Angelica",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oxidants",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN126 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Oxidants"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31288012,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

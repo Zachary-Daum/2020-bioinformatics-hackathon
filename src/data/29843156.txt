@@ -1,0 +1,285 @@
+
+Pubmed-entry ::= {
+  pmid 29843156,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Resveratrol Protects Murine Chondrogenic ATDC5 Cells Against
+ LPS-Induced Inflammatory Injury Through Up-Regulating MiR-146b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jin H",
+            affil str "Department of Orthopedic, The Second Hospital of Jilin
+ University, Changchun, China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "Department of Clinical Medicine, Changchun Medical
+ College, Changchun, China."
+          },
+          {
+            name ml "Ma T",
+            affil str "Department of Orthopedic, The Second Hospital of Jilin
+ University, Changchun, China."
+          },
+          {
+            name ml "Lan H",
+            affil str "Department of Orthopedic, The Second Hospital of Jilin
+ University, Changchun, China."
+          },
+          {
+            name ml "Feng S",
+            affil str "Department of Orthopedic, The Second Hospital of Jilin
+ University, Changchun, China."
+          },
+          {
+            name ml "Zhu H",
+            affil str "Department of Orthopedic, The Second Hospital of Jilin
+ University, Changchun, China."
+          },
+          {
+            name ml "Ji Y",
+            affil str "Department of Orthopedic, The Second Hospital of Jilin
+ University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "47",
+          issue "3",
+          pages "972-980",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29843156,
+        pii "000490141",
+        doi "10.1159/000490141",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000490141"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Resveratrol (RSV) has been reported as a
+ promising oral supplementation for osteoarthritis treatment, while the
+ mechanism of its action is still unclear. The specific aim of this study is
+ to decode one of the mechanisms by which RSV protects chondrocyte. METHODS:
+ Mouse chondrogenic cell line ATDC5 was treated with 30 microM RSV for 24 h,
+ and 10 microg/ml LPS for 12 h, after which cell viability, apoptosis, and the
+ release of pro-inflammatory cytokines were assessed. The expression of
+ miR-146b in ATDC5 cells was silenced by the specific inhibitor transfection,
+ and then cell viability, apoptosis and inflammation were re-assessed.
+ RESULTS: The IC50 value of LPS in ATDC5 cells was about 10.27 microg/ml. LPS
+ with a dosage of 10 microg/ml repressed cell viability, induced apoptosis,
+ and increased the release of IL-1beta, IL-6 and TNF-alpha. RSV pre-treatment
+ (30 microM) significantly alleviated LPS-induced apoptosis and inflammation.
+ More importantly, miR-146b was up-regulated by RSV, and the protective
+ functions of RSV on ATDC5 cells were attenuated by miR-146b silence. Further,
+ NF-kappaB and p38MAPK pathways were activated by LPS, and were deactivated by
+ RSV. Besides, RSV-induced the deactivation of NF-kappaB and p38MAPK pathways
+ was reversed by miR-146b silence. CONCLUSIONS: Our findings suggest that RSV
+ protects ATDC5 cells from LPS-induced inflammatory and apoptotic injury via
+ up-regulation of miR-146b and thereby deactivation of NF-kappaB and p38MAPK
+ pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Resveratrol"
+      },
+      {
+        term "Stilbenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn146 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "Stilbenes"
+      },
+      {
+        type cas,
+        cit "Q369O8926L",
+        name "Resveratrol"
+      }
+    },
+    pmid 29843156,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

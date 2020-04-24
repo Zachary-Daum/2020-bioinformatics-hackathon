@@ -1,0 +1,309 @@
+
+Pubmed-entry ::= {
+  pmid 31352788,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-183 affects the development of gastric cancer by
+ regulating autophagy via MALAT1-miR-183-SIRT1 axis and PI3K/AKT/mTOR signals."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li H",
+            affil str "China-Japan Union Hospital of Jilin University ,
+ Changchun , Jilin , China."
+          },
+          {
+            name ml "He C",
+            affil str "China-Japan Union Hospital of Jilin University ,
+ Changchun , Jilin , China."
+          },
+          {
+            name ml "Wang X",
+            affil str "China-Japan Union Hospital of Jilin University ,
+ Changchun , Jilin , China."
+          },
+          {
+            name ml "Wang H",
+            affil str "China-Japan Union Hospital of Jilin University ,
+ Changchun , Jilin , China."
+          },
+          {
+            name ml "Nan G",
+            affil str "China-Japan Union Hospital of Jilin University ,
+ Changchun , Jilin , China."
+          },
+          {
+            name ml "Fang L",
+            affil str "China-Japan Union Hospital of Jilin University ,
+ Changchun , Jilin , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3163-3171",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31352788,
+        doi "10.1080/21691401.2019.1642903",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1642903"
+        }
+      }
+    },
+    abstract "Gastric cancer (GC) remains to be a familiar malignant tumor
+ with poor prognosis and daunting impacts on global health. We planned to grab
+ the latent impacts of microRNA-183 in regulating cell autophagy, thus to
+ clarify its possible regulatory principle in GC. The miR-183 level in GC
+ tissues and cell lines was investigated. The impacts of miR-183 dysregulation
+ on cell biological performances including viability, apoptosis and autophagy
+ of GC cell lines including SGC-7901 were detected. Also, cells were disposed
+ with 3-methyladenine (3-MA, an autophagy inhibition) before dysregulation of
+ miR-183 to further investigate the correlation between cell autophagy and
+ viability or apoptosis. Furthermore, the regulatory mechanisms between
+ miR-183 and metastasis-associated lung adenocarcinoma transcript 1 (MALAT1),
+ silent mating type information regulation 1 (SIRT1) or PI3K/AKT/mTOR pathway
+ were explored. miR-183 was under-expressed both in GC tissues and in cell
+ lines. miR-183 mimic alone depressed SGC-7901 cell viability and enhanced
+ cell apoptosis and autophagy, whereas miR-183 inhibitor exhibited opposite
+ effects. Moreover, the impacts of miR-183 on SGC-7901 cell viability and
+ apoptosis were mediated by affecting the activation of autophagy. Our results
+ indicate that miR-183 is under-expressed in GC cells and depression of
+ miR-183 may enhance GC cell viability and inhibit cell apoptosis by affecting
+ the activation of cell autophagy. MALAT1-miR-183-SIRT1 axis and PI3K/AKT/mTOR
+ pathway may be mechanisms to mediate autophagy in GC. miR-183 may serve as a
+ towardly therapeutic target for GC.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Carcinogenesis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sirtuin 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MALAT1 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN183 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.5.1.-",
+        name "Sirtuin 1"
+      }
+    },
+    pmid 31352788,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

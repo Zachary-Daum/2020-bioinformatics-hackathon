@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 31027517,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Protective functions of myricetin in LPS-induced cardiomyocytes
+ H9c2 cells injury by regulation of MALAT1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun J",
+            affil str "Department of Cardiology, The First People's Hospital
+ of Changzhou, No. 185 Juqian Street, Changzhou, 213000, China.
+ sunjinliang0055@sina.com."
+          },
+          {
+            name ml "Sun J",
+            affil str "Department of Cardiology, The First People's Hospital
+ of Changzhou, No. 185 Juqian Street, Changzhou, 213000, China."
+          },
+          {
+            name ml "Zhou X",
+            affil str "Department of Cardiology, The First People's Hospital
+ of Changzhou, No. 185 Juqian Street, Changzhou, 213000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Med. Res.",
+          ml-jta "Eur J Med Res",
+          issn "2047-783X",
+          name "European journal of medical research"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4,
+            day 26
+          },
+          volume "24",
+          issue "1",
+          pages "20",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 1,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31027517,
+        doi "10.1186/s40001-019-0378-5",
+        pii "10.1186/s40001-019-0378-5",
+        other {
+          db "pmc",
+          tag str "PMC6485133"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s40001-019-0378-5"
+        }
+      }
+    },
+    abstract "BACKGROUND: Metastasis-associated lung adenocarcinoma transcript
+ 1 (MALAT1) is a crucial mediator in response to inflammation. Myricetin
+ protects cardiomyocytes against inflammatory injury. However, it's still
+ unexplored whether myricetin exerted anti-inflammatory properties via MALAT1.
+ The purpose of our study was to validate the cardio-protective function of
+ myricetin against myocarditis and its underlying mechanism in vitro. METHODS:
+ H9c2 cells were pre-incubated with myricetin before stimulation with
+ lipopolysaccharide (LPS). Enforced silence of MALAT1 was achieved by
+ transducing short hairpin (sh)-MALAT1 into H9c2 cells. Next, cell viability
+ and apoptotic cells were detected with cell counting kit-8 (CCK-8) and
+ Annexin V-fluorescein isothiocyanate/propidium iodide (Annexin V-FITC/PI)
+ apoptosis detection kit, respectively. Western blot assay was conducted to
+ examine apoptosis-relative proteins, pro-inflammatory factors, and signaling
+ regulators. Quantitative real-time PCR (qRT-PCR) was performed to quantify
+ pro-inflammatory factors and MALAT1 at mRNA levels. Enzyme-linked immune
+ sorbent assay (ELISA) was employed to determine protein concentration of
+ pro-inflammatory factors. RESULTS: Myricetin ameliorated LPS-elicited
+ reduction of cell viability, augment of apoptosis, and overexpression of
+ monocyte chemo-attractant protein-1 (MCP-1) and interleukin-6 (IL-6) in H9c2
+ cells. Meanwhile, phosphorylation of p65 and inhibitor of nuclear factor
+ kappa B alpha (IkappaBalpha) were suppressed. Besides, myricetin enhanced the
+ expression of MALAT1 which was originally down-regulated by LPS. However, the
+ protective effects of myricetin against LPS-caused inflammatory lesions were
+ abrogated in MALAT1-deficiency cells, with the restored phosphorylation of
+ p65 and IkappaBalpha. CONCLUSION: Myricetin possessed an anti-inflammatory
+ function against LPS-induced lesions in cardiomyocytes. Mechanically,
+ myricetin up-regulated MALAT1, blocked LPS-evoked activation of nuclear
+ factor-kappaB (NF-kappaB) inflammatory pathway, and, finally, exerted
+ cardio-protective effects.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cardiotonic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Inflammation Mediators",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cardiotonic Agents"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "Inflammation Mediators"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MALAT1 long noncoding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "76XC01FTOJ",
+        name "myricetin"
+      }
+    },
+    pmid 31027517,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

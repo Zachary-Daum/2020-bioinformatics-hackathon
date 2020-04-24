@@ -1,0 +1,260 @@
+
+Pubmed-entry ::= {
+  pmid 30402863,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Suppression of microRNA-101 attenuates hypoxia-induced
+ myocardial H9c2 cell injury by targeting DIMT1-Sp1/survivin pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guo ZX",
+            affil str "Department of Cardiology, Taian City Central Hospital,
+ Taian, China. zhanghuanyi0011@126.com."
+          },
+          {
+            name ml "Zhou FZ"
+          },
+          {
+            name ml "Song W"
+          },
+          {
+            name ml "Yu LL"
+          },
+          {
+            name ml "Yan WJ"
+          },
+          {
+            name ml "Yin LH"
+          },
+          {
+            name ml "Sang H"
+          },
+          {
+            name ml "Zhang HY"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur Rev Med Pharmacol Sci",
+          ml-jta "Eur Rev Med Pharmacol Sci",
+          issn "2284-0729",
+          name "European review for medical and pharmacological sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "22",
+          issue "20",
+          pages "6965-6976",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30402863,
+        doi "10.26355/eurrev_201810_16167",
+        other {
+          db "ELocationID pii",
+          tag str "16167"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.26355/eurrev_201810_16167"
+        }
+      }
+    },
+    abstract "OBJECTIVE: MicroRNAs (miRNAs) are small single-stranded RNAs in
+ eukaryotic cells, which play important regulatory roles in the pathogenesis
+ of various diseases. We aimed to investigate the effects of miRNA-101
+ (miR-101) on hypoxia-induced myocardial infarction (MI) cell injury model
+ (myocardial H9c2 cell injury model). The possible target gene of miR-101 was
+ also analyzed. MATERIALS AND METHODS: H9c2 cells were exposed to hypoxia
+ treatment. Cell viability, migration, invasion, apoptosis and the expression
+ of miR-101 were detected using CCK-8 assay, transwell assay, flow cytometer
+ analysis, Western blotting and qRT-PCR, respectively. Then, the effects of
+ miR-101 overexpression or suppression on the cell injury induced by hypoxia
+ were assessed. Dual luciferase reporter assay was used to analyze the
+ possible target gene of miR-101. Finally, the effects of dimethyladenosine
+ transferase 1 homolog (DIMT1), the possible target gene of miR-101, on H9c2
+ cell injury were investigated. RESULTS: Hypoxia significantly induced H9c2
+ cell injury. miR-101 was up-regulated after hypoxia induction.
+ Hypoxia-induced cell injury was significantly reversed by miR-101 suppression
+ and exacerbated by miR-101 overexpression. DIMT1 was a direct target gene of
+ miR-101. Knockdown of DIMT1 markedly inhibited the protective effects of
+ miR-101 suppression on hypoxia-induced cell injury by suppressing specific
+ protein 1 (Sp1)/Survivin pathway. CONCLUSIONS: We verified the critical roles
+ of miR-101 in regulating myocardial cell injury induced by hypoxia.
+ DIMT1-mediated the Sp1/Survivin pathway was also involved in this process.
+ Our findings replenished the understanding of the regulatory roles of miRNAs
+ in hypoxia-induced MI cell injury and provided new molecular target for
+ therapy and diagnosis of MI.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Hypoxia",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Sp1 Transcription Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Survivin",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transferases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN101 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Sp1 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "Survivin"
+      },
+      {
+        type ec,
+        cit "2.-",
+        name "Transferases"
+      }
+    },
+    pmid 30402863,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

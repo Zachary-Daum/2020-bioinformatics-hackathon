@@ -1,0 +1,272 @@
+
+Pubmed-entry ::= {
+  pmid 31002779,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tanshinone IIA protects hypoxia-induced injury by preventing
+ microRNA-28 up-regulation in PC-12 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tang N",
+            affil str "Department of Neurosurgery, Union Hospital, Tongji
+ Medical College, Huazhong University of Science and Technology, Wuhan,
+ 430022, Hubei, China."
+          },
+          {
+            name ml "Chang J",
+            affil str "Department of Pancreatic Surgery, Renmin Hospital of
+ Wuhan University, Wuhan, 430060, Hubei, China."
+          },
+          {
+            name ml "Zeng Y",
+            affil str "Department of Neurosurgery, Union Hospital, Tongji
+ Medical College, Huazhong University of Science and Technology, Wuhan,
+ 430022, Hubei, China."
+          },
+          {
+            name ml "Zheng J",
+            affil str "Department of Neurosurgery, Union Hospital, Tongji
+ Medical College, Huazhong University of Science and Technology, Wuhan,
+ 430022, Hubei, China. Electronic address: zhengjin0027@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Pharmacol.",
+          ml-jta "Eur J Pharmacol",
+          issn "1879-0712",
+          name "European journal of pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7,
+            day 5
+          },
+          volume "854",
+          pages "265-271",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 4,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31002779,
+        pii "S0014-2999(19)30258-4",
+        doi "10.1016/j.ejphar.2019.04.030",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-2999(19)30258-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejphar.2019.04.030"
+        }
+      }
+    },
+    abstract "Cerebral ischemia is the second leading cause of death and
+ disability worldwide. Despite the neuroprotective role of Tanshinone IIA has
+ been widely reported, the molecular mechanisms involving miRNAs remains
+ unclear. We aimed to figure out a novel regulatory mechanism of Tanshinone
+ IIA associated with miRNAs. Rat pheochomocytoma PC-12cells were exposed to
+ hypoxia, followed by assays of cell viability and apoptosis using trypan blue
+ exclusion and flow cytometry assay, respectively. Expression of proteins
+ associated with apoptosis was measured by Western blot analysis. Effects of
+ Tanshinone IIA on cell viability, apoptosis and expression of miR-28 were
+ determined. Then, whether Tanshinone IIA functioned though miR-28 was
+ analyzed. Finally, we explored the relationship between survivin and miR-28,
+ and whether Tanshinone IIA activated the specificity protein 1 (Sp1)/survivin
+ pathway though modulating miR-28. Hypoxia decreased cell viability and
+ increased cell apoptosis though mitochondrial- and caspase-dependent
+ pathways. Tanshinone IIA treatment prevented hypoxia-induced cell injury
+ though preventing up-regulation of miR-28. Subsequently, we found survivin
+ expression was down-regulated by miR-28 overexpression. In addition,
+ expression of Sp1 and survivin was down-regulated by hypoxia, and the
+ down-regulations were attenuated by Tanshinone IIA though miR-28. We
+ confirmed that Tanshinone IIA prevented hypoxia-induced PC-12cell injury
+ though preventing the up-regulation of miR-28, along with activation of the
+ Sp1/survivin pathway in PC-12cells under hypoxia.",
+    mesh {
+      {
+        term "Abietanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Survivin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Abietanes"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Survivin"
+      },
+      {
+        type cas,
+        cit "03UUH3J385",
+        name "tanshinone"
+      }
+    },
+    pmid 31002779,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

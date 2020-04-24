@@ -1,0 +1,287 @@
+
+Pubmed-entry ::= {
+  pmid 30853613,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "TRAF4 promotes endometrial cancer cell growth and migration by
+ activation of PI3K/AKT/Oct4 signaling."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xie P",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Kong M",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Bai X",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Jiang T",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, Jining 272011, China. Electronic address: jiangtao0031@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "108",
+          pages "9-16",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30853613,
+        pii "S0014-4800(18)30403-9",
+        doi "10.1016/j.yexmp.2019.03.003",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30403-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.03.003"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Endometrial cancer (EC) is ranked as the most common
+ gynecologic malignancy of the female genital tract and the fourth most common
+ neoplasia in women. Accumulated evidences reveal that TRAF4 plays a critical
+ role in the progress of various cancers, but its functions in EC remains
+ unclear. This study aimed to explore the role and mechanism of TRAF4 in EC
+ progress. METHODS: TRAF4 expression in EC tissues were assessed by qRT-PCR,
+ IHC and western blot. TRAF4 expression in Ishikawa and primary EC cells was
+ inhibited and overexpressed by transient transfections. Thereafter, cell
+ proliferation was identified by combination of clone formation assay and Ki67
+ staining assay. Cell viability, apoptosis and migration were respectively
+ measured by MTT assay, flow cytometry assay and transwell migration assay.
+ Furthermore, qRT-PCR and western blot analysis were mainly performed to
+ assess the expression levels of apoptosis-related proteins and PI3K/AKT/Oct4
+ pathway proteins. RESULTS: TRAF4 was up-regulated in EC tissues. Knockdown of
+ TRAF4 induced cell apoptosis and inhibited cell proliferation and migration.
+ However, TRAF4 overexpression increased cell proliferation and migration.
+ Furthermore, we found TRAF4 down-regulation repressed the activation of
+ PI3K/AKT signaling pathway in Ishikawa and primary EC cells. We also found
+ that Oct4 was a downstream factor of PI3K/AKT pathway and was positively
+ regulated by TRAF4. TRAF4 might increase cell viability through PI3K/AKT/Oct4
+ pathway. CONCLUSION: The present study demonstrated that TRAF4 might exert an
+ oncogenic role in EC progress via its regulation of PI3K/AKT/Oct4 pathway.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Endometrial Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Octamer Transcription Factor-3",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "TNF Receptor-Associated Factor 4",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Cells, Cultured"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Octamer Transcription Factor-3"
+      },
+      {
+        type nameonly,
+        name "POU5F1 protein, human"
+      },
+      {
+        type nameonly,
+        name "TNF Receptor-Associated Factor 4"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30853613,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

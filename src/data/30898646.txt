@@ -1,0 +1,313 @@
+
+Pubmed-entry ::= {
+  pmid 30898646,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of long non-coding RNA UCA1 inhibits hemangioma cells
+ growth, migration and invasion by up-regulation of miR-200c."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "Department of Pediatric Surgery, Weifang People's
+ Hospital, Weifang 261000, China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "Department of Pediatric Surgery, Weifang People's
+ Hospital, Weifang 261000, China. Electronic address: zhangchg410@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6,
+            day 1
+          },
+          volume "226",
+          pages "33-46",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 12,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30898646,
+        pii "S0024-3205(19)30202-4",
+        doi "10.1016/j.lfs.2019.03.038",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)30202-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.03.038"
+        }
+      }
+    },
+    abstract "BACKGROUND: Human urothelial carcinoma associated 1 (UCA1) has
+ been recognized as an oncogenic lncRNA in various cancers, except infantile
+ hemangioma (IH). This study attempts to explore the functional role of lncRNA
+ UCA1 in IH. METHODS: qRT-PCR was carried out to detect the expression of
+ lncRNA UCA1 in human IH tissues. Two hemangioma cell lines (EOMA and HemECs)
+ were transfected with shRNAs specific for lncRNA UCA1, or a plasmid for
+ expression lncRNA UCA1. The expression of miR-200c in cell was suppressed or
+ overexpressed by miRNA-mediated transfection. CCK-8 assay, flow cytometry,
+ Transwell assay, and Western blot were performed to detect cell survival,
+ migration and invasion. RESULTS: LncRNA UCA1 was up-regulated in
+ proliferating-phase hemangioma samples, as compared to involuting-phase.
+ Silence of lncRNA UCA1 significantly reduced EOMA cells viability, migration
+ and invasion, and induced apoptosis. These observations were coupled with the
+ down-regulations of CyclinD1, CDK6 and CDK4, the cleavage of caspase-3 and
+ caspase-9, as well as the decreased expression levels of MMP-9 and Vimentin.
+ miR-200c was highly expressed in lncRNA UCA1 silenced-cells. Besides, the
+ anti-tumor effects of lncRNA UCA1 silence towards EOMA cells were reversed by
+ miR-200c suppression. Same effects of lncRNA UCA1 and miR-200c on HemECs
+ cells were observed. Furthermore, silence of lncRNA UCA1 repressed mTOR, AMPK
+ and Wnt/beta-catenin signaling via a miR-200c-dependent fashion. CONCLUSION:
+ This study evidences that silence of lncRNA UCA1 inhibits hemangioma cells
+ growth, migration and invasion possibly via its regulation on miR-200c
+ expression and the activation of mTOR, AMPK and Wnt/beta-catenin signaling
+ pathways.",
+    mesh {
+      {
+        term "Adenylate Kinase",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hemangioma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcriptional Activation"
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "Wnt Signaling Pathway"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN200 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn200 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "UCA1 RNA, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.4.3",
+        name "Adenylate Kinase"
+      }
+    },
+    pmid 30898646,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

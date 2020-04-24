@@ -1,0 +1,310 @@
+
+Pubmed-entry ::= {
+  pmid 31396818,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalin relieves inflammation stimulated by lipopolysaccharide
+ via upregulating TUG1 in liver cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang Y",
+            affil str "Department of Infectious Diseases, Heze Municipal
+ Hospital, No2888 Caozhou Road, Heze, 274000, Shandong, China."
+          },
+          {
+            name ml "Sun M",
+            affil str "Department of Clinical Laboratory, Heze Municipal
+ Hospital, Heze, 274000, China."
+          },
+          {
+            name ml "Yang X",
+            affil str "Department of Clinical Laboratory, Heze Municipal
+ Hospital, Heze, 274000, China."
+          },
+          {
+            name ml "Ma A",
+            affil str "Department of Infectious Diseases, Heze Municipal
+ Hospital, No2888 Caozhou Road, Heze, 274000, Shandong, China."
+          },
+          {
+            name ml "Ma Y",
+            affil str "Department of Infectious Diseases, Heze Municipal
+ Hospital, No2888 Caozhou Road, Heze, 274000, Shandong, China."
+          },
+          {
+            name ml "Zhao A",
+            affil str "Department of Infectious Diseases, Heze Municipal
+ Hospital, No2888 Caozhou Road, Heze, 274000, Shandong, China.
+ zhaoaiying0022@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Physiol. Biochem.",
+          ml-jta "J Physiol Biochem",
+          issn "1877-8755",
+          name "Journal of physiology and biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11
+          },
+          volume "75",
+          issue "4",
+          pages "463-473",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 7,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31396818,
+        doi "10.1007/s13105-019-00698-0",
+        pii "10.1007/s13105-019-00698-0",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s13105-019-00698-0"
+        }
+      }
+    },
+    abstract "Hepatitis has become a major social, health, and economic
+ problem worldwide. Herein, we tested the beneficial influence of baicalin, a
+ flavonoid extracted from the roots of Scutellaria baicalensis, on human
+ normal liver L-02 and THLE2 cell apoptosis and inflammatory reaction
+ stimulated by lipopolysaccharide (LPS) and possible molecular mechanisms.
+ L-02 and THLE2 cell viability and apoptosis after LPS and/or baicalin
+ treatment were tested using CCK-8 assay and Annexin V-FITC/PI apoptosis kit,
+ respectively. qRT-PCR was used to measure the MCP-1, IL-6, TNF-alpha, and
+ lncRNA taurine upregulated gene 1 (TUG1) expressions in L-02 and THLE2 cells.
+ sh-TUG1 was transfected to knockdown TUG1. SB203580 was used as inhibitor of
+ p38MAPK pathway, while SP600125 was used as inhibitor of JNK pathway. We
+ discovered that LPS stimulation caused L-02 and THLE2 cell apoptosis and
+ inflammatory reaction. Baicalin relieved the L-02 and THLE2 cell apoptosis
+ and inflammatory reaction stimulated by LPS. Moreover, LPS lowered the TUG1
+ expression in L-02 cells, while baicalin promoted the TUG1 expression in L-02
+ and L-02 and THLE2 cells, as well as inactivated p38MAPK and JNK pathways in
+ LPS-stimulated L-02 cells. Besides, knockdown of TUG1 activated p38MAPK and
+ JNK pathways and promoted inflammatory cytokine expression in L-02 cells. In
+ conclusion, this study further affirmed the beneficial influences of baicalin
+ on LPS-stimulated human normal liver cell apoptosis and inflammatory
+ reaction. Baicalin relived liver cell inflammation stimulated by LPS might be
+ via upregulating TUG1 and then inactivating p38MAPK and JNK pathways.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents, Non-Steroidal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Hepatitis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Hepatocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Kinase 4",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Scutellaria baicalensis",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents, Non-Steroidal"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "TUG1 long noncoding RNA, human"
+      },
+      {
+        type cas,
+        cit "347Q89U4M5",
+        name "baicalin"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.12.2",
+        name "MAP Kinase Kinase 4"
+      }
+    },
+    pmid 31396818,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

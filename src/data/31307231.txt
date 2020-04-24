@@ -1,0 +1,282 @@
+
+Pubmed-entry ::= {
+  pmid 31307231,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Geniposide protects PC12 cells from lipopolysaccharide-evoked
+ inflammatory injury via up-regulation of miR-145-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma S",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "b Department of Ophthalmology, The Second Hospital of
+ Jilin University , Changchun , China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "c Department of Orthopedics, The Second Hospital of
+ Jilin University , Changchun , China."
+          },
+          {
+            name ml "Dai Y",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Gu R",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Jiang R",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2875-2881",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31307231,
+        doi "10.1080/21691401.2019.1626406",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1626406"
+        }
+      }
+    },
+    abstract "Geniposide is an active ingredient with anti-apoptotic and
+ anti-inflammatory properties. This study was to examine the effects of
+ geniposide on a cell model of spinal cord injury (SCI). PC12 cells were
+ administrated with geniposide before subjected to LPS. The effects of
+ geniposide were analyzed by utilizing CCK-8 assay, apoptosis assay, ELISA,
+ RT-qPCR and Western blot. We found that PC12 cells viability was unchanged by
+ treating with geniposide. However, geniposide with concentrations of 200 or
+ 300 mug/mL significantly mitigated LPS-evoked viability loss. Meanwhile,
+ apoptosis driven by LPS was mitigated by geniposide, which accompanied with
+ p53, Bax and cleaved caspase-3 down-regulation, and Bcl-2 up-regulation.
+ Besides this, the expression and release of IL-1beta, IL-6, IL-8 and
+ TNF-alpha evoked by LPS were mitigated by geniposide. miR-145-5p was a target
+ of geniposide. miR-145-5p expression was up-regulated by geniposide, and
+ geniposide did not protect PC12 cells against LPS injury when miR-145-5p was
+ silenced. Moreover, geniposide inhibited NF-kappaB and JNK pathways via
+ up-regulating miR-145-5p. In short, the present work described the
+ neuroprotective effects of geniposide by targeting miR-145-5p. Further
+ mechanisms involved in geniposide's beneficial effects are correlated with
+ the inhibited NF-kappaB and JNK pathways. Highlights Geniposide prevents
+ LPS-induced injury in PC12 cells; Geniposide up-regulates miR-145-5p;
+ Geniposide protects PC12 cells via up-regulation of miR-145-5p; Geniposide
+ inhibits NF-kappaB and JNK pathways via up-regulation of miR-145-5p.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Iridoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Iridoids"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "145295QLXY",
+        name "geniposide"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31307231,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

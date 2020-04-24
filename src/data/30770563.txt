@@ -1,0 +1,158 @@
+
+Pubmed-entry ::= {
+  pmid 30770563,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-ERK1/2 signaling promotes the development of uveal melanoma
+ by downregulating H3K14ac."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Y",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, China."
+          },
+          {
+            name ml "Sun W",
+            affil str "Department of Gastrointestinal Colorectal and Anal
+ Surgery, China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Sun D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Yin D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2,
+            day 15
+          },
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 22
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30770563,
+        doi "10.1002/jcp.28259",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28259"
+        }
+      }
+    },
+    abstract "Ras-extracellular signal-regulated protein kinases 1 and 2
+ (ERK1/2) signaling has been proposed as the crucial regulators in the
+ development of various cancers. Histone acetylation at H3 lysine 14 (H3K14ac)
+ is closely associated with gene expression and DNA damage. However, whether
+ H3K14ac participates in mediating Ras-ERK1/2-induced cell proliferation and
+ migration in uveal melanoma cells remains unknown. The purpose of this study
+ is to investigate the effect of H3K14ac on Ras-ERK1/2 affected uveal melanoma
+ cell phenotypes. MP65 cells were transfected with Ras (WT) and Ras
+ (G12V/T35S) , the unloaded plasmid of pEGFP-N1 served as a negative control.
+ Protein levels of phosphorylated ERK1/2 (Thr202) and H3K14ac were assessed by
+ western blot assay. Cell viability, number of colonies, migration, and the
+ downstream genes of ERK1/2 were analyzed by
+ 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl-2-H-tetrazolium bromide, soft-agar
+ colony formation, transwell, and chromatin immunoprecipitation assays. HA-tag
+ vectors of CLR3 and TIP60 and the small interfering RNAs that specific for
+ CLR3 and MDM2 were transfected into MP65 cells to uncover the effects of
+ CLR3, TIP60, and MDM2 on Ras-ERK1/2 mediated H3K14ac expression and MP65 cell
+ phenotypes. We found that, Ras-ERK1/2 decreased H3K14ac expression in MP65
+ cells, and H3K14ac significantly suppressed Ras-ERK1/2-induced cell
+ viability, colony formation, and migration in MP65 cells. Moreover, the
+ transcription of CYR61, IGFBP3, WNT16B, NT5E, GDF15, and CARD16 was regulated
+ by H3K14ac. Additionally, CLR3 silence recovered H3K14ac expression and
+ reversed the effect of Ras-ERK1/2 on MP65 cell proliferation, migration and
+ the mRNAs of ERK1/2 downstream genes. Besides, Ras-ERK1/2 decreased H3K14ac
+ expression by MDM2-mediated TIP60 degradation. In conclusion, Ras-ERK1/2
+ promoted uveal melanoma cells growth and migration by downregulating H3K14ac
+ via MDM2-mediated TIP60 degradation.",
+    pmid 30770563,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

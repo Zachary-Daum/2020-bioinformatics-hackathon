@@ -1,0 +1,292 @@
+
+Pubmed-entry ::= {
+  pmid 30521964,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA THRIL promotes LPS-induced inflammatory
+ injury by down-regulating microRNA-125b in ATDC5 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu G",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Zhang M",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Zhang Q",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China. Electronic address:
+ qiaozhang0094@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "66",
+          pages "354-361",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30521964,
+        pii "S1567-5769(18)31226-8",
+        doi "10.1016/j.intimp.2018.11.038",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(18)31226-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2018.11.038"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteoarthritis is an age-related disorder of
+ bone-joint that causes pain and disability in middle and older people. This
+ study aimed to investigate the potential effects of long non-coding RNA
+ (lncRNA) THRIL on lipopolysaccharide (LPS)-induced osteoarthritis cell injury
+ model (ATDC5 cell inflammatory injury), as well as the possible internal
+ molecular mechanisms. METHODS: Cell viability and apoptosis were assessed
+ using CCK-8 assay and Guava Nexin assay, respectively. Cell transfection was
+ conducted to change the expression of THRIL and microRNA-125b (miR-125b) in
+ ATDC5 cells. qRT-PCR was performed to detect the expression of THRIL,
+ miR-125b and pro-inflammatory cytokines IL-6, TNF-alpha and monocyte
+ chemotactic protein 1 (MCP-1) in ATDC5 cells. ELISA was used to measure the
+ concentrations of IL-6, TNF-alpha and MCP-1 in culture supernatant of ATDC5
+ cells. Finally, the protein expression of key factors involved in cell
+ apoptosis, inflammatory response, JAK1/STAT3 and NF-kappaB pathways were
+ evaluated using western blotting. RESULTS: LPS significantly induced ATDC5
+ cell inflammatory injury and up-regulated the expression of THRIL.
+ Overexpression of THRIL aggravated the LPS-induced ATDC5 cell inflammatory
+ injury. Suppression of THRIL had opposite effects. Moreover, THRIL negatively
+ regulated the expression of miR-125b in ATDC5 cells. miR-125b participated in
+ the effects of THRIL overexpression on LPS-induced ATDC5 cell inflammatory
+ injury. Furthermore, overexpression of THRIL enhanced the LPS-induced
+ JAK1/STAT3 and NF-kappaB pathways activation by down-regulating miR-125b.
+ CONCLUSION: THRIL exerted pro-inflammatory roles in LPS-induced
+ osteoarthritis cell injury model. Overexpression of THRIL promoted
+ LPS-induced ATDC5 cell inflammatory injury by down-regulating miR-125b and
+ then activating JAK1/STAT3 and NF-kappaB pathways.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Janus Kinase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn125 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 1"
+      }
+    },
+    pmid 30521964,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

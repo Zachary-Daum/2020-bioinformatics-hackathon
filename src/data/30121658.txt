@@ -1,0 +1,326 @@
+
+Pubmed-entry ::= {
+  pmid 30121658,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-486 Alleviates Hypoxia-Induced Damage in H9c2 Cells by
+ Targeting NDRG2 to Inactivate JNK/C-Jun and NF-kappaB Signaling Pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang X",
+            affil str "The Heart Center, Jining No. 1 People's Hospital,
+ Jining, China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "The Heart Center, Jining No. 1 People's Hospital,
+ Jining, China."
+          },
+          {
+            name ml "Wang N",
+            affil str "Department of Stomatology, Affiliated Hospital of
+ Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "The Heart Center, Jining No. 1 People's Hospital,
+ Jining, China."
+          },
+          {
+            name ml "Zhang D",
+            affil str "The Heart Center, Jining No. 1 People's Hospital,
+ Jining, China."
+          },
+          {
+            name ml "Li Q",
+            affil str "The Heart Center, Jining No. 1 People's Hospital,
+ Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "48",
+          issue "6",
+          pages "2483-2492",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 8,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30121658,
+        pii "000492686",
+        doi "10.1159/000492686",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000492686"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Acute myocardial infarction is a serious
+ disease with high morbidity and mortality. microRNAs (miRNAs) have been
+ proved to play an important role in modulating myocardial ischemia and
+ reperfusion injury. Hence, in this study, we constructed H9c2 cell model to
+ elucidate the roles of microRNA-486 (miR-486) in preventing hypoxia-induced
+ damage in H9c2 cells. METHODS: H9c2 cells were cultured in hypoxic incubator
+ with 1% O2 to simulate hypoxia and/or transfected with miR-486 mimic,
+ scramble, anti-miR-486, si-N-myc downstream-regulated gene 2 (NDRG2) and
+ their corresponding negative controls (NC). Effects of miR-486 and/or NDRG2
+ dysregulation on hypoxia-induced myocardial injury in H9c2 cells were
+ investigated by evaluating cell viability, migration, invasion and apoptosis
+ using Cell Counting Kit-8 (CCK-8), transwell assay, flow cytometry,
+ respectively. The proteins expression and RNA expression were detected by
+ western blot and quantitative real time polymerase chain reaction (qRT-PCR),
+ respectively. RESULTS: Hypoxia treatment induced damage in H9c2 cells by
+ decreasing cell viability, migration and invasion and increasing cell
+ apoptosis. Moreover, hypoxia inhibited the expression of miR-486 in H9c2
+ cells. Overexpression of miR-486 alleviated hypoxia-induced myocardial injury
+ in H9c2 cells, while suppression of miR-486 further aggravated
+ hypoxia-induced injury. Furthermore, NDRG2 expression was negatively
+ regulated by miR-486, and NDRG2 was confirmed as a target of miR-486.
+ Knockdown of NDRG2 alleviated the effects of miR-486 suppression on
+ hypoxia-induced myocardial injury. Besides, knockdown of NDRG2 markedly
+ inhibited the activation of c-Jun N-terminal kinase (JNK) /c-jun and nuclear
+ factor kappaB (NF-kappaB) signaling pathways in hypoxia-induced H9c2 cells.
+ CONCLUSION: Our findings indicate that miR-486 may alleviate hypoxia-induced
+ myocardial injury possibly by targeting NDRG2 to inactivate JNK/c-jun and
+ NF-kappaB signaling pathways. miR-486 may be a potential target for treating
+ ischemic myocardial injury following acute myocardial infarction.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 9",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nerve Tissue Proteins",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "bcl-2-Associated X Protein",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "MIRN486 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Ndrg2 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Nerve Tissue Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "bcl-2-Associated X Protein"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 9"
+      }
+    },
+    pmid 30121658,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

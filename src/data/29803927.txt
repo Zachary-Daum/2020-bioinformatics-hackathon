@@ -1,0 +1,270 @@
+
+Pubmed-entry ::= {
+  pmid 29803927,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA HULC promotes UVB-induced injury by
+ up-regulation of BNIP3 in keratinocytes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao L",
+            affil str "Department of Dermatology, Jining No. 1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Man Y",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Liu S",
+            affil str "Department of Dermatology, Jining No. 1 People's
+ Hospital, Jining 272011, China. Electronic address: liushumei1213@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "104",
+          pages "672-678",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29803927,
+        pii "S0753-3322(17)36864-6",
+        doi "10.1016/j.biopha.2018.05.100",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36864-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.05.100"
+        }
+      }
+    },
+    abstract "Ultraviolet radiation b (UVB) is a common high-energy radiation
+ which can lead to cell damage and even skin cancer. The mechanisms of lncRNAs
+ in various diseases have attracted much attention of researchers. Herein, we
+ investigated the effects and regulations of lncRNA highly up-regulated in
+ liver cancer (HULC) on UVB-induced injury in HaCaT cells. The HaCaT cells
+ were exposed to UVB at a wavelength of 280-320nm. Cell viability was detected
+ at different times (0, 3, 6, 12 and 24h) after UVB treatment. Cells were
+ transfected with sh-HULC, pc-HULC, sh-BNIP3 (Bcl-2 interacting protein 3) or
+ pc-BNIP3, respectively. ZM 39,923 HCl was used as JAK/STAT(1/3) inhibitor.
+ Cell viability and apoptosis were tested by trypan blue dye and flow
+ cytometry analysis, respectively. The expression levels of autophagy-related
+ factors were analyzed by Western blot assay. The expression changes of HULC
+ and BNIP3 were measured by qRT-PCR. We found that UVB decreased cell
+ viability, increased apoptosis and autophagy, and up-regulated the expression
+ of HULC in HaCaT cells. Overexpression of HULC reduced cell viability,
+ enhanced apoptosis and autophagy, and up-regulated BNIP3 expression by
+ activating JAK/STAT(1/3) signaling pathway. Finally, BNIP3 suppression
+ increased cell viability, reduced apoptosis and autophagy via the
+ deactivation of mTOR signaling pathway. The results demonstrated that lncRNA
+ HULC up-regulated BNIP3 and activated JAK/STAT(1/3) signaling pathway to
+ accelerate UVB-induced cell damage in HaCaT cells. This study provides a
+ possible target for the clinical treatment of UVB-induced keratinocyte injury.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Ultraviolet Rays",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BNIP3 protein, human"
+      },
+      {
+        type nameonly,
+        name "HULC long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 29803927,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

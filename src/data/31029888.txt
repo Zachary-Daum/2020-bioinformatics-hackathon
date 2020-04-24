@@ -1,0 +1,383 @@
+
+Pubmed-entry ::= {
+  pmid 31029888,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginkgolides B alleviates hypoxia-induced PC-12 cell injury by
+ up-regulation of PLK1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gao J",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, 130033, China."
+          },
+          {
+            name ml "Kang M",
+            affil str "Department of Spine Surgery, The Second Hospital of
+ Jilin University, Changchun, 130000, China."
+          },
+          {
+            name ml "Han Y",
+            affil str "Department of Neurology, China-Japan Union Hospital of
+ Jilin University, Changchun, 130033, China."
+          },
+          {
+            name ml "Zhang T",
+            affil str "Northeast Normal University, Changchun, 130024, China."
+          },
+          {
+            name ml "Jin H",
+            affil str "Department of Neurology, China-Japan Union Hospital of
+ Jilin University, Changchun, 130033, China."
+          },
+          {
+            name ml "Kang C",
+            affil str "Department of Neurology, China-Japan Union Hospital of
+ Jilin University, Changchun, 130033, China. Electronic address:
+ kangchunyang0096@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "115",
+          pages "108885",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 1,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 4,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31029888,
+        pii "S0753-3322(19)30406-8",
+        doi "10.1016/j.biopha.2019.108885",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(19)30406-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.108885"
+        }
+      }
+    },
+    abstract "BACKGROUND: Finding novel agent for cerebral ischemia therapy is
+ urgently required. In our present study, we aimed to investigate the
+ regulatory mechanism of Ginkgolides B (GB) in hypoxia-injured PC-12 cells.
+ METHODS: PC-12 cells were exposed to hypoxia and administrated with GB. Cell
+ viability was detected by MTT assay. Flow cytometry assay was conducted for
+ the detection of cell apoptosis, ROS generation and cell cycle assay. The
+ changes of protein levels of Bax, Pro/Cleaved-Caspase-3, CyclinD1, CDK4,
+ CDK6, PI3K/AKT and MEK/ERK pathways were detected by Western blot.
+ Transfection was conducted for Polo-like kinase 1 (PLK1) knockdown. RESULTS:
+ Hypoxia-induced decrease of cell viability and increase of ROS generation,
+ apoptosis and cell cycle arrest were ameliorated by GB. Hypoxia disposition
+ hindered PI3 K/AKT and MEK/ERK signaling pathways while GB had the opposite
+ effects. Then we observed that hypoxia exposure suppressed PLK1 expression
+ while GB increased PLK1 expression dose-dependently. Knockdown of PLK1
+ attenuated the neuroprotective effects of GB on hypoxia-injured PC-12 cells
+ and also inhibited PI3 K/AKT and MEK/ERK pathways. CONCLUSION: The above
+ observations corroborated that GB alleviated hypoxia-induced PC-12 cell
+ injury by up-regulation of PLK1 via activating PI3K/AKT and MEK/ERK pathways.
+ These findings implied the neuro-protective impacts in hypoxia-injured PC-12
+ cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Cycle",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Cycle Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ginkgolides",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lactones",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Kinase Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Molecular Structure"
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein-Serine-Threonine Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reactive Oxygen Species"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cell Cycle Proteins"
+      },
+      {
+        type nameonly,
+        name "Ginkgolides"
+      },
+      {
+        type nameonly,
+        name "Lactones"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "DF149B9460",
+        name "ginkgolide B"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Protein-Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "polo-like kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.25",
+        name "MAP Kinase Kinase Kinases"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 31029888,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

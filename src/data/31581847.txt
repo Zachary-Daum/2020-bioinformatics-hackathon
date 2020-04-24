@@ -1,0 +1,262 @@
+
+Pubmed-entry ::= {
+  pmid 31581847,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lentinan protects cardiomyocytes against hypoxia-induced injury
+ by regulation of microRNA-22/Sirt1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang S",
+            affil str "Department of Cardiology, Affiliated Hospital of Jining
+ Medical University , Jining , China."
+          },
+          {
+            name ml "Zhao Y",
+            affil str "Department of Cardiac Surgery, Affiliated Hospital of
+ Jining Medical University , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3938-3946",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31581847,
+        doi "10.1080/21691401.2019.1666863",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1666863"
+        }
+      }
+    },
+    abstract "Myocardial ischemia is a serious disease which threatens human's
+ life. Lentinan (LEN) possesses multiple biological properties: anticancer,
+ antibacterial, antiviral and antioxidant effects. Our study investigated the
+ effects of LEN on hypoxia-stimulated cardiomyocytes and the underlying
+ mechanism. Primary neonatal rat ventricular cardiomyocytes (PNCM) were
+ isolated from neonate rat pups. PNCM and H9c2 cells were stimulated by
+ hypoxia and treated by LEN. Cell viability and apoptosis were detected by
+ cell counting kit-8 and flow cytometry, respectively. Moreover, apoptotic
+ factors were examined by western blot. Phosphatidylinositol 3'-kinase
+ (PI3K)/protein kinase B (AKT) and beta-catenin pathways related proteins were
+ analyzed by western blot. Furthermore, the expression of microRNA-22 (miR-22)
+ was detected by qRT-PCR. Altered expression of miR-22 and silenced
+ information regulator 1 (Sirt1) was achieved by transfection. The
+ relationship between miR-22 and Sirt1 was verified by luciferase assay. We
+ found that LEN promoted cell viability and decreased apoptosis which led to
+ the contrary results with what hypoxia induced. Moreover, LEN decreased the
+ ratio of Bax to Bcl-2 and the level of cleaved caspase-3, as well as
+ activated PI3K/AKT and beta-catenin. LEN decreased the expression of miR-22
+ which was upregulated by hypoxia. miR-22 overexpression broken the promoting
+ effects led by LEN. Moreover, Sirt1 was verified to be a target of miR-22.
+ Silence of Sirt1 led to the opposite results with LEN. In conclusion, LEN
+ relieved hypoxia-induced cellular injuries evidenced by increasing viability
+ and decreasing apoptosis via down-regulation of miR-22, which was accompanied
+ by activation of PI3K/AKT and beta-catenin pathways. Highlights Lentinan
+ alleviates hypoxia-induced injuries of PNCM and H9c2 cells; microRNA-22
+ expression is decreased by lentinan; Lentinan reduces hypoxia-induced injury
+ by microRNA-22 downregulation; Lentinan regulates PI3K/AKT and
+ Wnt/beta-catenin by regulation of microRNA-22/Sirt1.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Lentinan",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Sirtuin 1",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN22 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "37339-90-5",
+        name "Lentinan"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.5.1.-",
+        name "Sirtuin 1"
+      }
+    },
+    pmid 31581847,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

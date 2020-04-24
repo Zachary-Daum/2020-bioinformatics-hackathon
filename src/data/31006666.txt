@@ -1,0 +1,281 @@
+
+Pubmed-entry ::= {
+  pmid 31006666,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-146-5p promotes proliferation, migration and invasion
+ in lung cancer cells by targeting claudin-12."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun X",
+            affil str "Department of Outpatient (Tumor), The Affiliated
+ Hospital of Qingdao University (West Coast Branch), Qingdao, Shandong, China."
+          },
+          {
+            name ml "Cui S",
+            affil str "Department of Respiratory Medicine, The Affiliated
+ Hospital of Qingdao University (West Coast Branch), Qingdao, Shandong, China."
+          },
+          {
+            name ml "Fu X",
+            affil str "Department of Outpatient, The Affiliated Hospital of
+ Qingdao University (West Coast Branch), Qingdao, Shandong, China."
+          },
+          {
+            name ml "Liu C",
+            affil str "Department of Surgery, Qingdao West Coast New District
+ No.2 People's Hospital, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Wang Z",
+            affil str "Department of Pharmacy, The Affiliated Hospital of
+ Qingdao University (Shinan Branch), Qingdao, Shandong, China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Department of Cancer Comprehensive Therapy, The
+ Affiliated Hospital of Qingdao University (West Coast Branch), Qingdao,
+ Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cancer Biomark",
+          ml-jta "Cancer Biomark",
+          issn "1875-8592",
+          name "Cancer biomarkers : section A of Disease markers"
+        },
+        imp {
+          date std {
+            year 2019
+          },
+          volume "25",
+          issue "1",
+          pages "89-99",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31006666,
+        pii "CBM182374",
+        doi "10.3233/CBM-182374",
+        other {
+          db "ELocationID doi",
+          tag str "10.3233/CBM-182374"
+        }
+      }
+    },
+    abstract "MicroRNAs (miRNAs) have been regarded as important regulators in
+ different pathological processes of cells. Abnormal expression of miRNAs is
+ frequently associated with cell proliferation, metastasis and apoptosis in
+ various cancers. This study aimed to explore the effect of miR-146-5p on cell
+ growth, metastasis and its mechanism in lung cancer cells. The expressions of
+ miR-146-5p and claudin-12 in A549 and WI-38 cells were altered by transient
+ transfection. Cisplatin was used to develop cells for regulation of cisplatin
+ sensitivity. Cell viability, migration, invasion, and apoptosis were analyzed
+ by CCK-8, Transwell and flow cytometry assays. The protein expressions of
+ Wnt/beta-catenin and PI3K/AKT/MAPK pathway-related factors were detected.
+ miR-146-5p suppression inhibited cell viability, migration and invasion but
+ promoted apoptosis in A549 cells. Moreover, overexpression of miR-146-5p
+ reduced the sensitivity of A549 cells and WI-38 cells to cisplatin. In
+ addition, claudin-12 was a direct target of miR-146-5p and was negatively
+ regulated by miR-146-5p. Claudin-12 silence significantly reversed miR-146-5p
+ suppression-mediated anti-tumor effects in A549 cells. Furthermore,
+ miR-146-5p overexpression activated Wnt/beta-catenin and PI3K/AKT/MAPK signal
+ pathways via down-regulation of claudin-12. The results indicated that
+ miR-146-5p promoted cell viability, migration and invasion, inhibited
+ apoptosis and activated Wnt/beta-catenin and PI3K/AKT/MAPK signal pathways by
+ regulating claudin-12 expression in lung cancer cells.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cisplatin",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Claudins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CLDN12 protein, human"
+      },
+      {
+        type nameonly,
+        name "CTNNB1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Claudins"
+      },
+      {
+        type nameonly,
+        name "MIRN146 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type cas,
+        cit "Q20Q21Q62J",
+        name "Cisplatin"
+      }
+    },
+    pmid 31006666,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

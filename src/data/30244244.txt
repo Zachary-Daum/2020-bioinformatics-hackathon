@@ -1,0 +1,351 @@
+
+Pubmed-entry ::= {
+  pmid 30244244,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ligustrazine Inhibits Growth, Migration and Invasion of
+ Medulloblastoma Daoy Cells by Up-Regulation of miR-211."
+      },
+      authors {
+        names ml {
+          "Xu D",
+          "Chi G",
+          "Zhao C",
+          "Li D"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "49",
+          issue "5",
+          pages "2012-2021",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30244244,
+        pii "000493712",
+        doi "10.1159/000493712",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000493712"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Ligustrazine (LSZ) has been identified as an
+ antitumor agent against some types of cancers. Nevertheless, its ability to
+ inhibit growth, migration and invasion of medulloblastoma cells is still
+ unclear. This study aimed to explore the effect of LSZ on Daoy cells.
+ METHODS: The effects of LSZ on viability, proliferation, apoptosis,
+ migration, and invasion of Daoy cells were analyzed by CCK-8, BrdU, flow
+ cytometry and Transwell assays, respectively. The effect of LSZ on miR-211
+ expression was analyzed by qRT-PCR. miR-211 inhibitor transfection was
+ performed to suppress miR-211 expression. The effects of LSZ on
+ apoptosis-related factors, MMP-2, MMP-9, and Vimentin (Vim), as well as main
+ factors of PI3K/AKT and mTOR pathways were analyzed by Western blot. RESULTS:
+ LSZ inhibited viability but promoted apoptosis of Daoy cells. Additionally,
+ the proliferative, migratory and invasive abilities of Daoy cells were
+ decreased by LSZ. Meanwhile, LSZ promoted the activations of Caspase-3 and
+ Caspase-9, increased Bax level, decreased Bcl-2 level, as well as inhibited
+ the expressions of MMP-2, MMP-9 and Vim. Additionally, we found that LSZ
+ enhanced miR-211 expression and exerted its anti-medulloblastoma effect by
+ up-regulation of miR-211. Furthermore, LSZ inhibited PI3K/AKT and mTOR
+ signaling pathways by up-regulating miR-211. CONCLUSION: LSZ suppressed
+ medulloblastoma Daoy cells by up-regulating miR-211 and further modulating
+ the activations of PI3K/AKT and mTOR signaling pathways.",
+    mesh {
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cerebellar Neoplasms",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Matrix Metalloproteinase 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Medulloblastoma",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pyrazines",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Vasodilator Agents",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN211 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Pyrazines"
+      },
+      {
+        type nameonly,
+        name "Vasodilator Agents"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      },
+      {
+        type ec,
+        cit "3.4.24.24",
+        name "Matrix Metalloproteinase 2"
+      },
+      {
+        type cas,
+        cit "V80F4IA5XG",
+        name "tetramethylpyrazine"
+      }
+    },
+    pmid 30244244,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

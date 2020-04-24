@@ -1,0 +1,159 @@
+
+Pubmed-entry ::= {
+  pmid 30770559,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tetramethylpyrazine partially relieves hypoxia-caused damage of
+ cardiomyocytes H9c2 by downregulation of miR-449a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang X",
+            affil str "Department of Cardiology, Liaocheng People's Hospital,
+ Liaocheng, China."
+          },
+          {
+            name ml "Dong H",
+            affil str "Department of Cardiology, Liaocheng People's Hospital,
+ Liaocheng, China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Department of Cardiology, Liaocheng People's Hospital,
+ Liaocheng, China."
+          },
+          {
+            name ml "Han J",
+            affil str "Department of Cardiology, Heze Municipal Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Tang S",
+            affil str "Department of Cardiology, Heze Municipal Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Si J",
+            affil str "Department of Cardiovascular Surgery, Heze Municipal
+ Hospital, Heze, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2,
+            day 15
+          },
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 2
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30770559,
+        doi "10.1002/jcp.28151",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28151"
+        }
+      }
+    },
+    abstract "Inadequate oxygen supply is probably one of the most important
+ pathophysiological mechanisms of cardiomyocyte damage in ischemic heart
+ disease. Tetramethylpyrazine (TMP, also known as ligustrazine) is the main
+ active ingredient isolated from the rhizome of Ligusticum chuanxiong Hort. A
+ previous study reported that the TMP could exert cardioprotective activity.
+ This study aimed to explore the molecular mechanism of the protective effects
+ of TMP on cardiomyocyte damage caused by hypoxia. The viability and apoptosis
+ of cardiomyocytes H9c2 were detected using cell counting kit-8 assay and
+ annexin V-FITC/PI staining, respectively. Quantitative reverse transcription
+ polymerase chain reaction was conducted to measure the expression level of
+ microRNA-449a (miR-449a). Cell transfection was performed to upregulate the
+ expression level of miR-449a or downregulate the expression level of sirtuin
+ 1 (Sirt1). The protein expression levels of Sirt1 and key factors involved in
+ cell apoptosis and phosphatidylinositol 3-kinase/protein kinase 3 (PI3K/AKT)
+ pathway were evaluated using western blot analysis. We found that the hypoxia
+ incubation inhibited H9c2 viability, induced cell apoptosis, and inactivated
+ the PI3K/AKT pathway. TMP treatment partially relieved the hypoxia-caused
+ H9c2 cell viability loss and apoptosis, as well as reversed the
+ hypoxia-caused inactivation of the PI3K/AKT pathway. Moreover, TMP partially
+ alleviated the upregulation of miR-449a in H9c2 cells caused by hypoxia.
+ Overexpression of miR-449a weakened the effects of TMP on hypoxia-treated
+ H9c2 cells. Furthermore, Sirt1 was a target gene of miR-449a. Knockdown of
+ Sirt1 also weakened the effects of TMP on hypoxia-treated H9c2 cells. In
+ conclusion, TMP partially relieved hypoxia-caused cardiomyocytes H9c2
+ viability loss and apoptosis at least through downregulating miR-499a,
+ upregulating Sirt1, and then activating the PI3K/AKT pathway.",
+    pmid 30770559,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

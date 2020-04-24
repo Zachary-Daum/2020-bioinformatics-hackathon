@@ -1,0 +1,319 @@
+
+Pubmed-entry ::= {
+  pmid 30576641,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ligustrazine promoted hypoxia-treated cell growth by
+ upregulation of miR-135b in human umbilical vein endothelial cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wei S",
+            affil str "Operating Room, Jining No.1 People's Hospital, Jining
+ 272011, China; Affiliated Jining No.1 People's Hospital of Jining Medical
+ University, Jining Medical University, Jining 272067, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Operating Room, Jining No.1 People's Hospital, Jining
+ 272011, China; Affiliated Jining No.1 People's Hospital of Jining Medical
+ University, Jining Medical University, Jining 272067, China. Electronic
+ address: huiw0015@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "106",
+          pages "102-108",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30576641,
+        pii "S0014-4800(18)30416-7",
+        doi "10.1016/j.yexmp.2018.12.005",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30416-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2018.12.005"
+        }
+      }
+    },
+    abstract "BACKGROUND: Pressure ulcers are a kind of troublesome disease
+ which caused by long-term pressure and subsequently lead to tissue festering
+ necrosis because of sustained ischemia, hypoxia and malnutrition. In our
+ study, we used hypoxia to stimulate human umbilical vein endothelial cells
+ (HUVECs) to mimic pressure ulcers and investigated the effects of
+ Ligustrazine (Lig) with multi-activities on HUVECs. METHODS: HUVECs were
+ treated by hypoxia to induce cell injury. HUVECs were administrated with Lig
+ and/or transfected with miR-135b inhibitor or negative control. Cell
+ viability and cell apoptosis were detected by Cell Counting kit-8 assay and
+ flow cytometry, respectively. The protein expression of Cyclin D1 and p53,
+ the apoptosis-related proteins (Bcl-2, Bax, pro-/Cleaved-Caspas-3), and the
+ JNK/SAPK and PI3K/AKT/mTOR pathways related proteins was examined by western
+ blot. RESULTS: Hypoxia-induced injury presented by decreasing cell viability
+ and increasing cell apoptosis. Then Lig administration enhanced cell
+ viability and inhibited cell apoptosis. Importantly, miR-135b was upregulated
+ by the treatment of Lig. Further studies revealed that transfection with
+ miR-135b inhibitor led to the opposite result with decreasing cell viability
+ and increasing cell apoptosis. In addition, Lig increased the phosphorylation
+ of JNK, SAPK, PI3K, AKT and mTOR. CONCLUSION: Lig promoted hypoxia-treated
+ HUVECs cell growth as evidenced by increasing cell viability and reducing
+ cell apoptosis. This process might be modulated by upregulation of miR-135b
+ and subsequent activation of JNK/SAPK and PI3K/AKT/mTOR pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Cycle Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Drug Evaluation, Preclinical"
+      },
+      {
+        term "Human Umbilical Vein Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Molecular Structure"
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Pressure Ulcer",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Protein Processing, Post-Translational",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Pyrazines",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "Cell Cycle Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN135 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Pyrazines"
+      },
+      {
+        type cas,
+        cit "V80F4IA5XG",
+        name "tetramethylpyrazine"
+      }
+    },
+    pmid 30576641,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

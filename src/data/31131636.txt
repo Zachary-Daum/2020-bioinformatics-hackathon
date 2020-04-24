@@ -1,0 +1,298 @@
+
+Pubmed-entry ::= {
+  pmid 31131636,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Upregulation of long non-coding RNA OGFRP1 facilitates
+ endometrial cancer by regulating miR-124-3p/SIRT1 axis and by activating
+ PI3K/AKT/GSK-3beta pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lv Y",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          },
+          {
+            name ml "Chen S",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          },
+          {
+            name ml "Wu J",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          },
+          {
+            name ml "Lin R",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          },
+          {
+            name ml "Zhou L",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          },
+          {
+            name ml "Chen G",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          },
+          {
+            name ml "Chen H",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          },
+          {
+            name ml "Ke Y",
+            affil str "a Department of Gynaecology and Obstetrics, Second
+ Affiliated Hospital of Fujian Medical University , Quanzhou , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2083-2090",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31131636,
+        doi "10.1080/21691401.2019.1617727",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1617727"
+        }
+      }
+    },
+    abstract "We planned to investigate the possible influences of long
+ non-coding RNA (opioid growth factor receptor pseudogene 1) OGFRP1 in
+ endometrial cancer and its potential regulatory mechanism. We measured the
+ level of OGFRP1 in endometrial cancer tissues and evaluated the influences of
+ OGFRP1 dysregulation on the tumour cell biological processes of endometrial
+ cancer cells. Further, the regulatory relationships between OGFRP1 and
+ miR-124-3p, between miR-124-3p and Sirtuin1 (SIRT1) were, respectively,
+ investigated. The interaction between OGFRP1 dysregulation and activation of
+ PI3K/AKT/GSK-3beta pathway was revealed by Western blotting. OGFRP1 was
+ up-regulated in endometrial cancer tissues and cells. OGFRP1 suppression
+ inhibited the malignant behaviour (inhibited cell viability, promoted cell
+ apoptosis, and suppressed cell migration and invasion) of the Ishikawa cells
+ via negatively regulating miR-124-3p. SIRT1 was a target gene of miR-124-3p,
+ and miR-124-3p regulated tumour growth and metastasis by the down-stream
+ signal of SIRT1. Moreover, suppression of OGFRP1 restrained the activation of
+ PI3K/AKT/GSK-3beta signals in the Ishikawa cells via miR-124-3p/SIRT1 axis.
+ Our experiments revealed that upregulation of OGFRP1 may enhance the
+ progression of endometrial cancer by regulating miR-124-3p/SIRT1 axis and by
+ activating PI3K/AKT/GSK-3beta pathway. OGFRP1 may be of significance in
+ illustrating the biology of endometrial cancer.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Endometrial Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Glycogen Synthase Kinase 3 beta",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sirtuin 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN124 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Glycogen Synthase Kinase 3 beta"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.5.1.-",
+        name "Sirtuin 1"
+      }
+    },
+    pmid 31131636,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

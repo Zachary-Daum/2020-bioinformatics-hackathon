@@ -1,0 +1,302 @@
+
+Pubmed-entry ::= {
+  pmid 30946839,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Activation of KRas-ERK1/2 signaling drives the initiation and
+ progression of glioma by suppressing the acetylation of histone H4 at lysine
+ 16."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wei Y",
+            affil str "Department of Neurosurgery, Jining No.1 People's
+ Hospital, Jining 272011, China; Affiliated Jining NO.1 People's Hospital of
+ Jining Medical University, Jining Medical University, Jining 272067, China."
+          },
+          {
+            name ml "Wang F",
+            affil str "Department of Pathology, Jining No.1 People's Hospital,
+ Jining 272011, China."
+          },
+          {
+            name ml "Sang B",
+            affil str "Department of Neurosurgery, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Xu Z",
+            affil str "Department of Neurosurgery, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Yang D",
+            affil str "Department of Neurosurgery, Affiliated Hospital of
+ Jining Medical University, Jining 272000, China. Electronic address:
+ yangdongxu0040@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 5,
+            day 15
+          },
+          volume "225",
+          pages "55-63",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 12,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 31
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30946839,
+        pii "S0024-3205(19)30250-4",
+        doi "10.1016/j.lfs.2019.03.079",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)30250-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.03.079"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Acetylation of H4 at lysine 16 (H4K16ac) has
+ been well-characterized as an acetylated mark, and the expression of which is
+ closely associated with the tumorigenesis of human cancers. This study aimed
+ to reveal whether KRas mutation drives the initiation and progression of
+ glioma via modulation of H4 acetylation. METHODS: Changes of H4K16
+ acetylation in human glioblastoma A172 cells following transfection with a
+ plasmid for expression of mutant KRas were tested by western blot analysis.
+ MTT assay, transwell assay, soft-agar colony formation assay, RT-PCR and
+ chromatin immunoprecipitation were carried out to evaluate the effect of
+ H4K16ac on A172 cells growth and migration. Furthermore, the enzymes
+ participating in the deacetylation of H4K16ac were studied by using RT-PCR
+ and western blot analysis. RESULTS: H4K16ac was found to be deacetylated by
+ KRas-ERK1/2 activation. H4K16Q (a plasmid for mimicking H4K16ac) repressed
+ A172 cells viability, colony formation, and migratory capacity. Besides,
+ H4K16ac was capable of regulating the transcription of several ERK1/2 pathway
+ downstream genes. KRas-ERK1/2 signaling repressed H4 acetylation at K16 via
+ modulation of a histone deacetylase Sirt2, as well as a histone
+ acetyl-transferase TIP60. Moreover, KRas-ERK1/2 inhibited TIP60 via an
+ MDM2-dependnet fashion. CONCLUSION: Our results suggest that activation of
+ KRas-ERK1/2 signaling participates in the onset and progression of glioma at
+ least partially through modulating acetylation of H4 at K16. KRas-ERK1/2
+ signaling mediates the acetylation of H4K16 via Sirt2 and MDM2-dependnet
+ degeneration of TIP60.",
+    mesh {
+      {
+        term "Acetylation"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lysine",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 3",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein Processing, Post-Translational"
+      },
+      {
+        term "Proto-Oncogene Proteins p21(ras)",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Tumor Cells, Cultured"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type nameonly,
+        name "KRAS protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "MAPK1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 3"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "Proto-Oncogene Proteins p21(ras)"
+      },
+      {
+        type cas,
+        cit "K3Z4F929H6",
+        name "Lysine"
+      }
+    },
+    pmid 30946839,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

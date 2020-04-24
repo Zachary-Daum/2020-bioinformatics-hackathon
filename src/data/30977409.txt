@@ -1,0 +1,233 @@
+
+Pubmed-entry ::= {
+  pmid 30977409,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA SNHG16 reduces hydrogen peroxide-induced
+ cell injury in PC-12 cells by up-regulating microRNA-423-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu H",
+            affil str "a Department of Orthopedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Chen B",
+            affil str "b Department of Anesthesiology , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Zhu Q",
+            affil str "a Department of Orthopedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1444-1451",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30977409,
+        doi "10.1080/21691401.2019.1600530",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1600530"
+        }
+      }
+    },
+    abstract "Functions of long non-coding RNAs (lncRNAs) have been widely
+ probed in spinal cord injury (SCI). But, the influences of lncRNA-small
+ nucleolar RNA host gene 16 (lncRNA-SNHG16) is still not well documented in
+ SCI. The study explored the impacts of SNHG16 on H2O2-injured PC-12 cells.
+ PC-12 cells were disposed with H2O2, cell viability, apoptosis, autophagy and
+ ROS level were detected. RT-qPCR was executed to explore SNHG16 or miR-423-5p
+ expression in H2O2-stimulated cells. After transfection with pc-SNHG16 or
+ miR-423-5p inhibitor, the functions of SNHG16 and miR-423-5p in H2O2-injured
+ cells were studied. AMPK and ERK1/2 pathways were finally assessed by western
+ blot. We found that H2O2 evoked cell injury in PC-12 cells, and repressed
+ SNHG16 was observed in H2O2-disposed cells. Overexpressed SNHG16 prominently
+ alleviated H2O2-induced cell injury as indicated by repressing cell
+ apoptosis, autophagy and ROS level. Additionally, SNGH16 enhanced miR-423-5p
+ expression, and miR-423-5p inhibition abrogated the protective effect of
+ SNGH16 on H2O2-injured PC-12 cells. SNGH16 mediated AMPK and ERK1/2 pathways
+ via up-regulating miR-423-5p in H2O2-injured PC-12 cells. In conclusion,
+ these findings indicated that SNGH16 reduced H2O2-evoked cell injury by
+ mediating miR-423-5p in PC-12 cells. The findings might uncover the effect of
+ SNHG16 on SCI, which provide a new reference for remedying SCI. Highlights
+ H2O2 evokes cell injury in PC-12 cells; SNHG16 reduces H2O2-induced cell
+ injury in PC-12 cells; SNGH16 enhances miR-423-5p expression in
+ H2O2-stimulated PC-12 cells; MiR-423-5p inhibition abrogates the protective
+ effect of SNGH16 in PC-12 cells; SNGH16 mediates AMPK and ERK1/2 pathways by
+ up-regulating miR-423-5p.",
+    mesh {
+      {
+        term "AMP-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN423 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.11.31",
+        name "AMP-Activated Protein Kinases"
+      }
+    },
+    pmid 30977409,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

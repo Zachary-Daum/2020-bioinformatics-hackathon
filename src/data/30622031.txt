@@ -1,0 +1,319 @@
+
+Pubmed-entry ::= {
+  pmid 30622031,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notoginsenoside R1 up-regulates microRNA-132 to protect human
+ lung fibroblast MRC-5 cells from lipopolysaccharide-caused injury."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cong S",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining, Shandong 272011, China; Affiliated Jining No.1 People's
+ Hospital of Jining Medical University, Jining Medical University, Jining,
+ Shandong 272067, China."
+          },
+          {
+            name ml "Xiang L",
+            affil str "Department of Pathology, Jining No.1 People's Hospital,
+ Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Yuan X",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Bai D",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining, Shandong 272011, China. Electronic address:
+ zhangxuehua213@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3
+          },
+          volume "68",
+          pages "137-144",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30622031,
+        pii "S1567-5769(18)30855-5",
+        doi "10.1016/j.intimp.2018.12.065",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(18)30855-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2018.12.065"
+        }
+      }
+    },
+    abstract "BACKGROUND: Pneumonia is a common lung disease in children with
+ high fatality rate. Notoginsenoside R1 (NGR1) is the main active component
+ extracted from the roots of Panax notoginseng (Burk.) F.H. Chen (Araliaceae).
+ Here, we carefully explored the potential anti-inflammatory and protective
+ effects of NGR1 on lipopolysaccharide (LPS)-induced lung fibroblast MRC-5
+ cell injury. METHODS: Viability and apoptosis of MRC-5 cells after different
+ treatment or transfection were respectively assessed using CCK-8 assay and
+ Annexin V-FITC/PI staining. The expression levels of microRNA-132 (miR-132),
+ IL-1beta, IL-6 and TNF-alpha in MRC-5 cells were measured using qRT-PCR.
+ MicroRNA transfection was conducted to reduce the expression level of
+ miR-132. Western blotting was used to analyze the protein expression levels
+ of key factors involving in cell proliferation, apoptosis, NF-kappaB pathway
+ and JNK pathway. RESULTS: LPS treatment caused MRC-5 cell proliferation
+ inhibition, apoptosis and over-production of inflammatory cytokines. NGR1
+ treatment had no significant effects on MRC-5 cell proliferation, apoptosis
+ and production of inflammatory cytokines, but protected MRC-5 cells from
+ LPS-caused cell proliferation inhibition, apoptosis and over-production of
+ inflammatory cytokines. In addition, NGR1 increased the expression level of
+ miR-132 in MRC-5 cells. Knockdown of miR-132 reversed the protective effects
+ of NGR1 on LPS-treated MRC-5 cells. Furthermore, NGR1 attenuated
+ LPS-activated NF-kappaB and JNK pathways in MRC-5 cells via up-regulation of
+ miR-132. CONCLUSION: This research confirmed the protective roles of NGR1 in
+ lung fibroblast cell inflammatory injury. NGR1 protected MRC-5 cells from
+ LPS-caused inflammatory injury through up-regulating miR-132 and then
+ inactivating NF-kappaB and JNK pathways.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Fibroblasts",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN132 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "Z62692362Z",
+        name "notoginsenoside R1"
+      }
+    },
+    pmid 30622031,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

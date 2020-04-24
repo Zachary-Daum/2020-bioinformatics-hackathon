@@ -1,0 +1,377 @@
+
+Pubmed-entry ::= {
+  pmid 31629816,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Linc-ROR targets FGF2 to regulate HASMC proliferation and
+ migration via sponging miR-195-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ji Z",
+            affil str "Department of Cardiology, Shaoxing People's Hospital
+ (Shaoxing Hospital, Zhejiang University School of Medicine), Shaoxing 312000,
+ Zhejiang Province, China."
+          },
+          {
+            name ml "Chi J",
+            affil str "Department of Cardiology, Shaoxing People's Hospital
+ (Shaoxing Hospital, Zhejiang University School of Medicine), Shaoxing 312000,
+ Zhejiang Province, China."
+          },
+          {
+            name ml "Sun H",
+            affil str "Department of Clinical Laboratory Center, Shaoxing
+ People's Hospital (Shaoxing Hospital, Zhejiang University School of
+ Medicine), Shaoxing 312000, Zhejiang Province, China."
+          },
+          {
+            name ml "Ru A",
+            affil str "Department of Ultrasonography, The First People's
+ Hospital of Huzhou, Huzhou 313000, Zhejiang Province, China."
+          },
+          {
+            name ml "Ni T",
+            affil str "Zhejiang University School of Medicine, Zhejiang
+ University, Hangzhou 310058, Zhejiang Province, China. Electronic address:
+ 21718215@zju.edu.cn."
+          },
+          {
+            name ml "Zhang J",
+            affil str "The First Clinical Medical College, Wenzhou Medical
+ University, Wenzhou 325000, Zhejiang Province, China."
+          },
+          {
+            name ml "Jiang F",
+            affil str "Department of Cardiology, Zhejiang Integrated
+ Traditional and Western Medicine Hospital, Hangzhou 310000, Zhejiang
+ Province, China."
+          },
+          {
+            name ml "Lv H",
+            affil str "Department of Cardiology, Shaoxing People's Hospital
+ (Shaoxing Hospital, Zhejiang University School of Medicine), Shaoxing 312000,
+ Zhejiang Province, China."
+          },
+          {
+            name ml "Peng F",
+            affil str "Department of Cardiology, Shaoxing People's Hospital
+ (Shaoxing Hospital, Zhejiang University School of Medicine), Shaoxing 312000,
+ Zhejiang Province, China."
+          },
+          {
+            name ml "Guo H",
+            affil str "Department of Cardiology, Shaoxing People's Hospital
+ (Shaoxing Hospital, Zhejiang University School of Medicine), Shaoxing 312000,
+ Zhejiang Province, China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "Department of Pediatrics, Shaoxing People's Hospital
+ (Shaoxing Hospital, Zhejiang University School of Medicine), Shaoxing 312000,
+ Zhejiang Province, China. Electronic address: yichen_1986@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Gene",
+          ml-jta "Gene",
+          issn "1879-0038",
+          name "Gene"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1,
+            day 30
+          },
+          volume "725",
+          pages "144143",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 7,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31629816,
+        pii "S0378-1119(19)30802-9",
+        doi "10.1016/j.gene.2019.144143",
+        other {
+          db "ELocationID pii",
+          tag str "S0378-1119(19)30802-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.gene.2019.144143"
+        }
+      }
+    },
+    abstract "Atherosclerosis is a common cardiovascular disorder and is
+ characterized by damage of endothelial cells, cell inflammation,
+ hyper-proliferation of vascular smooth muscle cells and the accumulation of
+ extracellular lipids and fibrous tissues. In this study, we firstly examined
+ the expression level of long intergenic non-protein coding RNA, regulator of
+ reprogramming (linc-ROR) in homocysteine (Hcy)-stimulated human aortic smooth
+ muscle cells (HASMCs), and then looked into the potential molecular signaling
+ axis of linc-ROR in regulating the proliferation and migration of HASMCs. Hcy
+ promoted HASMC proliferation and up-regulated linc-ROR expression. Functional
+ studies showed that linc-ROR exerted enhanced actions on the proliferation
+ and migration of HASMCs. In addition, linc-ROR acted as a competing
+ endogenous RNA for miR-195-5p and repressed the miR-195-5p expression in
+ HASMCs. Linc-ROR was up-regulated the miR-195-3p was down-regulated in the
+ plasma from CAD patients when compared to normal controls. Furthermore,
+ fibroblast growth factor 2 (FGF2) was identified as a target of miR-195-5p
+ and was negatively regulated by miR-195-5p in HASMCs. The rescue experiments
+ revealed that linc-ROR-mediated HASMC proliferation and migration may be via
+ regulating miR-195-5p/FGF2 axis. Linc-ROR inhibition blocked the
+ miR-195-5p/FGF2 signaling in Hcy-treated HASMCs, and this effect may also
+ involve in the miR-195-5p/FGF2 axis. To summarize, the data of the present
+ study identified the up-regulation of linc-ROR in Hcy-stimulated HASMCs, and
+ further mechanistic functional studies revealed that linc-ROR promoted HASMC
+ proliferation and migration via regulating miR-195-5p/FGF2 axis. The present
+ study provided the novel actions of linc-ROR in regulating HASMC
+ proliferation and migration, which may be related to the pathophysiology of
+ atherosclerosis.",
+    mesh {
+      {
+        term "Aorta",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Atherosclerosis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Fibroblast Growth Factor 2",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Homocysteine",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Smooth Muscle",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Linc-RNA-RoR, human"
+      },
+      {
+        type nameonly,
+        name "MIRN195 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "0LVT1QZ0BA",
+        name "Homocysteine"
+      },
+      {
+        type cas,
+        cit "103107-01-3",
+        name "Fibroblast Growth Factor 2"
+      }
+    },
+    pmid 31629816,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

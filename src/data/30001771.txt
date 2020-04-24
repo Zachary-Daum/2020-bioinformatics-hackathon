@@ -1,0 +1,291 @@
+
+Pubmed-entry ::= {
+  pmid 30001771,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA DLEU1 contributes to the development of
+ endometrial cancer by sponging miR-490 to regulate SP1 expression."
+      },
+      authors {
+        names ml {
+          "Shao W",
+          "Li Y",
+          "Chen F",
+          "Jia H",
+          "Jia J",
+          "Fu Y"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pharmazie",
+          ml-jta "Pharmazie",
+          issn "0031-7144",
+          name "Die Pharmazie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7,
+            day 1
+          },
+          volume "73",
+          issue "7",
+          pages "379-385",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30001771,
+        doi "10.1691/ph.2018.8352",
+        other {
+          db "ELocationID doi",
+          tag str "10.1691/ph.2018.8352"
+        }
+      }
+    },
+    abstract "This study aimed to investigate the role of long non-coding RNA
+ DLEU1 in endometrial cancer (EC) development. The DLEU1 expression in EC
+ tissues and cells (HHUA, KLE, Ishikawa, and ECC-1) were detected. The
+ expression of DLEU1 was suppressed by transfection with sh-DLEU1 and the
+ effects of DLEU1 suppression on the malignant behaviors of Ishikawa cells,
+ including cell viability, apoptosis, migration and migration were then
+ detected. In addition, the interaction of DLEU1 and miR-490 as well as
+ between miR-490 and SP1 in EC were investigated. Furthermore, the regulatory
+ relationship between DLEU1 and PI3K/AKT/GSK-3beta pathway was explored. DLEU1
+ was upregulated in EC tissues and cells. Suppression of DLEU1 significantly
+ inhibited Ishikawa cell viability, promoted cell apoptosis, decreased BCL-2
+ expression and increased the expression of Bax, cleaved-caspase-3 and
+ cleaved-caspase-3, suppressed cell migration and invasion, and inhibited EMT
+ via increasing the expression of E-cadherin and decreasing the expression of
+ N-cadherin, Snail and Vimentin. In addition, DLEU1 could sponge miR-490 and
+ miR-490 inhibition significantly reversed the effects of DLEU1 suppression on
+ the malignant behaviors of Ishikawa cells. Furthermore, SP1 was verified as a
+ target of miR-490, and SP1 knockdown could reverse the effects of miR-490
+ inhibition on the malignant behaviors of Ishikawa cells. Besides, suppression
+ of DLEU1 inhibited PI3K/AKT/GSK-3beta pathway, while miR-490 inhibition
+ activated this pathway that could be neutralized by SP1 knockdown. Our
+ findings indicate that DLEU1 contributes to EC development by sponging
+ miR-490 to regulate SP1 expression. DLEU1/miR-490/SP1 axis may provide a new
+ strategy for EC therapy.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Endometrial Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Glycogen Synthase Kinase 3 beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sp1 Transcription Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Tumor Suppressor Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "DLEU1 protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN490 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Sp1 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "Sp1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Tumor Suppressor Proteins"
+      },
+      {
+        type ec,
+        cit "2.7.1.137",
+        name "Phosphatidylinositol 3-Kinase"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Glycogen Synthase Kinase 3 beta"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30001771,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

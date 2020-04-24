@@ -1,0 +1,381 @@
+
+Pubmed-entry ::= {
+  pmid 30300656,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Salidroside protects LPS-induced injury in human thyroid
+ follicular epithelial cells by upregulation of MiR-27a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tian F",
+            affil str "Department of Neuroendocrine Pediatrics, The Affiliated
+ Hospital of Qingdao University, Qingdao 266003, China."
+          },
+          {
+            name ml "Chen Z",
+            affil str "Department of Neuroendocrine Pediatrics, The Affiliated
+ Hospital of Qingdao University, Qingdao 266003, China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Neuroendocrine Pediatrics, The Affiliated
+ Hospital of Qingdao University, Qingdao 266003, China."
+          },
+          {
+            name ml "Jiang J",
+            affil str "Department of Pediatric Hematology, The Affiliated
+ Hospital of Qingdao University, Qingdao 266003, China."
+          },
+          {
+            name ml "Li T",
+            affil str "Department of Endocrinology Pediatrics, Qingdao Women
+ and Children's Hospital, Qingdao 266034, China. Electronic address:
+ litang213@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11,
+            day 15
+          },
+          volume "213",
+          pages "1-8",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 6
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 9,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 10,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30300656,
+        pii "S0024-3205(18)30623-4",
+        doi "10.1016/j.lfs.2018.10.006",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(18)30623-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2018.10.006"
+        }
+      }
+    },
+    abstract "AIMS: Hypothyroidism is a common endocrine disease without
+ standard treatment. Salidroside (SAL) has various positive biological
+ activities. In this study, experiments were performed to investigate whether
+ SAL had protective effects on LPS-induced cell inflammatory injury. MAIN
+ METHODS: The human thyroid follicular epithelial cells (Nthy-ori 3-1)
+ stimulated by LPS were treated with SAL and/or transfected with miR-27a
+ inhibitor. Cell viability and cell apoptosis were detect by Cell Counting
+ Kit-8 assay and flow cytometry, respectively. The expression of Cyclin D1 and
+ apoptosis-related proteins, Notch proteins and NF-kappaB pathways related
+ proteins were all measured by western blot. The expression of miR-27a and
+ inflammatory chemokines MCP-1, IL-6 and TNF-alpha was examined by qRT-PCR.
+ The protein weight of MCP-1, IL-6 and TNF-alpha was detected by ELISA. KEY
+ FINDINGS: LPS treatment induced cell injury by decreasing cell viability, and
+ inducing cell apoptosis and inflammatory chemokines MCP-1, IL-6 and
+ TNF-alpha. In addition, SAL alleviated LPS-induced cell injury by increasing
+ cell viability, and decreasing cell apoptosis and inflammatory chemokines
+ MCP-1, IL-6 and TNF-alpha. SAL upregulated miR-27a expression and further
+ study showed that miR-27a downregulation impaired the protective effects of
+ SAL. SAL downregulated the expression of Notch1/2, and phosphorylation of p65
+ and IkappaBalpha. SIGNIFICANCE: SAL protects against LPS-induced injury in
+ human thyroid follicular epithelial cells by upregulation of miR-27a. This
+ process might be via inactivating Notch and NF-kappaB pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chemokine CCL2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Thyroid Gland",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcriptional Activation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CCL2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Chemokine CCL2"
+      },
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "IL6 protein, human"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN27 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "M983H6N1S9",
+        name "rhodioloside"
+      }
+    },
+    pmid 30300656,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,310 @@
+
+Pubmed-entry ::= {
+  pmid 30970524,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Arbutin attenuates hydrogen peroxide-induced oxidative injury
+ through regulation of microRNA-29a in retinal ganglion cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao W",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University, 450052, China."
+          },
+          {
+            name ml "Wang S",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University, 450052, China."
+          },
+          {
+            name ml "Qin T",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University, 450052, China."
+          },
+          {
+            name ml "Wang W",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University, 450052, China. Electronic address:
+ wangwenzhan123@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "112",
+          pages "108729",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 2,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 2,
+                day 22
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30970524,
+        pii "S0753-3322(18)37845-4",
+        doi "10.1016/j.biopha.2019.108729",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)37845-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.108729"
+        }
+      }
+    },
+    abstract "BACKGROUND: Optic nerve injury is a severe complication of
+ traumatic brain injury, which may lead to permanent and potentially loss of
+ vision. Arbutin (ARB) is a natural hydroquinone glycoside, has been widely
+ utilized to treat pigmented disorders. However, the role of ARB in optic
+ nerve injury is still unclear. The study attempted to explore the effect of
+ ARB on H2O2-induced oxidative injury in RGCs. METHODS: RGCs were treated with
+ different concentrations of H2O2 to construct a cell oxidative injury model.
+ Subsequently, the effects of ARB on these injured cells were examined through
+ testing cell viability, apoptosis and their associated factors. MicroRNA-29a
+ (miR-29a) inhibitor was transfected into RGCs, and the regulatory effect of
+ miR-29a inhibition on H2O2-injured cells was detected. Further, the important
+ signaling pathways of MEK/ERK and p38MAPK were determined to uncover the
+ underlying mechanism. RESULTS: We firstly used H2O2 to induce RGCs injury,
+ and subsequent experiments found that ARB significantly alleviated
+ H2O2-induced cell injury in RGCs by promoting cell viability, reducing
+ apoptosis, and regulating the protein levels of cell growth-associated
+ factors. Increasing expression of miR-29a was observed in ARB and H2O2
+ treated cells. Moreover, miR-29a inhibition significantly abrogated the
+ protective effect of ARB on H2O2-injured RGCs. NRAS was predicated as a
+ direct target gene of miR-29a. Mechanistically, ARB blocked MEK/ERK and
+ p38MAPK pathways by up-regulating miR-29a. CONCLUSIONS: These data
+ demonstrated that ARB protected RGCs against oxidative injury induced by H2O2
+ through blocking MEK/ERK and p38MAPK signaling pathways by up-regulation of
+ miR-29a.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Arbutin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Optic Nerve Injuries",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Retinal Ganglion Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN29 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type cas,
+        cit "C5INA23HXF",
+        name "Arbutin"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30970524,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

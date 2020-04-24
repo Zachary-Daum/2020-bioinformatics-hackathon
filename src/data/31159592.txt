@@ -1,0 +1,334 @@
+
+Pubmed-entry ::= {
+  pmid 31159592,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of lncRNA GAS5 alleviates high glucose toxicity to human
+ renal tubular epithelial HK-2 cells through regulation of miR-27a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lv L",
+            affil str "a Department of Nephrology, Jining No.1 People's
+ Hospital , Jining , China.; b Affiliated Jining No.1 People's Hospital of
+ Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Li D",
+            affil str "c Department of Endocrinology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Tian F",
+            affil str "d Department of Nephrology, Jiaxiang County Medicine
+ Hospital , Jiaxiang , China."
+          },
+          {
+            name ml "Li X",
+            affil str "a Department of Nephrology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Jing Zhang",
+            affil str "c Department of Endocrinology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Yu X",
+            affil str "a Department of Nephrology, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2205-2212",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31159592,
+        doi "10.1080/21691401.2019.1616552",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1616552"
+        }
+      }
+    },
+    abstract "Renal tubular damage caused by persistent high glucose
+ environment has been found to contribute to diabetic nephropathy. This study
+ explored the effects of lncRNA growth arrest-specific 5 (GAS5) on high
+ glucose-stimulated human renal tubular epithelial HK-2 damage, as well as the
+ possible internal molecular mechanism. Viability and apoptosis of HK-2 cells
+ were assessed with the help of CCK-8 assay and Annexin V-FITC/PI staining,
+ respectively. Cell transfection was used to change the expression of GAS5,
+ miR-27a and BNIP3. We found that high glucose stimulation suppressed HK-2
+ cell viability but induced cell apoptosis. The expression of GAS5 was
+ increased in HK-2 cells under high glucose environment. Silence of GAS5
+ mitigated the high glucose-caused HK-2 cell viability reduction and
+ apoptosis. Overexpression of miR-27a reversed the effects of GAS5 on high
+ glucose-stimulated HK-2 cells. Overexpression of BNIP3 aggravated the high
+ glucose-caused HK-2 cell viability reduction, apoptosis and activation of JNK
+ pathway. Knockdown of BNIP3 had opposite effects. In conclusion, this
+ research further confirmed the pro-apoptotic roles of GAS5 in renal tubular
+ epithelial cells under high glucose environment. Silence of GAS5 alleviated
+ high glucose toxicity to human renal tubular epithelial HK-2 cells might be
+ via down-regulating miR-27a and BNIP3, and then inactivating JNK pathway.
+ Highlights HG suppresses HK-2 cell viability, but promotes cell apoptosis; HG
+ enhances the expression of GAS5 in HK-2 cells; Silence of GAS5 alleviates the
+ HG-caused HK-2 cell toxicity; miR-27a participates in the effects of GAS5
+ silencing on HG-stimulated HK-2 cells; BNIP3 is regulated by miR-27a and
+ related to the HG toxicity to HK-2 cells.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        mp TRUE,
+        term "Gene Silencing"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Kidney Tubules",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BNIP3 protein, human"
+      },
+      {
+        type nameonly,
+        name "GAS5 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN27 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      }
+    },
+    pmid 31159592,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

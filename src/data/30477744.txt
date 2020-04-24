@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 30477744,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA ANRIL contributes to the development of
+ ulcerative colitis by miR-323b-5p/TLR4/MyD88/NF-kappaB pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qiao C",
+            affil str "Department of Anorectal, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, 266003, China; School of First
+ Clinical Medicine, Nanjing University of Chinese Medicine, Nanjing, Jiangsu,
+ 210023, China."
+          },
+          {
+            name ml "Yang L",
+            affil str "School of First Clinical Medicine, Nanjing University
+ of Chinese Medicine, Nanjing, Jiangsu, 210023, China; Jingwen Library,
+ Nanjing University of Chinese Medicine, Nanjing, Jiangsu, China."
+          },
+          {
+            name ml "Wan J",
+            affil str "Department of High Pressure Oxygen, The Affiliated
+ Hospital of Qingdao University, Qingdao, Shandong, 266003, China."
+          },
+          {
+            name ml "Liu X",
+            affil str "Department of Obstetrics, Qingdao Women and Children's
+ Hospital, Qingdao, Shandong, 266000, China."
+          },
+          {
+            name ml "Pang C",
+            affil str "Department of Anorectal, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, 266003, China."
+          },
+          {
+            name ml "You W",
+            affil str "Department of Anorectal, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, 266003, China."
+          },
+          {
+            name ml "Zhao G",
+            affil str "Department of Anorectal, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, 266003, China. Electronic address:
+ gangzhao13@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biochem. Biophys. Res. Commun.",
+          ml-jta "Biochem Biophys Res Commun",
+          issn "1090-2104",
+          name "Biochemical and biophysical research communications"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1,
+            day 1
+          },
+          volume "508",
+          issue "1",
+          pages "217-224",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30477744,
+        pii "S0006-291X(18)32524-5",
+        doi "10.1016/j.bbrc.2018.11.100",
+        other {
+          db "ELocationID pii",
+          tag str "S0006-291X(18)32524-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bbrc.2018.11.100"
+        }
+      }
+    },
+    abstract "The aim of this study was to investigate the role and possible
+ mechanism of long noncoding RNA ANRIL in the development of ulcerative
+ colitis (UC). The expression of ANRIL in colonic mucosa tissues collected
+ from the sigmoid colon of UC patients and healthy control was determined.
+ Subsequently, fetal human cells (FHCs) were treated with lipopolysaccharide
+ (LPS) to stimulate UC-caused inflammatory injury, followed by detection of
+ the effects of suppression of ANRIL on cell viability, apoptosis and
+ cytokines production in LPS-stimulated FHCs. Moreover, the regulatory
+ relationship between ANRIL and miR-323b-5p as well as the target relationship
+ between miR-323b-5p and TLR4 were investigated. Furthermore, the effects of
+ ANRIL/miR-323b-5p axis on the activation of TLR4/MyD88/NF-kappaB pathway in
+ LPS-stimulated FHCs were investigated. LncRNA ANRIL was highly expressed in
+ colonic mucosa tissues of UC patients. In addition, LPS markedly induced cell
+ injury in FHC cells (inhibited cell viability and promoted cell apoptosis and
+ cytokine production). Suppression of ANRIL alleviated LPS-induced injury in
+ FHC cells, which was achieved by negatively regulating miR-323b-5p. Moreover,
+ miR-323b-5p negatively regulated TLR4 expression and TLR4 was a target of
+ miR-323b-5p. Knockdown of TLR4 reversed the effects of miR-323b-5p
+ suppression on LPS-induced injury in LPS-stimulated FHCs. Furthermore, the
+ effects of ANRIL on LPS-induced cell injury were achieved by
+ TLR4/MyD88/NF-kappaB pathway. Our data indicate that suppression of ANRIL may
+ inhibit the development of UC by regulating miR-323b-5p/TLR4/MyD88/NF-kappaB
+ pathway. ANRIL/miR-323b-5p/TLR4/MyD88/NF-kappaB pathway may provide a new
+ strategy for UC therapy.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Colitis, Ulcerative",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Myeloid Differentiation Factor 88",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Toll-Like Receptor 4",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN323 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MYD88 protein, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Myeloid Differentiation Factor 88"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Toll-Like Receptor 4"
+      }
+    },
+    pmid 30477744,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

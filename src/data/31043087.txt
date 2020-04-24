@@ -1,0 +1,336 @@
+
+Pubmed-entry ::= {
+  pmid 31043087,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "6-Gingerols (6G) reduces hypoxia-induced PC-12 cells apoptosis
+ and autophagy through regulation of miR-103/BNIP3."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kang C",
+            affil str "a Department of Neurology , China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Kang M",
+            affil str "b Department of Spine Surgery , The Second Hospital of
+ Jilin University , Changchun , China."
+          },
+          {
+            name ml "Han Y",
+            affil str "a Department of Neurology , China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Zhang T",
+            affil str "c Northeast Normal University , Changchun , China."
+          },
+          {
+            name ml "Quan W",
+            affil str "a Department of Neurology , China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Gao J",
+            affil str "d Department of Neurosurgery , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1653-1661",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31043087,
+        doi "10.1080/21691401.2019.1606010",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1606010"
+        }
+      }
+    },
+    abstract "Finding novel therapeutic agent for the treatment of cerebral
+ ischemia is urgently required. These experiments explored the potential roles
+ of 6-Gingerols (6G) in hypoxia-stimulated rat PC-12 cells. Cell viability,
+ apoptosis and its related proteins were studied by the approaches of MTT
+ assay, flow cytometry assay and Western blot analysis, respectively. In
+ addition, whether 6G achieved its functions in hypoxia-induced injury through
+ miR-103 was illustrated. Moreover, the associated signalling pathways were
+ investigated. Obviously, hypoxia treatment blocked cell viability and
+ enhanced apoptosis while this trend was ameliorated by 6G. Then we observed
+ that hypoxia administration up-regulated miR-103 expression and 6G could
+ further increase miR-103 expression in hypoxia-stimulated PC-12 cells.
+ Inhibition of miR-103 attenuated the neuroprotective effects of 6G on
+ hypoxia-treated PC-12 cells. Moreover, Bcl2/adenovirus EIB 19kD-interacting
+ protein 3 (BNIP3) was a target of miR-103 and BNIP3 upregulation also
+ attenuated the neuroprotective impact of 6G on hypoxia-treated PC-12 cells.
+ Hypoxia activated the p38MAPK and JNK pathways were inactivated by 6G. To sum
+ up, 6G protected hypoxia-stimulated PC-12 cells through miR-103-mediatated
+ down-regulation of BNIP3 by inhibiting p38 MAPK and JNK pathways. Highlights
+ 6-Gingerols (6G) is a promising agent for cerebral ischemia therapy. The
+ neuroprotective effects of 6G are mediated by miR-103 and BNIP3.
+ Up-regulation of miR-103 exerts neuroprotective effects.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Catechols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Fatty Alcohols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mitochondrial Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BNIP3 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Catechols"
+      },
+      {
+        type nameonly,
+        name "Fatty Alcohols"
+      },
+      {
+        type nameonly,
+        name "MIRN103 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mitochondrial Proteins"
+      },
+      {
+        type cas,
+        cit "925QK2Z900",
+        name "gingerol"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31043087,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

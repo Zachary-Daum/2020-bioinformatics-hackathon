@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 31241046,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown long non-coding RNA PEG10 inhibits proliferation,
+ migration and invasion of glioma cell line U251 by regulating miR-506."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liang J",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, China. xinhaibin0089@sina.com."
+          },
+          {
+            name ml "Liu N",
+            affil str "Department of Neurology, Anqiu People's Hospital,
+ Anqiu, China."
+          },
+          {
+            name ml "Xin H",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Gen. Physiol. Biophys.",
+          ml-jta "Gen Physiol Biophys",
+          issn "0231-5882",
+          name "General physiology and biophysics"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "38",
+          issue "4",
+          pages "295-304",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 5,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31241046,
+        doi "10.4149/gpb_2019018",
+        other {
+          db "ELocationID doi",
+          tag str "10.4149/gpb_2019018"
+        }
+      }
+    },
+    abstract "Glioma is a serious malignant tumor without effective therapies
+ till now. lncRNA PEG10 was reported to have some biological activities in
+ cancers. Hence, we explored the effects of PEG10 on the human glioma cell
+ line U251 cells. U251 cells were transfected with sh-PEG10 and/or miR-506
+ inhibitor. The expression of PEG10 and miR-506 was measured by qRT-PCR. Cell
+ viability, cell apoptosis, cell migration and invasion were detected by CCK-8
+ assay, flow cytometry and Transwell chamber assay, respectively. The cell
+ proliferation and apoptosis related p16, p53, Bcl-2, Bax, and
+ pro-/Cleaved-Caspase-3/9, migration and invasion related-protein: matrix
+ metalloproteinases MMP-2, MMP-9 and vimentin, and Raf/MEK/ERK and JAK1/STAT3
+ pathways-related proteins were accessed by Western blot. Transfection with
+ sh-PEG10 inhibited cell viability, migration and invasion, and increased cell
+ apoptosis. Meanwhile, PEG10 silence upregulated the expression of p16 and
+ p53, Bax, cleaved-Caspase-3/9 expression, and downregulated Bcl-2 expression.
+ PEG10 silence upregulated miR-506 expression. Co-transfection with sh-PEG10
+ and miR-506 inhibitor impaired the tumor suppressive effects. PEG10 knockdown
+ decreased the phosphorylation of Raf/MEK/ERK and JAK1/STAT3-related proteins
+ Raf, MEK, ERK, JAK1 and STAT3. PEG10 knockdown inhibited cell viability,
+ migration and invasion, induced cell apoptosis through miR-506 upregulation,
+ as well as inactivation of Raf/MEK/ERK and JAK1/STAT3 signal pathways.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN506 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "PEG10 protein, human"
+      },
+      {
+        type nameonly,
+        name "Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 31241046,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

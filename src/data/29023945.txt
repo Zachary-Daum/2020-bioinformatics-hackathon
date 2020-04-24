@@ -1,0 +1,283 @@
+
+Pubmed-entry ::= {
+  pmid 29023945,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-29a inhibits proliferation and motility of schwannoma
+ cells by targeting CDK6."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma J",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Li T",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Yuan H",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Han X",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Shui S",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Guo D",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Yan L",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "119",
+          issue "3",
+          pages "2617-2626",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29023945,
+        doi "10.1002/jcb.26426",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26426"
+        }
+      }
+    },
+    abstract "MicroRNA-29 (miR-29) family is involved in various types of
+ cancer regulation. Although miR-29 family was shown to play an inhibitory
+ role in tumorigenesis, the effect of miR-29a expression on schwannoma cells
+ still remains unclear. In this study, we aimed to explore the role of miR-29
+ family in schwannoma. The expressions of miR-29a, miR-29b, and miR-29c were
+ detected in the Schwann tissues and cell lines using qRT-PCR. The effect of
+ miR-29a, miR-29b, and miR-29c on cell viability, migration, invasion, and
+ apoptosis was tested. Then, the regulatory relationship between miR-29a and
+ CKD6 was detected using qRT-PCR, Western blot, and luciferase assay. Finally,
+ the phosphorylation levels of mainly factors in JNK and p38MAPK/ERK pathways
+ were analyzed by Western blot. The expression of miR-29a, miR-29b, and
+ miR-29c was downregulated in Schwann tissues and cell lines. Cell viability,
+ migration, invasion were decreased, while apoptosis was increased when
+ miR-29a, miR-29b, and miR-29c overexpression. We further found that miR-29a
+ negatively regulated expression of CDK6. Then, knockdown of miR-29a promoted
+ cell viability, migration, invasion, and inhibited apoptosis in schwannoma
+ cells by upregulating CDK6 expression. In addition, the overexpression of
+ miR-29a downregulated CDK6 expression by deactivation of JNK and p38MAPK/ERK
+ pathways. Our data suggested that miR-29a could play an important role in
+ inhibiting proliferation and motility of cancerous Schwann cells, and may
+ suppress tumor growth through upregulation of CDK6.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cyclin-Dependent Kinase 6",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neurilemmoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN29 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.11.22",
+        name "CDK6 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.22",
+        name "Cyclin-Dependent Kinase 6"
+      }
+    },
+    pmid 29023945,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

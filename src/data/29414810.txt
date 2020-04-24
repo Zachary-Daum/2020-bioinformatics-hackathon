@@ -1,0 +1,376 @@
+
+Pubmed-entry ::= {
+  pmid 29414810,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of Long Non-Coding RNA RP11-445H22.4 Alleviates
+ LPS-Induced Injuries by Regulation of MiR-301a in Osteoarthritis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun T",
+            affil str "Department of Orthopedics, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Yu J",
+            affil str "Department of Orthopedics, Heze Municipal Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Han L",
+            affil str "Department of Orthopedics, Affiliated Hospital of
+ Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Tian S",
+            affil str "Shandong Polytechnic College, Jining, China."
+          },
+          {
+            name ml "Xu B",
+            affil str "Department of Orthopedics, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Gong X",
+            affil str "Department of Orthopedics, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Zhao Q",
+            affil str "Department of Orthopedics, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "45",
+          issue "2",
+          pages "832-843",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29414810,
+        pii "000487175",
+        doi "10.1159/000487175",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000487175"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Several long non-coding RNAs (lncRNAs) play
+ vital roles in osteoarthritis (OA), whereas the role of lncRNA RP11-445H22.4
+ in OA remains unclear. The study aimed to investigate the effect of lncRNA
+ RP11-445H22.4 on lipopolysaccharide (LPS)-induced cell viability, apoptosis
+ and inflammatory injury of OA. METHODS: The expression of RP11-445H22.4,
+ miR-301a and CXCR4 in human cartilage ATDC5 cells were altered by
+ transfection, and then cells were exposed to 5 microg/ml LPS for 12 h. Then
+ cell viability, apoptosis, apoptosis-related factors and inflammatory
+ cytokines were analyzed by CCK-8, flow cytometry, western blot, RT-qPCR and
+ ELISA, respectively. Dual-luciferase reporter assay was performed to assess
+ the binging sites of RP11-445H22.4 and miR-301a. The signal pathways of
+ NF-kappaB and MAPK/ ERK were determined by western blot. RESULTS: LPS reduced
+ cell viability, increased apoptosis and stimulated release of IL-1beta, IL-6,
+ IL-8 and TNF-alpha. However, RP11-445H22.4 inhibition significantly rescued
+ LPS-induced injuries by promoting cell viability, suppressing apoptosis and
+ inflammatory cytokines secretions in ATDC5 cells. In addition, miR-301a
+ directly bound to RP11-445H22.4, and suppression of miR-301a inversed the
+ effects of RP11-445H22.4 inhibition. Furthermore, CXCR4 was a direct target
+ of miR-301a, and CXCR4 silencing increased cell viability, decreased
+ apoptosis and inflammatory cytokines secretions in LPS-treated ATDC5 cells.
+ Besides, we found that CXCR4 silencing blocked LPS-activated NF-kappaB and
+ MAPK/ERK pathways. CONCLUSIONS: The study indicated that lncRNA
+ RP11-445H22.4-miR-301a-CXCR4 axis played an important role in cartilage ATDC5
+ cells and provided a theoretical basis of lncRNA RP11-445H22.4 in OA.",
+    mesh {
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Enzyme-Linked Immunosorbent Assay"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-8",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, CXCR4",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Interleukin-8"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN301 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "Receptors, CXCR4"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      }
+    },
+    pmid 29414810,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,160 @@
+
+Pubmed-entry ::= {
+  pmid 31032946,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Carcinogenic role of K-Ras-ERK1/2 signaling in bladder cancer
+ via inhibition of H1.2 phosphorylation at T146."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fan L",
+            affil str "Department of Urology, China-Japan Union Hospital of
+ Jilin University, Changchun, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Urology, China-Japan Union Hospital of
+ Jilin University, Changchun, China."
+          },
+          {
+            name ml "Wang W",
+            affil str "Department of Urology, China-Japan Union Hospital of
+ Jilin University, Changchun, China."
+          },
+          {
+            name ml "Wei X",
+            affil str "Department of Urology, China-Japan Union Hospital of
+ Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11
+          },
+          volume "234",
+          issue "11",
+          pages "21135-21144",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31032946,
+        doi "10.1002/jcp.28716",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28716"
+        }
+      }
+    },
+    abstract "It has been reported that Ras-ERK signaling regulated tumor
+ suppressive genes via epigenetic mechanisms. Herein, we set out to
+ investigate the correlation between K-Ras-ERK1/2 signaling and H1.2
+ phosphorylation, to provide a better understanding of K-Ras-ERK signaling in
+ cancer. A plasmid for expression of mutated K-Ras was transfected into human
+ bladder carcinoma HT1197 cells. Western blot was carried out for testing the
+ expression changes of ERK1/2 and H1.2. The
+ 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide (MTT) assay,
+ soft-agar colony formation assay, and transwell assay were used to test the
+ effects of H1.2 phosphorylation at T146 (H1.2 (T146ph) ) on HT1197 cells
+ growth and migration. Quantitative reverse transcription polymerase chain
+ reaction (qRT-PCR) and chromatin immunoprecipitation (ChIP) were performed to
+ test whether H1.2 (T146ph) regulated K-Ras-ERK1/2 downstream genes.
+ Furthermore, how K-Ras-ERK1/2 regulated H1.2 (T146ph) expression was studied.
+ We found that the ERK1/2 was activated when K-Ras was mutated, and H1.2
+ (T146ph) expression was significantly downregulated by K-Ras mutation. H1.2
+ (T146E) for mimicking H1.2 (T146ph) significantly attenuated K-Ras mutation
+ induced increases in HT1197 cells viability, colony formation, and relative
+ migration. Besides, H1.2 (T146ph) regulated the transcription of K-Ras-ERK1/2
+ downstream genes, including NT5E, GDF15, CARD16, CYR61, IGFBP3, and WNT16B.
+ Furthermore, K-Ras-ERK1/2 signaling inhibited H1.2 phosphorylation at T146
+ through degradation of DNA-PK, and the degraded DNA-PK by K-Ras-ERK1/2
+ possibly via modulation of MDM2. In conclusion, the activation of
+ K-Ras-ERK1/2 signaling will repress the phosphorylation of H1.2 at T146, and
+ thereby, promoted the growth and migration of bladder cancer cells.
+ K-Ras-ERK1/2 signaling repressed H1.2 phosphorylation possibly by
+ MDM2-mediated degradation of DNA-PK.",
+    pmid 31032946,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

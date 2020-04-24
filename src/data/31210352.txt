@@ -1,0 +1,159 @@
+
+Pubmed-entry ::= {
+  pmid 31210352,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-132 protects H9c2 cells against oxygen and glucose
+ deprivation-evoked injury by targeting FOXO3A."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "Department of Neurosurgery, The Second Hospital of
+ Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Xu H",
+            affil str "Department of Cardiology, China-Japan Union Hospital of
+ Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Gong L",
+            affil str "Department of Cardiology, China-Japan Union Hospital of
+ Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Department of Cardiology, China-Japan Union Hospital of
+ Jilin University, Changchun, Jilin, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1
+          },
+          volume "235",
+          issue "1",
+          pages "176-184",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 5,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 5,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31210352,
+        doi "10.1002/jcp.28956",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28956"
+        }
+      }
+    },
+    abstract "Myocardial ischemia/reperfusion injury (MIRI) is a clinically
+ familiar disease, which possesses a great negative impact on human health.
+ But, the effective treatment is still absent. MicroRNAs (miRNAs) have been
+ testified to play a momentous role in MIRI. The purpose of the study aimed to
+ probe the functions of miR-132 in oxygen and glucose deprivation (OGD)-evoked
+ injury in H9c2 cells. miR-132 expression in H9c2 cells accompanied by OGD
+ disposition was evaluated via real-time quantitative polymerase chain
+ reaction. After miR-132 mimic and inhibitor transfections, the impacts of
+ miR-132 on OGD-affected H9c2 cell viability, apoptosis, cell cycle, and the
+ interrelated factors were appraised by exploiting cell counting kit-8, flow
+ cytometry, and western blot analysis. FOXO3A expression was estimated in
+ above-transfected cells, meanwhile, the correlation between miR-132 and
+ FOXO3A was probed by dual-luciferase report assay. Ultimately, above
+ mentioned cell processes were reassessed in H9c2 cells after preprocessing
+ OGD administration and transfection with si-FOXO3A and si-NC plasmids. We got
+ that OGD disposition obviously enhanced miR-132 expression in H9c2 cells.
+ Overexpressed miR-132 evidently reversed OGD-evoked cell viability repression
+ and apoptosis induction in H9c2 cells. In addition, overexpressed miR-132
+ mitigated OGD-evoked G0/G1 cell arrest by mediating p21, p27, and cyclin D1
+ expression. Repression of FOXO3A was observed in miR-132 mimic-transfected
+ cells, which was also predicated as a direct gene of miR-132. We discovered
+ that silenced FOXO3A alleviated OGD-evoked cell injury in H9c2 cells via
+ facilitating cell viability, hindering apoptosis and restraining cell arrest
+ at G0/G1 phase. In conclusion, these investigations corroborated that miR-132
+ exhibited the protective impacts on H9c2 cells against OGD-evoked injury via
+ targeting FOXO3A.",
+    pmid 31210352,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

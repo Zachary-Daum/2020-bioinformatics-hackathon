@@ -1,0 +1,324 @@
+
+Pubmed-entry ::= {
+  pmid 29768218,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-1247 inhibits lipopolysaccharides-induced acute
+ pneumonia in A549 cells via targeting CC chemokine ligand 16."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guo J",
+            affil str "Department of Laboratory Medicine, Weinan Hospital for
+ Maternal and Child Health Care, NO.114 Western Dongfeng Avenue, Weinan,
+ Shanxi 714000, China. Electronic address: jinjingguo29@sina.com."
+          },
+          {
+            name ml "Cheng Y",
+            affil str "Department of Pediatrics, Weinan Hospital for Maternal
+ and Child Health Care, Weinan, Shanxi 714000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "104",
+          pages "60-68",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29768218,
+        pii "S0753-3322(18)31125-9",
+        doi "10.1016/j.biopha.2018.05.012",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)31125-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.05.012"
+        }
+      }
+    },
+    abstract "OBJECTIVE: This study aimed to explore the potential roles and
+ mechanism of miR-1247 in lipopolysaccharides (LPS)-induced acute pneumonia.
+ MATERIALS AND METHODS: The miR-1247 expression in acute stage patients with
+ infantile pneumonia was detected. To establish the cell model of acute
+ pneumonia, A549 cells were treated with 1mg/mL lipopolysaccharides (LPS). The
+ effects of miR-1247 dysregulation on the cell viability, apoptosis,
+ inflammation and autophagy of LPS-induced A549 cells were investigated.
+ Moreover, the functional targets of miR-1247 were identified and the
+ regulatory relationships between miR-1247 and JNK or NF-kappaB pathways were
+ explored. RESULTS: The miR-1247 was lowly expressed in acute phage patients
+ with infantile pneumonia. In addition, LPS treatment significantly inhibited
+ A549cell viability, induced apoptosis, promoted the production of cytokines
+ and decreased autophagy, thus causing A549 cell injury. Moreover, miR-1247
+ was decreased expression after LPS treatment, and overexpression of miR-1247
+ alleviated LPS-induced A549 cell injury. Furthermore, CC chemokine ligand
+ (CCL) 16 was a functional target gene of miR-1247. Knockdown of CCL16
+ alleviated LPS-induced cell injury, and the combination of miR-1247
+ inhibition and CCL16 knockdown reversed the effects of CCL16 knockdown alone
+ on LPS-induced A549 cell injury. Besides, inhibition of miR-1247 activated
+ JNK and NF-kappaB pathways, while knockdown of CCL16 inhibited the activation
+ of these pathways. CONCLUSIONS: Our data reveals that miR-1247 is lowly
+ expressed in acute stage patients with infantile pneumonia. Overexpression of
+ miR-1247 may alleviate LPS-induced A549 cell injury through targeting CCL16.
+ JNK and NF-kappaB pathways may be key mechanisms to regulate the role of
+ miR-1247 in LPS-induced lung injury.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chemokines, CC",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Kinase 4",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Pneumonia",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CCL16 protein, human"
+      },
+      {
+        type nameonly,
+        name "Chemokines, CC"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN1247 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type ec,
+        cit "2.7.12.2",
+        name "MAP Kinase Kinase 4"
+      }
+    },
+    pmid 29768218,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

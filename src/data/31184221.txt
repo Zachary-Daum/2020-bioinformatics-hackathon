@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 31184221,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of lncRNA ANRIL represses cell growth and promotes
+ apoptosis in retinoblastoma cells through regulating miR-99a and c-Myc."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang X",
+            affil str "a Department of Ophthalmology, The First Affiliated
+ Hospital of Xinxiang Medical University , Weihui , China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "a Department of Ophthalmology, The First Affiliated
+ Hospital of Xinxiang Medical University , Weihui , China."
+          },
+          {
+            name ml "Han Y",
+            affil str "b Department of Ophthalmology, The Third Affiliated
+ Hospital of Xinxiang Medical University , Xinxiang , China."
+          },
+          {
+            name ml "Wang Q",
+            affil str "b Department of Ophthalmology, The Third Affiliated
+ Hospital of Xinxiang Medical University , Xinxiang , China."
+          },
+          {
+            name ml "Ren Y",
+            affil str "a Department of Ophthalmology, The First Affiliated
+ Hospital of Xinxiang Medical University , Weihui , China."
+          },
+          {
+            name ml "Wang B",
+            affil str "a Department of Ophthalmology, The First Affiliated
+ Hospital of Xinxiang Medical University , Weihui , China."
+          },
+          {
+            name ml "Hu J",
+            affil str "a Department of Ophthalmology, The First Affiliated
+ Hospital of Xinxiang Medical University , Weihui , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2265-2273",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31184221,
+        doi "10.1080/21691401.2019.1623229",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1623229"
+        }
+      }
+    },
+    abstract "Retinoblastoma is a rare cancer of the immature retina. This
+ study designed to see the function of the lncRNA ANRIL in retinoblastoma Y79
+ cells. ANRIL, miR-99a and c-Myc expression in Y79 cells was altered by
+ transfection and then trypan blue, transwell assay and flow cytometry were
+ carried out to evaluate the changes of cell phenotype. The connection between
+ ANRIL, miR-99a and c-Myc was measured by luciferase reporter assay and RNA
+ immunoprecipitation analysis. As a result, ANRIL expression was highly
+ expressed in human retinoblastoma tissue as relative to the adjacent
+ noncancerous tissues. ANRIL suppression inhibited Y79 cells viability,
+ migration, invasion, while promoted apoptosis. ANRIL negatively regulated
+ miR-99a by binding to miR-99a. Silence of miR-99a reversed the
+ ANRIL-knockdown effects on Y79 cells. miR-99a overexpression suppressed Y79
+ cell viability, migration, invasion, and enhanced apoptosis through
+ downregulating c-Myc. Meanwhile, we found that miR-99a inhibited JAK/STAT and
+ PI3K/AKT pathways. To conclude, it seems that ANRIL suppression inhibits cell
+ growth and metastasis in retinoblastoma Y79 cells by regulating miR-99a and
+ c-Myc.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Silencing"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Proto-Oncogene Proteins c-myc",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Retinoblastoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN99 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MYC protein, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-myc"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 31184221,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

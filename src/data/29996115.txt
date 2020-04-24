@@ -1,0 +1,232 @@
+
+Pubmed-entry ::= {
+  pmid 29996115,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Down-Regulation of MiR-150 Alleviates Inflammatory Injury
+ Induced by Interleukin 1 via Targeting Kruppel-Like Factor 2 in Human
+ Chondrogenic Cells."
+      },
+      authors {
+        names ml {
+          "Yang X",
+          "Zhang Q",
+          "Gao Z",
+          "Yu C",
+          "Zhang L"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "47",
+          issue "6",
+          pages "2579-2588",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29996115,
+        pii "000491654",
+        doi "10.1159/000491654",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000491654"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Interleukin-1 (IL-1) is known to be involved in
+ cartilage degeneration following joint injury or due to osteoarthritis. In
+ the present study, we explored the effects of miR-150 on IL-1-stimulated
+ human chondrogenic cells ATDC5. METHODS: ATDC5 cells were transfected with
+ the mimic, inhibitor or negative controls specific for miR-150, and
+ subsequently treated by IL-1. CCK8 assay, PI and FITC-conjugated Annexin V
+ double-staining, Western blot, qRT-PCR and ELISA assay were performed to
+ determine the changes of cell viability, apoptosis, and the release of
+ pro-inflammatory cytokines. Targeting relationship between miR-150 and KLF2
+ was detected by dual luciferase activity assay. RESULTS: IL-1 reduced cell
+ viability, induced apoptosis, and enhanced the expression and release of
+ pro-inflammatory cytokines (IL-6, IL-8 and TNF-alpha) in ATDC5 cells. IL-1
+ also increased the expression of miR-150. Suppression of miR-150 alleviated
+ IL-1-induced cell damage in ATDC5 cells, while overexpression of miR-150
+ resulted in an opposite impact. KLF2 was negatively regulated by miR-150, and
+ it was proved as a target gene of miR-150. KLF2 overexpression exhibited
+ protective actions in IL-1-injured ATDC5 cells, even if miR-150 was
+ suppressed in cell. Moreover, IL-1-induced activation of NF-kB and Notch
+ pathways was alleviated by KLF2 overexpression. CONCLUSIONS: Suppression of
+ miR-150 led to up-regulation of KLF2, which in turn protected ATDC5 cells
+ against IL-1-induced injury.",
+    mesh {
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-1",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Kruppel-Like Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interleukin-1"
+      },
+      {
+        type nameonly,
+        name "KLF2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Kruppel-Like Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "MIRN150 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      }
+    },
+    pmid 29996115,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

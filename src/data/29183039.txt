@@ -1,0 +1,427 @@
+
+Pubmed-entry ::= {
+  pmid 29183039,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MiR-146a Aggravates LPS-Induced Inflammatory Injury by Targeting
+ CXCR4 in the Articular Chondrocytes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun T",
+            affil str "Department of Orthopaedics, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Song H",
+            affil str "Department of Orthopaedics, Tengzhou Central People's
+ Hospital, Tengzhou, China."
+          },
+          {
+            name ml "Gao F",
+            affil str "Department of Orthopaedics, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Zhou G",
+            affil str "Department of Emergency, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Orthopaedics, Affiliated Hospital of
+ Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Chen Z",
+            affil str "Department of Orthopaedics, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Chen L",
+            affil str "Department of Orthopaedics, Affiliated Hospital of
+ Jining Medical University, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "44",
+          issue "4",
+          pages "1282-1294",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29183039,
+        pii "000485488",
+        doi "10.1159/000485488",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000485488"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Osteoarthritis (OA) as a degenerative disease
+ is a major problem in ageing populations. To better understand the molecular
+ mechanisms in the pathogenesis of OA, this study explored the role of
+ microRNA (miR)-146a in the articular chondrocytes. METHODS: The articular
+ chondrocyte line ATDC5 was used to simulate inflammatory injury by LPS
+ administration in vitro. Cell viability, apoptosis, mRNA expressions and
+ productions of inflammatory factors were assessed, respectively. Mir-146a and
+ Cxcr4 mRNA expressions were measured by qRT-PCR. Targeting effect of miR-146a
+ on Cxcr4 3'UTR was assessed by luciferase activity analysis. Protein
+ expression levels of CXCR4 and main factors in PI3K/AKT, Wnt/beta-catenin
+ signal pathways were measured by western blotting. RESULTS: LPS exposure
+ suppressed cell viability, prompted apoptosis of ATDC5 cells, and stimulated
+ expression and release of inflammatory factors. MiR-146a was upregulated in
+ LPS-induced cells. Overexpression of miR-146a further aggravated LPS-induced
+ inflammatory injury, while it was reduced after miR-146a was knocked down.
+ CXCR4 expression was negatively regulated by miR-146a. CXCR4 was a direct
+ target of miR-146a and thus involved in regulatory effect of miR-146a on the
+ injured chondrocytes, which was also related with phosphorylation levels of
+ PI3K/AKT and expressions of Wnt/beta-catenin signal factors. CONCLUSION:
+ miR-146a promoted inflammatory response of articular chondrocytes via
+ targeting CXCR4 and suppressing CXCR4 expression. Overexpression of CXCR4
+ could attenuate the inflammatory injury. Our findings provided novel evidence
+ which might be useful for further studies exploring therapeutic approaches
+ for OA via targeting miR-146a.",
+    mesh {
+      {
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Cartilage, Articular",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-8",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, CXCR4",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sequence Alignment"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "CXCR4 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Interleukin-8"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn146 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "Receptors, CXCR4"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type nameonly,
+        name "Wnt Proteins"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 29183039,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

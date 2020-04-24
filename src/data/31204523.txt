@@ -1,0 +1,209 @@
+
+Pubmed-entry ::= {
+  pmid 31204523,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of lncRNA MIAT protects ATDC5 cells against
+ lipopolysaccharides challenge via up-regulating miR-132."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li C",
+            affil str "a Orthopaedic Medical Center, The Second Hospital of
+ Jilin University , Changchun , China."
+          },
+          {
+            name ml "Pan S",
+            affil str "a Orthopaedic Medical Center, The Second Hospital of
+ Jilin University , Changchun , China."
+          },
+          {
+            name ml "Song Y",
+            affil str "b Changchun University of Chinese Medicine , Changchun
+ , China."
+          },
+          {
+            name ml "Li Y",
+            affil str "b Changchun University of Chinese Medicine , Changchun
+ , China."
+          },
+          {
+            name ml "Qu J",
+            affil str "a Orthopaedic Medical Center, The Second Hospital of
+ Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2521-2527",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31204523,
+        doi "10.1080/21691401.2019.1626410",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1626410"
+        }
+      }
+    },
+    abstract "The over-expanding role of lncRNA myocardial infarction
+ associated transcript (MIAT) in various human diseases has been recently
+ revealed. This study attempted to see the role of MIAT in a cell model of
+ osteoarthritis (OA). ATDC5 cells were subjected to lipopolysaccharides (LPS)
+ to mimic a cell model of OA. The effects of MIAT on the model were tested by
+ performing CCK-8 assay, flow cytometry, qRT-PCR, western blot and ELISA. The
+ downstream miRNA and signalling pathways were studied by utilizing qRT-PCR
+ and western blot. Transfection of ATDC5 cells with the shRNA specific against
+ MIAT significantly attenuated LPS-evoked apoptosis and cytokines release. At
+ the meantime, the viability loss and the cleavage of caspases were
+ ameliorated as well. MIAT overexpressed lead to the opposite result. Further,
+ miR-132 was found to be negatively regulated by MIAT. The protective effects
+ of MIAT silence were flattened when miR-132 expression was suppressed.
+ Besides that the inhibitory effects of MIAT silence on LPS-evoked NF-kappaB
+ and JNK activation were eliminated by miR-132 silence. This study illustrated
+ that silence of MIAT protected ATDC5 cells against LPS challenge. The
+ chondroprotective effects of MIAT silence may be via up-regulation of miR-132
+ and inhibition of NF-kappaB and JNK pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        mp TRUE,
+        term "Gene Silencing"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN132 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "Miat long non-coding RNA"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 31204523,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,358 @@
+
+Pubmed-entry ::= {
+  pmid 29669307,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA NEAT1 plays an important role in
+ sepsis-induced acute kidney injury by targeting miR-204 and modulating the
+ NF-kappaB pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen Y",
+            affil str "Department of Critical Care Medicine, The Fifth People
+'s Hospital of Dongguan, Dongguan Hospital Affiliated to Medical College of
+ Jinan University, Dongguan 523900, China."
+          },
+          {
+            name ml "Qiu J",
+            affil str "Department of Critical Care Medicine, Medical College
+ of Jinan University, Jinan, Guangzhou 510000, China."
+          },
+          {
+            name ml "Chen B",
+            affil str "Department of Critical Care Medicine, The Fifth People
+'s Hospital of Dongguan, Dongguan Hospital Affiliated to Medical College of
+ Jinan University, Dongguan 523900, China."
+          },
+          {
+            name ml "Lin Y",
+            affil str "Department of Critical Care Medicine, The Fifth People
+'s Hospital of Dongguan, Dongguan Hospital Affiliated to Medical College of
+ Jinan University, Dongguan 523900, China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "Department of Critical Care Medicine, The Fifth People
+'s Hospital of Dongguan, Dongguan Hospital Affiliated to Medical College of
+ Jinan University, Dongguan 523900, China."
+          },
+          {
+            name ml "Xie G",
+            affil str "Department of Critical Care Medicine, The Fifth People
+'s Hospital of Dongguan, Dongguan Hospital Affiliated to Medical College of
+ Jinan University, Dongguan 523900, China."
+          },
+          {
+            name ml "Qiu J",
+            affil str "Department of ICU, General Hospital of Guangzhou
+ Military Command, Key Laboratory of Tropical Zone Trauma Care and Tissue
+ Repair of PLA, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Tong H",
+            affil str "Department of ICU, General Hospital of Guangzhou
+ Military Command, Key Laboratory of Tropical Zone Trauma Care and Tissue
+ Repair of PLA, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Jiang D",
+            affil str "Department of Critical Care Medicine, The Fifth People
+'s Hospital of Dongguan, Dongguan Hospital Affiliated to Medical College of
+ Jinan University, Dongguan 523900, China. Electronic address:
+ dongxinjiang66@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "59",
+          pages "252-260",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29669307,
+        pii "S1567-5769(18)30126-7",
+        doi "10.1016/j.intimp.2018.03.023",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(18)30126-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2018.03.023"
+        }
+      }
+    },
+    abstract "This study aimed to explore the role of long non-coding RNA
+ NEAT1 in sepsis-induced acute kidney injury (AKI). The expression levels of
+ NEAT1 in sepsis-induced AKI patients were detected. The rat mesangial cells
+ (RMCs) were treated with lipopolysaccharide (LPS) to induce cell injury.
+ Then, the effects of NEAT1 suppression on the cell viability, apoptosis,
+ cytokines expression, and oxidative stress in the LPS-stimulated RMCs were
+ tested. The regulatory miRNA of NEAT1, as well as the target genes of this
+ miRNA, were investigated. Moreover, the regulatory relationship between NEAT1
+ and the NF-kappaB pathway was explored. The results demonstrated that NEAT1
+ was significantly upregulated in the sepsis-induced AKI patients. Moreover,
+ the upregulation of NEAT1 was associated with the serious degrees of AKI in
+ sepsis patients. In addition, the suppression of NEAT1 alleviated LPS-induced
+ injury in RMCs. MiR-204 was negatively regulated by NEAT1. Suppression of
+ NEAT1 alleviated LPS-induced injury by overexpression of miR-204. Moreover,
+ IL-6R was a target of miR-204, and the effects of the suppression of NEAT1 on
+ LPS-induced cell injury were caused by inactivating the NF-kappaB pathway. In
+ conclusion, upregulation of NEAT1 may aggravate the LPS-induced injury by
+ targeting miR-204 and activating the NF-kappaB pathway. NEAT1 may serve as an
+ important diagnostic marker and therapeutic target in sepsis-induced AKI.",
+    mesh {
+      {
+        term "Acute Kidney Injury",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Sepsis",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Superoxides",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN204 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NEAT1 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "11062-77-4",
+        name "Superoxides"
+      },
+      {
+        type cas,
+        cit "31C4KY9ESH",
+        name "Nitric Oxide"
+      }
+    },
+    pmid 29669307,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

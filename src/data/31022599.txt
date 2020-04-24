@@ -1,0 +1,274 @@
+
+Pubmed-entry ::= {
+  pmid 31022599,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Kaempferol protects lipopolysaccharide-induced inflammatory
+ injury in human aortic endothelial cells (HAECs) by regulation of miR-203."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cui S",
+            affil str "Hypertension Department, Henan Provincial People's
+ Hospital, Zhengzhou, 450003, China."
+          },
+          {
+            name ml "Tang J",
+            affil str "Department of Cardiology, The Second Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, 450000, China."
+          },
+          {
+            name ml "Wang S",
+            affil str "Hypertension Department, Henan Provincial People's
+ Hospital, Zhengzhou, 450003, China."
+          },
+          {
+            name ml "Li L",
+            affil str "Hypertension Department, Henan Provincial People's
+ Hospital, Zhengzhou, 450003, China. Electronic address: liling0045@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "115",
+          pages "108888",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 12,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 4,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31022599,
+        pii "S0753-3322(18)38758-4",
+        doi "10.1016/j.biopha.2019.108888",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)38758-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.108888"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Hypertension is a common public health problem
+ due to its high morbidity and potential risk, which is related to
+ inflammatory actions. Kaempferol (KAE) has anti-inflammation activities.
+ Herein, we explored the effects of KAE on LPS-induced inflammatory injury in
+ human aortic endothelial cells (HAECs). METHODS: HAECs were treated with KAE
+ before stimulated with LPS or AngII. After miR-203 inhibitor transfection,
+ cell viability and apoptosis were detected by CCK-8 and flow cytometry. The
+ accumulated levels of apoptotic proteins, nuclear factor kappaB (NF-kappaB)
+ and mitogen-activated protein kinase (MAPK) pathways related proteins, MyD88
+ and toll-like receptor 4 (TLR4) were both determined by western blot. The
+ concentrations of interleukin-6 (IL-6) and tumor necrosis factor alpha
+ (TNF-alpha) were detected by ELISA. Expression of miR-203 was analyzed by
+ qRT-PCR. The target of miR-203 was achieved by luciferase assay. RESULTS: LPS
+ successfully induced inflammatory injury as evidenced by decreasing cell
+ viability, increasing apoptosis, and also increasing IL-6, TNF-alpha
+ concentrations. The apoptotic proteins p53 and cleaved-Caspase-3 were both
+ upregulated while Bcl-2 was downregulated. Moreover, LPS activated NF-kappaB
+ and MAPK pathways. However KAE reversed the results led by LPS. KAE increased
+ miR-203 expression in LPS or AngII-disposed HAECs. More experiments revealed
+ that transfection with miR-203 inhibitor impaired the
+ inflammation-alleviating effects of KAE. MyD88 and TLR4 were predicated as a
+ target of miR-203, which might be implicated in the protective functions of
+ KAE on HAECs. CONCLUSION: KAE exerted the protective impacts on HAECs against
+ inflammatory injury through inactivation of NF-kappaB and MAPK pathways, as
+ well as upregulation of miR-203.",
+    mesh {
+      {
+        term "Aorta",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          }
+        }
+      },
+      {
+        term "Kaempferols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Kaempferols"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN203 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "731P2LE49E",
+        name "kaempferol"
+      }
+    },
+    pmid 31022599,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

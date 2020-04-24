@@ -1,0 +1,233 @@
+
+Pubmed-entry ::= {
+  pmid 30074264,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-136 promotes lipopolysaccharide-induced ATDC5 cell
+ injury and inflammatory cytokine expression by targeting myeloid cell
+ leukemia 1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Kong D",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "119",
+          issue "11",
+          pages "9316-9326",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30074264,
+        doi "10.1002/jcb.27208",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27208"
+        }
+      }
+    },
+    abstract "Osteoarthritis is the most frequent chronic bone and joint
+ diseases in older populations all over the world. Lipopolysaccharide
+ (LPS)-induced murine chondrogenic ATDC5 cell model has been widely used for
+ testing new osteoarthritis therapeutic targets. This study aimed to explore
+ the effects of microRNA-136 (miR-136) on LPS-induced ATDC5 cell injury and
+ inflammatory cytokine expression, as well as underlying potential mechanism.
+ We found that LPS remarkably inhibited ATDC5 cell viability, induced ATDC5
+ cell apoptosis, and upregulated the expression of inflammatory cytokines,
+ including interleukin 1beta (IL-1beta), IL-6, IL-8, and tumor necrosis factor
+ alpha (TNF-alpha; P < .01 or  < .001). Moreover, LPS obviously upregulated
+ the expression of miR-136 in ATDC5 cells (P < .05). Overexpression of miR-136
+ markedly exacerbated the LPS-induced ATDC5 cell viability inhibition, cell
+ apoptosis enhancement, and inflammatory cytokine expression (P < .05), and
+ suppression of miR-136 had opposite effects (P < .05). Myeloid cell leukemia
+ 1 (Mcl-1) was a direct target gene of miR-136, which participated in the
+ effect of miR-136 on LPS-induced ATDC5 cell inflammatory injury.
+ Overexpression of Mcl-1 alleviated the LPS-induced inactivation of
+ Wnt/beta-catenin and Janus kinase/signal transducer and activator of
+ transcription (JAK/STAT) signaling pathways, while suppression of Mcl-1 had
+ opposite effects. To conclude, this study verified that miR-136 promoted
+ LPS-induced ATDC5 cell injury and inflammatory cytokine expression by
+ targeting Mcl-1, and Mcl-1 was involved in the regulatory effects of LPS on
+ Wnt/beta-catenin and JAK/STAT signaling pathways in ATDC5 cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reverse Transcriptase Polymerase Chain Reaction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      }
+    },
+    pmid 30074264,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

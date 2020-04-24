@@ -1,0 +1,303 @@
+
+Pubmed-entry ::= {
+  pmid 31220946,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Overexpression of lncRNA ANRIL aggravated hydrogen
+ peroxide-disposed injury in PC-12 cells via inhibiting miR-499a/PDCD4
+ axis-mediated PI3K/Akt/mTOR/p70S6K pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guo Z",
+            affil str "a Department of Orthopedic, The 89 Hospital of Chinese
+ PLA , Weifang , China."
+          },
+          {
+            name ml "Li L",
+            affil str "b Clinic Medical College, Weifang Medical University ,
+ Weifang , China."
+          },
+          {
+            name ml "Gao Y",
+            affil str "b Clinic Medical College, Weifang Medical University ,
+ Weifang , China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "b Clinic Medical College, Weifang Medical University ,
+ Weifang , China."
+          },
+          {
+            name ml "Cheng M",
+            affil str "b Clinic Medical College, Weifang Medical University ,
+ Weifang , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2624-2633",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31220946,
+        doi "10.1080/21691401.2019.1629953",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1629953"
+        }
+      }
+    },
+    abstract "Spinal cord injury (SCI) is a grievous neurology-related
+ disorder that causes many devastating symptoms. This research planned to dig
+ the function and latent mechanisms of long noncoding RNA (lncRNA) ANRIL on
+ hydrogen peroxide (H2O2)-disposed injury in PC-12 cells. The PC-12 cells were
+ disposed with H2O2 for 24 h to construct the SCI model. H2O2-disposed PC-12
+ cells was assessed by detecting cell viability, migration, invasion,
+ apoptosis and autophagy. The level of ANRIL in H2O2-disposed PC-12 cells was
+ analysed, afterwards, the impacts of ANRIL silencing on H2O2-disposed PC-12
+ cell injury was determined. The regulatory association between ANRIL and
+ miR-499a, between miR-499a and PDCD4, as well as PDCD4 and
+ PI3K/Akt/mTOR/p70S6K signals were investigated. H2O2 produced PC-12 cell
+ injury and promoted the level of ANRIL. Silencing of ANRIL inhibited
+ H2O2-disposed PC-12 cell injury through promoting cell viability, migration,
+ invasion and inhibiting apoptosis and autophagy. Moreover, miR-499a was
+ upregulated after silencing of ANRIL, and inhibition of miR-499a reversed the
+ effects of silencing of ANRIL on H2O2-disposed PC-12 cell injury. Also, PDCD4
+ was a target of miR-499a. Furthermore, ANRIL silencing alleviated the
+ H2O2-disposed injury in PC-12 cells possible by activating
+ PI3K/Akt/mTOR/p70S6K signals, which was mediated by miR-499a/PDCD4 axis. Our
+ results indicate that high level of ANRIL may sharpen the degree of SCI via
+ targeting miR-499a/PDCD4 axis to regulate the briskness of
+ PI3K/Akt/mTOR/p70S6K signals.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Ribosomal Protein S6 Kinases, 70-kDa",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN499 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Pdcd4 protein, rat"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Ribosomal Protein S6 Kinases, 70-kDa"
+      }
+    },
+    pmid 31220946,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

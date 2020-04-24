@@ -1,0 +1,273 @@
+
+Pubmed-entry ::= {
+  pmid 30784907,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sinomenine inhibits proliferation, migration, invasion and
+ promotes apoptosis of prostate cancer cells by regulation of miR-23a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu F",
+            affil str "Department of Urology, The First Affiliated Hospital of
+ Zhengzhou University, Zhengzhou, 450052, Henan, China."
+          },
+          {
+            name ml "Li Q",
+            affil str "Department of Urology, The First Affiliated Hospital of
+ Zhengzhou University, Zhengzhou, 450052, Henan, China."
+          },
+          {
+            name ml "Wang Z",
+            affil str "Department of Urology, The First Affiliated Hospital of
+ Zhengzhou University, Zhengzhou, 450052, Henan, China."
+          },
+          {
+            name ml "Cao X",
+            affil str "Department of Urology, The First Affiliated Hospital of
+ Zhengzhou University, Zhengzhou, 450052, Henan, China. Electronic address:
+ xiangming0035@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "112",
+          pages "108592",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 12,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30784907,
+        pii "S0753-3322(18)37190-7",
+        doi "10.1016/j.biopha.2019.01.053",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)37190-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.01.053"
+        }
+      }
+    },
+    abstract "Background Prostate cancer is an extremely common disease in
+ males, and the mortality of prostate cancer has been rising year by year.
+ Sinomenine has been reported to exhibit anti-tumor effect on various cancers,
+ but the function of Sinomenine in prostate cancer remains unclear. The study
+ aimed to explore the effect of Sinomenine on proliferation, apoptosis,
+ migration and invasion in prostate cancer cells. Methods PC3 cells were
+ stimulated by different concentrations of Sinomenine, then cell
+ proliferation, migration, invasion and apoptosis were examined by CCK-8,
+ BrdU, Transwell and flow cytometry, respectively. Subsequently, miR-23a mimic
+ and miR-23a inhibitor were transfected into PC3 and LNCaP cells, cell
+ proliferation, apoptosis, migration and invasion were reassessed in these
+ transfected cells. The related factors of cell cycle, apoptosis, metastasis
+ and PI3K/AKT and JAK/STAT signal pathways were measured by western blot.
+ Results Sinomenine significantly suppressed cell proliferation, promoted
+ apoptosis and inhibited migration and invasion, as well as down-regulated
+ Cyclin D1, CDK4, Bcl-2, MMP-2, MMP-9, Vimentin protein levels and
+ up-regulated p16 and Bax protein levels in PC3 cells. Additionally,
+ Sinomenine decreased the expression level of miR-23a, and overexpression of
+ miR-23a reversed the effects of Sinomenine on cell proliferation, apoptosis,
+ migration and invasion in PC3 and LNCaP cells. Further, Sinomenine
+ inactivated PI3K/AKT and JAK/STAT signal pathways by regulation of miR-23a.
+ Conclusions The data suggested that Sinomenine could suppress cell
+ proliferation, migration, invasion, and promote apoptosis of prostate cancer
+ cells through regulation of miR-23a. These findings might provide a possible
+ strategy for the clinical treatment of prostate cancer.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Morphinans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN23 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Morphinans"
+      },
+      {
+        type cas,
+        cit "63LT81K70N",
+        name "sinomenine"
+      }
+    },
+    pmid 30784907,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,261 @@
+
+Pubmed-entry ::= {
+  pmid 29791590,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "lncRNA CCAT1 promotes cell proliferation, migration, and
+ invasion by down-regulation of miR-143 in FTC-133 thyroid carcinoma cell line."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang T",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, Shandong, China."
+          },
+          {
+            name ml "Zhai H",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, Shandong, China."
+          },
+          {
+            name ml "Yan R",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, Shandong, China."
+          },
+          {
+            name ml "Zhou Z",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, Shandong, China."
+          },
+          {
+            name ml "Gao L",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, Shandong, China."
+          },
+          {
+            name ml "Wang L",
+            affil str "Department of Radioimmunoassay, Liaocheng People's
+ Hospital, Liaocheng, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "6",
+          pages "e7046",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 16
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29791590,
+        pii "S0100-879X2018000600615",
+        doi "10.1590/1414-431x20187046",
+        other {
+          db "pmc",
+          tag str "PMC6002139"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000600615"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431x20187046"
+        }
+      }
+    },
+    abstract "Thyroid cancer is a common malignant tumor. Long non-coding RNA
+ colon cancer-associated transcript 1 (lncRNA CCAT1) is highly expressed in
+ many cancers; however, the molecular mechanism of CCAT1 in thyroid cancer
+ remains unclear. Hence, this study aimed to investigate the effect of CCAT1
+ on human thyroid cancer cell line FTC-133. FTC-133 cells were transfected
+ with CCAT1 expressing vector, CCAT1 shRNA, miR-143 mimic, and miR-143
+ inhibitor, respectively. After different treatments, cell viability,
+ proliferation, migration, invasion, and apoptosis were measured. Moreover,
+ the regulatory relationship of CCAT1 and miR-143, as well as miR-143 and VEGF
+ were tested using dual-luciferase reporter assay. The relative expressions of
+ CCAT1, miR-143, and VEGF were tested by qRT-PCR. The expressions of
+ apoptosis-related factors and corresponding proteins in PI3K/AKT and MAPK
+ pathways were analyzed using western blot analysis. The results suggested
+ that CCAT1 was up-regulated in the FTC-133 cells. CCAT1 suppression decreased
+ FTC-133 cell viability, proliferation, migration, invasion, and miR-143
+ expression, while it increased apoptosis and VEGF expression. CCAT1 might act
+ as a competing endogenous RNA (ceRNA) for miR-143. Moreover, CCAT1 activated
+ PI3K/AKT and MAPK signaling pathways through inhibition of miR-143. This
+ study demonstrated that CCAT1 exhibited pro-proliferative and pro-metastasis
+ functions on FTC-133 cells and activated PI3K/AKT and MAPK signaling pathways
+ via down-regulation of miR-143. These findings will provide a possible target
+ for clinical treatment of thyroid cancer.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Thyroid Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CCAT1 long noncoding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN143 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 29791590,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

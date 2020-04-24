@@ -1,0 +1,117 @@
+
+Pubmed-entry ::= {
+  pmid 31905030,
+  medent {
+    em std {
+      year 2020,
+      month 1,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Anti-antioxidant impacts of circZNF609 silence in HaCaT cells
+ through regulating miR-145."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ge R",
+            affil str "Department of Galactophore, Linyi Central Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Gao G",
+            affil str "Department of Galactophore, Linyi Central Hospital,
+ Linyi, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 12
+          },
+          volume "48",
+          issue "1",
+          pages "384-392",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31905030,
+        doi "10.1080/21691401.2019.1709863",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1709863"
+        }
+      }
+    },
+    abstract "Background: CircZNF609 (cZNF609) is previously revealed as an
+ essential mediator in oxidative stress. This paper determined the role of
+ cZNF609 in skin oxidative damage to evaluate its importance in pressure
+ ulcer.Methods: HaCaT cells treated by H2O2 were considered as a cell model of
+ pressure ulcer. The role of cZNF609 in the model was checked by conducting
+ CCK-8 assay, FITC-PI double-staining, ROS detection and Western blot. The
+ downstream gene and signalling of cZNF609 were studied by utilizing qRT-PCR
+ and Western blot.Results: HaCaT cells were remarkably damaged by H2O2, as
+ evidenced by the viability loss, apoptosis and ROS generation. It was coupled
+ with the elevated expression of p53, p16, Bax and the activated forms of
+ caspase-3 and PARP. Meanwhile, cZNF609 was high-expressed in response to
+ H2O2. The oxidative stress driven by H2O2 was alleviated by transfection with
+ cZNF609 specific siRNA. Further, the anti-antioxidant impacts of cZNF609
+ silence were impeded by miR-145 silence. The inhibition of JNK and p38MAPK
+ pathways induced by cZNF609 silence was impeded by miR-145
+ silence.Conclusion: The protective function of cZNF609 silence in
+ H2O2-injured HaCaT cells was revealed in vitro. Silence of cZNF609 exhibited
+ its impact possibly through regulating miR-145, and JNK and p38MAPK pathways.",
+    pmid 31905030,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,272 @@
+
+Pubmed-entry ::= {
+  pmid 29523223,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of Long Noncoding RNA CAT104 Inhibits the
+ Proliferation, Migration, and Invasion of Human Osteosarcoma Cells by
+ Regulating MicroRNA-381."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xia B",
+            affil str "Department of Emergency Trauma Surgery, Jining No. 1
+ People's Hospital, Jining, Shandong, P.R. China."
+          },
+          {
+            name ml "Wang L",
+            affil str "Second Department of Orthopedics, The Second Affiliated
+ Hospital of Shandong University of Traditional Chinese Medicine, Jinan,
+ Shandong, P.R. China."
+          },
+          {
+            name ml "Feng L",
+            affil str "Department of Emergency Trauma Surgery, Jining No. 1
+ People's Hospital, Jining, Shandong, P.R. China."
+          },
+          {
+            name ml "Tian B",
+            affil str "Department of Emergency Trauma Surgery, Jining No. 1
+ People's Hospital, Jining, Shandong, P.R. China."
+          },
+          {
+            name ml "Tan Y",
+            affil str "Department of Cardiology, Weihai Hospital of
+ Traditional Chinese Medicine, Weihai, Shandong, P.R. China."
+          },
+          {
+            name ml "Du B",
+            affil str "Department of Emergency Trauma Surgery, Jining No. 1
+ People's Hospital, Jining, Shandong, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12,
+            day 27
+          },
+          volume "27",
+          issue "1",
+          pages "89-98",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29523223,
+        doi "10.3727/096504018X15199511344806",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504018X15199511344806"
+        }
+      }
+    },
+    abstract "Osteosarcoma is the most common primary malignant bone tumor in
+ children and adolescents. This study aimed to explore the effects of long
+ noncoding RNA CAT104 and microRNA-381 (miR-381) on osteosarcoma cell
+ proliferation, migration, invasion, and apoptosis, as well as the underlying
+ potential mechanism. We found that CAT104 was highly expressed in
+ osteosarcoma MG63 and OS-732 cells. Knockdown of CAT104 significantly
+ inhibited OS-732 cell proliferation, migration, and invasion, but promoted
+ cell apoptosis. CAT104 regulated the expression of miR-381, and miR-381
+ participated in the effects of CAT104 on OS-732 cells. Zinc finger
+ E-box-binding homeobox 1 (ZEB1) was a direct target gene of miR-381, which
+ was involved in the regulatory roles of miR-381 in OS-732 cell proliferation,
+ migration, invasion, and apoptosis, as well as c-Jun N-terminal kinase (JNK)
+ and Wnt/beta-catenin pathways. In conclusion, our research verified that
+ suppression of CAT104 exerted significant inhibitory effects on osteosarcoma
+ cell proliferation, migration, and invasion by regulating the expression of
+ miR-381 and downstream ZEB1, as well as JNK and Wnt/beta-catenin pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Zinc Finger E-box-Binding Homeobox 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN381 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "ZEB1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Zinc Finger E-box-Binding Homeobox 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 29523223,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

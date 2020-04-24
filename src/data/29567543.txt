@@ -1,0 +1,278 @@
+
+Pubmed-entry ::= {
+  pmid 29567543,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragalus polysaccharide protects hypoxia-induced injury by
+ up-regulation of miR-138 in rat neural stem cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zheng Z",
+            affil str "Department of Children Rehabilitation, Jining No. 1
+ People's Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Zhao B",
+            affil str "Department of Children Rehabilitation, Jining No. 1
+ People's Hospital, Jining, 272011, Shandong, China. Electronic address:
+ Lucinviti9406010@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "102",
+          pages "295-301",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29567543,
+        pii "S0753-3322(17)36503-4",
+        doi "10.1016/j.biopha.2018.03.040",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36503-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.03.040"
+        }
+      }
+    },
+    abstract "Astragalus polysaccharide (APS) is the main active ingredient of
+ astragalus and exhibits various pharmacological effects. This study aimed to
+ investigate the effect of APS on hypoxia-induced injury in neural stem cells
+ (NSCs). The NSCs derived from the hippocampus of rat were subjected to
+ hypoxia incubator to establish a hypoxia model. NSCs were pretreated with APS
+ before hypoxia injury to investigate the effect of APS. The expression of
+ miR-138 was inhibited by transfection with miR-138 inhibitor and the miR-138
+ level was measured by qRT-PCR. Cell viability and apoptotic cell rates were
+ respectively assessed by CCK-8 assay and flow cytometry assay. Western blot
+ was performed to determine the expression of apoptosis-, JNK pathway- and
+ p38MAPK pathway-related factors. Hypoxia exposure caused the reduction of
+ cell viability and induction of cell apoptosis of NSCs. However, APS
+ pretreatment attenuated the cell injury induced by hypoxia, as evidenced by
+ increased cell viability, reduced apoptotic cells, inhibited expression of
+ pro-apoptotic factors and enhanced expression of anti-apoptotic factor.
+ Interestingly, higher miR-138 expression was observed in the hypoxia-injured
+ NSCs compared with normoxia, and miR-138 expression was further up-regulated
+ by APS pretreatment. Furthermore, miR-138 inhibitor blocked the protective
+ effect of APS on hypoxia-injured NSCs. In addition, we found that APS
+ inhibited the JNK and p38MAPK pathways through miR-138. In conclusion, this
+ study demonstrated a protective effect of APS on hypoxia-induced NSC injury.
+ The regulatory mechanism might be mediated by up-regulation of miR-138 and
+ inhibition of the JNK and p38MAPK pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Astragalus Plant",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Hippocampus",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "embryology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neural Stem Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neuroprotective Agents",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Primary Cell Culture"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN138 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neuroprotective Agents"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      }
+    },
+    pmid 29567543,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

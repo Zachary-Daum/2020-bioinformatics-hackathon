@@ -1,0 +1,270 @@
+
+Pubmed-entry ::= {
+  pmid 30550887,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA PMS2L2 protects ATDC5 chondrocytes against
+ lipopolysaccharide-induced inflammatory injury by sponging miR-203."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X",
+            affil str "Department of Orthopedics, Affiliated Hospital of
+ Jining Medical University, Jining 272029, China."
+          },
+          {
+            name ml "Yu M",
+            affil str "Department of Trauma Reconstruction, Shandong Wendeng
+ Orthopaedic & Traumatic Hospital, Wendeng 264400, China."
+          },
+          {
+            name ml "Chen L",
+            affil str "Department of Orthopedics, Affiliated Hospital of
+ Jining Medical University, Jining 272029, China."
+          },
+          {
+            name ml "Sun T",
+            affil str "Department of Orthopedics, Jining No. 1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Department of Orthopedics, Affiliated Hospital of
+ Jining Medical University, Jining 272029, China."
+          },
+          {
+            name ml "Zhao L",
+            affil str "Department of Orthopedics, Jining No. 1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Zhao Q",
+            affil str "Department of Orthopedics, Jining No. 1 People's
+ Hospital, Jining 272011, China. Electronic address: zhaoq014@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1,
+            day 15
+          },
+          volume "217",
+          pages "283-292",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30550887,
+        pii "S0024-3205(18)30803-8",
+        doi "10.1016/j.lfs.2018.12.020",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(18)30803-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2018.12.020"
+        }
+      }
+    },
+    abstract "AIMS: PMS1 Homolog 2, Mismatch Repair System Component
+ Pseudogene 2 (PMS2L2) has been reported as an up-regulated long non-coding
+ RNA (lncRNA) in osteoarthritis (OA) tissues. The purpose of the present work
+ is to explore whether the differently expressed PMS2L2 is associated with the
+ pathogenesis of OA. MAIN METHODS: Chondrogenic ATDC5 cells were exposed to
+ various doses of lipopolysaccharide (LPS). The expression of PMS2L2, miR-203,
+ and MCL-1 in cell was altered by transfection. Thereafter, cell viability,
+ apoptosis, the expression changes of apoptosis-related factors and the
+ release of pro-inflammatory factors were respectively assessed. Moreover, the
+ regulatory relationship between PMS2L2 and miR-203, as well as between
+ miR-203 and MCL-1 were studied. KEY FINDINGS: PMS2L2 expression was
+ down-regulated following LPS stimulation. PMS2L2 protected ATDC5 cells
+ against LPS-induced injury by increasing cell viability, decreasing
+ apoptosis, and repressing the release of pro-inflammatory factors. Meanwhile,
+ PMS2L2 increased the expression levels of COL2A1 and ACAN, while
+ down-regulated the expression levels of MMP13 and ADAMTS-5. PMS2L2 worked as
+ a molecular sponge for miR-203. Besides, miR-203 overexpression partially
+ abolished the chondroprotective effects of PMS2L2. MCL-1 was a direct target
+ of miR-203, and it exerted the similarly chondroprotective effects as PMS2L2.
+ Furthermore, PMS2L2 and MCL-1 blocked Wnt/beta-Catenin and JAK/STAT signaling
+ pathways also via a miR-203-dependent manner. SIGNIFICANCE: Our study reveals
+ a protective role of PMS2L2 in LPS-induced inflammatory injury in
+ chondrocytes. PMS2L2/miR-203/MCL-1 axis may serve as a new gene therapy
+ strategy for the treatment of OA.",
+    mesh {
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN203 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30550887,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

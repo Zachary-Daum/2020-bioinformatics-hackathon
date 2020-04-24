@@ -1,0 +1,121 @@
+
+Pubmed-entry ::= {
+  pmid 31852247,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PHD2 acts as an oncogene through activation of Ras/Raf/MEK/ERK
+ and JAK1/STAT3 pathways in human hepatocellular carcinoma cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guo J",
+            affil str "Department of Trauma Emergency, Huaihe Hospital, Henan
+ University, Kaifeng, China."
+          },
+          {
+            name ml "Lan Z",
+            affil str "Department of Colorectal and Anal Surgery, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 12
+          },
+          volume "48",
+          issue "1",
+          pages "37-45",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31852247,
+        doi "10.1080/21691401.2019.1699806",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1699806"
+        }
+      }
+    },
+    abstract "Background: Prolyl hydroxylase domain proteins (PHD2) is an
+ oxygen sensor that is able to induce hypoxia-inducible factor-alpha
+ (HIF-alpha) degradation under normoxic condition. The present paper designed
+ to reveal the function of PHD2 in hepatocellular carcinoma (HCC) cells
+ proliferation, migration and invasion.Methods: qRT-PCR and Western blot were
+ carried out to see the expression of PHD2 in HCC tissues and cell lines. PHD2
+ expression in Huh7 and HepG3B cells was overexpressed or suppressed by
+ transfection and then the changes of cell proliferation, migration and
+ invasion were detected by CCK-8 assay, transwell assay and Western
+ blot.Results: PHD2 was highly expressed in HCC tissues and cell lines (Huh7,
+ Hep3B, SK-HEP-1, HCCLM3 and MHCC97) as relative to para-cancerous non-tumour
+ tissues and a normal hepatocyte line MIHA. PHD2 overexpression promoted Huh7
+ and Hep3B cells viability, migration and invasion. Meanwhile, CyclinD1,
+ c-Myc, MMP-2, MMP-9 and Vimentin were up-regulated, while p53 was
+ down-regulated by PHD2 overexpression. PHD2 silence led to a contrary impact.
+ Further, PHD2 overexpression up-regulated Ras and Raf expression and induced
+ phosphorylation of MEK, ERK, JAK1 and STAT3.Conclusion: PHD2 exhibited
+ pro-tumour functions in HCC cells. PHD2 promoted HCC possibly through
+ Ras/Raf/MEK/ERK and JAK1/STAT3 pathways.HighlightsPHD2 is highly expressed in
+ HCC tissue and cell lines;PHD2 promotes the proliferation of Huh7 and HepG3B
+ cells;PHD2 enhances Huh7 and HepG3B cells migration and invasion;PHD2
+ activates Ras/Raf/MEK/ERK and JAK1/STAT3 signalling.",
+    pmid 31852247,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

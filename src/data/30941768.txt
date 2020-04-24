@@ -1,0 +1,158 @@
+
+Pubmed-entry ::= {
+  pmid 30941768,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA PEG10 facilitates bladder cancer cells
+ proliferation, migration, and invasion via repressing microRNA-29b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liang T",
+            affil str "Cancer Center, The First Hospital of Jilin University,
+ Changchun, Jilin, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Urology, China-Japan Union Hospital of
+ Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Urology, China-Japan Union Hospital of
+ Jilin University, Changchun, Jilin, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11
+          },
+          volume "234",
+          issue "11",
+          pages "19740-19749",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30941768,
+        doi "10.1002/jcp.28574",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28574"
+        }
+      }
+    },
+    abstract "Long noncoding RNA paternally expressed gene 10 (lncRNA PEG10)
+ has been certified to regulate cell proliferation, metastasis, and apoptosis
+ in diversified cancer cells. Nevertheless, the functions of PEG10 in bladder
+ cancer cells remain uninvestigated. We tried to probe the impacts of PEG10 on
+ proliferation, migration, and invasion of bladder cancer cells. PEG10
+ expression in SV-HUC-1, T24, RT4, and 253J-BV cells was estimated by
+ quantitative reverse transcription-polymerase chain reaction (RT-qPCR). After
+ pc-PEG10 or sh-PEG10 transfection, the impacts of PEG10 on T24 and 253J-BV
+ cell viability, migration, invasion, and the relevant proteins were disclosed
+ via employing CCK-8, Transwell, and western blot. The relevancy between
+ miR-29b and PEG10 was probed, and the influences of overexpressed miR-29b in
+ above-mentioned cell biological processes were reassessed. Wnt/beta-catenin
+ and JNK pathways were ultimately analyzed to unmake the underling mechanism.
+ We found that overexpressed PEG10 facilitated cell viability and upregulated
+ CyclinD1, CDK4, and CDK6 in T24 and 253J-BV cells. Cell migration and
+ invasion were also elevated by overexpressed PEG10 through the enhancement of
+ MMP-2, MMP-9, and Vimentin. In addition, repressed miR-29b was observed in
+ PEG10-overexpressed T24 and 253J-BV cells. Moreover, overexpressed miR-29b
+ overtly overturned the carcinogenic impacts of PEG10 on T24 cells. The
+ activations of Wnt/beta-catenin and JNK pathways were enhanced by
+ overexpressed PEG10 via mediating miR-29b. SP600125 (JNK inhibitor)
+ disposition reversed the acceerative impacts of PEG10 on cell proliferation,
+ migration, and invasion in T24 cells. In conclusion, the investigations
+ testified that PEG10 gave play to the carcinogenic impacts on bladder cancer
+ cells via mediating miR-29b-Wnt/beta-catenin-JNK axis.",
+    pmid 30941768,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

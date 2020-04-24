@@ -1,0 +1,314 @@
+
+Pubmed-entry ::= {
+  pmid 30551524,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA RMRP upregulation aggravates myocardial
+ ischemia-reperfusion injury by sponging miR-206 to target ATG3 expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kong F",
+            affil str "Postdoctoral Station, Heilongjiang University of
+ Chinese Medicine, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Jin J",
+            affil str "The First Department of Cardiovascular, First
+ Affiliated Hospital, Heilongjiang University of Chinese Medicine, Harbin,
+ Heilongjiang, China. Electronic address: zhimingtian02@126.com."
+          },
+          {
+            name ml "Lv X",
+            affil str "Postdoctoral Station, Heilongjiang University of
+ Chinese Medicine, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Han Y",
+            affil str "The First Department of Cardiovascular, First
+ Affiliated Hospital, Heilongjiang University of Chinese Medicine, Harbin,
+ Heilongjiang, China."
+          },
+          {
+            name ml "Liang X",
+            affil str "Medical Morphology Lab, Experiment Training Center of
+ Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Gao Y",
+            affil str "Department of Chinese Herbal Formula, Basic Medical
+ Science College of Heilongjiang University of Chinese Medicine, Harbin,
+ Heilongjiang, China."
+          },
+          {
+            name ml "Duan X",
+            affil str "Department of Experimental and Practical Teaching,
+ Medical Information Engineering of Heilongjiang University of Chinese
+ Medicine, Harbin, Heilongjiang, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "109",
+          pages "716-725",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 7,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 10,
+                day 14
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30551524,
+        pii "S0753-3322(18)31454-9",
+        doi "10.1016/j.biopha.2018.10.079",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)31454-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.10.079"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Coronary heart disease is a common cause of death and
+ disability worldwide and mainly results from myocardial ischemia-reperfusion
+ (I/R) injury. This study aimed to elucidate the roles and possible mechanism
+ of long noncoding RNA Component Of Mitochondrial RNA Processing
+ Endoribonuclease (RMRP) in protecting against ischemic myocardial injury.
+ MATERIAL AND METHODS: The H9c2 cardiomyocytes were cultured under hypoxia
+ condition to induce myocardial injury. The RMRP expression under hypoxia
+ condition was determined, followed by investigation of the effects of RMRP
+ dysregulation on hypoxia-induced injury in H9c2 cells. In addition, the
+ regulatory relationship between RMRP and miR-206 was detected, and the
+ potential target of miR-206 was identified. Besides, the association of RMRP
+ and activation of PI3K/AKT/mTOR signaling pathway was explored. Furthermore,
+ an in vivo rat model of myocardial I/R injury was established by subjection
+ to 60 min ischemia and subsequently 24 h reperfusion for validation of the
+ role of RMRP in regulating myocardial I/R injury in vivo. RESULTS: The
+ results showed that overexpression of RMRP aggravated hypoxia-induced injury
+ in H9c2 cells. Moreover, miR-206 was negatively regulated by RMRP and
+ overexpression of RMRP aggravated hypoxia injury by downregulation of
+ miR-206. Furthermore, ATG3 was a target of miR-206, and he effects of miR-206
+ on hypoxia injury were through targeting ATG3. Besides, overexpression of
+ RMRP activated PI3K/AKT/mTOR pathway in hypoxia-treated H9c2 cells, which
+ were reversed by miR-206 overexpression at the same time. Furthermore, in an
+ in vivo rat model of myocardial I/R injury, suppression of RMPR improved
+ cardiac function and inhibited apoptosis after myocardial I/R injury.
+ CONCLUSIONS: Our findings reveal that upregulation of RMRP may aggravate
+ myocardial I/R injury possible by downregulation of miR-206 and subsequently
+ upregulation of ATG3. Activation of PI3K/Akt/mTOR pathway may be a key
+ downstream mechanism mediating the cardioprotection of RMPR/miR-206/ATG3 axis
+ against myocardial I/R injury.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Autophagy-Related Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Gene Expression"
+      },
+      {
+        term "Gene Targeting",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Reperfusion Injury",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Peptide Synthases",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Autophagy-Related Proteins"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RMRP non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "mirn206 microRNA, rat"
+      },
+      {
+        type ec,
+        cit "6.3.2.-",
+        name "Atg3 protein, rat"
+      },
+      {
+        type ec,
+        cit "6.3.2.-",
+        name "Peptide Synthases"
+      }
+    },
+    pmid 30551524,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

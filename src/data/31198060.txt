@@ -1,0 +1,296 @@
+
+Pubmed-entry ::= {
+  pmid 31198060,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Mirt2 functions in synergy with miR-377 to participate in
+ inflammatory pathophysiology of Sjogren's syndrome."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xin M",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          },
+          {
+            name ml "Liang H",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          },
+          {
+            name ml "Wang H",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          },
+          {
+            name ml "Wen D",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          },
+          {
+            name ml "Wang L",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          },
+          {
+            name ml "Zhao L",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          },
+          {
+            name ml "Sun M",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          },
+          {
+            name ml "Wang J",
+            affil str "a Department of Rheumatology and Immunology, The
+ Affiliated Hospital of Qingdao University , Shandong , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2473-2480",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31198060,
+        doi "10.1080/21691401.2019.1626413",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1626413"
+        }
+      }
+    },
+    abstract "Background: The interaction of long non-coding RNAs
+ (lncRNAs)-microRNAs (miRs) exerts crucial functions in mediating inflammatory
+ reaction. It is still unclear whether myocardial infarction associated
+ transcript 2 (Mirt2)-miR-377 mediates the inflammatory pathogenesis in
+ Sjogren's syndrome (SS). Methods: The inflammatory lesion model was
+ established by stimulating salivary gland epithelial cells (SGECs) by
+ interferon gamma (IFN-gamma). Mirt2- and/or miR-377-transfected SGECs, as
+ well as their negative controls, were applied to investigate the biological
+ functions in inflammation. Cell viability and apoptosis were examined using
+ commercial kits. Western blot was applied to quantify protein level, and
+ enzyme-linked immuno sorbent assay (ELISA) was used to value the secretion of
+ cytokines. Results: The up-regulation of Mirt2 was observed in
+ IFN-gamma-treated SGECs. Mirt2 overexpression restored the expression of
+ miR-377 which was repressed by IFN-gamma. However, miR-377 silence abolished
+ the protective effect on cell viability, inhibitory effect on apoptosis and
+ prohibitive role in pro-inflammatory factors. Mirt2 diminished the
+ phosphorylated expression of crucial regulators while miR-377 silence
+ restored the phosphorylation in IFN-gamma-treated SGECs. Conclusion: Mirt2
+ was elevated in IFN-gamma-treated SGECs and then up-regulated miR-377 in
+ response to inflammatory lesions. Mechanically, in synergy with miR-377 Mirt2
+ blocked IFN-gamma-evoked activation of NF-kappaB and JAK/STAT signalling
+ pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Interferon-gamma",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Janus Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "STAT Transcription Factors",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Salivary Glands",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Sjogren's Syndrome",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRT2 long noncoding RNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn377 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "STAT Transcription Factors"
+      },
+      {
+        type cas,
+        cit "82115-62-6",
+        name "Interferon-gamma"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinases"
+      }
+    },
+    pmid 31198060,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

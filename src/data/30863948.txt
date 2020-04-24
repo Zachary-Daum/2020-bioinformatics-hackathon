@@ -1,0 +1,307 @@
+
+Pubmed-entry ::= {
+  pmid 30863948,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "HULC functions as an oncogene in ovarian carcinoma cells by
+ negatively modulating miR-125a-3p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chu P",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, No.6 Jiankang Road, Jining, 272011, China."
+          },
+          {
+            name ml "Xu L",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, No.6 Jiankang Road, Jining, 272011, China."
+          },
+          {
+            name ml "Su H",
+            affil str "Department of Gynecology, Jining No.1 People's
+ Hospital, No.6 Jiankang Road, Jining, 272011, China. suhaiying213@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Physiol. Biochem.",
+          ml-jta "J Physiol Biochem",
+          issn "1877-8755",
+          name "Journal of physiology and biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "75",
+          issue "2",
+          pages "163-171",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 2,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30863948,
+        doi "10.1007/s13105-019-00669-5",
+        pii "10.1007/s13105-019-00669-5",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s13105-019-00669-5"
+        }
+      }
+    },
+    abstract "The aberrant expression of highly upregulated in liver cancer
+ (HULC) has been reported to participate in ovarian cancer development. A
+ recent research has revealed that HULC-modulated microRNAs (miRNAs) in
+ tumorigenesis. To confirm the functions of HULC on tumorigenesis of ovarian,
+ we explored the effects of HULC expression on ovarian cancer cell
+ development, as well as the underlying mechanism. We transfected SKOV3 cells
+ with pEX-HULC, sh-HULC, and miR-125a-3p mimic as well as their corresponding
+ negative controls (pEX-3, sh-NC, and NC) to alter the expression of HULC and
+ miR-125a-3p, which were analyzed by quantitative reverse transcription PCR
+ (qRT-PCR). Expression of proteins associated with cell cycle, apoptosis, and
+ signaling pathways was determined by Western blot assay. The proliferation,
+ apoptosis, migration, and invasion were explored by bromodeoxyuridine (BrdU)
+ incorporation assay, Annexin V-fluorescein isothiocyanate (FITC)/propidium
+ iodide (PI) method, and transwell migration and invasion assays,
+ respectively. HULC overexpression promoted proliferation, migration, and
+ invasion, while inhibited apoptosis of SKOV3 cells. In addition, HULC
+ negatively regulated the expression of miR-125a-3p. Besides, miR-125a-3p
+ mimic reversed the effects of HULC on proliferation, migration, and invasion
+ as well as apoptosis of SKOV3 cells. Moreover, we found that HULC enhanced
+ phosphorylated expression of regulatory factors in phosphatidylinositol 3
+ kinase/protein kinase B/mammalian targets of rapamycin (PI3K/AKT/mTOR)
+ signaling pathway by downregulating expression of miR-125a-3p. Overexpression
+ of HULC promoted ovarian carcinoma development by activating PI3K/AKT/mTOR
+ signaling pathway via downregulating miR-125a-3p.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Carcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oncogenes"
+      },
+      {
+        term "Ovarian Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "HULC long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN125 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.137",
+        name "Phosphatidylinositol 3-Kinase"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30863948,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

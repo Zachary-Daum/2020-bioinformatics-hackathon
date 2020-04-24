@@ -1,0 +1,306 @@
+
+Pubmed-entry ::= {
+  pmid 30171944,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Propofol inhibits proliferation, migration and invasion of
+ gastric cancer cells by up-regulating microRNA-195."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang W",
+            affil str "Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Zhu Z",
+            affil str "Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Zheng Y",
+            affil str "Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Song B",
+            affil str "Department of Gastrointestinal Colorectal and Anal
+ Surgery, China-Japan Union Hospital of Jilin University, Changchun 130033,
+ Jilin, China. Electronic address: songb312@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. J. Biol. Macromol.",
+          ml-jta "Int J Biol Macromol",
+          issn "1879-0003",
+          name "International journal of biological macromolecules"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "120",
+          issue "Pt A",
+          pages "975-984",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 8,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 8,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30171944,
+        pii "S0141-8130(18)31713-6",
+        doi "10.1016/j.ijbiomac.2018.08.173",
+        other {
+          db "ELocationID pii",
+          tag str "S0141-8130(18)31713-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ijbiomac.2018.08.173"
+        }
+      }
+    },
+    abstract "PURPOSE: This study investigated the effects of propofol on
+ gastric cancer MKN45 cell proliferation, migration, invasion and apoptosis,
+ as well as underlying potential mechanisms. METHODS: The viability,
+ proliferation, apoptosis, migration and invasion of MKN45 cells were assessed
+ using CCK-8 assay, BrdU incorporation assay, Annexin V-FITC/PI staining,
+ two-chamber migration (invasion) assay and western blotting, respectively.
+ qRT-PCR was performed to measure the expression of microRNA-195 (miR-195).
+ Cell transfection was conducted to down-regulate the expression of miR-195.
+ RESULTS: Propofol treatment suppressed MKN45 cell proliferation, migration
+ and invasion, but promoted cell apoptosis. The expression of miR-195 was
+ increased after propofol treatment. Suppression of miR-195 reversed the
+ propofol-induced MKN45 cell proliferation, migration and invasion inhibition,
+ as well as apoptosis. Moreover, Propofol treatment inactivated JAK/STAT and
+ NF-kappaB pathways in MKN45 cells. Suppression of miR-195 reversed the
+ propofol-induced inactivation of JAK/STAT and NF-kappaB pathways. Inhibition
+ of JAK/STAT and NF-kappaB pathways reversed the effects of miR-195
+ suppression on propofol-induced MKN 45 cell proliferation, migration and
+ invasion inhibition, as well as apoptosis enhancement. CONCLUSION: Propofol
+ inhibited proliferation, migration and invasion of gastric cancer MKN45 cells
+ by up-regulating miR-195 and then inactivating JAK/STAT and NF-kappaB
+ pathways. Propofol could be as an effective therapeutic medicine for gastric
+ cancer treatment.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Janus Kinase 1",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Propofol",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "STAT Transcription Factors",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN195 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "STAT Transcription Factors"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 1"
+      },
+      {
+        type cas,
+        cit "YI7VU623SF",
+        name "Propofol"
+      }
+    },
+    pmid 30171944,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

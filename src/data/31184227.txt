@@ -1,0 +1,272 @@
+
+Pubmed-entry ::= {
+  pmid 31184227,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-ERK signalling represses H1.4 phosphorylation at serine 36
+ to promote non-small-cell lung carcinoma cells growth and migration."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shi S",
+            affil str "a Department of Respiratory, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "b Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Liu M",
+            affil str "c Department of Ultrasound, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Dong H",
+            affil str "b Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Li N",
+            affil str "a Department of Respiratory, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2343-2351",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31184227,
+        doi "10.1080/21691401.2019.1624558",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1624558"
+        }
+      }
+    },
+    abstract "Recent papers suggest that oncogenic Ras participate in
+ regulating tumour cells proliferation and metastasis. This work linked Ras
+ with H1.4 modification in non-small-cell lung carcinoma (NSCLC), to better
+ understand the oncogenic effects of Ras. A plasmid for expressing Ras mutated
+ at G13D and T35S was transfected into NCI-H2126 and A549 cells.
+ Phosphorylation of H1.4S36 was determined by immunoblotting. Effects of
+ phosphorylation of H1.4 at serine (S) 36 (H1.4S36ph) on NCI-H2126 and A549
+ cells were tested by MTT assay, soft-agar colony formation assay, flow
+ cytometry and transwell assay. Chromatin-immunoprecipitation (ChIP) and
+ RT-qPCR were conducted to measure the effects of H1.4S36ph on Ras downstream
+ genes. The catalyzing enzymes participate in H1.4S36 phosphorylation were
+ further studied. We found that Ras-ERK signalling repressed the
+ phosphorylation of H1.4 at S36. H1.4S36ph functioned as a tumour suppressor,
+ as its overexpression repressed NCI-H2126 and A549 cells viability, colony
+ formation, S-phase arrest, migration and invasion. H1.4S36ph was able to
+ mediate the transcription of Ras downstream genes. Ras-ERK signalling
+ repressed H1.4S36ph through degradation of PKA, and the degradation was
+ mediated by MDM2. In conclusion, Ras-ERK signalling repressed H1.4
+ phosphorylation at S36 to participate in NSCLC cells growth, migration and
+ invasion. Ras-ERK signalling repressed H1.4S36ph through MDM2-dependent
+ degradation of PKA. This study provides a novel explanation for Ras-ERK's
+ tumour-promoting function. Highlights: H1.4S36 phosphorylation is repressed
+ by Ras-ERK activation; H1.4S36ph inhibits the phenotype of NSCLC cells;
+ H1.4S36ph regulates the transcription of Ras downstream genes; Ras-ERK
+ represses H1.4S36ph by MDM2-dependent degradation of PKA.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Carcinoma, Non-Small-Cell Lung",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Cyclic AMP-Dependent Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Proteolysis"
+      },
+      {
+        term "Serine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      },
+      {
+        term "ras Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type cas,
+        cit "452VLY9402",
+        name "Serine"
+      },
+      {
+        type ec,
+        cit "2.7.11.11",
+        name "Cyclic AMP-Dependent Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "ras Proteins"
+      }
+    },
+    pmid 31184227,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

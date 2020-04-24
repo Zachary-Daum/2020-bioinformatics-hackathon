@@ -1,0 +1,303 @@
+
+Pubmed-entry ::= {
+  pmid 30577849,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-ERK1/2 signaling contributes to the development of
+ colorectal cancer via regulating H3K9ac."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tian P",
+            affil str "Department of Gastrointestinal Surgery, Zhengzhou
+ University People's Hospital (Henan Provincial People's Hospital), Zhengzhou,
+ 450003, China."
+          },
+          {
+            name ml "Zhu Y",
+            affil str "Department of General Surgery, Wuxi People's Hospital
+ of Nanjing Medical University, Wuxi, 214023, China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "Department of Gastrointestinal Surgery, Zhengzhou
+ University People's Hospital (Henan Provincial People's Hospital), Zhengzhou,
+ 450003, China."
+          },
+          {
+            name ml "Guo X",
+            affil str "Department of Gastrointestinal Surgery, Zhengzhou
+ University People's Hospital (Henan Provincial People's Hospital), Zhengzhou,
+ 450003, China."
+          },
+          {
+            name ml "Zhang P",
+            affil str "Department of Gastrointestinal Surgery, Zhengzhou
+ University People's Hospital (Henan Provincial People's Hospital), Zhengzhou,
+ 450003, China."
+          },
+          {
+            name ml "Xue H",
+            affil str "Department of General Surgery, Zhengzhou University
+ People's Hospital (Henan Provincial People's Hospital), No.7, Weiwu Road,
+ Zhengzhou, 450003, Henan, China. huanzhou0002@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12,
+            day 22
+          },
+          volume "18",
+          issue "1",
+          pages "1286",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30577849,
+        doi "10.1186/s12885-018-5199-3",
+        pii "10.1186/s12885-018-5199-3",
+        other {
+          db "pmc",
+          tag str "PMC6303919"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-018-5199-3"
+        }
+      }
+    },
+    abstract "BACKGROUNDS/AIMS: Ras is a control switch of ERK1/2 pathway, and
+ hyperactivation of Ras-ERK1/2 signaling appears frequently in human cancers.
+ However, the molecular regulation following by Ras-ERK1/2 activation is still
+ unclear. This work aimed to reveal whether Ras-ERK1/2 promoted the
+ development of colorectal cancer via regulating H3K9ac. METHODS: A vector for
+ expression of K-Ras mutated at G12 V and T35S was transfected into SW48
+ cells, and the acetylation of H3K9 was measured by Western blot analysis. MTT
+ assay, colony formation assay, transwell assay, chromatin immunoprecipitation
+ and RT-qPCR were performed to detect whether H3K9ac was contributed to
+ K-Ras-mediated cell growth and migration. Furthermore, whether HDAC2 and PCAF
+ involved in modification of H3K9ac following Ras-ERK1/2 activation were
+ studied. RESULTS: K-Ras mutated at G12 V and T35S induced a significant
+ activation of ERK1/2 signaling and a significant down-regulation of H3K9ac.
+ Recovering H3K9 acetylation by using a mimicked H3K9ac expression vector
+ attenuated the promoting effects of Ras-ERK1/2 on tumor cells growth and
+ migration. Besides, H3K9ac can be deacetylated by HDAC2 and MDM2-depedent
+ degradation of PCAF. CONCLUSION: H3K9ac was a specific target for Ras-ERK1/2
+ signaling pathway. H3K9 acetylation can be modulated by HDAC2 and
+ MDM2-depedent degradation of PCAF. The revealed regulation provides a better
+ understanding of Ras-ERK1/2 signaling in tumorigenesis.",
+    mesh {
+      {
+        term "Acetylation"
+      },
+      {
+        term "Carcinogenesis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chromatin Immunoprecipitation"
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Histone Deacetylase 2",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mutation"
+      },
+      {
+        term "Proto-Oncogene Proteins c-mdm2",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins p21(ras)",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "p300-CBP Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "KRAS protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.1.48",
+        name "p300-CBP Transcription Factors"
+      },
+      {
+        type ec,
+        cit "2.3.1.48",
+        name "p300-CBP-associated factor"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "MDM2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Proto-Oncogene Proteins c-mdm2"
+      },
+      {
+        type ec,
+        cit "3.5.1.98",
+        name "HDAC2 protein, human"
+      },
+      {
+        type ec,
+        cit "3.5.1.98",
+        name "Histone Deacetylase 2"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "Proto-Oncogene Proteins p21(ras)"
+      }
+    },
+    pmid 30577849,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

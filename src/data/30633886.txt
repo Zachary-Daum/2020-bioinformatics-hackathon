@@ -1,0 +1,370 @@
+
+Pubmed-entry ::= {
+  pmid 30633886,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginsenoside Rg3 inhibits cell growth, migration and invasion in
+ Caco-2 cells by downregulation of lncRNA CCAT1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li J",
+            affil str "Department of Anorectal Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China; Affiliated Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University, Jining 272067, China."
+          },
+          {
+            name ml "Qi Y",
+            affil str "Department of Anorectal Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China. Electronic address: yuxiqi123@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "106",
+          pages "131-138",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 12,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30633886,
+        pii "S0014-4800(18)30401-5",
+        doi "10.1016/j.yexmp.2019.01.003",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30401-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.01.003"
+        }
+      }
+    },
+    abstract "BACKGROUND: Colorectal cancer (CRC) is a troublesome disease
+ with high morbidity and mortality. Ginsenoside Rg3 possesses anti-cancer
+ properties. Colon Cancer Associated Transcript 1 (CCAT1) participates in the
+ genesis, development, invasion and metastasis of colorectal cancer. In our
+ study, we explored the effects of Rg3 on CRC cell line Caco-2 by regulating
+ CCAT1. METHODS: CRC tissue was obtained from hospital and Caco-2 cells were
+ purchased. Caco-2 cells were treated with Rg3 and/or transfected with pc-
+ CCAT1 or pcDNA3.1. The group without Rg3 treatment was treated as control.
+ Cell viability, cell apoptosis, cell migration and invasion were detected by
+ Cell Counting Kit-8 assay, flow cytometry and Transwell chamber
+ migration/invasion assay, respectively. The expression of CyclinD1, apoptosis
+ related proteins (p53, Bcl-2, Bax, pro-/Cleaved-Caspase-3), migration and
+ invasion related proteins (MMP-9 and vimentin), and phosphatidylinositol 3
+'-kinase (PI3K)/protein kinase B (AKT) related proteins (p/t-PI3K, p/t-AKT)
+ were examined by western blot. The expression of CCAT1 was measured by
+ quantitative real time RCR (qRT-PCR). RESULTS: Rg3 significantly decreased
+ cell viability, migration and invasion, and promoted apoptosis. Meanwhile,
+ the expression of Cyclin D1, matrix metalloproteinase (MMP)-9 and vimentin
+ was downregulated. The expression of apoptosis-related proteins p53, Bax, and
+ Cleaved-Caspase-3 were upregulated while Bcl-2 was downregulated by the
+ treatment of Rg3 compared with control. Furthermore, CCAT1 was upregulated in
+ CRC tissue and Rg3 negatively regulated CCAT1 expression. Transfection with
+ pc-CCAT1 led to the opposite results as compared with transfection with
+ pcDNA3.1 in Rg3 treated cells. In addition, Rg3 decreased the phosphorylation
+ of PI3K and AKT. CONCLUSION: Ginsenoside Rg3 inhibits migration and invasion,
+ and promotes apoptosis of Caco-2 cells by suppression expression of LncRNA
+ CCAT1.",
+    mesh {
+      {
+        term "Adenocarcinoma",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Antineoplastic Agents, Phytogenic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Division",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Phosphoinositide-3 Kinase Inhibitors"
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protein Processing, Post-Translational",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Phytogenic"
+      },
+      {
+        type nameonly,
+        name "CCAT1 long noncoding RNA, human"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "Phosphoinositide-3 Kinase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type cas,
+        cit "227D367Y57",
+        name "ginsenoside Rg3"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "AKT1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30633886,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

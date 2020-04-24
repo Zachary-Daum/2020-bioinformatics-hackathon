@@ -1,0 +1,156 @@
+
+Pubmed-entry ::= {
+  pmid 31906765,
+  medent {
+    em std {
+      year 2020,
+      month 1,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragaloside IV protects ATDC5 cells from
+ lipopolysaccharide-caused damage through regulating miR-203/MyD88."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li D",
+            affil str "Department of Sports Medicine, Jilin City Central
+ Hospital, Jilin, China."
+          },
+          {
+            name ml "Li G",
+            affil str "Department of Joint Surgery, Jilin City Central
+ Hospital, Jilin, China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "Department of Dermatology, Jilin City Central Hospital,
+ Jilin, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Joint Surgery, Jilin City Central
+ Hospital, Jilin, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Joint Surgery, Jilin City Central
+ Hospital, Jilin, China."
+          },
+          {
+            name ml "Gao D",
+            affil str "Department of Joint Surgery, Jilin City Central
+ Hospital, Jilin, China."
+          },
+          {
+            name ml "Sun L",
+            affil str "Department of Sports Medicine, Jilin City Central
+ Hospital, Jilin, China."
+          },
+          {
+            name ml "Liu B",
+            affil str "Department of Joint Surgery, Jilin City Central
+ Hospital, Jilin, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pharm Biol",
+          ml-jta "Pharm Biol",
+          issn "1744-5116",
+          name "Pharmaceutical biology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 12
+          },
+          volume "58",
+          issue "1",
+          pages "89-97",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31906765,
+        doi "10.1080/13880209.2019.1705355",
+        other {
+          db "pmc",
+          tag str "PMC6968705"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/13880209.2019.1705355"
+        }
+      }
+    },
+    abstract "Context: Osteoarthritis (OA) is a degenerative arthrosis
+ sickness. Astragaloside IV (AS-IV) functions by relieving inflammatory
+ damage.Objective: We aimed to investigate the mechanism by which AS-IV
+ protects ATD cells from lipopolysaccharide (LPS)-induced damage.Materials and
+ methods: ATDC5 cells were transfected with miR-203 inhibitor and NC inhibitor
+ (150 nM) or pEX-MyD88 and sh-MyD88 (50 nM) for 48 h, pre-treated by 15 mug/mL
+ AS-IV for 24 h, then treated by 5 mug/mL LPS for 12 h. Dual-luciferase
+ activity testing was used to determine whether miR-203 could bind to MyD88.
+ CCK-8 and flow cytometry were used to detect cell activity and apoptosis,
+ respectively, and qRT-PCR, western blots, and ELISA were performed to detect
+ expression levels of miR-203 and inflammatory cytokines.Results: Based on the
+ 50% inhibiting concentration (IC50), there was no significant difference of
+ AS-IV (0 to 15 mug/mL) on cell viability. Fifteen mug/mL was the optimal
+ concentration of AS-IV in treating LPS-induced inflammatory damage in
+ subsequent experiments since this was a semi-lethal concentration. AS-IV
+ significantly reduces LPS-induced viability, apoptosis and the release of
+ TNF-alpha, IL-6 and iNOS mainly through up-regulating miR-203. Further, MyD88
+ was a target gene of miR-203 and negatively regulated by miR-203. Knockdown
+ of MyD88 inhibited LPS-induced inflammatory damage by inhibiting the
+ NF-kappaB signal pathway.Discussion and conclusions: AS-IV protects ATDC5
+ cells against LPS-induced damage mainly via regulating miR-203/MyD88. Our
+ results support a theoretical basis for in-depth study of the function of
+ AS-IV and the clinical cure of OA.",
+    pmid 31906765,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

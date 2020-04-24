@@ -1,0 +1,365 @@
+
+Pubmed-entry ::= {
+  pmid 29710511,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Piperine alleviates lipopolysaccharide-induced inflammatory
+ injury by down-regulating microRNA-127 in murine chondrogenic ATDC5 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ren C",
+            affil str "Department of Rheumatology and Immunology, Jining No. 1
+ People's Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Liang Z",
+            affil str "Department of Bone and Joint Surgery, Jining No. 1
+ People's Hospital, No. 6, Jiankang Road, Jining 272011, Shandong, China.
+ Electronic address: liangzhiyuan0037@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "103",
+          pages "947-954",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29710511,
+        pii "S0753-3322(18)30221-X",
+        doi "10.1016/j.biopha.2018.04.108",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30221-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.04.108"
+        }
+      }
+    },
+    abstract "BACKGROUND: This study aimed to investigate whether piperine has
+ anti-inflammatory activities in lipopolysaccharide (LPS)-induced inflammatory
+ injury of murine chondrogenic ATDC5 cells and to explore the potential
+ mechanisms. METHODS: ATDC5 cells were pretreated with piperine and then
+ stimulated by LPS for 12h. Cell Counting Kit-8 (CCK-8) and flow cytometry
+ were used to assess cell viability and apoptosis, respectively. qRT-PCR,
+ enzyme-linked immuno sorbent assay (ELISA) and western blotting were used to
+ detect the expression levels of inflammatory cytokines, microRNA-127
+ (miR-127) and MyD88, as well as key factors involved in nuclear factor kappa
+ B (NF-kappaB) and p38-mitogen activated protein kinase (p38MAPK) signaling
+ pathways, respectively. RESULTS: Piperine exerted anti-in fl ammatory effects
+ on LPS-stimulated ATDC5 cells. Piperine reduced the expression of miR-127 in
+ ATDC5 cells. Up-regulation of miR-127 aggravated LPS-induced inflammatory
+ injury. Down-regulation of miR-127 had opposite effects. Moreover, miR-127
+ up-regulated MyD88 expression and overexpression of MyD88 also aggravated
+ LPS-induced cell inflammatory injury. Further research found that
+ overexpression of MyD88 activated NF-kappaB and p38MAPK signaling pathways in
+ ATDC5 cells, while knockdown of MyD88 inhibited the activation of these two
+ pathways. CONCLUSION: This study demonstrates the anti-inflammatory effects
+ of piperine on LPS-stimulated ATDC5 cells. The anti-inflammatory properties
+ of piperine are mediated by down-regulating miR-127 and MyD88 expression and
+ then inhibiting NF-kappaB and p38MAPK signaling pathways activation. Our
+ findings may provide a theoretical basis for further research the clinical
+ treatment of osteoarthritis (OA) by using piperine.",
+    mesh {
+      {
+        term "Alkaloids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Benzodioxoles",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Inflammation"
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myeloid Differentiation Factor 88",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Piperidines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Polyunsaturated Alkamides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Alkaloids"
+      },
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Benzodioxoles"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn127 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "Myd88 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Myeloid Differentiation Factor 88"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Piperidines"
+      },
+      {
+        type nameonly,
+        name "Polyunsaturated Alkamides"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "U71XL721QK",
+        name "piperine"
+      }
+    },
+    pmid 29710511,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

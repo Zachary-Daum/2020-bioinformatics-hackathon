@@ -1,0 +1,255 @@
+
+Pubmed-entry ::= {
+  pmid 30547768,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Propofol suppresses growth, migration and invasion of A549 cells
+ by down-regulation of miR-372."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun H",
+            affil str "Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University, No.126, Xiantai Street, Changchun, Jilin,
+ 130033, China."
+          },
+          {
+            name ml "Gao D",
+            affil str "Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University, No.126, Xiantai Street, Changchun, Jilin,
+ 130033, China. dengyugao0092@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12,
+            day 14
+          },
+          volume "18",
+          issue "1",
+          pages "1252",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 3
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30547768,
+        doi "10.1186/s12885-018-5175-y",
+        pii "10.1186/s12885-018-5175-y",
+        other {
+          db "pmc",
+          tag str "PMC6295097"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-018-5175-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Propofol, a commonly used intravenous anesthetic
+ during cancer resection surgery, has been found to exhibit tumor inhibitory
+ effects in vitro and in vivo. The role of propofol in lung cancer has been
+ previously reported, whereas its action mechanism remains unclear. This study
+ further investigated the effects of propofol on lung cancer A549 cell growth,
+ migration and invasion, as well as the underlying mechanisms. METHODS: Cell
+ viability, proliferation, migration, invasion and apoptosis were assessed by
+ CCK-8 assay, BrdU assay, two chamber transwell assay and flow cytometry,
+ respectively. The regulatory effect of propofol on microRNA-372 (miR-372)
+ expression in A549 cells was analyzed by qRT-PCR. Cell transfection was used
+ to change the expression of miR-372. The protein expression of key factors
+ involving in cell proliferation, apoptosis, migration and invasion, as well
+ as Wnt/beta-catenin and mTOR pathways were analyzed by western blotting.
+ RESULTS: Propofol inhibited lung cancer A549 cell viability, proliferation,
+ migration, and invasion, but promoted cell apoptosis. Moreover, miR-372 was
+ down-regulated in propofol-treated A549 cells. Overexpression of miR-372
+ abrogated the effects of propofol on proliferation, migration, invasion and
+ apoptosis of A549 cells. Knockdown of miR-372 had opposite effects.
+ Furthermore, propofol suppressed Wnt/beta-catenin and mTOR signaling pathways
+ by down-regulating miR-372. CONCLUSION: Propofol inhibits growth, migration
+ and invasion of lung cancer A549 cells at least in part by down-regulating
+ miR-372 and then inactivating Wnt/beta-catenin and mTOR pathways.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Down-Regulation"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Propofol",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN372 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type cas,
+        cit "YI7VU623SF",
+        name "Propofol"
+      }
+    },
+    pmid 30547768,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

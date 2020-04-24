@@ -1,0 +1,281 @@
+
+Pubmed-entry ::= {
+  pmid 29791595,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "microRNA-3129 promotes cell proliferation in gastric cancer cell
+ line SGC7901 via positive regulation of pRb."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang S",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Sheng N",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Pan L",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Cao J",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Ma R",
+            affil str "Department of Gastroenterology, Jining No. 1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "6",
+          pages "e6452",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 16
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29791595,
+        pii "S0100-879X2018000600612",
+        doi "10.1590/1414-431x20186452",
+        other {
+          db "pmc",
+          tag str "PMC6002138"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000600612"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431x20186452"
+        }
+      }
+    },
+    abstract "Several microRNAs (miRNAs) have been reported as oncogenes or
+ tumor suppressors in many cancers, including gastric cancer (GC). However,
+ the role and molecular mechanism of miR-3129 in GC is largely unknown. We
+ aimed to explore the function and the underlying molecular mechanism of
+ miR-3129 in GC. Cancer tissues and corresponding adjacent tissues were
+ collected from 50 patients with GC, and the expression of miR-3129 was
+ detected by RT-qPCR. The expression of miR-3129 and pRb in human GC cell line
+ SCG7091 was altered by transient transfection. Thereafter, MTT and flow
+ cytometry assays were used to analyze cell viability and cell cycle. The
+ expression of cyclin E, CDK2, CDK2 inhibitors (p16 and 21), and pRb were
+ detected by RT-qPCR and western blot. A significant up-regulation of miR-3129
+ was observed in GC tissues compared to adjacent tissues. Overexpression of
+ miR-3129 significantly improved cell viability after 4 days of
+ post-transfection. Flow cytometry assay results showed that the miR-3129
+ overexpression arrested more SGC7901 cells at S phase. Moreover,
+ overexpression of miR-3129 down-regulated the expression of CDK2 inhibitors
+ while it up-regulated the expression levels of cyclin E, CDK2, and pRb.
+ Interestingly, we found that pRb inhibition reversed the effect of miR-3129
+ inhibitor on cell proliferation in SGC7901 cells, increased cell viability,
+ reduced cells at G0/1 phase, and modulated the expression of
+ proliferation-related factors. Our results revealed that miR-3129 functioned
+ as an oncogene through positive regulation of pRb and may prove to be a
+ promising option for molecular therapy of GC.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Flow Cytometry"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Staging"
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      },
+      {
+        term "Retinoblastoma Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN3129 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Retinoblastoma Protein"
+      }
+    },
+    pmid 29791595,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

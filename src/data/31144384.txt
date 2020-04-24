@@ -1,0 +1,165 @@
+
+Pubmed-entry ::= {
+  pmid 31144384,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of lncRNA HEIH suppressed liver cancer cell growth and
+ metastasis through miR-199a-3p/mTOR axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma Y",
+            affil str "Department of Hepatobiliary Surgery, Weifang People's
+ Hospital, Weifang, China."
+          },
+          {
+            name ml "Cao",
+            affil str "Department of Anaesthesiology, Weifang People's
+ Hospital, Weifang, China."
+          },
+          {
+            name ml "Li G",
+            affil str "Department of Gastroenterology, Shouguang People's
+ Hospital, Shouguang, China."
+          },
+          {
+            name ml "Hu J",
+            affil str "Department of General Surgery, Shouguang People's
+ Hospital, Shouguang, China."
+          },
+          {
+            name ml "Liu X",
+            affil str "Department of Medical Oncology, Affiliated Hospital of
+ Weifang Medical University, Weifang, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Infection Management Office, Weifang People's Hospital,
+ Weifang, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10
+          },
+          volume "120",
+          issue "10",
+          pages "17757-17766",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 12,
+                day 9
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 5,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 5,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31144384,
+        doi "10.1002/jcb.29041",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.29041"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: High expression in hepatocellular carcinoma
+ (HEIH) is an long noncoding RNA (lncRNA) which is highly expressed in
+ hepatocellular carcinoma (HCC). Aberrant expression of HEIH is implicated in
+ regulating HCC cells growth and metastasis. This study attempted to
+ illustrate the effects of HEIH on HCC cell lines. METHODS: The expression
+ changes of HEIH in HCC tumor tissues and the paracancerous tissues derived
+ from 20 patients with HCC were tested. Effects of HEIH on Huh7 and Hep3B
+ cells viability, apoptosis, migration, and invasion were assessed by
+ silencing HEIH in vitro. Furthermore, downstream effector and signaling of
+ HEIH were studied. RESULTS: As compared with the paracancerous tissues, the
+ HEIH expression was highly expressed in tumor tissues. Silence of HEIH
+ significantly reduced Huh7 and Hep3B cells viability, migration, and
+ invasion, but induced apoptosis. It was coupled with the downregulated
+ CyclinD1, Bcl-2, MMP-2, MMP-8, Vimentin, the upregulated p53, Bax, as well as
+ the cleaved caspase-3. MicroRNA (miR)-199a-3p was identified as a downstream
+ effector of HEIH, as its expression was upregulated by HEIH silence, and the
+ functional effects of HEIH on Huh7 and Hep3B cells were all attenuated when
+ miR-199a-3p expression was suppressed. Furthermore, HEIH silence suppressed
+ the activation of mTOR signaling via upregulating miR-199a-3p. CONCLUSION:
+ HEIH silence might be a promising target for suppressing HCC cells growth and
+ metastasis. Silence of HEIH exerted its antitumor properties possibly through
+ upregulating miR-199a-3p, and thereby blockage of mTOR signaling.",
+    pmid 31144384,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

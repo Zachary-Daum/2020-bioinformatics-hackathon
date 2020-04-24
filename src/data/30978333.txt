@@ -1,0 +1,348 @@
+
+Pubmed-entry ::= {
+  pmid 30978333,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Triptolide inhibits viability and migration while promotes
+ apoptosis in nephroblastoma cells by regulation of miR-193b-3p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hang S",
+            affil str "Department of Pediatric Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China; Affiliated Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University, Jining 272011, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Department of Pediatric Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Pediatric Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China. Electronic address: haili0013@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "108",
+          pages "80-88",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 2,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30978333,
+        pii "S0014-4800(18)30426-X",
+        doi "10.1016/j.yexmp.2019.04.006",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30426-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.04.006"
+        }
+      }
+    },
+    abstract "BACKGROUND: Triptolide (TPL) is a potential anti-tumor natural
+ compound. However, its role in nephroblastoma is poorly studied. Herein, we
+ aimed to reveal the regulatory effects of TPL on human nephroblastoma cells
+ (G-401 and WiT49) as well as the regulatory mechanism in G-401 cells.
+ METHODS: Effects of TPL on cell viability, migration and apoptosis of G-401
+ and WiT49 cells were measured by CCK-8 assay, Boyden Chamber, and flow
+ cytometry/Western blot analysis, respectively. Expression of miR-193b-3p in
+ TPL-treated G-401 and WiT49 cells was determined by RT-qPCR. Then, whether
+ miR-193b-3p was the downstream factor of TPL was studied. Alteration of KLF4
+ expression in TPL-treated cells and the relationship between miR-193b-3p and
+ KLF4 were assessed by Western blot analysis and luciferase reporter assay.
+ Effects of abnormally expressed KLF4 on G-401 cells were also assessed.
+ Finally, the involvements of PI3K/AKT and ERK pathways were measured by
+ Western blot analysis. RESULTS: TPL reduced cell viability and migration
+ while promoted apoptosis in G-401 and WiT49 cells. miR-193b-3p level was
+ up-regulated by TPL stimulation, and TPL might function through regulation of
+ miR-193b-3p. KLF4 expression was down-regulated by TPL, and KLF4 was proven
+ to be a target gene of miR-193b-3p. TPL mediated the repressive roles in
+ growth of nephroblastoma cells via KLF4 knockdown. Finally, we found
+ phosphorylation of PI3K, AKT and ERK was inhibited by TPL, possibly through
+ miR-193b-3p-mediated regulation of KLF4. CONCLUSION: TPL showed a tumor
+ suppressive role in nephroblastoma cells via miR-193b-3p-mediated
+ down-regulation of KLF4, along with inhibition of the PI3K/AKT and ERK
+ pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Diterpenes",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Epoxy Compounds",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kruppel-Like Transcription Factors",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phenanthrenes",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Wilms Tumor",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Diterpenes"
+      },
+      {
+        type nameonly,
+        name "Epoxy Compounds"
+      },
+      {
+        type nameonly,
+        name "GKLF protein"
+      },
+      {
+        type nameonly,
+        name "Kruppel-Like Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "MIRN193 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenanthrenes"
+      },
+      {
+        type cas,
+        cit "19ALD1S53J",
+        name "triptolide"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30978333,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

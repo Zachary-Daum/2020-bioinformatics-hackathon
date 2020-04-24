@@ -1,0 +1,354 @@
+
+Pubmed-entry ::= {
+  pmid 31298038,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA HAGLROS regulates apoptosis and autophagy in
+ Parkinson's disease via regulating miR-100/ATG10 axis and PI3K/Akt/mTOR
+ pathway activation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Peng T",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Liu X",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Wang J",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Fu Z",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Ma X",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Li J",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Sun G",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Ji Y",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Lu J",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          },
+          {
+            name ml "Wan W",
+            affil str "b Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , China."
+          },
+          {
+            name ml "Lu H",
+            affil str "a Department of Neurology, Key-Disciplines Laboratory
+ Clinical Medicine of Henan, The First Affiliated Hospital of Zhengzhou
+ University , Zhengzhou , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2764-2774",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31298038,
+        doi "10.1080/21691401.2019.1636805",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1636805"
+        }
+      }
+    },
+    abstract "Parkinson's disease (PD) is a common age-related
+ neurodegenerative disease resulted from the progressive degeneration of
+ dopaminergic neurons in the pars compacta region of substantia nigra. The
+ goal of this study was to investigate the effects and mechanisms of long
+ noncoding RNA (lncRNA) HAGLROS on the apoptosis and autophagy in PD. The
+ MPTP-induced PD mouse model and MPP(+)-intoxicated SH-SY5Y cell model were
+ established, and the expression levels of HAGLROS and miR-100 were
+ determined. Subsequently, the effects of suppression of HAGLROS on apoptosis
+ and autophagy in MPTP-induced PD mouse model and in MPP(+)-intoxicated
+ SH-SY5Y cells were investigated. In addition, the association between HAGLROS
+ and miR-100 as well as HAGLROS and activation of phosphoinositide-3
+ kinase/protein kinase-B/mammalian target of rapamycin (PI3K/Akt/mTOR) pathway
+ in MPP(+)-intoxicated SH-SY5Y cells was explored. HAGLROS was increasingly
+ expressed in MPTP-induced PD mouse model and MPP(+)-intoxicated SH-SY5Y cells
+ and suppression of HAGLRO decreased apoptosis and autophagy in both in vivo
+ and in vitro PD models. Further in vitro studies showed that HAGLRO
+ negatively regulated miR-100 expression, and HAGLROS regulated apoptosis and
+ autophagy of MPP(+)-intoxicated SH-SY5Y cells through sponging miR-100.
+ Moreover, ATG10 was identified as a target of miR-100. Besides, suppression
+ of HAGLROS alleviated MPP(+)-intoxicated SH-SY5Y cell injury by activating
+ PI3K/AKT/mTOR pathway. Our findings reveal that upregulation of HAGLROS may
+ contribute to the development of PD via inhibiting apoptosis and autophagy,
+ which may be achieved by regulating miR-100/ATG10 axis and PI3K/AKT/mTOR
+ pathway activation.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy-Related Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Parkinson Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Vesicular Transport Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Autophagy-Related Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN100 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Vesicular Transport Proteins"
+      },
+      {
+        type ec,
+        cit "2.3.2.-",
+        name "ATG10 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31298038,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,326 @@
+
+Pubmed-entry ::= {
+  pmid 30372870,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Alkannin protects human renal proximal tubular epithelial cells
+ from LPS-induced inflammatory injury by regulation of microRNA-210."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen Y",
+            affil str "Department of Rheumatology, Heze Municipal Hospital,
+ Heze 274000, Shandong, China. Electronic address: chenyiheng266@sina.com."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Emergency, Heze Municipal Hospital, Heze
+ 274000, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "108",
+          pages "1679-1685",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 6,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 9,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 10,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30372870,
+        pii "S0753-3322(18)34289-6",
+        doi "10.1016/j.biopha.2018.09.102",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)34289-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.09.102"
+        }
+      }
+    },
+    abstract "BACKGROUND: Lupus nephritis (LN) is a fatal complication induced
+ by systemic lupus erythematosus (SLE). As the current therapeutic approaches
+ for LN are not a permanent cure, we studied the potential therapeutic effects
+ of alkannin (ALK) on LPS-treated human proximal tubular cells (HK-2 cells),
+ aiming to find novel therapeutic drugs for LN treatment. METHODS: Cell
+ viability, apoptotic cells, expression of p53 and proteins associated with
+ apoptosis, and release of IL-6 and TNF-alpha in LPS-treated HK-2 cells were
+ measured by using CCK-8 assay, flow cytometry assay, Western blot analysis
+ and RT-qPCR/ELISA, respectively. Effects of ALK on LPS-treated HK-2 cells
+ were evaluated, and miR-210 expression was determined by RT-qPCR. Afterwards,
+ whether ALK affected LPS-treated cells via regulating miR-210 was verified,
+ and the involvements of the NF-kappaB and p38MAPK pathways were finally
+ studied using Western blot analysis. RESULTS: LPS-induced decrease of cell
+ viability, increase of apoptosis, and release of IL-6 and TNF-alpha were
+ attenuated by ALK treatment. We found miR-210 level in LPS-treated cells was
+ elevated by ALK, and miR-210 inhibition could effectively reverse the effects
+ of ALK on LPS-treated cells. Moreover, we found the phosphorylation levels of
+ key kinases in the NF-kappaB and p38MAPK pathways were reduced by ALK via
+ up-regulating miR-210 in LPS-treated cells. CONCLUSION: ALK attenuated
+ LPS-induced inflammatory injury in HK-2 cells possibly through up-regulating
+ miR-210. The LPS-induced activation of the NF-kappaB and p38MAPK pathways was
+ attenuated by ALK via regulation of miR-210.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Kidney Tubules, Proximal",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Naphthoquinones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN210 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Naphthoquinones"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type cas,
+        cit "075CRZ9995",
+        name "alkannin"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 30372870,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

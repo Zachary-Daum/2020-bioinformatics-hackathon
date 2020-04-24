@@ -1,0 +1,327 @@
+
+Pubmed-entry ::= {
+  pmid 31158334,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notoginsenoside R1 protects human renal proximal tubular
+ epithelial cells from lipopolysaccharide-stimulated inflammatory damage by
+ up-regulation of miR-26a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu J",
+            affil str "Department of Nephrology, Jining No.1 People's
+ Hospital, Jining, 272011, China."
+          },
+          {
+            name ml "Hou C",
+            affil str "Department of Nephrology, Jining No.1 People's
+ Hospital, Jining, 272011, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Pharmacy, Dongying People's Hospital,
+ Dongying, 257091, China."
+          },
+          {
+            name ml "Wu L",
+            affil str "Department of Trauma and Orthopaedic Surgery, Shengli
+ Oilfield Central Hospital, Dongying, 257034, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Department of Nephrology, Dongying People's Hospital,
+ Dongying, 257091, China. Electronic address: wangxinyue231@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chem. Biol. Interact.",
+          ml-jta "Chem Biol Interact",
+          issn "1872-7786",
+          name "Chemico-biological interactions"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8,
+            day 1
+          },
+          volume "308",
+          pages "364-371",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 2,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 5,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31158334,
+        pii "S0009-2797(19)30344-8",
+        doi "10.1016/j.cbi.2019.05.053",
+        other {
+          db "ELocationID pii",
+          tag str "S0009-2797(19)30344-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.cbi.2019.05.053"
+        }
+      }
+    },
+    abstract "BACKGROUND: Notoginsenoside R1 (NGR1) is the main saponin
+ isolated from the roots of Panax notoginseng (Burk.) F.H. Chen (Araliaceae).
+ This study explored the protective effects of NGR1 on human renal proximal
+ tubular epithelial cell inflammatory damage caused by lipopolysaccharide
+ (LPS), as well as possible internal molecular mechanisms. METHODS: Cell
+ viability and apoptosis were assessed using CCK-8 assay and Annexin V-FITC/PI
+ Apoptosis Detection kit, respectively. Reactive oxygen species (ROS) level
+ was tested using DCFH-DA staining. qRT-PCR was used to measure microRNA-26a
+ (miR-26a), interleukin 1beta (IL-1beta), IL-6 and tumor necrosis factor alpha
+ (TNF-alpha) expressions. miRNA transfection was conducted to knock down
+ miR-26a. The protein expression levels of key molecules related to cell
+ apoptosis, inflammatory response and nuclear factor kappa B (NF-kappaB)
+ pathway were detected using western blotting. RESULTS: LPS stimulation caused
+ human renal proximal tubular epithelial cell viability reduction, apoptosis
+ and inflammatory cytokines expression. NGR1 treatment protected human renal
+ proximal tubular epithelial cells from LPS-caused viability reduction, ROS
+ level elevation, apoptosis and inflammatory cytokines expression.
+ Mechanistically, NGR1 enhanced miR-26a expression in LPS-treated human renal
+ proximal tubular epithelial cells. Knockdown of miR-26a reversed the
+ protective effect of NGR1 on LPS-treated cells. Besides, NGR1 inactivated
+ NF-kappaB pathway in LPS-treated human renal proximal tubular epithelial
+ cells via up-regulating miR-26a. CONCLUSION: NGR1 protected human renal
+ proximal tubular epithelial cells from LPS-caused inflammatory damage at
+ least partially via up-regulating miR-26a and then inactivating NF-kappaB
+ pathway.",
+    mesh {
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Kidney Tubules, Proximal",
+        qual {
+          {
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN26A microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "Z62692362Z",
+        name "notoginsenoside R1"
+      }
+    },
+    pmid 31158334,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

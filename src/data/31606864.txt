@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 31606864,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalin augments the differentiation of osteoblasts via
+ enhancement of microRNA-217."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Q",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ No. 2888 Caozhou Road, Heze, 274031, China."
+          },
+          {
+            name ml "Shi D",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ No. 2888 Caozhou Road, Heze, 274031, China."
+          },
+          {
+            name ml "Geng Y",
+            affil str "Department of Comprehensive Medical, Heze Infectious
+ Disease Hospital, No. 298 Juyang Road, Heze, 274029, China."
+          },
+          {
+            name ml "Huang Q",
+            affil str "Department of Orthopaedics, The Second Affiliated
+ Hospital of Wenzhou Medical University, No. 109 Xueyuan West Road, Wenzhou,
+ 325000, China."
+          },
+          {
+            name ml "Xiang L",
+            affil str "Department of Orthopaedics, Heze Municipal Hospital,
+ No. 2888 Caozhou Road, Heze, 274031, China. xlongz0426@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cell. Biochem.",
+          ml-jta "Mol Cell Biochem",
+          issn "1573-4919",
+          name "Molecular and cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1
+          },
+          volume "463",
+          issue "1-2",
+          pages "91-100",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31606864,
+        doi "10.1007/s11010-019-03632-6",
+        pii "10.1007/s11010-019-03632-6",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11010-019-03632-6"
+        }
+      }
+    },
+    abstract "Baicalin (BAI), a sort of flavonoid monomer, acquires from
+ Scutellaria baicalensis Georgi, which was forcefully reported in diversified
+ ailments due to the pleiotropic properties. But, the functions of BAI in
+ osteoblast differentiation have not been addressed. The intentions of this
+ study are to attest the influences of BAI in the differentiation of
+ osteoblasts. MC3T3-E1 cells or rat primary osteoblasts were exposed to BAI,
+ and then cell viability, ALP activity, mineralization process, and Runx2 and
+ Ocn expression were appraised through implementing CCK-8, p-nitrophenyl
+ phosphate (pNPP), Alizarin red staining, western blot, and RT-qPCR assays.
+ The microRNA-217 (miR-217) expression was evaluated in MC3T3-E1 cells or rat
+ primary osteoblasts after BAI disposition; meanwhile, the functions of
+ miR-217 in BAI-administrated MC3T3-E1 cells were estimated after miR-217
+ inhibitor transfection. The impacts of BAI and miR-217 inhibition on
+ Wnt/beta-catenin and MEK/ERK pathways were probed to verify the involvements
+ in BAI-regulated the differentiation of osteoblasts. BAI accelerated cell
+ viability, osteoblast activity, and Runx2 and Ocn expression in MC3T3-E1
+ cells or rat primary osteoblasts, and the phenomena were mediated via
+ activations of Wnt/beta-catenin and MEK/ERK pathways. Elevation of miR-217
+ was observed in BAI-disposed MC3T3-E1 cells or rat primary osteoblasts, and
+ miR-217 repression annulled the functions of BAI in MC3T3-E1 cell viability
+ and differentiation. Additionally, the activations of Wnt/beta-catenin and
+ MEK/ERK pathways evoked by BAI were both restrained by repression of miR-217.
+ These explorations uncovered that BAI augmented the differentiation of
+ osteoblasts via activations of Wnt/beta-catenin and MEK/ERK pathways by
+ ascending miR-217 expression.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Core Binding Factor Alpha 1 Subunit",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoblasts",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteocalcin",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Core Binding Factor Alpha 1 Subunit"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "MIRN-217 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Runx2 protein, mouse"
+      },
+      {
+        type cas,
+        cit "104982-03-8",
+        name "Osteocalcin"
+      },
+      {
+        type cas,
+        cit "347Q89U4M5",
+        name "baicalin"
+      }
+    },
+    pmid 31606864,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

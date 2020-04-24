@@ -1,0 +1,367 @@
+
+Pubmed-entry ::= {
+  pmid 30415259,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ganoderic Acid A Protects Rat H9c2 Cardiomyocytes from
+ Hypoxia-Induced Injury via Up-Regulating miR-182-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang X",
+            affil str "Department of Ultrasound, Huaihe Hospital, Henan
+ University, Kaifeng, Chinaljeuzfgd172714@gmail.com."
+          },
+          {
+            name ml "Xiao C",
+            affil str "Department of Ultrasound, Huaihe Hospital, Henan
+ University, Kaifeng, China."
+          },
+          {
+            name ml "Liu H",
+            affil str "Department of Cardiology, Huaihe Hospital, Henan
+ University, Kaifeng, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "50",
+          issue "6",
+          pages "2086-2096",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30415259,
+        pii "000495053",
+        doi "10.1159/000495053",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000495053"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Ganoderic acid A (GAA) isolated from Ganoderma
+ lucidum, shows various benefit activities, such as anti-tumor activity,
+ anti-HIV activity and hepatoprotective activity. However, the potential
+ effects of GAA on hypoxia-induced injury of cardiomyocytes are still unclear.
+ In this study, we aimed to reveal the effects of GAA on hypoxic-induced H9c2
+ cell injury, as well as potential underlying molecular mechanisms. METHODS:
+ Rat H9c2 cardiomyocytes were cultured in hypoxia condition with different
+ doses of GAA. Cell viability and apoptosis were detected by CCK-8 assay and
+ flow cytometry, respectively. qRT-PCR was performed to assess the expression
+ levels of microRNA-182-5p (miR-182-5p) and phosphatase and tensin homologue
+ (PTEN). Cell transfection was conducted to change the expression levels of
+ miR-182-5p and PTEN in H9c2 cells. Finally, protein levels of key factors
+ involved in cell proliferation, cell apoptosis and PTEN/PI3K/AKT pathway were
+ evaluated using western blotting. RESULTS: Hypoxia treatment significantly
+ induced H9c2 cell viability loss and apoptosis. GAA incubation remarkably
+ protected H9c2 cells from hypoxia-induced viability loss, proliferation
+ inhibition and apoptosis. In addition, GAA obviously enhanced the expression
+ level of miR-182-5p in H9c2 cells. Suppression of miR-182-5p notably
+ alleviated the protective effects of GAA on hypoxia-treated H9c2 cells.
+ Furthermore, miR-182-5p negatively regulated the mRNA and protein levels of
+ PTEN in H9c2 cells. GAA attenuated hypoxia-induced inactivation of PI3K/AKT
+ pathway in H9c2 cells by up-regulating miR-182-5p and then down-regulating
+ PTEN. CONCLUSION: GAA protected rat H9c2 cardiomyocytes from hypoxia-induced
+ injury might via up-regulating miR-182-5p, down-regulating PTEN and then
+ activating PI3K/AKT signaling pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Heptanoic Acids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lanosterol",
+        qual {
+          {
+            mp TRUE,
+            subh "analogs & derivatives"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PTEN Phosphohydrolase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Heptanoic Acids"
+      },
+      {
+        type nameonly,
+        name "MIRN182 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type cas,
+        cit "1J05Z83K3M",
+        name "Lanosterol"
+      },
+      {
+        type cas,
+        cit "548G37DF65",
+        name "ganoderic acid A"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN Phosphohydrolase"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "Pten protein, rat"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      }
+    },
+    pmid 30415259,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

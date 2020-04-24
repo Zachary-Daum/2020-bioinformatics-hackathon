@@ -1,0 +1,317 @@
+
+Pubmed-entry ::= {
+  pmid 30953817,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "lncRNA PEG10 promotes cell survival, invasion and migration by
+ sponging miR-134 in human bladder cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jiang F",
+            affil str "Department of Urologic Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun 130000, China."
+          },
+          {
+            name ml "Qi W",
+            affil str "Department of Gastroenterology, China-Japan Union
+ Hospital of Jilin University, Changchun 130000, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Urologic Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun 130000, China."
+          },
+          {
+            name ml "Wang W",
+            affil str "Department of Urologic Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun 130000, China."
+          },
+          {
+            name ml "Fan L",
+            affil str "Department of Urologic Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun 130000, China. Electronic address:
+ fanli0143@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "114",
+          pages "108814",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30953817,
+        pii "S0753-3322(18)38022-3",
+        doi "10.1016/j.biopha.2019.108814",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)38022-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.108814"
+        }
+      }
+    },
+    abstract "BACKGROUND: Bladder cancer is one of common malignancies
+ worldwide. lncRNAs and miRs are reported to play crucial roles in bladder
+ cancer. We aimed to reveal the roles and mechanisms of lncRNA PEG10 and
+ miR-134 in bladder cancer. METHODS: Transfection was used to alter PEG10,
+ miR-134, and LRP6 expression in human bladder cancer cell lines (T24 and
+ HT1197). Then PEG10, miR-134 and LRP6 in cells as well as tissues were
+ analyzed by qRT-PCR. The binding effect between miR-134 and PEG10 or LRP6 was
+ detected by luciferase reporter assay. Viability, migration, invasion and
+ apoptosis were evaluated by CCK-8, transwell assays and flow cytometry,
+ respectively. LRP6 and factors related with apoptosis and signal pathways
+ (Wnt/beta-catenin and JAK/ATAT) were detected by Western blot. Finally, we
+ established xenograft model and tumor volume and weight were both measured
+ and weighted. RESULTS: We found the abnormal expression of PEG10, miR-134 and
+ LRP6 in urinary bladder tissues and bladder cancer cell lines. PEG10
+ overexpression promoted viability, migration and invasion of T24 and HT1197
+ cells as well as facilitated tumor growth. PEG10 silence inhibited viability,
+ migration and invasion, and induced apoptosis of T24 cells by upregulating
+ miR-134 expression. PEG10 negatively regulated miR-134 expression. miR-134
+ targeted LRP6 and downregulated its expression. LRP6 promoted survival,
+ migration and invasion of T24 cells and activated Wnt/beta-catenin and
+ JAK/STAT signal pathways. CONCLUSION: lncRNA PEG10 functioned as an oncogene
+ in bladder cancer by sponging miR-134 and thus preventing LRP6 from
+ degradation by miR-134. LRP6 promoted bladder cancer progression probably
+ through activating Wnt/beta-catenin and JAK/STAT signal pathways.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Transfection",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Urinary Bladder Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN134 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "PEG10 non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30953817,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

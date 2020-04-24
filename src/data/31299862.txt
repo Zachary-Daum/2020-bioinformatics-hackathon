@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 31299862,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lidocaine inhibits proliferation and metastasis of lung cancer
+ cell via regulation of miR-539/EGFR axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun H",
+            affil str "a Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Sun Y",
+            affil str "a Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2866-2874",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31299862,
+        doi "10.1080/21691401.2019.1636807",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1636807"
+        }
+      }
+    },
+    abstract "Background: Despite the medical uses of lidocaine has been
+ well-characterized, the study of lidocaine's pharmacological function other
+ the anaesthetic effect was never stopped. This study designed to reveal the
+ effect of lidocaine on the growth and metastasis of lung cancer in vitro.
+ Methods: A549 and NCI-H1299 cells were treated by lidocaine for 24 h. miR-539
+ expression in cell was silenced by transfection with the specific inhibitor.
+ The changes in cell growth and metastasis were determined using CCK-8 assay
+ and western blot. Luciferase activity assay was performed to assay if EGFR
+ was a target of miR-539. Western blot was used to test the activation of EGFR
+ downstream signalling. Results: Lidocaine suppressed the viability,
+ migration, and invasion of A549 and NCI-H1299 cells while induced apoptotic
+ death. Lidocaine elevated the expression of miR-539. The anti-tumour
+ properties of lidocaine towards A549 and NCI-H1299 cells were partially
+ attenuated when miR-539 was silenced. EGFR was a target of miR-539. Lidocaine
+ repressed the activation of ERK and PI3K/AKT pathways also via regulating
+ miR-539. Conclusion: The anti-growth and anti-metastatic effects of lidocaine
+ towards lung cancer cells. The anti-tumour properties of lidocaine may be
+ partial via up-regulation of miR-539, which blocked EGFR signalling by
+ directly binding with EGFR.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "ErbB Receptors",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lidocaine",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "MIRN539 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "98PI200987",
+        name "Lidocaine"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "ErbB Receptors"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      }
+    },
+    pmid 31299862,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

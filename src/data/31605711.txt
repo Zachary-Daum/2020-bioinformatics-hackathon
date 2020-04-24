@@ -1,0 +1,274 @@
+
+Pubmed-entry ::= {
+  pmid 31605711,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginsenoside Rg1 defenses PC-12cells against hydrogen
+ peroxide-caused damage via up-regulation of miR-216a-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yi G",
+            affil str "Department of Spine Surgery, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Lv C",
+            affil str "Department of Spine Surgery, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Wei Y",
+            affil str "Department of Spine Surgery, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Yan T",
+            affil str "Department of Spine Surgery, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China. Electronic address:
+ tingzhen67ya@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11,
+            day 1
+          },
+          volume "236",
+          pages "116948",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 7,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 9,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31605711,
+        pii "S0024-3205(19)30875-6",
+        doi "10.1016/j.lfs.2019.116948",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)30875-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.116948"
+        }
+      }
+    },
+    abstract "BACKGROUND: Spinal cord injury (SCI) is a destructive trauma
+ accompanied with local injury. Ginsenoside Rg1 exerts anti-apoptosis and
+ anti-autophagy properties. Our goal was to study the protective mechanism of
+ Rg1 in attenuating cell injury. METHODS: MiR-216a-5p inhibitor was
+ transfected into PC-12cells to verify the growth promoting roles of
+ miR-216a-5p, then cells were pre-treated by Rg1 for 24h and treated by 300muM
+ hydrogen peroxide (H2O2) for 1h. Cell viability and apoptosis were tested
+ through Cell Counting Kit-8 (CCK-8) and flow cytometry, respectively.
+ Expression of miR-216a-5p and cell damage relative factors was tested via
+ qRT-PCR and Western blot experiments. RESULTS: H2O2 induced cell activity
+ suppression, apoptosis and clear autophagy well at the concentration of
+ 300muM Rg1 attenuated H2O2-induced cell injury at the concentration of 200muM
+ that it elevated cell activity, attenuated apoptosis and autophagy and
+ activated phosphatidylinositol 3 kinase (PI3K)/AMP-activated protein kinase
+ (AKT) and AMP-activated protein kinase (AMPK) signal pathways. Further,
+ miR-216a-5p was up-regulated by Rg1. CONCLUSION: Our study demonstrated that
+ Rg1 attenuated H2O2-caused cell injury through positively regulated
+ miR-216a-5p.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Autophagy"
+      },
+      {
+        term "Central Nervous System Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oxidants",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Central Nervous System Agents"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN216 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Oxidants"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type cas,
+        cit "PJ788634QY",
+        name "ginsenoside Rg1"
+      }
+    },
+    pmid 31605711,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

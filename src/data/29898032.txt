@@ -1,0 +1,329 @@
+
+Pubmed-entry ::= {
+  pmid 29898032,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA HOTAIR promotes UVB-induced apoptosis and
+ inflammatory injury by up-regulation of PKR in keratinocytes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu G",
+            affil str "Department of Burns and Plastic Surgery, Jining No.1
+ People's Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Zhang W",
+            affil str "Department of Burns and Plastic Surgery, Jining No.1
+ People's Hospital, Jining, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 11
+          },
+          volume "51",
+          issue "8",
+          pages "e6896",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29898032,
+        pii "S0100-879X2018000800607",
+        doi "10.1590/1414-431X20186896",
+        other {
+          db "pmc",
+          tag str "PMC6002131"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000800607"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431X20186896"
+        }
+      }
+    },
+    abstract "Excessive exposure to ultraviolet (UV) rays can cause damage of
+ the skin and may induce cancer, immunosuppression, photoaging, and
+ inflammation. The long non-coding RNA (lncRNA) HOX antisense intergenic RNA
+ (HOTAIR) is involved in multiple human biological processes. However, its
+ role in UVB-induced keratinocyte injury is unclear. This study was performed
+ to investigate the effects of HOTAIR in UVB-induced apoptosis and
+ inflammatory injury in human keratinocytes (HaCaT cells). Quantitative
+ real-time polymerase chain reaction was performed to analyze the expression
+ levels of HOTAIR, PKR, TNF-alpha, and IL-6. Cell viability was measured using
+ trypan blue exclusion method and cell apoptosis using flow cytometry and
+ western blot. ELISA was used to measure the concentrations of TNF-alpha and
+ IL-6. Western blot was used to measure the expression of PKR,
+ apoptosis-related proteins, and PI3K/AKT and NF-kappaB pathway proteins. UVB
+ induced HaCaT cell injury by inhibiting cell viability and promoting cell
+ apoptosis and expressions of IL-6 and TNF-alpha. UVB also promoted the
+ expression of HOTAIR. HOTAIR suppression increased cell viability and
+ decreased apoptosis and expression of inflammatory factors in UVB-treated
+ cells. HOTAIR also promoted the expression of PKR. Overexpression of HOTAIR
+ decreased cell viability and increased cell apoptosis and expression of
+ inflammatory factors in UVB-treated cells by upregulating PKR. Overexpression
+ of PKR decreased cell viability and promoted cell apoptosis in UVB-treated
+ cells. Overexpression of PKR activated PI3K/AKT and NF-kappaB pathways. Our
+ findings identified an essential role of HOTAIR in promoting UVB-induced
+ apoptosis and inflammatory injury by up-regulating PKR in keratinocytes.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          },
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Apoptosis Inducing Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Gene Expression"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Ultraviolet Rays",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "eIF-2 Kinase",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Apoptosis Inducing Factor"
+      },
+      {
+        type nameonly,
+        name "HOTAIR long untranslated RNA, human"
+      },
+      {
+        type nameonly,
+        name "IL6 protein, human"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "EIF2AK2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "eIF-2 Kinase"
+      }
+    },
+    pmid 29898032,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

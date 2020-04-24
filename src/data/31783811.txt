@@ -1,0 +1,330 @@
+
+Pubmed-entry ::= {
+  pmid 31783811,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Syndecan-1 suppresses cell growth and migration via blocking
+ JAK1/STAT3 and Ras/Raf/MEK/ERK pathways in human colorectal carcinoma cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang S",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, Qingdao, 266000, China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, Qingdao, 266000, China."
+          },
+          {
+            name ml "Wang G",
+            affil str "Department of Geriatrics, The Affiliated Hospital of
+ Qingdao University, No.59 Haier Road, Laoshan District, Qingdao, 266000,
+ Shandong, China."
+          },
+          {
+            name ml "Cao B",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, Qingdao, 266000, China."
+          },
+          {
+            name ml "Yang H",
+            affil str "Emergency Department, The Affiliated Hospital of
+ Qingdao University, Qingdao, 266000, China."
+          },
+          {
+            name ml "Jin L",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, Qingdao, 266000, China."
+          },
+          {
+            name ml "Cui M",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, Qingdao, 266000, China."
+          },
+          {
+            name ml "Mao Y",
+            affil str "Department of Geriatrics, The Affiliated Hospital of
+ Qingdao University, No.59 Haier Road, Laoshan District, Qingdao, 266000,
+ Shandong, China. yongjun23m@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11,
+            day 29
+          },
+          volume "19",
+          issue "1",
+          pages "1160",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31783811,
+        doi "10.1186/s12885-019-6381-y",
+        pii "10.1186/s12885-019-6381-y",
+        other {
+          db "pmc",
+          tag str "PMC6884902"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-019-6381-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Syndecan-1 (SDC-1) is a crucial membrane
+ proteoglycan, which is confirmed to participate in several tumor cell
+ biological processes. However, the biological significance of SDC-1 in
+ colorectal carcinoma is not yet clear. An objective of this study was to
+ investigate the role of SDC-1 in colorectal carcinoma cells. METHODS:
+ Expression of SDC-1 in colorectal carcinoma tissues was evaluated by Reverse
+ transcription-quantitative real-time PCR (RT-qPCR) and western blot. After
+ transfection with pcDNA3.1 or pc-SDC-1, the transfection efficiency was
+ measured. Next, SW480, SW620 and LOVO cell viability, apoptosis, migration
+ and adhesion were assessed to explore the effects of exogenous overexpressed
+ SDC-1 on colorectal carcinoma. In addition, the influences of aberrant
+ expressed SDC-1 in Janus kinase 1 (JAK1)/signal transducer and activator of
+ transcription 3 (STAT3) and rat sarcoma virus (Ras)/rapidly accelerated
+ fibrosarcoma (Raf)/mitogen-activated protein kinase (MEK)/extracellular
+ signal-regulated kinase (ERK) pathways were detected by western blot
+ analysis. RESULTS: SDC-1 mRNA and protein levels were down-regulated in human
+ colorectal carcinoma tissues. SDC-1 overexpression inhibited cell
+ proliferation via suppressing CyclinD1 and c-Myc expression, meanwhile
+ stimulated cell apoptosis via increasing the expression levels of B-cell
+ lymphoma-2-associated x (Bax) and Cleaved-Caspase-3. Additionally, SDC-1
+ overexpression restrained cell migration via inhibiting the protein
+ expression of matrix metallopeptidase 9 (MMP-9), and elicited cell adhesion
+ through increasing intercellular cell adhesion molecule-1 (ICAM-1).
+ Furthermore, SDC-1 overexpression suppressed JAK1/STAT3 and
+ Ras/Raf/MEK/ERK-related protein levels. CONCLUSIONS: In general, the evidence
+ from this study suggested that SDC-1 suppressed cell growth, migration
+ through blocking JAK1/STAT3 and Ras/Raf/MEK/ERK pathways in human colorectal
+ carcinoma cells.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Adhesion"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Gene Expression"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Janus Kinase 1",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Proto-Oncogene Proteins p21(ras)",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      },
+      {
+        term "Syndecan-1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Suppressor Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "raf Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "SDC1 protein, human"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "STAT3 protein, human"
+      },
+      {
+        type nameonly,
+        name "Syndecan-1"
+      },
+      {
+        type nameonly,
+        name "Tumor Suppressor Proteins"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "JAK1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "raf Kinases"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "Proto-Oncogene Proteins p21(ras)"
+      }
+    },
+    pmid 31783811,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

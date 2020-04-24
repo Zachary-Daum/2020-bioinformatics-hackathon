@@ -1,0 +1,309 @@
+
+Pubmed-entry ::= {
+  pmid 31618367,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Schizandrin A exerts anti-tumor effects on A375 cells by
+ down-regulating H19."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bi Y",
+            affil str "Department of Oncology, Binzhou People's Hospital,
+ Binzhou, China."
+          },
+          {
+            name ml "Fu Y",
+            affil str "Department of Dermatology, Binzhou People's Hospital,
+ Binzhou, China."
+          },
+          {
+            name ml "Wang S",
+            affil str "Department of Oncology, Binzhou People's Hospital,
+ Binzhou, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Oncology, Binzhou People's Hospital,
+ Binzhou, China."
+          },
+          {
+            name ml "Cai X",
+            affil str "Department of Oncology, Binzhou People's Hospital,
+ Binzhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10,
+            day 10
+          },
+          volume "52",
+          issue "10",
+          pages "e8385",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 8,
+                day 14
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31618367,
+        pii "S0100-879X2019001000610",
+        doi "10.1590/1414-431X20198385",
+        other {
+          db "pmc",
+          tag str "PMC6787960"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2019001000610"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431X20198385"
+        }
+      }
+    },
+    abstract "Malignant melanoma (MM) is one of the malignant tumors with
+ highly metastatic and aggressive biological actions. Schizandrin A (SchA) is
+ a bioactive lignin compound with strong anti-oxidant and anti-aging
+ properties, which is stable at room temperature and is often stored in a cool
+ dry place. Hence, we investigated the effects of SchA on MM cell line A375
+ and its underlying mechanism. A375 cells were used to construct an in vitro
+ MM cell model. Cell viability, proliferation, apoptosis, and migration were
+ detected by Cell Counting Kit-8, BrdU assay, flow cytometry, and transwell
+ two-chamber assay, respectively. The cell cycle-related protein cyclin D1 and
+ cell apoptotic proteins (Bcl-2, Bax, cleaved-caspase-3, and
+ cleaved-caspase-9) were analyzed by western blot. Alteration of H19
+ expression was achieved by transfecting with pEX-H19. PI3K/AKT pathway was
+ measured by detecting phosphorylation of PI3K and AKT. SchA significantly
+ decreased cell viability in a dose-dependent manner. Furthermore, SchA
+ inhibited cell proliferation and cyclin D1 expression. SchA increased cell
+ apoptosis along with the up-regulation of pro-apoptotic proteins
+ (cleaved-caspase-3, cleaved-caspase-9, and Bax) and the down-regulation of
+ anti-apoptotic protein (Bcl-2). Besides, SchA decreased migration and
+ down-regulated matrix metalloproteinases (MMP)-2 and MMP-9. SchA
+ down-regulated lncRNA H19. Overexpression of H19 blockaded the inhibitory
+ effects of SchA on A375 cells. SchA decreased the phosphorylation of PI3K and
+ AKT while H19 overexpression promoted the phosphorylation of PI3K and AKT.
+ SchA inhibited A375 cell growth, migration, and the PI3K/AKT pathway through
+ down-regulating H19.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cyclooctanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lignans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Melanoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polycyclic Compounds",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding"
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cyclooctanes"
+      },
+      {
+        type nameonly,
+        name "H19 long non-coding RNA"
+      },
+      {
+        type nameonly,
+        name "Lignans"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Polycyclic Compounds"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "74XQL5DO3S",
+        name "schizandrin A"
+      }
+    },
+    pmid 31618367,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

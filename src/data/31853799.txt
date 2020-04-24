@@ -1,0 +1,316 @@
+
+Pubmed-entry ::= {
+  pmid 31853799,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA nuclear-enriched abundant transcript 1 regulates
+ hypoxia-evoked apoptosis and autophagy via mediation of microRNA-181b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lv Y",
+            affil str "Department of Cardiovascular Surgery, The First
+ Hospital of Hebei Medical University, No. 89 Donggang Road, Shijiazhuang,
+ 050031, Hebei, China."
+          },
+          {
+            name ml "Liu Z",
+            affil str "Department of Pediatric Surgery, Shijiazhuang Maternity
+ & Child Healthcare Hospital, No. 9 Jianguo Road, Shijiazhuang, 050051, Hebei,
+ China."
+          },
+          {
+            name ml "Huang J",
+            affil str "Department of Cardiovascular Surgery, The First
+ Hospital of Hebei Medical University, No. 89 Donggang Road, Shijiazhuang,
+ 050031, Hebei, China."
+          },
+          {
+            name ml "Yu J",
+            affil str "Department of Cardiovascular Surgery, The First
+ Hospital of Hebei Medical University, No. 89 Donggang Road, Shijiazhuang,
+ 050031, Hebei, China."
+          },
+          {
+            name ml "Dong Y",
+            affil str "Department of Cardiovascular Surgery, The First
+ Hospital of Hebei Medical University, No. 89 Donggang Road, Shijiazhuang,
+ 050031, Hebei, China."
+          },
+          {
+            name ml "Wang J",
+            affil str "Department of Cardiovascular Surgery, The First
+ Hospital of Hebei Medical University, No. 89 Donggang Road, Shijiazhuang,
+ 050031, Hebei, China. 936380628@qq.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cell. Biochem.",
+          ml-jta "Mol Cell Biochem",
+          issn "1573-4919",
+          name "Molecular and cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1
+          },
+          volume "464",
+          issue "1-2",
+          pages "193-203",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 7,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 11,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31853799,
+        doi "10.1007/s11010-019-03660-2",
+        pii "10.1007/s11010-019-03660-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11010-019-03660-2"
+        }
+      }
+    },
+    abstract "Nuclear-enriched abundant transcript 1 (NEAT1), a vital long
+ noncoding RNA (lncRNA), exhibits the functions in disparate cancers.
+ Nevertheless, the influences of NEAT1 in congenital heart disease (CHD)
+ remain unreported. The research delves into whether NEAT1 affects H9c2 cells
+ apoptosis and autophagy under the hypoxia condition. Overexpressed NEAT1
+ vector was transfected into H9c2 cells; then, functions of NEAT1 in cell
+ viability, apoptosis, autophagy, PI3K/AKT/mTOR and JAK1/STAT3 pathways were
+ detected in H9c2 cells under hypoxia condition. Expression of NEAT1 and
+ miR-181b in hypoxia and blood samples from CHD was evaluated. After miR-181b
+ inhibitor transfection, functions of miR-181b repression in the
+ above-mentioned cell behavior and PI3K/AKT/mTOR and JAK1/STAT3 pathways were
+ reassessed. Overexpressed NEAT1 clearly allayed hypoxia-triggered H9c2 cells
+ apoptosis and autophagy. The decreased NEAT1 and miR-181b were showcased in
+ hypoxia and blood samples from CHD; meanwhile, elevated miR-181b evoked by
+ overexpressed NEAT1 was observed in hypoxia-managed H9c2 cells. More
+ importantly, miR-181b inhibition obviously overturned the influences of NEAT1
+ in hypoxia-affected H9c2 cells apoptosis and autophagy. Besides,
+ overexpressed NEAT1 facilitated PI3K/AKT/mTOR and JAK1/STAT3 activations via
+ enhancing miR-181b. The research exposed that NEAT1 eased hypoxia-triggered
+ H9c2 cells apoptosis and autophagy by expediting PI3K/AKT/mTOR and JAK1/STAT3
+ pathways via elevating miR-181b.",
+    mesh {
+      {
+        mp TRUE,
+        term "Apoptosis"
+      },
+      {
+        mp TRUE,
+        term "Autophagic Cell Death"
+      },
+      {
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Janus Kinase 1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIrn181 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NEAT1 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "STAT3 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "JAK1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31853799,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

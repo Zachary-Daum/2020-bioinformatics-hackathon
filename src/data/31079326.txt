@@ -1,0 +1,279 @@
+
+Pubmed-entry ::= {
+  pmid 31079326,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-376a inhibits the proliferation and invasion of osteosarcoma
+ by targeting FBXO11."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu Q",
+            affil str "Department of Orthopedic, The People's Hospital of
+ Cixi, No. 999 East Nanerhuan Road, Hushan Street, Cixi, 315300, People's
+ Republic of China."
+          },
+          {
+            name ml "Cheng L",
+            affil str "Department of Orthopedic, The People's Hospital of
+ Cixi, No. 999 East Nanerhuan Road, Hushan Street, Cixi, 315300, People's
+ Republic of China."
+          },
+          {
+            name ml "Chen J",
+            affil str "Department of Orthopedic, The People's Hospital of
+ Cixi, No. 999 East Nanerhuan Road, Hushan Street, Cixi, 315300, People's
+ Republic of China. dr_chenjianyang@126.com."
+          },
+          {
+            name ml "Lu W",
+            affil str "Department of Orthopedic, The People's Hospital of
+ Cixi, No. 999 East Nanerhuan Road, Hushan Street, Cixi, 315300, People's
+ Republic of China."
+          },
+          {
+            name ml "Wang P",
+            affil str "Department of Orthopedic, The People's Hospital of
+ Cixi, No. 999 East Nanerhuan Road, Hushan Street, Cixi, 315300, People's
+ Republic of China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Hum. Cell",
+          ml-jta "Hum Cell",
+          issn "1749-0774",
+          name "Human cell"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "32",
+          issue "3",
+          pages "390-396",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 2,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31079326,
+        doi "10.1007/s13577-019-00256-2",
+        pii "10.1007/s13577-019-00256-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s13577-019-00256-2"
+        }
+      }
+    },
+    abstract "Dysregulation of microRNAs (miRNAs) is frequently found in the
+ tumorigenesis of osteosarcoma (OS). miR-376a was found to play tumor
+ suppressive roles in human cancers. However, the role of miR-376a in OS
+ remains unclear. The expression of miR-376a was analyzed by quantitative
+ real-time PCR (qRT-PCR) in OS cell lines. Cell proliferation assay, cell
+ invasion assay, and cell apoptosis assay were performed to detect the
+ biological function of miR-376a after synthetic miRNA transfection. The
+ target of miR-376a was predicted by TargetScan and miRDB, and further
+ validated by luciferase activity reporter assay and western blot. miR-376a
+ expression was revealed to be decreased in OS cell lines. In vitro
+ experiments showed that overexpression of miR-376a inhibits OS cell
+ proliferation and invasion but promotes apoptosis. Luciferase activity
+ reporter assay and western blot assay showed F-box protein 11 (FBXO11) was a
+ direct target of miR-376a. Furthermore, FBXO11 mediated the role of miR-376a
+ on the proliferation, invasion, and apoptosis of OS cells. Collectively,
+ these results revealed miR-376a functions as a tumor suppressor by targeting
+ FBXO11 in OS. It may be developed as a therapeutic target for OS patients.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "F-Box Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Expression"
+      },
+      {
+        mp TRUE,
+        term "Genes, Tumor Suppressor"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Molecular Targeted Therapy"
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Protein-Arginine N-Methyltransferases",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "F-Box Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN376 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.1.1.319",
+        name "FBXO11 protein, human"
+      },
+      {
+        type ec,
+        cit "2.1.1.319",
+        name "Protein-Arginine N-Methyltransferases"
+      }
+    },
+    pmid 31079326,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,336 @@
+
+Pubmed-entry ::= {
+  pmid 30058243,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalin prevents tumor necrosis factor-alpha-induced apoptosis
+ and dysfunction of pancreatic beta-cell line Min6 via upregulation of miR-205."
+      },
+      authors {
+        names std {
+          {
+            name ml "You W",
+            affil str "Department of Endocrinology, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, China.; Department of Endocrinology,
+ Jining No.1 People's Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Wang K",
+            affil str "Department of Endocrinology, Jining No.1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Yu C",
+            affil str "First Department of Gastroenterology, First Affiliated
+ Hospital of Jiamusi University, Jiamusi, Heilongjiang, China."
+          },
+          {
+            name ml "Song L",
+            affil str "Department of Endocrinology, Jining No.1 People's
+ Hospital, Jining, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "119",
+          issue "10",
+          pages "8547-8554",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30058243,
+        doi "10.1002/jcb.27095",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27095"
+        }
+      }
+    },
+    abstract "Baicalin (BAI), one major flavonoid from Scutellaria
+ baicalensis, possesses anticancer and anti-inflammatory properties. However,
+ the effect of BAI on diabetes mellitus has not been investigated. This study
+ explored the antidiabetic effect of BAI on pancreatic beta-cell line Min6.
+ Min6 cells were treated with tumor necrosis factor-alpha (TNF-alpha) to mimic
+ beta-cell destruction in type 1 diabetes mellitus. The effects of BAI on
+ viability and apoptosis of Min6 cells were analyzed by the cell counting
+ kit-8 assay and Annexin V-fluoresceine isothiocyanate/propidium iodide
+ staining method. The insulin secretion of Min6 cells was determined using
+ radioimmunoassay. Expression of apoptosis-associated proteins and inducible
+ nitric oxide synthase (iNOS), and activation of phosphatidylinositol 3
+'-kinase/protein kinase B (PI3K/AKT) and nuclear factor KappaB (NF-kappaB)
+ pathways were analyzed by Western blot analysis. Relative microRNA-205
+ (miR-205) expression was determined by quantitative real time polymerase
+ chain reaction. TNF-alpha treatment inhibited cell growth and insulin
+ secretion, but promoted iNOS expression. All of these effects were reversed
+ by BAI treatment. BAI promoted viability; suppressed apoptosis; regulated
+ caspase-3, B-cell lymphoma 2 and Bcl-2-associated X protein; decreased iNOS
+ level; and increased insulin production. BAI protected Min6 cells by
+ upregulating miR-205. Besides, the Min6 cell-protective effect of BAI was
+ PI3K/AKT pathway and NF-kappaB pathway dependent. BAI activated the PI3K/AKT
+ pathway and inhibited the NF-kappaB pathway by regulating miR-205. In
+ conclusion, BAI protected Min6 cells from TNF-alpha-induced injury by
+ upregulating miR-205, which acts, at least in part, via activation of the
+ PI3K/AKT pathway and inactivation of the NF-kappaB pathway.",
+    mesh {
+      {
+        term "Analysis of Variance"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents, Non-Steroidal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Insulin-Secreting Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Insulinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pancreatic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Scutellaria baicalensis",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents, Non-Steroidal"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "MIRN205 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "347Q89U4M5",
+        name "baicalin"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30058243,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,338 @@
+
+Pubmed-entry ::= {
+  pmid 30468834,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "RETRACTED: Tanshinone IIA alleviates oxidative damage after
+ spinal cord injury in vitro and in vivo through up-regulating miR-124."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gong G",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun130033, Jilin, China."
+          },
+          {
+            name ml "Gu Y",
+            affil str "Department of Breast Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun130033, Jilin, China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun130033, Jilin, China."
+          },
+          {
+            name ml "Liu W",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun130033, Jilin, China."
+          },
+          {
+            name ml "Li L",
+            affil str "Department of Physiology, School of Basic Medical
+ Sciences, Shenzhen University Health Sciences Center, Shenzhen518060, China."
+          },
+          {
+            name ml "Li J",
+            affil str "School of Public Health Jilin University,
+ Changchun130021, Jilin, China. Electronic address: juanli0112@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1,
+            day 1
+          },
+          volume "216",
+          pages "147-155",
+          language "eng",
+          retract {
+            type in-error,
+            exp "Life Sci. 2020 May 15;249:117497. PMID: 32222312"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30468834,
+        pii "S0024-3205(18)30767-7",
+        doi "10.1016/j.lfs.2018.11.046",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(18)30767-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2018.11.046"
+        }
+      }
+    },
+    abstract "This article has been retracted: please see Elsevier Policy on
+ Article Withdrawal
+ (https://www.elsevier.com/about/our-business/policies/article-withdrawal).
+ This article has been retracted at the request of the Corresponding Author
+ with the agreement of the editor. The authors used DMSO (dimethyl sulfoxide)
+ to dissolve tanshinone IIA in this experiment, but even after dilution, DMSO
+ also can induce toxicity of PC12 cells, which also can affect the result of
+ the experiment. After discussion, the authors found that sulfotanshinone
+ sodium injection can be used to replace tanshinone II A, which is both an
+ aqueous solution and has been clinically proved to be an ideal substitute.
+ Further, in error, the authors used 0muM /12.5muM /50muM /100muM /200muM H2O2
+ to stimulate oxidative injury as in figure 1A, but missed 25muM H2O2, which
+ may also affect the experimental results.",
+    mesh {
+      {
+        term "Abietanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents, Non-Steroidal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Flow Cytometry"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Spinal Cord Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Abietanes"
+      },
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents, Non-Steroidal"
+      },
+      {
+        type nameonly,
+        name "MIRN124 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "03UUH3J385",
+        name "tanshinone"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 30468834,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

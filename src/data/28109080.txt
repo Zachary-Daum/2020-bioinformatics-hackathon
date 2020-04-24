@@ -1,0 +1,209 @@
+
+Pubmed-entry ::= {
+  pmid 28109080,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-21 Inhibits the Apoptosis of Osteosarcoma Cell Line
+ SAOS-2 via Targeting Caspase 8."
+      },
+      authors {
+        names ml {
+          "Xu B",
+          "Xia H",
+          "Cao J",
+          "Wang Z",
+          "Yang Y",
+          "Lin Y"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8,
+            day 7
+          },
+          volume "25",
+          issue "7",
+          pages "1161-1168",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28109080,
+        doi "10.3727/096504017X14841698396829",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504017X14841698396829"
+        }
+      }
+    },
+    abstract "Currently, multiple microRNAs (miRNAs) have been found to play
+ vital roles in the pathogenesis of osteosarcoma. This study aimed to
+ investigate the role of miR-21 in osteosarcoma. The level of miR-21 in 20
+ pairs of osteosarcoma and corresponding adjacent tissues was monitored by
+ qPCR. Human osteosarcoma cell line SAOS-2 was transfected with either miR-21
+ mimic or miR-21 inhibitor, and then cell viability, survival, and apoptosis
+ were measured by MTT, colony formation assay, and flow cytometry. A target of
+ miR-21 was predicted by the microRNA.org database and verified in vitro by
+ using luciferase reporter, qPCR, and Western blot analyses. Finally, cells
+ were cotransfected with siRNA against caspase 8 and miR-21 inhibitor, and the
+ apoptotic cell rate was determined again. Results showed that the mRNA level
+ of miR-21 was highly expressed in osteosarcoma tissues compared with adjacent
+ tissues. Overexpression of miR-21 improved cell viability and survival but
+ suppressed apoptosis. Caspase 8 was a direct target of miR-21, and it was
+ negatively regulated by miR-21. Moreover, miR-21 suppression attenuated
+ caspase 8 silencing and induced the decrease in apoptosis. In conclusion,
+ overexpression of miR-21 suppressed SAOS-2 cell apoptosis via directly
+ targeting caspase 8.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Caspase 8",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Genes, Reporter"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN21 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 8"
+      }
+    },
+    pmid 28109080,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

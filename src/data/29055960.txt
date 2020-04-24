@@ -1,0 +1,310 @@
+
+Pubmed-entry ::= {
+  pmid 29055960,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-145 Aggravates Hypoxia-Induced Injury by Targeting Rac1
+ in H9c2 Cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang X",
+            affil str "Department of Cardiovascular Surgery, The Second
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Sterilization and Supply Center, The Second Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Department of Cardiovascular Surgery, The Second
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Zhao G",
+            affil str "Department of Cardiovascular Surgery, The Second
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Fa X",
+            affil str "Department of Cardiovascular Surgery, The Second
+ Affiliated Hospital of Zhengzhou University, Zhengzhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "43",
+          issue "5",
+          pages "1974-1986",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29055960,
+        pii "000484121",
+        doi "10.1159/000484121",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000484121"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Myocardial infarction (MI) is a leading cause
+ of morbidity and mortality. Here, we sought to explore the potential role and
+ underlying mechanism of miR-145 in MI. METHODS: H9c2 cells were cultured
+ under persistent hypoxia to simulate MI. The hypoxia-induced injury was
+ assessed on the basis of cell viability, migration, invasion and apoptosis.
+ The expression of miR-145 was evaluated by qRT-PCR and the influence of
+ aberrantly expressed miR-145 on H9c2 cells under hypoxia was also estimated.
+ Utilizing bioinformatics methods, the target genes of miR-145 were verified
+ by luciferase reporter assay. Then, effects of abnormally expressed target
+ gene on miR-145 silenced H9c2 cells were assessed. Finally, the
+ phosphorylation levels of key kinases in the phosphatidylinositol-3-kinase
+ (PI3K)/AKT and the mitogen-activated protein kinase (MAPK)/extracellular
+ signal-regulated kinase (ERK) pathways were detected by Western blot
+ analysis. RESULTS: Hypoxia remarkably lowered viability, migration and
+ invasion but promoted cell apoptosis. Meantime, the miR-145 level was
+ up-regulated in H9c2 cells under hypoxia. Following experiments suggested
+ that hypoxia-induced injury was exacerbated by miR-145 overexpression while
+ was alleviated by miR-145 silence. Rac1 was predicted and further validated
+ to be a target gene of miR-145. The influence of miR-145 silencing on H9c2
+ cells under hypoxia could be reversed by down-regulation of Rac1.
+ Additionally, the phosphorylation levels of PI3K, AKT, MAPK and ERK were all
+ elevated in miR-145 silenced cells and these alterations were reversed by
+ down-regulation of Rac1. CONCLUSION: miR-145 silencing could protect H9c2
+ cells against hypoxia-induced injury by targeting Rac1, in which PI3K/AKT and
+ MAPK/ERK pathways might be involved.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reverse Transcriptase Polymerase Chain Reaction"
+      },
+      {
+        term "Sincalide",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "rac1 GTP-Binding Protein",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN145 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.6.1.-",
+        name "Rac1 protein, rat"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "rac1 GTP-Binding Protein"
+      },
+      {
+        type cas,
+        cit "M03GIQ7Z6P",
+        name "Sincalide"
+      }
+    },
+    pmid 29055960,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

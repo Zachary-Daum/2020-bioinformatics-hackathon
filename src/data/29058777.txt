@@ -1,0 +1,302 @@
+
+Pubmed-entry ::= {
+  pmid 29058777,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-103 confers the resistance to long-treatment of
+ adriamycin to human leukemia cells by regulation of COP1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wan L",
+            affil str "Emergency Department, Hospital of Northwestern
+ Polytechnical University, Xi'an, Shaanxi, China."
+          },
+          {
+            name ml "Tian Y",
+            affil str "Department of Pathology, No. 215 Hospital of Shaanxi
+ Nuclear Industry, Xianyang, Shaanxi, China."
+          },
+          {
+            name ml "Zhang R",
+            affil str "Emergency Department, The Second Affiliated Hospital of
+ Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+          },
+          {
+            name ml "Peng Z",
+            affil str "Emergency Department, The Second Affiliated Hospital of
+ Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+          },
+          {
+            name ml "Sun J",
+            affil str "Emergency Department, The Second Affiliated Hospital of
+ Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+          },
+          {
+            name ml "Zhang W",
+            affil str "Department of Hematology, The Second Affiliated
+ Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "119",
+          issue "5",
+          pages "3843-3852",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29058777,
+        doi "10.1002/jcb.26431",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26431"
+        }
+      }
+    },
+    abstract "Adriamycin (ADR) is an anti-cancer drug which offers improvement
+ in survival for acute myeloid leukemia (AML) patients. However, the drug
+ resistance is almost inevitable. Increasing evidences suggested that
+ microRNAs (miRNAs) were associated with cancer chemo-resistance. Here, we
+ aimed to explore the possible mechanism of miR-103 affected resistance to ADR
+ in AML cells. Different concentrations of ADR were used to induce K562 and
+ KASUMI-1 cells, and miR-103 mimic, inhibitor were transfected into K562 and
+ KASUMI-1 cells. Cell viability and proliferation were determined by trypan
+ blue staining and MTT assays for evaluating K562 and KASUMI-1 cells drug
+ resistance. The relationship of miR-103 and COP1, Trib1, and C/EBPalpha were
+ analyzed by qRT-PCR and Western blot. Cell proliferation, viability were
+ detected again. Besides, the expressions of main factors of cell cycle and
+ PI3K/AKT signal pathway were analyzed by Western blot. Results showed that
+ ADR inhibited cell viability and proliferation in K562 and KASUMI-1 cells.
+ However, K562 and KASUMI-1 cells appeared drug resistance for 50 passages at
+ 0.8 microM of ADR. In addition, miR-103 expression was up-regulated in
+ ADR-resistant K562 cells (K562/ADR) and overexpression of miR-103 increased
+ K562 cells drug resistance via promoting cell viability and cell
+ cycle-related factors expressions. COP1 was positively regulated by miR-103,
+ suppression of miR-103 recovered K562/ADR cells drug resistance by regulation
+ of COP1, Trib1, and C/EBPalpha. Besides, miR-103 blocked PI3K/AKT signal
+ pathway by regulation of COP1. These data indicated that miR-103 was
+ up-regulated in drug resistant cells and it may regulate ADR-resistance by
+ regulation of COP1 in AML cells.",
+    mesh {
+      {
+        term "Doxorubicin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Drug Resistance, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Enzymologic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Leukemic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "K562 Cells"
+      },
+      {
+        term "Leukemia, Myeloid, Acute",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Ubiquitin-Protein Ligases",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN103 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type cas,
+        cit "80168379AG",
+        name "Doxorubicin"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "COP1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Ubiquitin-Protein Ligases"
+      }
+    },
+    pmid 29058777,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

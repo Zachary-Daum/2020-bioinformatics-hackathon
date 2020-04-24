@@ -1,0 +1,292 @@
+
+Pubmed-entry ::= {
+  pmid 31432701,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silencing circular ANRIL protects HK-2 cells from
+ lipopolysaccharide-induced inflammatory injury through up-regulating
+ microRNA-9."
+      },
+      authors {
+        names std {
+          {
+            name ml "Deng W",
+            affil str "Department of Nephrology, Jining No.1 People's Hospital
+ , Jining , Shandong , China."
+          },
+          {
+            name ml "Chen K",
+            affil str "Department of Nephrology, Jining No.1 People's Hospital
+ , Jining , Shandong , China."
+          },
+          {
+            name ml "Liu S",
+            affil str "Department of Nephrology, Jining No.1 People's Hospital
+ , Jining , Shandong , China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Nephrology, Jining No.1 People's Hospital
+ , Jining , Shandong , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3478-3484",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31432701,
+        doi "10.1080/21691401.2019.1652187",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1652187"
+        }
+      }
+    },
+    abstract "Circular antisense non-coding RNA in the INK4 locus (cANRIL)
+ participated in inflammation of endothelial cells. However, whether cANRIL is
+ associated with inflammatory injury of HK-2 cells, thereby affecting chronic
+ kidney disease has not been investigated. We tested the hypothesis that
+ cANRIL participated in inflammatory response in vitro. HK-2 cells were
+ stimulated by lipopolysaccharides (LPS). RT-qPCR was executed for cANRIL
+ expression assessment. After transfection, cell viability, apoptosis,
+ inflammatory cytokines and ROS generation were appraised to evaluate the
+ impact of silencing cANRIL on LPS-induced inflammatory injury. The regulatory
+ relationship between cANRIL and microRNA-9 (miR-9) was verified. In addition,
+ whether miR-9 affected LPS-induced inflammatory injury was measured after
+ miR-9 inhibitor transfection. Western blot was utilized to detect NF-kappaB
+ and JNK/p38 pathway-related proteins. The results showed that LPS promoted
+ cANRIL expression and cell injuries in HK-2 cells. Furthermore, silencing
+ cANRIL alleviated inflammatory injuries by promoting viability, suppressing
+ apoptosis, inflammatory cytokines and ROS generation in HK-2 cells. In
+ addition, miR-9 expression was accelerated by silencing cANRIL. Meanwhile,
+ miR-9 down-regulation invalidated the effect of silencing cANRIL on
+ inflammation and NF-kappaB and JNK/p38 pathways. The study clarified that
+ silencing cANRIL hindered NF-kappaB and JNK/p38 pathways by positively
+ regulating miR-9, thereby protecting HK-2 cells from LPS-induced injury.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Silencing"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN92 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31432701,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

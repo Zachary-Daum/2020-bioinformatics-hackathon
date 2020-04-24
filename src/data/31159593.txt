@@ -1,0 +1,264 @@
+
+Pubmed-entry ::= {
+  pmid 31159593,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragalus polysaccharide alleviates H2O2-triggered oxidative
+ injury in human umbilical vein endothelial cells via promoting KLF2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li D",
+            affil str "a Department of Geriatrics, Xijing Hospital, The Fourth
+ Military Medical University , Xi'an , China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "a Department of Geriatrics, Xijing Hospital, The Fourth
+ Military Medical University , Xi'an , China."
+          },
+          {
+            name ml "Xu R",
+            affil str "a Department of Geriatrics, Xijing Hospital, The Fourth
+ Military Medical University , Xi'an , China."
+          },
+          {
+            name ml "Jia X",
+            affil str "a Department of Geriatrics, Xijing Hospital, The Fourth
+ Military Medical University , Xi'an , China."
+          },
+          {
+            name ml "Li X",
+            affil str "a Department of Geriatrics, Xijing Hospital, The Fourth
+ Military Medical University , Xi'an , China."
+          },
+          {
+            name ml "Huo C",
+            affil str "a Department of Geriatrics, Xijing Hospital, The Fourth
+ Military Medical University , Xi'an , China."
+          },
+          {
+            name ml "Wang X",
+            affil str "a Department of Geriatrics, Xijing Hospital, The Fourth
+ Military Medical University , Xi'an , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2188-2195",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31159593,
+        doi "10.1080/21691401.2019.1621886",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1621886"
+        }
+      }
+    },
+    abstract "The damage of vascular endothelial cells has become an
+ indispensable factor in the occurrence and advancement of cardiovascular
+ diseases. In the current study, we investigated the effect of Astragalus
+ Polysacharin (APS) on H2O2-evoked oxidative injury in HUVECs. HUVECs cells
+ were treated by H2O2 to induce oxidative damage. Cells viability, apoptosis
+ and reactive oxygen species (ROS) level were detected through CCK8 assay and
+ flow cytometry. The cell growth-related proteins and heme oxygenase-1(HO-1)
+ and KLF2 expression were evaluated via Western blot assay. The functions of
+ KLF2 in APS and H2O2 co-disposed HUVECs were explored after si-KLF2
+ transfection. MEK/ERK pathway was finally measured through Western blot. We
+ found that H2O2 stimulation-evoked HUVECs oxidative damage meanwhile impeded
+ HO-1 expression. APS treatment effectively suppressed H2O2-induced oxidative
+ injury in HUVECs. KLF2 and Nrf2 expression were elevated by APS and KLF2
+ repression abolished the protective action of APS in H2O2-triggered cell
+ injury. MEK/ERK pathway was activated by APS treatment. Furthermore, the
+ MEK/ERK pathway inhibitor weakened the promoting effect of APS on the
+ expression of KLF2. In conclusion, our study reveals that APS alleviates
+ H2O2-triggered oxidative injury in HUVECs via elevating the expression of
+ KLF2 via the MEK/ERK pathway.",
+    mesh {
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Fabaceae",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Human Umbilical Vein Endothelial Cells",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Kruppel-Like Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "KLF2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Kruppel-Like Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      }
+    },
+    pmid 31159593,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

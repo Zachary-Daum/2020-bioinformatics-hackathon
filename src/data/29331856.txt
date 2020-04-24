@@ -1,0 +1,378 @@
+
+Pubmed-entry ::= {
+  pmid 29331856,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Schizandrin A enhances chemosensitivity of colon carcinoma cells
+ to 5-fluorouracil through up-regulation of miR-195."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kong D",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People'S Hospital, Jining, 272000, China."
+          },
+          {
+            name ml "Zhang D",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People'S Hospital, Jining, 272000, China."
+          },
+          {
+            name ml "Chu X",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People'S Hospital, Jining, 272000, China."
+          },
+          {
+            name ml "Wang J",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People'S Hospital, Jining, 272000, China. Electronic address:
+ Wjing0112@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "99",
+          pages "176-183",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 23
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29331856,
+        pii "S0753-3322(17)36270-4",
+        doi "10.1016/j.biopha.2018.01.035",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36270-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.01.035"
+        }
+      }
+    },
+    abstract "Nowadays 5-fluorouracil (5-FU)-based adjuvant chemotherapy is
+ widely used for treating colon carcinoma. However, 5-FU resistance in the
+ treatment of colon carcinoma has become more common and thereby new
+ therapeutic strategies and new adjuvant drugs still need to be explored. Two
+ 5-FU-resistant colon cancer cell lines, HCT116 and SW480, were used to
+ investigate the effects of Schizandrin A (SchA), 5-FU, or their combination
+ on cell viability and apoptosis. Besides, the role of miR-195 was studied to
+ further clarify the specific function of SchA. CCK-8 assay and flow cytometry
+ analysis were conducted to determine cell viability and apoptosis,
+ respectively. miR-195 expression was determined by quantitative real-time
+ PCR. Cell apoptosis-related proteins and factors of PI3K/AKT and NF-kappaB
+ pathways were analyzed by Western blot. Cell viability assay showed that SchA
+ treatment at non-toxic dosages caused a marked enhancement of 5-FU-induced
+ cytotoxicity. Moreover, we explored that miR-195 was up-regulated by SchA;
+ and overexpression of miR-195 reduced cell viability and sensitized
+ 5-FU-resistant HCT116 and SW480 cells to 5-FU. The promoting effect of SchA
+ on 5-FU susceptibility can be partly abolished by miR-195 knockdown. Thus it
+ was speculated that SchA might enhance cell chemosensitivity to 5-FU by
+ up-regulating miR-195. Finally, we found that PI3K/AKT and NF-kappaB pathways
+ were inhibited by high expression of miR-195 reduced by SchA. Our results
+ suggested that SchA sensitized 5-FU-resistant colon carcinoma cells to 5-FU
+ by up-regulating miR-195. SchA combined with 5-FU could be a promising
+ strategy for the adjuvant chemotherapy of colon cancer.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Colonic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cyclooctanes",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Drug Resistance, Neoplasm",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Fluorouracil",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lignans",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polycyclic Compounds",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cyclooctanes"
+      },
+      {
+        type nameonly,
+        name "Lignans"
+      },
+      {
+        type nameonly,
+        name "MIRN195 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Polycyclic Compounds"
+      },
+      {
+        type cas,
+        cit "74XQL5DO3S",
+        name "schizandrin A"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "U3P01618RT",
+        name "Fluorouracil"
+      }
+    },
+    pmid 29331856,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,294 @@
+
+Pubmed-entry ::= {
+  pmid 31208217,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Angelica polysaccharide moderates hypoxia-evoked apoptosis and
+ autophagy in rat neural stem cells by downregulation of BNIP3."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xue Y",
+            affil str "a Department of Children's Healthcare, East Medical
+ District of Linyi People's Hospital , Linyi , China."
+          },
+          {
+            name ml "Dongmei Li",
+            affil str "b Department of Internal Medicine, Shandong Provincial
+ Coal Linyi Hot Springs Sanatorium Hospital , Linyi , China."
+          },
+          {
+            name ml "Yige Zhang",
+            affil str "c Classe Six of Clinical Five-Year System, Medical
+ Department of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Hang Gao",
+            affil str "d Class eight of Clinical Medicine, Basic Medical
+ College of Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Li H",
+            affil str "e Department of Children's Rehabilitation, Linyi Women
+'s and Children's Hospital , Linyi , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2492-2499",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31208217,
+        doi "10.1080/21691401.2019.1623228",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1623228"
+        }
+      }
+    },
+    abstract "Neonatal hypoxia-ischemia is a troublesome disease. Angelica
+ polysaccharide (AP) is proved to have antioxidant effects. Our study was
+ performed to confirm the effects of AP in hypoxia-exposed neural stem cells
+ (NSCs). NSCs were pre-treated with AP and then stimulated with hypoxia.
+ Viability of NSCs was examined by Cell Counting Kit-8 assay.
+ Hypoxia-introduced apoptosis was observed by flow cytometry. Essential
+ regulators of mTOR and Notch signalling pathways were examined by Western
+ blot. mRNA expression was accessed using qRT-PCR. Bcl2/adenovirus EIB
+ 19kD-interacting protein 3 (BNIP3) was altered by transfection. We noticed
+ that NSCs were sensitive to hypoxia-induced apoptosis and showed decreased
+ viability. Moreover, Beclin and light chain 3-II was upregulated while p62
+ was downregulated. However, AP reversed all these results. Similarly, hypoxia
+ decreased the phosphorylation of mTOR and p70S6K and Notch1 expression while
+ AP increased the phosphorylation of mTOR and p70S6K as well as the expression
+ of Notch1. BNIP3 was upregulated by hypoxia while downregulated by AP.
+ Further experiments demonstrated that overexpression of BNIP3 broken all the
+ effects induced by AP shown in cell viability, apoptosis, autophagy and
+ signalling pathways. Collectively, AP alleviated hypoxia-introduced NSCs
+ damages by maintaining cell viability, blocking apoptosis and autophagy via
+ downregulation of BNIP3 with the activation of mTOR and Notch signalling
+ pathways.",
+    mesh {
+      {
+        term "Angelica",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitochondrial Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neural Stem Cells",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BNIP3 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "Mitochondrial Proteins"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      }
+    },
+    pmid 31208217,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

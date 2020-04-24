@@ -1,0 +1,249 @@
+
+Pubmed-entry ::= {
+  pmid 31220954,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Skullcapflavone I protects cardiomyocytes from hypoxia-caused
+ injury through up-regulation of lincRNA-ROR."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang Z",
+            affil str "1 Department of Emergency, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Li H",
+            affil str "1 Department of Emergency, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Liu M",
+            affil str "1 Department of Emergency, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "He J",
+            affil str "2 Department of Anesthesiology, The Affiliated Hospital
+ of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "2 Department of Anesthesiology, The Affiliated Hospital
+ of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "3 Department of Intensive Care Unit, The Affiliated
+ Hospital of Qingdao University, Qingdao, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "33",
+          pages "2058738419857537",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31220954,
+        doi "10.1177/2058738419857537",
+        other {
+          db "pmc",
+          tag str "PMC6589964"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738419857537"
+        }
+      }
+    },
+    abstract "Myocardial infarction (MI) is a serious heart disease in which
+ cardiomyocytes are damaged, caused by hypoxia. This study explored the
+ possible protective activity of Skullcapflavone I (SF I), a flavonoid
+ isolated from the root of Scutellaria baicalensis Georgi, on
+ hypoxia-stimulated cardiomyocytes cell injury in vitro. Viability and
+ apoptosis of H9c2 cells and primary cardiomyocytes were tested using cell
+ counting kit-8 (CCK-8) assay and Guava Nexin Reagent, respectively.
+ Quantitative reverse transcription polymerase chain reaction (qRT-PCR) was
+ used to measure the long non-coding RNA regulator of reprogramming
+ (lincRNA-ROR) expression. si-ROR was transfected to knockdown lincRNA-ROR.
+ Western blotting was conducted to assess the protein levels of key molecules
+ related to cell proliferation, apoptosis, and mitogen-activated protein
+ kinase/extracellular signal-regulated kinase (MEK/ERK) pathway. We discovered
+ that hypoxia stimulation obviously reduced H9c2 cell and primary
+ cardiomyocytes' viability and proliferation, but promoted cell apoptosis. SF
+ I treatment mitigated the cell viability and proliferation inhibition, as
+ well as cell apoptosis caused by hypoxia. Moreover, SF I promoted the
+ hypoxia-caused up-regulation of lincRNA-ROR in H9c2 cells and primary
+ cardiomyocytes. Knockdown of lincRNA-ROR reversed the influence of SF I on
+ hypoxia-stimulated H9c2 cells and primary cardiomyocytes. Besides, SF I
+ activated MEK/ERK pathway in H9c2 cells and primary cardiomyocytes via
+ up-regulating lincRNA-ROR. To sum up, our research verified the beneficial
+ activity of SF I on hypoxia-caused cardiomyocytes injury. SF I protected
+ cardiomyocytes from hypoxia-caused injury through up-regulation of
+ lincRNA-ROR and activation of MEK/ERK pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cardiotonic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Flavones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "RNA, Long Noncoding"
+      },
+      {
+        term "Rats, Wistar"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cardiotonic Agents"
+      },
+      {
+        type nameonly,
+        name "Flavones"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "8P86A8Q1G0",
+        name "skullcapflavone I"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31220954,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

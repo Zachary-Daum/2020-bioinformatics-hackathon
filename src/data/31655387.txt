@@ -1,0 +1,328 @@
+
+Pubmed-entry ::= {
+  pmid 31655387,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tetramethylpyrazine alleviates lipopolysaccharide-induced damage
+ in ATDC5 cells via down-regulating MyD88."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Q",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Xing W",
+            affil str "Department of Breast Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Xu X",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Wang S",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "He Y",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China. Electronic address:
+ wang16yq@sina.com."
+          },
+          {
+            name ml "Sun H",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China. Electronic address:
+ sun27ho@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "111",
+          pages "104317",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 8,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31655387,
+        pii "S0014-4800(19)30345-4",
+        doi "10.1016/j.yexmp.2019.104317",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(19)30345-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.104317"
+        }
+      }
+    },
+    abstract "BACKGROUND: Tetramethylpyrazine (TMP) has been reported to play
+ a significant role in the cardiovascular and neuronal diseases. But, the
+ functions of TMP in osteoarthritis (OA) remain unclear. In this
+ investigation, we intended to probe the protective effectiveness of TMP in
+ lipopolysaccharide (LPS)-caused damage in ATDC5 cells. METHODS: ATDC5 cells
+ were managed with LPS (5mug/mL) for 12h, and then the effects of TMP on these
+ cells were evaluated. Cell viability and apoptosis of these treated cells
+ were detected by CCK-8 and flow cytometry methods. The secretions of
+ IL-1beta, IL-6 and TNF-alpha were examined via applying ELISA kits. qRT-PCR
+ was utilized to measure cell inflammatory factors and MyD88 expression. After
+ transfection with pc-MyD88, the above-involved cell processes were
+ reassessed, and NF-kappaB and p38MAPK pathways were examined by western blot
+ assay. RESULTS: LPS treatment induced a series of inflammatory destructions,
+ which reduced viability, accelerated apoptosis and cell inflammatory factors
+ release in ATDC5 cells. However, TMP precondition clearly mitigated
+ LPS-triggered ATDC5 cell injury. Additionally, TMP down-regulated MyD88
+ expression in LPS-treated ATDC5 cells, as well as overexpression of MyD88
+ overturned the impacts of TMP on LPS-induced cell injury in ATDC5 cells.
+ Beyond that, TMP restrained LPS-triggered the activations of NF-kappaB and
+ p38MAPK via repression of MyD88. CONCLUSION: The above consequences exhibited
+ that TMP exhibited a protective effect to lighten LPS-caused cell damage via
+ mediating MyD88/NF-kappaB/p38MAPK pathways. These findings suggested that TMP
+ perhaps an effective agent for the clinical treatment of OA.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Myeloid Differentiation Factor 88",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pyrazines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Vasodilator Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "Myd88 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Myeloid Differentiation Factor 88"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Pyrazines"
+      },
+      {
+        type nameonly,
+        name "Vasodilator Agents"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "V80F4IA5XG",
+        name "tetramethylpyrazine"
+      }
+    },
+    pmid 31655387,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,141 @@
+
+Pubmed-entry ::= {
+  pmid 31637704,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Circular RNA circFNDC3B protects renal carcinoma by miR-99a
+ downregulation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen T",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Yu Q",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Shao S",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Guo L",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 5
+          },
+          volume "235",
+          issue "5",
+          pages "4399-4406",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 7,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31637704,
+        doi "10.1002/jcp.29316",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.29316"
+        }
+      }
+    },
+    abstract "Various circular RNAs (circRNAs) have been reported to involve
+ in carcinoma. This study explored the role and mechanism of circRNA
+ circFNDC3B (circFNDC3B) in renal carcinoma (RC). The detection indicators in
+ this paper were viability, colony, and migration, which respectively
+ investigated by Cell Counting Kit-8, colony formation, and migration assay.
+ Reverse transcriptase quantitative polymerase chain reaction tested and cell
+ transfection changed circFNDC3B and miR-99a expression. Moreover, western
+ blot tested relate-proteins of proliferation, migration, and cell pathways
+ were examined by western blot. circFNDC3B was upregulated at RC tissues.
+ circFNDC3B enhanced cell viability, colony and migration, and miR-99a mimic
+ played reverse impacts. Furthermore, circFNDC3B negatively regulated
+ miR-99aand circFNDC3B restrained the janus kinase 1/signal transducer and
+ activator of transcription 3 (JAK1/STAT3) and extracellular signal-regulated
+ kinase (ERK) kinase (MEK)/ERK pathways by miR-99a downregulation.
+ Overexpression of circFNDC3B enhanced cell viability, colony formation and
+ migration by miR-99a downregulation via JAK1/STAT3 and MEK/ERK pathways.",
+    pmid 31637704,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

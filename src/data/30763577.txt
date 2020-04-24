@@ -1,0 +1,303 @@
+
+Pubmed-entry ::= {
+  pmid 30763577,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginsenoside Rg1 protects human retinal pigment epithelial
+ ARPE-19 cells from toxicity of high glucose by up-regulation of miR-26a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shi Q",
+            affil str "Department of Ophthalmology, Henan Eye Institute, Henan
+ Eye Hospital, Henan Provincial People's Hospital, Zhengzhou 450003, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Key Laboratory of Advanced Drug Preparation
+ Technologies, Ministry of Education of China, Co-innovation Center of Henan
+ Province for New Drug R&D and Preclinical Safety, School of Pharmaceutical
+ Sciences, Zhengzhou University, Zhengzhou 450000, China."
+          },
+          {
+            name ml "Sun G",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou 450000, China."
+          },
+          {
+            name ml "Wang L",
+            affil str "Department of Ophthalmology, People's Hospital of
+ Zhengzhou, Zhengzhou 450000, China."
+          },
+          {
+            name ml "Cui L",
+            affil str "Department of Ophthalmology, Henan Eye Institute, Henan
+ Eye Hospital, Henan Provincial People's Hospital, Zhengzhou 450003, China.
+ Electronic address: cuilongjiang0021@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3,
+            day 15
+          },
+          volume "221",
+          pages "152-158",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 2,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30763577,
+        pii "S0024-3205(19)30111-0",
+        doi "10.1016/j.lfs.2019.02.021",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)30111-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.02.021"
+        }
+      }
+    },
+    abstract "AIMS: The therapeutic strategies for diabetic retinopathy (DR)
+ are disappointing. Ginsenoside Rg1 (Rg1) extracted from Panax ginseng can
+ induce glucose uptake and lower oxidative stress. We aimed to explore the
+ effect of Rg1 on DR using human retinal pigment epithelium cells (ARPE-19).
+ MAIN METHODS: ARPE-19 cells were grown in high glucose (HG) to simulate DR.
+ Cell viability, apoptosis, ROS generation and miR-26a level were examined by
+ CCK-8 assay, flow cytometry assay, DCFH-DA staining and RT-qPCR,
+ respectively. Expression of proteins associated with viability, apoptosis and
+ oxidative stress was measured by Western blot analysis. Effects of Rg1 on
+ HG-induced alteration were assessed. Moreover, whether miR-26a was involved
+ in Rg1-associated modulation was verified. Finally, the involvements of the
+ ERK and Wnt/beta-catenin pathways were analyzed by Western blot analysis. KEY
+ FINDINGS: HG reduced cell viability while promoted apoptosis and oxidative
+ stress in ARPE-19 cells. Rg1 ameliorated HG-induced cell injury. The
+ expression of miR-26a was up-regulated by Rg1 in HG-treated cells, and
+ miR-26a inhibition obviously reversed the effects of Rg1 on HG-treated cells.
+ Finally, we found the ERK and Wnt/beta-catenin pathways were inhibited by Rg1
+ through up-regulation of miR-26a. SIGNIFICANCE: Rg1 protected ARPE-19 cells
+ against HG-induced injury through up-regulating miR-26a, along with
+ inhibition of the ERK and Wnt/beta-catenin pathways. Rg1 might be a potential
+ therapeutic drug for DR.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Apoptosis Regulatory Proteins"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress"
+      },
+      {
+        term "Reactive Oxygen Species"
+      },
+      {
+        term "Retinal Pigment Epithelium",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Retinal Pigments",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Transcriptional Activation"
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN26A microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "Retinal Pigments"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "PJ788634QY",
+        name "ginsenoside Rg1"
+      }
+    },
+    pmid 30763577,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

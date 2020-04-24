@@ -1,0 +1,294 @@
+
+Pubmed-entry ::= {
+  pmid 30838711,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ganoderic acid A alleviates hypoxia-induced apoptosis,
+ autophagy, and inflammation in rat neural stem cells through the
+ PI3K/AKT/mTOR pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chang Y",
+            affil str "Department of Pediatrics, Affiliated Hospital of Jining
+ Medical University, Jining, China."
+          },
+          {
+            name ml "Kong R",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital (East Branch), Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phytother Res",
+          ml-jta "Phytother Res",
+          issn "1099-1573",
+          name "Phytotherapy research : PTR"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 5
+          },
+          volume "33",
+          issue "5",
+          pages "1448-1456",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 2,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30838711,
+        doi "10.1002/ptr.6336",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ptr.6336"
+        }
+      }
+    },
+    abstract "Effects of ganoderic acid A (GAA), a lanostane triterpene, on
+ hypoxia-ischemia encephalopathy (HIE) remain unclear. We aimed to figure out
+ the specific role of GAA in hypoxia-treated neural stem cells (NSCs) as well
+ as the regulatory mechanisms. Primary rat NSCs were incubated under hypoxia
+ to simulate HIE. Viability and apoptosis of hypoxia-injured NSCs were
+ measured by cell counting kit-8 and flow cytometry assays, respectively.
+ Proteins related to apoptosis, autophagy, and the PI3K/AKT/mTOR pathways were
+ evaluated by Western blot analysis. LY294002 and rapamycin were added to
+ inhibit the PI3K/AKT pathway and mTOR pathway, respectively. Enzyme-linked
+ immunosorbent assay was carried out to test the release of proinflammatory
+ cytokines. We found that hypoxia-induced decrease of cell viability,
+ increases of apoptotic cells and autophagy, and the release of IL-6,
+ IL-1beta, and TNF-alpha were all attenuated by GAA stimulation. Activation of
+ caspases induced by hypoxia was alleviated by GAA. Furthermore, we found that
+ inhibition of the PI3K/AKT pathway eliminated the effects of GAA on apoptosis
+ and proinflammatory cytokines release in hypoxia-injured NSCs. Meanwhile,
+ inhibition of the mTOR pathway abrogated the effects of GAA on cell autophagy
+ in hypoxia-injured NSCs. In conclusion, GAA alleviated hypoxia-induced injury
+ in NSCs might be through activating the PI3K/AKT and mTOR pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Heptanoic Acids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lanosterol",
+        qual {
+          {
+            mp TRUE,
+            subh "analogs & derivatives"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Neural Stem Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Heptanoic Acids"
+      },
+      {
+        type cas,
+        cit "1J05Z83K3M",
+        name "Lanosterol"
+      },
+      {
+        type cas,
+        cit "548G37DF65",
+        name "ganoderic acid A"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "mTOR protein, rat"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30838711,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

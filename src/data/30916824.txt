@@ -1,0 +1,155 @@
+
+Pubmed-entry ::= {
+  pmid 30916824,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The long noncoding RNA cardiac hypertrophy-related factor plays
+ oncogenic roles in hepatocellular carcinoma by downregulating microRNA-211."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Y",
+            affil str "Department of Hepatobiliary Surgery, Jining No.1 People
+'s Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Gynecology, Jining Hospital of TCM,
+ Jining, Shandong, China."
+          },
+          {
+            name ml "Xu X",
+            affil str "Department of Hepatobiliary Surgery, Jining No.1 People
+'s Hospital, Jining, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8
+          },
+          volume "120",
+          issue "8",
+          pages "13361-13371",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30916824,
+        doi "10.1002/jcb.28611",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.28611"
+        }
+      }
+    },
+    abstract "BACKGROUND: Hepatocellular carcinoma (HCC) is the most major
+ type of primary hepatic cancer. This study aimed to explore the possible
+ oncogenic effects of the long noncoding RNA cardiac hypertrophy-related
+ factor (CHRF) on HCC, as well as the underlying possible mechanism. METHODS:
+ The expression levels of CHRF and microRNA-211 (miR-211) in HCC tissues
+ and/or cell lines HepG2 and Huh-7 were measured using quantitative reverse
+ transcription polymerase chain reaction. Cell transfection was conducted to
+ change the expression levels of CHRF and miR-211 in cells. Cell viability and
+ apoptosis were assessed using the cell counting kit-8 assay and annexin
+ V-phycoerythrin staining, respectively. The pull-down assay and RNA
+ immunoprecipitation were performed to analyze the association between CHRF
+ and miR-211. The expression of the key factors involving in cell
+ proliferation, cell apoptosis, and epithelial-mesenchymal transition (EMT)
+ process, as well as the phosphoinositide-3-kinase (PI3K)/protein kinase B
+ (AKT) and Wnt/beta-catenin pathways, were evaluated by Western blot analysis.
+ RESULTS: CHRF was highly expressed in HCC tissues and positively associated
+ with the TNM stage, differentiation, and size of tumors. Overexpression of
+ CHRF promoted HepG2 cell viability, proliferation, and EMT process. CHRF
+ knockdown had opposite effects. Moreover, CHRF negatively regulated the
+ expression of miR-21, and miR-21 was a direct target of CHRF. Overexpression
+ of miR-211 reversed the effects of CHRF on HepG2 and Huh-7 cell viability,
+ proliferation, and EMT process. Furthermore, overexpression of CHRF activated
+ the PI3K/AKT and Wnt/beta-catenin pathways in HepG2 cells by downregulating
+ miR-211. CONCLUSION: CHRF played oncogenic roles in HCC. The overexpression
+ of CHRF promoted HepG2 and Huh-7 cell viability, proliferation, and EMT
+ process by downregulating miR-211 and then activating the PI3K/AKT and
+ Wnt/beta-catenin pathways.",
+    pmid 30916824,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

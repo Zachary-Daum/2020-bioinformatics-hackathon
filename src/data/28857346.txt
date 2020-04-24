@@ -1,0 +1,277 @@
+
+Pubmed-entry ::= {
+  pmid 28857346,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "ZIC2 promotes viability and invasion of human osteosarcoma cells
+ by suppressing SHIP2 expression and activating PI3K/AKT pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang S",
+            affil str "Department of Orthopedics, Zhujiang Hospital, Southern
+ Medical University, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Jin A",
+            affil str "Department of Orthopedics, Zhujiang Hospital, Southern
+ Medical University, Guangzhou, Guangdong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "119",
+          issue "2",
+          pages "2248-2257",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28857346,
+        doi "10.1002/jcb.26387",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26387"
+        }
+      }
+    },
+    abstract "Osteosarcoma is a malignant tumor of the skeletal system. The
+ zinc finger transcription factor ZIC2 has been reported to be highly
+ expressed in human cancers. The present study evaluated the effects of ZIC2
+ and the possible underlying mechanisms in the human osteosarcoma cells. The
+ expression levels of ZIC2 in human fetal osteoblastic cell line (hFOB1.19),
+ osteosarcoma cell lines (U-2OS, SaoS2, and MG63), normal bone tissue, and
+ osteosarcoma tumor were analyzed by Western blot, and real-time quantitative
+ RT-PCR (qRT-PCR). Osteosarcoma cells with either overexpressed ZIC2 or
+ suppressed ZIC2 were analyzed to determine cell viability, colony formation,
+ and cell invasion. The expressions of SHIP2 and PI3K/AKT signal
+ pathway-related proteins were analyzed by Western blot and qRT-PCR. We first
+ showed that ZIC2 is highly expressed in osteosarcoma cells and tissues. Then
+ we demonstrated that overexpression of ZIC2 promoted viability, migration,
+ and invasion of osteosarcoma cells, whereas suppression of ZIC2 showed
+ opposite effects. Furthermore, SHIP2 expression was negatively regulated by
+ ZIC2. Importantly, ZIC2 overexpression activated the PI3K/AKT signal pathway;
+ however, overexpressed SHIP2 inhibited these effects. Lastly, we showed that
+ activation of the PI3K/AKT signal pathway is essential for the effects of
+ ZIC2 on osteosarcoma cells, as the effects of ZIC2 on the osteosarcoma cells
+ were reversed by a PI3K/AKT inhibitor. Overall, ZIC2 is highly expressed in
+ osteosarcoma cells and tissues, and its overexpression promotes viability,
+ invasion of osteosarcoma cells via SHIP2 suppression, and PI3K/AKT
+ activation. Thus, ZIC2 can be considered as a novel drug target for
+ osteosarcoma management.",
+    mesh {
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Nuclear Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol-3,4,5-Trisphosphate 5-Phosphatases",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Nuclear Proteins"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "ZIC2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.86",
+        name "INPPL1 protein, human"
+      },
+      {
+        type ec,
+        cit "3.1.3.86",
+        name "Phosphatidylinositol-3,4,5-Trisphosphate 5-Phosphatases"
+      }
+    },
+    pmid 28857346,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

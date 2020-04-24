@@ -1,0 +1,244 @@
+
+Pubmed-entry ::= {
+  pmid 30509103,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Skullcapflavone I inhibits proliferation of human colorectal
+ cancer cells via down-regulation of miR-107 expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang W",
+            affil str "Department of Gastroenterology, Shengli Oilfield
+ Central Hospital, Dongying, China."
+          },
+          {
+            name ml "Li W",
+            affil str "Department of Gastroenterology, Shengli Oilfield
+ Central Hospital, Dongying, China."
+          },
+          {
+            name ml "Han X",
+            affil str "Department of Gastroenterology, Shengli Oilfield
+ Central Hospital, Dongying, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neoplasma",
+          ml-jta "Neoplasma",
+          issn "0028-2685",
+          name "Neoplasma"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3,
+            day 5
+          },
+          volume "66",
+          issue "2",
+          pages "203-210",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 8,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30509103,
+        doi "10.4149/neo_2018_180427N279",
+        pii "180427N279",
+        other {
+          db "ELocationID doi",
+          tag str "10.4149/neo_2018_180427N279"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "180427N279"
+        }
+      }
+    },
+    abstract "Colorectal cancer (CRC) is a common malignant tumor with high
+ global increase and mortality. While Skullcapflavone I has been reported to
+ exert anti-tumor effect in several cancers, its role in CRC has not
+ previously been investigated. Recent studies have also demonstrated that
+ microRNA-107 (miR-107) and tropomyosin alpha-1 (TPM1) are important
+ regulators of cancer cell proliferation, but it remains unclear if these are
+ involved in regulating the effect of Skullcapflavone I on CRC cells. This
+ study therefore assessed the effects of Skullcapflavone I on CRC cell
+ proliferation and investigated miR-107 and TPM1 regulatory effects on this
+ process. The results showed that Skullcapflavone I significantly suppressed
+ cell proliferation and viability and down-regulated PCNA and Cyclin D1protein
+ levels. It also down-regulated miR-107 expression which then promoted TPM1
+ expression, but miR-107 over-expression abolished Skullcapflavone I
+ anti-proliferative effects. Furthermore, Skullcapflavone I inhibited the
+ activations of MEK/ERK and NF-kappaB signal pathway activation by regulating
+ TPM1 in HCT116 cells. These results demonstrated that Skullcapflavone I
+ increased the expression of TPM1 by down-regulating miR-107 and inhibiting
+ the MEK/ERK and NF-kappaB signal pathways. It then inhibited HCT116 cell
+ proliferation, and therefore Skullcapflavone I may provide new methodology in
+ colorectal cancer treatment.",
+    mesh {
+      {
+        term "Antineoplastic Agents, Phytogenic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Flavones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Tropomyosin",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Phytogenic"
+      },
+      {
+        type nameonly,
+        name "Flavones"
+      },
+      {
+        type nameonly,
+        name "MIRN107 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "TPM1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Tropomyosin"
+      },
+      {
+        type cas,
+        cit "8P86A8Q1G0",
+        name "skullcapflavone I"
+      }
+    },
+    pmid 30509103,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

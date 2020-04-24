@@ -1,0 +1,337 @@
+
+Pubmed-entry ::= {
+  pmid 31398664,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-342-5p inhibits expression of Bmp7 to regulate
+ proliferation, differentiation and migration of osteoblasts."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X",
+            affil str "Department of Orthopedics, The Affiliated Hospital of
+ Qingdao University, Qingdao 266555, Shandong, China."
+          },
+          {
+            name ml "Li K",
+            affil str "Department of Orthopedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Yu G",
+            affil str "Department of Orthopedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Yu C",
+            affil str "Department of Orthopedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Liu C",
+            affil str "Department of Orthopedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China. Electronic address: liuchuanan0087@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Immunol.",
+          ml-jta "Mol Immunol",
+          issn "1872-9142",
+          name "Molecular immunology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10
+          },
+          volume "114",
+          pages "251-259",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 7,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 7,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31398664,
+        pii "S0161-5890(19)30343-8",
+        doi "10.1016/j.molimm.2019.07.027",
+        other {
+          db "ELocationID pii",
+          tag str "S0161-5890(19)30343-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.molimm.2019.07.027"
+        }
+      }
+    },
+    abstract "BACKGROUND: Fracture healing is a complex process, and patients
+ with fracture will undergo non-union or compromised regeneration. MicroRNA
+ (miR)-342-5p is a Notch downstream molecule, and its roles in fracture
+ healing remain unclear. We aimed to explore the functional roles of
+ miR-342-5p in osteoblasts as well as the underlying mechanisms. METHODS: The
+ expression of miR-342-5p in differentiation of MC3T3-E1 cells or hMSCs was
+ examined by quantitative reverse transcription PCR (qRT-PCR). The effects of
+ aberrantly expressed miR-342-5p on cell proliferation, apoptosis, migration,
+ and expressions of proteins associated with proliferation and osteogenic
+ differentiation were determined by Cell Counting Kit-8, trypan blue staining,
+ flow cytometry, Transwell assay, Western blot and qRT-PCR assays,
+ respectively. The downstream factor and the target genes of miR-342-5p as
+ well as the involvements of the mitogen-activated protein kinase kinase
+ (MEK)/extracellular signal-regulated kinase (ERK) pathway were finally
+ assessed. RESULTS: miR-342-5p level was decreased during differentiation of
+ MC3T3-E1 cells or hMSCs. After cell transfection, miR-342-5p overexpression
+ significantly reduced cell viability, induced apoptosis, inhibited
+ proliferation, migration and differentiation, and down-regulated Bmp7
+ expression. Subsequent experiments showed the effects of miR-342-5p
+ inhibition on MC3T3-E1 cells were abrogated by Bmp7 knockdown. Additionally,
+ COL4A6 and Bmp2 were predicated as target genes of miR-342-5p. Finally,
+ phosphorylated levels of MEK and ERK were increased by miR-342-5p inhibition
+ via up-regulating Bmp7 expression. CONCLUSION: miR-342-5p inhibition promoted
+ proliferation, migration and differentiation of osteoblasts via regulating
+ Bmp7, along with activation of the MEK/ERK pathway.",
+    mesh {
+      {
+        term "3T3 Cells"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Bone Morphogenetic Protein 7",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoblasts",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Osteogenesis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BMP7 protein, human"
+      },
+      {
+        type nameonly,
+        name "Bone Morphogenetic Protein 7"
+      },
+      {
+        type nameonly,
+        name "MIRN342 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31398664,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

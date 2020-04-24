@@ -1,0 +1,288 @@
+
+Pubmed-entry ::= {
+  pmid 30551353,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Neferine inhibits proliferation, migration and invasion of U251
+ glioma cells by down-regulation of miR-10b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liang HX",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, 130033, China."
+          },
+          {
+            name ml "Sun LB",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, 130033, China."
+          },
+          {
+            name ml "Liu NJ",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, 130033, China. Electronic address:
+ liunj319@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "109",
+          pages "1032-1040",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 10,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30551353,
+        pii "S0753-3322(18)31863-8",
+        doi "10.1016/j.biopha.2018.10.122",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)31863-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.10.122"
+        }
+      }
+    },
+    abstract "BACKGROUND: Glioma is a common brain tumor, which is a serious
+ threat to the life and health of human with high mortality rate. Recently,
+ neferine (NEF) has been reported to play an important role in various
+ cancers. In the study, we aimed to investigate the effect of NEF on human
+ glioma cell line U251. METHODS: U251 cells were pre-treated with different
+ concentrations of NEF, and then CCK-8, BrdU, flow cytometry and transwell
+ assays were used to test cell proliferation, apoptosis, migration and
+ invasion. Subsequently, the expression vectors of miR-10b mimic and miR-10b
+ inhibitor were transfected into U251 cells, and the relative expression of
+ miR-10b was examined by qRT-PCR. The main proteins of CyclinD1/p53/p16,
+ pro-Caspase-3/-9, cleaved-Caspase-3/-9, MMP-9, Vimentin, PTEN/PI3K/AKT and
+ p38MAPK signal pathways were determined by western blot assay. RESULTS: NEF
+ significantly suppressed cell proliferation, and induced apoptosis, as well
+ as regulated CyclinD1, p53, p16 and cleaved-Caspase-3/-9 expressions in U251
+ cells. Moreover, NEF inhibited cell migration, invasion and decreased MMP-9
+ and Vimentin expression in U251 cells. Additionally, miR-10b expression was
+ down-regulated in NEF-stimulated cells, and overexpression of miR-10b
+ reversed the regulatory effects of NEF on U251 cells proliferation,
+ migration, invasion and apoptosis. Additionally, we found that PTEN was a
+ direct target of miR-10b in U251 cells. Besides, NEF deactivated
+ PTEN/PI3K/AKT and p38MAPK signal pathways by down-regulation of miR-10b in
+ U251 cells. CONCLUSIONS: These results suggested that NEF exerted anti-tumor
+ effect by down-regulation of miR-10b and deactivation of PTEN/PI3K/AKT and
+ p38MAPK signal pathways in glioma cells. These findings might provide a novel
+ therapeutic strategy for glioma.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Benzylisoquinolines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Brain Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Benzylisoquinolines"
+      },
+      {
+        type nameonly,
+        name "MIRN10 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "2292-16-2",
+        name "neferine"
+      }
+    },
+    pmid 30551353,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

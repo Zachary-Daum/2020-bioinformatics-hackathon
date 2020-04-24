@@ -1,0 +1,262 @@
+
+Pubmed-entry ::= {
+  pmid 28947385,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-125b promotes neurons cell apoptosis and Tau
+ phosphorylation in Alzheimer's disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma X",
+            affil str "Department of Geriatrics, Xi'an No. 1 Hospital, Xi'an
+ 710002, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Open Ward, Qingdao Mental Health Center, Qingdao
+ 266034, China."
+          },
+          {
+            name ml "Meng J",
+            affil str "Department of Geriatrics, Wuhan Mental Health Center,
+ No. 93, Youyi Road, Qiaokou District, Wuhan 430022, China. Electronic
+ address: mengjing0046@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neurosci. Lett.",
+          ml-jta "Neurosci Lett",
+          issn "1872-7972",
+          name "Neuroscience letters"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11,
+            day 20
+          },
+          volume "661",
+          pages "57-62",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28947385,
+        pii "S0304-3940(17)30785-1",
+        doi "10.1016/j.neulet.2017.09.043",
+        other {
+          db "ELocationID pii",
+          tag str "S0304-3940(17)30785-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.neulet.2017.09.043"
+        }
+      }
+    },
+    abstract "Alzheimer's disease (AD) is considered as one of the most common
+ neural degenerative diseases in human. Although the continuous investigations
+ about AD have been made in recent decades, the pathogenesis of this disease
+ is still not definitely confirmed. MicroRNA-125b (miR-125b) is extensive
+ expressed in many types of human tissues and played pivotal regulatory roles
+ in diverse biological process. In the present study, we aimed to explore the
+ roles of miR-125b in regulating neurons cell apoptosis under AD condition.
+ The possible molecular mechanisms were also investigated. We found that
+ miR-125b was up-regulated in patients with AD. Transfection with miR-125b
+ significantly enhanced the apoptosis of neurons cells and phosphorylation of
+ Tau by activation of cyclin-dependent kinase 5 (CDK5) and p35/25. Forkhead
+ box Q1 (FOXQ1) was the direct target gene of miR-125b, which involved in the
+ effects of miR-125b on neurons cell apoptosis and phosphorylation of Tau. Our
+ research interpreted the mechanism of up-regulation of miR-125b in
+ pathological Tau phosphorylation and AD occurrence. miR-125b may be a novel
+ regulator of AD progress and could be as a therapeutic target for AD therapy.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cyclin-Dependent Kinase 5",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Forkhead Transcription Factors",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "tau Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Forkhead Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "MIRN125 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "tau Proteins"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Cyclin-Dependent Kinase 5"
+      }
+    },
+    pmid 28947385,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

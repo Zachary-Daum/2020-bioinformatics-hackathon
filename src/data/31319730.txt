@@ -1,0 +1,275 @@
+
+Pubmed-entry ::= {
+  pmid 31319730,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Arbutin protects HK-2 cells against high glucose-induced
+ apoptosis and autophagy by up-regulating microRNA-27a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lv L",
+            affil str "a Department of Nephrology, Jining No.1 People's
+ Hospital , Jining , China.; b Affiliated Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "c Department of Endocrinology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Tian F",
+            affil str "d Department of Nephrology, Jiaxiang County Medicine
+ Hospital , Jiaxiang County , Jining ,  China."
+          },
+          {
+            name ml "Li X",
+            affil str "a Department of Nephrology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Li D",
+            affil str "c Department of Endocrinology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Yu X",
+            affil str "a Department of Nephrology, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2940-2947",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31319730,
+        doi "10.1080/21691401.2019.1640231",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1640231"
+        }
+      }
+    },
+    abstract "Arbutin (ARB) has been widely used in skin pigmentation
+ disorders. Nevertheless, the involvements of ARB in diabetic nephropathy (DN)
+ are still unknown. We investigated the functions of ARB in high glucose
+ (HG)-induced cell apoptosis and autophagy in HK-2 cells. Cell viability was
+ examined through CCK-8 in HK-2 cells after disposal with 45 mM glucose and
+ ARB (10-50 muM). Flow cytometry and western blot tested cell apoptosis and
+ the related protein levels in HK-2 cells after 45 mM glucose and 50 muM ARB
+ administration. RT-qPCR delved microRNA (miR)-27a expression in HG and ARB
+ co-treated HK-2 cells. Effect of miR-27a on ARB affected cell apoptosis and
+ autophagy was investigated after miR-27a inhibitor transfection. JNK and mTOR
+ pathways were finally assessed by western blot. ARB alleviated HG-induced
+ cell apoptosis, autophagy and regulated the related protein levels in HK-2
+ cells. MiR-27a expression was reduced in HG-treated cells, but was
+ accelerated in HG and ARB co-treated HK-2 cells with the increased
+ concentration. Inhibition of miR-27a apparently abolished the outcomes of ARB
+ in HG-induced HK-2 cells apoptosis and autophagy. Besides, ARB blocked JNK
+ and mTOR pathways by regulating miR-27a. The findings demonstrated that ARB
+ alleviated apoptosis and autophagy in HG-treated HK-2 cells by regulating
+ miR-27a/JNK/mTOR axis.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Arbutin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN27 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "C5INA23HXF",
+        name "Arbutin"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      }
+    },
+    pmid 31319730,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

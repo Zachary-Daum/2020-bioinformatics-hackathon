@@ -1,0 +1,381 @@
+
+Pubmed-entry ::= {
+  pmid 30257251,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragaloside IV Protects Rat Cardiomyocytes from
+ Hypoxia-Induced Injury by Down-Regulation of miR-23a and miR-92a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gong L",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Chang H",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "The Department of Neurosurgery, The Second Hospital of
+ Jilin University, Changchun, China."
+          },
+          {
+            name ml "Guo G",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Shi J",
+            affil str "Department of Clinical Laboratory, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Xu H",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "49",
+          issue "6",
+          pages "2240-2253",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30257251,
+        pii "000493827",
+        doi "10.1159/000493827",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000493827"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Astragaloside IV (AS-IV), a traditional Chinese
+ medicine isolated from Astragalus membranaceus, has been shown to exert
+ cardioprotective effect previously. This study aimed to reveal the effects of
+ AS-IV on hypoxia-injured cardiomyocyte. METHODS: H9c2 cells were treated with
+ various doses of AS-IV for 24 h upon hypoxia. CCK-8 assay, flow
+ cytometry/Western blot, and qRT-PCR were respectively conducted to measure
+ the changes in cell viability, apoptosis, and the expression of miR-23a and
+ miR-92a. Sprague-Dawley rats were received coronary ligation, and were
+ administrated by various doses of AS-IV for 14 days. The infarct volume and
+ outcome of rats followed by ligation were tested by ultrasound,
+ arteriopuncture and nitrotetrazolium blue chloride (NBT) staining. RESULTS:
+ We found that 10 mug/ml of AS-IV exerted myocardioprotective effects against
+ hypoxia-induced cell damage, as AS-IV significantly increased H9c2 cells
+ viability and decreased apoptosis. Interestingly, the myocardioprotective
+ effects of AS-IV were alleviated by miR-23a and/or miR-92a overexpression.
+ Knockdown of miR-23a and miR-92a activated PI3K/AKT and MAPK/ ERK signaling
+ pathways. Bcl-2 was a target gene for miR-23a, and BCL2L2 was a target gene
+ for miR-92a. In the animal model of myocardial infarction (MI), AS-IV
+ significantly reduced the infarct volume, ejection fraction (EF), shortening
+ fraction (FS) and LV systolic pressure (LVSP), and significantly increased
+ left ventricular end-diastolic internal diameter (LVEDd). And also, the
+ elevated expression of miR-23a and miR-92a in MI rat was reduced by AS-IV.
+ CONCLUSION: AS-IV protected cardiomyocytes against hypoxia-induced injury
+ possibly via down-regulation of miR-23a and miR-92a, and via activation of
+ PI3K/AKT and MAPK/ERK signaling pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Blood Pressure",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Saponins",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Triterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Bcl2l2 protein, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "Saponins"
+      },
+      {
+        type nameonly,
+        name "Triterpenes"
+      },
+      {
+        type cas,
+        cit "3A592W8XKE",
+        name "astragaloside A"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 30257251,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

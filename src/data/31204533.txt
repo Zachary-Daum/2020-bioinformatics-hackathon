@@ -1,0 +1,317 @@
+
+Pubmed-entry ::= {
+  pmid 31204533,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notoginsenoside R1 protects human keratinocytes HaCaT from
+ LPS-induced inflammatory injury by downregulation of Myd88."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "Department of Burns and Plastic Surgery, Affiliated
+ Hospital of Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Zheng Q",
+            affil str "Department of Burns and Plastic Surgery, Affiliated
+ Hospital of Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Lu H",
+            affil str "Department of Burns and Plastic Surgery, Affiliated
+ Hospital of Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Jin F",
+            affil str "Department of Burns and Plastic Surgery, Affiliated
+ Hospital of Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Burns and Plastic Surgery, Affiliated
+ Hospital of Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Bi F",
+            affil str "Department of Burns and Plastic Surgery, Affiliated
+ Hospital of Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Xu J",
+            affil str "Department of Burns and Plastic Surgery, Affiliated
+ Hospital of Jining Medical University, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "33",
+          pages "2058738419857550",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31204533,
+        doi "10.1177/2058738419857550",
+        other {
+          db "pmc",
+          tag str "PMC6580720"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738419857550"
+        }
+      }
+    },
+    abstract "Burn injury is a gigantic challenge in public health which
+ brings multiple negative effects to patients both in physical and spiritual
+ aspects. Inflammation plays vital roles in the progression of burn injury,
+ and our study investigated whether notoginsenoside R1 (NGR1) alleviated
+ lipopolysaccharide (LPS)-induced human keratinocyte HaCaT cell inflammatory
+ injury. Inflammatory injury was induced by LPS in HaCaT cells. Stimulated
+ cells were then treated by NGR1 in different concentrations. Cell viability
+ and cell apoptosis were detected by Cell Counting Kit-8 and flow cytometry,
+ respectively. The concentration of tumor necrosis factor alpha (TNF-alpha)
+ and interleukin-6 (IL-6) was measured by enzyme-linked immunosorbent assay
+ (ELISA). The accumulated levels of apoptosis-related proteins (caspase-3 and
+ caspase-9), nuclear factor kappaB (NF-kappaB), p38 mitogen-activated protein
+ kinase (p38MAPK) signal pathways-related proteins (p65, IkappaBalpha, and
+ p38MAPK), and myeloid differentiation primary response 88 (MyD88) were
+ examined by western blot. Transfection was used to alter the expression of
+ MyD88. We found that LPS stimulated HaCaT cells and induced cell
+ inflammation, evidenced by decreasing cell viability, increasing cell
+ apoptosis, and elevating TNF-alpha and IL-6 expressions. Then, we found that
+ NGR1 reversed the results by enhancing cell viability, inhibiting cell
+ apoptosis, and reducing TNF-alpha and IL-6 expressions. In addition, NGR1
+ decreased the phosphorylation of p65, IkappaBalpha, and p38MAPK, which
+ increased by LPS. Moreover, NGR1 negatively regulated the expression of
+ MyD88, and transfection with pMyD88 led to the opposite results with what
+ showed by NGR1 in LPS-stimulated HaCaT cells. To sum up, NGR1 alleviates
+ LPS-induced HaCaT cell inflammatory injury by downregulation of MyD88, as
+ well as inactivation of NF-kappaB and p38MAPK signal pathways.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Myeloid Differentiation Factor 88",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "IL6 protein, human"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MYD88 protein, human"
+      },
+      {
+        type nameonly,
+        name "Myeloid Differentiation Factor 88"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "TNF protein, human"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "Z62692362Z",
+        name "notoginsenoside R1"
+      }
+    },
+    pmid 31204533,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

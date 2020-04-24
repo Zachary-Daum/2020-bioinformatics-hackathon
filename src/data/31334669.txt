@@ -1,0 +1,298 @@
+
+Pubmed-entry ::= {
+  pmid 31334669,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Upregulation of lncRNA HAGLROS enhances the development of
+ nasopharyngeal carcinoma via modulating miR-100/ATG14 axis-mediated
+ PI3K/AKT/mTOR signals."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang W",
+            affil str "a Department of Otorhinolaryngology Head and Neck
+ Surgery, Luoyang Central Hospital , Luoyang , China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "b Department of Biochemistry and Molecular Biology,
+ Medical School, Henan University of Science and Technology , Luoyang , China."
+          },
+          {
+            name ml "Xi S",
+            affil str "b Department of Biochemistry and Molecular Biology,
+ Medical School, Henan University of Science and Technology , Luoyang , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3043-3052",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31334669,
+        doi "10.1080/21691401.2019.1640233",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1640233"
+        }
+      }
+    },
+    abstract "We planned to dig the significant role of long noncoding RNA
+ HAGLROS in nasopharyngeal carcinoma (NPC) and the latent mechanism. The
+ levels of HAGLROS in NPC tissues and cells were determined, followed by
+ correlation analysis of HAGLROS level and clinicopathological features of
+ patients suffered with NPC. The impacts of HAGLROS dysregulation on NPC cell
+ viability, apoptosis, and the expression of apoptotic proteins and
+ autophagy-related symbols were investigated. Moreover, we explored whether
+ HAGLROS modulated the expression of autophagy-related gene 14 (ATG14) by
+ competitively sponging miR-100, and then regulated the briskness of
+ PI3K/AKT/mTOR signals in NPC development. HAGLROS level in NPC tissues and
+ cell was very high. High level of HAGLROS indicated a short overall survival
+ in NPC patients. Depressing of HAGLROS lessened NPC cell viability, enhanced
+ apoptosis and reduced autophagy. Besides, HAGLROS negative controlled miR-100
+ and consequently targeted ATG14 expression, thus modulating NPC cell
+ viability, apoptosis, and autophagy. Besides, dysregulation of
+ HAGLROS/miR-100/ATG14 axis was correlated to the briskness of PI3K/AKT/mTOR
+ signals in NPC cells. Our results indicate that of the augment of HAGLROS
+ contributes to NPC development via modulating miR-100/ATG14 axis-mediated
+ PI3K/AKT/mTOR signals. Our study will offer a comprehensive basis for better
+ illustrating the pathogenesis of NPC. Highlights HAGLROS expression was
+ upregulated in NPC tissues and cells. High expression of HAGLROS indicated a
+ short overall survival in NPC patients. Silencing of HAGLROS promoted
+ apoptosis and inhibited autophagy of NPC cells. HAGLROS regulated ATG14
+ expression in NPC cells via sponging miR-100. HAGLROS/miR-100/ATG14 axis
+ regulated NPC development via PI3K/AKT/mTOR pathway.",
+    mesh {
+      {
+        term "Adaptor Proteins, Vesicular Transport",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy-Related Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Nasopharyngeal Carcinoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ATG14 protein, human"
+      },
+      {
+        type nameonly,
+        name "Adaptor Proteins, Vesicular Transport"
+      },
+      {
+        type nameonly,
+        name "Autophagy-Related Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN100 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31334669,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

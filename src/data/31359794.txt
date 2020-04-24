@@ -1,0 +1,281 @@
+
+Pubmed-entry ::= {
+  pmid 31359794,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Protective effects of ginsenoside Rb1 on H2O2-induced oxidative
+ injury in human endothelial cell line (EA.hy926) via miR-210."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jia F",
+            affil str "1 Department of Neurology, Shanxian Central Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Mou L",
+            affil str "2 Department of Neurology, Rizhao Hospital of
+ Traditional Chinese Medicine, Rizhao, China."
+          },
+          {
+            name ml "Ge H",
+            affil str "3 Department of Neurology, The Affiliated Hospital of
+ Northwest University, Xi'an No.3 Hospital, Xi'an, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "33",
+          pages "2058738419866021",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31359794,
+        doi "10.1177/2058738419866021",
+        other {
+          db "pmc",
+          tag str "PMC6668182"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738419866021"
+        }
+      }
+    },
+    abstract "Ginsenoside Rb1 (Rb1) possesses a cardioprotective effect via
+ mediating microRNAs (miRs), while it is unexplored whether miR-210 is
+ regulated by Rb1 in response to oxidative stress. Human endothelial EA.hy926
+ cells were stimulated with H2O2 before Rb1 treatment. After transfection,
+ cell viability, apoptosis, migration, and invasion assays were conducted.
+ Western blot was applied to quantify protein. BCL2/adenovirus E1B 19-kDa
+ interacting protein 3 (BNIP3) and miR-210 were analyzed with quantitative
+ reverse transcription polymerase chain reaction. Dual luciferase activity
+ assay was performed. Rb1 elevated viability, migration, and invasion of
+ H2O2-treated cells. H2O2-induced apoptosis was moderated by Rb1. miR-210 was
+ augmented in H2O2-treated cells after Rb1 stimulation. miR-210 inhibitor
+ abolished the positive effects of Rb1. BNIP3 was negatively modulated by
+ miR-210 and implicated in modulating viability, apoptosis, and migration and
+ invasion. In addition, BNIP3 modulated phosphorylation of regulators. Rb1
+ repressed oxidative injury via elevating miR-210. miR-210 negatively mediated
+ BNIP3, which participated in oxidative damage via regulating mammalian
+ targets of rapamycin (mTOR) and nuclear factor-kappaB (NF-kappaB).",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells"
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN210 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "7413S0WMH6",
+        name "ginsenoside Rb1"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      }
+    },
+    pmid 31359794,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,386 @@
+
+Pubmed-entry ::= {
+  pmid 30994730,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effect of lncRNA HULC knockdown on rat secreting pituitary
+ adenoma GH3 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rui QH",
+            affil str "Department of Clinical Laboratory, HwaMei Hospital,
+ University of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo,
+ Zhejiang, China."
+          },
+          {
+            name ml "Ma JB",
+            affil str "Department of Clinical Laboratory, HwaMei Hospital,
+ University of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo,
+ Zhejiang, China."
+          },
+          {
+            name ml "Liao YF",
+            affil str "Department of Clinical Laboratory, HwaMei Hospital,
+ University of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo,
+ Zhejiang, China."
+          },
+          {
+            name ml "Dai JH",
+            affil str "Department of Clinical Laboratory, HwaMei Hospital,
+ University of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo,
+ Zhejiang, China."
+          },
+          {
+            name ml "Cai ZY",
+            affil str "Department of Pain Clinic, The First Affiliated
+ Hospital of Xiamen University, Fujian Medical University, Xiamen, Fujian,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2019
+          },
+          volume "52",
+          issue "4",
+          pages "e7728",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30994730,
+        pii "S0100-879X2019000400610",
+        doi "10.1590/1414-431X20197728",
+        other {
+          db "pmc",
+          tag str "PMC6472935"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2019000400610"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431X20197728"
+        }
+      }
+    },
+    abstract "Pituitary adenoma is one of the most common tumors in the
+ neuroendocrine system. This study investigated the effects of long non-coding
+ RNAs (lncRNAs) highly up-regulated in liver cancer (HULC) on rat secreting
+ pituitary adenoma GH3 cell viability, migration, invasion, apoptosis, and
+ hormone secretion, as well as the underlying potential mechanisms. Cell
+ transfection and qRT-PCR were used to change and measure the expression
+ levels of HULC, miR-130b, and FOXM1. Cell viability, migration, invasion, and
+ apoptosis were assessed using trypan blue staining assay, MTT assay,
+ two-chamber transwell assay, Guava Nexin assay, and western blotting. The
+ concentrations of prolactin (PRL) and growth hormone (GH) in culture
+ supernatant of GH3 cells were assessed using ELISA. The targeting
+ relationship between miR-130b and FOXM1 was verified using dual luciferase
+ activity. Finally, the expression levels of key factors involved in
+ PI3K/AKT/mTOR and JAK1/STAT3 pathways were evaluated using western blotting.
+ We found that HULC was highly expressed in GH3 cells. Overexpression of HULC
+ promoted GH3 cell viability, migration, invasion, PRL and GH secretion, as
+ well as activated PI3K/AKT/mTOR and JAK1/STAT3 pathways. Knockdown of HULC
+ had opposite effects and induced cell apoptosis. HULC negatively regulated
+ the expression of miR-130b, and miR-130b participated in the effects of HULC
+ on GH3 cells. FOXM1 was a target gene of miR-130b, which was involved in the
+ regulation of GH3 cell viability, migration, invasion, and apoptosis, as well
+ as PI3K/AKT/mTOR and JAK1/STAT3 pathways. In conclusion, HULC tumor-promoting
+ roles in secreting pituitary adenoma might be via down-regulating miR-130b,
+ up-regulating FOXM1, and activating PI3K/AKT/mTOR and JAK1/STAT3 pathways.",
+    mesh {
+      {
+        term "Adenoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Migration Assays"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Enzyme-Linked Immunosorbent Assay"
+      },
+      {
+        term "Forkhead Box Protein M1",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Janus Kinase 1",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Luciferases"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pituitary Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reverse Transcriptase Polymerase Chain Reaction"
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Forkhead Box Protein M1"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type ec,
+        cit "1.13.12.-",
+        name "Luciferases"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30994730,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

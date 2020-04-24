@@ -1,0 +1,133 @@
+
+Pubmed-entry ::= {
+  pmid 31865777,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silencing hsa_circ_PVT1 (circPVT1) suppresses the growth and
+ metastasis of glioblastoma multiforme cells by up-regulation of miR-199a-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chi G",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Yang F",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Xu D",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Liu W",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 12
+          },
+          volume "48",
+          issue "1",
+          pages "188-196",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31865777,
+        doi "10.1080/21691401.2019.1699825",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1699825"
+        }
+      }
+    },
+    abstract "Background: Glioblastoma multiforme (GBM) is one of the most
+ prevailing primary brain tumours among adults and most aggressive cancers.
+ Despite multiple developments in medical and surgical treatments, GBM is
+ still a deadly disease with a high mortality rate. Here, this study was
+ performed to investigate the function of circPVT1 on GBM.Methods: CCK-8 and
+ flow cytometry were utilised to estimate viability and apoptosis in both
+ cells. qRT-PCR was performed to determine circPVT1 and miR-199a-5p
+ expression. Western blot was conducted to determine apoptosis, migration and
+ EMT-related proteins levels when silencing circPVT1. Subsequently, these
+ parameters were re-tested after up-regulating miR-199a-5p.Results: CircPVT1
+ was highly expressed in GBM tissues. Silencing circPVT1 raised two cells
+ apoptosis and reduced viability and migration capacity. Moreover, EGF-induced
+ EMT was repressed by silencing circPVT1. In addition, miR-199a-5p expression
+ was elevated when silencing circPVT1. And silencing circPVT1 exerted above
+ changes via up-regulating miR-199a-5p. Finally, silencing circPVT1 repressed
+ YAP1 and PI3K/AKT pathways via up-regulating miR-199a-5p.Conclusion: Our data
+ suggested that silencing circPVT1 inhibited viability, migration, EGF-induced
+ EMT and promoted apoptosis as well as repressed YAP1 and PI3K/AKT pathways by
+ up-regulating miR-199a-5p.HIGHLIGHTSCircPVT1 expression is highly expressed
+ in GBM tissues;Si-circPVT1 represses migration and promoted apoptosis in U539
+ and U251 cells;Si-circPVT1 represses migration and promoted apoptosis when
+ elevating miR-199a-5p;Si-circPVT1 represses EGF-induced EMT when increasing
+ miR-199a-5p;Si-circPVT1 suppresses YAP1 and PI3K/AKT pathways by
+ up-regulating miR-199-5p.",
+    pmid 31865777,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,311 @@
+
+Pubmed-entry ::= {
+  pmid 31353963,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Angelica polysaccharide mitigates lipopolysaccharide-evoked
+ inflammatory injury by regulating microRNA-10a in neuronal cell line HT22."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhou Y",
+            affil str "a Department of Neurology, Jining Psychiatric Hospital
+ , Jining , China."
+          },
+          {
+            name ml "Guo X",
+            affil str "b Department of Neurology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Chen W",
+            affil str "b Department of Neurology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Liu J",
+            affil str "c Department of Neurosurgery, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3194-3201",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31353963,
+        doi "10.1080/21691401.2019.1614595",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1614595"
+        }
+      }
+    },
+    abstract "Background: Angelica polysaccharide (AP) is disengaged from the
+ roots of Angelica sinensis. The extensive pathological activities of AP have
+ been discovered in disparate diseases. Nevertheless, the impression of AP in
+ epilepsy (EP) remains unaware. The research attempted to probe the impact of
+ AP on lipopolysaccharide (LPS)-evoked inflammatory injury in HT22 cells.
+ Methods: AP were exploited to stimulate HT22 cells, cell cytotoxicity was
+ monitored by CCK-8 assay. LPS was utilized to administrate HT22 cells to
+ evoke inflammatory injury, meanwhile the involvements of AP in cell
+ proliferation, apoptosis and inflammatory cytokines productions were
+ examined. MicroRNA-10a (miR-10a) inhibitor and its negative control were one
+ by one transfected into HT22 cells, the effect of miR-10a inhibition on LPS-
+ and AP-treated cells was determined. NF-kappaB and JAK2/STAT3 pathways were
+ ultimately detected. Results: AP promoted cell proliferation, inhibited
+ apoptosis and suppressed IL-1beta, TNF-alpha and IL-6 productions in
+ LPS-stimulated HT22 cells. Additionally, AP raised miR-10a expression in HT22
+ cells administration with LPS. These functions of AP in LPS-disposed cells
+ were conversed by miR-10a suppression. Further, AP interdicted NF-kappaB and
+ JAK2/STAT3 pathways via enhancing miR-10a. Conclusions: Data corroboarted
+ that AP mitigated LPS-evoked inflammatory injury through repression of
+ NF-kappaB and JAK2/STAT3 pathways by regulating miR-10a in HT22 cells.",
+    mesh {
+      {
+        term "Angelica",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Janus Kinase 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN10 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 2"
+      }
+    },
+    pmid 31353963,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

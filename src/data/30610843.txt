@@ -1,0 +1,275 @@
+
+Pubmed-entry ::= {
+  pmid 30610843,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Brazilein induces apoptosis and G1/G0 phase cell cycle arrest by
+ up-regulation of miR-133a in human vestibular schwannoma cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mou Z",
+            affil str "Department of Chinese Medicine, Yantai Hospital of
+ Traditional Chinese Medicine, Yantai 264000, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Chinese Medicine, Yantai Hospital of
+ Traditional Chinese Medicine, Yantai 264000, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Chinese Medicine, Yantai Hospital of
+ Traditional Chinese Medicine, Yantai 264000, China. Electronic address:
+ liyongmei0125@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "107",
+          pages "95-101",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 31
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30610843,
+        pii "S0014-4800(18)30393-9",
+        doi "10.1016/j.yexmp.2018.12.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30393-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2018.12.010"
+        }
+      }
+    },
+    abstract "BACKGROUND: Acoustic neuroma is a benign and usually slow
+ growing tumor. Brazilein is a natural compound extracted from hematoxylin.
+ However, there has been no study of the mechanism of brazilein in acoustic
+ neuroma cells. Thus, we aimed to investigate the effects and mechanism of
+ brazilein on human VS cells in this study. METHODS: The vestibular schwannoma
+ (VS) cells were collected from patient tissues and used in this study.
+ Different concentrations of brazilein (0, 10, 20 and 30muM) were used to
+ treat VS cells. The expression of miR-133a was altered by transfection with
+ miR-133a inhibitor. Further, cell viability, apoptosis, cell cycle, the mRNA
+ and phosphorylation levels of cell cycle, apoptosis-related proteins and main
+ factors in MAPK and JNK pathways were detected using CCK-8 assay, flow
+ cytometry analysis, qRT-PCR and western blot analysis, respectively. RESULTS:
+ The results showed that brazilein decreased cell viability, increased
+ apoptosis and induced G1/G0 cell cycle arrest in VS Cells. Further, miR-133a
+ expression was up-regulated in the brazilein-treated cells. Brazilein
+ promoted apoptosis and induced G1/G0 cell cycle arrest via up-regulation of
+ miR-133a. In addition, brazilein inhibited the activations of MAPK and JNK
+ pathways by up-regulating miR-133a expression. CONCLUSION: In conclusion, our
+ study demonstrated that brazilein could induce apoptosis and G1/G0 phase cell
+ cycle arrest, and deactivate MAPK and JNK signaling pathways via
+ up-regulation of miR-133a in human VS cells. These results provide
+ theoretical evidence for the clinical application of brazilein and a new
+ strategy for the treatment of acoustic neuroma.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Benzopyrans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Cycle Checkpoints",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Indenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Neuroma, Acoustic",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Resting Phase, Cell Cycle",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Benzopyrans"
+      },
+      {
+        type nameonly,
+        name "Indenes"
+      },
+      {
+        type nameonly,
+        name "MIRN133 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "600-76-0",
+        name "brazilein"
+      }
+    },
+    pmid 30610843,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

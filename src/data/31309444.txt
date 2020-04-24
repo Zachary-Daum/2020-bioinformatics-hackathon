@@ -1,0 +1,230 @@
+
+Pubmed-entry ::= {
+  pmid 31309444,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA Mirt2 relieves lipopolysaccharide-induced
+ injury in PC12 cells by suppressing miR-429."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li H",
+            affil str "Department of Orthopaedics, Shaoxing People's Hospital
+ (Shaoxing Hospital of Zhejiang University), Shaoxing, 312000, China."
+          },
+          {
+            name ml "Xu Y",
+            affil str "Department of Orthopaedics, Shaoxing People's Hospital
+ (Shaoxing Hospital of Zhejiang University), Shaoxing, 312000, China."
+          },
+          {
+            name ml "Wang G",
+            affil str "Department of Orthopaedics, Shenzhen University General
+ Hospital, Shenzhen, 518055, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Orthopaedics, Shaoxing People's Hospital
+ (Shaoxing Hospital of Zhejiang University), Shaoxing, 312000, China."
+          },
+          {
+            name ml "Liang W",
+            affil str "Department of Orthopaedics, Shaoxing People's Hospital
+ (Shaoxing Hospital of Zhejiang University), Shaoxing, 312000, China."
+          },
+          {
+            name ml "Ni H",
+            affil str "Department of Orthopaedics, The Affiliated Hospital of
+ Hangzhou Normal University, No.126 Wenzhou Road, Hangzhou, 310015, China.
+ nihuawei0106@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Physiol. Biochem.",
+          ml-jta "J Physiol Biochem",
+          issn "1877-8755",
+          name "Journal of physiology and biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8
+          },
+          volume "75",
+          issue "3",
+          pages "403-413",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 1,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31309444,
+        doi "10.1007/s13105-019-00691-7",
+        pii "10.1007/s13105-019-00691-7",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s13105-019-00691-7"
+        }
+      }
+    },
+    abstract "Long non-coding RNAs (lncRNAs) and microRNAs (miRNAs) play
+ important roles in the pathogenesis of spinal cord injury (SCI). This study
+ investigated the effects of lncRNA Mirt2 and miR-429 on lipopolysaccharide
+ (LPS)-induced injuries in PC12 cells. Serum samples were collected from 36
+ patients with SCI and the healthy controls. The expression of lncRNA Mirt2 in
+ serum samples was measured by qRT-PCR. The in vitro model of SCI was
+ established by treating PC12 cells with LPS. The effects of lncRNA Mirt2 and
+ miR-429 on the cell model were evaluated by CCK-8 assay, flow cytometry,
+ western blot, qRT-PCR, and ELISA. Further, the activation of NF-kappaB and
+ p38MAPK pathways was tested by western blot. LPS induced obvious cell
+ injuries in PC12 cells, as cell viability was reduced, apoptosis rate was
+ increased, caspase-3 and -9 were cleaved, and the release of TNF-alpha and
+ IL-6 was induced. lncRNA Mirt2 was up-regulated in LPS-stimulated PC12 cells
+ and serum samples derived from SCI patients. Overexpression of lncRNA Mirt2
+ protected PC12 cells against LPS-induced injuries. Further studies found that
+ lncRNA Mirt2 acted as the molecular sponge of miR-429 and miR-34a-5p. lncRNA
+ Mirt2 did not protect PC12 cells when miR-429 was overexpressed. Moreover,
+ the inhibitory effects of lncRNA Mirt2 on NF-kappaB and p38MAPK pathways were
+ abolished when miR-429 was overexpressed. lncRNA Mirt2 exerts protective
+ effects in an in vitro model of SCI by down-regulating miR-429. This study
+ shed light on the treatment of SCI by using the lncRNA-miRNA regulation
+ network.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Spinal Cord Injuries",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN429 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 31309444,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

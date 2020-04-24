@@ -1,0 +1,275 @@
+
+Pubmed-entry ::= {
+  pmid 31326411,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA TUG1 alleviates LPS-induced injury of PC-12
+ cells by down-regulating microRNA-127."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zheng H",
+            affil str "Department of Orthopedics, Ningbo No.6 Hospital, Ningbo
+ 315040, Zhejiang, China."
+          },
+          {
+            name ml "Hu S",
+            affil str "Department of Orthopedics, Ningbo No.6 Hospital, Ningbo
+ 315040, Zhejiang, China."
+          },
+          {
+            name ml "Cao J",
+            affil str "Department of Orthopedics, Ningbo No.6 Hospital, Ningbo
+ 315040, Zhejiang, China. Electronic address: caojin0290@sina.com."
+          },
+          {
+            name ml "Yao L",
+            affil str "Department of Orthopedics, Ningbo No.6 Hospital, Ningbo
+ 315040, Zhejiang, China."
+          },
+          {
+            name ml "Zhang N",
+            affil str "Department of Orthopedics, Ningbo No.6 Hospital, Ningbo
+ 315040, Zhejiang, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10
+          },
+          volume "110",
+          pages "104287",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 7,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 7,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31326411,
+        pii "S0014-4800(18)30386-1",
+        doi "10.1016/j.yexmp.2019.104287",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30386-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.104287"
+        }
+      }
+    },
+    abstract "The limited therapeutic strategies and the unsatisfied prognosis
+ for spinal cord injury (SCI) make the identification of innovative
+ therapeutic targets for SCI become very urgent. Herein, we explored the role
+ of long non-cording RNA taurine up-regulated gene 1 (lncRNA TUG1) in
+ lipopolysaccharide (LPS)-treated PC-12 cells and studied the downstream
+ effector and signaling cascades. We found that LPS-induced decrease of cell
+ viability, increase of apoptosis and release of IL-6 and TNF-alpha were
+ mitigated by TUG1 overexpression. MicroRNA (miR-127) was negatively regulated
+ by TUG1. Effects of TUG1 on LPS-treated PC-12 cells were reversed by miR-127
+ overexpression. Besides, TUG1 inactivated NF-kappaB and p38MAPK pathways in
+ LPS-treated PC-12 cells via down-regulating miR-127. Dynactin 4 and protein
+ tyrosine phosphatase (PTP) were the target genes of miR-127. miR-127
+ regulated the NF-kappaB and p38MAPK pathways in PC-12 cells at least by
+ targeting dynactin 4 and PTP. In conclusion, we discovered that TUG1
+ alleviated LPS-induced PC-12 cell inflammatory injury might be through
+ down-regulating miR-127, influencing dynactin 4 and PTP, and then
+ inactivating NF-kappaB and p38MAPK pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn127 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "TUG1 long noncoding RNA, rat"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31326411,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,255 @@
+
+Pubmed-entry ::= {
+  pmid 31286799,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "ASF1A regulates H4(Y72) phosphorylation and promotes autophagy
+ in colon cancer cells via a kinase activity."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qiu F",
+            affil str "a Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital , Jining , China.; b Affiliated Jining No.1 People's
+ Hospital of Jining Medical University, Jining Medical University , Jining ,
+ China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "a Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital , Jining , China."
+          },
+          {
+            name ml "Chu X",
+            affil str "a Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital , Jining , China."
+          },
+          {
+            name ml "Wang J",
+            affil str "a Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2754-2763",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31286799,
+        doi "10.1080/21691401.2019.1617725",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1617725"
+        }
+      }
+    },
+    abstract "Colon cancer is one of the most malignant cancers. Histone
+ modification is closely related to tumour development. Our study explored the
+ functions of anti-silencing function 1A (ASF1A) on H4(Y72ph) in colon cancer
+ cells. Colon cancer cell lines and clinical specimens were obtained and/or
+ transfected with full length ASF1A or interference mRNA to mimic or silence
+ of ASF1A expression. Immunoprecipitation and GST pull down was used to target
+ targeting ASF1A or H4(Y72ph). Cells were transfected with H4(WT)- or
+ H4(Y72F)-expressing. An in vitro kinase activity assay was set to determine
+ whether ASF1A could phosphorylate H4. The severity of autophagy was measured
+ by detecting number of autophagosomes, number of EGFP-LC3, LC3-II/I,
+ percentage of degradation and expression of autophagy associated gene (ATG).
+ ASF1A positively regulated H4(Y72ph); Immunoprecipitation assay and GST pull
+ down results showed that ASF1A interacted directly with H4. In addition,
+ ASF1A silence inhibited autophagosomes number, EGFP-LC3 number, LC3-II/I,
+ percentage of degradation and ATG expression. Moreover, H4(Y72F) impaired the
+ promoting autophagy effects of ASF1A. The ASF1A-H4(Y72ph) axis promoted colon
+ cancer autophagy via transcriptional regulation of ATG genes. ASF1A regulated
+ H4(Y72ph) and promotes autophagy in colon cancer cells via a kinase activity
+ through regulation of ATG.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Autophagy"
+      },
+      {
+        term "Autophagy-Related Proteins",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Cycle Proteins",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Colonic Neoplasms",
+        qual {
+          {
+            subh "enzymology"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Molecular Chaperones",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Protein-Tyrosine Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription, Genetic"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ASF1A protein, human"
+      },
+      {
+        type nameonly,
+        name "Autophagy-Related Proteins"
+      },
+      {
+        type nameonly,
+        name "Cell Cycle Proteins"
+      },
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type nameonly,
+        name "Molecular Chaperones"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "Protein-Tyrosine Kinases"
+      }
+    },
+    pmid 31286799,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,370 @@
+
+Pubmed-entry ::= {
+  pmid 29772436,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tanshinone IIA ameliorates lipopolysaccharide-induced
+ inflammatory response in bronchial epithelium cell line BEAS-2B by
+ down-regulating miR-27a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu X",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Meng J",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining 272011, Shandong, China. Electronic address:
+ Mengjie0927@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "104",
+          pages "158-164",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29772436,
+        pii "S0753-3322(17)36443-0",
+        doi "10.1016/j.biopha.2018.05.021",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36443-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.05.021"
+        }
+      }
+    },
+    abstract "BACKGROUND: Bronchopneumonia is a common lower respiratory tract
+ inflammatory disease, which is one of main causes of death in infants and
+ young children. Tanshinone IIA (Tan) is a naturally derived anti-inflammatory
+ compound, which has been used for some inflammatory diseases. OBJECTIVE: Tan
+ was expected to inhibit lipopolysaccharide (LPS)-induced inflammatory damage
+ in human bronchial epithelium cell line BEAS-2B. METHODS: BEAS-2B cells were
+ stimulated with LPS to mimic an in vitro model of bronchopneumonia. Cell
+ viability and apoptosis were respectively assessed by CCK-8 assay and flow
+ cytometry. The pro-inflammatory cytokines (IL-1beta, IL-6 and TNF-alpha) were
+ analyzed by qRT-PCR and quantified by ELISA. Relative miR-27a expression and
+ Bcl-2 expression were detected by qRT-PCR. Cyclin D1 expression, Bcl-2
+ expression, and main factors in PI3K/AKT and JNK signaling pathways were
+ analyzed by Western blotting. Dual luciferase activity assay was conducted to
+ analyze the target gene of miR-27a. RESULTS: Treatment of LPS inhibited cell
+ viability, suppressed expression of Cyclin D1, promoted apoptosis, and
+ enhanced secretions of IL-1beta, IL-6 and TNF-alpha, whereas, all effects
+ were reversed by Tan treatment. Moreover, miR-27a expression was decreased by
+ Tan. Tan protected BEAS-2B cells by down-regulating miR-27a. Bcl-2 was a
+ direct target of miR-27a and Bcl-2 overexpression attenuated the cell
+ injury-promoting effect of miR-27a. PI3K/AKT and JNK signaling pathways were
+ inhibited via action of Tan-miR-27a axis. CONCLUSION: Overall, Tan could
+ protect BEAS-2B cells against LPS-induced inflammation damage via
+ inactivating PI3K/AKT and JNK pathways by down-regulating miR-27a.",
+    mesh {
+      {
+        term "Abietanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Bronchi",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Respiratory Mucosa",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Abietanes"
+      },
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN27 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "03UUH3J385",
+        name "tanshinone"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 29772436,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

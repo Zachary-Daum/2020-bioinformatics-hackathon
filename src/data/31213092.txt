@@ -1,0 +1,264 @@
+
+Pubmed-entry ::= {
+  pmid 31213092,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of lncRNA LSINCT5 suppresses growth and metastasis of
+ human glioma cells via up-regulating miR-451."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu B",
+            affil str "a Department of Neurosurgery, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Cao W",
+            affil str "a Department of Neurosurgery, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Ma H",
+            affil str "a Department of Neurosurgery, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2507-2515",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31213092,
+        doi "10.1080/21691401.2019.1626404",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1626404"
+        }
+      }
+    },
+    abstract "Background: Glioma is a main cause of brain-cancer relevant
+ death. The present paper designed to reveal the possible role of LSINCT5 in
+ human glioma GL15 cells. Methods: LSINCT5 and miR-451 expression in glioma
+ tissues was examined using qRT-PCR. The impacts of LSINCT5, miR-451 and Rac1
+ in GL15 cells were checked by carrying out CCK-8 assay, transwell assay, and
+ flow cytometric analysis. Further, the target gene of LSINCT5 and miR-451 was
+ explored. Accumulation of PI3K/AKT, Wnt/beta-catenin and NF-kappaB pathway
+ proteins was examined using Western blot. Results: LSINCT5 was highly
+ expressed while miR-451 low expressed in glioma tissues when compared to
+ normal controls. Down-regulating LSINCT5 effectively declined GL15 cells
+ viability, migration and invasion, but accelerated apoptosis. Nonetheless,
+ the above-mentioned effects of LSINCT5 down-regulation were weakened when
+ miR-451 was silenced. Rac1 was a target of miR-451. The tumour-suppressive
+ effects of miR-451 on GL15 cells were weakened when Rac1 was overexpressed.
+ Further, LSINCT5-miR-451-Rac1 axis could impact the activation of PI3K/AKT,
+ Wnt/beta-catenin and NF-kappaB pathways. Conclusion: Down-regulation of
+ LSINCT5 represses glioma cells growth and metastasis in vitro likely through
+ targeting miR-451 and thereby inhibiting Rac1-regulated PI3K/AKT,
+ Wnt/beta-catenin and NF-kappaB pathways.",
+    mesh {
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN451 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31213092,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

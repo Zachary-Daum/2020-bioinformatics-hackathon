@@ -1,0 +1,303 @@
+
+Pubmed-entry ::= {
+  pmid 31322006,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA CCAT2 acts as an oncogene in osteosarcoma
+ through regulation of miR-200b/VEGF."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu J",
+            affil str "a Department of Orthopedics, Qilu Hospital of Shandong
+ University , Jinan , PR China.; b Department of Orthopedic Trauma, Yantai
+ Affiliated Hospital of Binzhou Medical University , Yantai , PR China."
+          },
+          {
+            name ml "Kong D",
+            affil str "c Department of Foot and Ankle Surgery, Binzhou Medical
+ University Hospital , Binzhou , PR China."
+          },
+          {
+            name ml "Sun D",
+            affil str "b Department of Orthopedic Trauma, Yantai Affiliated
+ Hospital of Binzhou Medical University , Yantai , PR China."
+          },
+          {
+            name ml "Li J",
+            affil str "a Department of Orthopedics, Qilu Hospital of Shandong
+ University , Jinan , PR China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2994-3003",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31322006,
+        doi "10.1080/21691401.2019.1640229",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1640229"
+        }
+      }
+    },
+    abstract "Background/aim: Colon cancer-associated transcript 2 (CCAT2) is
+ a new lncRNA, which is closely associated with risk of several cancers. The
+ aim of this study was to explore the regulatory mechanism of CCAT2 in
+ osteosarcoma (OSA). Methods: Cells were transfected with si-CCAT2, microRNA
+ (miR)-200b inhibitor and the corresponding controls. Quantitative reverse
+ transcription polymerase chain reaction (qRT-PCR) was used to measure the
+ expression of CCAT2 and miR-200b in OSA tissues and cell lines. CCK8 and
+ bromodeoxyuridine (BrdU) were conducted to examine cell proliferation.
+ Apoptosis was detected by PI/FITC-Annexin V combining with flow cytometric
+ analysis. Migration and invasion were respectively measured through transwell
+ chambers assays. Western blot was used to examine expressions of relative
+ proteins. Results: CCAT2 was highly expressed and miR-200b was lowly
+ expressed in OSA tissues and cell lines. Knockdown of CCAT2 suppressed cell
+ proliferation, migration and invasion but induced apoptosis and up-regulation
+ of miR-200b. miR-200b inhibitor weakened the effect of si-CCAT2 on cell
+ progression and cell mobility. Besides, knockdown of CCAT2 blocked the
+ PI3K/Akt and AMPK pathways through up-regulating miR-200b. Conclusions: The
+ CCAT2/miR-200b/vascular endothelial growth factor (VEGF) axis plays important
+ regulating effect in OSA through the PI3K/Akt and AMPK pathways.",
+    mesh {
+      {
+        term "AMP-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oncogenes",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Vascular Endothelial Growth Factor A",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN200 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Vascular Endothelial Growth Factor A"
+      },
+      {
+        type nameonly,
+        name "long non-coding RNA CCAT2, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.31",
+        name "AMP-Activated Protein Kinases"
+      }
+    },
+    pmid 31322006,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

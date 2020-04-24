@@ -1,0 +1,284 @@
+
+Pubmed-entry ::= {
+  pmid 30982359,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Geniposide alleviates lipopolysaccharide-caused apoptosis of
+ murine kidney podocytes by activating Ras/Raf/MEK/ERK-mediated cell autophagy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X",
+            affil str "a Department of Nephrology , Jining No.1 People's
+ Hospital , Jining , China.; b Affiliated Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Ma A",
+            affil str "c Department of Nephrology , The Ninth People's
+ Hospital of Chongqing , Chongqing , China."
+          },
+          {
+            name ml "Liu K",
+            affil str "a Department of Nephrology , Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1524-1532",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30982359,
+        doi "10.1080/21691401.2019.1601630",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1601630"
+        }
+      }
+    },
+    abstract "Proteinuria is one of the most important clinical features of
+ nephrotic syndrome (NS). Injury of podocyte has been proved to contribute to
+ the occurrence of proteinuria. This study explored the effects of geniposide
+ (GEN) on lipopolysaccharide (LPS)-caused murine kidney podocyte MPC5
+ apoptosis and autophagy. Viability and apoptosis of MPC5 cells were
+ respectively detected with the help of CCK-8 assay and Guava Nexin assay.
+ 3-Methyladenine (3-MA) was used as an autophagy inhibitor, while rapamycin as
+ autophagy activator. Si-Beclin-1 was transfected in MPC5 cells to
+ down-regulate the expression of Beclin-1. We found that LPS stimulation
+ significantly caused MPC5 cell viability reduction, apoptosis and autophagy
+ (P < .05 or P < .01). GEN treatment remarkably alleviated the LPS-caused MPC5
+ cell viability reduction and apoptosis, but promoted cell autophagy (P <
+ .05). Moreover, 3-MA incubation or si-Beclin-1 transfection notably weakened
+ the effects of GEN on LPS-caused MPC5 cell apoptosis and autophagy (P < .05),
+ while rapamycin had opposite effects (P < .05). Furthermore, GEN activated
+ Ras/Raf/MEK/ERK pathway in LPS-treated MPC5 cells (P < .05). In conclusion,
+ this research verified the protective effects of GEN on podocytes damage. GEN
+ alleviates LPS-caused apoptosis of murine kidney podocytes by activating
+ Ras/Raf/MEK/ERK-mediated cell autophagy. Highlights: LPS causes podocyte MPC5
+ apoptosis and autophagy. GEN alleviates LPS-caused MPC5 cell apoptosis, but
+ promotes cell autophagy. 3-MA or si-Beclin-1 weakens the effects of GEN on
+ LPS-treated MPC5 cells. Rapamycin strengthens the effects of GEN on
+ LPS-treated MPC5 cells. GEN activates Ras/Raf/MEK/ERK pathway in LPS-treated
+ MPC5 cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Beclin-1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        term "Iridoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Kidney",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Podocytes",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "raf Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "ras Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Beclin-1"
+      },
+      {
+        type nameonly,
+        name "Iridoids"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type cas,
+        cit "145295QLXY",
+        name "geniposide"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "raf Kinases"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "ras Proteins"
+      }
+    },
+    pmid 30982359,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

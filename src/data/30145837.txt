@@ -1,0 +1,318 @@
+
+Pubmed-entry ::= {
+  pmid 30145837,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Downregulation of long noncoding RNA Sox2ot protects PC-12 cells
+ from hydrogen peroxide-induced injury in spinal cord injury via regulating
+ the miR-211-myeloid cell leukemia-1 isoform2 axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yin D",
+            affil str "Department of Orthopedics, Guangdong General Hospital,
+ Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Zheng X",
+            affil str "Department of Orthopedics, Guangdong General Hospital,
+ Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Zhuang J",
+            affil str "Department of Orthopedics, Guangdong General Hospital,
+ Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Wang L",
+            affil str "Department of Orthopedics, Guangdong General Hospital,
+ Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Liu B",
+            affil str "Department of Orthopedics, Guangdong General Hospital,
+ Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China."
+          },
+          {
+            name ml "Chang Y",
+            affil str "Department of Orthopedics, Guangdong General Hospital,
+ Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "119",
+          issue "12",
+          pages "9675-9684",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30145837,
+        doi "10.1002/jcb.27280",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27280"
+        }
+      }
+    },
+    abstract "This study aimed to investigate the effects and possible
+ mechanisms of long noncoding RNA (lncRNA) Sox2 overlapping transcript
+ (Sox2ot) on hydrogen peroxide (H2 O2 )-induced injury in pheochromocytoma
+ (PC-12) cells. PC-12 cells were treated with H2 O2 to cell injury. The cells
+ were transfected with short-hairpin RNA directed against Sox2ot (sh-Sox2ot),
+ small interfering RNA directed against myeloid cell leukemia-1 (MCL-1)
+ isoform2 (si-MCL-1), a miR-211 mimic, a miR-211 inhibitor, and their negative
+ controls. Under different transfected treatments, cell viability, migration,
+ invasion, and apoptosis as well as the expressions of apoptosis- and
+ autophagy-related proteins were investigated. Besides, the regulatory
+ relationships between Sox2ot and miR-211, miR-211 and MCL-1, as well as
+ between MCL-1 and the protein kinase B (Akt)/mammalian target of the
+ rapamycin (mTOR)/p70 ribosomal S6 protein kinase (p70S6K) signaling pathway
+ were explored. Suppression of Sox2ot inhibited H2 O2 -induced PC-12 cell
+ injury by increasing cell viability, migration, invasion, and decreasing
+ apoptosis and autophagy. Moreover, suppression of Sox2ot increased miR-211
+ expression and alleviated H2 O2 -induced injury in PC-12 cells possibly via
+ upregulation of miR-211. Furthermore, MCL-1 isoform2 was identified as a
+ direct target of miR-211 and could be negatively regulated by miR-211.
+ Suppression of miR-211 aggravated H2 O2 -induced cell injury by regulation of
+ MCL-1 isoform2. Besides, inhibition of miR-211 suppressed the activation of
+ the Akt/mTOR/p70S6K signaling pathway in H2 O2 -treated PC-12 cells, which
+ was reversed after knockdown of MCL-1 isoform2 at the same time. Our findings
+ indicate that downregulation of Sox2ot may protect PC-12 cells from H2 O2
+ -induced injury in SCI via targeting the miR-211/MCL-1 isoform2 axis. MCL-1
+ isoform2 may further regulate the activation of the Akt/mTOR/p70S6K pathway
+ to mediate H2 O2 -induced injury. The Sox2ot-miR-211-MCL-1 isoform2 axis may
+ be a promising therapeutic strategy for SCI.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myeloid Cell Leukemia Sequence 1 Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Protein Isoforms"
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Ribosomal Protein S6 Kinases, 70-kDa",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Spinal Cord Injuries",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN211 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "Mcl1 protein, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Myeloid Cell Leukemia Sequence 1 Protein"
+      },
+      {
+        type nameonly,
+        name "Protein Isoforms"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "mTOR protein, rat"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Ribosomal Protein S6 Kinases, 70-kDa"
+      }
+    },
+    pmid 30145837,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

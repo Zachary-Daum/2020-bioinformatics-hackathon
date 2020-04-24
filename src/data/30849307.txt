@@ -1,0 +1,369 @@
+
+Pubmed-entry ::= {
+  pmid 30849307,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Quercetin ameliorates lipopolysaccharide-caused inflammatory
+ damage via down-regulation of miR-221 in WI-38 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang C",
+            affil str "Children's Medical Center, The Affiliated Hospital of
+ Qingdao University, Qingdao 266000, China."
+          },
+          {
+            name ml "Qu Z",
+            affil str "Children's Medical Center, The Affiliated Hospital of
+ Qingdao University, Qingdao 266000, China."
+          },
+          {
+            name ml "Kong L",
+            affil str "Children's Medical Center, The Affiliated Hospital of
+ Qingdao University, Qingdao 266000, China."
+          },
+          {
+            name ml "Xu L",
+            affil str "Children's Medical Center, The Affiliated Hospital of
+ Qingdao University, Qingdao 266000, China. Electronic address:
+ xulei0049@sina.com."
+          },
+          {
+            name ml "Zhang M",
+            affil str "Children's Medical Center, The Affiliated Hospital of
+ Qingdao University, Qingdao 266000, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Children's Medical Center, The Affiliated Hospital of
+ Qingdao University, Qingdao 266000, China."
+          },
+          {
+            name ml "Yang Z",
+            affil str "Children's Medical Center, The Affiliated Hospital of
+ Qingdao University, Qingdao 266000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "108",
+          pages "1-8",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 23
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30849307,
+        pii "S0014-4800(18)30556-2",
+        doi "10.1016/j.yexmp.2019.03.002",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30556-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.03.002"
+        }
+      }
+    },
+    abstract "BACKGROUND: Pneumonia is a common respiratory disease in
+ pediatrics. Quercetin is a natural flavonoid widely distributed in many foods
+ and drinks. Herein, we focused our investigation on the possible protective
+ activity of quercetin in lipopolysaccharide (LPS)-caused inflammatory damage
+ of WI-38 lung fibroblasts. METHODS: Viability and apoptosis of WI-38 were
+ respectively tested using CCK-8 assay and Annexin V-FITC/PI staining. qRT-PCR
+ was used to measure the expression levels of microRNA-221 (miR-221), IL-6 and
+ TNF-a in WI-38. ELISA was conducted to determine the concentrations of IL-6
+ and TNF-a in culture supernatant of WI-38. miR-221 mimic was transfected to
+ increase miR-221 expression. The protein levels of key molecules involving in
+ cell apoptosis, inflammation, NF-kappaB and JNK pathways were assessed using
+ western blotting. RESULTS: LPS stimulation caused inflammatory damage of
+ WI-38 lung fibroblasts via suppressing cell viability, inducing cell
+ apoptosis and enhancing the production of inflammatory cytokines IL-6 and
+ TNF-a. Quercetin treatment mitigated the LPS-caused inflammatory damage of
+ WI-38 lung fibroblasts via enhancing cell viability, inhibiting cell
+ apoptosis and reducing the production of inflammatory cytokines IL-6 and
+ TNF-a. Moreover, quercetin ameliorated LPS-caused up-regulation of miR-221 in
+ WI-38. The effects of quercetin on LPS-caused inflammatory damage of WI-38
+ were reversed by miR-221 overexpression. Furthermore, quercetin inactivated
+ NF-kappaB and JNK pathways in LPS-treated WI-38 via down-regulation of
+ miR-221. CONCLUSION: This research verified the protective effects of
+ quercetin on lung fibroblasts inflammatory damage. We revealed that quercetin
+ ameliorated LPS-caused inflammatory damage of WI-38 lung fibroblasts might be
+ through down-regulation of miR-221 and inactivation of NF-kappaB and JNK
+ pathways.",
+    mesh {
+      {
+        term "Antioxidants",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Fibroblasts",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation Mediators",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Quercetin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Inflammation Mediators"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN221 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "9IKM0I5T1E",
+        name "Quercetin"
+      }
+    },
+    pmid 30849307,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

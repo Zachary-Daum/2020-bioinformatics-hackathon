@@ -1,0 +1,182 @@
+
+Pubmed-entry ::= {
+  pmid 31111564,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of lncRNA-UCA1 inhibits cell viability and migration
+ of human glioma cells by miR-193a-mediated downregulation of CDK6."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xin H",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          },
+          {
+            name ml "Liu N",
+            affil str "Department of Neurology, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          },
+          {
+            name ml "Xu X",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          },
+          {
+            name ml "Ma Y",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          },
+          {
+            name ml "Li G",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          },
+          {
+            name ml "Liang J",
+            affil str "Department of Neurosurgery, Anqiu People's Hospital,
+ Anqiu, 262100, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 9
+          },
+          volume "120",
+          issue "9",
+          pages "15157-15169",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31111564,
+        doi "10.1002/jcb.28777",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.28777"
+        }
+      }
+    },
+    abstract "BACKGROUND: Long noncoding RNA urothelial carcinoma-associated 1
+ (lncRNA-UCA1) is generally recognized as an oncogenic molecule in several
+ human malignant tumors. However, the available evidence does not necessarily
+ imply an unequivocal causal function of UCA1 in glioblastoma. The current
+ study was aimed to probe the biological function of lncRNA-UCA1 in human
+ glioblastoma cell lines. Besides, we further investigated the potential
+ mechanisms. METHODS: Cell viability, apoptosis, as well as migration and
+ invasion were measured using a commercial cell counting kit-8, flow
+ cytometry, and 24-Transwell assay, respectively. LncRNA-UCA1, microRNA-193a
+ (miR-193a), and CDK6 at messenger RNA levels were evaluated by quantitative
+ real-time polymerase chain reaction method. Protein level was examined by
+ Western blot analysis. RNA immunoprecipitation was utilized to validate
+ lncRNA-UCA1 associated with miR-193a. Luciferase activity assay was used to
+ identify the miR-193a-targeted CDK6 3'-untranslated region. RESULTS:
+ lncRNA-UCA1 knockdown weakened cell viability, augmented apoptosis
+ progression, as well as suppressed migration and invasion behaviors in
+ glioblastoma cells, whereas lncRNA-UCA1 silence exhibited the opposite
+ functions. lncRNA-UCA1 functioned as an endogenous sponge of miR-193a.
+ miR-193a silence reversed the biological function of lncRNA-UCA1 knockdown on
+ U-118 MG cells. miR-193a negatively regulated the expression of CDK6, and it
+ affected the U-118 MG cells through regulating CDK6 expression. CDK6
+ overexpression abrogated the blockage of PI3K/AKT, mitogen-activated protein
+ kinase (MAPK), and Notch signaling pathways. Furthermore, lncRNA-UCA1 and
+ miR-193a could affect these signaling cascades through regulating CDK6
+ expression. The regulatory mechanisms of lncRNA-UCA1 were further
+ consolidated in clinical specimens. CONCLUSION: lncRNA-UCA1 silence reduced
+ cell viability, promoted apoptosis progression, while impeding the migration
+ and invasion of glioblastoma cells by miR-193a-mediated silence of CDK6, with
+ blockage of PI3K/AKT, MAPK, and Notch pathways.",
+    pmid 31111564,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

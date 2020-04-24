@@ -1,0 +1,291 @@
+
+Pubmed-entry ::= {
+  pmid 29590644,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Acetylation of GATA4 on Lysine Residue K313 Promotes
+ Osteoblastic Cells Growth."
+      },
+      authors {
+        names ml {
+          "You W",
+          "Song L",
+          "Wang K"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "46",
+          issue "1",
+          pages "269-278",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29590644,
+        pii "000488428",
+        doi "10.1159/000488428",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000488428"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: GATA4, a protein related to osteoblast
+ differentiation and mineralization, whose acetylation is essential for
+ cardiac defects. Here, we aimed to explore the functional impacts of GATA4
+ acetylation on osteoporosis (OS). METHODS: GATA4 acetylation in hFOB1.19 and
+ 293T cells was detected after exposure of HDAC inhibitors (TSA and SAHA).
+ Co-immunoprecipitation was conducted to determine which HATs and HDACs was
+ involved in the modulation of GATA4 acetylation/deacetylation, and to
+ identify the acetylation site. The transcriptional activity of GATA4 was
+ measured in the presence or absence of cycloheximide. Furthermore, hFOB1.19
+ cells viability and apoptosis were evaluated after transfection with
+ acetylation-defective mutant of GATA4. RESULTS: As a result, GATA4
+ acetylation was identified as a pivotal event in hFOB1.19 cells. GATA4 can be
+ acetylated by P300/CBP, and the acetylation site was on lysine residue K313.
+ Besides, the acetylation of GATA4 can be impaired by HDAC1, rather than by
+ HDAC2-5. GATA4 acetylation contributed to the stability and transcription of
+ GATA4. Moreover, GATA4 acetylation activated CCND2 transcription, and
+ mutation of GATA4 on K-313 reduced cell viability and increased a
+ mitochondria-dependent apoptosis in hFOB1.19 cells. CONCLUSION: Our data
+ suggest that GATA4 exists as an acetylated protein in hFOB1.19 cells.
+ Acetylation regulates the stability and transcription of GATA4, and activates
+ CCND2 transcription, which may explain the growth-promoting functions of
+ GATA4 in hFOB1.19 cells.",
+    mesh {
+      {
+        term "Acetylation"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Cyclin D2",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "GATA4 Transcription Factor",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Histone Deacetylase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Histone Deacetylase Inhibitors",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lysine",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Osteoblasts",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Point Mutation"
+      },
+      {
+        term "Promoter Regions, Genetic"
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription, Genetic"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "p300-CBP Transcription Factors",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CCND2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Cyclin D2"
+      },
+      {
+        type nameonly,
+        name "GATA4 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "Histone Deacetylase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type ec,
+        cit "2.3.1.48",
+        name "p300-CBP Transcription Factors"
+      },
+      {
+        type ec,
+        cit "3.5.1.98",
+        name "HDAC1 protein, human"
+      },
+      {
+        type ec,
+        cit "3.5.1.98",
+        name "Histone Deacetylase 1"
+      },
+      {
+        type cas,
+        cit "K3Z4F929H6",
+        name "Lysine"
+      }
+    },
+    pmid 29590644,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

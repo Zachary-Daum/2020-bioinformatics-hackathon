@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 30286469,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-29a Inhibits Growth, Migration and Invasion of Melanoma
+ A375 Cells in Vitro by Directly Targeting BMI1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xiong Y",
+            affil str "Department of Dermatology, Linyi People's Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Department of Dermatology, Linyi People's Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Qiu Y",
+            affil str "Department of Pathology, Linyi People's Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Department of Pathology, Linyi People's Hospital,
+ Linyi, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "50",
+          issue "1",
+          pages "385-397",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30286469,
+        pii "000494015",
+        doi "10.1159/000494015",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000494015"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Melanoma is one of the most aggressive
+ malignant tumors, with increasing incidence, poor prognosis, and lack of any
+ effective targeted therapies. Abnormal expression of miR-29a has been found
+ in several types of cancers, including melanoma. In this study, experiments
+ were performed to investigate the role of miR-29a in melanoma, and the
+ molecular mechanism by which miR-29a represses melanoma. METHODS: miR-29 and
+ Bmi1 expression was examined by quantitative real-time polymerase chain
+ reaction (qRT-PCR). The cell viability, apoptosis, migration and invasion
+ were respectively determined by Cell Counting Kit-8 assay, Propidium iodide
+ (PI) fluorescein isothiocynate (FITC)-Annexin V staining assay, wound healing
+ assay and transwell assay. Luciferase reporter assay was performed to
+ determine a target gene of miR-29a. Western blot was used to analyze protein
+ expression of apoptosis-related proteins, Bmi1, Wnt/beta-catenin and Nuclear
+ factor-kappaB (NF-kappaB) pathway target genes. RESULTS: miR-29a was
+ down-regulated in all tested melanoma cell lines. Up-regulation of miR-29a
+ effectively inhibited cell viability, migration, and invasion, but promoted
+ apoptosis in A375 cells. Bmi1 was a direct target gene of miR-29a.
+ Transfection with miR-29a mimic decreased cell migration and invasion and
+ Bmi1 expression in Malme-3M cells, SK-MEL-2, SK-MEL-5, and M14 cell lines.
+ Moreover, miR-29a might suppress growth, migration and invasion of A375 cells
+ by negatively regulating Bmi1. In addition, our results demonstrated that
+ transfection with miR-29a mimic effectively blocked Wnt/beta-catenin and
+ NF-kappaB pathways via down-regulating Bmi1. CONCLUSION: miR-29a could be
+ functioned as a potential tumor suppressor through direct regulation of Bmi1
+ in melanoma cells.",
+    mesh {
+      {
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Melanoma"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polycomb Repressive Complex 1",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sequence Alignment"
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "BMI1 protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN29 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Polycomb Repressive Complex 1"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      }
+    },
+    pmid 30286469,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

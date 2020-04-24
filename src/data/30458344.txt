@@ -1,0 +1,300 @@
+
+Pubmed-entry ::= {
+  pmid 30458344,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lycium barbarum polysaccharides protects H9c2 cells from
+ hypoxia-induced injury by down-regulation of miR-122."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Q",
+            affil str "Department of Painless Endoscopy, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Pan X",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China; Jining Medical University, Jining
+ 272067, Shandong, China."
+          },
+          {
+            name ml "Chen S",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Cui Z",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Ma J",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Zhou Z",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Xing B",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, China. Electronic address:
+ zhzw2001@yeah.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "110",
+          pages "20-28",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30458344,
+        pii "S0753-3322(18)32653-2",
+        doi "10.1016/j.biopha.2018.11.012",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)32653-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.11.012"
+        }
+      }
+    },
+    abstract "BACKGROUND: Lycium barbarum polysaccharides (LBPs) are major
+ ingredients of fructus lycii, which have multiple pharmacological activities,
+ such as antioxidant, neuroprotective, and anti-inflammatory activities. This
+ study attempted to reveal the potential of LBPs in hypoxia-injured H9c2 cells
+ and the possible underlying mechanisms. METHODS: H9c2 cells were treated by
+ 300 mug/mL LBPs for 24 h upon hypoxia. Subsequently, the changes in cell
+ viability, migration and apoptosis were evaluated. pre-miR-122 or miR-122
+ sponge was transfected into H9c2 cells to investigate whether miR-122 was
+ involved in the mechanisms of LBPs' action. Besides, an animal model of
+ myocardial infarction (MI) was established, and the in vivo effects of LBPs
+ were further investigated. RESULTS: LBPs increased cell viability,
+ down-regulated p53, p21 and p16 protein expressions, improved migration, and
+ repressed apoptosis in hypoxia-injured H9c2 cells. miR-122 was highly
+ expressed in response to hypoxia, while was down-regulated by addition of
+ LBPs. The protective actions of LBPs in hypoxia-injured H9c2 cells were
+ attenuated by miR-122 overexpression, while were accelerated by miR-122
+ suppression. Also, LBPs-induced the activation of MEK/ERK and AMPK signaling
+ pathways were attenuated by miR-122 overexpression, and were accelerated by
+ miR-122 suppression. in vivo investigation revealed that, MI rats
+ administrated with LBPs decreased infarct size and improved cardiac function
+ via down-regulation of miR-122. CONCLUSION: LBPs exhibited in vitro and in
+ vivo cardioprotective activities via down-regulating miR-122. LBPs may have
+ potential for the treatment of acute myocardial infarction (AMI).",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "MIRN122 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "lycium barbarum polysaccharide"
+      }
+    },
+    pmid 30458344,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

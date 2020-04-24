@@ -1,0 +1,150 @@
+
+Pubmed-entry ::= {
+  pmid 30848513,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of long noncoding RNA HOTAIR inhibits cell growth of
+ human lymphoma cells by upregulation of miR-148b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao X",
+            affil str "Department of Blood Transfusion, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Tian X",
+            affil str "Department of Blood Transfusion, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8
+          },
+          volume "120",
+          issue "8",
+          pages "12348-12359",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30848513,
+        doi "10.1002/jcb.28500",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.28500"
+        }
+      }
+    },
+    abstract "Lymphoma is a common cause of cancer worldwide with an
+ increasing incidence in recent years. A large number of studies have shown
+ that HOX transcript antisense intergenic RNA (HOTAIR) exerts as an oncogene
+ in various neoplasms. However, the function of HOTAIR in lymphoma still
+ remains unclear. The present study aimed to investigate the function of
+ HOTAIR in lymphoma and its underlying mechanisms. The expressions of HOTAIR,
+ miR-148b, and BMI1 in lymphoma samples and cells (AHH-1, Raji, and U937) were
+ quantified by quantitative reverse polymerase chain reaction (qRT-PCR). Cell
+ viability was measured by trypan blue assay. The efficiency of transfection
+ was verified by qRT-PCR or Western blot analysis. Apoptotic cells and cell
+ cycle progression were both detected by flow cytometry assay. Furthermore,
+ Western blot analysis was performed to assess the expression of
+ mitogen-activated protein kinase (MAPK) and extracellular signal-regulated
+ kinase (ERK) pathway-related core factors. We found that HOTAIR knockdown
+ reduced cell viability but increased apoptotic cells and inhibited cell cycle
+ progression in Raji and U937 cells. miR-148b expression was upregulated by
+ HOTAIR inhibition. Meanwhile, miR-148b inhibitor abolished the modulation of
+ HOTAIR silence on cell growth, as evidenced by increased cell viability,
+ reduced apoptotic cells, and decreased the rate of G1 phase cells.
+ Furthermore, miR-148b negatively regulated the expression of BMI1 by
+ targeting its 3'-untranslated region (3'-UTR), and BMI1 overexpression
+ blocked the effect of miR-148b mimic on cell growth. In addition, BMI1
+ promoted the activation of MAPK and ERK in Raji and U937 cells. In
+ conclusion, the present study demonstrated that HOTAIR knockdown inhibited
+ the cell growth and promoted apoptosis of lymphoma cells via upregulation of
+ miR-148b and miR-148b further regulated the expression of BMI1 via MAPK and
+ ERK signaling pathways.",
+    pmid 30848513,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

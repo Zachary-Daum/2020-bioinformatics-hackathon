@@ -1,0 +1,304 @@
+
+Pubmed-entry ::= {
+  pmid 29055957,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MiR-1246 Promotes LPS-Induced Inflammatory Injury in
+ Chondrogenic Cells ATDC5 by Targeting HNF4gamma."
+      },
+      authors {
+        names ml {
+          "Wu DP",
+          "Zhang JL",
+          "Wang JY",
+          "Cui MX",
+          "Jia JL",
+          "Liu XH",
+          "Liang QD"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "43",
+          issue "5",
+          pages "2010-2021",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29055957,
+        pii "000484162",
+        doi "10.1159/000484162",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000484162"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Osteoarthritis (OA) is a common inflammatory
+ joint disease. miRNAs are associated with OA and functionally implicated in
+ the pathogenesis of the disease. In the present study, we investigated the
+ role of miR-1246 in the lipopolysaccharide (LPS)-induced inflammatory injury
+ of ATDC5 cells. METHODS: ATDC5 cells were cultured and treated with LPS in a
+ series of concentration (0, 1, 5, and 10 microg/ml) for 5 h. The cells were
+ transfected with miR-1246-mimic, inhibitor, si-HNF4gamma or negative control,
+ then were assessed for cell viability using CCK8 assay, apoptosis by
+ flow-cytometry and expressions of miR-1246 and pro-inflammatory cytokines by
+ qRT-PCR and western blot analysis. RESULTS: Cell viability was significantly
+ reduced and cell apoptosis was added in ATDC5 cells injured with LPS at the
+ dosage of 5 and 10 microg/ml. Relative mRNA expressions of pro-inflammatory
+ cytokines (IL-1beta, IL-6, IL-8 and TNF-alpha) were significantly increased.
+ miR-1246 was up-regulated in ATDC5 cells treated with LPS. Moreover, miR-1246
+ overexpression aggravated LPS-induced decrease in cell viability, increase in
+ apoptosis and overproduction of pro-inflammatory factors. mRNA and protein
+ expressions of HNF4gamma were significantly suppressed in cells transfected
+ with miR-124-mimic. Further, miR-1246 knockdown alleviated LPS-induced
+ inflammatory injury by up-regulating the expression of HNF4gamma and
+ activation of PI3K/AKT and JAK/STAT pathways. CONCLUSIONS: Suppression of
+ miR-1246 alleviated LPS-induced inflammatory injury in chondrogenic ADTC5
+ cells by up-regulation of HNF4gamma and activation of PI3K/AKT and JAK/STAT
+ pathways. The findings of this study will provide a novel viewpoint regarding
+ miR-1246 target for clinical.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Chondrogenesis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Hepatocyte Nuclear Factor 4",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-8",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Hepatocyte Nuclear Factor 4"
+      },
+      {
+        type nameonly,
+        name "Hnf4g protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Interleukin-8"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      }
+    },
+    pmid 29055957,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

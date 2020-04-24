@@ -1,0 +1,207 @@
+
+Pubmed-entry ::= {
+  pmid 30509094,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA HOST2 enhances proliferation and metastasis
+ in gastric cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu D",
+            affil str "Department of Spleen and Stomach, Chinese Medicine
+ Hospital, Tianjin, China."
+          },
+          {
+            name ml "Zhang MY",
+            affil str "Chinese Medicine Studio, Chinese Medicine Hospital,
+ Tianjin, China."
+          },
+          {
+            name ml "Chu Z",
+            affil str "Department of Tumor, Chinese Medicine Hospital,
+ Tianjin, China."
+          },
+          {
+            name ml "Zhang M",
+            affil str "Yao Medical College, Guangxi University of Traditional
+ Chinese Medicine, Tianjin, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neoplasma",
+          ml-jta "Neoplasma",
+          issn "0028-2685",
+          name "Neoplasma"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1,
+            day 15
+          },
+          volume "66",
+          issue "1",
+          pages "101-108",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 7,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30509094,
+        doi "10.4149/neo_2018_180414N238",
+        pii "180414N238",
+        other {
+          db "ELocationID doi",
+          tag str "10.4149/neo_2018_180414N238"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "180414N238"
+        }
+      }
+    },
+    abstract "This study investigates the influence of long noncoding RNA
+ HOST2 on the biological functions of gastric cancer cells; including
+ proliferation, migration and invasion. Differentially expressed lncRNAs in
+ gastric cancer (GC) were screened by microarray analysis, and HOST2
+ expression in GC tissues and cell lines was determined by quantitative
+ real-time PCR (qRT-PCR). GC cell proliferation, migration and invasion were
+ detected by CCK-8, wound healing and transwell assays. Western blot
+ investigated expression of epithelial-mesenchymal transition (EMT) related
+ proteins, and association was established between over-expressed HOST2 and
+ the number of patients with lymph node and distant metastasis. HOST2
+ expression was also positively related to GC cell invasion ability, and
+ although its expression in the p-shHOST2 group was remarkably decreased, it
+ was significantly higher than in the Mock and NC groups. Compared to the Mock
+ and NC groups, the p-shHOST2 group presented significant decreases in
+ proliferation and wound healing rates, and the reverse result was noted in
+ the p-HOST2 group. In addition, the number of p-shHOST2 group invasive cells
+ was remarkably less than in the Mock and NC group, and the opposite result
+ was achieved in the p-HOST2 group. Moreover, p-HOST2 had more significant
+ EMT, but this was suppressed in the p-shHOST2 group. Finally, HOST2 silencing
+ suppressed GC cell proliferation, migration and invasion; and it could
+ therefore be considered as a novel biomarker and therapeutic target in
+ gastric cancer.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "LncRNA-HOST2, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30509094,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

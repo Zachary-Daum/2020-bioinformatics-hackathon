@@ -1,0 +1,284 @@
+
+Pubmed-entry ::= {
+  pmid 30551533,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of lncRNA-H19 inhibits cell viability, migration and
+ invasion while promotes apoptosis via microRNA-143/RUNX2 axis in
+ retinoblastoma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qi D",
+            affil str "Department of Ophthalmology, Linyi Central Hospital,
+ Linyi 276400, Shandong, China."
+          },
+          {
+            name ml "Wang M",
+            affil str "Department of Ophthalmology, Qingdao Chengyang People's
+ Hospital, Qingdao, 266109, Shandong, China."
+          },
+          {
+            name ml "Yu F",
+            affil str "Department of Ophthalmology, Linyi Central Hospital,
+ Linyi 276400, Shandong, China. Electronic address: fenghuayu99@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "109",
+          pages "798-805",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 6,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30551533,
+        pii "S0753-3322(18)34025-3",
+        doi "10.1016/j.biopha.2018.10.096",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)34025-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.10.096"
+        }
+      }
+    },
+    abstract "BACKGROUND: Even though the role of long non-coding RNA H19
+ (lncRNA-H19) in diverse cancer types has been studied, exact effect of
+ lncRNA-H19 as well as the underlying mechanism in retinoblastoma (RB) is
+ poorly reported. We aimed to explore the possible functions of lncRNA-H19 in
+ human RB Y79 cells. METHODS: LncRNA-H19 in Y79 cells was silenced, and
+ effects of lncRNA-H19 silence on cell viability, migration and invasion, and
+ apoptosis were analyzed by using trypan blue exclusion, Transwell assay, and
+ flow cytometry assay/Western blot analysis, respectively. Then, miR-143
+ expression in cells with lncRNA-H19 silence was determined by RT-qPCR, and
+ effects of miR-143 inhibition on lncRNA-H19-suppressing cells were assessed.
+ Whether RUNX2 was a target of miR-143 and the involved signaling pathways in
+ the modulation of miR-143 were also studied. RESULTS: LncRNA-H19 knockdown
+ repressed cell viability, migration and invasion while promoted apoptosis in
+ Y79 cells. miR-143 was a downstream factor of lncRNA-H19, and its inhibition
+ reversed the effects of lncRNA-H19 silence on Y79 cells. RUNX2 was a target
+ gene of miR-143, and miR-143 was found to affect Y79 cells via
+ down-regulation of RUNX2. Phosphorylation of key kinases related in the
+ PI3K/AKT/mTOR pathways was reduced by miR-143 via regulation of RUNX2.
+ CONCLUSION: Knockdown of lncRNA-H19 acted a tumor suppressive role in Y79
+ cells through up-regulating miR-143. Moreover, miR-143 exerted tumor
+ suppressive effects on Y79 cells by targeting RUNX2, along with inhibition of
+ the PI3K/AKT/mTOR pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Core Binding Factor Alpha 1 Subunit",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "pathology"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Retinal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Retinoblastoma",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Core Binding Factor Alpha 1 Subunit"
+      },
+      {
+        type nameonly,
+        name "H19 long non-coding RNA"
+      },
+      {
+        type nameonly,
+        name "MIRN143 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RUNX2 protein, human"
+      }
+    },
+    pmid 30551533,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

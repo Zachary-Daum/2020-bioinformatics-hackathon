@@ -1,0 +1,267 @@
+
+Pubmed-entry ::= {
+  pmid 31741130,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Bifidobacterium plays a protective role in TNF-alpha-induced
+ inflammatory response in Caco-2 cell through NF-kappaB and p38MAPK pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nie N",
+            affil str "Department of Pediatric Cardiology, Nephrology and
+ Rheumatology, The Affiliated Hospital of Qingdao University, Qingdao, 266000,
+ China."
+          },
+          {
+            name ml "Bai C",
+            affil str "Department of Pediatric Cardiology, Nephrology and
+ Rheumatology, The Affiliated Hospital of Qingdao University, Qingdao, 266000,
+ China."
+          },
+          {
+            name ml "Song S",
+            affil str "Department of Oncology, The Affiliated Hospital of
+ Qingdao University, Qingdao, 266000, China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Neonatal Intensive Care Unit, Qingdao
+ Women and Children's Hospital, No. 6 Tongfu Road, Shibei District, Qingdao,
+ 266034, China."
+          },
+          {
+            name ml "Wang B",
+            affil str "Heart Center, Qingdao Women and Children's Hospital,
+ No. 6 Tongfu Road, Shibei District, Qingdao, 266034, China."
+          },
+          {
+            name ml "Li Z",
+            affil str "Heart Center, Qingdao Women and Children's Hospital,
+ No. 6 Tongfu Road, Shibei District, Qingdao, 266034, China. zipu12li@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cell. Biochem.",
+          ml-jta "Mol Cell Biochem",
+          issn "1573-4919",
+          name "Molecular and cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1
+          },
+          volume "464",
+          issue "1-2",
+          pages "83-91",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31741130,
+        doi "10.1007/s11010-019-03651-3",
+        pii "10.1007/s11010-019-03651-3",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11010-019-03651-3"
+        }
+      }
+    },
+    abstract "Kawasaki disease is an immune-mediated acute, systemic
+ vasculitis and is the leading cause of acquired heart disease in children in
+ the developed world. Bifidobacterium (BIF) is one of the dominant bacteria in
+ the intestines of humans and many mammals and is able to adjust the
+ intestinal flora disorder. The Caco-2 cell monolayers were treated with tumor
+ necrosis factor-alpha (TNF-alpha) at 10 ng/ml for 24 h to induce the
+ destruction of intestinal mucosal barrier system. Cells viability was
+ detected through Cell Counting Kit-8 assay. Cell apoptosis was measured by
+ flow cytometry and the expression of apoptosis related proteins was also
+ detected through Western blot. The level of pro-inflammatory cytokines
+ interleukin-6 (IL-6) and IL-8 was detected through ELISA, Western blot and
+ qRT-PCR, respectively. Transepithelial electrical resistance (TEER) assay was
+ conducted to value the barrier function of intestinal mucosa. Cell autophagy
+ and NF-kappaB and p38MAPK pathways associated proteins were examined through
+ Western blot. In the absence of TNF-alpha treatment, cell viability and
+ apoptosis showed no significant change. TNF-alpha decreased cell viability
+ and increased cell apoptosis and BIF treatment mitigated the
+ TNF-alpha-induced change. Then, we found that BIF treatment effectively
+ suppressed TNF-alpha-induced overexpression of IL-6 and IL-8. Besides, the
+ results of TEER assay showed that barrier function of intestinal mucosa which
+ was destroyed by TNF-alpha was effectively recovered by BIF treatment. In
+ addition, TNF-alpha induced autophagy was also suppressed by BIF. Moreover,
+ TNF-alpha activated NF-kappaB and p38MAPK signal pathways were also blocked
+ by BIF, SN50 and SB203580. Our present study reveals that BIF plays a
+ protective role in TNF-alpha-induced inflammatory response in Caco-2 cells
+ through NF-kappaB and p38MAPK pathways.",
+    mesh {
+      {
+        mp TRUE,
+        term "Bifidobacterium"
+      },
+      {
+        term "Caco-2 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Intestinal Mucosa",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "Mucocutaneous Lymph Node Syndrome",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31741130,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

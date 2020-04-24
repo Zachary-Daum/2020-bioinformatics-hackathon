@@ -1,0 +1,261 @@
+
+Pubmed-entry ::= {
+  pmid 31284776,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "microRNA-103 promotes LPS-induced inflammatory injury by
+ targeting c-Myc in HK-2 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang W",
+            affil str "a Department of Nephrology, Jining No. 1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Deng W",
+            affil str "a Department of Nephrology, Jining No. 1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "a Department of Nephrology, Jining No. 1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2791-2799",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31284776,
+        doi "10.1080/21691401.2019.1636806",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1636806"
+        }
+      }
+    },
+    abstract "Aims: microRNAs (miRNAs) occupy a vital position in diseases.
+ This research aims to detect miR-103 influence on LPS-resulted HK-2 cells
+ inflammation damage. Methods: Cells were exposed to LPS for inducing injury.
+ CCK-8 and flow cytometry were introduced to detect cell viability and
+ apoptosis rate, respectively. ELISA, qRT-PCR and western blot were
+ respectively used to explore inflammation factors production and relative
+ proteins expression. The relationship between miR-103 and c-Myc was analysed
+ through luciferase reporter assay. Results: LPS led to significant inhibition
+ of cell viability (p < .05) and proliferation-related proteins expression. It
+ also increased the apoptosis rate (p < .05) and promoted inflammation
+ cytokines overproduction (p < .001). Besides, miR-103 was elevated by LPS (p
+ < .01), and aggravated LPS-induced damage above, while miR-103 inhibitor
+ attenuated this impairment (p < .05, p < .01 or p < .001). However, c-Myc
+ silence abolished miR-103 inhibitor protective effect on cell proliferation
+ (p < .05), apoptosis (p < .01) and inflammation factors expression (p < .05
+ or p < .01), representing a negative relationship between them. Besides, the
+ activity of NF-kappaB as well as JAK/STAT pathways was controlled by miR-103,
+ also, mediated through c-Myc. Conclusions: miR-103 mimic enhanced LPS-caused
+ inflammation damage by silencing c-Myc in HK-2 cell line.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-myc",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN103 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MYC protein, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-myc"
+      }
+    },
+    pmid 31284776,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

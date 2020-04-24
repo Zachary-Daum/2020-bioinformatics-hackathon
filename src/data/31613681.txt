@@ -1,0 +1,302 @@
+
+Pubmed-entry ::= {
+  pmid 31613681,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "K-Ras-ERK1/2 accelerates lung cancer cell development via
+ mediating H3(K18ac) through the MDM2-GCN5-SIRT7 axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cheng Z",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital
+ , Linyi , China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital
+ , Linyi , China."
+          },
+          {
+            name ml "Hou S",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital
+ , Linyi , China."
+          },
+          {
+            name ml "Wu Y",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital
+ , Linyi , China."
+          },
+          {
+            name ml "Sun Y",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital
+ , Linyi , China."
+          },
+          {
+            name ml "Liu B",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital
+ , Linyi , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pharm Biol",
+          ml-jta "Pharm Biol",
+          issn "1744-5116",
+          name "Pharmaceutical biology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "57",
+          issue "1",
+          pages "701-709",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31613681,
+        doi "10.1080/13880209.2019.1672756",
+        other {
+          db "pmc",
+          tag str "PMC6807650"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/13880209.2019.1672756"
+        }
+      }
+    },
+    abstract "Context: H3(K18ac) is linked to gene expression and DNA damage.
+ Nevertheless, whether H3(K18ac) participates in regulating
+ Ras-ERK1/2-affected lung cancer cell phenotypes remains unclear. Objective:
+ We explored the effects of H3(K18ac) on Ras-ERK1/2-affected lung cancer cell
+ phenotypes. Material and methods: NCI-H2126 cells were transfected with,
+ pEGFP-K-Ras(WT) and pEGFP-K-Ras(G12V/T35S) plasmids for 48 h, and
+ transfection with pEGFP-N1 served as a blank control. Then H3(K18ac) and AKT
+ and ERK1/2 pathways-associated factors were examined. Different amounts of
+ the H3(K18Q) (0.5, 1, and 2 mug) plasmids and Ras(G12V/T35S) were
+ co-transfected into NCI-H2126 cells, cell viability, cell colonies and
+ migration were analyzed for exploring the biological functions of H3(K18ac)
+ in NCI-H2126 cells. The ERK1/2 pathway downstream factors were detected by
+ RT-PCR and ChIP assays. The regulatory functions of SIRT7, GCN5 and MDM2 in
+ Ras-ERK1/2-regulated H3(K18ac) expression were finally uncovered. Results:
+ Ras(G12V/T35S) transfection decreased the expression of H3(K18ac) about 2.5
+ times compared with the pEGFP-N1 transfection group, and activated ERK1/2 and
+ AKT pathways. Moreover, H3(K18ac) reduced cell viability, colonies,
+ migration, and altered ERK1/2 downstream transcription in NCI-H2126 cells.
+ Additionally, SIRT7 knockdown increased H3(K18ac) expression and repressed
+ cell viability, migration and the percentage of cells in S phase by about 50%
+ compared to the control group, as well as changed ERK1/2 downstream factor
+ expression. Besides, Ras-ERK1/2 decreased H3(K18ac) was linked to
+ MDM2-regulated GCN5 degradation. Conclusion: These observations disclosed
+ that Ras-ERK1/2 promoted the development of lung cancer via decreasing
+ H3(K18ac) through MDM2-mediated GCN5 degradation. These findings might
+ provide a new therapeutic strategy for lung cancer.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 1",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 3",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-mdm2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins p21(ras)",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sirtuins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "p300-CBP Transcription Factors",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type nameonly,
+        name "KRAS protein, human"
+      },
+      {
+        type nameonly,
+        name "SIRT7 protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.1.48",
+        name "p300-CBP Transcription Factors"
+      },
+      {
+        type ec,
+        cit "2.3.1.48",
+        name "p300-CBP-associated factor"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "MDM2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Proto-Oncogene Proteins c-mdm2"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 3"
+      },
+      {
+        type ec,
+        cit "3.5.1.-",
+        name "Sirtuins"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "Proto-Oncogene Proteins p21(ras)"
+      }
+    },
+    pmid 31613681,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

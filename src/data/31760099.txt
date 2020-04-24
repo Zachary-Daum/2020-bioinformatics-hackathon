@@ -1,0 +1,324 @@
+
+Pubmed-entry ::= {
+  pmid 31760099,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CircLMTK2 acts as a tumor suppressor in prostate cancer via
+ regulating the expression of microRNA-183."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jin C",
+            affil str "Department of Urology, The First Affiliated Hospital of
+ Harbin Medical University, Harbin 150001, China."
+          },
+          {
+            name ml "Zhao W",
+            affil str "Department of Urology, The First Affiliated Hospital of
+ Harbin Medical University, Harbin 150001, China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "Department of Urology, The First Affiliated Hospital of
+ Harbin Medical University, Harbin 150001, China."
+          },
+          {
+            name ml "Liu W",
+            affil str "Department of Reproductive Medicine, The First
+ Affiliated Hospital of Harbin Medical University, Harbin 150001, China.
+ Electronic address: wanpeng36wp@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1,
+            day 15
+          },
+          volume "241",
+          pages "117097",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 7,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 10,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 11,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31760099,
+        pii "S0024-3205(19)31024-0",
+        doi "10.1016/j.lfs.2019.117097",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)31024-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.117097"
+        }
+      }
+    },
+    abstract "BACKGROUND: Prostate cancer (PCa) is one of the commonest male
+ urinary and reproductive system malignancies with high morbidity and
+ mortality. circLMTK2 was reported as a tumor suppressor, therefore, we
+ attempted to investigate the potential mechanism of circLMTK2 in PCa.
+ METHODS: qRT-PCR was employed to examine the expressions of circLMTK2 and
+ miR-183. Afterwards, cell transfection was conducted for overexpressing
+ circLMTK2 and miR-183 in LNCaP and PC3 cells, and silencing circLMTK2 in
+ RWPE1 cells. Then, CCK-8 assay, BrdU, transwell assay, flow cytometry and
+ western blot were respectively conducted to examine the variations of cell
+ growth and metastasis, as well as apoptosis. The expressions of key proteins
+ involved in Wnt/beta-catenin and PI3K/AKT pathways were further investigated
+ utilizing western blot. RESULTS: circLMTK2 was lowly expressed in tumor
+ tissues. circLMTK2 overexpression suppressed cell proliferation and
+ metastasis, however promoted cell apoptosis in LNCaP and PC3 cells. circLMTK2
+ knockdown enhanced cell viability, proliferation, migration and invasion,
+ while had no significant influences on apoptosis of RWPE1 cells. Further
+ experiments verified that miR-183 up-regulation counteracted the influences
+ triggered by circLMTK2 overexpression in LNCaP and PC3 cells. Besides, it
+ markedly promoted the viability, proliferation, migration and invasion of
+ LNCaP cells, however had no significant influence on cell apoptosis.
+ Moreover, the inhibitory effects on Wnt/beta-catenin and PI3K/AKT pathways
+ evoked by circLMTK2 overexpression were diminished by miR-183 up-regulation
+ in LNCaP and PC3 cells. CONCLUSION: These outcomes illustrated that circLMTK2
+ overexpression exerts an anti-tumor effects through down-regulating the
+ expression of miR-183.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        mp TRUE,
+        term "Genes, Tumor Suppressor"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Protein-Serine-Threonine Kinases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Circular",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN183 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Circular"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "LMTK2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Protein-Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31760099,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

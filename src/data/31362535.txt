@@ -1,0 +1,265 @@
+
+Pubmed-entry ::= {
+  pmid 31362535,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalein inhibits proliferation and collagen synthesis of mice
+ fibroblast cell line NIH/3T3 by regulation of miR-9/insulin-like growth
+ factor-1 axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang L",
+            affil str "a Department of Dermatology, Henan Provincial People's
+ Hospital, The People's Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Li X",
+            affil str "a Department of Dermatology, Henan Provincial People's
+ Hospital, The People's Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Zhang S",
+            affil str "a Department of Dermatology, Henan Provincial People's
+ Hospital, The People's Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Song J",
+            affil str "a Department of Dermatology, Henan Provincial People's
+ Hospital, The People's Hospital of Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Zhu T",
+            affil str "b Department of Dermatology, The First Affiliated
+ Hospital of Soochow University , Suzhou , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3202-3211",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31362535,
+        doi "10.1080/21691401.2019.1645150",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1645150"
+        }
+      }
+    },
+    abstract "The aberrant scar is a challenging problem. Baicalein has
+ effects in attenuating hypertrophic scar formation. Herein, the roles of
+ baicalein in NIH-3T3 were obtained. Cells were treated by baicalein. CCK-8
+ method and western blot were used to detect cell viability and
+ proliferation-related factors. Furthermore, collagen 1, collagen 3 and
+ alpha-SMA expression were detected by qRT-PCR and western blot. Besides,
+ total soluble collagen was detected by Sircol assay. In addition, the levels
+ of NF-kappaB and Wnt/beta-catenin signal pathways related factors were
+ determined by western blot. The relationship between miR-9 and insulin-like
+ growth factor (IGF)-1 were tested by luciferase reporter assay, qRT-PCR and
+ western blot. We found baicalein cell restrained proliferation and collagen
+ production. Besides, baicalein increased expression of miR-9 and further
+ experiments validated that transfection with miR-9 inhibitor reversed the
+ results led by baicalein. Moreover, baicalein decreased the phosphorylation
+ of pathway-related proteins while transfection with miR-9 inhibitor revised
+ this result. Otherwise, IGF-1 was authenticated as a target of miR-9 and
+ si-IGF-1 reversed the miR-9 inhibitor-induced change in cell proliferation
+ and collagen production. In conclusion, baicalein restrained cell
+ proliferation and collagen production by regulating miR-9/IGF-1 axis through
+ NF-kappaB and Wnt/beta-catenin signal pathways. Highlights: Baicalein
+ restrains NIH/3T3 cell proliferation and collagen production. Baicalein
+ restrains NF-kappaB and Wnt/beta-catenin signal pathways. IGF-1 is a target
+ of miR-9. Baicalein exerts its functions by regulating miR-9/IGF-1 axis.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Collagen",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Fibroblasts",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Flavanones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Insulin-Like Growth Factor I",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NIH 3T3 Cells"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Flavanones"
+      },
+      {
+        type nameonly,
+        name "MIRN9 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "49QAH60606",
+        name "baicalein"
+      },
+      {
+        type cas,
+        cit "67763-96-6",
+        name "Insulin-Like Growth Factor I"
+      },
+      {
+        type cas,
+        cit "9007-34-5",
+        name "Collagen"
+      }
+    },
+    pmid 31362535,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

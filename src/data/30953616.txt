@@ -1,0 +1,336 @@
+
+Pubmed-entry ::= {
+  pmid 30953616,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Geniposide alleviates hypoxia-induced injury by down-regulation
+ of lncRNA THRIL in rat cardiomyocytes derived H9c2 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sheng C",
+            affil str "Department of Cardiac Surgery, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Hu F",
+            affil str "Department of Anesthesia Surgery, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Wu L",
+            affil str "Department of Cardiac Surgery, Jining No.1 People's
+ Hospital, Jining, 272011, Shandong, China. Electronic address:
+ lianhewu011@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Pharmacol.",
+          ml-jta "Eur J Pharmacol",
+          issn "1879-0712",
+          name "European journal of pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7,
+            day 5
+          },
+          volume "854",
+          pages "28-38",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30953616,
+        pii "S0014-2999(19)30219-5",
+        doi "10.1016/j.ejphar.2019.03.058",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-2999(19)30219-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejphar.2019.03.058"
+        }
+      }
+    },
+    abstract "Geniposide (GEN) is an iridoid glycoside extracts from Gardenia
+ jasminoides Ellis with antioxidant and anti-inflammarory properties. The
+ objective of this study was to explore the effects of GEN on a cell model of
+ myocardial infarction (MI). After transfection, hypoxia-stimulated H9c2 cells
+ were treated with GEN. Cell viability and apoptosis were detected by Cell
+ Counting kit-8 assay and flow cytometry, respectively. Cell cycle-,
+ apoptosis- and signal pathway related proteins were examined by Western blot.
+ The expression of THRIL was determined by qRT-PCR. In addition, in vivo
+ experiments were performed in rats. Then the infarct size and the left
+ ventricular (LV) end diastolic diameter (LVEDD), LV ejection fraction (LVEF)
+ and LV fractional shortening (LVFS) were monitored. Results showed that
+ treating H9c2 cells with GEN attenuated hypoxia-induced cell damage as cell
+ viability was increased, and cell apoptosis was repressed. Meanwhile, THRIL
+ was found to be down-regulated by GEN. The cardioprotective effects of GEN on
+ H9c2 cells were attenuated when THRIL was overexpressed. Besides this, the
+ phosphorylation of PI3K, AKT, JAK1 and STAT3 were up-regulated by GEN while
+ down-regulated by THRIL overexpression. Moreover, GEN decreased infarct size
+ and LVEDD, while increased LVEF and LVFS. Taken together, this study
+ demonstrated that GEN alleviated cardiomyocytes damage and cardiac
+ dysfunction possible through down-regulation of THRIL.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        term "Heart",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Iridoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Janus Kinase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            subh "pathology"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Iridoids"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type cas,
+        cit "145295QLXY",
+        name "geniposide"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30953616,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

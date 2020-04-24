@@ -1,0 +1,285 @@
+
+Pubmed-entry ::= {
+  pmid 30644017,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lidocaine alleviates cytotoxicity-resistance in lung cancer
+ A549/DDP cells via down-regulation of miR-21."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang Q",
+            affil str "Department of Anesthesiology, Huaihe Hospital of Henan
+ University, No. 8, Baobei Road, Gulou District, Kaifeng, 475000, China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "Department of Anesthesiology, Huaihe Hospital of Henan
+ University, No. 8, Baobei Road, Gulou District, Kaifeng, 475000, China."
+          },
+          {
+            name ml "Xu H",
+            affil str "Department of Anesthesiology, Huaihe Hospital of Henan
+ University, No. 8, Baobei Road, Gulou District, Kaifeng, 475000, China.
+ yehewei1304rra@163.com."
+          },
+          {
+            name ml "Ma C",
+            affil str "Department of Anesthesiology, Huaihe Hospital of Henan
+ University, No. 8, Baobei Road, Gulou District, Kaifeng, 475000, China.
+ machg522@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cell. Biochem.",
+          ml-jta "Mol Cell Biochem",
+          issn "1573-4919",
+          name "Molecular and cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "456",
+          issue "1-2",
+          pages "63-72",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30644017,
+        doi "10.1007/s11010-018-3490-x",
+        pii "10.1007/s11010-018-3490-x",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11010-018-3490-x"
+        }
+      }
+    },
+    abstract "Lidocaine (Lido) is a commonly used local anesthetic, which has
+ been reported in various types of cells. However, the effects of Lido on lung
+ cancer cells remain not understood. The study aimed to investigate the
+ underlying mechanisms of Lido in the cisplatin resistance of A549/DDP cells.
+ Different concentrations of cisplatin (0-320 microM) were used to stimulate
+ A549 and A549/DDP cells, and cell viability and apoptosis were examined. To
+ investigate the effect of Lido on A549/DDP cells, the optimum concentration
+ of Lido was selected to treat A549/DDP cells, and cell viability, apoptosis,
+ migration and invasion were then detected. The relative expression of miR-21
+ in A549/DDP cells or in Lido-treated A549/DDP cells was analyzed by RT-qPCR.
+ MiR-21 mimic, inhibitor and its control were transfected into A549/DDP cells
+ to explore the regulatory effect of miR-21 on the cisplatin resistance in
+ A549 or A549/DDP cells. The effects of miR-21 on PTEN/PI3K/AKT and PDCD4/JNK
+ pathways were detected by western blot. The cisplatin resistance of A549/DDP
+ cells was higher than that of A549 cells. Lido significantly suppressed cell
+ viability, induced apoptosis, and inhibited cell migration and invasion in
+ A549/DDP cells. Additionally, miR-21 expression in A549/DDP was higher than
+ that in A549 cells, and Lido significantly down-regulated miR-21 expression
+ in A549/DDP cells. MmiR-21 inhibition exhibited the same effects as Lido on
+ the cisplatin resistance of A549/DDP cells. Further, miR-21 suppression
+ regulated PTEN/PI3K/AKT and PDCD4/JNK pathways in A549/DDP cells. These
+ findings indicated that Lido alleviated the cytotoxicity resistance of
+ A549/DDP cells via down-regulation of miR-21.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cisplatin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Drug Resistance, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lidocaine",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN21 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type cas,
+        cit "98PI200987",
+        name "Lidocaine"
+      },
+      {
+        type cas,
+        cit "Q20Q21Q62J",
+        name "Cisplatin"
+      }
+    },
+    idnum {
+      "1503113/Kaifeng City Social Development Plan Project"
+    },
+    pmid 30644017,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,317 @@
+
+Pubmed-entry ::= {
+  pmid 29448248,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA GAS5 Overexpression Reverses LPS-Induced Inflammatory
+ Injury and Apoptosis Through Up-Regulating KLF2 Expression in ATDC5
+ Chondrocytes."
+      },
+      authors {
+        names ml {
+          "Li F",
+          "Sun J",
+          "Huang S",
+          "Su G",
+          "Pi G"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "45",
+          issue "3",
+          pages "1241-1251",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29448248,
+        pii "000487455",
+        doi "10.1159/000487455",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000487455"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Osteoarthritis (OA) is the most frequently
+ occurring joint disease and characterized by degeneration of cartilage. As
+ the unique cell type in cartilage, chondrocytes play a crucial role during
+ OA. Our study explored the influence of long non-coding RNA (lncRNA) growth
+ arrest-specific transcript 5 (GAS5) on lipopolysaccharides (LPS)-induced
+ injury in ATDC5 cells. METHODS: Cell viability, apoptosis and expression of
+ inflammatory cytokines were all assessed to evaluate LPS-induce inflammatory
+ injury. Expression of GAS5 in LPS-induced cells was evaluated by qRT-PCR.
+ After cell transfection, effect of abnormally expressed GAS5 on LPS-induced
+ inflammatory injury was determined. Then, the possible target of GAS5 was
+ screened by bioinformatics and verified by qRT-PCR and luciferase activity
+ assay. Together, whether aberrant expression of target gene affected the
+ modulation of GAS5 in LPS-induced inflammatory injury was also assessed.
+ Finally, the influences of aberrant expressed Kruppel-like factor 2 (KLF2) on
+ nuclear factor kappaB (NF-kappaB) and Notch pathways were detected by Western
+ blot analysis. RESULTS: LPS reduced cell viability and promoted cell
+ apoptosis and secretion of inflammatory cytokines, along with down-regulation
+ of GAS5. LPS-induced injury was alleviated by GAS5 overexpression while was
+ exacerbated by GAS5 silence. KLF2 was predicted and verified as a target of
+ GAS5, and GAS5 functioned through regulating expression of KLF2. Besides,
+ aberrant expression of KLF2 regulated expressions of key kinases involved in
+ the NF-kappaB and Notch pathways. CONCLUSION: GAS5 might ameliorate
+ LPS-induced inflammatory injury in ATDC5 chondrocytes by inhibiting the
+ NF-kappaB and Notch signaling pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Interleukin-8",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Kruppel-Like Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Interleukin-8"
+      },
+      {
+        type nameonly,
+        name "Klf2 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Kruppel-Like Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type nameonly,
+        name "long non-coding RNA GAS5, mouse"
+      }
+    },
+    pmid 29448248,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

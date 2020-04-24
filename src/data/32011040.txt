@@ -1,0 +1,142 @@
+
+Pubmed-entry ::= {
+  pmid 32011040,
+  medent {
+    em std {
+      year 2020,
+      month 2,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Icariin inhibits proliferation, migration, and invasion of
+ medulloblastoma DAOY cells by regulation of SPARC."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang Y",
+            affil str "Department of Neurosurgery, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Li G",
+            affil str "Department of Occupational Medicine, Weifang People's
+ Hospital, Weifang, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phytother Res",
+          ml-jta "Phytother Res",
+          issn "1099-1573",
+          name "Phytotherapy research : PTR"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 3
+          },
+          volume "34",
+          issue "3",
+          pages "591-600",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 9,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 2,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 32011040,
+        doi "10.1002/ptr.6545",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ptr.6545"
+        }
+      }
+    },
+    abstract "Icariin (ICA) is obtained from Epimedium brevicornu maxim and
+ exploited to remedy miscellaneous cancers. But the role of ICA in
+ medulloblastoma remains hazy. The research delved into the antitumor activity
+ of ICA in medulloblastoma DAOY cells. ICA with diverse concentrations was
+ utilized to stimulate DAOY cells, and the biological functions of ICA in
+ medulloblastoma DAOY cells were examined. Then, the relative SPARC expression
+ was determined in ICA-managed DAOY cells, and the pc-SPARC vector was
+ transfected into DAOY cells to further probe the influence of SPARC and
+ JAK1/STAT3 and PI3K/AKT pathways in ICA-managed DAOY cells. A xenograft model
+ was established to investigate the function of ICA in vivo. ICA restrained
+ cell viability, expedited apoptosis, prohibited cell migration and invasion,
+ and meanwhile affected the associative factors expression in DAOY cells.
+ Additionally, SPARC expression was declined in ICA-stimulated DAOY cells.
+ Overexpressed SPARC reversed the functions of ICA in above-involved cell
+ behaviors of DAYO cells and the correlative protein levels. Besides, ICA
+ notably frustrated JAK1/STAT3 and PI3K/AKT activations in DAOY cells. Beyond
+ that, ICA prohibited tumor formation in vivo. The results concluded that ICA
+ exhibited the antitumor activity in DAOY cells via decreasing SPARC and
+ inactivating JAK1/STAT3 and PI3K/AKT pathways.",
+    pmid 32011040,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

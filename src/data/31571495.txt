@@ -1,0 +1,258 @@
+
+Pubmed-entry ::= {
+  pmid 31571495,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Belinostat suppresses cell proliferation by inactivating
+ Wnt/beta-catenin pathway and promotes apoptosis through regulating PKC
+ pathway in breast cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lu P",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Gu Y",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Li L",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Wang F",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Yang X",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Yang Y",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3955-3960",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31571495,
+        doi "10.1080/21691401.2019.1671855",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1671855"
+        }
+      }
+    },
+    abstract "Belinostat is a histone deacetylase inhibitor drug capable of
+ regulating cell growth in diverse cancers. Nonetheless, little information
+ clarified the role of Belinostat in breast cancer. Hence, the functions of
+ Belinostat in breast cancer cells survival was disclosed in this study.
+ Belinostat at 50 and 100 muM were applied to manage MCF-7 cells, cell
+ viability, Ki67 positive cells, cell cycle and apoptosis were monitored via
+ MTT, immunohistochemistry and flow cytometry. Furthermore, the
+ apoptosis-related factors, Wnt/beta-catenin pathway and PKC pathway were
+ tested through western blot and qRT-PCR. Lastly, in vivo effect of Belinostat
+ was determined by a murine model. The results showed that Belinostat dampened
+ cell viability, decreased the proportion of Ki67 positive cells and arrested
+ cells at G0/G1 phase. The decreases of Wnt/beta-catenin, CCND2 and Myc were
+ observed in MCF-7 cells after Belinostat stimulation. Additionally,
+ Belinostat induced cell apoptosis, meanwhile dampened Bcl-2 and raised Bax
+ and Cleaved caspase 3 in a dose and time-dependent manner. Additionally,
+ Belinostat activated PKC pathway by upgrading PKCdelta and P53 expressions.
+ Furthermore, Belinostat restrained tumour weight and volume in vivo. In
+ summary, this study depicted that Belinostat prohibited proliferation and
+ evoked apoptosis via mediating Wnt/beta-catenin and PKC pathways in MCF-7
+ cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydroxamic Acids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MCF-7 Cells"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Protein Kinase C",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sulfonamides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Xenograft Model Antitumor Assays"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Hydroxamic Acids"
+      },
+      {
+        type nameonly,
+        name "Sulfonamides"
+      },
+      {
+        type ec,
+        cit "2.7.11.13",
+        name "Protein Kinase C"
+      },
+      {
+        type cas,
+        cit "F4H96P17NZ",
+        name "belinostat"
+      }
+    },
+    pmid 31571495,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

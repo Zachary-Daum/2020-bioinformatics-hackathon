@@ -1,0 +1,238 @@
+
+Pubmed-entry ::= {
+  pmid 28688193,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of lncRNA HULC inhibits proliferation, migration,
+ invasion, and promotes apoptosis by sponging miR-122 in osteosarcoma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kong D",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "119",
+          issue "1",
+          pages "1050-1061",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28688193,
+        doi "10.1002/jcb.26273",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26273"
+        }
+      }
+    },
+    abstract "Osteosarcoma is a rare malignant bone tumor with high degree of
+ malignancy. HULC (highly upregulated in liver cancer), a long noncoding RNA
+ (lncRNA) was involved in hepatocellular carcinoma development and
+ progression, but its underlying mechanism in osteosarcoma is unknown. The aim
+ of this study was to explore the functional role of HULC in osteosarcoma. The
+ study was conducted in human osteosarcoma cell lines and the expression of
+ HULC in the cell lines was detected by qRT-PCR. Furthermore, the effects of
+ HULC on tumorigenicity of osteosarcoma cells were evaluated by in vitro
+ assays. Results revealed that HULC was highly expressed in osteosarcoma MG63
+ and OS-732 cells compared to osteoblast hFOB1.19 cells. Suppression of HULC
+ in osteosarcoma cells inhibited cell viability, migration, invasion, and
+ promoted apoptosis. HULC functioned as an endogenous sponge for miR-122, and
+ its silence functioned through upregulating miR-122. HNF4G was a target of
+ miR-122, and the effect of HNF4G on OS-732 cells was the same as HULC.
+ Furthermore, overexpression of miR-122 inactivated PI3K/AKT, JAK/STAT, and
+ Notch pathways by downregulation of HNF4G. These findings suggest that
+ knockdown of HULC inhibited proliferation, migration, and invasion by
+ sponging miR-122 in osteosarcoma cells. HULC may act as a novel therapeutic
+ target for management of osteosarcoma.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Hepatocyte Nuclear Factor 4",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "HNF4G protein, human"
+      },
+      {
+        type nameonly,
+        name "HULC long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "Hepatocyte Nuclear Factor 4"
+      },
+      {
+        type nameonly,
+        name "MIRN122 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 28688193,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

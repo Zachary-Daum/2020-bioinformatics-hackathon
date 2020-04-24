@@ -1,0 +1,285 @@
+
+Pubmed-entry ::= {
+  pmid 30158376,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA DIGIT Accelerates Tube Formation of Vascular Endothelial
+ Cells by Sponging miR-134."
+      },
+      authors {
+        names std {
+          {
+            name ml "Miao C",
+            affil str "Department of Vascular Surgery, The Frist Affiliated
+ Hospital of Zhengzhou University."
+          },
+          {
+            name ml "Cao H",
+            affil str "Department of Hematology, The Frist Affiliated Hospital
+ of Zhengzhou University."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Vascular Surgery, The Frist Affiliated
+ Hospital of Zhengzhou University."
+          },
+          {
+            name ml "Guo X",
+            affil str "Department of Vascular Surgery, The Frist Affiliated
+ Hospital of Zhengzhou University."
+          },
+          {
+            name ml "Wang Z",
+            affil str "Department of Vascular Surgery, The Frist Affiliated
+ Hospital of Zhengzhou University."
+          },
+          {
+            name ml "Wang J",
+            affil str "Department of Pediatric Surgery, The Frist Affiliated
+ Hospital of Zhengzhou University."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int Heart J",
+          ml-jta "Int Heart J",
+          issn "1349-3299",
+          name "International heart journal"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9,
+            day 26
+          },
+          volume "59",
+          issue "5",
+          pages "1086-1095",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30158376,
+        doi "10.1536/ihj.17-290",
+        other {
+          db "ELocationID doi",
+          tag str "10.1536/ihj.17-290"
+        }
+      }
+    },
+    abstract "Atherosclerosis is one of the most prevalent and important
+ cardiac diseases, involving the heart and brain. This study aimed to explore
+ the impacts of lncRNA Divergent to GSC induced by TGF-b family signaling
+ (DIGIT) on vascular endothelial cells tube-formation capacity so as to reveal
+ the potentials of DIGIT in atherosclerosis therapy. DIGIT expression in human
+ microvascular endothelial HMEC-1 cells was silenced by transfection with
+ shRNAs-targeted DIGIT. The effects of DIGIT silence on cell viability,
+ migration, apoptosis, and tube formation were then assessed. Additionally,
+ the cross-regulation between DIGIT and miR-134, and between miR-134 and Bmi-1
+ was detected to further reveal through which mechanism (s) DIGIT mediated
+ HMEC-1 cells. The results showed that DIGIT silence significantly reduced
+ cell viability, migration, tube-like structures formation, and induced
+ apoptosis in HMEC-1 cells. DIGIT worked as a sponge for miR-134, and the
+ anti-growth, anti-migratory, and anti-tube-formation functions of DIGIT
+ silence on HMEC-1 cells were abolished by miR-134 suppression. Bmi-1 was a
+ target of miR-134, and Bmi-1 upregulation abolished miR-134
+ overexpression-diminished cell growth, migration, and tube formation of
+ HMEC-1 cells. Furthermore, Bmi-1 upregulation activated PI3K/AKT and Notch
+ signaling pathways. In conclusion, our study demonstrated that lncRNA DIGIT
+ accelerated tube formation of vascular endothelial cells through sponging
+ miR-134. Our findings suggest that DIGIT and miR-134 may be promising
+ molecular targets for atherosclerosis therapy.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Atherosclerosis",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polycomb Repressive Complex 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BMI1 protein, human"
+      },
+      {
+        type nameonly,
+        name "DIGIT, long noncoding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN134 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Polycomb Repressive Complex 1"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      }
+    },
+    pmid 30158376,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

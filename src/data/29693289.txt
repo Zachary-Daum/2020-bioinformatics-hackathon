@@ -1,0 +1,262 @@
+
+Pubmed-entry ::= {
+  pmid 29693289,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA ATB promotes proliferation and metastasis in A549 cells
+ by down-regulation of microRNA-494."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cao Y",
+            affil str "Department of Respiratory Medicine, The Affiliated
+ Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Luo X",
+            affil str "Department of Respiratory Medicine, Qingdao Eighth
+ People's Hospital, Qingdao, China."
+          },
+          {
+            name ml "Ding X",
+            affil str "Department of Respiratory Medicine, The Affiliated
+ Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Cui S",
+            affil str "Department of Respiratory Medicine, The Affiliated
+ Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Guo C",
+            affil str "Department of Respiratory Medicine, The Affiliated
+ Hospital of Qingdao University, Qingdao, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "119",
+          issue "8",
+          pages "6935-6942",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29693289,
+        doi "10.1002/jcb.26894",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26894"
+        }
+      }
+    },
+    abstract "Lung cancer is a commonly diagnosed disease with poor prognosis.
+ Novel therapeutic targets and deep understanding of the regulatory mechanisms
+ in lung cancer are of great importance. We aimed to figure out the functional
+ roles of lncRNA-activated by transforming growth factor-beta (ATB) in A549
+ cells as well as the underlying molecular mechanisms. ATB was
+ non-physiologically expressed in A549 cells after cell transfection. Then,
+ cell proliferation, expressions of proteins related to proliferation and
+ epithelial-mesenchymal transition (EMT), migration, and invasion were
+ measured by BrdU incorporation assay, Western blot analysis, and Transwell
+ assay, respectively. Afterwards, miR-494 expression in transfected A549 cells
+ was determined by quantitative reverse transcription PCR. Meanwhile, effects
+ of miR-494 overexpression on ATB-overexpressed cells were assessed. Finally,
+ the phosphorylation levels of AKT and key kinases in the Janus-activated
+ kinase (JAK)/signal transducer and activator of transcription-3 (STAT3)
+ pathway were detected by Western blot analysis. ATB overexpression promoted
+ proliferation, migration, and invasion of A549 cells. Meanwhile, EMT of A549
+ cells was also enhanced. ATB silence showed the opposite influence.
+ Expression of miR-494 was negatively regulated by ATB. Following experiments
+ showed ATB-induced alterations of proliferation, migration, invasion, and EMT
+ were all reversed by miR-494 overexpression. Finally, we proved that ATB
+ increased phosphorylated levels of AKT, JAK1, and STAT3, and those increases
+ were all reversed by miR-494 overexpression. We interestingly figured out
+ that ATB promoted proliferation, migration, invasion, and EMT through
+ down-regulating miR-494 in A549 cells. Moreover, ATB might activate AKT and
+ the JAK/STAT3 pathway via down-regulating miR-494.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        mp TRUE,
+        term "Down-Regulation"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN494 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      }
+    },
+    pmid 29693289,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

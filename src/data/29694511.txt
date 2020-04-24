@@ -1,0 +1,284 @@
+
+Pubmed-entry ::= {
+  pmid 29694511,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA-ROR aggravates myocardial
+ ischemia/reperfusion injury."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang W",
+            affil str "Department of Cardiology, Dezhou People's Hospital,
+ Dezhou, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Interventional Center, Dezhou People's Hospital,
+ Dezhou, China."
+          },
+          {
+            name ml "Wang P",
+            affil str "Department of Cardiology, Dezhou People's Hospital,
+ Dezhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "6",
+          pages "e6555",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 25
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29694511,
+        pii "S0100-879X2018000600609",
+        doi "10.1590/1414-431x20186555",
+        other {
+          db "pmc",
+          tag str "PMC5937723"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000600609"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431x20186555"
+        }
+      }
+    },
+    abstract "Long non-coding RNAs (lncRNAs) play an important role in the
+ pathogenesis of cardiovascular diseases, especially in myocardial infarction
+ and ischemia/reperfusion (I/R). However, the underlying molecular mechanism
+ remains unclear. In this study, we determined the role and the possible
+ underlying molecular mechanism of lncRNA-ROR in myocardial I/R injury. H9c2
+ cells and human cardiomyocytes (HCM) were subjected to either
+ hypoxia/reoxygenation (H/R), I/R or normal conditions (normoxia). The
+ expression levels of lncRNA-ROR were detected in serum of myocardial I/R
+ injury patients, H9c2 cells, and HCM by qRT-PCR. Then, levels of lactate
+ dehydrogenase (LDH), malondialdehyde (MDA), superoxide dismutase (SOD), and
+ glutathione peroxidase (GSH-PX) were measured by kits. Cell viability,
+ apoptosis, apoptosis-associated factors, and p38/MAPK pathway were examined
+ by MTT, flow cytometry, and western blot assays. Furthermore, reactive oxygen
+ species (ROS) production was determined by H2DCF-DA and MitoSOX Red probes
+ with flow cytometry. NADPH oxidase activity and NOX2 protein levels were
+ measured by lucigenin chemiluminescence and western blot. Results showed that
+ lncRNA-ROR expression was increased in I/R patients and in H/R treatment of
+ H9c2 cells and HCM. Moreover, lncRNA-ROR significantly promoted H/R-induced
+ myocardial injury via stimulating release of LDH, MDA, SOD, and GSH-PX.
+ Furthermore, lncRNA-ROR decreased cell viability, increased apoptosis, and
+ regulated expression of apoptosis-associated factors. Additionally,
+ lncRNA-ROR increased phosphorylation of p38 and ERK1/2 expression and
+ inhibition of p38/MAPK, and rescued lncRNA-ROR-induced cell injury in H9c2
+ cells and HCM. ROS production, NADPH oxidase activity, and NOX2 protein
+ levels were promoted by lncRNA-ROR. These data suggested that lncRNA-ROR
+ acted as a therapeutic agent for the treatment of myocardial I/R injury.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Glutathione Peroxidase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydro-Lyases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Malondialdehyde",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Ischemia",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Reperfusion Injury",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Superoxide Dismutase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Linc-RNA-RoR, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "4Y8F71G49Q",
+        name "Malondialdehyde"
+      },
+      {
+        type ec,
+        cit "1.11.1.9",
+        name "Glutathione Peroxidase"
+      },
+      {
+        type ec,
+        cit "1.15.1.1",
+        name "Superoxide Dismutase"
+      },
+      {
+        type ec,
+        cit "4.2.1.-",
+        name "Hydro-Lyases"
+      },
+      {
+        type ec,
+        cit "4.2.1.54",
+        name "lactate dehydratase"
+      }
+    },
+    pmid 29694511,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

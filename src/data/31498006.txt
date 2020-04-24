@@ -1,0 +1,243 @@
+
+Pubmed-entry ::= {
+  pmid 31498006,
+  medent {
+    em std {
+      year 2019,
+      month 9,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA HAGLROS promotes the process of mantle cell
+ lymphoma by regulating miR-100/ATG5 axis and involving in PI3K/AKT/mTOR
+ signal."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mu G",
+            affil str "Department of Hematology, The Third Xiangya Hospital,
+ Central South University , Changsha , Hunan , China."
+          },
+          {
+            name ml "Liu Q",
+            affil str "Department of Blood Transfusion, Affiliated Hospital of
+ Xiangnan University , Chenzhou , Hunan , China."
+          },
+          {
+            name ml "Wu S",
+            affil str "Department of Blood Transfusion, Affiliated Hospital of
+ Xiangnan University , Chenzhou , Hunan , China."
+          },
+          {
+            name ml "Xia Y",
+            affil str "Department of Blood Transfusion, Affiliated Hospital of
+ Xiangnan University , Chenzhou , Hunan , China."
+          },
+          {
+            name ml "Fang Q",
+            affil str "Department of Hematology, The Third Xiangya Hospital,
+ Central South University , Changsha , Hunan , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3649-3656",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 9,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 9,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31498006,
+        doi "10.1080/21691401.2019.1645151",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1645151"
+        }
+      }
+    },
+    abstract "This research planned to grab the expression and impact of
+ lncRNA HAGLROS in the biology and progression of mantle cell lymphoma.
+ HAGLROS level in mantle cell lymphoma cell lines was detected, followed by
+ investigation of the influences of HAGLROS silencing on Mino cell biological
+ performances. Afterwards, the express patterns of HAGLROS vs. miR-100, as
+ well as miR-100 vs. ATG5, were investigated. Furthermore, whether HAGLROS
+ could regulate the signals of PI3K/AKT/mTOR was analyzed. HAGLROS level was
+ high in mantle cell lymphoma cell lines. Silencing of HAGLROS inhibited Mino
+ cell viability, increased apoptosis and decreased autophagy by sponging
+ miR-100. Moreover, miR-100 targeted ATG5 fixed. Furthermore, HAGLROS
+ suppression resulted in inhibition on the briskness of PI3K/AKT/mTOR signals.
+ Concurrently HAGLROS suppression and miR-100 inhibitor markedly changed the
+ impacts of HAGLROS down-regulation alone on activating PI3K/AKT/mTOR signals,
+ which could further change after co-transfection of si-HAGLROS + miR-100
+ inhibitor + siATG5. Our findings point out that expression of HAGLROS is
+ increased in mantle cell lymphoma cells and may function as an oncogene in
+ mantle cell lymphoma. HAGLROS may promote tumour development by regulating
+ miR-100/ATG5/PI3K/AKT/mTOR axis.",
+    mesh {
+      {
+        term "Autophagy-Related Protein 5",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lymphoma, Mantle-Cell",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Autophagy-Related Protein 5"
+      },
+      {
+        type nameonly,
+        name "MIRN100 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31498006,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

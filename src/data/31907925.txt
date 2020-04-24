@@ -1,0 +1,155 @@
+
+Pubmed-entry ::= {
+  pmid 31907925,
+  medent {
+    em std {
+      year 2020,
+      month 1,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-ERK1/2 signaling participates in the progression of gastric
+ cancer through repressing Aurora B-mediated H1.4 phosphorylation at Ser27."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu J",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, Shandong, China."
+          },
+          {
+            name ml "Tian F",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, Shandong, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, Shandong, China."
+          },
+          {
+            name ml "Liu Z",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, Shandong, China."
+          },
+          {
+            name ml "Wu C",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, Shandong, China."
+          },
+          {
+            name ml "Zhao Z",
+            affil str "Department of Rehabilitation, Linyi Central Hospital,
+ Linyi, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1,
+            day 7
+          },
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 12,
+                day 23
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31907925,
+        doi "10.1002/jcp.29432",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.29432"
+        }
+      }
+    },
+    abstract "HRas mutation rate is high in gastric cancer while the deep
+ mechanism of HRas's oncogenic effects is unclear. The current work designed
+ to link HRas signaling with H1.4S27ph in gastric cancer to decode the unclear
+ mechanism in epigenetics standpoint. Ras(Q61R/T35S) expressing plasmids were
+ transfected into SNU-16 cells. Western blot was conducted to check H1.4S27ph
+ and extracellular-signal-regulated kinase 1/2 (ERK1/2) expression.
+ 3-(4,5-Dimethyl-2-thiazolyl)-2,5-diphenyl-2-H-tetrazolium bromide, colony
+ formation, and transwell assays were carried out to see the effects of
+ H1.4S27ph on SNU-16 cells phenotype. Chromatin immunoprecipitation was
+ utilized to detect the interaction between H1.4S27ph and Ras downstream
+ genes. Further, the enzymes responsible for H1.4S27 phosphorylation were
+ studied by a quantitative reverse transcription-polymerase chain reaction and
+ western blot. Ras mutation repressed H1.4 phosphorylation at Ser27
+ accompanied by ERK1/2 activation. H1.4S27ph reduced SNU-16 cells viability,
+ colony formation, and migration. Meanwhile, H1.4S27ph regulated the
+ transcription of Ras downstream genes. Ras-ERK1/2 signaling inhibited
+ H1.4S27ph via inhibiting the activity of Aurora B. Aurora B exhibited
+ H1.4S27ph-like effects on inhibiting SNU-16 cells viability, migration, and
+ S-phase arrest. Further, Ras-ERK1/2 signaling degenerated Aurora B via
+ mediating MDM2. H1.4S27ph worked as an anti-gastric cancer factor. It can be
+ inhibited by activation of Ras-ERK1/2 signaling. Ras-ERK1/2 signaling
+ repressed H1.4S27ph via MDM2-dependent degradation of Aurora B.",
+    pmid 31907925,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

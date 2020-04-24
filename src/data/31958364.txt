@@ -1,0 +1,149 @@
+
+Pubmed-entry ::= {
+  pmid 31958364,
+  medent {
+    em std {
+      year 2020,
+      month 1,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "JMJD6-STAT3(Y705ph) axis promotes autophagy in osteosarcoma
+ cancer cells by regulating ATG."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang K",
+            affil str "Department of Emergency and Trauma Surgery, Jining No.1
+ People's Hospital, Jining, China.; Affiliated Jining No.1 People's Hospital
+ of Jining Medical University, Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Du B",
+            affil str "Department of Emergency and Trauma Surgery, Jining No.1
+ People's Hospital, Jining, China."
+          },
+          {
+            name ml "Xu B",
+            affil str "Department of Emergency and Trauma Surgery, Jining No.1
+ People's Hospital, Jining, China."
+          },
+          {
+            name ml "Lv X",
+            affil str "Department of Children Rehabilitation, Jining No.1
+ People's Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biofactors",
+          ml-jta "Biofactors",
+          issn "1872-8081",
+          name "BioFactors (Oxford, England)"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1,
+            day 20
+          },
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 1,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 1,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31958364,
+        doi "10.1002/biof.1614",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/biof.1614"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteosarcoma cancer is a malignant tumor with poor
+ outcome. Activation of STAT3 is closely related with tumor development. We
+ intended to study the effects of JMJD6 on phosphorylation of STAT3 at Y705
+ site. METHODS: Osteosarcoma cancer cell lines (Saos-2, MG-63, and HOS) and
+ clinical specimens were obtained. Interference RNA or JMJD6 mimic was
+ transfected into the cells to silence or mimic JMJD6. Immunoprecipitation
+ assay and glutathione S-transferase (GST) pull down was implemented to
+ investigate whether JMJD6 is associated with STAT3. STAT3-null HOS cells were
+ simultaneously transfected with the plasmids bearing STAT3(WT) or
+ STAT3(Y705F) and EGFP-tagged LC3 plasmids. Recombinant full-length JMJD6
+ protein was subjected to in vitro kinase activity assay for testing its
+ ability to phosphorylate STAT3. The severity of autophagy was indicated by
+ the number of autophagosomes, expression of EGFP-LC3, ratio of LC3-II to
+ LC3-I, degradation percentage of long-lived proteins and expression of
+ autophagy associated gene (ATG). RESULTS: JMJD6 modulated the phosphorylation
+ of STAT3 at Y705 site in osteosarcoma cells. Results from immunoprecipitation
+ and GST pull down assays showed that JMJD6 associated with STAT3 in
+ osteosarcoma cells. JMJD6 silence impeded the formation of autophagosomes,
+ inhibited the accumulation of EGFP-LC3, decreased the ratio of LC3-II to
+ LC3-I, blocked the degradation of long-lived proteins, and repressed the
+ expression of ATG. JMJD6-induced autophagy was impaired by STAT3(Y705F) which
+ was not phosphorylated by JMJD6. The JMJD6-STAT3(Y705ph) axis was implicated
+ in the transcriptional regulation of ATG. CONCLUSION: JMJD6 was included in
+ regulating the phosphorylation of STAT3(Y705) and promoted autophagy of
+ osteosarcoma cells through its kinase activity.",
+    pmid 31958364,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

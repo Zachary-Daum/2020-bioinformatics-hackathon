@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 29471888,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Liquiritigenin Inhibits Colorectal Cancer Proliferation,
+ Invasion, and Epithelial-to-Mesenchymal Transition by Decreasing Expression
+ of Runt-Related Transcription Factor 2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Meng FC",
+            affil str "Department of Gastrointestinal Surgery, Shengli
+ Oilfield Central Hospital, Dongying, Shandong, P.R. China."
+          },
+          {
+            name ml "Lin JK",
+            affil str "Department of Gastrointestinal Surgery, Shengli
+ Oilfield Central Hospital, Dongying, Shandong, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2,
+            day 5
+          },
+          volume "27",
+          issue "2",
+          pages "139-146",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29471888,
+        doi "10.3727/096504018X15185747911701",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504018X15185747911701"
+        }
+      }
+    },
+    abstract "Inhibition of tumor metastasis is one of the most important
+ purposes in colorectal cancer (CRC) treatment. This study aimed to explore
+ the effects of liquiritigenin, a flavonoid extracted from the roots of
+ Glycyrrhiza uralensis Fisch, on HCT116 cell proliferation, invasion, and
+ epithelial-to-mesenchymal transition (EMT). We found that liquiritigenin
+ significantly inhibited HCT116 cell proliferation, invasion, and the EMT
+ process, but had no influence on cell apoptosis. Moreover, liquiritigenin
+ remarkably reduced the expression of runt-related transcription factor 2
+ (Runx2) in HCT116 cells. Overexpression of Runx2 obviously reversed the
+ liquiritigenin-induced invasion and EMT inhibition. Furthermore,
+ liquiritigenin inactivated the phosphoinositide 3-kinase/protein kinase B
+ (PI3K/AKT) pathway in HCT116 cells. Upregulation of Runx2 reversed the
+ liquiritigenin-induced PI3K/AKT pathway inactivation. In conclusion, our
+ research verified that liquiritigenin exerted significant inhibitory effects
+ on CRC invasion and EMT process by downregulating the expression of Runx2 and
+ inactivating the PI3K/AKT signaling pathway. Liquiritigenin could be an
+ effective therapeutic and preventative medicine for CRC treatment.",
+    mesh {
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Core Binding Factor Alpha 1 Subunit",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Flavanones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "HCT116 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Phosphoinositide-3 Kinase Inhibitors"
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Core Binding Factor Alpha 1 Subunit"
+      },
+      {
+        type nameonly,
+        name "Flavanones"
+      },
+      {
+        type nameonly,
+        name "Phosphoinositide-3 Kinase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "RUNX2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "T194LKP9W6",
+        name "liquiritigenin"
+      }
+    },
+    pmid 29471888,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

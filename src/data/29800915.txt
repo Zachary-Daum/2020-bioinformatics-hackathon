@@ -1,0 +1,326 @@
+
+Pubmed-entry ::= {
+  pmid 29800915,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA TUG1 protects renal tubular epithelial cells
+ against injury induced by lipopolysaccharide via regulating microRNA-223."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu Y",
+            affil str "Department of Nephrology, Jining No. 1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Deng W",
+            affil str "Department of Nephrology, Jining No. 1 People's
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Zhang W",
+            affil str "Department of Nephrology, Jining No. 1 People's
+ Hospital, Jining, 272011, Shandong, China. Electronic address:
+ Weizhang822@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "104",
+          pages "509-519",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29800915,
+        pii "S0753-3322(18)30193-8",
+        doi "10.1016/j.biopha.2018.05.069",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30193-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.05.069"
+        }
+      }
+    },
+    abstract "BACKGROUND: Lupus nephritis (LN) is a serious complication of
+ systemic lupus erythematosus (SLE). Long non-coding RNA taurine upregulated
+ gene 1 (lncRNA TUG1) exerted critical regulatory effects on inhibiting cell
+ injury and inflammation. However, its role in LN is still unclear. METHODS:
+ HK-2 cells were treated with lipopolysaccharide (LPS) to simulate cell
+ inflammatory injury. Cell viability and apoptosis, as well as
+ pro-inflammatory factors expression were measured, respectively. Then, HK-2
+ cells were transfected with pEX-TUG1 or sh-TUG1 to explore the effects of
+ TUG1 on LPS-induced cell injury. Potential binding effects between TUG1 and
+ microRNA-223 (miR-223), as well as between miR-223 and Sirtuin 1 (Sirt1) were
+ verified. miR-223 mimic or miR-223 inhibitor was transfected to assess the
+ effects of miR-223 on cell injury. Finally, the roles of Sirt1 in LPS-induced
+ HK-2 cell injury and activation of phosphatidylinositol 3-kinase/protein
+ kinase 3 (PI3K/AKT) and nuclear factor kappa B (NF-kappaB) pathways were
+ explored. RESULTS: LPS administration inhibited HK-2 cell viability and
+ proliferation, increased expression of pro-inflammatory factors, and promoted
+ cell apoptosis. TUG1 overexpression protected HK-2 cells against LPS-induced
+ injury via negatively regulating miR-223 expression. TUG1 suppression had
+ opposite effects. Sirt1 was a direct target gene of miR-223 in HK-2 cells,
+ which participated in the effects of miR-223 on HK-2 cells and was related
+ with the activation of PI3K/AKT and NF-kappaB pathways. CONCLUSION: TUG1
+ protected HK-2 cells against LPS-induced inflammatory injury by regulating
+ miR-223 and Sirt1 expression, and then activating PI3K/AKT and inactivating
+ NF-kappaB pathways. TUG1 might be a potential therapeutic target for LN
+ treatment.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Kidney Tubules",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sirtuin 1",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Transfection",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN223 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "TUG1 long noncoding RNA, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.5.1.-",
+        name "Sirtuin 1"
+      }
+    },
+    pmid 29800915,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

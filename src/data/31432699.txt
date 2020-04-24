@@ -1,0 +1,310 @@
+
+Pubmed-entry ::= {
+  pmid 31432699,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA UCA1 relieves cardiomyocytes H9c2 injury
+ aroused by oxygen-glucose deprivation via declining miR-122."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang Z",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Cui Z",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Zhou Z",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Chen S",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Ma J",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Hou L",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Pan X",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Shandong , Jining , China."
+          },
+          {
+            name ml "Li Q",
+            affil str "Department of Painless Endoscopy, Jining No.1 People's
+ Hospital , Shandong , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3492-3499",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31432699,
+        doi "10.1080/21691401.2019.1652630",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1652630"
+        }
+      }
+    },
+    abstract "Background: Many lncRNAs have been recognized as critical
+ regulatory factors in acute myocardial infarction (AMI). Herein, we further
+ tested the influence of long non-coding RNA urothelial carcinoma associated 1
+ (UCA1) on cardiomyocytes injury in AMI, along with the role of microRNA-122
+ (miR-122) in this influence. Methods: Cardiomyocytes H9c2 was subjected to
+ oxygen-glucose deprivation (OGD) stimulation. Cell viability and apoptosis
+ were assessed. The UCA1 and miR-122 expressions were measured by qRT-PCR.
+ Plasmids and miRNAs transfection were utilized to elevate UCA1 and miR-122
+ expressions. Subsequently, the influences of UCA1 and/or miR-122
+ overexpression on OGD-aroused H9c2 cell viability inhibition and apoptosis
+ were probed. The AKT/mTOR and JNK/p38MAPK pathways in cells were analyzed.
+ Results: OGD aroused H9c2 cell injury by suppressing cell viability and
+ elevating cell apoptosis. Followed by OGD stimulation, the UCA1 expression
+ was lowered in H9c2 cells. Overexpression of UCA1 weakened H9c2 cell injury
+ aroused by OGD and declined miR-122 expression. Moreover, miR-122 attended to
+ the influence of UCA1 overexpression on OGD-aroused H9c2 cell injury.
+ Overexpression of UCA1 weakened OGD-aroused AKT/mTOR pathway inactivation and
+ JNK/p38MAPK pathway activation by declining miR-122. Conclusion:
+ UCA1-relieved OGD-aroused H9c2 cell injury might be achieved via declining
+ miR-122 and then promoting AKT/mTOR pathway and suppressing JNK/p38MAPK
+ pathway.",
+    mesh {
+      {
+        term "Cell Line"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN122 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "UCA1 RNA, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 31432699,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

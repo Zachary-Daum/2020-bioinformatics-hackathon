@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 30981080,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA highly up-regulated in liver cancer protects
+ tumor necrosis factor-alpha-induced inflammatory injury by down-regulation of
+ microRNA-101 in ATDC5 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chu P",
+            affil str "The Second Hospital of Shandong University, Jinan
+ 250000, China."
+          },
+          {
+            name ml "Wang Q",
+            affil str "Department of Joint Surgery, Taian City Central
+ Hospital, Taian 271000, China."
+          },
+          {
+            name ml "Wang Z",
+            affil str "Second Department of Orthopedics, The First People's
+ Hospital of Taian, Taian 271000, China."
+          },
+          {
+            name ml "Gao C",
+            affil str "The Second Hospital of Shandong University, Jinan
+ 250000, China. Electronic address: gaochunzheng123@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "72",
+          pages "148-158",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30981080,
+        pii "S1567-5769(18)30689-1",
+        doi "10.1016/j.intimp.2019.04.004",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(18)30689-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2019.04.004"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteoarthritis (OA) is a familiar joint degenerative
+ disease. Long non-coding RNAs (lncRNAs) play vital roles in the pathogenesis
+ of OA. Nevertheless, the regulatory impacts of lncRNA highly up-regulated in
+ liver cancer (lncRNA-HULC) on OA remain dimness. The study tried to probe the
+ protective effect of HULC on ATDC5 cells against tumor necrosis factor-alpha
+ (TNF-alpha)-induced inflammatory injury. METHODS: Relative expression levels
+ of pro-inflammatory cytokines (IL-6, IL-8 and MCP-1) and HULC in OA cartilage
+ tissues and normal cartilage tissues were determined by RT-qPCR. TNF-alpha
+ induced inflammatory injury model in ATDC5 cells was constructed, and the
+ biological functions of HULC overexpression or suppression in
+ TNF-alpha-injured ATDC5 cells were assessed. The relevancy between miR-101
+ and HULC was investigated by utilizing bioinformatics prediction, luciferase
+ reporter assay, RNA pull-down and immunoprecipitation. MiR-101 mimic and
+ inhibitor were transfected into ATDC5 cells, and its regulatory effect on
+ TNF-alpha-injured ATDC5 cells was examined. Further, NF-kappaB and MAPK
+ signaling pathways were finally detected by western blot. RESULTS:
+ Enhancement of IL-6, IL-8 and MCP-1 were observated in OA cartilage tissues,
+ but repression of HULC was discovered in OA cartilage tissues. HULC
+ expression was decreased by TNF-alpha treatment, and overexpressed HULC
+ significantly relieved TNF-alpha-induced ATDC5 cells injury. Additionally,
+ miR-101 was mutual repressed with HULC, and overexpressed miR-101 reversed
+ the protective effect of HULC in TNF-alpha-injured ATDC5 cells. Besides, HULC
+ blocked NF-kappaB and MAPK pathways via repression of miR-101. CONCLUSIONS:
+ The discoveries testified that HULC protected ATDC5 cells against
+ TNF-alpha-induced inflammatory injury by repression of miR-101.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cartilage, Articular",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "HULC long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN101 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30981080,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

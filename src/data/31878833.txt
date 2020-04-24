@@ -1,0 +1,140 @@
+
+Pubmed-entry ::= {
+  pmid 31878833,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Circular RNA circDENND2A protects H9c2 cells from oxygen glucose
+ deprivation-induced apoptosis through sponging microRNA-34a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shao Y",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Zhong P",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Sheng L",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Zheng H",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell Cycle",
+          ml-jta "Cell Cycle",
+          issn "1551-4005",
+          name "Cell cycle (Georgetown, Tex.)"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1
+          },
+          volume "19",
+          issue "2",
+          pages "246-255",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31878833,
+        doi "10.1080/15384101.2019.1708029",
+        other {
+          db "pmc",
+          tag str "PMC6961690"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/15384101.2019.1708029"
+        }
+      }
+    },
+    abstract "Background/Aims: Myocardial ischemia (MI) is a serious threat to
+ human health. Circular RNAs (circRNAs) play an important role in many
+ diseases including MI. The effect and mechanism of circDENND2A in MI have not
+ been studied.Methods: We used oxygen glucose deprivation (OGD) treatment to
+ simulate MI in vitro. We detected circDENND2A and microRNA (miR)-34a levels
+ by RT-qPCR. The transfection process used INTERFER and jetPRIME. Cell growth
+ indexes including viability, apoptosis, and migration were detected by CCK8,
+ flow cytometry, and transwell assays, respectively. In addition, the Bax,
+ Cleaved-Caspase-3, matrix metalloproteinase (MMP)-2, MMP-9 and
+ pathway-related protein levels were tested by Western blot.Results: OGD
+ upregulated circDENND2A expression in H9c2 cells. Overexpression of
+ circDENND2A enhanced cell viability and migration but declined apoptosis
+ under OGD. Silenced circDENND 2A played the opposite effects. circDENND2A
+ negatively regulated miR-34a. miR-34a overexpression weakened the protective
+ effects of circDENND2A in OGD-injury. Moreover, we considered circDENND2A and
+ miR-34a may work via beta-catenin and Ras/Raf/MEK/ERK pathways.Conclusion:
+ circDENND2A overexpression enhanced OGD-inhibited cell viability and
+ migration but declined OGD-promoted apoptosis by downregulating miR-34a and
+ via beta-catenin and Ras/Raf/MEK/ERK pathways.",
+    pmid 31878833,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

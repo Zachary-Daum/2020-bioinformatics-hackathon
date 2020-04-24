@@ -1,0 +1,290 @@
+
+Pubmed-entry ::= {
+  pmid 29710506,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Emodin attenuates apoptosis and inflammation induced by LPS
+ through up-regulating lncRNA TUG1 in murine chondrogenic ATDC5 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liang Z",
+            affil str "Department of Bone and Joint Surgery, Jining No.1
+ People's Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Ren C",
+            affil str "Department of Rheumatology and Immunology, Jining No.1
+ People's Hospital, Jining 272011, Shandong, China. Electronic address:
+ renchunfeng0038@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "103",
+          pages "897-902",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29710506,
+        pii "S0753-3322(18)30182-3",
+        doi "10.1016/j.biopha.2018.04.085",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30182-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.04.085"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteoarthritis (OA) is the most frequent arthritic
+ disease that causes disability and reduces life quality. The treatments for
+ OA are conservative and more effective therapy remains to be identified.
+ Herein, we mainly focused on the role of emodin in lipopolysaccharide
+ (LPS)-induced murine chondrogenic ATDC5 cells as well as the underlying
+ mechanisms. METHODS: In vitro cell system to mimic OA was constructed after
+ LPS treatments. Effects of emodin on viability, apoptosis and release of
+ inflammatory cytokines (TNF-alpha, IL-6 and MCP-1) in LPS-treated ATDC5 cells
+ were measured. Then, expression of long non-coding RNA Taurine up-regulated
+ gene 1 (TUG1) in emodin-treated ATDC5 cells was tested by reverse
+ transcription-quantitative PCR. Finally, the involvements of the Notch and
+ NF-kappaB pathways in the emodin-associated regulation were determined by
+ Western blot analysis. Meanwhile, whether the alteration of these two
+ pathways was associated with TUG1 was verified. RESULTS: The LPS-induced
+ decrease of cell viability, increases of apoptosis and pro-inflammatory
+ cytokines expression, and alterations of apoptosis-related proteins were all
+ mitigated by emodin stimulation in ATDC5 cells. Then, we interestingly
+ identified that TUG1 was up-regulated by emodin, and the Notch and NF-kappaB
+ pathways were inhibited by emodin. More experiments proved that emodin
+ inactivated these two pathways through up-regulating TUG1. CONCLUSION: Emodin
+ mitigated the LPS-induced apoptosis and inflammation in ATDC5 cells. Emodin
+ might function through inhibiting the Notch and NF-kappaB pathways via
+ up-regulating TUG1. Our findings might furnish a prospective therapeutic
+ strategy using emodin for OA.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Emodin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Inflammation"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "TUG1 noncoding RNA, mouse"
+      },
+      {
+        type cas,
+        cit "KA46RNI6HN",
+        name "Emodin"
+      }
+    },
+    pmid 29710506,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

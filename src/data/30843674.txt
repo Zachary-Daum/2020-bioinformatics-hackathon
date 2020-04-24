@@ -1,0 +1,189 @@
+
+Pubmed-entry ::= {
+  pmid 30843674,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of long noncoding RNA Malat1 aggravates
+ hypoxia-induced cardiomyocyte injury by targeting miR-217."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yao Y",
+            affil str "Department of Cardiovascular Medicine, The 2nd
+ Affiliated Hospital of Harbin Medical University, China."
+          },
+          {
+            name ml "Fan X",
+            affil str "Department of Cardiovascular Medicine, The 2nd
+ Affiliated Hospital of Harbin Medical University, China."
+          },
+          {
+            name ml "Yu B",
+            affil str "Department of Cardiovascular Medicine, The 2nd
+ Affiliated Hospital of Harbin Medical University, China."
+          },
+          {
+            name ml "Li T",
+            affil str "Department of Cardiovascular Medicine, The Affiliated
+ Hospital of Hainan Medical College, Haikou, China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Cardiovascular Medicine, The 2nd
+ Affiliated Hospital of Harbin Medical University, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Adv Clin Exp Med",
+          ml-jta "Adv Clin Exp Med",
+          issn "1899-5276",
+          name "Advances in clinical and experimental medicine : official
+ organ Wroclaw Medical University"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "28",
+          issue "6",
+          pages "719-728",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30843674,
+        doi "10.17219/acem/93878",
+        other {
+          db "ELocationID doi",
+          tag str "10.17219/acem/93878"
+        }
+      }
+    },
+    abstract "BACKGROUND: Expression of long noncoding (lncRNA) Malat1 can be
+ increased by hypoxia in cardiomyocyte. Downregulation of Malat1 contributes
+ to the reduction of cardiomyocyte apoptosis. However, the function of Malat1
+ in myocardial ischemia is unclear. OBJECTIVES: This study investigated the
+ functional role of lncRNA Malat1 in hypoxia-induced H9c2 cell injury.
+ MATERIAL AND METHODS: H9c2 cells were exposed to hypoxia treatment. Cell
+ proliferation, migration, invasion, and apoptosis were detected using trypan
+ blue exclusion assay, two-chamber migration/invasion assay, annexin V-FITC/PI
+ staining, and western blotting, respectively. Quantitative real-time
+ polymerase chain reaction (qRT-PCR) was performed to analyze the expression
+ levels of Malat1. The effects of Malat1 knockdown on cell proliferation,
+ migration, invasion, and apoptosis were also measured. The interaction
+ between Malat1 and microRNA-217 (miR-217) as well as miR-217 and sirtuin 1
+ (Sirt1) were analyzed using a dual luciferase reporter assay and qRT-PCR.
+ Effects of miR-217 and Sirt1 on hypoxia-induced H9c2 cell growth were
+ assessed. RESULTS: Hypoxia induced H9c2 cell injury by inhibiting cell
+ proliferation, migration and invasion, and by promoting apoptosis. Hypoxia
+ significantly enhanced the expression of Malat1. Malat1 bound to miR-217 and
+ Sirt1 was a direct target of miR-217. Knockdown of Malat1 aggravated
+ hypoxia-induced H9c2 cell injury by overexpression of miR-217. Overexpression
+ of Sirt1 alleviated H9c2 cell injury by activating phosphatidylinositol
+ 3-kinase/protein kinase 3 (PI3K/AKT) and Notch signaling pathways.
+ CONCLUSIONS: These findings suggest that Malat1 exerted important roles in
+ hypoxia-induced cardiomyocyte injury by regulating miR-217-mediated Sirt1 and
+ downstream PI3K/AKT and Notch signaling pathways.",
+    mesh {
+      {
+        term "Cell Line"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypoxia"
+      },
+      {
+        mp TRUE,
+        term "MicroRNAs"
+      },
+      {
+        mp TRUE,
+        term "Myocytes, Cardiac"
+      },
+      {
+        mp TRUE,
+        term "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        mp TRUE,
+        term "RNA, Long Noncoding"
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN217 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      }
+    },
+    pmid 30843674,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

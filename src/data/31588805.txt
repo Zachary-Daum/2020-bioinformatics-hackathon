@@ -1,0 +1,284 @@
+
+Pubmed-entry ::= {
+  pmid 31588805,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lycium barbarum polysaccharide alleviates oxygen glucose
+ deprivation-induced PC-12 cells damage by up-regulating miR-24."
+      },
+      authors {
+        names std {
+          {
+            name ml "Song S",
+            affil str "Department of Rehabilitation, Yantai Yuhuangding
+ Hospital of Qingdao University Medical College , Yantai , China."
+          },
+          {
+            name ml "Lin F",
+            affil str "Department of Rehabilitation, Yantai Yuhuangding
+ Hospital of Qingdao University Medical College , Yantai , China."
+          },
+          {
+            name ml "Zhu P",
+            affil str "Department of Acupuncture, Yantai Hospital of
+ Traditional Chinese Medicine , Yantai , China."
+          },
+          {
+            name ml "Wu C",
+            affil str "Department of Acupuncture, Yantai Hospital of
+ Traditional Chinese Medicine , Yantai , China."
+          },
+          {
+            name ml "Zhao S",
+            affil str "Department of Rehabilitation, Yantai Yuhuangding
+ Hospital of Qingdao University Medical College , Yantai , China."
+          },
+          {
+            name ml "Han Q",
+            affil str "Department of Blood-Donation Service, Yantai Blood
+ Center , Yantai , China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Rehabilitation, Affiliated Hospital of
+ Zunyi Medical College , Zunyi , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3994-4000",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31588805,
+        doi "10.1080/21691401.2019.1673767",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1673767"
+        }
+      }
+    },
+    abstract "Objective: This research was aimed to detect the functions of
+ Lycium barbarum polysaccharides (LBPs) on oxygen and glucose deprivation
+ (OGD) injury and potential mechanisms at PC-12 cells. Methods: CCK-8, flow
+ cytometry and reactive oxygen species (ROS) assays were used to detect OGD,
+ LBPs and miR-24 effects on cell viability, apoptosis, and oxidative stress.
+ MiR-24 was transfected and texted by transfection and qRT-PCR. Moreover, the
+ related-protein levels of apoptosis, autophagy and pathways were tested by
+ Western blotting. Results: LBPs significantly enhanced cell viability ,
+ inhibited cell apoptosis, autophagy and ROS level in OGD injury. In addition,
+ miR-24 expression was declined in OGD-treated cells, while it was elevated
+ when added LBPs. The preventive effects of LBPs on PC-12 cell damage induced
+ by OGD were reversed by down-regulating miR-24. Furthermore, miR-24 inhibitor
+ declined LBPs-induced change in Wnt/beta-catenin and JAK1/STAT3 pathways in
+ OGD-injuried cells. Conclusions: LBPs exhibited preventive effects via
+ up-regulating miR-122 and activating Wnt/beta-catenin and JAK1/STAT3 pathways
+ in OGD-induced PC-12 cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "Hypoxia",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "MIRN24 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "lycium barbarum polysaccharide"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      }
+    },
+    pmid 31588805,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

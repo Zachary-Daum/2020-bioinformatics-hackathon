@@ -1,0 +1,280 @@
+
+Pubmed-entry ::= {
+  pmid 29323740,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA ASBEL promotes osteosarcoma cell
+ proliferation, migration, and invasion by regulating microRNA-21."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao J",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Gao Z",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Wu H",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Gu R",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Jiang R",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "119",
+          issue "8",
+          pages "6461-6469",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29323740,
+        doi "10.1002/jcb.26671",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26671"
+        }
+      }
+    },
+    abstract "Osteosarcoma is the most common malignant bone tumor in children
+ and adolescents with high rate of incidence, high frequency of recurrence,
+ and high degree of metastasis. This study aimed to investigate the effects of
+ long noncoding RNA antisense ncRNA in the abundant in neuroepithelium area
+ (ANA)/B-cell translocation gene 3 (BTG3) locus (lncRNA ASBEL) on the
+ pathogenesis of osteosarcoma. The expression levels of ASBEL in human
+ osteoblast cells and human osteosarcoma cells were evaluated using qRT-PCR.
+ Effects of ASBEL knockdown on cell viability, migration, and invasion were
+ detected using trypan blue exclusion assay, cell migration, and cell invasion
+ assay, respectively. The regulatory effects of ASBEL on microRNA-21 (miR-21)
+ were analyzed using qRT-PCR. The roles of miR-21 and protein phosphatase 2A
+ (PP2A), the possible downstream factor of miR-21, in osteosarcoma cell
+ proliferation, migration, and invasion were also explored. The results showed
+ that ASBEL was highly expressed in osteosarcoma cells. Knockdown of ASBEL
+ inhibited osteosarcoma cell viability, migration, and invasion, as well as
+ the expression level of miR-21. PP2A was a direct target of miR-21, which
+ participated in the effects of ASBEL and miR-21 on the activation of
+ phosphatidylinositol 3-kinase/protein kinase 3/glycogen synthase kinase-3beta
+ (PI3K/AKT/GSK3beta) and mitogen-activated protein kinase/extracellular
+ regulated protein kinase (MEK/ERK) signaling pathways as well as the
+ enhancement of osteosarcoma cell proliferation, migration, and invasion. In
+ conclusion, we verified that ASBEL-miR-21-PP2A pathway might play critical
+ regulatory effects on the pathogenesis of osteosarcoma and could be as the
+ potential therapeutic target and biomarker for osteosarcoma treatment.",
+    mesh {
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        mp TRUE,
+        term "Cell Movement"
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN21 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      }
+    },
+    pmid 29323740,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,263 @@
+
+Pubmed-entry ::= {
+  pmid 31306638,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tanshinone IIA exerts beneficial effects on fracture healing in
+ vitro and in vivo."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun, 130033, Jilin, China."
+          },
+          {
+            name ml "Chen H",
+            affil str "Department of Orthopaedics, Qingdao West Coast New Area
+ Central Hospital, Qingdao, 266555, Shandong, China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "Department of Orthopaedics, The Second Hospital of
+ Jilin University, Changchun, 130000, Jilin, China. Electronic address:
+ zhanghanyang213@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chem. Biol. Interact.",
+          ml-jta "Chem Biol Interact",
+          issn "1872-7786",
+          name "Chemico-biological interactions"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 9,
+            day 1
+          },
+          volume "310",
+          pages "108748",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 3,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 7,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 7,
+                day 12
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31306638,
+        pii "S0009-2797(19)30532-0",
+        doi "10.1016/j.cbi.2019.108748",
+        other {
+          db "ELocationID pii",
+          tag str "S0009-2797(19)30532-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.cbi.2019.108748"
+        }
+      }
+    },
+    abstract "BACKGROUND: Fracture healing is a very important process after
+ fracture. Tanshinone IIA (Tan IIA) has been reported to possess beneficial
+ impact on osteoblasts growth. Our study investigated the effects of Tan IIA
+ on fracture healing. METHODS: In vitro, mouse pre-osteoblast MC3T3-E1 cells
+ were treated with Tan IIA. Then, the protein levels of Runx2, Osx, Collagen
+ I, JNK and c-Jun, alkaline phosphatase (ALP) activity and calcium deposition
+ were detected, respectively. Furthermore, the roles of microRNA-424 (miR-424)
+ and Bone morphogenetic protein 2 (BMP-2) in Tan IIA-caused MC3T3-E1 cell
+ differentiation were probed. In vivo, mice open osteotomy at femur diaphysis
+ model was established. The callus area, callus intensity, low-density bone
+ volume/callus total volume (BV1/TV), tissue mineral density (TMD) and bone
+ mineral density (BMD) were tested. RESULTS: In vitro, Tan IIA promoted
+ MC3T3-E1 cell differentiation via increasing the Runx2, Osx and collagen I
+ expression, along with enhancing ALP activity and calcium deposition. In
+ addition, Tan IIA activated JNK pathway in MC3T3-E1 cells, while inhibition
+ of JNK pathway mitigated the Tan IIA-caused MC3T3-E1 cell differentiation.
+ Moreover, Tan IIA declined the miR-424 expression in MC3T3-E1 cells.
+ Overexpression of miR-424 also weakened the Tan IIA-caused MC3T3-E1 cell
+ differentiation. BMP-2 was a target gene of miR-424. BMP-2 silence reversed
+ the Tan IIA-caused activation of JNK pathway. In vivo, Tan IIA increased the
+ callus area, callus intensity, BV1/TV, TMD and BMD. CONCLUSION: Tan IIA could
+ promote fracture healing. In vitro, Tan IIA promoted MC3T3-E1 cell
+ differentiation might be via down-regulating miR-424, up-regulating BMP-2 and
+ then activating JNK pathway.",
+    mesh {
+      {
+        term "Abietanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Bone Morphogenetic Protein 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Fracture Healing",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteoblasts",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Abietanes"
+      },
+      {
+        type nameonly,
+        name "Bmp2 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Bone Morphogenetic Protein 2"
+      },
+      {
+        type nameonly,
+        name "MIRN424 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "03UUH3J385",
+        name "tanshinone"
+      }
+    },
+    pmid 31306638,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

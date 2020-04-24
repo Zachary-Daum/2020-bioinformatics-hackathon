@@ -1,0 +1,274 @@
+
+Pubmed-entry ::= {
+  pmid 31307224,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-AKT signaling represses the phosphorylation of histone H1.5
+ at threonine 10 via GSK3 to promote the progression of glioma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sang B",
+            affil str "a Department of Neurosurgery, Jining No. 1 People's
+ Hospital , Jining , Shandong , China.; b Affiliated Jining No. 1 People's
+ Hospital of Jining Medical University, Jining Medical University , Jining ,
+ Shandong , China."
+          },
+          {
+            name ml "Sun J",
+            affil str "c Department of Endocrinology, Jining No. 1 People's
+ Hospital , Jining , Shandong , China."
+          },
+          {
+            name ml "Yang D",
+            affil str "d Department of Neurosurgery, Affiliated Hospital of
+ Jining Medical University , Jining , Shandong , China."
+          },
+          {
+            name ml "Xu Z",
+            affil str "a Department of Neurosurgery, Jining No. 1 People's
+ Hospital , Jining , Shandong , China."
+          },
+          {
+            name ml "Wei Y",
+            affil str "a Department of Neurosurgery, Jining No. 1 People's
+ Hospital , Jining , Shandong , China.; b Affiliated Jining No. 1 People's
+ Hospital of Jining Medical University, Jining Medical University , Jining ,
+ Shandong , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2882-2890",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31307224,
+        doi "10.1080/21691401.2019.1638795",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1638795"
+        }
+      }
+    },
+    abstract "Background: Histone H1.5 has been considered as a novel cancer
+ marker as its expression is associated with various human cancers. The
+ objective of this study was to explore the effects of H1.5 phosphorylation in
+ Ras-driven growth and migration of glioma cells. Methods: The plasmids for
+ expression of wide-type of Ras or Ras(G12V/Y40C) were transfected into A172
+ cells. The expression levels of phosphorylated AKT and H1.5T10ph were tested
+ by Western blot. The effects of H1.5T10ph on A172 cells growth and migration
+ were determined by MTT, soft-agar colony formation, and transwell assay.
+ qRT-PCR and ChIP assay were utilized to assess the role of H1.5T10ph in the
+ transcription of Ras downstream genes. Besides, qRT-PCR and Western blot
+ analysis were carried out to reveal the enzymes which were responsible for
+ phosphorylating H1.5. Results: H1.5T10ph was down-regulated by Ras mutation,
+ which accompanied by the activation of AKT signaling. Ras-driven A172 cells
+ growth and migration were inhibited when H1.5T10ph was overexpressed.
+ Additionally, H1.5T10ph was able to regulate the transcription of Ras
+ downstream genes, including CYR61, IGFBP3, WNT16B, NT5E, GDF15, and CARD16.
+ Further experiments revealed that Ras-AKT signaling repressed H1.5T10ph
+ expression through degradation of GSK3, and the degradation was dependent on
+ MDM2 mediation. Conclusion: Ras-AKT signaling driven the growth and migration
+ of glioma cells possibly through repressing the phosphorylation of H1.5 at
+ threonine 10. Ras-AKT activation repressed H1.5T10ph through MDM2-dependent
+ degradation of GSK3. The findings provide a better understanding of Ras's
+ oncogenic functions which further suggest Ras as a therapeutic target for
+ glioma.",
+    mesh {
+      {
+        term "Carcinogenesis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        mp TRUE,
+        term "Disease Progression"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Glycogen Synthase Kinase 3",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Proteolysis"
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-mdm2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Threonine",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription, Genetic"
+      },
+      {
+        term "ras Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type cas,
+        cit "2ZD004190S",
+        name "Threonine"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Proto-Oncogene Proteins c-mdm2"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.26",
+        name "Glycogen Synthase Kinase 3"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "ras Proteins"
+      }
+    },
+    pmid 31307224,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

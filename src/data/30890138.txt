@@ -1,0 +1,347 @@
+
+Pubmed-entry ::= {
+  pmid 30890138,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Swainsonine represses glioma cell proliferation, migration and
+ invasion by reduction of miR-92a expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun L",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, No.126, Xiantai Street, Changchun, 130033, Jilin
+ Province, China."
+          },
+          {
+            name ml "Jin X",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, No.126, Xiantai Street, Changchun, 130033, Jilin
+ Province, China."
+          },
+          {
+            name ml "Xie L",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, 130033, Jilin Province, China."
+          },
+          {
+            name ml "Xu G",
+            affil str "Department of Science and Education, China-Japan Union
+ Hospital of Jilin University, Changchun, 130033, Jilin Province, China."
+          },
+          {
+            name ml "Cui Y",
+            affil str "Department of Science and Education, China-Japan Union
+ Hospital of Jilin University, Changchun, 130033, Jilin Province, China."
+          },
+          {
+            name ml "Chen Z",
+            affil str "Department of Neurosurgery, China-Japan Union Hospital
+ of Jilin University, No.126, Xiantai Street, Changchun, 130033, Jilin
+ Province, China. chenzh418@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3,
+            day 19
+          },
+          volume "19",
+          issue "1",
+          pages "247",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30890138,
+        doi "10.1186/s12885-019-5425-7",
+        pii "10.1186/s12885-019-5425-7",
+        other {
+          db "pmc",
+          tag str "PMC6425678"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-019-5425-7"
+        }
+      }
+    },
+    abstract "BACKGROUND: Swainsonine is a natural indolizidine alkaloid, its
+ anti-tumor activity has been widely reported in varied cancers. This study
+ aimed to investigate whether Swainsonine exerted anti-tumor impact on glioma
+ cells, likewise uncovered the relative molecular mechanisms. METHODS: After
+ administration with diverse concentrations of Swainsonine, cell growth,
+ migration and invasion in U251 and LN444 cells were appraised by the
+ common-used CCK-8, BrdU, flow cytometry and Transwell assays. MiR-92a mimic,
+ inhibitor and the correlative NC were transfected into U251 and LN444 cells,
+ and assessment of miR-92a expression was by utilizing qRT-PCR. Functions of
+ miR-92a in above-mentioned cell biological processes were analyzed again in
+ Swainsonine-treated cells. The momentous proteins of cell cycle, apoptosis
+ and PI3K/AKT/mTOR pathway were ultimately examined by western blot. RESULTS:
+ Swainsonine significantly hindered cell proliferation through decreasing cell
+ viability, declining the percentage of BrdU cells, down-regulating CyclinD1
+ and up-regulating p16 expression. Enhancement of percentage of apoptotic
+ cells was presented in Swainsonine-treated cells via activating
+ cleaved-Caspase-3 and cleaved-Caspase-9. Additionally, Swainsonine impeded
+ the abilities of migration and invasion by decreasing MMP-2, MMP-9, Vimentin
+ and E-cadherin. Repression of miR-92a was observed in Swainsonine-treated
+ cells, and miR-92a overexpression overturned the anti-tumor activity of
+ Swainsonine in glioma cells. Finally, western blot assay displayed that
+ Swainsonine hindered PI3K/AKT/mTOR pathway via regulating miR-92a.
+ CONCLUSIONS: These discoveries corroborated that Swainsonine exerted
+ anti-tumor impacts on glioma cells via repression of miR-92a, and
+ inactivation of PI3K/AKT/mTOR signaling pathway.",
+    mesh {
+      {
+        term "Antineoplastic Agents, Phytogenic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Drug Screening Assays, Antitumor"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Swainsonine",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Phytogenic"
+      },
+      {
+        type nameonly,
+        name "MIRN92 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "RSY4RK37KQ",
+        name "Swainsonine"
+      }
+    },
+    pmid 30890138,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

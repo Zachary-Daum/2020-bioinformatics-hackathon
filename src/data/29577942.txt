@@ -1,0 +1,327 @@
+
+Pubmed-entry ::= {
+  pmid 29577942,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Emodin protects hyperglycemia-induced injury in PC-12cells by
+ up-regulation of miR-9."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fan L",
+            affil str "Department of Orthopedic Surgery, Henan Provincial
+ People's Hospital, People's Hospital of Zhengzhou University, Zhengzhou,
+ 450003, Henan, China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "Department of Endocrinology, Henan Provincial People's
+ Hospital, People's Hospital of Zhengzhou University, Zhengzhou, 450003,
+ Henan, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Orthopedic Surgery, Henan Provincial
+ People's Hospital, People's Hospital of Zhengzhou University, Zhengzhou,
+ 450003, Henan, China."
+          },
+          {
+            name ml "Yang G",
+            affil str "Department of Orthopedic Surgery, Henan Provincial
+ People's Hospital, People's Hospital of Zhengzhou University, Zhengzhou,
+ 450003, Henan, China."
+          },
+          {
+            name ml "Ru J",
+            affil str "Department of Orthopedic Surgery, Henan Provincial
+ People's Hospital, People's Hospital of Zhengzhou University, Zhengzhou,
+ 450003, Henan, China."
+          },
+          {
+            name ml "Liu T",
+            affil str "Department of Orthopedic Surgery, Henan Provincial
+ People's Hospital, People's Hospital of Zhengzhou University, Zhengzhou,
+ 450003, Henan, China. Electronic address: taoliu0055@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cell. Endocrinol.",
+          ml-jta "Mol Cell Endocrinol",
+          issn "1872-8057",
+          name "Molecular and cellular endocrinology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10,
+            day 15
+          },
+          volume "474",
+          pages "194-200",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29577942,
+        pii "S0303-7207(18)30101-1",
+        doi "10.1016/j.mce.2018.03.009",
+        other {
+          db "ELocationID pii",
+          tag str "S0303-7207(18)30101-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.mce.2018.03.009"
+        }
+      }
+    },
+    abstract "BACKGROUND: Diabetic foot is a severe complication of diabetes
+ mellitus, mainly caused by diabetic peripheral neuropathy. The objective of
+ this study was to investigate the function of emodin (a neuroprotective agent
+ reported previously) in diabetic peripheral neuropathy. METHODS: A
+ neuron-like cell line PC-12 was subjected with high level glucose, before
+ which emodin was applied to treat cells. The expression of miR-9 in cell was
+ overexpressed or suppressed by miRNA transfection. Thereafter, cell
+ viability, apoptosis and autophagy were assessed, respectively. RESULTS: High
+ glucose exhibited cytotoxicity in PC-12cells. Emodin protected PC-12cells
+ against high glucose-induced apoptosis and viability impairment. These
+ observations were coupled with the down-regulations of p21, p16, Bax, cleaved
+ caspase-3 and -9, and the up-regulations of CyclinD1 and Bcl-2. Additionally,
+ high glucose-induced autophagy was alleviated by emodin, as Beclin-1 was
+ down-regulated, p62 was up-regulated, and the conversion of LC3-I to LC3-II
+ was decreased. miR-9 was highly expressed in response to emodin treatment.
+ More interestingly, the protective actions of emodin on high glucose-induced
+ injury were reversed by miR-9 suppression. Also, the activation of PI3K/AKT
+ signaling and deactivation of NF-kappaB signaling induced by emodin were
+ recovered by miR-9 suppression. CONCLUSION: Emodin protected PC-12cells
+ against high glucose-induced apoptosis and autophagy. The neuroprotective
+ activities might be realized by up-regulation of miR-9, and modulation of
+ PI3K/AKT and NF-kappaB signaling pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Emodin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Hyperglycemia",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neuroprotection",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN9 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "KA46RNI6HN",
+        name "Emodin"
+      }
+    },
+    pmid 29577942,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

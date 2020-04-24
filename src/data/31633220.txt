@@ -1,0 +1,136 @@
+
+Pubmed-entry ::= {
+  pmid 31633220,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Negative feedback of NF-kappaB signaling by long noncoding RNA
+ MALAT1 controls lipopolysaccharide-induced inflammation injury in human lung
+ fibroblasts WI-38."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhu W",
+            affil str "Department of Respiratory Medicine, Jinan No. 4 People
+'s Hospital, Jinan, Shandong, China."
+          },
+          {
+            name ml "Men X",
+            affil str "Department of Respiratory Medicine, Jinan No. 4 People
+'s Hospital, Jinan, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 2
+          },
+          volume "121",
+          issue "2",
+          pages "1945-1952",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31633220,
+        doi "10.1002/jcb.29429",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.29429"
+        }
+      }
+    },
+    abstract "The study was designed to elucidate the regulatory mechanism of
+ long noncoding RNA human metastasis associated lung adenocarcinoma transcript
+ 1 (MALAT1) in lipopolysaccharides (LPS)-caused inflammation injury in human
+ lung fibroblasts WI-38. WI-38 cells were stimulated with LPS to construct
+ acute pneumonia cell model. MALAT1 in LPS-stimulated WI-38 cells was
+ examined. LPS-induced inflammation injury was estimated using viability,
+ apoptosis, and cytokine secretion including interleukin-1beta (IL-1beta) and
+ IL-6. Furthermore, the modulatory relations of MALAT1 and nuclear
+ factor-kappa B (NF-kappaB) signaling were explored. We found that the
+ sensitivity of WI-38 cells to apoptosis was enhanced by LPS-caused
+ inflammation. Moreover, LPS promoted MALAT1 expression which was found to
+ alleviate LPS-caused damages. Besides, NF-kappaB p65 overexpression resulted
+ in an increased expression of MALAT1, and MALAT1 was identified as a target
+ gene of p65. Furthermore, overexpression of MALAT1 reduced NF-kappaB
+ activation. Pulldown assay showed that MALAT1 could directly interact with
+ p65. Taken together, our findings revealed that MALAT1 was upregulated in
+ LPS-stimulated WI-38 cells. Through directly interacting with p65, MALAT1
+ blocked LPS-caused activation of NF-kappaB and repressed LPS-induced
+ inflammation injury. MALAT1 may serve as a potential diagnostic indicator or
+ therapeutic target for pneumonia.",
+    pmid 31633220,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

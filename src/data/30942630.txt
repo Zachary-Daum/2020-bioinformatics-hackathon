@@ -1,0 +1,253 @@
+
+Pubmed-entry ::= {
+  pmid 30942630,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Propofol inhibits proliferation and epithelial-mesenchymal
+ transition of MCF-7 cells by suppressing miR-21 expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Du Q",
+            affil str "a Department of Anesthesiology , The Affiliated
+ Hospital of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "b Emergency Department , The Affiliated Hospital of
+ Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "a Department of Anesthesiology , The Affiliated
+ Hospital of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Wei M",
+            affil str "a Department of Anesthesiology , The Affiliated
+ Hospital of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Xu H",
+            affil str "a Department of Anesthesiology , The Affiliated
+ Hospital of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Wang S",
+            affil str "a Department of Anesthesiology , The Affiliated
+ Hospital of Qingdao University , Qingdao , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1265-1271",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30942630,
+        doi "10.1080/21691401.2019.1594000",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1594000"
+        }
+      }
+    },
+    abstract "Breast cancer is a common malignant tumor with a high incidence
+ of recurrence and metastasis. It has been reported that propofol has certain
+ anti-breast cancer effects, but the intrinsic molecular mechanism remains
+ unclear. This study investigated the effect of propofol on breast cancer
+ MCF-7 cells and its possible regulatory mechanisms. MCF-7 cells were treated
+ by propofol, and then the effects of propofol on cell growth and
+ epithelial-mesenchymal transition (EMT) were studied. We subsequently
+ testified whether miR-21 was a downstream effector of propofol. As a result,
+ propofol repressed the proliferation and migration of MCF-7 cells, but
+ significantly induced apoptosis. Meanwhile, miR-21 expression and EMT were
+ inhibited by propofol stimulation. The effects of propofol on MCF-7 cells
+ proliferation, apoptosis and EMT were all attenuated when miR-21 was
+ overexpressed. Besides this, the activation of PI3K/AKT and
+ Wnt3a/beta-catenin pathways was reduced by propofol stimulation in a
+ miR-21-depedent manner. In conclusion, propofol can inhibit the proliferation
+ and EMT of MCF-7 cells by down-regulating miR-21 expression. Moreover, miR-21
+ can further regulate PI3K/AKT and Wnt/beta-catenin pathways.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MCF-7 Cells"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Propofol",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "MIRN21 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "YI7VU623SF",
+        name "Propofol"
+      }
+    },
+    pmid 30942630,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

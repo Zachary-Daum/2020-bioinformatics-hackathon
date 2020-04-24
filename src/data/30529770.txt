@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 30529770,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Dendrobium candidum extract inhibits proliferation and induces
+ apoptosis of liver cancer cells by inactivating Wnt/beta-catenin signaling
+ pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guo Z",
+            affil str "Department of Traditional Chinese Medicine, Jining No.
+ 1 People's Hospital, Jining, 272100, China."
+          },
+          {
+            name ml "Zhou Y",
+            affil str "Department of Traditional Chinese Medicine, Jining No.
+ 1 People's Hospital, Jining, 272100, China."
+          },
+          {
+            name ml "Yang J",
+            affil str "Department of Traditional Chinese Medicine, Jining No.
+ 1 People's Hospital, Jining, 272100, China."
+          },
+          {
+            name ml "Shao X",
+            affil str "Department of Traditional Chinese Medicine, Jining No.
+ 1 People's Hospital, Jining, 272100, China. Electronic address:
+ xiaomeimei1220@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "110",
+          pages "371-379",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30529770,
+        pii "S0753-3322(17)37001-4",
+        doi "10.1016/j.biopha.2018.11.149",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)37001-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.11.149"
+        }
+      }
+    },
+    abstract "BACKGROUND: Dendrobium candidum extract (DCE) has been reported
+ to have anti-tumor property. However, the effect of DCE on liver cancer has
+ not been well explored. This study was aimed to evaluate the inhibitory
+ effect of DCE on liver cancer cells. METHODS: The effect of DCE on liver
+ cancer cells was analyzed by detecting cell viability by MTT assay, detecting
+ colony formation ability by colony formation assay, determining apoptotic
+ cell rate, cell cycle distribution, active caspase-3 positive cells, Ki-67
+ positive cells, reactive oxygen species (ROS) level, and mitochondrial
+ transmembrane potential (MMP) by flow cytometry analysis, and analyzing
+ changes of expressions of cell cycle-, apoptosis-, and Wnt/beta-catenin
+ pathway-related proteins by Western blot. RESULTS: DCE inhibited viability
+ and promoted apoptosis of liver cancer cell lines SMMC-7721 and BEL-7404. DCE
+ decreased colony formation, induced cell cycle arrest, and led to cell
+ cycle-associated proteins' abnormal expressions in SMMC-7721 and BEL-7404
+ cells. DCE effectively suppressed viability and proliferation of primary
+ liver cancer cells and also induced aberrant expressions of cell cycle- and
+ apoptosis-related proteins. After DCE treatment, ROS level was increased and
+ MMP level was decreased. DCE inhibited beta-catenin level in the nucleus and
+ regulated downstream genes of beta-catenin and further blocked
+ Wnt/beta-catenin pathway in SMMC-7721 and BEL-7404 cells as well as primary
+ liver cancer cells. CONCLUSION: DCE suppressed liver cancer SMMC-7721 and
+ BEL-7404 cells as well as primary liver cancer cells likely though activating
+ mitochondria apoptosis pathway and inducing inhibition of Wnt/beta-catenin
+ pathway.",
+    mesh {
+      {
+        term "Antineoplastic Agents, Phytogenic",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Dendrobium"
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Phytogenic"
+      },
+      {
+        type nameonly,
+        name "CTNNB1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      }
+    },
+    pmid 30529770,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

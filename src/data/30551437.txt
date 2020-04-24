@@ -1,0 +1,307 @@
+
+Pubmed-entry ::= {
+  pmid 30551437,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragaloside protects oxygen and glucose deprivation induced
+ injury by regulation of microRNA-21 in retinal ganglion cell line RGC-5."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bao H",
+            affil str "Department of Optometry, The Fourth Affiliated Hospital
+ of Harbin Medical University, Harbin 150001, Heilongjiang, China."
+          },
+          {
+            name ml "Sun D",
+            affil str "Department of Optometry, The Fourth Affiliated Hospital
+ of Harbin Medical University, Harbin 150001, Heilongjiang, China. Electronic
+ address: danyusun0064@sohu.com."
+          },
+          {
+            name ml "Qi P",
+            affil str "Department of Optometry, The Fourth Affiliated Hospital
+ of Harbin Medical University, Harbin 150001, Heilongjiang, China."
+          },
+          {
+            name ml "Jiang S",
+            affil str "Department of Optometry, The Fourth Affiliated Hospital
+ of Harbin Medical University, Harbin 150001, Heilongjiang, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "109",
+          pages "1826-1833",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30551437,
+        pii "S0753-3322(18)32484-3",
+        doi "10.1016/j.biopha.2018.11.024",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)32484-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.11.024"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Astragaloside (AST) is a kind of effective components
+ of Astragalus membranaceus, which has been reported to exert extensive
+ pharmacological actions in various diseases. However, the effect of AST on
+ optic nerve injury remains unclear. The study aimed to uncover the effect of
+ AST on oxygen glucose deprivation (OGD)-induced RGC-5 cells injury and the
+ underlying mechanism. METHODS: Firstly, the model of OGD-induced RGC-5 cells
+ injury was constructed. Then, the different doses of AST were used to treat
+ RGC-5 cells and the regulatory effects of AST on OGD-induced cell injury were
+ analyzed by using CCK-8, flow cytometry and western blot. Subsequently, the
+ expression of miR-21 in OGD and AST treated cells was detected by RT-qPCR,
+ and miR-21 mimic and inhibitor were transfected into RGC-5 cells to further
+ uncover the effect of miR-21 on OGD-induced cell injury. The PTEN-PI3K/AKT
+ and Wnt/beta-catenin signaling pathways were determined by western blot to
+ clear the underlying mechanism. RESULTS: The model of OGD induced RGC-5 cells
+ injury was successfully constructed in vitro. AST significantly alleviated
+ OGD-induced RGC-5 cells injury by increasing cell viability, inhibiting
+ apoptosis and regulating cell cycle-associated factors (p16, p53, and Cyclin
+ D1) as well as apoptosis-associated factors (Bax, cleaced-Caspase-3/-9). The
+ expression of miR-21 was significantly up-regulated in OGD and AST-treated
+ RGC-5 cells. The protective effect of AST on OGD-injured RGC-5 cells was
+ further enhanced by miR-21 overexpression. Besides, AST activated
+ PTEN-PI3K/AKT and Wnt/beta-catenin signaling pathways by regulating miR-21 in
+ OGD-treated RGC-5 cells. CONCLUSIONS: AST protected RGC-5 cells against
+ OGD-induced cells injury by regulating miR-21.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Retinal Ganglion Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Saponins",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN21 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "Saponins"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 30551437,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

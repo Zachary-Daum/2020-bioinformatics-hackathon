@@ -1,0 +1,347 @@
+
+Pubmed-entry ::= {
+  pmid 30156009,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Triptolide inhibits the proliferation and migration of
+ medulloblastoma Daoy cells by upregulation of microRNA-138."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang H",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Liu Z",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Ge A",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Guo E",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Liu S",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Chen Z",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "119",
+          issue "12",
+          pages "9866-9877",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30156009,
+        doi "10.1002/jcb.27307",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27307"
+        }
+      }
+    },
+    abstract "Medulloblastoma is a primitive neuroectodermal-derived brain
+ tumor and the most common malignant brain tumor in children. Triptolide (TPL)
+ is the major active component extracted from Tripterygium wilfordii Hook F.
+ This study aimed to explore the effects of TPL on medulloblastoma cell
+ proliferation, migration, and apoptosis, as well as the underlying possible
+ molecular mechanism. Viability, proliferation, and apoptosis of Daoy cells
+ were measured using cell counting kit-8 assay, 5-bromo-2'-deoxyuridine
+ incorporation assay, and Guava Nexin assay, respectively. Cell migration was
+ detected using two-chamber transwell assay and wound healing assay.
+ Quantitative reverse transcription polymerase chain reaction (qRT-PCR) was
+ performed to determine the relative expression of microRNA-138 (miR-138) in
+ Daoy cells. Cell transfection was used to change the expression of miR-138 in
+ cells. Western blot analysis was used to analyze the expression of key
+ factors involved in cell apoptosis, cell migration, the phosphatidylinositol
+ 3-kinase (PI3K)/protein kinase 3 (AKT) pathway, and the Notch pathway in Daoy
+ cells. We found that TPL significantly inhibited the viability,
+ proliferation, and migration of Daoy cells but promoted Daoy cell apoptosis.
+ The expression levels of matrix metalloproteinases (MMP)-2 and MMP-9 after
+ TPL treatment were decreased. The expression of miR-138 in Daoy cells after
+ TPL treatment was increased. Suppression of miR-138 obviously reversed the
+ TPL-induced Daoy cell proliferation, migration inhibition, and cell apoptosis
+ enhancement, as well as the inactivation of the PI3K/AKT and Notch pathways.
+ Cyclin-dependent kinase 6 (CDK6) was a direct target gene of miR-138, which
+ might be involved in the antitumor effects of TPL on Daoy cells. In
+ conclusion, our study verified that TPL exerted anticancer effects on
+ medulloblastoma cells possibly via upregulating miR-138 and inactivating the
+ PI3K/AKT and Notch pathways.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        term "Cerebellar Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Diterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Epoxy Compounds",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Medulloblastoma",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phenanthrenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Diterpenes"
+      },
+      {
+        type nameonly,
+        name "Epoxy Compounds"
+      },
+      {
+        type nameonly,
+        name "MIRN138 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenanthrenes"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type cas,
+        cit "19ALD1S53J",
+        name "triptolide"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30156009,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

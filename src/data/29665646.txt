@@ -1,0 +1,302 @@
+
+Pubmed-entry ::= {
+  pmid 29665646,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MiR-29b aggravates lipopolysaccharide-induced endothelial cells
+ inflammatory damage by regulation of NF-kappaB and JNK signaling pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yuan H",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China."
+          },
+          {
+            name ml "Ma J",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China."
+          },
+          {
+            name ml "Li T",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China."
+          },
+          {
+            name ml "Han X",
+            affil str "Department of Interventional Radiology, The First
+ Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China.
+ Electronic address: xinweihan0056@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "99",
+          pages "451-461",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 5
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29665646,
+        pii "S0753-3322(17)35870-5",
+        doi "10.1016/j.biopha.2018.01.060",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)35870-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.01.060"
+        }
+      }
+    },
+    abstract "MicroRNAs (miRNAs) have been reported to involve in variety of
+ biological progresses. The present study aimed to explore the functional
+ roles of miR-29b in endothelial cells inflammatory damage, as well as the
+ underlying mechanisms. Lipopolysaccharide (LPS) was used to induce
+ endothelial cell inflammation, and the role of miR-29b in endothelial cells
+ inflammatory damage was detected by testing cell viability, cell apoptosis,
+ and the expression of inflammation factors after the suppression or
+ overexpression of miR-29b. Aiming to make clear of the underlying mechanism
+ of miR-29b regulation in inflammation, we studied the relationship between
+ miR-29b and NF-kappaB/JNK pathway in HUVEC and Eahy926 cells. The results
+ showed that LPS significantly suppressed cell viability, promoted apoptosis
+ and increased TNF-alpha, IL-1alpha and INF-gamma secretions. MiR-29b was
+ up-regulated in LPS-treated HUVEC and Eahy926 cells. Moreover, suppression of
+ miR-29b alleviated LPS-induced inflammatory injury by promoting cell
+ viability, decreasing apoptosis and reducing the secretions of TNF-alpha,
+ IL-1alpha and INF-gamma in both HUVEC and Eahy926 cells. On the contrary,
+ overexpression of miR-29b aggravated cell inflammatory injury in both HUVEC
+ and Eahy926 cells. Furthermore, LPS activated NF-kappaB and JNK signal
+ pathways. However, suppression of miR-29b reduced LPS-activated NF-kappaB and
+ JNK pathways in both HUVEC and Eahy926 cells. Taken together, these findings
+ concluded that miR-29b could regulate LPS-induced endothelial cells
+ inflammatory injury through regulation of NF-kappaB and JNK signaling
+ pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Human Umbilical Vein Endothelial Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN29 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      }
+    },
+    pmid 29665646,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

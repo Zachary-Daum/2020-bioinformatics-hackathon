@@ -1,0 +1,226 @@
+
+Pubmed-entry ::= {
+  pmid 31046467,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Propofol inhibits proliferation and metastasis by up-regulation
+ of miR-495 in JEG-3 choriocarcinoma cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun H",
+            affil str "a Department of Anesthesiology , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "b Department of Gynecology and Obstetrics , China-Japan
+ Union Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Zhang W",
+            affil str "a Department of Anesthesiology , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1738-1745",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31046467,
+        doi "10.1080/21691401.2019.1608216",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1608216"
+        }
+      }
+    },
+    abstract "Choriocarcinoma is a rare gestational trophoblastic tumour.
+ Propofol is one of the commonly used intravenous anaesthetic agents and
+ exerts an anti-tumour role in multiple cancers. However, the effect of
+ propofol on choriocarcinoma has not been well explored. We investigated the
+ effect of propofol on JEG-3 cells. The effects of propofol on cell
+ proliferation and metastasis were determined. The expression of miR-495 was
+ suppressed while Twist1 overexpressed. Cell viability, migration and invasion
+ were respectively measured using CCK-8 assay and transwell migration/invasion
+ assay. The expression of miR-495, AKT1 and Twist1 was detected using qRT-PCR.
+ Western blot analysis was performed to assess the expression levels of EMT-
+ and proliferation-related factors, and TGF-beta pathway proteins. Propofol
+ treatment significantly inhibited cell proliferation, migration and invasion,
+ and reduced the releasing of EMT. miR-495 was up-regulated by profocol, and
+ miR-495 inhibition reversed the effect of propofol on cell proliferation and
+ metastasis in JEG-3 cells. Furthermore, propofol decreased the expression of
+ AKT1 and Twist1 through up-regulating miR-495, and Twist1 participated in the
+ regulation of propofol on TGF-beta signalling inactivation in JEG-3 cells.
+ This study demonstrates that propofol suppresses cell proliferation and
+ metastasis through up-regulation of miR-495 and down-regulation of Twist1 in
+ JEG3 cells. Highlights Propofol inhibits proliferation and metastasis in
+ JEG-3 cells; miR-495 is up-regulated by propofol in JEG-3 cells; miR-495
+ suppression blocks the effect of propofol in JEG-3 cells; Propofol decreases
+ Twist1 expression through up-regulating miR-495; Propofol inhibits TGF-beta
+ signalling via regulation of Twist1.",
+    mesh {
+      {
+        term "Bile Duct Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Choriocarcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Propofol",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN495 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "YI7VU623SF",
+        name "Propofol"
+      }
+    },
+    pmid 31046467,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

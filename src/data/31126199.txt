@@ -1,0 +1,259 @@
+
+Pubmed-entry ::= {
+  pmid 31126199,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "K-Ras(G12V/Y40C)-PI3K/AKT pathway regulates H1.4(S35ph) through
+ PKA to promote the occurrence and development of osteosarcoma cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Liu W",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Dong H",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Wang W",
+            affil str "a Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2048-2057",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31126199,
+        doi "10.1080/21691401.2019.1617726",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1617726"
+        }
+      }
+    },
+    abstract "Background: Osteosarcoma is prevalent in children and
+ adolescents. H1.4 modification is involved in various types of cancers. Ras
+ pathway is often activated in human cancers. Herein, we explored the effects
+ of Ras pathway through H1.4(S35ph). Methods: Osteosarcoma cancer cell line
+ MG-63 was transfected with Ras gene with G12V and Y40C site mutation. The
+ phosphorylation of H1.4(S35) and AKT was detected by Western blot. Cell
+ viability, cell colonies and migration were analyzed by MTT assay, soft-agar
+ colony formation assay and Transwell assay, respectively. The expression of
+ Ras pathway downstream factors and PKA was detected by qRT-PCR. The
+ relationship between Ras and downstream factors was detected by ChIP. The
+ cell cycle progression was measured by flow cytometry. Results: Transfection
+ with Ras(G12V/Y40C) decreased H1.4(S35ph) expression while switched on
+ p-AKT(Ser473). Ras(G12V/Y40C) increased cell viability, colony numbers and
+ migration while H1.4(S35E) (H1.4(S35ph) overexpression) led to the opposite
+ results. The regulation of Ras(G12V/Y40C) and H1.4(S35E) on Ras downstream
+ factors was contrary to each other. Results demonstrated a positive
+ relationship between PKA with H1.4(S35ph) with Ras(G12V/Y40C) down-regulated
+ both. However, PKA and MDM2 revealed negative regulation with Ras(G12V/Y40C)
+ transfection up-regulated MDM2. Conclusion: Ras(G12V/Y40C)-PI3K/AKT signal
+ pathway decreased H1.4(S35ph) through down-regulation of PKA while
+ up-regulation of MDM2 in MG-63 cells. Highlights H1.4(S35ph) is regulated by
+ K-Ras(G12V/Y40)-PI3K/AKT in MG-63 cells; Overexpression of H1.4(S35ph)
+ regulates MG-63 cell growth; H1.4(S35ph) regulates Ras downstream factors;
+ K-Ras(G12V/Y40C)-PI3K/AKT activity induces PKA degradation to down-regulate
+ H1.4(S35ph); K-Ras(G12V/Y40C)-PI3K/AKT activity involves in PKA degradation
+ via MDM2.",
+    mesh {
+      {
+        mp TRUE,
+        term "Carcinogenesis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Cyclic AMP-Dependent Protein Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proteolysis"
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-mdm2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins p21(ras)",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type nameonly,
+        name "KRAS protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Proto-Oncogene Proteins c-mdm2"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.11",
+        name "Cyclic AMP-Dependent Protein Kinases"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "Proto-Oncogene Proteins p21(ras)"
+      }
+    },
+    pmid 31126199,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

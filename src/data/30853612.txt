@@ -1,0 +1,338 @@
+
+Pubmed-entry ::= {
+  pmid 30853612,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginsenoside Rh2 inhibits proliferation but promotes apoptosis
+ and autophagy by down-regulating microRNA-638 in human retinoblastoma cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li M",
+            affil str "Department of Ophtalmology, Linyi Central Hospital,
+ Linyi, Shandong 276400, China."
+          },
+          {
+            name ml "Zhang D",
+            affil str "Department of Ophtalmology, Linyi Central Hospital,
+ Linyi, Shandong 276400, China."
+          },
+          {
+            name ml "Cheng J",
+            affil str "Department of Ophtalmology, Linyi Central Hospital,
+ Linyi, Shandong 276400, China."
+          },
+          {
+            name ml "Liang J",
+            affil str "Department of Ophtalmology, Linyi Central Hospital,
+ Linyi, Shandong 276400, China."
+          },
+          {
+            name ml "Yu F",
+            affil str "Department of Ophtalmology, Linyi Central Hospital,
+ Linyi, Shandong 276400, China. Electronic address: fenghuayu100@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "108",
+          pages "17-23",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 26
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 2,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30853612,
+        pii "S0014-4800(18)30306-X",
+        doi "10.1016/j.yexmp.2019.03.004",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30306-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.03.004"
+        }
+      }
+    },
+    abstract "Even though recent therapeutic advances make retinoblastoma (RB)
+ becomes a curable tumor, the outcome of long-term survival is poor due to the
+ risk of developing secondary tumors. We aimed to explore the functional role
+ of Ginsenoside Rh2 (GRh2) in human RB cells and the underlying mechanisms.
+ Human RB Y79 and RBL-13 cells were incubated with or without GRh2, followed
+ by assessments of cell viability, proliferation and apoptosis using Cell
+ Counting Kit-8, bromodeoxyuridine, and flow cytometry assays. Meanwhile,
+ expression levels of proteins associated with cell cycle, apoptosis,
+ autophagy and the phosphatidylinositol-3-kinase (PI3K)/AKT/mechanistic target
+ of rapamycin (mTOR) pathway as well as p53 were measured by Western blot
+ analysis. The mRNA expression of cyclinD1, autophagy-related gene 7 (ATG7)
+ and p53, and microRNA (miR)-638 expression were analyzed using quantitative
+ reverse transcription PCR. Then, miR-638 was overexpressed in Y79 and RBL-13
+ cells followed by treatment with GRh2, and p53 and proteins involved in the
+ PI3K/AKT/mTOR pathway were assessed. Results showed that Y79 and RBL-13 cells
+ viabilities were significantly reduced by 20-50muM GRh2. Cell proliferation
+ was decreased, and cell apoptosis and autophagy were promoted by 30muM GRh2
+ in Y79 and RBL-13 cells. GRh2 decreased miR-638 expression, up-regulated p53
+ expression, and reduced phosphorylated levels of PI3K, AKT and mTOR. More
+ experiments showed GRh2-induced alterations of p53, phospho (p)-PI3K, p-AKT
+ and p-mTOR were all reversed by miR-638 overexpression. The observations
+ demonstrated that GRh2 functioned in cell proliferation, apoptosis and
+ autophagy in Y79 and RBL-13 cells through miR-638-mediated up-regulation of
+ p53 and inactivation of the PI3K/AKT/mTOR pathway.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Retinoblastoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Suppressor Protein p53",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN638 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Tumor Suppressor Protein p53"
+      },
+      {
+        type cas,
+        cit "78214-33-2",
+        name "ginsenoside Rh2"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30853612,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

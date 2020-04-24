@@ -1,0 +1,250 @@
+
+Pubmed-entry ::= {
+  pmid 28950255,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-196b Inhibits Cell Growth and Metastasis of Lung Cancer
+ Cells by Targeting Runx2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bai X",
+            affil str "Cadre's Ward, The First Hospital of Jilin University,
+ Changchun, China."
+          },
+          {
+            name ml "Meng L",
+            affil str "Cadre's Ward, The First Hospital of Jilin University,
+ Changchun, China."
+          },
+          {
+            name ml "Sun H",
+            affil str "Cadre's Ward, The First Hospital of Jilin University,
+ Changchun, China."
+          },
+          {
+            name ml "Li Z",
+            affil str "Department of Endocrinology, The First Hospital of
+ Jilin University, Changchun, China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "Department of Respiratory Medicine, The First Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Hua S",
+            affil str "Department of Respiratory Medicine, The First Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "43",
+          issue "2",
+          pages "757-767",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28950255,
+        pii "000481559",
+        doi "10.1159/000481559",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000481559"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Lung cancer is one of the most common causes of
+ cancer related deaths worldwide. The role of several microRNAs (miRNAs)
+ including miR-196b in different cancers has already been established. The
+ study was aimed to explore the role of miR-196b in lung cancer and its
+ possible underlying mechanism. METHODS: Human lung cancer cell line A549 was
+ transfected with miR-196b mimic, miR-196b inhibitor and corresponding
+ controls. Then cell viability, migration, invasion, and apoptosis of A549
+ lung cancer cells either with overexpression or with suppression of miR-196b
+ were estimated sequentially. Next, dual luciferase activity assay was
+ performed to clarify whether Runx2 was a direct target of miR-196b. Finally,
+ the expressions of main factors associated with epithelial mesenchymal
+ transition (EMT), PI3K/AKT/GSK3beta, Smad, and JNK pathways were detected by
+ western blot. RESULTS: MiR-196b expression was significantly decreased in
+ A549, H1650 and H1299 cell lines compared with in WI-38 and HEL-1 cell lines.
+ Overexpression of miR-196b suppressed cell viability, migration, invasion,
+ and induced apoptosis as well as inhibited TGF-beta induced EMT process in
+ A549 cells. In addition, Runx2 was a putative target of miR-196b, and Runx2
+ silence remarkably increased cell apoptosis and abolished the promotive
+ effects of miR-196b suppression on cell viability, migration and invasion.
+ Finally, miR-196b also mediated its action by inactivation of
+ PI3K/AKT/GSK3beta, Smad, and JNK pathways by down-regulation of Runx2.
+ CONCLUSION: MiR-196b functions as a tumor suppressor that inhibited cell
+ growth and metastasis of lung cancer cells by targeting Runx2. These findings
+ provided further evidences for treatment of lung cancer.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Core Binding Factor Alpha 1 Subunit",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Epithelial-Mesenchymal Transition"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Metastasis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Core Binding Factor Alpha 1 Subunit"
+      },
+      {
+        type nameonly,
+        name "MIRN196 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RUNX2 protein, human"
+      }
+    },
+    pmid 28950255,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

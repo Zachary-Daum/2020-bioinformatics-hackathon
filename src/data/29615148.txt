@@ -1,0 +1,265 @@
+
+Pubmed-entry ::= {
+  pmid 29615148,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA 495 Inhibits Proliferation and Metastasis and Promotes
+ Apoptosis by Targeting Twist1 in Gastric Cancer Cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu C",
+            affil str "Qingdao University, Qingdao, P.R. China."
+          },
+          {
+            name ml "Jian M",
+            affil str "Department of Laboratory Medicine, Qingdao Women and
+ Children's Hospital, Qingdao, P.R. China."
+          },
+          {
+            name ml "Qi H",
+            affil str "Department of General Surgery, Qingdao Municipal
+ Hospital, Qingdao, P.R. China."
+          },
+          {
+            name ml "Mao WZ",
+            affil str "Department of General Surgery, Qingdao Municipal
+ Hospital, Qingdao, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2,
+            day 21
+          },
+          volume "27",
+          issue "3",
+          pages "389-397",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29615148,
+        doi "10.3727/096504018X15223159811838",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504018X15223159811838"
+        }
+      }
+    },
+    abstract "Recently, microRNAs (miRNAs) have been reported to participate
+ in multiple biological processes. However, the effects of miR-495 on gastric
+ cancer (GC) remain unclear. The purpose of this study was to explore the
+ functions of miR-495 in GC cell proliferation, metastasis, and apoptosis.
+ SGC-7901 and BGC-823 cell lines were transfected with miR-495 mimic, miR-495
+ inhibitor, and negative controls (mimic control and inhibitor control). The
+ expressions of miR-495, cell viability, migration, apoptosis, and
+ apoptosis-related factors were examined by qRT-PCR, trypan blue staining,
+ Transwell, flow cytometry, and Western blot, respectively. Simultaneously,
+ key factor expression levels of EMT were detected by qRT-PCR and Western
+ blot. The direct target of miR-495 was confirmed by dual-luciferase assay.
+ Additionally, sh-Twist1, pc-Twist1, and corresponding controls were
+ transfected into SGC-7901 and BGC-823 cells, and the protein levels of
+ EMT-associated factors were detected by Western blot. miR-495 was
+ downregulated in GC cells. miR-495 expression level was effectively
+ overexpressed or suppressed in SGC-7901 and BGC-823 cells. Overexpression of
+ miR-495 significantly decreased cell viability and migration, increased
+ apoptosis, and inhibited the EMT process. Suppression of miR-495 showed
+ contrary results. Twist1 was clarified as a target gene of miR-495, and
+ Twist1 silencing obviously reduced the promoting effect of miR-495
+ suppression on these biological processes. Twist1 silencing significantly
+ blocked the EMT process in both SGC-7901 and BGC-823 cells. miR-495 inhibited
+ proliferation and metastasis and promoted apoptosis by targeting Twist1 in GC
+ cells. These data indicated that miR-495 might be a novel antitumor factor of
+ GC and provide a new method for the treatment of GC.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Nuclear Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Twist-Related Protein 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN495 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Nuclear Proteins"
+      },
+      {
+        type nameonly,
+        name "TWIST1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Twist-Related Protein 1"
+      }
+    },
+    pmid 29615148,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,128 @@
+
+Pubmed-entry ::= {
+  pmid 30840282,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA GHET1 promotes viability, migration and
+ invasion of glioma cell line U251 by down-regulation of miR-216a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cao W",
+            affil str "Department of Neurosurgery, Jining No. 1 People's
+ Hospital, Jining, Shandong, China. mahui0090@sohu.com."
+          },
+          {
+            name ml "Liu B"
+          },
+          {
+            name ml "Ma H"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur Rev Med Pharmacol Sci",
+          ml-jta "Eur Rev Med Pharmacol Sci",
+          issn "2284-0729",
+          name "European review for medical and pharmacological sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "23",
+          issue "4",
+          pages "1591-1599",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30840282,
+        doi "10.26355/eurrev_201902_17118",
+        other {
+          db "ELocationID pii",
+          tag str "17118"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.26355/eurrev_201902_17118"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Glioma is among the most aggressive of all human
+ malignancies. Long non-coding RNA (lncRNA) gastric carcinoma highly expressed
+ transcript 1 (GHET1) was considered an important oncogene in tumors. However,
+ the role of GHET1 in glioma was rarely studied. The present work aimed to
+ explore the effect of GHET1 on glioma cell line U251. MATERIALS AND METHODS:
+ The viability, migration and invasion of U251 cells were analyzed by Cell
+ Counting Kit-8 (CCK-8) assay, and transwell migration/invasion assay,
+ respectively. The relative expression of GHET1 and miR-216a were detected by
+ quantitative Real Time-Polymerase Chain Reaction (qRT-PCR). The expression of
+ cell cycle-related proteins, cell metastasis-associated proteins and main
+ factors in the JAK2/STAT3 and p53/survivin pathways was analyzed by Western
+ blot. Cell transfection assay was conducted to alter expression of GHET1 and
+ miR-216a in U251 cells. RESULTS: The viability, migration and invasion of
+ U251 cells were promoted by GHET1 overexpression. The pro-cell cycle genes
+ including Cyclin D1, CDK4 and CDK6, and the pro-metastasis genes including
+ MMP-9 and Vimentin were up-regulated after GHET1 was overexpressed. MiR-216a
+ was found to be down-regulated by GHET1 overexpression, and it was involved
+ in the effects of GHET1 on U251 cells. GHET1 might promote U251 cells by
+ down-regulating miR-216a. Finally, we found that GHET1 overexpression
+ activated the JAK2/STAT3 and p53/survivin signaling pathways by
+ down-regulating miR-216a. CONCLUSIONS: GHET1 overexpression increased
+ viability, migration and invasion of U251 cells by down-regulating miR-216a.
+ Mechanically, GHET1-miR-216a axis activated the JAK2/STAT3 and p53/survivin
+ signaling pathways.",
+    pmid 30840282,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

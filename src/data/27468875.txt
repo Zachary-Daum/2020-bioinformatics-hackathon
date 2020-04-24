@@ -1,0 +1,259 @@
+
+Pubmed-entry ::= {
+  pmid 27468875,
+  medent {
+    em std {
+      year 2016,
+      month 7,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-182 suppresses clear cell renal cell carcinoma
+ migration and invasion by targeting IGF1R."
+      },
+      authors {
+        names ml {
+          "Wang X",
+          "Li H",
+          "Cui L",
+          "Feng J",
+          "Fan Q"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neoplasma",
+          ml-jta "Neoplasma",
+          issn "0028-2685",
+          name "Neoplasma"
+        },
+        imp {
+          date std {
+            year 2016
+          },
+          volume "63",
+          issue "5",
+          pages "717-725",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27468875,
+        doi "10.4149/neo_2016_508",
+        other {
+          db "ELocationID doi",
+          tag str "10.4149/neo_2016_508"
+        }
+      }
+    },
+    abstract "The purpose of our study was aimed to determine the functional
+ role of microRNA (miR)-182 in clear cell renal cell carcinoma (ccRCC) and try
+ to clarify its underlying molecular mechanism. Expression of miR-182 in both
+ cancer and peripheral blood samples was analyzed by quantitative real-time
+ PCR (qRT-PCR). Human RCC line Caki-1 cells were transfected with miR-182
+ mimic, miR-182 inhibitor, or negative controls, and then the cell viability,
+ colony-formation ability, migration, and invasion assay were determined.
+ Luciferase reporter assay, qRT-PCR and Western blotting were used to
+ determine whether insulin-like growth factor 1 receptor (IGF1R) was a target
+ of miR-182. Further, small interfering RNA (siRNA) against IGF1R was
+ co-transfected with miR-182 inhibitor into cells, and then the effects on
+ migration and invasion were assessed. MiR-182 was down-regulated in both
+ cancer and blood samples compared to the matched non-tumor adjacent tissues
+ and healthy volunteers, respectively (both P<0.05). Compared to the control
+ group, cell viability, colony-forming ability, and numbers of migrated and
+ invaded cells were significantly decreased by transfection with miR-182 mimic
+ but were markedly increased by miR-182 inhibitor (all P < 0.05). Luciferase
+ reporter assay confirmed that IGF1R was a target gene of miR-182, and IGF1R
+ was negatively regulated by miR-182. Co-transfection of miR-182 inhibitor
+ with si-IGF1R reversed the effect of miR-182 inhibitor on the migration and
+ invasion of the cells. MiR-182 functions as an anti-oncogene in ccRCC, and
+ miR-182-mediated inhibition of cell migration and invasion might be through
+ directly targeting IGF1R.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Carcinoma, Renal Cell",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kidney",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Kidney Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Receptors, Somatomedin",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "IGF1R protein, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn182 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "Receptors, Somatomedin"
+      }
+    },
+    pmid 27468875,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

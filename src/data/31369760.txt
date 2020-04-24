@@ -1,0 +1,271 @@
+
+Pubmed-entry ::= {
+  pmid 31369760,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Oridonin elevates sensitivity of ovarian carcinoma cells to
+ cisplatin via suppressing cisplatin-mediated autophagy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao Y",
+            affil str "Department of Obstetrics, Jining No.1 People's
+ Hospital, Jining 272000, China."
+          },
+          {
+            name ml "Xia H",
+            affil str "School of Nursing, Jining Medical University, Jining
+ 272067, China. Electronic address: xia42hj@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 9,
+            day 15
+          },
+          volume "233",
+          pages "116709",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 7,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31369760,
+        pii "S0024-3205(19)30636-8",
+        doi "10.1016/j.lfs.2019.116709",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)30636-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.116709"
+        }
+      }
+    },
+    abstract "BACKGROUND: Cisplatin resistance has been found to contribute to
+ the failure of ovarian carcinoma treatment. Oridonin is a natural en-kaurane
+ tetracyclic diterpenoid compound discovered in Rabdosia rubescene (Henmsl.)
+ Hara. Herein, we tested whether oridonin could exert chemo-sensitization
+ activity on cisplatin-resistant ovarian carcinoma cells. METHODS: Firstly,
+ A2780CP cells and SKOV3/DDP cells were exposed to cisplatin and/or oridonin
+ treatment. Cell counting kit-8 (CCK-8) kit and Dead Cell Apoptosis Kit with
+ Annexin V-FITC and PI were carried out to test cell viability and apoptosis,
+ respectively. Then, pBeclin-1 was transfected to overexpress Beclin-1.
+ 3-Methyladenine (3-MA) acted as autophagy inhibitor, while rapamycin acted as
+ autophagy activator. Finally, the influence of cisplatin and/or oridonin
+ treatment on human normal ovarian epithelial IOSE 364 cell viability and
+ apoptosis were also detected. RESULTS: Oridonin incubation notably elevated
+ the cisplatin-caused reduction of A2780CP and SKOV3/DDP cell viabilities and
+ enhancement of cell apoptosis. Cisplatin-caused A2780CP and SKOV3/DDP cell
+ autophagy was dramatically inhibited by oridonin. Overexpression of Beclin-1
+ mitigated the influence of oridonin on cisplatin-caused A2780CP and SKOV3/DDP
+ cell autophagy. Inhibition of cell autophagy by 3-MA promoted the
+ oridonin+cisplatin-caused A2780CP and SKOV3/DDP cell apoptosis, while
+ activation of cell autophagy by rapamycin had opposite effects. Oridonin and
+ cisplatin co-treatment had no significant effects on IOSE 364 cell viability
+ and apoptosis. CONCLUSION: The chemo-sensitization activity of oridonin on
+ cisplatin-resistant ovarian carcinoma cells was verified in this study.
+ Oridonin elevated sensitivity of ovarian carcinoma cells to cisplatin via
+ suppressing cisplatin-mediated autophagy.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Autophagy"
+      },
+      {
+        term "Beclin-1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cisplatin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Diterpenes, Kaurane",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Drug Resistance, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Drug Synergism"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ovarian Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Tumor Cells, Cultured"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Beclin-1"
+      },
+      {
+        type nameonly,
+        name "Diterpenes, Kaurane"
+      },
+      {
+        type cas,
+        cit "0APJ98UCLQ",
+        name "oridonin"
+      },
+      {
+        type cas,
+        cit "Q20Q21Q62J",
+        name "Cisplatin"
+      }
+    },
+    pmid 31369760,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

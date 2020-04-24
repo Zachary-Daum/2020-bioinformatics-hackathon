@@ -1,0 +1,229 @@
+
+Pubmed-entry ::= {
+  pmid 30942633,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Kaempferol promotes proliferation, migration and differentiation
+ of MC3T3-E1 cells via up-regulation of microRNA-101."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "a Department of Orthopaedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Chen H",
+            affil str "b Department of Orthopaedics , Qingdao West Coast New
+ Area Central Hospital , Qingdao , China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "c Department of Orthopaedics , The Second Hospital of
+ Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1050-1056",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30942633,
+        doi "10.1080/21691401.2019.1591428",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1591428"
+        }
+      }
+    },
+    abstract "Osteoblast has been found to exert indispensable functions
+ during fracture healing. This study aimed to investigate the effects of
+ kaempferol, a natural flavonoid compound, on osteoblast proliferation,
+ migration and differentiation, as well as possible molecular mechanisms.
+ qRT-PCR was performed to measure the expression level of microRNA-101
+ (miR-101). Cell viability and migration were respectively assessed using cell
+ counting kit-8 (CCK-8) assay and two-chamber migration assay. Relative
+ alkaline phosphatase (ALP) activity was evaluated using p-nitrophenyl
+ phosphate (pNPP) as substrate. Western blotting was used to detect the
+ protein expression levels of key molecules involved in cell proliferation,
+ migration, differentiation, and Wnt/beta-catenin pathway. Kaempferol
+ treatment significantly promoted MC3T3-E1 cell proliferation, migration, and
+ differentiation. Mechanistically, kaempferol notably enhanced the expression
+ level of miR-101 in MC3T3-E1 cells. Knockdown of miR-101 obviously weakened
+ the promoting effects of kaempferol on MC3T3-E1 cell proliferation,
+ migration, and differentiation. In addition, kaempferol remarkably activated
+ Wnt/beta-catenin pathway in MC3T3-E1 cells via up-regulating miR-101. This
+ research further confirmed the promoting effects of kaempferol on osteoblast
+ proliferation, migration, and differentiation. The up-regulation of miR-101
+ and activation of Wnt/beta-catenin pathway caused by kaempferol play critical
+ roles in the promoting effects of kaempferol on osteoblast proliferation,
+ migration, and differentiation.",
+    mesh {
+      {
+        term "3T3 Cells"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Kaempferols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoblasts",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Kaempferols"
+      },
+      {
+        type nameonly,
+        name "MIRN101 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "731P2LE49E",
+        name "kaempferol"
+      }
+    },
+    pmid 30942633,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

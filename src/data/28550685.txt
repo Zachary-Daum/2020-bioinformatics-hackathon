@@ -1,0 +1,263 @@
+
+Pubmed-entry ::= {
+  pmid 28550685,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long Noncoding RNA CAMTA1 Promotes Proliferation and Mobility of
+ the Human Breast Cancer Cell Line MDA-MB-231 via Targeting miR-20b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lu P",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, P.R. China."
+          },
+          {
+            name ml "Gu Y",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, P.R. China."
+          },
+          {
+            name ml "Li L",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, P.R. China."
+          },
+          {
+            name ml "Wang F",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, P.R. China."
+          },
+          {
+            name ml "Yang X",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, P.R. China."
+          },
+          {
+            name ml "Yang Y",
+            affil str "Department of Breast Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 7
+          },
+          volume "26",
+          issue "4",
+          pages "625-635",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28550685,
+        doi "10.3727/096504017X14953948675395",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504017X14953948675395"
+        }
+      }
+    },
+    abstract "Breast cancer is a serious threat to women's physical and
+ psychological health. Long noncoding RNA CAMTA1 (lncCAMTA1) was believed to
+ be related with tumor progression, but its role in breast cancer is not
+ clear. The human breast cancer cell line MDA-MB-231 was used to investigate
+ the effect of lncCAMTA1 on cell viability, migration/invasion, and apoptosis.
+ The expression of lncCAMTA1, miR-20b, and VEGF in MDA-MB-231 were measured
+ after corresponding transfections. Binding effects between lncCAMTA1 and
+ miR-20b, miR-20b, and VEGF 3'-UTR were measured. The effects of miR-20b and
+ VEGF on breast cancer cells were also assessed after transfections. The
+ phosphorylation levels of the MAPK/ERK and JAK/STAT3 pathways were determined
+ to assess the effect of VEGF. The results showed that lncCAMTA1 expression
+ promoted cell viability and migration/invasion, while knockdown of lncCAMTA1
+ promoted cell apoptosis via binding with miR-20b. lncCAMTA1 negatively
+ regulated miR-20b expression. VEGF was a target of miR-20b, leading to the
+ modification of the phosphorylation levels of MAPK, ERK, JAK, STAT1, and
+ STAT3. Our findings suggested that lncCAMTA1 might promote proliferation and
+ mobility of human breast cancer cells via binding with miR-20b. VEGF was a
+ direct target of miR-20b and regulated activation of the MAPK/ERK and
+ JAK/STAT3 signaling pathways. Therefore lncCAMTA1 has potential as a novel
+ cancer diagnostic marker and as a putative novel therapeutic target for
+ breast cancer treatment.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Calcium-Binding Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Trans-Activators",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CAMTA1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Calcium-Binding Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN20b microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Trans-Activators"
+      }
+    },
+    pmid 28550685,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

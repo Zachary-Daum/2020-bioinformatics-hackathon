@@ -1,0 +1,310 @@
+
+Pubmed-entry ::= {
+  pmid 31608699,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Circ_0026344 restrains metastasis of human colorectal cancer
+ cells via miR-183."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shen T",
+            affil str "Department of Colorectal Surgery, The Third Affiliated
+ Hospital of Kunming Medical University , Kunming , China."
+          },
+          {
+            name ml "Cheng X",
+            affil str "Department of Colorectal Surgery, The Third Affiliated
+ Hospital of Kunming Medical University , Kunming , China."
+          },
+          {
+            name ml "Liu X",
+            affil str "Tumor Institute, The Third Affiliated Hospital of
+ Kunming Medical University , Kunming , China."
+          },
+          {
+            name ml "Xia C",
+            affil str "Department of Colorectal Surgery, The Third Affiliated
+ Hospital of Kunming Medical University , Kunming , China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "Department of Colorectal Surgery, The Third Affiliated
+ Hospital of Kunming Medical University , Kunming , China."
+          },
+          {
+            name ml "Pan D",
+            affil str "Department of Colorectal Surgery, The Third Affiliated
+ Hospital of Kunming Medical University , Kunming , China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "Department of Colorectal Surgery, The Third Affiliated
+ Hospital of Kunming Medical University , Kunming , China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Colorectal Surgery, The Third Affiliated
+ Hospital of Kunming Medical University , Kunming , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "4038-4045",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31608699,
+        doi "10.1080/21691401.2019.1669620",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1669620"
+        }
+      }
+    },
+    abstract "Background: CircRNA circ_0026344 was previously revealed as a
+ tumour-suppressive gene in colorectal cancer (CRC) progression. The purpose
+ of this research was to investigate the role of circ_0026344 in CRC cells
+ metastasis induced by chemokines. Methods: Two human CRC cell lines SW480 and
+ Caco-2 were treated by CCL20 and CXCL8. Cell proliferation,
+ migration/invasion, expression of epithelial-mesenchymal transition (EMT)
+ inducers and the expression of circ_0026344 were measured using
+ sulforhodamine B assay, Transwell chamber, western blot and qRT-PCR,
+ respectively. The effects of circ_0026344 on CRC cells migration/invasion and
+ the expression of EMT inducers were evaluated. Moreover, the downstream miRNA
+ and signalling pathways of circ_0026344 were studied. Results: CCL20 and
+ CXCL8 synergized to facilitate the proliferation, migration and invasion of
+ CRC cells. At the meantime, E-cadherin was downregulated, whereas N-cadherin,
+ Vimentin and Snail were up-regulated by CCL20 and CXCL8 co-stimulation, which
+ was accompanied by the mobilization of PI3K/AKT/ERK signalling. More
+ interestingly, the expression of circ_0026344 was down-regulated by CCL20 and
+ CXCL8 co-stimulation. Silence of circ_0026344 increased the migratory and
+ invasive capacities of CRC cells and increased EMT process as well.
+ Overexpression of circ_0026344 led to a contrary impact. miR-183 was
+ negatively regulated by circ_0026344, and the inhibitory effects of
+ circ_0026344 overexpression on Wnt/beta-catenin pathway were reversed when
+ miR-183 was overexpressed. Conclusion: Overexpression of circ_0026344
+ restrained CRC metastasis and EMT induced by CCL20 and CXCL8 synergistical
+ treatment. miR-183 was a downstream effector of circ_0026344, and the
+ anti-tumour function of circ_0026344 might be involved in the repressed
+ Wnt/beta-catenin signalling. Highlights CCL20 and CXCL8 synergize to decrease
+ the expression of circ_0026344; Silence of circ_0026344 promotes CRC cells
+ migration, invasion and EMT process; miR-183 is a downstream effector of
+ circ_0026344.",
+    mesh {
+      {
+        term "Caco-2 Cells"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chemokine CCL20",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-8",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Circular",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Chemokine CCL20"
+      },
+      {
+        type nameonly,
+        name "Interleukin-8"
+      },
+      {
+        type nameonly,
+        name "MIRN183 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Circular"
+      }
+    },
+    pmid 31608699,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

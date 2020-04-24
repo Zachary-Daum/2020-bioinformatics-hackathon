@@ -1,0 +1,347 @@
+
+Pubmed-entry ::= {
+  pmid 29267498,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginsenoside Rg1 protects human renal tubular epithelial cells
+ from lipopolysaccharide-induced apoptosis and inflammation damage."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ni XJ",
+            affil str "Transplantation Center, The First Affiliated Hospital
+ of Wenzhou Medical University, Wenzhou, China."
+          },
+          {
+            name ml "Xu ZQ",
+            affil str "Transplantation Center, The First Affiliated Hospital
+ of Wenzhou Medical University, Wenzhou, China."
+          },
+          {
+            name ml "Jin H",
+            affil str "Transplantation Center, The First Affiliated Hospital
+ of Wenzhou Medical University, Wenzhou, China."
+          },
+          {
+            name ml "Zheng SL",
+            affil str "Transplantation Center, The First Affiliated Hospital
+ of Wenzhou Medical University, Wenzhou, China."
+          },
+          {
+            name ml "Cai Y",
+            affil str "Transplantation Center, The First Affiliated Hospital
+ of Wenzhou Medical University, Wenzhou, China."
+          },
+          {
+            name ml "Wang JJ",
+            affil str "Transplantation Center, The First Affiliated Hospital
+ of Wenzhou Medical University, Wenzhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12,
+            day 11
+          },
+          volume "51",
+          issue "2",
+          pages "e6611",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 26
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29267498,
+        pii "S0100-879X2018000200608",
+        doi "10.1590/1414-431X20176611",
+        other {
+          db "pmc",
+          tag str "PMC5731327"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000200608"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431X20176611"
+        }
+      }
+    },
+    abstract "Ginsenoside Rg1, one of the most notable active components of
+ Panax ginseng, has been widely reported to exert anti-inflammatory actions.
+ This study aimed to reveal whether ginsenoside Rg1 also exhibits beneficial
+ roles against lipopolysaccharide (LPS)-induced apoptosis and inflammation in
+ human renal tubular epithelial cells, and to evaluate the potential role of
+ the component on tubulointerstitial nephritis treatment. HK-2 cells were
+ treated with various doses of ginsenoside Rg1 (0, 50, 100, 150, and 200 muM)
+ in the absence or presence of 5 mug/mL LPS. Thereafter, CCK-8 assay, flow
+ cytometry, western blot, migration assay, reactive oxygen species (ROS)
+ assay, and ELISA were carried out to respectively assess cell viability,
+ apoptosis, migration, ROS activity, and the release of inflammatory
+ cytokines. As a result, ginsenoside Rg1 protected HK-2 cells from LPS-induced
+ injury, as cell viability was increased, cell apoptosis was decreased, and
+ the release of MCP-1, IL-1beta, IL-6, and TNF-alpha was reduced. Ginsenoside
+ Rg1 functioned to HK-2 cells in a dose-dependent manner, and the 150 muM dose
+ exhibited the most protective functions. Ginsenoside Rg1 had no significant
+ impact on cell migration and ROS activity, while it alleviated LPS-induced
+ ROS release and migration impairment. Furthermore, the down-regulations of
+ p-PI3K, p-AKT, and up-regulations of PTEN, p-IkappaBalpha, p-p65, Bcl-3
+ induced by LPS were recovered to some extent after ginsenoside Rg1 treatment.
+ In conclusion, ginsenoside Rg1 protects HK-2 cells against LPS-induced
+ inflammation and apoptosis via activation of the PI3K/AKT pathway and
+ suppression of NF-kappaB pathway.",
+    mesh {
+      {
+        term "Analysis of Variance"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Migration Assays"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Enzyme-Linked Immunosorbent Assay"
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kidney Tubules",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Nephritis",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Reproducibility of Results"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "PJ788634QY",
+        name "ginsenoside Rg1"
+      }
+    },
+    pmid 29267498,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

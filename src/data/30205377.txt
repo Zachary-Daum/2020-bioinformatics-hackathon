@@ -1,0 +1,361 @@
+
+Pubmed-entry ::= {
+  pmid 30205377,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of lncRNA UCA1 Represses the Growth and Tube Formation
+ of Human Microvascular Endothelial Cells Through miR-195."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yin D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Fu C",
+            affil str "The 4th Department of Surgery, Dongfang Hospital of
+ Beijing University of Chinese Medicine, Beijing, China."
+          },
+          {
+            name ml "Sun D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "49",
+          issue "4",
+          pages "1499-1511",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30205377,
+        pii "000493454",
+        doi "10.1159/000493454",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000493454"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Recent studies have suggested that several
+ lncRNAs contribute to the angiogenic function of endothelial cells. Herein,
+ we set out to reveal whether lncRNA UCA1 has functions in endothelial
+ angiogenesis. METHODS: The expression levels of lncRNA UCA1, miR-195 and
+ CCND1 in human microvascular endothelial HMEC-1 cells were altered by
+ transfection. Subsequently, cell viability, migration, tube formation and
+ apoptosis of HMEC-1 cells were respectively assessed. The cross-talk between
+ lncRNA UCA1, miR-195, CCND1, and MEK/ERK and mTOR signaling pathways were
+ investigated by performing qRT-PCR and Western blotting. RESULTS: Silence of
+ lncRNA UCA1 repressed HMEC-1 cells viability, migration, tube formation, and
+ induced apoptosis. Meanwhile, silence of lncRNA UCA1 significantly
+ up-regulated miR-195 expression. These alterations induced by lncRNA UCA1
+ were further enhanced by miR-195 overexpression, while were attenuated by
+ miR-195 suppression. Moreover, silence of lncRNA UCA1 deactivated MEK/ERK and
+ mTOR signaling pathways via a miR-195-dependent regulation. And the
+ deactivation of MEK/ERK and mTOR signaling pathways led to a down-regulation
+ of CCND1. CONCLUSION: This study demonstrates that silence of lncRNA UCA1
+ largely represses microvascular endothelial cells growth and tube formation.
+ Silence of lncRNA UCA1 exerts its function possibly via up-regulation of
+ miR-195, which in turn inactivates MEK/ERK and mTOR signaling pathways, and
+ ultimately represses CCND1 expression.",
+    mesh {
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        term "Cyclin D1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Kinase Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Microvessels",
+        qual {
+          {
+            subh "cytology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Neovascularization, Physiologic"
+      },
+      {
+        term "Nitric Oxide Synthase Type III",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Vascular Endothelial Growth Factor A",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "CCND1 protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN195 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "UCA1 RNA, human"
+      },
+      {
+        type nameonly,
+        name "Vascular Endothelial Growth Factor A"
+      },
+      {
+        type cas,
+        cit "136601-57-5",
+        name "Cyclin D1"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nitric Oxide Synthase Type III"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.25",
+        name "MAP Kinase Kinase Kinases"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      }
+    },
+    pmid 30205377,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

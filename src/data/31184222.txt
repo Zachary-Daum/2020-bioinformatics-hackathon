@@ -1,0 +1,271 @@
+
+Pubmed-entry ::= {
+  pmid 31184222,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notoginsenoside R1 alleviates TNF-alpha-induced pancreatic
+ beta-cell Min6 apoptosis and dysfunction through up-regulation of miR-29a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen X",
+            affil str "a Department of Endocrinology, Ningbo Municipal
+ Hospital of Traditional Chinese Medicine , Ningbo , China."
+          },
+          {
+            name ml "Wei R",
+            affil str "b Department of Clinical Laboratory, Ningbo Municipal
+ Hospital of Traditional Chinese Medicine , Ningbo China."
+          },
+          {
+            name ml "Jin T",
+            affil str "a Department of Endocrinology, Ningbo Municipal
+ Hospital of Traditional Chinese Medicine , Ningbo , China."
+          },
+          {
+            name ml "Du H",
+            affil str "a Department of Endocrinology, Ningbo Municipal
+ Hospital of Traditional Chinese Medicine , Ningbo , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2379-2388",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31184222,
+        doi "10.1080/21691401.2019.1624368",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1624368"
+        }
+      }
+    },
+    abstract "Diabetes mellitus (DM) is a metabolic disorder that seriously
+ harms human health. Notoginsenoside R1 (NGR1) can be used in various
+ diseases. We explored consequents of NGR1 on tumour necrosis factor
+ (TNF)-alpha-stimulated Min6 and rat primary islets beta cells. The results
+ were that TNF-alpha significantly cut down cell activity, raised cell
+ apoptosis and iNOS expression and decreased insulin secretion in Min6 and rat
+ primary islets beta cells. NGR1 alleviated TNF-alpha-treated cell
+ dysfunctions. In addition, miR-29a was positively regulated by NGR1 in
+ TNF-alpha-treated Min6 and rat primary islets beta cells. miR-29a knockdown
+ damaged protection roles of NGR1 through cutting down cell activity and
+ insulin secretion, raising apoptosis and iNOS in TNF-alpha-treated Min6 and
+ rat primary islets beta cells. The phosphorylation of Wnt3a, beta-catenin and
+ the rate of p/t-AKT/PI3K was all increased, while p/t-GSK3beta was decreased
+ by the administration with NGR1. In conclusion, NGR1 alleviated
+ TNF-alpha-stimulated Min6 and rat primary islets beta cells apoptosis and
+ worn roles via positively regulating miR-29a. This process might be through
+ actuation of Wnt/beta-catenin and PI3K/AKT/GSK3beta signal ways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Glycogen Synthase Kinase 3 beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Insulin-Secreting Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN29 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Glycogen Synthase Kinase 3 beta"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "Z62692362Z",
+        name "notoginsenoside R1"
+      }
+    },
+    pmid 31184222,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

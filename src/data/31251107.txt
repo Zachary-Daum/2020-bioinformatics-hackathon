@@ -1,0 +1,156 @@
+
+Pubmed-entry ::= {
+  pmid 31251107,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Salidroside alleviates high-glucose-induced injury in retinal
+ pigment epithelial cell line ARPE-19 by down-regulation of miR-138."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qian C",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Liang S",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Wan G",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Dong Y",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Lu T",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Yan P",
+            affil str "Department of Ophthalmology, The First Affiliated
+ Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "RNA Biol",
+          ml-jta "RNA Biol",
+          issn "1555-8584",
+          name "RNA biology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10
+          },
+          volume "16",
+          issue "10",
+          pages "1461-1470",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 7,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31251107,
+        doi "10.1080/15476286.2019.1637696",
+        other {
+          db "pmc",
+          tag str "PMC6779393"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/15476286.2019.1637696"
+        }
+      }
+    },
+    abstract "Diabetic retinopathy (DR) is a complication of diabetes leading
+ cause of blindness in adults. Salidroside (SAL) is a main ingredient from
+ Rhodiola rosea L., has been reported to have a beneficial protection on
+ vascular function. However, whether SAL is a suitable treatment for DR
+ remains unreported. The study aimed to investigate the effect of SAL on
+ high-glucose (HG)-induced injury in ARPE-19 cells. ARPE-19 cells were managed
+ with diverse concentrations of glucose, and constructed a model of HG-induced
+ ARPE-19 cells injury. Then, SAL was employed to stimulate ARPE-19 cells, and
+ cell viability, apoptosis, apoptosis-associated factors, the pro-inflammatory
+ cytokines, and ROS levels were determined. The correlation between miR-138
+ and SIRT1 was predicated by bioinformatics software of TargetScan
+ (http://www.targetscan.org/) and Dual luciferase reporter assay. MiR-138
+ mimic, inhibitor and NCs were transfected into ARPE-19 cells, and the impacts
+ of miR-138 on HG-induced cell injury were investigated. PI3K/AKT and AMPK
+ signalling pathways were examined to explore the underlying mechanism. The
+ results disclosed that HG inhibited cell viability, promoted apoptosis,
+ up-regulated IL-6 and TNF-alpha, as well as increased ROS level in ARPE-19
+ cells. But, SAL obviously alleviated HG-induced ARPE-19 cells injury.
+ Repressed miR-138 was triggered by SAL, and SIRT1 was predicated as a direct
+ target of miR-138. Overexpressed miR-138 declined the protective effect of
+ SAL on HG-injured ARPE-19 cells. Besides, SAL activated PI3K/AKT and AMPK
+ pathways by adjusting miR-138. In conclusions, SAL flattened HG-induced
+ injury in ARPE-19 cells by repression of miR-138 and activating PI3K/AKT and
+ AMPK pathways.",
+    pmid 31251107,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

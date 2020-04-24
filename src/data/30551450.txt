@@ -1,0 +1,361 @@
+
+Pubmed-entry ::= {
+  pmid 30551450,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Neferine inhibits growth and migration of gastrointestinal
+ stromal tumor cell line GIST-T1 by up-regulation of miR-449a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xue F",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, 276400, China."
+          },
+          {
+            name ml "Liu Z",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, 276400, China."
+          },
+          {
+            name ml "Xu J",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, 276400, China."
+          },
+          {
+            name ml "Xu X",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, 276400, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, 276400, China."
+          },
+          {
+            name ml "Tian F",
+            affil str "Department of Gastroenterology, Linyi Central Hospital,
+ Linyi, 276400, China. Electronic address: tianf528@yeah.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "109",
+          pages "1951-1959",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 10,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30551450,
+        pii "S0753-3322(18)33626-6",
+        doi "10.1016/j.biopha.2018.11.029",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)33626-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.11.029"
+        }
+      }
+    },
+    abstract "BACKGROUND: Gastrointestinal stromal tumor (GIST) threatens the
+ health of middle-aged and older people with high recurrence rate and low
+ survival rate. In this study, Neferin (Nef) was hoped to control growth and
+ migration of GIST cell line GIST-T1. METHODS: Cell viability, proliferation,
+ apoptosis, and migration were determined by cell counting kit-8 (CCK-8)
+ assay, bromodeoxyuridine (BrdU) assay, Annexin V-FITC/PI double staining
+ method, and Transwell assay, respectively. The expression level of miR-449a
+ was determined by qRT-PCR. Cell transfection was conducted to alter the
+ expression level of miR-449a. Protein expression levels of key factors
+ involved in cell cycle, cell apoptosis, cell migration, PI3K/AKT pathway and
+ Notch pathways were analyzed by western boltting. RESULTS: Nef significantly
+ inhibited GIST-T1 cell viability, proliferation, migration, but promoted cell
+ apoptosis. The expression level of miR-449a was up-regulated in GIST-T1 cells
+ after Nef treatment. Suppression of miR-449a reversed the Nef-induced GIST-T1
+ cell proliferation and migration inhibition, as well as cell apoptosis.
+ Importantly, Nef inactivated PI3K/AKT and Notch pathways in GIST-T1 cells by
+ up-regulating miR-449a. Inhibitors of PI3K/AKT and Notch pathways notably
+ reversed the effects of Nef + miR-449a inhibitor on GIST-T1 cell
+ proliferation, apoptosis and migration. Besides, Nef also suppressed human
+ gastric cancer SGC7901 cell migration and induced cell apoptosis. CONCLUSION:
+ Nef suppressed growth and migration of GIST-T1 cells possibly via
+ up-regulation of miR-449a and then inactivation of PI3K/AKT and Notch
+ pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Benzylisoquinolines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Cycle",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gastrointestinal Stromal Tumors",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Transcriptional Activation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Benzylisoquinolines"
+      },
+      {
+        type nameonly,
+        name "MIRN449 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "2292-16-2",
+        name "neferine"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30551450,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

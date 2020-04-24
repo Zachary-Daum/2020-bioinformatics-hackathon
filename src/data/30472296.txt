@@ -1,0 +1,327 @@
+
+Pubmed-entry ::= {
+  pmid 30472296,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Geniposide protects PC-12 cells against oxygen and glucose
+ deprivation-induced injury by up-regulation of long-noncoding RNA H19."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yuan Y",
+            affil str "Department of Children Rehabilitation, Jining No.1
+ People's Hospital, Jining 272011, China; Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University, Jining 272000, China."
+          },
+          {
+            name ml "Zheng Z",
+            affil str "Department of Children Rehabilitation, Jining No.1
+ People's Hospital, Jining 272011, China; Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University, Jining 272000, China.
+ Electronic address: zhengzb148@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1,
+            day 1
+          },
+          volume "216",
+          pages "176-182",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30472296,
+        pii "S0024-3205(18)30768-9",
+        doi "10.1016/j.lfs.2018.11.047",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(18)30768-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2018.11.047"
+        }
+      }
+    },
+    abstract "AIMS: Hypoxic-ischemic encephalopathy (HIE) is a common brain
+ injury disease in neonates, which can lead to neonatal disability and death.
+ Geniposide (GEN) is a main ingredient of Gardenia jasminoides, whose
+ anti-tumor, anti-inflammatory and anti-apoptotic effects have been reported
+ in various diseases. However, the effect of GEN on HIE remains
+ uninvestigated. This study aimed to clarify the protective effect of GEN on
+ PC-12 cells against oxygen and glucose deprivation (OGD)-induced injury. MAIN
+ METHODS: PC-12 cells were subjected to OGD treatment, cell viability, cell
+ cycle-associated factors, apoptosis and apoptosis-associated factors were
+ then determined. The different concentrations of GEN were used to stimulate
+ PC-12 cells, and the effects of GEN on cell proliferation and apoptosis in
+ OGD-treatment cells were assessed. Subsequently, relative expression level of
+ H19 was analyzed in PC-12 cells after treatment with GEN. After this, si-H19
+ was transfected into PC-12 cells to explore the regulatory effect of H19 on
+ PC-12 cells after treatment with GEN and OGD. Besides, PI3K/AKT and
+ Wnt/beta-catenin pathways were examined by western blot assay. KEY FINDINGS:
+ OGD significantly inhibited cell viability, decreased CyclinD1, CDK4 and CDK6
+ expression, induced apoptosis and up-regulated Cleaved-Caspase-9/-7/-3
+ expression in PC-12 cells. GEN treatment obviously alleviated OGD-induced
+ cell injury. Additionally, H19 expression was up-regulated by GEN, and H19
+ knockdown reversed the protective effect of GEN on PC-12 cells against
+ OGD-induced injury. Finally, GEN activated PI3K/AKT and Wnt/beta-catenin
+ pathways by regulating H19 in OGD-insulted PC-12 cells. SIGNIFICANCE: The
+ findings suggested that GEN protected PC-12 cells against OGD-induced injury
+ by up-regulation of H19.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hypoxia-Ischemia, Brain",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Iridoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "H19 long non-coding RNA"
+      },
+      {
+        type nameonly,
+        name "Iridoids"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "145295QLXY",
+        name "geniposide"
+      },
+      {
+        type ec,
+        cit "2.7.1.137",
+        name "Phosphatidylinositol 3-Kinase"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 30472296,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

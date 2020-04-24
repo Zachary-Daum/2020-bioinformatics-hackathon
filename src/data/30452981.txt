@@ -1,0 +1,307 @@
+
+Pubmed-entry ::= {
+  pmid 30452981,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA LINC00978 promotes cell proliferation and
+ tumorigenesis via regulating microRNA-497/NTRK3 axis in gastric cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bu JY",
+            affil str "Department of Gastrointestinal Surgery, The Fifth
+ Affiliated Hospital of Sun Yat-Sen University, Zhuhai, Guangdong 519000,
+ China."
+          },
+          {
+            name ml "Lv WZ",
+            affil str "Department of Interventional Medicine, The Fifth
+ Affiliated Hospital of Sun Yat-Sen University, Zhuhai, Guangdong 519000,
+ China."
+          },
+          {
+            name ml "Liao YF",
+            affil str "Department of Tumor Chemotherapy, The Fifth Affiliated
+ Hospital of Sun Yat-Sen University, Zhuhai, Guangdong 519000, China."
+          },
+          {
+            name ml "Xiao XY",
+            affil str "Department of Anesthesiology, The Fifth Affiliated
+ Hospital of Sun Yat-Sen University, Zhuhai, Guangdong 519000, China."
+          },
+          {
+            name ml "Lv BJ",
+            affil str "Department of Gastrointestinal Surgery, The Fifth
+ Affiliated Hospital of Sun Yat-Sen University, Zhuhai, Guangdong 519000,
+ China. Electronic address: lvbj319@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. J. Biol. Macromol.",
+          ml-jta "Int J Biol Macromol",
+          issn "1879-0003",
+          name "International journal of biological macromolecules"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2,
+            day 15
+          },
+          volume "123",
+          pages "1106-1114",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30452981,
+        pii "S0141-8130(18)32016-6",
+        doi "10.1016/j.ijbiomac.2018.11.162",
+        other {
+          db "ELocationID pii",
+          tag str "S0141-8130(18)32016-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ijbiomac.2018.11.162"
+        }
+      }
+    },
+    abstract "Gastric cancer (GC) is the most common gastrointestinal
+ malignancy in the digestive system. Recent studies have proven that long
+ non-coding RNAs (lncRNAs) are closely related to tumor growth and metastasis.
+ The study aimed to explore the effect of LINC00978 on GC cells proliferation
+ and tumorigenesis. LINC00978 was up-regulated in GC tissues and cell lines.
+ Up-regulation of LINC00978 was positively correlated with low survival rate.
+ LINC00978 silence inhibited proliferation, metastasis, and promoted apoptosis
+ in BGC-823 cells. Additionally, LINC00978 functioned as competing endogenous
+ RNA to inhibit miR-497 expression. Further, NTRK3 was confirmed as a target
+ gene of miR-497. Up-regulation of NTRK3 was found in GC tissues, and the
+ positive correlation was presented between LINC00978 and NTRK3. Further,
+ LINC00978 promoted cell proliferation and tumor weight by regulation of
+ NTRK3. These findings demonstrated that LINC00978 promoted cell proliferation
+ and tumorigenesis by regulating miR-497/NTRK3 axis in GC.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Carcinogenesis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptor, trkC",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Survival Analysis"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "LINC00978 long noncoding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN497 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "Receptor, trkC"
+      }
+    },
+    pmid 30452981,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

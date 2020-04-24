@@ -1,0 +1,290 @@
+
+Pubmed-entry ::= {
+  pmid 31835090,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown PEG10 deteriorates H2O2-injury of PC-12 cells by
+ targeting miR-34a-5p/TLX."
+      },
+      authors {
+        names std {
+          {
+            name ml "Niu S",
+            affil str "School of Clinical Medicine, Jining Medical University,
+ Jining, 272067, Shandong, China. Electronic address: niu30sz@sina.com."
+          },
+          {
+            name ml "Ni Y",
+            affil str "Department of Spine Surgery, Jining No.1 People'S
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Niu T",
+            affil str "Department of Spine Surgery, Jining No.1 People'S
+ Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Gao J",
+            affil str "Department of Spine Surgery, Jining No.1 People'S
+ Hospital, Jining, 272011, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Immunol.",
+          ml-jta "Mol Immunol",
+          issn "1872-9142",
+          name "Molecular immunology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 2
+          },
+          volume "118",
+          pages "1-8",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 6
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 8,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31835090,
+        pii "S0161-5890(19)30322-0",
+        doi "10.1016/j.molimm.2019.11.012",
+        other {
+          db "ELocationID pii",
+          tag str "S0161-5890(19)30322-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.molimm.2019.11.012"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Spinal cord injury (SCI) is a neurological disease
+ with high incidence and disability. In this paper, we made a foundational
+ study in long non-coding RNA paternally expressed gene 10 (lncRNA PEG10) at
+ PC-12 cells. METHODS: We used CCK8, flow cytometry, migration and invasion
+ assay to detect changes at the cellular level. PEG10, microRNA-34a-5p
+ (miR-34a-5p) and TLX transfected by transfection assay and amplified by
+ real-time quantitative PCR (qRT-PCR). TLX expression and proteins about
+ apoptosis and pathways were investigated by Western blot. Additionally, the
+ relationship between PEG10 and miR-34a-5p, miR-34a-5p and TLX were examined
+ through luciferase assay. RESULTS: H2O2-injury model was established.
+ Knockdown PEG10 deteriorated H2O2-injury. miR-34a-5p was confirmed as a
+ target of PEG10 and miR-34a-5p inhibitor remitted PEG10-induced H2O2-injury.
+ Moreover, TLX was confirmed as a target miR-34a-5p and TLX remitted
+ H2O2-injury. At last, TLX worked in H2O2-injury via Smad and Wnt/beta-catenin
+ pathways. CONCLUSION: Knockdown PEG10 remitted H2O2-injury of PC-12 cells by
+ targeting miR-34a-5p/TLX, and the behavior may be involved in Smad and
+ Wnt/beta-catenin pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Receptors, Cytoplasmic and Nuclear",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN34 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Receptors, Cytoplasmic and Nuclear"
+      },
+      {
+        type nameonly,
+        name "TLX protein, rat"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      }
+    },
+    pmid 31835090,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

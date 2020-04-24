@@ -1,0 +1,267 @@
+
+Pubmed-entry ::= {
+  pmid 28764893,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of microRNA-203 alleviates LPS-induced injury by
+ targeting MCL-1 in C28/I2 chondrocytes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao C",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Jin H",
+            affil str "Department of Orthopedics, The Second Hospital of Jilin
+ University, Changchun 130041, China."
+          },
+          {
+            name ml "Yu T",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China. Electronic address:
+ yutao5557@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Cell Res.",
+          ml-jta "Exp Cell Res",
+          issn "1090-2422",
+          name "Experimental cell research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10,
+            day 1
+          },
+          volume "359",
+          issue "1",
+          pages "171-178",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28764893,
+        pii "S0014-4827(17)30406-8",
+        doi "10.1016/j.yexcr.2017.07.034",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4827(17)30406-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexcr.2017.07.034"
+        }
+      }
+    },
+    abstract "Several microRNAs (miRs) are associated with osteoarthritis (OA)
+ and are also functionally implicated in the pathogenesis of the disease. This
+ study was aimed to investigate the potential roles of miR-203 in the
+ development and progression of OA, as well as to illustrate the possible
+ molecular mechanism. OA was simulated in human cartilage C28/I2 cells with
+ treatments of lipopolysaccharide (LPS). LPS-induced cell injury was evaluated
+ according to cell viability, apoptosis and release of pro-inflammatory
+ cytokines. Expression of miR-203 after LPS treatment was assessed. Then,
+ miR-203 was aberrantly expressed, followed by evaluation of LPS-induced cell
+ injury. The target gene of miR-203 was virtually screened by bioinformatics
+ method and verified by luciferase assay. Moreover, the potential associated
+ signaling pathways were also investigated. Results showed that LPS induced
+ decrease of cell viability and increases of cell apoptosis, release of
+ inflammatory cytokines and expression of miR-203. LPS-induced alterations
+ were aggravated by miR-203 overexpression but were alleviated by miR-203
+ inhibition. Myeloid cell leukemia-1 (MCL-1) was hypothesized and subsequently
+ verified to be a target of miR-203, and miR-203 inhibition affected C28/I2
+ cells through up-regulating MCL-1. In addition, LPS-induced down-regulations
+ of key kinases as well as phosphorylated kinases were further down-regulated
+ by miR-203 overexpression but were abrogated by miR-203 inhibition. In
+ conclusion, this study suggests that miR-203 suppression may inhibit the
+ progression of OA by targeting MCL-1 and activating the Wnt/beta-Catenin and
+ JAK/STAT signal pathways.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation Mediators",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myeloid Cell Leukemia Sequence 1 Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Inflammation Mediators"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MCL1 protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN203 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Myeloid Cell Leukemia Sequence 1 Protein"
+      }
+    },
+    pmid 28764893,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

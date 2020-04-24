@@ -1,0 +1,241 @@
+
+Pubmed-entry ::= {
+  pmid 30481751,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long Non-Coding RNA Urothelial Carcinoma Associated 1 Promotes
+ Proliferation, Migration and Invasion of Osteosarcoma Cells by Regulating
+ microRNA-182."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Q",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Xing W",
+            affil str "Department of Breast Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Gong X",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, Chinayueshuwang0007@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "3",
+          pages "1149-1163",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30481751,
+        pii "000495493",
+        doi "10.1159/000495493",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000495493"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Previous studies demonstrated the oncogenic
+ roles of lncRNA UCA1 in osteosarcoma. This study aimed to explore the
+ internal molecular mechanism of UCA1 on promoting osteosarcoma cell
+ proliferation, migration and invasion. METHODS: qRT-PCR was conducted to
+ measure the expression levels of UCA1, miR-182 and TIMP2. Cell transfection
+ was used to change the expression levels of UCA1, miR-182 and TIMP2. Cell
+ viability, migration, invasion and apoptosis were measured using CCK-8 assay,
+ two-chamber migration (invasion) assay and Guava Nexin assay, respectively.
+ The associations between UCA1, miR-182 and iASPP were analyzed by dual
+ luciferase activity assay. The protein expression levels of key factors
+ involved in cell apoptosis, PI3K/AKT/GSK3beta pathway and NF-kappaB pathway,
+ as well as p53, Rb, RECQ family and iASPP were evaluated by western blotting.
+ RESULTS: UCA1 was highly expressed in osteosarcoma MG63 and OS-732 cells.
+ Knockdown of UCA1 inhibited OS-732 cell viability, migration and invasion,
+ but promoted cell apoptosis. miR-182 was up-regulated in OS-732 cells after
+ UCA1 knockdown and participated in the effects of UCA1 on OS-732 cells. TIMP2
+ was downstream factor of miR-182 and involved in the regulatory roles of
+ miR-182 on OS-732 cell viability, migration, invasion, apoptosis, as well as
+ PI3K/AKT/GSK3beta and NF-kappaB pathways. UCA1 knockdown up-regulated p53, Rb
+ and RECQL5 levels in OS-732 cells, while down-regulated the expression of
+ iASPP. TGF-beta or TNF-alpha treatment could enhance the expression of UCA1
+ in OS-732 cells. CONCLUSION: Our research verified that UCA1 exerted
+ oncogenic roles in osteosarcoma cells by regulating miR-182 and TIMP2, as
+ well as PI3K/AKT/GSK3beta and NF-kappaB pathways.",
+    mesh {
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn182 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "UCA1 RNA, human"
+      }
+    },
+    pmid 30481751,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

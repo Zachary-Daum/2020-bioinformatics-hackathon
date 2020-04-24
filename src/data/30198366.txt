@@ -1,0 +1,324 @@
+
+Pubmed-entry ::= {
+  pmid 30198366,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-145 attenuates IL-6-induced enhancements of sensitivity
+ to UVB irradiation by suppressing MyD88 in HaCaT cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dong H",
+            affil str "1 Department of Nephrology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Jiang W",
+            affil str "1 Department of Nephrology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Chen H",
+            affil str "2 Department of Dermatology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Jiang S",
+            affil str "2 Department of Dermatology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Zang Y",
+            affil str "2 Department of Dermatology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Yu B",
+            affil str "2 Department of Dermatology, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "32",
+          pages "2058738418795940",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30198366,
+        doi "10.1177/2058738418795940",
+        other {
+          db "pmc",
+          tag str "PMC6131290"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738418795940"
+        }
+      }
+    },
+    abstract "MicroRNAs (miRNAs/miRs) play vital roles in various immune
+ diseases including systemic lupus erythematosus (SLE). The current study
+ aimed to assess the role of miR-145 in interleukin-6 (IL-6)-treated HaCaT
+ cells under ultraviolet B (UVB) irradiation and further explore the potential
+ regulatory mechanism. HaCaT cells were pretreated with IL-6 and then exposed
+ to UVB to assess the effect of IL-6 on sensitivity of HaCaT cells to UVB
+ irradiation. The levels of miR-145 and MyD88 were altered by transfection and
+ the transfected efficiency was verified by quantitative reverse transcription
+ polymerase chain reaction (qRT-PCR)/western blot analysis. Cell viability,
+ percentage of apoptotic cells and expression levels of apoptosis-related
+ factors were measured by trypan blue assay, flow cytometry assay, and western
+ blot analysis, respectively. In addition, the levels of c-Jun N-terminal
+ kinases (JNK) and nuclear factor-kappaB (NF-kappaB) signaling pathway-related
+ factors were assessed by western blot analysis. IL-6 treatments significantly
+ aggravated the reduction of cell viability and promotion of cell apoptosis
+ caused by UVB irradiation in HaCaT cells. Interestingly, miR-145 level was
+ augmented by UVB exposure and miR-145 mimic alleviated IL-6-induced increase
+ of sensitivity to UVB irradiation in HaCaT cells, as dramatically increased
+ cell viability and reduced cell apoptosis. Opposite effects were observed in
+ miR-145 inhibitor-transfected cells. Meanwhile, MyD88 was negatively
+ regulated by miR-145 and MyD88 mediated the regulatory effect of miR-145 on
+ IL-6- and UVB-treated cells. In addition, miR-145 mimic inhibited the JNK and
+ NF-kappaB pathways by down-regulating MyD88. In conclusion, the present study
+ demonstrated that miR-145 alleviated IL-6-induced increase of sensitivity to
+ UVB irradiation by down-regulating MyD88 in HaCaT cells.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Lupus Erythematosus, Systemic",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myeloid Differentiation Factor 88",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Radiation Tolerance"
+      },
+      {
+        term "Radiation-Sensitizing Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Ultraviolet Rays"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MYD88 protein, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Myeloid Differentiation Factor 88"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Radiation-Sensitizing Agents"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 30198366,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

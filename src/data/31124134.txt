@@ -1,0 +1,147 @@
+
+Pubmed-entry ::= {
+  pmid 31124134,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA MEG3 is a tumor suppressor in choriocarcinoma
+ by upregulation of microRNA-211."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ji L",
+            affil str "Department of Obstetrics, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Obstetrics, Jining No.1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "234",
+          issue "12",
+          pages "22911-22920",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 4,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31124134,
+        doi "10.1002/jcp.28853",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28853"
+        }
+      }
+    },
+    abstract "Tumor suppressor long noncoding RNA maternally expressed gene 3
+ (lncRNA MEG3) exists in various cancers. Nonetheless, the functions of lncRNA
+ MEG3 in choriocarcinoma (CC) are still not well studied. We explored the
+ effects of lncRNA MEG3 on human CC JEG-3 and BeWo cells. lncRNA MEG3 was
+ overexpressed, and the effects of lncRNA MEG3 on cell viability,
+ proliferation, apoptosis, migration, and invasion were assessed by the cell
+ counting kit-8 assay, western blot analysis, flow cytometry (plus western
+ blot analysis), and transwell assay (plus western blot analysis),
+ respectively. Then, the expression level of miR-211 was detected by real-time
+ quantitative polymerase chain reaction. After that, the effects of
+ dysregulated microRNA-211 (miR-211) with overexpressing lncRNA MEG3 on JEG-3
+ cells and BeWo cells were testified. Western blot analysis was used to study
+ the involvements of the signaling pathways in the lncRNA MEG3-associated
+ modulation. We found that lncRNA MEG3 upregulation reduced cell viability,
+ inhibited proliferation, migration and invasion, and promoted apoptosis.
+ Expression of miR-211 was upregulated after lncRNA MEG3 overexpression.
+ Effects of lncRNA MEG3 overexpression were augmented by miR-211
+ overexpression, while they were declined by miR-211 silencing. Phosphorylated
+ levels of PI3K, AKT, and AMP-activated protein kinase (AMPK) were decreased
+ by lncRNA MEG3 overexpression via regulation of miR-211. To sum up, lncRNA
+ MEG3 could repress proliferation, migration and invasion, and promote
+ apoptosis of JEG-3 and BeWo cells through upregulating miR-211. The PI3K/AKT
+ and AMPK pathways were inhibited by lncRNA MEG3 overexpression via regulation
+ of miR-211.",
+    pmid 31124134,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

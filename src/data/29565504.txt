@@ -1,0 +1,242 @@
+
+Pubmed-entry ::= {
+  pmid 29565504,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-424 protects PC-12 cells from OGD-induced injury by
+ negatively regulating MKP-1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cao YX",
+            affil str "Department of Neurosurgery, The Second Hospital of
+ Hebei Medical University, Shijiazhuang, China. jiaobaohua456@126.com."
+          },
+          {
+            name ml "Wang ZQ"
+          },
+          {
+            name ml "Kang JX"
+          },
+          {
+            name ml "Liu K"
+          },
+          {
+            name ml "Zhao CF"
+          },
+          {
+            name ml "Guo YX"
+          },
+          {
+            name ml "Jiao BH"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur Rev Med Pharmacol Sci",
+          ml-jta "Eur Rev Med Pharmacol Sci",
+          issn "2284-0729",
+          name "European review for medical and pharmacological sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "22",
+          issue "5",
+          pages "1426-1436",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29565504,
+        doi "10.26355/eurrev_201803_14490",
+        other {
+          db "ELocationID pii",
+          tag str "14490"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.26355/eurrev_201803_14490"
+        }
+      }
+    },
+    abstract "OBJECTIVE: It's of great significance to investigate the novel
+ targets of drugs for the treatment of stroke. In this study, we explored the
+ neuroprotective role of miR-424 in oxygen glucose deprivation (OGD)-induced
+ injuries in PC-12 cells. MATERIALS AND METHODS: PC-12 cells were subjected to
+ OGD stimulation to mimic ischemic injury. The expressions of miR-424 and
+ mitogen-activated protein kinase phosphatase-1 (MKP-1) were altered by
+ transient transfection with miR-424 mimic, miR-424 inhibitor, pEX-MKP-1, or
+ sh-MKP-1. Cell counting kit-8 (CCK-8) assay, flow cytometry, and quantitative
+ reverse transcription polymerase chain reaction (qRT-PCR), were conducted to
+ respectively detect cell viability, apoptotic cells, and the expression of
+ miR-424 and MKP-1. The protein expressions of several factors were determined
+ by Western blot. Meanwhile, relative luciferase activity assay was done to
+ verify the predicted targets association. RESULTS: OGD induced injury in
+ PC-12 cells by suppressing cell viability and inducing apoptosis. OGD also
+ induced the expression of miR-424 in PC-12 cells. Overexpression of miR-424
+ protected PC-12 cells from OGD-induced injury by increasing cell viability
+ and decreasing apoptosis. MKP-1 was a direct target of miR-424, and its
+ expression was negatively regulated by miR-424. Up-regulation of expression
+ of MKP-1 aggravated OGD-induced cell injury by inhibiting the expression of
+ hypoxia-inducible factor 1alpha (HIF-1alpha), thus inhibiting the
+ PI3K/AKT/mTOR pathways. CONCLUSIONS: miR-424 protected PC-12 cells from
+ OGD-induced injury through direct suppression of MKP-1 expression, as MKP-1
+ promoted OGD-induced cell injury by inhibiting the expression of HIF-1alpha
+ and PI3K/AKT/mTOR pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Dual Specificity Phosphatase 1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hypoxia-Inducible Factor 1, alpha Subunit",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Hypoxia-Ischemia, Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Neuroprotection"
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Hypoxia-Inducible Factor 1, alpha Subunit"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "3.1.3.48",
+        name "Dual Specificity Phosphatase 1"
+      },
+      {
+        type ec,
+        cit "3.1.3.48",
+        name "Dusp1 protein, rat"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      }
+    },
+    pmid 29565504,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,136 @@
+
+Pubmed-entry ::= {
+  pmid 31674073,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA PCAT-1 knockdown prevents the development of
+ ovarian cancer cells via microRNA-124-3p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Min F",
+            affil str "Department of Gynecology, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Chu G",
+            affil str "Department of Gynecology and Obstetrics, Shengli
+ Oilfield Central Hospital, Dongying, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 2
+          },
+          volume "121",
+          issue "2",
+          pages "1963-1972",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31674073,
+        doi "10.1002/jcb.29431",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.29431"
+        }
+      }
+    },
+    abstract "Long noncoding RNA prostate cancer-associated transcript 1
+ (PCAT-1) is overexpressed in human malignancies and its silence abates the
+ exaggeration of cancers. Whereas, the activity of PCAT-1 silence in ovarian
+ cancer (OC) remains elusive. Here, our study was designed to corroborate the
+ function of PCAT-1 silence in cellular activities and the molecular
+ mechanisms. PCAT-1 in human ovarian tumor tissue specimens and cell lines
+ (A2780 and SKOV3) were quantified by real-time quantitative reverse
+ polymerase chain reaction (qRT-PCR). Reinforced silence of PCAT-1 and
+ microRNA (miR)-124-3p was established by transfection and identified by
+ qRT-PCR. The viability, apoptosis as well as migration and invasion were
+ examined. Western blot was exploited for analysis of proteins involved in
+ proliferation, apoptosis, migration and invasion, and signaling transduction.
+ OC tissues showed the accumulation of PCAT-1. Silencing PCAT-1 caused the
+ impediment of proliferation, migration, and invasion with the increase in
+ apoptosis. PCAT-1 knockdown repressed the expression of cyclin D1, CDK6, p53,
+ Bax, cleaved caspase-3, metallopeptidases, and vimentin with the restoration
+ of miR-124-3p. However, the roles of PCAT-1 silence were weakened in the
+ absence of miR-124-3p. PCAT-1 silence caused decrease in Wnt3a, beta-catenin,
+ and phosphorylation of protein kinase B and mechanistic target of rapamycin
+ was abolished by miR-124-3p inhibitor. The tumor-suppressive role of PCAT-1
+ silence was mediated by miR-124-3p.",
+    pmid 31674073,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

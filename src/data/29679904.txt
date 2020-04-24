@@ -1,0 +1,264 @@
+
+Pubmed-entry ::= {
+  pmid 29679904,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tanshinone IIA protects murine chondrogenic ATDC5 cells from
+ lipopolysaccharide-induced inflammatory injury by down-regulating
+ microRNA-203a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Luan L",
+            affil str "Department of Rheumatology and Immunology, Jining No.1
+ People's Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Liang Z",
+            affil str "Department of Bone and Joint Surgery, Jining No.1
+ People's Hospital, Jining, 272011, Shandong, China. Electronic address:
+ liangzhiyuan0045@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "103",
+          pages "628-636",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 31
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29679904,
+        pii "S0753-3322(18)30697-8",
+        doi "10.1016/j.biopha.2018.04.051",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30697-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.04.051"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteoarthritis is the most common bone-joint disease
+ in middle and older people all over the world. Tanshinone IIA (Tan IIA) is
+ the main lipophilic diterpenoid isolated from the root of Salvia miltiorrhiza
+ Bunge (Lamiaceae). This study analyzed the protective effects of Tan IIA on
+ lipopolysaccharide (LPS)-induced murine chondrogenic ATDC5 cell inflammatory
+ injury model. METHODS: Cell viability was assessed using cell counting kit-8
+ (CCK-8) assay. Cell apoptosis was detected using Annexin V-FITC/PI staining.
+ Enzyme-linked immunosorbent assay (ELISA) was conducted to measure the
+ concentrations of interleukin 6 (IL-6), IL-8 and tumor necrosis factor alpha
+ (TNF-alpha) in the culture supernatant of ATDC5 cells. qRT-PCR was performed
+ to determine the expression of IL-6, IL-8, TNF-alpha and microRNA-203a
+ (miR-203a) in ATDC5 cells. Cell transfection was used to enhance the
+ expression of miR-203a. Protein expression of key factors involved in
+ apoptosis, pro-inflammatory reaction, Janus kinase/signal transducers and
+ activators of transcription (JAK/STAT) and c-Jun-N-terminal kinase (JNK)
+ pathways were evaluated using western blotting. RESULTS: LPS significantly
+ induced ATDC5 cell inflammatory injury, as evidenced by the loss of cell
+ viability, enhancement of cell apoptosis and increases of pro-inflammatory
+ factors expression. Tan IIA obviously alleviated LPS-induced ATDC5 cell
+ inflammatory injury and down-regulated the expression of miR-203a.
+ Overexpression of miR-203a obviously promoted ATDC5 cell inflammatory injury
+ and remarkably reversed the protective effects of Tan IIA on LPS-induced
+ ATDC5 cell inflammatory injury by influencing JAK/STAT and JNK pathways.
+ CONCLUSION: Our research verified that Tan IIA protected ATDC5 cells from
+ LPS-induced inflammatory injury by down-regulating miR-203a and suppressing
+ JAK/STAT and JNK pathways.",
+    mesh {
+      {
+        term "Abietanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents, Non-Steroidal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrogenesis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Abietanes"
+      },
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents, Non-Steroidal"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN203 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "03UUH3J385",
+        name "tanshinone"
+      }
+    },
+    pmid 29679904,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

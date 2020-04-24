@@ -1,0 +1,288 @@
+
+Pubmed-entry ::= {
+  pmid 31478766,
+  medent {
+    em std {
+      year 2019,
+      month 9,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalin relieves hypoxia-aroused H9c2 cell apoptosis by
+ activating Nrf2/HO-1-mediated HIF1alpha/BNIP3 pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu H",
+            affil str "Department of Cardiology, Linyi Central Hospital ,
+ Linyi , China."
+          },
+          {
+            name ml "Chen B",
+            affil str "Department of Cardiology, Linyi Central Hospital ,
+ Linyi , China."
+          },
+          {
+            name ml "Ren Q",
+            affil str "Department of Cardiology, Jining No.1 People's Hospital
+ , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3657-3663",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31478766,
+        doi "10.1080/21691401.2019.1657879",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1657879"
+        }
+      }
+    },
+    abstract "Background: Myocardial ischemia is the main reason for ischemic
+ heart disease. Baicalin is a plant-derived flavonoid with cardio-protective
+ activity. Herein, we tested the influences of baicalin on cardiomyocytes H9c2
+ apoptosis aroused by hypoxia stimulation. Methods: Firstly, H9c2 cells were
+ subjected to hypoxia and/or baicalin exposure. Cell viability and apoptosis,
+ along with hypoxia-inducible factor 1alpha (HIF1alpha) and Bcl-2/adenovirus
+ E1B 19-KDa interacting protein 3 (BNIP3) expressions were tested
+ respectively. Then, si-HIF1alpha was transfected into H9c2 cells to probe
+ whether up-regulation of HIF1alpha attended to the influences of baicalin on
+ hypoxia-stimulated H9c2 cells. Finally, the regulatory effect of nuclear
+ factor E2-related factor 2 (Nrf2)/heme oxygenase 1 (HO-1) pathway on
+ HIF1alpha expression was analyzed. Results: Hypoxia exposure aroused H9c2
+ cell viability reduction and apoptosis. Baicalin mitigated H9c2 cell
+ viability reduction and apoptosis aroused by hypoxia. Moreover,
+ HIF1alpha/BNIP3 pathway was further activated by baicalin in hypoxia-exposed
+ H9c2 cells. Silencing HIF1alpha lowered the functions of baicalin on
+ hypoxia-exposed H9c2 cells. Besides, baicalin enhanced hypoxia-caused
+ activation of Nrf2/HO-1 pathway. Activation of Nrf2/HO-1 pathway was
+ associated with the up-regulation of HIF1alpha and protective functions of
+ baicalin on hypoxia-exposed H9c2 cells. Conclusion: Baicalin relieved
+ cardiomyocytes H9c2 apoptosis aroused by hypoxia might be achieved through
+ activating Nrf2/HO-1-mediated HIF1alpha/BNIP3 pathway. Highlights Baicalin
+ mitigates H9c2 cell viability loss and apoptosis aroused by hypoxia; Baicalin
+ activates HIF1a/BNIP3 pathway in hypoxia-exposed H9c2 cells; Silencing
+ HIF1alpha weakens the influences of baicalin on hypoxia-exposed H9c2 cells;
+ Baicalin promotes Nrf2/HO-1 pathway in hypoxia-exposed H9c2 cells; Promotion
+ of Nrf2/HO-1 pathway is related to the up-regulation of HIF1alpha.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        term "Heme Oxygenase-1",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hypoxia-Inducible Factor 1, alpha Subunit",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitochondrial Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-E2-Related Factor 2",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BNIP3 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "Hypoxia-Inducible Factor 1, alpha Subunit"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "Mitochondrial Proteins"
+      },
+      {
+        type nameonly,
+        name "NF-E2-Related Factor 2"
+      },
+      {
+        type cas,
+        cit "347Q89U4M5",
+        name "baicalin"
+      },
+      {
+        type ec,
+        cit "1.14.14.18",
+        name "Heme Oxygenase-1"
+      }
+    },
+    pmid 31478766,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

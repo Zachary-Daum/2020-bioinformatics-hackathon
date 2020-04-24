@@ -1,0 +1,279 @@
+
+Pubmed-entry ::= {
+  pmid 29558717,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-625-3p promotes the proliferation, migration and
+ invasion of thyroid cancer cells by up-regulating astrocyte elevated gene 1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fang L",
+            affil str "Department of Thyroid Breast Surgery, Jining NO.1
+ People's Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Kong D",
+            affil str "Department of Thyroid Breast Surgery, Jining NO.1
+ People's Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Xu W",
+            affil str "Department of Thyroid Breast Surgery, Jining NO.1
+ People's Hospital, Jining, 272011, Shandong, China. Electronic address:
+ weixu0028@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "102",
+          pages "203-211",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29558717,
+        pii "S0753-3322(18)30142-2",
+        doi "10.1016/j.biopha.2018.03.043",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30142-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.03.043"
+        }
+      }
+    },
+    abstract "BACKGROUND: Thyroid cancer is the most common malignancy in
+ human endocrine system. This study aimed to investigate the effects of
+ microRNA-625-3p (miR-625-3p) on thyroid cancer cell proliferation, migration,
+ invasion and apoptosis, as well as underlying potential mechanism. METHODS:
+ The relative expressions of miR-625-3p in tumor tissues and adjacent normal
+ tissues of 20 patients with papillary thyroid cancer (PTC) were assessed
+ using qRT-PCR. Cell transfection was used to up-regulate or down-regulate the
+ expressions of miR-625-3p in thyroid cancer SW579 and TPC-1 cells. Effects of
+ miR-625-3p overexpression or suppression on SW579 and TPC-1 cell viability,
+ migration, invasion and apoptosis were detected respectively. The regulatory
+ effect of miR-625-3p on astrocyte elevated gene 1 (AEG-1) expression was also
+ analyzed. Then, the roles of AEG-1 in SW579 and TPC-1 cell proliferation,
+ migration, invasion and apoptosis, as well as Wnt/beta-catenin and c-Jun
+ N-terminal kinase (JNK) pathways activation, were evaluated. RESULTS:
+ miR-625-3p had high expressions in tumor tissues, compared to adjacent normal
+ tissues. Overexpression of miR-625-3p significantly promoted SW579 and TPC-1
+ cell proliferation, migration and invasion but had no influence on cell
+ apoptosis. Knockdown of miR-625-3p had opposite effects, but induced cell
+ apoptosis. AEG-1 was up-regulated by miR-625-3p overexpression and
+ participated in the effects of miR-625-3p on SW-579 and TPC-1 cells. In
+ addition, overexpression of AEG-1 induced the activation of Wnt/beta-catenin
+ and JNK pathways in SW579 and TPC-1 cells. CONCLUSION: miR-625-3p promoted
+ proliferation, migration and invasion of thyroid cancer cells by enhancing
+ the expression of AEG-1 and activating downstream Wnt/beta-catenin and JNK
+ pathways.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Carcinoma, Papillary",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Adhesion Molecules",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Thyroid Cancer, Papillary"
+      },
+      {
+        term "Thyroid Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cell Adhesion Molecules"
+      },
+      {
+        type nameonly,
+        name "MIRN625 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MTDH protein, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      }
+    },
+    pmid 29558717,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

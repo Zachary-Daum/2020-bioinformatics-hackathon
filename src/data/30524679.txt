@@ -1,0 +1,138 @@
+
+Pubmed-entry ::= {
+  pmid 30524679,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Pioglitazone alleviates oxygen and glucose deprivation-induced
+ injury by up-regulation of miR-454 in H9c2 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun N",
+            affil str "Shandong University, Jinan 250100, Shangdong, China.;
+ Department of Cardiac Surgery, Linyi People's Hospital, Linyi 276000,
+ Shandong, China."
+          },
+          {
+            name ml "Yang L",
+            affil str "Department of Equipment, Linyi People's Hospital, Linyi
+ 276000, Shandong, China."
+          },
+          {
+            name ml "Zhang Q",
+            affil str "Department of Cardiac Surgery, Provincial Hospital
+ Affiliated to Shandong University, Jinan 250021, Shandong, China."
+          },
+          {
+            name ml "Zou C",
+            affil str "Department of Cardiac Surgery, Provincial Hospital
+ Affiliated to Shandong University, Jinan 250021, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Iran J Basic Med Sci",
+          ml-jta "Iran J Basic Med Sci",
+          issn "2008-3866",
+          name "Iranian journal of basic medical sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "21",
+          issue "10",
+          pages "1050-1055",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 14,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30524679,
+        doi "10.22038/IJBMS.2018.29223.7063",
+        other {
+          db "pmc",
+          tag str "PMC6281065"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.22038/IJBMS.2018.29223.7063"
+        }
+      }
+    },
+    abstract "Objectives: Pioglitazone, an anti-diabetic agent, has been
+ widely used to treat type II diabetes. However, the effect of pioglitazone on
+ myocardial ischemia reperfusion injury (MIRI) is still unclear. Herein, the
+ objective of this study is to learn about the regulation and mechanism of
+ pioglitazone effects on oxygen glucose deprivation (OGD)-induced myocardial
+ cell injury. Materials and Methods: A cellular injury model of OGD-treated
+ H9c2 cells in vitro was constructed to simulate ischemic/reperfusion (I/R)
+ injury. Then, various concentrations of pioglitazone (0, 2.5, 5, 7.5 and 10
+ muM) were used for the treatment of H9c2 cells, and CCK-8, flow cytometry and
+ western blot assays were performed to examine cell viability, apoptosis, and
+ the protein levels of factors involved in cell cycle and apoptosis in
+ OGD-treated cells. MiR-454 inhibitor was used to suppress miR-454 expression,
+ and whether miR-454 was involved in regulating OGD-induced cell injury was
+ studied. Two key signal pathways were examined to uncover the underlying
+ mechanism. Results: OGD reduced cell proliferation and induced apoptosis in
+ H9c2 cells (P<0.05, P<0.01 or P< 0.001). OGD-induced injury was significantly
+ attenuated by pioglitazone at the concentration of 5 muM. Additionally,
+ pioglitazone significantly up-regulated miR-454 expression in OGD-injured
+ cells (P< 0.05 or P< 0.01). MiR-454 suppression declined the protective
+ effect of pioglitazone on OGD-injured H9c2 cells (P<0.05 or P< 0.01).
+ Besides, pioglitazone activated PI3K/AKT and ERK/MAPK pathways via
+ up-regulating miR-454. Conclusion: Pioglitazone protected H9c2 cells against
+ OGD-induced injury through up-regulating miR-454, indicating a novel
+ therapeutic strategy for treatment of MIRI.",
+    pmid 30524679,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

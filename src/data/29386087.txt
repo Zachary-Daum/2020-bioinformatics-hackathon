@@ -1,0 +1,284 @@
+
+Pubmed-entry ::= {
+  pmid 29386087,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-135a Confers Resistance to Gefitinib in Non-Small Cell Lung
+ Cancer Cells by Upregulation of RAC1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang T",
+            affil str "Department of Oncology, Shengli Oilfield Central
+ Hospital, Dongying, Shandong, P.R. China."
+          },
+          {
+            name ml "Wang N",
+            affil str "Department of Thoracic Surgery, Shengli Oilfield
+ Central Hospital, Dongying, Shandong, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9,
+            day 14
+          },
+          volume "26",
+          issue "8",
+          pages "1191-1200",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29386087,
+        doi "10.3727/096504018X15166204902353",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504018X15166204902353"
+        }
+      }
+    },
+    abstract "The EGFR tyrosine kinase inhibitor gefitinib is used in therapy
+ for non-small cell lung cancer (NSCLC). However, the therapeutic efficacy of
+ gefitinib is known to be impeded by mutations of EGFR. The aim of the present
+ study was to reveal the role of miR-135a in gefitinib resistance of NSCLC
+ cells. Human NSCLC cell lines, NCI-H1650 and NCI-H1975, were transfected with
+ miR-135a mimic/inhibitor or miR-135a inhibitor plus pEX-RAC1 (a
+ RAC1-expressing vector). The effects of miR-135a and RAC1 expression on cell
+ viability, apoptosis, migration, and invasion were then detected. The
+ transfected cells were exposed to 0-20 muM gefitinib, and cell viability was
+ then detected at 48 h posttreatment. Western blot analysis was performed to
+ detect the expression changes of main factors in the PI3K/AKT pathway.
+ miR-135a overexpression promoted viability, migration, and invasion, but
+ inhibited apoptosis of NCI-H1650 and NCI-H1975 cells. Cell viability was
+ significantly reduced by gefitinib, and the LC50 values of gefitinib in
+ NCI-H1650 and NCI-H1795 cells were 0.845 and 0.667 muM, respectively.
+ miR-135a overexpression could increase cell viability even under high
+ concentrations of gefitinib. Rac1 was not predicted as a target of miR-135a,
+ while miR-135a could upregulate the expression of RAC1. miR-135a promoted
+ cell growth and metastasis and activated the PI3K/AKT signaling pathway via a
+ RAC1-dependent manner. To conclude, this study demonstrated that miR-135a
+ confers NSCLC cell resistance to gefitinib via upregulation of RAC1.
+ Therapies designed to downregulate miR-135a may help NSCLC patients to
+ overcome gefitinib resistance.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Non-Small-Cell Lung",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Drug Resistance, Neoplasm",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gefitinib",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein Kinase Inhibitors",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "rac1 GTP-Binding Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "MIRN135 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Protein Kinase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "RAC1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "rac1 GTP-Binding Protein"
+      },
+      {
+        type cas,
+        cit "S65743JHBS",
+        name "Gefitinib"
+      }
+    },
+    pmid 29386087,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

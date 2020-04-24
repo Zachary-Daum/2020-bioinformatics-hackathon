@@ -1,0 +1,263 @@
+
+Pubmed-entry ::= {
+  pmid 30745529,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Emodin Attenuates Lipopolysaccharide-Induced Injury via
+ Down-Regulation of miR-223 in H9c2 Cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang Y",
+            affil str "Department of General Medicine, East Medical District
+ of Linyi People's Hospital."
+          },
+          {
+            name ml "Jiang Z",
+            affil str "Department of Emergency, East Medical District of Linyi
+ People's Hospital."
+          },
+          {
+            name ml "Zhuge D",
+            affil str "Department of General Medicine, East Medical District
+ of Linyi People's Hospital."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int Heart J",
+          ml-jta "Int Heart J",
+          issn "1349-3299",
+          name "International heart journal"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3,
+            day 20
+          },
+          volume "60",
+          issue "2",
+          pages "436-443",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30745529,
+        doi "10.1536/ihj.18-048",
+        other {
+          db "ELocationID doi",
+          tag str "10.1536/ihj.18-048"
+        }
+      }
+    },
+    abstract "Emodin is a natural product extracted from Rheum palmatum. There
+ are few recent studies on emodin in the treatment of myocarditis. This study
+ aimed to investigate the effect of emodin on lipopolysaccharide (LPS)-induced
+ inflammatory injury in cardiomyocytes. H9c2 cells were treated with 10 muM of
+ LPS and different concentrations (0, 1, 5, 10, 15, and 20 muM) of emodin. The
+ expression of miR-223 was changed by transient transfection. Thereafter, cell
+ viability, apoptosis, the expression of CyclinD1 and Jnk-associated proteins,
+ and the release of pro-inflammatory factors were assessed by cell Counting
+ Kit-8, flow cytometry analysis, quantitative real-time polymerase chain
+ reaction Western blot, and enzyme-linked immunosorbent assay respectively.
+ The results showed that 20 muM of emodin significantly decreased H9c2 cells
+ viability. LPS significantly damaged H9c2 cells, as cell viability was
+ reduced, CyclinD1 was down-regulated, apoptosis was induced, the release of
+ interleukin-1beta (IL-1beta), IL-6, and tumor necrosis factor-alpha were
+ increased, and the phosphorylation of Jnk and c-Jun were promoted. Emodin
+ protected H9c2 cells against LPS-induced inflammatory injury. miR-223
+ expression was significantly up-regulated by LPS exposure, while emodin
+ lessened this up-regulation. LPS-injured H9c2 cells were attenuated by the
+ overexpression of miR-223; emodin has protective actions on LPS-injured H9c2
+ cells and targets. Besides, SP600125 (an inhibitor of Jnk) eliminated
+ miR-223-modulated inflammatory injury in H9c2 cells. These data demonstrated
+ that emodin could attenuate LPS-induced inflammatory injury and deactivate
+ Jnk signaling pathway through down-regulation of miR-223.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Emodin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Protein Kinase Inhibitors",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN223 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Protein Kinase Inhibitors"
+      },
+      {
+        type cas,
+        cit "KA46RNI6HN",
+        name "Emodin"
+      }
+    },
+    pmid 30745529,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

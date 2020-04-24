@@ -1,0 +1,148 @@
+
+Pubmed-entry ::= {
+  pmid 30945283,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CXCL16 protects against oxygen and glucose deprivation-induced
+ injury in human microvascular endothelial cells-1: Potential role in ischemic
+ stroke."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang M",
+            affil str "Department of Neurology, Liaocheng People's Hospital,
+ Liaocheng, China."
+          },
+          {
+            name ml "Liu R",
+            affil str "Department of Neurology, Liaocheng People's Hospital,
+ Liaocheng, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11
+          },
+          volume "234",
+          issue "11",
+          pages "20149-20160",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30945283,
+        doi "10.1002/jcp.28616",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28616"
+        }
+      }
+    },
+    abstract "AIM: To explore the protective effect of chemokine ligand 16
+ (CXCL16) against cell damage induced by oxygen-glucose deprivation (OGD) in
+ human microvascular endothelial cells-1 (HMEC-1) and its possible mechanism.
+ METHODS: Cell Counting Kit-8 (CCK-8) assay and flow cytometry were performed
+ to determine cell viability and apoptosis of HMEC-1, respectively. qRT-PCR
+ analysis was applied to display the expression of CXCL16 and miR-424. Western
+ blot analysis was used to detect the expression of apoptosis-related
+ proteins, CXCL16, cAMP/PKA/CREB, and PI3K-AKT-GSK3beta pathway-related
+ proteins. RESULTS: OGD significantly inhibited cell viability and promoted
+ apoptosis. CXCL16 overexpression decreased the proliferation inhibition and
+ apoptosis of HMEC-1 induced by OGD. Furthermore, we found that CXCL16 was a
+ target of miR-424 and was downregulated by miR-424. The further study showed
+ that overexpression of miR-424 significantly increased proliferation
+ inhibition and apoptosis of HMEC-1 induced by OGD. In addition, we also found
+ that miR-424 was downregulated by PMS2L2. In the subsequence experiment,
+ overexpression of PMS2L2 significantly decreased the proliferation inhibition
+ and apoptosis of HMEC-1 induced by OGD, which suggested that PMS2L2 decreased
+ cell damage of HMEC-1 induced by OGD. Simultaneously, CXCL16 treatment
+ markedly increased the phosphorylation of PKA/CREB and PI3K-AKT-GSK3beta and
+ these signal pathways were blocked by signal inhibitors. CONCLUSION: Our
+ study first demonstrates that oxygen-glucose deprivation (OGD)-induced human
+ microvascular endothelial cells-1 (HMEC-1) cell injury was alleviated by
+ CXCL16 targeted by miR-424 which further targeted by PMS2L2. This process
+ might also be regulated by activating PKA/CREB and PI3K-AKT-GSK3beta pathways.",
+    pmid 30945283,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

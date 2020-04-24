@@ -1,0 +1,274 @@
+
+Pubmed-entry ::= {
+  pmid 28627974,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-132 protects hippocampal neurons against oxygen-glucose
+ deprivation-induced apoptosis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun ZZ",
+            affil str "Department of Neurology, Affiliated Hospital of Jining
+ Medical University, Jining, China."
+          },
+          {
+            name ml "Lv ZY",
+            affil str "Department of Neurology, Affiliated Hospital of Jining
+ Medical University, Jining, China."
+          },
+          {
+            name ml "Tian WJ",
+            affil str "Department of Neurology, Affiliated Hospital of Jining
+ Medical University, Jining, China."
+          },
+          {
+            name ml "Yang Y",
+            affil str "Department of Neurology, Affiliated Hospital of Jining
+ Medical University, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9
+          },
+          volume "30",
+          issue "3",
+          pages "253-263",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28627974,
+        doi "10.1177/0394632017715837",
+        other {
+          db "pmc",
+          tag str "PMC5815264"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0394632017715837"
+        }
+      }
+    },
+    abstract "Hypoxic-ischemic brain injury (HIBI) results in death or
+ long-term neurologic impairment in both adults and children. In this study,
+ we investigated the effects of microRNA-132 (miR-132) dysregulation on
+ oxygen-glucose deprivation (OGD)-induced apoptosis in fetal rat hippocampal
+ neurons, in order to reveal the therapeutic potential of miR-132 on HIBI.
+ MiR-132 dysregulation was induced prior to OGD exposure by transfection of
+ primary fetal rat hippocampal neurons with miR-132 mimic or miR-132
+ inhibitor. The effects of miR-132 overexpression and suppression on
+ OGD-stimulated hippocampal neurons were evaluated by detection of cell
+ viability, apoptotic cells rate, and the expression of apoptosis-related
+ proteins. Besides, TargetScan database and dual luciferase activity assay
+ were used to seek a target gene of miR-132. As a result, miR-132 was highly
+ expressed in hippocampal neurons following 2 h of OGD exposure. MiR-132
+ overexpression significantly increased OGD-diminished cell viability and
+ reduced OGD-induced apoptosis at 12, 24, and 48 h post-OGD. MiR-132
+ overexpression significantly down-regulated the expressions of Bax,
+ cytochrome c, and caspase-9, but up-regulated BCl-2. Caspase-3 activity was
+ also significantly decreased by miR-132 overexpression. Furthermore, FOXO3
+ was a direct target of miR-132, and it was negatively regulated by miR-132.
+ To conclude, our results provide evidence that miR-132 protects hippocampal
+ neurons against OGD injury by inhibiting apoptosis.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 9",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Forkhead Box Protein O3",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "Hippocampus",
+        qual {
+          {
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "FOXO3 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Forkhead Box Protein O3"
+      },
+      {
+        type nameonly,
+        name "MIRN132 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Casp3 protein, rat"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Casp9 protein, rat"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 9"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      }
+    },
+    pmid 28627974,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

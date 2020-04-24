@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 31062608,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA UCA1 exerts growth modulation by miR-15a in
+ human thyroid cancer TPC-1 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li D",
+            affil str "a Department of Endocrinology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Hao S",
+            affil str "a Department of Endocrinology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "a Department of Endocrinology, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1815-1822",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31062608,
+        doi "10.1080/21691401.2019.1606007",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1606007"
+        }
+      }
+    },
+    abstract "Thyroid cancer is widely diagnosed as malignancy in endocrine
+ system. This study attempted to validate UCA1 possessed modulatory function
+ on cell proliferation and epithelial mesenchymal transition (EMT) in human
+ thyroid cancer cell line TPC-1. Ectopic expression of UCA1 was induced in
+ TPC-1 cells by transfection. CCK-8 assays were employed to value cell
+ viability. Cell apoptosis analysis was conducted through flow cytometry. We
+ found that overexpressed UCA1 strongly promoted cell proliferation. However,
+ the knockdown of UCA1 suppressed cell proliferation and induced obvious cell
+ apoptosis. Besides, cell EMT was promoted by overexpressed UCA1 and was
+ inhibited by the knockdown of UCA1. Further study revealed that miR-15a level
+ in TPC-1 cells was suppressed by overexpressed UCA1. Simultaneous
+ overexpression of UCA1 and miR-15a partly alleviated UCA1-induced growth,
+ identifying that miR-15a was a possible target of UCA1. At last, the Hippo
+ and JNK signal pathways were activated by overexpressed UCA1 but were then
+ weakened by the adding of miR-15a. In conclusion, our study revealed
+ UCA1/miR-15a axis implicated in thyroid cancer cells EMT, exposing a novel
+ mechanism of thyroid cancer progression.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Protein-Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Thyroid Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN15 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "UCA1 RNA, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Hippo protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Protein-Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31062608,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

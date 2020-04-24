@@ -1,0 +1,268 @@
+
+Pubmed-entry ::= {
+  pmid 29550827,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MiR-125b Inhibits LPS-Induced Inflammatory Injury via Targeting
+ MIP-1alpha in Chondrogenic Cell ATDC5."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jia J",
+            affil str "Orthopedic Surgery Ward II, The First Affiliated
+ Hospital of Xinxiang Medical University, Xinxiang, China."
+          },
+          {
+            name ml "Wang J",
+            affil str "Orthopedic Surgery Ward II, The First Affiliated
+ Hospital of Xinxiang Medical University, Xinxiang, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Orthopedic Surgery Ward IV, The First Affiliated
+ Hospital of Xinxiang Medical University, Xinxiang, China."
+          },
+          {
+            name ml "Cui M",
+            affil str "Orthopedic Surgery Ward II, The First Affiliated
+ Hospital of Xinxiang Medical University, Xinxiang, China."
+          },
+          {
+            name ml "Sun X",
+            affil str "Orthopedic Surgery Ward II, The First Affiliated
+ Hospital of Xinxiang Medical University, Xinxiang, China."
+          },
+          {
+            name ml "Li Q",
+            affil str "Orthopedic Surgery Ward II, The First Affiliated
+ Hospital of Xinxiang Medical University, Xinxiang, China."
+          },
+          {
+            name ml "Zhao B",
+            affil str "Orthopedic Surgery Ward II, The First Affiliated
+ Hospital of Xinxiang Medical University, Xinxiang, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "45",
+          issue "6",
+          pages "2305-2316",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29550827,
+        pii "000488178",
+        doi "10.1159/000488178",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000488178"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Chondrocyte apoptosis is largely responsible
+ for cartilage degeneration in osteoarthritis (OA). MicroRNAs (miRNAs) play an
+ important role in chondrogenesis and cartilage remodeling. This study
+ explored the effect of miR-125b on inflammatory injury in chondrogenic cells.
+ METHODS: LPS was used to simulate inflammatory injury in murine chondrogenic
+ ATDC5 cell lines. Targeting effect of miR-125b on MIP-1alpha 3'UTR was
+ assessed by dual luciferase activity assay. Regulatory effect of miR-125b on
+ MIP-1alpha expression and the potential regulatory mechanism on inflammatory
+ injury were assessed by Western blot. RESULTS: miR-125b expression was
+ decreased in LPS-induced ATDC5 cells and overexpression of miR-125b inhibited
+ LPS-induced cell viability decline, the rise of apoptosis and inflammatory
+ factors' productions. MIP-1alpha expression was negatively related to
+ miR-125b, and miR-125b directly targeted with 3'UTR of MIP-1alpha. Knockdown
+ of miR-125b promoted LPS-induced inflammatory response via upregulation of
+ MIP-1alpha. miR-125b expression in LPS-induced ATDC5 cells was negatively
+ related with activations of NF-kappaB and JNK signaling pathways.
+ Overexpression of miR-125b inhibited LPS-induced inflammation injury via
+ suppressing MIP-1alpha expression and inhibiting activations of NF-kappaB and
+ JNK signaling pathways. CONCLUSION: miR-125b could play an important role in
+ inflammatory injury of chondrogenic cells and miR-125b affected inflammatory
+ injury of ATDC5 cells via regulating expression of MIP-1alpha and regulating
+ NF-kappaB and JNK signaling pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chemokine CCL3",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Down-Regulation"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Chemokine CCL3"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn125 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      }
+    },
+    pmid 29550827,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

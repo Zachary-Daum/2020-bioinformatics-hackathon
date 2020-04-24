@@ -1,0 +1,148 @@
+
+Pubmed-entry ::= {
+  pmid 31642074,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "K-Ras-PI3K regulates H3K56ac through PCAF to elevate the
+ occurrence and growth of liver cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gao X",
+            affil str "Department of General Surgery, Juancheng People's
+ Hospital, Heze, China."
+          },
+          {
+            name ml "Cheng Z",
+            affil str "Department of Gastroenterology, Heze Municipal
+ Hospital, Heze, China."
+          },
+          {
+            name ml "Yuan H",
+            affil str "Department of Gastroenterology, Heze Municipal
+ Hospital, Heze, China."
+          },
+          {
+            name ml "Zhao H",
+            affil str "Department of Hepatobiliary Surgery, Heze Municipal
+ Hospital, Heze, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 4
+          },
+          volume "235",
+          issue "4",
+          pages "3905-3915",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31642074,
+        doi "10.1002/jcp.29284",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.29284"
+        }
+      }
+    },
+    abstract "H3 modification is related to a wide range of tumors, including
+ liver cancer. The Ras passageway is actuated in human diseases. Thus, we
+ investigated the roles of Ras in liver cancer cells via acetylation of H3K56.
+ Ras-carrying G12V and Y40C site mutation was transfected into liver cancer
+ cell lines SNU-475 and SK-Hep-1. Acetylation of H3K56 and
+ phosphatidylinositol 3-kinase (PI3K), P300/CBP-associated factor (PCAF) and
+ Mouse double minute 2 homolog (MDM2) was tested via western blot. Cell
+ activity, colonies, and migration were tested via Cell Counting Kit-8,
+ soft-agar colony formation, and Transwell experiment, respectively. Sirtuin 6
+ (SIRT6) and PCAF were tested via quantitative reverse transcription
+ polymerase chain reaction (qRT-PCR). Chromatin immunoprecipitation was
+ employed to test the relationship between Ras and downstream elements. Flow
+ cytometry was employed to test cell cycle series. We found that
+ Ras(G12V/Y40C) transfection reduced the acetylation of H3K56 and activated
+ phosphorylation of protein kinase B. H3K56Q (H3K56ac overexpression)
+ suppressed cell activity, colonies, and migration. H3K56ac changed Ras
+ downstream factors expression. Ras(G12V/Y40C) bound to Ras-PI3K downstream
+ elements' promoters. SIRT6 silencing raised H3K56ac and suppressed cell
+ activity, migration and S phage cell percentage. SIRT6 silence transformed
+ expression of downstream elements. PCAF and H3K56ac demonstrated the close
+ current while MDM2 was conversed. In summary, the Ras-PI3K passageway
+ promoted cell growth and metastasis via decreasing H3K56ac, in which
+ MDM2-mediated PCAF was involved.",
+    pmid 31642074,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

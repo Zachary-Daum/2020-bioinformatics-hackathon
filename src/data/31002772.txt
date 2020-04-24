@@ -1,0 +1,306 @@
+
+Pubmed-entry ::= {
+  pmid 31002772,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ailanthone up-regulates miR-449a to restrain acute myeloid
+ leukemia cells growth, migration and invasion."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang Y",
+            affil str "Department of Hematology, Jining No.1 People's
+ Hospital, Jining 272000, Shandong, China.; Affiliated Jining No.1 People's
+ Hospital of Jining Medical University, Jining Medical University, Jining
+ 272067, Shandong, China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "Department of Clinical Laboratory, Jining No.1 People's
+ Hospital, Jining 272000, Shandong, China."
+          },
+          {
+            name ml "Min D",
+            affil str "Department of Hepatobiliary Surgery, Jining No.1 People
+'s Hospital, Jining 272000, Shandong, China. Electronic address:
+ mindejin123@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "108",
+          pages "114-120",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 2,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31002772,
+        pii "S0014-4800(18)30509-4",
+        doi "10.1016/j.yexmp.2019.04.011",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30509-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.04.011"
+        }
+      }
+    },
+    abstract "BACKGROUND: Ailanthone (AIL) is a quassinoid isolated from
+ traditional Chinese herbal medicine Ailanthus altissima. The anti-tumor
+ activities of AIL have been reported in various solid tumors. This study
+ aimed to reveal the in vitro effect of AIL on acute myeloid leukemia (AML)
+ cells. METHODS: The effects of AIL on five AML cell lines (KG1, HL60, U-937,
+ THP-1 and OCI-AML2) as well as myeloid progenitor cells were evaluated by
+ performing CCK-8 assay, flow cytometry, Transwell assay and Western blotting.
+ KG1 and HL60 cells were transfected with miR-449a inhibitor or its negative
+ control, and then were treated by AIL. The above mentioned assays were
+ performed again to study the involvement of miR-449a in AIL's function.
+ RESULTS: AIL dose-dependently inhibited the viability of AML cells and
+ myeloid progenitor cells. The IC50 value of AIL towards KG1 and HL60 cells
+ was 0.58 and 0.57muM, respectively. AIL with concentration of 0.5muM
+ significantly induced the apoptosis of AML cells rather than myeloid
+ progenitor cells. Meanwhile, 0.5muM AIL significantly reduced migration and
+ invasion of AML cells. miR-449a was highly expressed in response to the
+ treatment of 0.5muM AIL. Besides this, the anti-tumor activities of AIL in
+ AML cells were attenuated by miR-449a silence. Further, the blockage of Notch
+ and PI3K/AKT signaling pathways induced by AIL was reversed by miR-449a
+ silence. CONCLUSION: AIL restrained AML cells growth, migration and invasion
+ through up-regulation of miR-449a, and deactivation of Notch and PI3K/AKT
+ signaling pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Cycle",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Growth Processes",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Leukemia, Myeloid, Acute",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Quassins",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "MIRN449 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Quassins"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type cas,
+        cit "981-15-7",
+        name "ailanthone"
+      }
+    },
+    pmid 31002772,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

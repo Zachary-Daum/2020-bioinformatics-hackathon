@@ -1,0 +1,279 @@
+
+Pubmed-entry ::= {
+  pmid 31257936,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Shikonin inhibits proliferation, migration, invasion and
+ promotes apoptosis in NCI-N87 cells via inhibition of PI3K/AKT signal pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jia L",
+            affil str "a Department of General Surgery, Jining Traditional
+ Chinese Medicine Hospital , Jining , China."
+          },
+          {
+            name ml "Zhu Z",
+            affil str "b Department of Gastrointestinal Surgery, Jining No.1
+ People's Hospital , Jining , China."
+          },
+          {
+            name ml "Li H",
+            affil str "c Department of General Surgery, Traditional Chinese
+ Medicine Hospital of Sishui County , Jining , China."
+          },
+          {
+            name ml "Li Y",
+            affil str "b Department of Gastrointestinal Surgery, Jining No.1
+ People's Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2662-2669",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31257936,
+        doi "10.1080/21691401.2019.1632870",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1632870"
+        }
+      }
+    },
+    abstract "Shikonin has been testified to wield the anti-tumor action in
+ multiple cancers. But, the clout of Shikonin for gastric cancer (GC) is still
+ inconclusive. The contemplation of this research undertook to disclose the
+ impacts of Shikonin on GC progress meanwhile to uncover the conceivable
+ mechanism. NCI-N87 cells were disposed by Shikonin at diverse concentration
+ points. The trials of CCK-8, colony formation, flow cytometry and Transwell
+ assays were executed for detecting the functions of Shikonin in NCI-N87
+ cells. The impacts of miR-195 on Shikonin-regulated PI3K/AKT pathway were
+ estimated via western blot. The in vivo trial was detected by xenografts
+ model assay. We found that Shikonin suppressed cell survival and triggered
+ apoptosis in NCI-N87 cells. Additionally, Shikonin restrained cell migration,
+ invasion and down-regulated MMP2, RhoA, ROCK1 and Vimentin expression in
+ NCI-N87 cells. Furthermore, Shikonin notably inhibited PI3K/AKT signal
+ pathway, but the restraining functions were repealed by miR-195 inhibition in
+ NCI-N87 cells. The in vivo trial results revealed that Shikonin determinately
+ impeded tumor formation. In conclusion, these results demonstrated that
+ Shikonin prohibited NCI-N87 cells proliferation, migration, invasion, and
+ accelerated apoptosis by inactivation of PI3K/AKT pathway. The findings maybe
+ provide a fresh opinion for healing GC.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Naphthoquinones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Xenograft Model Antitumor Assays"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "MIRN195 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Naphthoquinones"
+      },
+      {
+        type cas,
+        cit "3IK6592UBW",
+        name "shikonin"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31257936,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

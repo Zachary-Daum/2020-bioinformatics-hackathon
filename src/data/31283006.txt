@@ -1,0 +1,150 @@
+
+Pubmed-entry ::= {
+  pmid 31283006,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "EZH2 regulates H2B phosphorylation and elevates colon cancer
+ cell autophagy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu Z",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital, Jining, China.; Affiliated Jining No.1 People's Hospital
+ of Jining Medical University, Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Yang L",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital, Jining, China."
+          },
+          {
+            name ml "Zhong C",
+            affil str "Department of General Surgery, Zoucheng Hospital of
+ Traditional Chinese Medicine, Zoucheng, China."
+          },
+          {
+            name ml "Zhou L",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 2
+          },
+          volume "235",
+          issue "2",
+          pages "1494-1503",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 6,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31283006,
+        doi "10.1002/jcp.29069",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.29069"
+        }
+      }
+    },
+    abstract "Epigenetic alterations, especially histone modification, play
+ vital roles in the pathogenesis of colon cancer. Upregulation of the enhancer
+ of zeste homolog 2 (EZH2) has been reported to contribute to the initiation
+ and progression of colon cancer. This study analyzed the association between
+ EZH2 and phosphorylation of H2B at tyrosine 37 (H2B(Y37ph) ) in colon cancer
+ tissues and cells, along with the influences of the EZH2-H2B(Y37ph) axis on
+ colon cancer cell autophagy. Immunohistochemistry was utilized to assess EZH2
+ and H2B(Y37ph) expressions in clinical samples of colon cancer. Cell
+ transfection was carried out to alter EZH2 and H2B(Y37ph) expressions in
+ colon cancer cells. Co-immunoprecipitation analysis and
+ glutathione-S-transferase (GST) pull down assay were conducted to analyze the
+ association between EZH2 and H2B(Y37ph) . Western blotting was utilized to
+ measure proteins expressions related to cell autophagy. We found that there
+ was a positive association between EZH2 and H2B(Y37ph) in colon cancer
+ tissues and cells. EZH2 directly interacted with H2B and promoted H2B(Y37ph)
+ in colon cancer cells using ATP as a phosphate donor. Moreover, EZH2 levated
+ colon cancer cell autophagy in starvation condition. H2B(Y37ph) was required
+ for EZH2-elevated colon cancer cell autophagy under starvation condition. The
+ EZH2-H2B(Y37ph) axis elevated colon cancer cell autophagy possibly via
+ activating transcriptional regulation of ATG genes. In conclusion,
+ EZH2-elevated colon cancer initiation and progression at least in part via
+ inducing colon cancer cell autophagy. EZH2 could phosphorylate H2B(Y37) and
+ then induce transcription activation of ATG genes in colon cancer cells under
+ starvation condition.",
+    pmid 31283006,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

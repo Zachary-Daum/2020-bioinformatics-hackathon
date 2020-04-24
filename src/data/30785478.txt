@@ -1,0 +1,217 @@
+
+Pubmed-entry ::= {
+  pmid 30785478,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Kaempferol suppresses human gastric cancer SNU-216 cell
+ proliferation, promotes cell autophagy, but has no influence on cell
+ apoptosis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang F",
+            affil str "Teaching and Research Department of Diagnostics, Jining
+ Medical University, Jining, China."
+          },
+          {
+            name ml "Ma C",
+            affil str "Department of Gastroenterology, Affiliated Hospital of
+ Jining Medical University, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2,
+            day 14
+          },
+          volume "52",
+          issue "2",
+          pages "e7843",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30785478,
+        pii "S0100-879X2019000200610",
+        doi "10.1590/1414-431X20187843",
+        other {
+          db "pmc",
+          tag str "PMC6376319"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2019000200610"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431X20187843"
+        }
+      }
+    },
+    abstract "Gastric cancer remains a serious threat to human health
+ worldwide. Kaempferol is a plant-derived flavonoid compound with a wide range
+ of pharmacological activities. This study aimed to investigate the effects of
+ kaempferol on gastric cancer SNU-216 cell proliferation, apoptosis, and
+ autophagy, as well as underlying potential mechanisms. Viability,
+ proliferation, and apoptosis of SNU-216 cells after kaempferol treatment were
+ evaluated using cell counting kit-8 assay, 5-btomo-2'-deoxyuridine
+ incorporation assay, and annexin V-FITC/PI staining, respectively.
+ Quantitative reverse transcription PCR was performed to measure the mRNA
+ expressions of cyclin D1 and microRNA-181a (miR-181a) in SNU-216 cells. Cell
+ transfection was used to down-regulate the expression of miR-181a. The
+ protein expression levels of cyclin D1, bcl-2, bax, caspase 3, caspase 9,
+ autophagy-related gene 7, microtubule-associated protein 1 light chain 3-I
+ (LC3-I), LC3-II, Beclin 1, p62, mitogen-activated protein kinase (MAPK),
+ extracellular regulated protein kinases (ERK), and phosphatidylinositol 3
+ kinase (PI3K) in SNU-216 cells were detected using western blotting. Results
+ showed that kaempferol significantly suppressed SNU-216 cell viability and
+ proliferation but had no influence on cell apoptosis. Further results
+ suggested that kaempferol significantly induced SNU-216 cell autophagy. The
+ expression of miR-181a in SNU-216 cells after kaempferol treatment was
+ enhanced. Kaempferol significantly inactivated MAPK/ERK and PI3K pathways in
+ SNU-216 cells. Suppression of miR-181a significantly reversed the
+ kaempferol-induced MAPK/ERK and PI3K pathways inactivation in SNU-216 cells.
+ This research demonstrated that kaempferol suppressed proliferation and
+ promoted autophagy of human gastric cancer SNU-216 cells by up-regulating
+ miR-181a and inactivating MAPK/ERK and PI3K pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kaempferols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Kaempferols"
+      },
+      {
+        type cas,
+        cit "731P2LE49E",
+        name "kaempferol"
+      }
+    },
+    pmid 30785478,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

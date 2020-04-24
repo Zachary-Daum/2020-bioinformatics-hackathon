@@ -1,0 +1,347 @@
+
+Pubmed-entry ::= {
+  pmid 29704506,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Resveratrol alleviates LPS-induced injury in human keratinocyte
+ cell line HaCaT by up-regulation of miR-17."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang X",
+            affil str "Department of Burn and Plastic Surgery, Jining No.1
+ People's Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Burn and Plastic Surgery, Jining No.1
+ People's Hospital, Jining, 272011, Shandong, China. Electronic address:
+ zhangyali0059@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biochem. Biophys. Res. Commun.",
+          ml-jta "Biochem Biophys Res Commun",
+          issn "1090-2104",
+          name "Biochemical and biophysical research communications"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 18
+          },
+          volume "501",
+          issue "1",
+          pages "106-112",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29704506,
+        pii "S0006-291X(18)30977-X",
+        doi "10.1016/j.bbrc.2018.04.184",
+        other {
+          db "ELocationID pii",
+          tag str "S0006-291X(18)30977-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bbrc.2018.04.184"
+        }
+      }
+    },
+    abstract "BACKGROUND: Resveratrol (RSV), an edible polyphenolic
+ phytoalexin, plays an important role in ameliorating inflammation, including
+ skin inflammation after burn injury. However, the specific molecular
+ mechanism underlying its anti-inflammation effect is still unclear. Herein,
+ the effect and the mechanism underlying the protection of HaCaT cells by RSV
+ against inflammation were examined. METHODS: Lipopolysaccharide (LPS)-induced
+ inflammation and the cytoprotection of RSV were evaluated by detecting
+ viability, apoptosis, expressions of apoptosis-associated proteins and the
+ productions of pro-inflammatory factors by CCK-8 assay, flow cytometer,
+ Western blot, and qRT-PCR. miR-17 expression in RSV-treated HaCaT cells was
+ determined by qRT-PCR. The role of miR-17 in protective effect of RSV was
+ investigated after altering its expression using transfection assay. The main
+ ingredients in PTEN/PI3K/AKT and mTOR pathways were quantified by Western
+ blot. RESULTS: LPS-induced HaCaT cell injury was inhibited by RSV
+ administration. RSV promoted viability, inhibited apoptotic cell rate,
+ increased Bcl-2 expression, decreased Bax, cleaved-Caspase-3, and
+ cleaved-Caspase-9 expressions. RSV also inhibited inflammation injury of
+ HaCaT cells by reducing productions of IL-6, IL-8, and TNF-alpha. miR-17 was
+ up-regulated in LPS and RSV-co-treated cells. The protective effect of RSV
+ might contribute to overexpression of miR-17. In the mechanism study,
+ RSV-miR-17 axis was found to activate PTEN/PI3K/AKT and mTOR pathways in
+ LPS-treated cells. CONCLUSION: RSV alleviated LPS-induced injury in human
+ keratinocyte cell line HaCaT through activations of PTEN/PI3K/AKT and mTOR
+ pathways, which were modulated by miR-17.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents, Non-Steroidal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Burns",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PTEN Phosphohydrolase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Resveratrol"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Stilbenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents, Non-Steroidal"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN17 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Stilbenes"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN Phosphohydrolase"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN protein, human"
+      },
+      {
+        type cas,
+        cit "Q369O8926L",
+        name "Resveratrol"
+      }
+    },
+    pmid 29704506,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

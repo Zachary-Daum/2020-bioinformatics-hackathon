@@ -1,0 +1,288 @@
+
+Pubmed-entry ::= {
+  pmid 29331857,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalin alleviates IL-1beta-induced inflammatory injury via
+ down-regulating miR-126 in chondrocytes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang X",
+            affil str "Department of Rheumatology and Immunology, Shengli
+ Oilfield Central Hospital, Dongying 257000, Shandong, China."
+          },
+          {
+            name ml "Zhang Q",
+            affil str "Department of Rheumatology and Immunology, Shengli
+ Oilfield Central Hospital, Dongying 257000, Shandong, China."
+          },
+          {
+            name ml "Gao Z",
+            affil str "Department of Rheumatology and Immunology, Shengli
+ Oilfield Central Hospital, Dongying 257000, Shandong, China. Electronic
+ address: affirmjKay281@gmail.com."
+          },
+          {
+            name ml "Yu C",
+            affil str "Department of Rheumatology and Immunology, Shengli
+ Oilfield Central Hospital, Dongying 257000, Shandong, China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "Department of Rheumatology and Immunology, Shengli
+ Oilfield Central Hospital, Dongying 257000, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "99",
+          pages "184-190",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29331857,
+        pii "S0753-3322(17)35866-3",
+        doi "10.1016/j.biopha.2018.01.041",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)35866-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.01.041"
+        }
+      }
+    },
+    abstract "Baicalin is a flavonoid extracted from Scutellaria baicalensis
+ Georgi, with anti-inflammatory and anti-apoptotic activities. The objective
+ of this study was to explore the effect and mechanism of baicalin on
+ chondrocyte inflammatory response in OA. Different concentrations of IL-1beta
+ (0, 0.1, 2, 5 and 10ng/mL) were used to simulate inflammatory injury in
+ CHON-001 cells. The expression of miR-126 was altered by transfection with
+ miR-126 mimic. Thereafter, cells were treated with baicalin, and cell
+ viability, apoptosis, the expressions of apoptosis-related protein and
+ pro-inflammatory factors were respectively detected using CCK-8 assay, flow
+ cytometry, qRT-PCR and western blot analysis. We found that IL-1beta induced
+ a significantly inflammatory injury in CHON-001 cells. Baicalin alleviated
+ IL-1beta-induced inflammatory injury, as it increased cell viability,
+ decreased cell apoptosis and repressed the production of IL-6, IL-8 and
+ TNF-alpha. miR-126 was up-regulated by IL-1beta treatment while was
+ down-regulated by baicalin. More interestingly, the protective actions of
+ baicalin on IL-1beta-injured CHON-001 cells were partially eliminated by
+ miR-126 overexpression. Further, NF-kappaB signaling pathway was activated by
+ IL-1beta, and deactivated by addition of baicalin. The deactivation of
+ NF-kappaB signaling pathway induced by baicalin upon IL-1beta exposure was
+ recovered by miR-126 overexpression. In conclusion, this study demonstrated
+ that baicalin protected CHON-001 cells against IL-1beta-induced inflammatory
+ injury possibly via down-regulation of miR-126 and thereby deactivation of
+ NF-kappaB signaling pathway.",
+    mesh {
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Interleukin-1beta"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "MIRN126 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "347Q89U4M5",
+        name "baicalin"
+      }
+    },
+    pmid 29331857,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

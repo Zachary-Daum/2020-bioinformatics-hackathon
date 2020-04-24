@@ -1,0 +1,249 @@
+
+Pubmed-entry ::= {
+  pmid 31164009,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA ROR mitigates cobalt chloride-induced
+ hypoxia injury through regulation of miR-145."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ge H",
+            affil str "a Department of Otorhinolaryngology Head and Neck
+ Surgery, The Third People's Hospital of Qingdao , Qingdao , China."
+          },
+          {
+            name ml "Liu J",
+            affil str "a Department of Otorhinolaryngology Head and Neck
+ Surgery, The Third People's Hospital of Qingdao , Qingdao , China."
+          },
+          {
+            name ml "Liu F",
+            affil str "a Department of Otorhinolaryngology Head and Neck
+ Surgery, The Third People's Hospital of Qingdao , Qingdao , China."
+          },
+          {
+            name ml "Sun Y",
+            affil str "a Department of Otorhinolaryngology Head and Neck
+ Surgery, The Third People's Hospital of Qingdao , Qingdao , China."
+          },
+          {
+            name ml "Yang R",
+            affil str "a Department of Otorhinolaryngology Head and Neck
+ Surgery, The Third People's Hospital of Qingdao , Qingdao , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2221-2229",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31164009,
+        doi "10.1080/21691401.2019.1620759",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1620759"
+        }
+      }
+    },
+    abstract "Obstructive sleep apnoea-hypopnoea syndrome (OSAHS) is a
+ condition causing apnea and hypopnea. LncRNA-ROR revealed properties in
+ regulating hypoxia response. Our study explored the roles of ROR in
+ CoCl2-induced hypoxia injury in HK-2 cells. HK-2 cells were treated with
+ CoCl2 to induce hypoxia injury. Cell viability, cell apoptosis and apoptotic
+ proteins were detected using CCK-8, flow cytometry and western blot,
+ respectively. The alter expression of ROR and miR-145 was achieved through
+ transfection. Moreover, the expressions of HIF-alpha and ERK and MAPK related
+ factors were examined using western blot. We found that CoCl2 decreased cell
+ viability and increased apoptosis as well as increased the expression of ROR.
+ ROR overexpression increased cell viability, decreased cell apoptosis. ROR
+ overexpression upregulated anti-apoptotic proteins Bcl-2 and decreased p53,
+ Bax and cleaved-Caspase-3. ROR overexpression also increased the expression
+ of HIF-alpha. On the opposite, ROR silence led to the opposite results as
+ relative to ROR overexpression. ROR overexpression decreased expression of
+ miR-145. Co-transfection with ROR overexpression and miR-145 impaired the
+ promoting effects of ROR in CoCl2 treated cells. ROR increased
+ phosphorylation of ERK while decreased phosphorylation of MAPK. In
+ conclusion, lncRNA ROR alleviated CoCl2-induced hypoxia injury through
+ regulation of miR-145 as well as modulating ERK and MAPK signalling.
+ Highlights CoCl2 induces ROR upregulation; Overexpression of ROR reduces
+ CoCl2-induced HK-2 cell injury; Silence of ROR promotes CoCl2-induced HK-2
+ cell injury; Overexpression of ROR decreases miR-145 expression; ROR
+ overexpression modulates ERK and MAPK signalling pathways through regulation
+ of miR-145.",
+    mesh {
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cobalt",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Linc-RNA-RoR, human"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "3G0H8C9362",
+        name "Cobalt"
+      },
+      {
+        type cas,
+        cit "EVS87XF13W",
+        name "cobaltous chloride"
+      }
+    },
+    pmid 31164009,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

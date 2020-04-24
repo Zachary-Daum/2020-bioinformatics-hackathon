@@ -1,0 +1,360 @@
+
+Pubmed-entry ::= {
+  pmid 31301304,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Skullcapflavone I suppresses proliferation of human lung cancer
+ cells via down-regulating microRNA-21."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang Y",
+            affil str "Emergency Department, Shengli Oilfield Central
+ Hospital, Dongying 257000, China."
+          },
+          {
+            name ml "An R",
+            affil str "Department of Respiratory Medicine, Shengli Oilfield
+ Central Hospital, Dongying 257000, China."
+          },
+          {
+            name ml "Feng T",
+            affil str "Department of Respiratory Medicine, Shengli Oilfield
+ Central Hospital, Dongying 257000, China."
+          },
+          {
+            name ml "Qin X",
+            affil str "Emergency Department, Shengli Oilfield Central
+ Hospital, Dongying 257000, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Respiratory Medicine, Shengli Oilfield
+ Central Hospital, Dongying 257000, China."
+          },
+          {
+            name ml "Bo Y",
+            affil str "Emergency Department, Shengli Oilfield Central
+ Hospital, Dongying 257000, China."
+          },
+          {
+            name ml "Niu B",
+            affil str "Department of Respiratory Medicine, Shengli Oilfield
+ Central Hospital, Dongying 257000, China. Electronic address:
+ 123niuben@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10
+          },
+          volume "110",
+          pages "104285",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 12,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 7,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31301304,
+        pii "S0014-4800(18)30587-2",
+        doi "10.1016/j.yexmp.2019.104285",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30587-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.104285"
+        }
+      }
+    },
+    abstract "BACKGROUND: Lung cancer is the most leading cause of
+ cancer-related deaths worldwide. Skullcapflavone I is a flavone compound
+ extracted from Scutellaria baicalensis Georgi (Wogon). The present study
+ investigated the effects of skullcapflavone I on human lung cancer cell
+ proliferation, as well as underlying possible mechanism. METHODS: Cell
+ proliferation was detected using Trypan blue assay. Cell viability was
+ measured using cell counting kit 8 (CCK-8) assay. Quantitative reverse
+ transcription PCR (qRT-PCR) was performed to assess microRNA-21 (miR-21)
+ expression. Cell transfection was conducted to enhance the levels of miR-21
+ and protein phosphatase 2A (PP2A). Western blotting was used to evaluate the
+ expressions of proliferation cell nuclear antigen (PCNA), Cyclin D1, PP2A,
+ phosphatidylinositol 3-kinase (PI3K), protein kinase 3 (AKT), mechanistic
+ target of rapamycin (mTOR) and p70S6K. RESULTS: Skullcapflavone I
+ significantly suppressed the viability and proliferation of A549 and H1975
+ cells. The expressions of miR-21 in A549 and H1975 cells were drastically
+ decreased after skullcapflavone I treatment. Overexpression of miR-21
+ remarkably reversed the skullcapflavone I-induced A549 cell viability
+ inhibition. Moreover, skullcapflavone I enhanced the expression of PP2A in
+ A549 cells. Skullcapflavone I inactivated PI3K/AKT/mTOR signaling pathway in
+ A549 cells via up-regulating PP2A. Besides, skullcapflavone I treatment had
+ no significant influence on human normal bronchial epithelial 16HBE cell
+ viability, proliferation and apoptosis. CONCLUSION: Skullcapflavone I exerted
+ anti-cancer effect on lung cancer cells by down-regulating miR-21 expression,
+ up-regulating PP2A expression and then inactivating PI3K/AKT/mTOR signaling
+ pathway.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Flavones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein Phosphatase 2",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Flavones"
+      },
+      {
+        type nameonly,
+        name "MIRN21 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "8P86A8Q1G0",
+        name "skullcapflavone I"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.16",
+        name "Protein Phosphatase 2"
+      }
+    },
+    pmid 31301304,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

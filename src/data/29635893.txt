@@ -1,0 +1,285 @@
+
+Pubmed-entry ::= {
+  pmid 29635893,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-30b promotes lipopolysaccharide-induced inflammatory
+ injury and alleviates autophagy through JNK and NF-kappaB pathways in HK-2
+ cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang L",
+            affil str "Department of Nephrology, Shandong Provincial Hospital
+ Affiliated to Shandong University, Jinan 250021, Shandong, China; Department
+ of Nephrology, The Affiliated Hospital of Qingdao University, Qingdao 266021,
+ Shandong, China."
+          },
+          {
+            name ml "Li J",
+            affil str "Department of Nephrology, The Affiliated Hospital of
+ Qingdao University, Qingdao 266021, Shandong, China."
+          },
+          {
+            name ml "Cui L",
+            affil str "Department of Nephrology, The Affiliated Hospital of
+ Qingdao University, Qingdao 266021, Shandong, China."
+          },
+          {
+            name ml "Shang J",
+            affil str "Department of Nephrology, The Affiliated Hospital of
+ Qingdao University, Qingdao 266021, Shandong, China."
+          },
+          {
+            name ml "Tian F",
+            affil str "Department of Nephrology, The Affiliated Hospital of
+ Qingdao University, Qingdao 266021, Shandong, China."
+          },
+          {
+            name ml "Wang R",
+            affil str "Department of Nephrology, Shandong Provincial Hospital
+ Affiliated to Shandong University, Jinan 250021, Shandong, China. Electronic
+ address: rwang85@126.com."
+          },
+          {
+            name ml "Xing G",
+            affil str "Department of Nephrology, The Affiliated Hospital of
+ Qingdao University, Qingdao 266021, Shandong, China. Electronic address:
+ pwdhfj@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "101",
+          pages "842-851",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29635893,
+        pii "S0753-3322(17)36514-9",
+        doi "10.1016/j.biopha.2018.02.085",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36514-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.02.085"
+        }
+      }
+    },
+    abstract "BACKGROUND: Acute kidney injury (AKI) is an abrupt loss of
+ kidney function. MicroRNA-30b (miR-30b) has been reported to be involved in
+ the inflammatory reaction of a variety of diseases. However, the role of
+ miR-30b in AKI remains unknown. In this research, we aimed to investigate the
+ role of miR-30b in lipopolysaccharide (LPS)-induced kindey inflammatory
+ injury in vitro and in vivo. METHODS: In vitro, after miR-30b mimic/inhibitor
+ transfection and/or LPS treatment, the viability, apoptosis, autophagy and
+ inflammatory cytokines releases, as well as activation of c-Jun-N-terminal
+ kinase (JNK) and nuclear factor-kappa B (NF-kappaB) pathways were detected by
+ cell counting kit-8 (CCK-8) assay, flow cytometry, qRT-PCR, enzyme-linked
+ immunosorbent assay (ELISA) and western blot, respectively. In vivo, after
+ LPS treatment and/or anti-miR-30b administration, the levels of creatinine,
+ the activities of alanine aminotransferase (ALT) and histologic scores, as
+ well as concentrations of inflammatory cytokines were assessed by creatinine
+ assay kit, ALT assay kit and ELISA, respectively. RESULTS: LPS inhibited HK-2
+ cell viability and induced HK-2 cell apoptosis, autophagy and the releases of
+ inflammatory cytokines. Overexpression of miR-30b promoted LPS-induced HK-2
+ cell viability inhibition, cell inflammatory cytokines releases, cell
+ apoptosis induction and activation of JNK and NF-kappaB signaling pathways,
+ but inhibited LPS-induced HK-2 cell autophagy. Suppression of miR-30b had
+ opposite effects. Moreover, suppression of miR-30b alleviated the LPS-induced
+ kidney injury in mice model by decreasing creatinine level, ALT activity and
+ histologic scores, as well as concentrations of inflammatory cytokines.
+ CONCLUSION: miR-30b participated in the LPS-induced kindey inflammatory
+ injury in vitro and in vivo.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        mp TRUE,
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN30 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn30d microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      }
+    },
+    pmid 29635893,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

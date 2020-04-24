@@ -1,0 +1,326 @@
+
+Pubmed-entry ::= {
+  pmid 28980287,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Inducible miR-145 expression by HIF-1a protects cardiomyocytes
+ against apoptosis via regulating SGK1 in simulated myocardial infarction
+ hypoxic microenvironment."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun N"
+          },
+          {
+            name ml "Meng F"
+          },
+          {
+            name ml "Xue N"
+          },
+          {
+            name ml "Pang G"
+          },
+          {
+            name ml "Wang Q"
+          },
+          {
+            name ml "Ma H",
+            affil str "Linyi People's Hospital. mahongliang1451@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cardiol J",
+          ml-jta "Cardiol J",
+          issn "1897-5593",
+          name "Cardiology journal"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "25",
+          issue "2",
+          pages "268-278",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 8,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28980287,
+        pii "VM/OJS/J/49867",
+        doi "10.5603/CJ.a2017.0105",
+        other {
+          db "ELocationID doi",
+          tag str "10.5603/CJ.a2017.0105"
+        }
+      }
+    },
+    abstract "BACKGROUND: Myocardial infarction (MI) is partly due to
+ myocardial cell damage caused by hypoxia. MicroRNAs (miRNAs) have been proved
+ to be closely related to the development and progression of many
+ cardiovascular diseases. This study investigated the role of miR-145 in
+ cardiomyocytes under hypoxic condition. METHODS: The quantitative real-time
+ polymerase chain reaction (qRT-PCR) was performed to test miR-145 expression
+ in H9c2 cells with hypoxia-inducible factor (HIF)-a abnormal expression under
+ hypoxic condition. The 3-(4, 5-dimethyl-2-thiazolyl)-2, 5-diphenyltetrazolium
+ bromide (MTT), Tran-swell assay and flow cytometry were used to investigate
+ the effects of miR-145 on cell viability, migration and apoptosis under
+ normoxic or hypoxic condition, respectively. Meanwhile, reactive oxygen
+ species (ROS) content in hypoxic H9c2 cells was analyzed. Western blotting
+ was used to explore the potential mechanism of miR-145 protective effects on
+ cardiomyocytes. Expression levels of miR-145 and SGK1 in rat MI model were
+ also assessed. RESULTS: Results showed that miR-145 was upregulated in H9c2
+ and HL-1 cells under hypoxic condi-tion, which was promoted by HIF-1a.
+ MiR-145 overexpression enhanced cell viability and migration under normoxic
+ condition. Under hypoxic condition, miR-145 overexpression promoted cell
+ viability, inhibited apoptosis and ROS activity. Western blotting results
+ proved that miR-145 overexpression inhibited the activation of apoptotic
+ related factors, and promoted activation of PI3K/AKT signaling pathway via
+ SGK1 upregulation. Expression levels of miR-145 and SGK1 were both
+ upregulated in rat MI models. CONCLUSIONS: HIF-1a could induce miR-145
+ upregulation in hypoxic H9c2 and HL-1 cells. MiR-145 protected H9c2 cells
+ against hypoxic damage. SGK1 upregulation and activated PI3K/AKT may have
+ participated in the protective effects of miR-145 on cardiomyocytes.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Apoptosis"
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Hypoxia-Inducible Factor 1, alpha Subunit",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Immediate-Early Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Nuclear Proteins"
+      },
+      {
+        term "Protein-Serine-Threonine Kinases",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Hif1a protein, rat"
+      },
+      {
+        type nameonly,
+        name "Hypoxia-Inducible Factor 1, alpha Subunit"
+      },
+      {
+        type nameonly,
+        name "Immediate-Early Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Nuclear Proteins"
+      },
+      {
+        type cas,
+        cit "63231-63-0",
+        name "RNA"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Protein-Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "serum-glucocorticoid regulated kinase"
+      }
+    },
+    pmid 28980287,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,275 @@
+
+Pubmed-entry ::= {
+  pmid 29667771,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA SNHG14 contributes to gastric cancer
+ development through targeting miR-145/SOX9 axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu Z",
+            affil str "Department of Surgery, Xi'an Chest Hospital, Xi'an
+ TB&Thoracic Tumor Hospital, Xi'an, Shanxi, China."
+          },
+          {
+            name ml "Yan Y",
+            affil str "Institute of Cancer Research, School of Basic Medical
+ Science of Xi'an Jiao Tong University, Xi'an, Shaanxi, China.; Department of
+ Pathology, The First Hospital of Xi'an, Xi'an, Shaanxi, China."
+          },
+          {
+            name ml "Cao S",
+            affil str "Department of Medicine, Xi'an Chest Hospital, Xi'an
+ TB&Thoracic Tumor Hospital, Xi'an, Shanxi, China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "Department of General Surgery, The Changan District
+ Hospital of the First Affiliated Hospital, Xi'an Jiaotong University, Shanxi,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "119",
+          issue "8",
+          pages "6905-6913",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29667771,
+        doi "10.1002/jcb.26889",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26889"
+        }
+      }
+    },
+    abstract "This study aimed to elucidate the roles of long non-coding RNA
+ SNHG14 in gastric cancer development. LncRNA SNHG14 was markedly up-regulated
+ in gastric cancer tissues and cells. Knockdown of SNHG14 significantly
+ inhibited SGC-7901 cell viability, migration, invasion, and promoted cell
+ apoptosis. In addition, miR-145 was negatively regulated by SNHG14 and the
+ effects of SNHG14 knockdown on cell viability, apoptosis, migration,
+ invasion, and the expression of apoptosis-related proteins and EMT-markers
+ were reversed by inhibition of miR-145 at the same time. Furthermore, SOX9
+ was verified as a functional target of miR-145, and miR-145 regulated tumor
+ malignant behaviors through regulating SOX9. Besides, knockdown of SNHG14
+ inhibited the expression of p-PI3 K, p-AKT, and p-mTOR and promoted PTEN
+ expression, where miR-145 inhibition had opposite effects. Moreover, the
+ activated PI3 K/AKT/mTOR pathway caused by miR-145 inhibition was
+ counteracted after knockdown of SOX9. Our findings indicate that
+ up-regulation of lncRNA SNHG14 may contribute to gastric cancer development
+ via targeting miR-145/SOX9 axis and involving in PI3 K/AKT/mTOR pathway.
+ SNHG14-miR-145/SOX9 axis may be a promising therapeutic strategy for gastric
+ cancer treatment.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "SOX9 Transcription Factor",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN145 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type nameonly,
+        name "SOX9 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "SOX9 protein, human"
+      }
+    },
+    pmid 29667771,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

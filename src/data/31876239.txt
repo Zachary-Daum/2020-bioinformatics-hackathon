@@ -1,0 +1,135 @@
+
+Pubmed-entry ::= {
+  pmid 31876239,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Swainsonine protects H9c2 cells against
+ lipopolysaccharide-induced apoptosis and inflammatory injury via
+ down-regulating miR-429."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lv H",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Zhang S",
+            affil str "Department of Nursing, Jining No.1 People's Hospital,
+ Jining, China."
+          },
+          {
+            name ml "Hao X",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell Cycle",
+          ml-jta "Cell Cycle",
+          issn "1551-4005",
+          name "Cell cycle (Georgetown, Tex.)"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 1
+          },
+          volume "19",
+          issue "2",
+          pages "207-217",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 12,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31876239,
+        doi "10.1080/15384101.2019.1706902",
+        other {
+          db "pmc",
+          tag str "PMC6961669"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/15384101.2019.1706902"
+        }
+      }
+    },
+    abstract "Pediatric myocarditis (PM) is usually related to myocardial
+ dysfunction. Generally, 30% of PM patients will die or undergo heart
+ transplantation. Swainsonine (SW) is a natural alkaloid and an anti-cancer
+ substance. Our goal was to determine the roles of SW in PM in current study.
+ H9c2 cells were pre-treated by lipopolysaccharide (LPS). Viability and
+ apoptosis were evaluated utilizing CCK-8 assay and flow cytometry.
+ Inflammatory cytokines' mRNA expression and production were assessed by
+ western blot and ELISA. Western blot was utilized to distinguish apoptosis
+ and immune-related factors expression. Sequentially, the abovementioned
+ parameters were reassessed when miR-429 was overexpressed. LPS declined
+ viability as well as raised apoptosis and inflammatory injury in H9c2 cells.
+ SW alleviated apoptosis and inflammatory injury induced by LPS. MiR-429
+ expression was elevated by LPS and suppressed by SW. SW-induced the
+ increasing of viability and the reduction of inflammatory injury were
+ reversed by overexpression of miR-429. Eventually, SW inhibited
+ p38MAPK/NF-kappaB pathway which activated by LPS via overexpressing miR-429.
+ SW exerted its anti-apoptosis and anti-inflammatory function in LPS-treated
+ H9c2 cells through p38MAPK/NF-kappaB pathway and down-regulation of miR-429.",
+    pmid 31876239,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,143 @@
+
+Pubmed-entry ::= {
+  pmid 31643094,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Circular RNA circC3P1 restrains kidney cancer cell activity by
+ regulating miR-21/PTEN axis and inactivating PI3K/AKT and NF- kB pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen T",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Yu Q",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Xin L",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Guo L",
+            affil str "Department of Urology, The Affiliated Hospital of
+ Qingdao University, Qingdao, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 4
+          },
+          volume "235",
+          issue "4",
+          pages "4001-4010",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31643094,
+        doi "10.1002/jcp.29296",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.29296"
+        }
+      }
+    },
+    abstract "Kidney cancer (KC) seriously impacts public health. We detected
+ the function and mechanism of circular RNA C3P1 (circC3P1) in KC cells.
+ CCK-8, flow cytometry, migration, and invasion assay were respectively used
+ to investigate the efficacies of circC3P1 and microRNA (miR)-21 on cell
+ viability, apoptosis, migration, and invasion. Phosphatase and tensin
+ homologue deleted on chromosome 10 (PTEN), circC3P1, and miR-21 expression
+ were changed by cell transfection and detected by quantitative
+ reverse-transcription polymerase chain reaction. Moreover, the
+ apoptosis/pathways-related proteins and proteins were detected by western
+ blot analysis. Besides, the relation between PTEN and miR-21 was detected by
+ luciferase assay. circC3P1 and PTEN were downregulated while miR-21 was
+ upregulated in KC tissues. circC3P1 declined cell viability, migration, and
+ invasion and caused apoptosis. Furthermore, circC3P1 negatively regulated
+ miR-21; miR-21 mimic could reverse the efficacies of circC3P1. Besides,
+ circC3P1 restrained the PI3K/AKT and NF-kappaB pathways by downregulating
+ miR-21. Finally, PTEN was authenticated as a target of miR-21. circC3P1
+ restrained KC cell growth, migration, and invasion by regulating miR-21/PTEN
+ axis and inactivating PI3K/AKT and NF-kappaB signaling pathways.",
+    pmid 31643094,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

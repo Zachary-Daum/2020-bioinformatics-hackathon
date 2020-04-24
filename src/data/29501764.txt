@@ -1,0 +1,368 @@
+
+Pubmed-entry ::= {
+  pmid 29501764,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sinomenine inhibits lipopolysaccharide-induced inflammatory
+ injury by regulation of miR-101/MKP-1/JNK pathway in keratinocyte cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu S",
+            affil str "Department of Dermatology, Jining No. 1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Man Y",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Zhao L",
+            affil str "Department of Dermatology, Jining No. 1 People's
+ Hospital, Jining 272011, Shandong, China. Electronic address:
+ gambleRowe.tn023164@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "101",
+          pages "422-429",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29501764,
+        pii "S0753-3322(17)36501-0",
+        doi "10.1016/j.biopha.2018.02.086",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36501-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.02.086"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Recent studies have demonstrated that Sinomenine
+ (SIN) exerted anti-inflammatory effect in various immune-related diseases.
+ However, the effect of SIN on glucocorticoids dermatitis has not been
+ investigated. In our study, we aimed to explore the effect of SIN on
+ lipopolysaccharide (LPS)-induced inflammatory injury in HaCaT cells.
+ MATERIALS AND METHODS: We constructed an inflammatory injury model of
+ LPS-induced HaCaT cells, then SIN was added to LPS-treated cells, cell
+ viability, apoptosis, apoptosis-associated factors and inflammatory cytokines
+ were detected by CCK-8, flow cytometry, western blot, qRT-PCR and ELISA.
+ Subsequently, miR-101 mimic and mimic control were transfected into HaCaT
+ cells to investigate the effect of SIN and miR-101 on LPS-induced cells
+ injury. Furthermore, MKP-1 and JNK signal pathways were measured by qRT-PCR
+ and western blot. Finally, the animal experiment was performed to further
+ clarify the effect of SIN on inflammatoty injury. RESULTS: LPS suppressed
+ cell viability, promoted apoptosis and increased IL-6, IL-8 and TNF-alpha
+ expressions and secretions in HaCaT cells. SIN significantly alleviated
+ LPS-induced HaCaT cells injury. Additionally, SIN down-regulated miR-101
+ expression, and the protective effect of SIN on LPS-induced inflammatory
+ injury was abolished by miR-101 overexpression. Besides, SIN promoted MKP-1
+ expression by down-regulation of miR-101, and SIN inhibited JNK signal
+ pathway by up-regulation of MKP-1 expression in LPS-treated HaCaT cells.
+ Animal experiments revealed that SIN exhibited anti-inflammatory effects in
+ vivo. CONCLUSIONS: The data indicated that SIN attenuated LPS-induced
+ inflammatory injury by regulation of miR-101, MKP-1 and JNK pathway. These
+ findings might provide a novel method for treatment of glucocorticoids
+ dermatitis.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dual Specificity Phosphatase 1",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Guinea Pigs"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-8",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Morphinans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Interleukin-8"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN101 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Morphinans"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "63LT81K70N",
+        name "sinomenine"
+      },
+      {
+        type ec,
+        cit "3.1.3.48",
+        name "DUSP1 protein, human"
+      },
+      {
+        type ec,
+        cit "3.1.3.48",
+        name "Dual Specificity Phosphatase 1"
+      }
+    },
+    pmid 29501764,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

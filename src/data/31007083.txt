@@ -1,0 +1,294 @@
+
+Pubmed-entry ::= {
+  pmid 31007083,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knocking down miR-384 promotes growth and metastasis of
+ osteosarcoma MG63 cells by targeting SLBP."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "a Department of Orthopedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Huang H",
+            affil str "a Department of Orthopedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Li Y",
+            affil str "b Department of Radiology , China-Japan Union Hospital
+ of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1458-1465",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31007083,
+        doi "10.1080/21691401.2019.1601099",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1601099"
+        }
+      }
+    },
+    abstract "Osteosarcoma is a common malignant bone tumour in adolescents
+ and old people, with highly invasive and metastatic features and poor
+ prognosis. This study aimed to explore the role of miR-384 in osteosarcoma
+ MG63 cells by targeting SLBP. Cell viability, migration and invasion,
+ apoptosis, as well as apoptosis-related factors were evaluated by CCK-8
+ assay, Transwell assay, flow cytometer and Western blotting, respectively.
+ Dual-luciferase reporter assay was used to determine the target of miR-384.
+ SLBP level was analyzed using qRT-PCR and Western blotting. Important factors
+ of MEK/ERK and PI3K/AKT signalling pathways were analyzed using Western
+ blotting. We found that miR-384 was down-regulated in osteosarcoma tissue
+ samples and cell lines (MG63, U2OS and OS732). miR-384 overexpression
+ inhibited viability, migration and invasion, but promoted apoptosis of MG63
+ cells; whereas, miR-384 silence exhibited the contrary effects on MG63 cells.
+ SLBP was a target of miR-384. Knockdown of SLBP reversed the promoting effect
+ of miR-384 silence on cells, indicating that miR-384 silence promoted growth
+ and metastasis of MG63 cells by up-regulating SLBP. In conclusion, knocking
+ down miR-384 promoted the growth and metastasis of osteosarcoma MG63 cells by
+ up-regulating SLBP. To conclude, miR-384-SLBP may be a potential therapeutic
+ target for osteosarcoma therapy.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Nuclear Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      },
+      {
+        term "mRNA Cleavage and Polyadenylation Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN384 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Nuclear Proteins"
+      },
+      {
+        type nameonly,
+        name "SLBP protein, human"
+      },
+      {
+        type nameonly,
+        name "mRNA Cleavage and Polyadenylation Factors"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      }
+    },
+    pmid 31007083,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

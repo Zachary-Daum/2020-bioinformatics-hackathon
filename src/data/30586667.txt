@@ -1,0 +1,281 @@
+
+Pubmed-entry ::= {
+  pmid 30586667,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Salidroside protects ATDC5 cells against
+ lipopolysaccharide-induced injury through up-regulation of microRNA-145 in
+ osteoarthritis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu M",
+            affil str "Department of Ultrasonography, China-Japan Union
+ Hospital of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Liu W",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Wang W",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China. Electronic address:
+ wangwenjun0053@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "67",
+          pages "441-448",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 12,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30586667,
+        pii "S1567-5769(18)30498-3",
+        doi "10.1016/j.intimp.2018.12.041",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(18)30498-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2018.12.041"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteoarthritis (OA) is a kind of degenerative
+ disease characterized by the degeneration of the articular cartilage.
+ Salidroside (SAL) is an active component of Rhodiola rosea L., which exhibits
+ diverse pharmacological effects in different diseases. However, the effects
+ of SAL on OA remain largely unclear. The study aimed to investigate the roles
+ of SAL in lipopolysaccharides (LPS)-induced inflammatory injury in murine
+ ATDC5 chondrocyte cells. METHODS: LPS induced ATDC5 cell injury model was
+ constructed by determining cell viability, apoptosis, apoptosis-associated
+ factors as well as inflammatory cytokines expressions and concentrations.
+ Then, the various concentrations of SAL were used to treat ATDC5 cells, and
+ the effect of SAL on LPS-induce inflammatory injury was detected. After
+ treatment with SAL, the expression level of miR-145 was measured by qRT-PCR.
+ Subsequently, miR-145 inhibitor and corresponding control were transfected
+ into ATDC5 cells to explore the influences of miR-145 in LPS-induce
+ inflammatory injury. Besides, the key signaling pathways of NF-kappaB and
+ p38MAPK were analyzed by using western blot. RESULTS: LPS inhibited cell
+ viability, induced apoptosis, activated cleaved-caspase-3/-9 expression, as
+ well as increased IL-6, MCP-1 and TNF-alpha expressions and secretions in
+ ATDC5 cells. SAL significantly alleviated LPS-induced inflammatory injury.
+ Meanwhile, the expression of miR-145 was up-regulated by SAL. The protective
+ effect of SAL on LPS-induced injury was obviously reversed by miR-145
+ inhibition. Furthermore, SAL inactivated NF-kappaB and p38MAPK signaling
+ pathways by regulating miR-145. CONCLUSIONS: These findings suggested that
+ SAL could protect ATDC5 cells against LPS-induced injury via up-regulation of
+ miR-145 in ATDC5 chondrocyte cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type cas,
+        cit "M983H6N1S9",
+        name "rhodioloside"
+      }
+    },
+    pmid 30586667,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,140 @@
+
+Pubmed-entry ::= {
+  pmid 31886569,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Circular RNA circMTO1 acts as an antitumor factor in rectal
+ cancer cell lines by downregulation of miR-19b-3p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fan M",
+            affil str "Department of Anorectal Surgery, Affiliated Hospital of
+ Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Anorectal Branch, Jining Hospital of TCM,
+ Jining, Shandong, China."
+          },
+          {
+            name ml "Gao S",
+            affil str "Department of Anorectal Surgery, Affiliated Hospital of
+ Jining Medical University, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12,
+            day 30
+          },
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 7,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 12,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31886569,
+        doi "10.1002/jcb.29570",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.29570"
+        }
+      }
+    },
+    abstract "Rectal cancer is the frequent malignant tumor of the digestive
+ tract. It has a strong ability to invade and metastasize, a poor clinical
+ prognosis and a high recurrence rate. Circular RNA mitochondrial translation
+ optimization 1 homolog (circMTO1) exerts functions of regulating tumor
+ development. Thus, we aimed to investigate the roles and mechanisms of
+ circMTO1 in rectal cancer. Cell activity, proliferation, migration, and
+ incursion were tested through cell counting kit-8, bromodeoxyuridine, flow
+ cytometry, transwell, and BioCoat Matrigel Invasion Chambers, separately.
+ Expression of circMTO1 and other relative factors was tested through
+ quantitative reverse transcription-polymerase chain reaction (qRT-PCR) and
+ Western blot. qRT-PCR revealed that circMTO1 expression was notably reduced
+ in rectal cancer tissues. Overexpression of circMTO1 was established in SW837
+ and SNU-61 cells. Then we found that circMTO1 overexpression could suppress
+ cell proliferation, migration, and incursion and induce apoptosis through
+ downregulating miR-19b-3p. However, these trends were opposite in both cells
+ when circMTO1 was knocked down. Besides, circMTO1 overexpression inhibited
+ Janus kinase 1 (JAK1)/signal transducer and activator of transcription 3
+ (STAT3) and AMP-activated protein kinase (AMPK) signal pathways via
+ negatively regulating miR-19b-3p to play its antitumor roles. circMTO1 acted
+ as a tumor inhibitor influencing the growth, migration, and incursion of
+ rectal cancer cells and JAK1/STAT3 and AMPK signal pathways through
+ downregulating miR-19b-3p.",
+    pmid 31886569,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

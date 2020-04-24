@@ -1,0 +1,371 @@
+
+Pubmed-entry ::= {
+  pmid 29960169,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Angelica sinensis polysaccharide protects rat cardiomyocytes
+ H9c2 from hypoxia-induced injury by down-regulation of microRNA-22."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pan H",
+            affil str "Department of Cardiology, Affiliated Hospital of Jining
+ Medical University, Jining, Shandong 272000, China."
+          },
+          {
+            name ml "Zhu L",
+            affil str "Department of Cardiology, Affiliated Hospital of Jining
+ Medical University, Jining, Shandong 272000, China. Electronic address:
+ zhulinlin64@yeah.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "106",
+          pages "225-231",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 6,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 6,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29960169,
+        pii "S0753-3322(18)33780-6",
+        doi "10.1016/j.biopha.2018.06.120",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)33780-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.06.120"
+        }
+      }
+    },
+    abstract "BACKGROUND: The cardioprotective role of Angelica sinensis has
+ been proven in previous studies. However, the effects of Angelica sinensis
+ polysaccharide (ASP, major bioactive component of Angelica sinensis) on
+ myocardial infarction (MI) remain unclear. This study aimed to investigate
+ the effects of ASP on hypoxia-induced H9c2 cell injury as well as the
+ underlying mechanisms. METHODS: We constructed in vitro hypoxic model to
+ mimic MI. Cell viability, proliferation and apoptosis were respectively
+ measured by using CCK-8 assay, Western blot analysis, and flow cytometry
+ assay/Western blot analysis, to evaluate cell injury after treatments. The
+ effects of ASP pretreatment on hypoxia-induced injury were explored.
+ Expression of miR-22 after treatments was determined by stem-loop RT-PCR, and
+ whether ASP affected H9c2 cells via miR-22 was studied. Involvements of the
+ PI3K/AKT and JAK1/STAT3 pathways were finally explored. RESULTS:
+ Hypoxia-induced decreases of cell viability and proliferation as well as
+ increase of apoptosis were attenuated by ASP pretreatments. Hypoxia treatment
+ up-regulated miR-22 expression, and the up-regulation was mitigated by ASP
+ pretreatment. Effects of ASP pretreatment on hypoxia-treated H9c2 cells were
+ mitigated by miR-22 overexpression while were augmented by miR-22 inhibition.
+ Phosphorylation levels of PI3K, AKT, JAK1 and STAT3 were increased by ASP
+ through down-regulating miR-22 in hypoxia-treated H9c2 cells. CONCLUSION: ASP
+ pretreatment attenuated hypoxia-induced H9c2 cell injury, possibly through
+ down-regulating miR-22 expression. The PI3K/AKT and JAK1/STAT3 pathways were
+ activated by ASP pretreatment via miR-22 in hypoxia-treated cells.",
+    mesh {
+      {
+        mp TRUE,
+        term "Angelica sinensis",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection"
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Janus Kinase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phytotherapy"
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Plants, Medicinal"
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN22 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "STAT3 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.137",
+        name "Phosphatidylinositol 3-Kinase"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Jak1 protein, rat"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 29960169,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,153 @@
+
+Pubmed-entry ::= {
+  pmid 31935379,
+  medent {
+    em std {
+      year 2020,
+      month 1,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of long non-coding RNA CCAT1 suppresses proliferation
+ and EMT of human cervical cancer cell lines by down-regulating Runx2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li R",
+            affil str "Department of Obstetrics and Gynecology, The Affiliated
+ Hospital of Jilin Medical University, Jilin 132013, China. Electronic
+ address: ruiiping77li@163.com."
+          },
+          {
+            name ml "Liu J",
+            affil str "Department of Gynecology, Jilin Provincial Cancer
+ Hospital, Changchun 130000, China."
+          },
+          {
+            name ml "Qi J",
+            affil str "Department of Gynecology, Jilin Provincial Cancer
+ Hospital, Changchun 130000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 4
+          },
+          volume "113",
+          pages "104380",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 8,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2020,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2020,
+                month 1,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31935379,
+        pii "S0014-4800(19)30595-7",
+        doi "10.1016/j.yexmp.2020.104380",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(19)30595-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2020.104380"
+        }
+      }
+    },
+    abstract "BACKGROUND: Cervical cancer (CC) is one of the common malignant
+ tumors in women. CCAT1 is a novel lncRNA and its knockdown can inhibit
+ viability, migration and invasion in CC cells. Here, we aimed to further
+ explore the roles of CCAT1 knockdown and underlying mechanism to provide
+ theoretical support for the application of CCAT1 knockdown in treating CC.
+ METHODS: The expression level of CCAT1 in CC tissues was examined by using
+ qRT-PCR. Si-CCAT1, pc-Runx2 and relative control were transfected into HeLa
+ and SiHa cells to explore the functional mechanism of CCAT1. The effects of
+ CCAT1 on cell proliferation, apoptosis, migration and invasion were examined
+ via BrdU incorporation assay, flow cytometry and transwell assay. The
+ expression of Runx2 and other relative factors was examined via qRT-PCR and
+ western blot analysis. RESULTS: Our findings indicated that CCAT1 was highly
+ expressed in CC tissues contrasted with adjacent tissues. The proliferation,
+ migration, invasion and epithelial-mesenchymal transition (EMT) were
+ suppressed, while the apoptosis was promoted by CCAT1 knockdown. Moreover,
+ knockdown of CCAT1 could negatively regulate Runx2 to play anti-tumor roles
+ in HeLa and SiHa cells. Further, CCAT1 knockdown could suppress PI3K/AKT
+ signal pathway. CONCLUSION: Knockdown of CCAT1 suppressed proliferation, EMT,
+ migration and invasion in HeLa and SiHa cells through down-regulating Runx2,
+ which provided theoretical support for its application in CC treatment.",
+    pmid 31935379,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

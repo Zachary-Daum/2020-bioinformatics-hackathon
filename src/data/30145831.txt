@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 30145831,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA MALAT1 alleviates lipopolysaccharide-induced
+ inflammatory injury by upregulating microRNA-19b in murine chondrogenic ATDC5
+ cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pan L",
+            affil str "Department of Rheumatology, Qilu Hospital of Shandong
+ University, Jinan, China.; Department of Rheumatology and Clinical
+ Immunology, The Affiliated Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Liu D",
+            affil str "Department of Hand and Foot Surgery, Qilu Hospital of
+ Shandong University (Qingdao), Qingdao, China."
+          },
+          {
+            name ml "Zhao L",
+            affil str "Department of Rheumatology and Clinical Immunology, The
+ Affiliated Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Wang L",
+            affil str "Department of Rheumatology and Clinical Immunology, The
+ Affiliated Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Xin M",
+            affil str "Department of Rheumatology and Clinical Immunology, The
+ Affiliated Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Rheumatology, Qilu Hospital of Shandong
+ University, Jinan, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "119",
+          issue "12",
+          pages "10165-10175",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30145831,
+        doi "10.1002/jcb.27357",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27357"
+        }
+      }
+    },
+    abstract "Osteoarthritis is the most frequent chronic bone-joint disease
+ in middle-aged and older people worldwide. This study investigated the
+ effects of long noncoding RNA metastasis-associated lung adenocarcinoma
+ transcript 1 (MALAT1) on lipopolysaccharide (LPS)-induced murine chondrogenic
+ ATDC5 cell inflammatory injury. Cell viability and apoptosis were assessed
+ using cell counting kit-8 assay and annexin V-phycoerythrin (PE) staining,
+ respectively. The expression levels of interleukin-1beta (IL)-1beta, IL-6,
+ IL-8, tumor necrosis factor alpha (TNF-alpha), MALAT1, and microRNA-19b
+ (miR)-19b were measured using quantitative reverse-transcription polymerase
+ chain reaction. Enzyme-linked immunosorbent assay was conducted to detect the
+ concentrations of IL-1beta, IL-6, IL-8, and TNF-alpha in culture supernatant
+ of ATDC5 cells. Expressions of key factors involved in cell apoptosis,
+ proinflammatory response, Wnt/beta-catenin, and nuclear factor kappaB
+ (NF-kappaB) pathways were analyzed using Western blot analysis. We found that
+ LPS treatment remarkably induced ATDC5 cell apoptosis and inflammatory
+ injury. MALAT1 was upregulated in LPS-stimulated ATDC5 cells. Overexpression
+ of MALAT1 significantly reversed the LPS-induced ATDC5 cell inflammatory
+ injury, while suppression of MALAT1 had opposite effects. Further results
+ showed that MALAT1 positively regulated the expression of miR-19b in ATDC5
+ cells. Knockdown of miR-19b reversed the protective effect of MALAT1 on
+ LPS-induced ATDC5 cells. In addition, MALAT1 reduced LPS-induced
+ Wnt/beta-catenin and NF-kappaB pathways activation in ATDC5 cells by
+ upregulating miR-19. To conclude, our research verified that MALAT1
+ alleviated LPS-induced ATDC5 cell inflammatory injury by upregulating miR-19b
+ and inactivating Wnt/beta-catenin and NF-kappaB pathways. This finding will
+ be helpful for further understanding the critical roles of MALAT1 and miR-19b
+ in osteoarthritis and may provide possible targets for osteoarthritis
+ diagnosis and treatment.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Chondrogenesis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN19 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "Malat1 long non-coding RNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30145831,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

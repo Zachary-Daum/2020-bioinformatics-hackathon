@@ -1,0 +1,311 @@
+
+Pubmed-entry ::= {
+  pmid 31299866,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Involvement of NORAD/miR-608/STAT3 axis in carcinostasis effects
+ of physcion 8-O-beta-glucopyranoside on ovarian cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang X",
+            affil str "a Department of Reproductive Medical Center, Renmin
+ Hospital of Wuhan University , Wuhan , China."
+          },
+          {
+            name ml "Yan Y",
+            affil str "b Department of Endocrinology, Xiaogan Central Hospital
+ Affiliated to Wuhan University of Science and Technology , Xiaogan , China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "c Department of Obstetrics and Gynecology, Xiaogan
+ Central Hospital Affiliated to Wuhan University of Science and Technology ,
+ Xiaogan , China."
+          },
+          {
+            name ml "Li J",
+            affil str "c Department of Obstetrics and Gynecology, Xiaogan
+ Central Hospital Affiliated to Wuhan University of Science and Technology ,
+ Xiaogan , China."
+          },
+          {
+            name ml "Yang J",
+            affil str "a Department of Reproductive Medical Center, Renmin
+ Hospital of Wuhan University , Wuhan , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2855-2865",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31299866,
+        doi "10.1080/21691401.2019.1637884",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1637884"
+        }
+      }
+    },
+    abstract "We planned to dig the carcinostasis activity of physcion
+ 8-O-beta-glucopyranoside (PG) in ovarian cancer cells and explored whether
+ long non-coding RNA NORAD was the potential cause of the carcinostasis impact
+ of PG. The impacts of PG on the tumour cell behaviours (including cell
+ viability, apoptosis, migration and invasion) of SKOV3 cells were grabbed.
+ The levels of NORAD in cancer tissues and cell lines were determined;
+ afterwards, the impacts of abnormal expression of NORAD on the tumour cell
+ behaviours of SKOV3 cells were assessed. Moreover, we explored whether NORAD
+ modulated the level of STAT3 by competitively sponging miR-608, thus
+ mediating the antineoplastic effects of PG on ovarian cancer cells. PG
+ suppressed cell viability, enhanced apoptosis and lessened migration and
+ invasion of SKOV3 cells. NORAD was upregulated in ovarian cancer tissues and
+ cells. Silencing of NORAD lessened cell viability, migration and invasion,
+ but induced apoptosis of SKOV3 cells, whereas overexpression of NORAD had
+ opposite effects. Moreover, PG decreased the expression of NORAD.
+ Overexpression of NORAD reversed the effects of PG treatment on the cell
+ biological performances of SKOV3 cells, which were further reversed after
+ overexpression of miR-608 simultaneously. Furthermore, STAT3 was tested as a
+ target gene of miR-608, and the impact of NORAD in PG-treated SKOV3 cells
+ were through the miR-608-mediated STAT3. Our findings reveal that
+ NORAD/miR-608/STAT3 axis is pivotal in mediating the antineoplastic impacts
+ of PG on ovarian cancer cells, which may offer a novel explanation in the
+ therapy of ovarian cancer.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Emodin",
+        qual {
+          {
+            mp TRUE,
+            subh "analogs & derivatives"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Ovarian Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "MIRN608 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NORAD long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "STAT3 protein, human"
+      },
+      {
+        type nameonly,
+        name "physcion 8-O-glucopyranoside"
+      },
+      {
+        type cas,
+        cit "KA46RNI6HN",
+        name "Emodin"
+      }
+    },
+    pmid 31299866,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

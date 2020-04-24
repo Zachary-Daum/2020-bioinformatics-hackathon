@@ -1,0 +1,298 @@
+
+Pubmed-entry ::= {
+  pmid 29913408,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tripterine alleviates LPS-induced inflammatory injury by
+ up-regulation of miR-146a in HaCaT cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xiong Y",
+            affil str "Department of Dermatology, Linyi People's Hospital,
+ Linyi 276000, Shandong, China."
+          },
+          {
+            name ml "Yan Y",
+            affil str "Department of Dermatology, Linyi People's Hospital,
+ Linyi 276000, Shandong, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Dermatology, Linyi People's Hospital,
+ Linyi 276000, Shandong, China. Electronic address: liyuzhu0126@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "105",
+          pages "798-804",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29913408,
+        pii "S0753-3322(18)30675-9",
+        doi "10.1016/j.biopha.2018.05.008",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30675-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.05.008"
+        }
+      }
+    },
+    abstract "BACKGROUND: Corticosteroid-dependent dermatitis (CDD) is an
+ inflammation caused by long-term repeated inappropriate external use of
+ corticosteroids. Tripterine is a natural product from the root of
+ Tripterygium wilfordii Hook.f. This study aimed to explore the effect and
+ mechanism of tripterine on LPS-induced inflammatory injury in HaCaT cells.
+ METHODS: In this study, different concentrations (0, 1, 2, 3 and 4muM) of
+ tripterine and 10muM of LPS were used to treat HaCaT cells. The expression of
+ miR-146a was altered by transfection. Cell viability, apoptosis, and the
+ release of pro-inflammatory cytokines (IL-6 and TNF-alpha) were detected by
+ CCK-8, flow cytometry analysis, qRT-PCR and ELISA, respectively. The
+ expression levels of apoptosis-related and JNK/ NF-kappaB-related proteins
+ were tested by western blotting. RESULTS: We found that 3 and 4muM of
+ tripterine significantly decreased cell viability. Tripterine alleviated
+ LPS-induced reduction of cell viability, increase of apoptosis and the
+ release of IL-6 and TNF-alpha in HaCaT cells. miR-146a was down-regulated by
+ LPS exposure, while tripterine attenuated this impact. Further, inhibition of
+ miR-146a abolished the protective effect of tripterine on cell damage
+ triggered by LPS. Finally, tripterine deactivated JNK and NF-kappaB pathways
+ through up-regulation of miR-146a. CONCLUSION: These results demonstrated
+ that tripterine could attenuate LPS-induced inflammatory injury and
+ deactivate JNK and NF-kappaB pathways by up-regulation of miR-146a. This
+ study will provide a theoretical basis for further study of tripterine in CDD.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation"
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "MAP Kinase Kinase 4",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Triterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN146 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Triterpenes"
+      },
+      {
+        type ec,
+        cit "2.7.12.2",
+        name "MAP Kinase Kinase 4"
+      },
+      {
+        type cas,
+        cit "L8GG98663L",
+        name "tripterine"
+      }
+    },
+    pmid 29913408,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,359 @@
+
+Pubmed-entry ::= {
+  pmid 28391160,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA PVT1 promote LPS-induced septic acute kidney
+ injury by regulating TNFalpha and JNK/NF-kappaB pathways in HK-2 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang W",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China."
+          },
+          {
+            name ml "Lan X",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China."
+          },
+          {
+            name ml "Wang D",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China."
+          },
+          {
+            name ml "Sun Y",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China."
+          },
+          {
+            name ml "Wang Q",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China."
+          },
+          {
+            name ml "Gao H",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China."
+          },
+          {
+            name ml "Yu K",
+            affil str "Department of Intensive Care Unit, The Affiliated Tumor
+ Hospital of Harbin Medical University, Harbin, Heilongjiang 150081, China.
+ Electronic address: shuiqinghu11@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "47",
+          pages "134-140",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 3,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28391160,
+        pii "S1567-5769(17)30131-5",
+        doi "10.1016/j.intimp.2017.03.030",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(17)30131-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2017.03.030"
+        }
+      }
+    },
+    abstract "This study aimed to investigate the effect and underlying
+ mechanism of long non-coding RNA plasmacytoma variant translocation 1 (PVT1)
+ in lipopolysaccharide (LPS)-induced inflammation injury in HK-2 cells. We
+ established LPS-induced septic acute kidney injury (AKI) model in HK-2 cells.
+ LPS-induced HK-2 cells were transfected with pc-PVT1, pc-NC, si-PVT1 or
+ si-NC. Cell viability and apoptosis rate were detected by MTT assay and
+ Annexin V-FITC/PI Apoptosis Detection kit, respectively. The relationships of
+ PVT1 and inflammatory factors were evaluated by RNA Immunoprecipitation (RIP)
+ assay. The levels of inflammatory factors, apoptosis-related proteins and the
+ expressions of proteins related to c-Jun N-terminal kinase (JNK) and nuclear
+ factor-kappaB (NF-kappaB) signaling pathway were detected by ELISA or Western
+ blotting. Compared with cells with pc-NC, cell viability was remarkably
+ decreased and cell apoptosis rate was increased in LPS-induced cells with
+ pc-PVT1 (p<0.05). The levels of tumor necrosis factor-alpha (TNF-alpha),
+ interleukin-6 (IL-6) and IL-1beta were significantly increased in LPS-induced
+ cells with pc-PVT1 compared with cells with pc-NC (p<0.05). All these changes
+ were reversed in LPS-induced cells with si-PVT1 and si-NC (p<0.05). RTP assay
+ revealed that PVT1 could bind to TNF-alpha. Furthermore, down-regulated PVT1
+ remarkably reduced the expressions of p-JNK and p-c-Jun, p-IkappaBalpha and
+ p-p65 (p<0.05); while increased expressions of these proteins and
+ inflammatory factors induced by up-regulated PVT1 were reversed by JNK or
+ NF-kappaB inhibitors. PVT1 may promote inflammatory response by binding to
+ TNF-alpha and inhibiting JNK/NF-kappaB signaling pathway in LPS-induced
+ septic AKI cells.",
+    mesh {
+      {
+        term "Acute Kidney Injury",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunomodulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Inflammation"
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Kidney",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Kinase 4",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sepsis",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "PVT1 long-non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "2.7.12.2",
+        name "MAP Kinase Kinase 4"
+      }
+    },
+    pmid 28391160,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

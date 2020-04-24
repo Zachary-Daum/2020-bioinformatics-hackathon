@@ -1,0 +1,335 @@
+
+Pubmed-entry ::= {
+  pmid 30119240,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Luteolin alleviates LPS-induced bronchopneumonia injury in vitro
+ and in vivo by down-regulating microRNA-132 expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu X",
+            affil str "Department of Pediatrics, Jining First People's
+ Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Meng J",
+            affil str "Department of Pediatrics, Jining First People's
+ Hospital, Jining 272011, Shandong, China. Electronic address:
+ mengjie0852@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "106",
+          pages "1641-1649",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 7,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 7,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30119240,
+        pii "S0753-3322(17)36439-9",
+        doi "10.1016/j.biopha.2018.07.094",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36439-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.07.094"
+        }
+      }
+    },
+    abstract "Bronchopneumonia is a common multiple infection disease under 2
+ years old. Luteolin is a natural flavonoid widely distributed in plants with
+ anti-inflammatory effect. This study aimed to explore the effects of luteolin
+ on lipopolysaccharide (LPS)-induced bronchopneumonia injury in vitro and in
+ vivo. Firstly, the viability and apoptosis of human bronchial epithelial
+ BEAS-2B cells after luteolin treatment were assessed. Then, cells were
+ treated with 10 muM LPS to simulate inflammatory injury. The potential
+ protective effects of luteolin on LPS-induced BEAS-2B cell inflammatory
+ injury were detected. Moreover, after LPS and/or luteolin treatment, the
+ expression of microRNA-132 (miR-132) in BEAS-2B cells was measured. The roles
+ of miR-132 in protective activity of luteolin were investigated. Finally, the
+ LPS-induced bronchopneumonia murine model was established and the
+ anti-inflammatory effects of luteolin in vivo were analyzed. The results
+ showed that LPS decreased BEAS-2B cell viability, increased cell apoptosis
+ and enhanced inflammatory cytokines expression. Luteolin alleviated the
+ LPS-induced viability loss, apoptosis and elevated expression of inflammatory
+ cytokines in a dose-dependent manner. Moreover, luteolin alleviated the
+ LPS-induced miR-132 expression increase in BEAS-2B cells. Overexpression of
+ miR-132 reversed the protective effects of luteolin on LPS-induced
+ inflammatory injury. Mechanistically, luteolin mitigated LPS-induced
+ activation of NF-kappaB signaling pathway by down-regulation of miR-132.
+ Furthermore, we also found that luteolin alleviated LPS-induced
+ bronchopneumonia model in vivo. In conclusion, this study revealed that
+ luteolin alleviated LPS-induced bronchopneumonia injury in vitro and in vivo
+ through down-regulating miR-132. These findings provide theoretical basis for
+ deeply exploring the treatment of bronchopneumonia in children by using
+ luteolin.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Bronchopneumonia",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation Mediators",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Luteolin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice, Inbred ICR"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Inflammation Mediators"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN132 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN132 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "KUX1ZNC9J2",
+        name "Luteolin"
+      }
+    },
+    pmid 30119240,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

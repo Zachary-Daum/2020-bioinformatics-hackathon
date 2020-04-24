@@ -1,0 +1,324 @@
+
+Pubmed-entry ::= {
+  pmid 30909147,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Alkannin inhibits proliferation, migration and invasion of
+ hepatocellular carcinoma cells via regulation of miR-92a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun B",
+            affil str "Department of Hepatopancreatobiliary Surgery,
+ China-Japan Union Hospital of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Liu M",
+            affil str "Department of Ultrasound, China-Japan Union Hospital of
+ Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Guan L",
+            affil str "Department of Hepatopancreatobiliary Surgery,
+ China-Japan Union Hospital of Jilin University, Changchun 130033, China.
+ Electronic address: guanlianyue0158@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "114",
+          pages "108782",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30909147,
+        pii "S0753-3322(18)38670-0",
+        doi "10.1016/j.biopha.2019.108782",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)38670-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.108782"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Hepatocellular carcinoma (HCC) is a leading
+ cause of cancer-related death worldwide. In our study, we aimed to
+ investigate the effects of alkannin on HCC cells growth, migration and
+ invasion. METHODS: Huh7 and Hep3B2.1-7 cells were treated with alkannin.
+ Expression of miR-92a in cell was altered by transfection with miR-92a-mimic
+ (miR-92a-M) or miR-92a-inhibitor (miR-92a-I). Cell viability, proliferation,
+ apoptosis, migration and invasion were detected by Cell Counting Kit-8, BrdU
+ assay, flow cytometry, and transwell assay, respectively. The expression of
+ miR-92a was determined by quantitative real-time PCR. The expression of
+ proteins associated with proliferation, apoptosis and metastasis was measured
+ by Western blot. RESULTS: Alkannin decreased cell viability and
+ proliferation, executed cell apoptosis, and inhibited the migration and
+ invasion of Huh7 and Hep3B2.1-7 cells. Alkannin negatively regulated the
+ expression of miR-92a, and transfection with miR-92a-M impeded alkannin's
+ anti-tumor functions. PTEN and TP53INP1 were found to be target genes of
+ miR-92a. Alkannin inhibited PTEN-dependent PI3K/AKT pathway. Furthermore, the
+ biological effects of miR-92a-I in alkannin treated cells were eliminated by
+ PTEN silencing. CONCLUSION: Alkannin exerted anti-tumor activities by
+ downregulation of miR-92a. This process might be executed by inactivating
+ PTEN/PI3K/AKT signal pathways through the binding effects of miR-92a on PTEN.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Hepatocellular",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Naphthoquinones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "PTEN Phosphohydrolase",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN92 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Naphthoquinones"
+      },
+      {
+        type cas,
+        cit "075CRZ9995",
+        name "alkannin"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.1.3.67",
+        name "PTEN Phosphohydrolase"
+      }
+    },
+    pmid 30909147,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

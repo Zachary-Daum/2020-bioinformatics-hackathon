@@ -1,0 +1,287 @@
+
+Pubmed-entry ::= {
+  pmid 30822424,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Salidroside inhibits the growth, migration and invasion of Wilms
+' tumor cells through down-regulation of miR-891b."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li H",
+            affil str "Department of Pediatric Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Huang D",
+            affil str "Department of Emergency, Traditional Chinese Medicine
+ Hospital of Jining, Jining 272000, China."
+          },
+          {
+            name ml "Hang S",
+            affil str "Department of Pediatric Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China. Electronic address: hangshiying123@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4,
+            day 1
+          },
+          volume "222",
+          pages "60-68",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 2,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 2,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30822424,
+        pii "S0024-3205(19)30142-0",
+        doi "10.1016/j.lfs.2019.02.052",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)30142-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.02.052"
+        }
+      }
+    },
+    abstract "AIMS: Salidroside is a major functional component of Rhodiola
+ rosea L. with a lot of pharmacological effects, including anti-tumor. The
+ present work aimed to explore whether Salidroside could also exhibit
+ anti-tumor functions in Wilms' tumor. MAIN METHODS: WIT49 and RM1 cells were
+ treated by various doses of Salidroside. CCK-8 assay, flow cytometry
+ detection, colony formation assay, Transwell assay, RT-qPCR and Western blot
+ analysis were conducted to measure WIT49 and RM1 cells proliferation,
+ apoptosis, migration and invasion. The expression changes of miR-891b in
+ response to Salidroside treatment were tested by RT-qPCR. Rescue assays were
+ performed to test whether miR-891b was a downstream effector of Salidroside.
+ Finally, the involvement of PI3K/AKT/mTOR and NF-kappaB signaling pathways
+ was studied. KEY FINDINGS: Salidroside with concentration of 80muM
+ significantly reduced WIT49 and RM1 cells viability, survival capacity,
+ migration and invasion, and significantly induced apoptosis. Meanwhile,
+ down-regulation of Cyclin D1, MMP-2 and Vimentin, up-regulations of p53 and
+ p21, as well as cleavage of caspase-3 and -9 were observed in
+ Salidroside-treated cell. miR-891b was down-regulated by Salidroside. And
+ Salidroside did not suppress WIT49 and RM1 cells growth, migration and
+ invasion when miR-891b was overexpressed. Also, the deactivation of
+ PI3K/AKT/mTOR and NF-kappaB pathways induced by Salidroside was reversed by
+ miR-891b overexpression. SIGNIFICANCE: Salidroside inhibits Wilms' tumor
+ cells growth, migration and invasion via down-regulating miR-891b, which
+ leads to the deactivation of PI3K/AKT/mTOR and NF-kappaB signaling pathways.",
+    mesh {
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Wilms Tumor",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type cas,
+        cit "M983H6N1S9",
+        name "rhodioloside"
+      }
+    },
+    pmid 30822424,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

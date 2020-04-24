@@ -1,0 +1,273 @@
+
+Pubmed-entry ::= {
+  pmid 29057547,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of long non-coding RNA ANRIL inhibits proliferation,
+ migration, and invasion but promotes apoptosis of human glioma cells by
+ upregulation of miR-34a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dong X",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          },
+          {
+            name ml "Jin Z",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          },
+          {
+            name ml "Xu H",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          },
+          {
+            name ml "Ma C",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          },
+          {
+            name ml "Hong X",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          },
+          {
+            name ml "Zhao G",
+            affil str "Department of Neurosurgery, The First Hospital of Jilin
+ University, Changchun, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "119",
+          issue "3",
+          pages "2708-2718",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29057547,
+        doi "10.1002/jcb.26437",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26437"
+        }
+      }
+    },
+    abstract "Gliomas are the most common types of primary central nervous
+ system malignancy found in adults. Long non-coding RNA antisense non-coding
+ RNA in the INK4 locus (ANRIL) variants are associated with glioma and miR-34a
+ is markedly downregulated in U251 glioma cells. The 3'-untranslated region (3
+'UTR) of silent information regulator 1 (Sirt1) contains a conserved site that
+ is targeted directly by miR-34a. Therefore, in this study, we investigated
+ the roles of ANRIL, miR-34a, and Sirt1 in glioma and their potential
+ interactions. Firstly, expression of ANRIL in normal glia cells and five
+ glioma cell lines was measured. Then, effects of ANRIL suppression on cell
+ proliferation, apoptosis, migration and invasion of U251 cells as well as
+ expression of miR-34a were assessed. Meanwhile, effects of miR-34a on U251
+ cells silencing ANRIL were tested. Whether Sirt1 is a target of miR-34a was
+ verified, followed by estimating the role of Sirt1 overexpression in U251
+ cells overexpressing miR-34a. Finally, the involved signaling pathways were
+ assessed. ANRIL was upregulated in glioma cells and its suppression inhibited
+ cell proliferation, migration and invasion but promoted cell apoptosis. ANRIL
+ acted as a sponge of miR-34a, and Sirt1 is a target of miR-34a. Then, Sirt1
+ was proved to function through activation of the PI3K/AKT and mTOR signaling
+ pathways. In conclusion, ANRIL was upregulated in glioma, and its inhibition
+ could repress cell proliferation, migration and invasion but inhibit cell
+ apoptosis through miR-34a-mediated downregulation of Sirt1, involving the
+ inactivation of the PI3K/AKT and mTOR pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Glioma"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "RNA, Neoplasm",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN34 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      }
+    },
+    pmid 29057547,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

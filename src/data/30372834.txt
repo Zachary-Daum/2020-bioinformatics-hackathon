@@ -1,0 +1,288 @@
+
+Pubmed-entry ::= {
+  pmid 30372834,
+  medent {
+    em std {
+      year 2018,
+      month 10,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Angelica polysaccharide protects PC-12 cells from
+ lipopolysaccharide-induced injury via down-regulating microRNA-223."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li R",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China."
+          },
+          {
+            name ml "Yin F",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China."
+          },
+          {
+            name ml "Guo Y",
+            affil str "Department of Blood Transfusion, The First Bethune
+ Hospital of Jilin University, Changchun, Jilin 130021, China."
+          },
+          {
+            name ml "Ruan Q",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China."
+          },
+          {
+            name ml "Zhu Q",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin 130033, China. Electronic address:
+ qingsanzhu0119@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "108",
+          pages "1320-1327",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 6,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 9,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 10,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 10,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30372834,
+        pii "S0753-3322(18)34023-X",
+        doi "10.1016/j.biopha.2018.09.147",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)34023-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.09.147"
+        }
+      }
+    },
+    abstract "BACKGROUND: Spinal cord injury (SCI) is a damage of spinal cord
+ that caused by trauma or diseases. Angelica Polysaccharide (AP) is one of the
+ most major active components isolated from the root of Angelica sinensis
+ (Oliv.) Diels. This study aimed to investigate the effects of AP on
+ lipopolysaccharide (LPS)-induced SCI cell injury model (PC-12 cell injury
+ model). METHODS: Cell viability was detected using cell counting kit-8
+ (CCK-8) assay. Cell apoptosis was assessed using Guava Nexin assay. qRT-PCR
+ was conducted to measure the expression of interleukin-1beta (IL-1beta),
+ IL-6, tumor necrosis factor-alpha (TNF-alpha) and microRNA-223 (miR-223).
+ Cell transfection was performed to up-regulate the expression of miR-223.
+ Finally, protein expression levels of key factors involved in cell apoptosis,
+ inflammatory reaction and nuclear factor kappa-B (NF-kappaB) pathway were
+ evaluated using western blotting. RESULTS: We found that AP pre-treatment or
+ post-treatment both significantly alleviated LPS-induced PC-12 cell viability
+ inhibition, apoptosis and the elevated expression of inflammatory cytokines.
+ Mechanistically, we revealed that AP pre-treatment attenuated LPS-induced
+ miR-223 expression level increase in PC-12 cells. Overexpression of miR-223
+ reversed the protective effects of AP pre-treatment on LPS-treated PC-12
+ cells. Furthermore, we pointed out that AP pre-treatment inactivated
+ NF-kappaB pathway in LPS-treated PC-12 cells by down-regulating miR-223.
+ CONCLUSION: AP protected PC-12 cells from LPS-induced inflammatory injury at
+ least partially by down-regulating miR-223 and then inactivating NF-kappaB
+ pathway. This study provides evidence for further understanding the
+ anti-inflammatory effects of AP and offers theoretical basis for deeply
+ exploring the prevention and treatment of SCI by using AP.",
+    mesh {
+      {
+        term "Angelica",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Spinal Cord Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN223 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      }
+    },
+    pmid 30372834,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

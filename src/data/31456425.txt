@@ -1,0 +1,293 @@
+
+Pubmed-entry ::= {
+  pmid 31456425,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The circular RNA hsa-circ-0072309 plays anti-tumour roles by
+ sponging miR-100 through the deactivation of PI3K/AKT and mTOR pathways in
+ the renal carcinoma cell lines."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen T",
+            affil str "Department of Urology, Affiliated Hospital of Qingdao
+ University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Shao S",
+            affil str "Department of Urology, Affiliated Hospital of Qingdao
+ University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Li W",
+            affil str "Department of Urology, Affiliated Hospital of Qingdao
+ University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Department of Urology, Affiliated Hospital of Qingdao
+ University , Qingdao , Shandong , China."
+          },
+          {
+            name ml "Cao Y",
+            affil str "Department of Urology, Affiliated Hospital of Qingdao
+ University , Qingdao , Shandong , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3638-3648",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31456425,
+        doi "10.1080/21691401.2019.1657873",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1657873"
+        }
+      }
+    },
+    abstract "Aims: To explore the roles and regulatory mechanisms of the
+ circular RNA (circRNA)-hsa-circ-0072309 in CAKI-1 and ACHN cells. Methods:
+ CAKI-1 and ACHN cells were transfected with hsa-circ-0072309 overproduction
+ vector (circRNA) and microRNA-100 (miR-100) mimic or the corresponding
+ controls. Cell viability was detected with the CCK-8. The protein expression
+ levels of p53, c-Myc, cleaved-caspase-3/9, matrix metalloproteinase
+ (MMP)-2/9, vimentin, AKT, PI3K and mTOR were individually determined through
+ western blot. qRT-PCR was used to examine the expressions of hsa-circ-0072309
+ and miR-100. The apoptotic rate and the migration or invasion rates were
+ separately determined by the annexin v-FITC/PI with a flow cytometer and
+ modified two-chamber migration assay or millicell hanging cell culture.
+ Results: The hsa-circ-0072309 was poorly expressed in tumor tissue. Abundant
+ hsa-circ-0072309 induced the inhibitions of cell proliferation, migration and
+ invasion, as well as the PI3K/AKT and the mTOR cascades but enhancement of
+ apoptosis. circRNA stimulated the down-regulation of miR-100, which was
+ low-expressed in tumour tissue and whose overproduction abolished the impacts
+ of circRNA on these elements mentioned above. Conclusion: The
+ hsa-circ-0072309 played anti-tumour roles by targeting miR-100 by blocking
+ the PI3K/AKT and mTOR cascades in the CAKI-1 and ACHN cell lines.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Renal Cell",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Enzyme Activation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kidney Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Circular",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN100 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Circular"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "MTOR protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31456425,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

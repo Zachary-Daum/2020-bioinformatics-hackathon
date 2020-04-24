@@ -1,0 +1,290 @@
+
+Pubmed-entry ::= {
+  pmid 30974101,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Anti-proliferation and anti-metastatic effects of sevoflurane on
+ human osteosarcoma U2OS and Saos-2 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gao K",
+            affil str "Department of Cardiovascular, Huai'an First People's
+ Hospital, Nanjing Medical University, Huai'an, Jiangsu 223300, P.R. China."
+          },
+          {
+            name ml "Su Z",
+            affil str "Department of Anesthesiology, Huai'an First People's
+ Hospital, Nanjing Medical University, Huai'an, Jiangsu 223300, P.R. China."
+          },
+          {
+            name ml "Liu H",
+            affil str "Department of Anesthesiology, Huai'an First People's
+ Hospital, Nanjing Medical University, Huai'an, Jiangsu 223300, P.R. China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Department of Anesthesiology, Huai'an First People's
+ Hospital, Nanjing Medical University, Huai'an, Jiangsu 223300, P.R. China.
+ Electronic address: liuyan9855@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "108",
+          pages "121-130",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 4,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30974101,
+        pii "S0014-4800(18)30339-3",
+        doi "10.1016/j.yexmp.2019.04.005",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30339-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.04.005"
+        }
+      }
+    },
+    abstract "Sevoflurane is a commonly used anesthetic in cancer surgery.
+ However, little information is available about the effects of sevoflurane on
+ the osteosarcoma cells. The present study explored the effects of sevoflurane
+ on the proliferation, migration and invasion of osteosarcoma cells, as well
+ as the underlying mechanism. Human osteosarcoma cell lines U2OS and Saos-2
+ were pretreated with different concentrations (2.5%, 5%, or 10%) or different
+ times (0, 2, 4 or 6h) of sevoflurane. Cell viability, proliferation,
+ migration, invasion and apoptosis were analyzed by MTT assay, Ki67 staining,
+ colony formation assay, wound healing scratch assay, transwell assays and
+ Annexin V-FITC/PI staining. Expression of key factors related to
+ proliferation, migration, apoptosis, epithelial-mesenchymal transition (EMT)
+ process and PI3K/AKT pathway were evaluated by western blotting. We found
+ that sevoflurane significantly inhibited U2OS and Saos-2 cell viability,
+ proliferation, migration and invasion, but induced cell apoptosis. Moreover,
+ sevoflurane obviously inactivated PI3K/AKT pathway in U2OS and Saos-2 cells.
+ Activator of PI3K/AKT pathway, insulin-like growth factor-1 (IGF-1) notably
+ weakened the effects of sevoflurane on U2OS and Saos-2 cell proliferation,
+ migration and apoptosis. Besides, sevoflurane suppressed EMT process in U2OS
+ and Saos-2 cells. To sum up, our results evidenced that sevoflurane exerted
+ anti-proliferative and anti-metastatic effects on osteosarcoma cells by
+ inactivating PI3K/AKT pathway.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sevoflurane",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "38LVP0K73A",
+        name "Sevoflurane"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30974101,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

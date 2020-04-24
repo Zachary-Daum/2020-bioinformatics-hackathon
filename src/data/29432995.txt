@@ -1,0 +1,294 @@
+
+Pubmed-entry ::= {
+  pmid 29432995,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA maternally expressed gene 3 knockdown
+ alleviates lipopolysaccharide-induced inflammatory injury by up-regulation of
+ miR-203 in ATDC5 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Z",
+            affil str "Department of Orthopedics, Jinan Central Hospital
+ Affiliated to Shandong University, Jinan, 250013, China."
+          },
+          {
+            name ml "Chi X",
+            affil str "Department of Health Management, Binzhou Medical
+ University Hospital, Binzhou, 256603, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Department of Health Management, Binzhou Medical
+ University Hospital, Binzhou, 256603, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Health Management, Binzhou Medical
+ University Hospital, Binzhou, 256603, China."
+          },
+          {
+            name ml "Mei X",
+            affil str "Department of Health Management, Binzhou Medical
+ University Hospital, Binzhou, 256603, China."
+          },
+          {
+            name ml "Yang Y",
+            affil str "Department of Orthopedics, Binzhou Medical University
+ Hospital, Binzhou, 256603, China."
+          },
+          {
+            name ml "Jia T",
+            affil str "Department of Orthopedics, Jinan Central Hospital
+ Affiliated to Shandong University, Jinan, 250013, China. Electronic address:
+ theresetorres2881@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "100",
+          pages "240-249",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29432995,
+        pii "S0753-3322(17)36234-0",
+        doi "10.1016/j.biopha.2018.02.018",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)36234-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.02.018"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteoarthritis (OA) is a common degenerative joint
+ disease, which seriously impacts the health of elderly. However, there is no
+ effective treatment for curing this disease until now. Numerous studies
+ reported that long noncoding RNAs (lncRNAs) are closely related to the
+ pathogenesis of OA. Therefore, the study aims to investigate the effect of
+ maternally expressed gene 3 (MEG3) on lipopolysaccharide (LPS)-induced
+ inflammatory injury of ATDC5 cells. METHODS: Different concentrations (0, 1,
+ 5, and 10mug/ml) of LPS were used to induce ATDC5 cells injury. The specific
+ expressing vectors were then transfected into ATDC5 cells to alter MEG3,
+ Sirt1 and miR-203 expressions. Flow cytometry, luciferase reporter, qRT-PCR
+ and western blot assays were used to detect cell viability, apoptosis, and
+ the expressions of apoptosis-related proteins and pro-inflammatory factors
+ (IL-1beta, IL-6, IL-8 and TNF-alpha). Meanwhile, ELISA was used for analyzing
+ the concentrations of inflammatory cytokines in culture supernatant. Besides,
+ the key pathways of PI3K/AKT and NF-kappaB were examined by western blot.
+ RESULTS: LPS decreased cell viability, increased cell apoptosis, promoted the
+ release of pro-inflammatory factors, and down-regulated MEG3 expression,
+ Moreover, MEG3 knockdown alleviated LPS-induced inflammatory injury. MEG3
+ acted as a competing endogenous RNAs (ceRNA) for miR-203, and MEG3 knockdown
+ reduced inflammatory injury by regulating miR-203. Furthermore, miR-203
+ positively regulated Sirt1 expression, and Sirt1 alleviated LPS-induced
+ inflammatory injury via mediating PI3K/AKT and NF-kappaB pathways.
+ CONCLUSION: This study showed that MEG3 knockdown alleviated LPS-induced
+ inflammatory injury in ATDC5 cells by regulating miR-203 expression. Hence,
+ the findings may offer a potential treatment perspective of OA.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MEG3 non-coding RNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MIRN203 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 29432995,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

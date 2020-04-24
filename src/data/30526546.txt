@@ -1,0 +1,302 @@
+
+Pubmed-entry ::= {
+  pmid 30526546,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Curcumin inhibits proliferation, migration, invasion and
+ promotes apoptosis of retinoblastoma cell lines through modulation of miR-99a
+ and JAK/STAT pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Y",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, Jilin, 130041, China."
+          },
+          {
+            name ml "Sun W",
+            affil str "Department of Gastroenterological Surgery, China-Japan
+ Union Hospital of Jilin University, Changchun, Jilin, 130033, China."
+          },
+          {
+            name ml "Han N",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, Jilin, 130041, China."
+          },
+          {
+            name ml "Zou Y",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, Jilin, 130041, China."
+          },
+          {
+            name ml "Yin D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, No.126, Xiantai Street, Changchun, Jilin,
+ 130033, China. yindx523@yeah.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12,
+            day 10
+          },
+          volume "18",
+          issue "1",
+          pages "1230",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 26
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30526546,
+        doi "10.1186/s12885-018-5130-y",
+        pii "10.1186/s12885-018-5130-y",
+        other {
+          db "pmc",
+          tag str "PMC6288931"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-018-5130-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Curcumin, a primary active ingredient extracted from
+ the Curcuma longa, has been recently identified as a potential anti-tumor
+ agent in multiple kinds of cancers. However, the effect of curcumin on
+ retinoblastoma (Rb) is still unclear. Therefore, we attempted to reveal the
+ functional impacts and the underlying mechanisms of curcumin in Rb cells.
+ METHODS: Two Rb cell lines SO-Rb50 and Y79 were pre-treated with various
+ doses of curcumin, and then cell proliferation, apoptosis, migration, and
+ invasion were assessed, respectively. Further, regulatory effects of curcumin
+ on miR-99a expression, as well as the activation of JAK/STAT pathway were
+ studied. RESULTS: Data showed that curcumin significantly inhibited the
+ viability, colony formation capacity, migration and invasion, while induced
+ apoptosis of SO-Rb50 and Y79 cells. Up-regulation of miR-99a was observed in
+ curcumin-treated cells. Curcumin suppressed the phosphorylation levels of
+ JAK1, STAT1, and STAT3, while curcumin did not inhibit the activation of
+ JAK/STAT pathway when miR-99a was knocked down. CONCLUSION: Curcumin
+ inhibited proliferation, migration, invasion, but promoted apoptosis of Rb
+ cells. The anti-tumor activities of curcumin on Rb cells appeared to be via
+ up-regulation of miR-99a, and thereby inhibition of JAK/STAT pathway.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Curcumin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Janus Kinases",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Retinal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Retinoblastoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "STAT Transcription Factors",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "MIRN99 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "STAT Transcription Factors"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinases"
+      },
+      {
+        type cas,
+        cit "IT942ZTH98",
+        name "Curcumin"
+      }
+    },
+    pmid 30526546,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,259 @@
+
+Pubmed-entry ::= {
+  pmid 31482388,
+  medent {
+    em std {
+      year 2019,
+      month 9,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silencing circular RNA circ_0010729 protects human
+ cardiomyocytes from oxygen-glucose deprivation-induced injury by
+ up-regulating microRNA-145-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jin Q",
+            affil str "Department of Cardiology I, Affiliated Hospital of
+ Jining Medical University, Jining, 272000, China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "Department of Cardiology V, Affiliated Hospital of
+ Jining Medical University, No. 89 Guhuai Road, Jining, 272000, Shandong,
+ China. yuanyuan25c@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cell. Biochem.",
+          ml-jta "Mol Cell Biochem",
+          issn "1573-4919",
+          name "Molecular and cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "462",
+          issue "1-2",
+          pages "185-194",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 8,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 9,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 9,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31482388,
+        doi "10.1007/s11010-019-03621-9",
+        pii "10.1007/s11010-019-03621-9",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11010-019-03621-9"
+        }
+      }
+    },
+    abstract "Circular RNAs (circRNAs) are effector molecules that exert
+ functions in cardiovascular diseases. Nevertheless, the effects of circRNAs
+ on myocardial ischemia remain uninvestigated. This paper aimed to explore the
+ functions of circ_0010729 in oxygen-glucose-deprivation (OGD)-caused injury
+ of human cardiomyocytes (HCM). HCM were exposed to OGD environment for 4 h.
+ Then the expression of circ_0010729 was evaluated by RT-qPCR. After
+ transfection, cell viability, apoptosis, and migration were examined to
+ evaluate the impact of overexpression and knockdown of circ_0010729 on
+ OGD-induced cell injury. The regulation between circ_0010729 and
+ microRNA-145-5p (miR-145-5p) was verified. After miR-145-5p inhibitor
+ transfection, whether aberrant miR-145-5p expression affected the modulation
+ of circ_0010729 in OGD-induced cell injury was measured. Western blot was
+ utilized to analyze mTOR and MEK/ERK pathway-related proteins. OGD treatment
+ enhanced circ_0010729 expression and evoked cell injury in HCM. Moreover,
+ OGD-induced injury was aggrandized by circ_0010729 overexpression via
+ suppressing cell growth and migration in HCM. Knockdown of circ_0010729
+ attenuated OGD-induced injury. In addition, circ_0010729 negatively regulated
+ miR-145-5p expression. MiR-145-5p inhibition reversed the effects of
+ silencing circ_0010729 on OGD-induced injury and mTOR and MEK/ERK pathways.
+ We demonstrated that silencing circ_0010729 activated mTOR and MEK/ERK
+ pathways by up-regulating miR-145-5p, thereby protecting HCM from OGD-induced
+ injury.",
+    mesh {
+      {
+        term "Cardiotonic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Silencing"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Circular",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cardiotonic Agents"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Circular"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 31482388,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

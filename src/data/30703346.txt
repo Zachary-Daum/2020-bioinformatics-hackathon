@@ -1,0 +1,247 @@
+
+Pubmed-entry ::= {
+  pmid 30703346,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Propofol suppresses proliferation and migration of papillary
+ thyroid cancer cells by down-regulation of lncRNA ANRIL."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen F",
+            affil str "Department of Anesthesiology, The First Affiliated
+ Hospital of Nanchang University, Nanchang 330006, Jiangxi, China."
+          },
+          {
+            name ml "Li M",
+            affil str "Department of Anesthesiology, The First Affiliated
+ Hospital of Nanchang University, Nanchang 330006, Jiangxi, China."
+          },
+          {
+            name ml "Zhu X",
+            affil str "Department of Anesthesiology, The First Affiliated
+ Hospital of Nanchang University, Nanchang 330006, Jiangxi, China. Electronic
+ address: xiaopingzhu011@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "107",
+          pages "68-76",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30703346,
+        pii "S0014-4800(18)30327-7",
+        doi "10.1016/j.yexmp.2019.01.011",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30327-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.01.011"
+        }
+      }
+    },
+    abstract "BACKGROUND: Propofol is a popular anesthetic agent, with potent
+ anti-tumor activity against many cancers. The objective of this study was to
+ explore the potential effect of propofol on papillary thyroid cancer (PTC) in
+ vitro. METHODS: Human PTC cell lines TPC-1 and IHH-4 were treated by
+ propofol. ANRIL expression vector (pc-ANRIL) was transfected into TPC-1 cells
+ to overexpress the expression of ANRIL. CCK-8, BrdU assay, transwell assay,
+ flow cytometry and Western blot were performed to evaluate cell
+ proliferation, migration and apoptosis. The expression changes of ANRIL were
+ detected by RT-qPCR. RESULTS: Propofol with a concentration of 6mug/mL
+ significantly reduced TPC-1 and IHH-4 cells proliferation and migration, and
+ significantly induced apoptosis. However, 6mug/mL of propofol had no
+ significant impacts on the proliferation and apoptosis of normal human
+ thyroid follicular epithelial Nthy-ori 3-1 cells. Meanwhile, the expression
+ of ANRIL in TPC-1 cells was down-regulated by propofol. The anti-tumor
+ activity of propofol was attenuated when ANRIL was overexpressed.
+ Additionally, propofol blocked Wnt/beta-catenin and NF-kappaB pathways in an
+ ANRIL-dependent fashion. CONCLUSION: Our findings suggested the in vitro
+ anti-tumor potential of propofol in PTC. One possible mechanism involved in
+ the anti-tumor activity was preliminary revealed: propofol down-regulated the
+ expression of ANRIL, and thus blocking Wnt/beta-catenin and NF-kappaB
+ pathways.",
+    mesh {
+      {
+        term "Anesthetics, Intravenous",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Propofol",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Thyroid Cancer, Papillary",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "Anesthetics, Intravenous"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "YI7VU623SF",
+        name "Propofol"
+      }
+    },
+    pmid 30703346,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

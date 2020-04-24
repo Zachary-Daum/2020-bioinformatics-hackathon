@@ -1,0 +1,285 @@
+
+Pubmed-entry ::= {
+  pmid 31174432,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA ANRIL protects against oxygen and glucose deprivation
+ (OGD)-induced injury in PC-12 cells: potential role in ischaemic stroke."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu B",
+            affil str "a Department of Neurosurgery, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Cao W",
+            affil str "a Department of Neurosurgery, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Xue J",
+            affil str "a Department of Neurosurgery, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1384-1395",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31174432,
+        doi "10.1080/21691401.2019.1596944",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1596944"
+        }
+      }
+    },
+    abstract "lncRNA ANRIL was reported to be closely related to ischaemic
+ stroke (IS). In this study, we used oxygen-glucose deprivation (OGD) to
+ stimulate rat adrenal medulla-derived pheochromocytoma cell line PC-12 to
+ construct an in vitro IS cell model and investigated the role of ANRIL and
+ the underlying mechanism. PC-12 cells were stimulated by OGD and/or
+ transfected with pc-ANRIL, si-ANRIL, miR-127 mimic, miR-127 inhibitor,
+ pEX-Mcl-1, sh-Mcl-1 and their negative controls. Cell viability, apoptosis,
+ mRNA and protein expression was detected using CCK-8 assay, flow cytometry
+ assay, qRT-PCR and western blot, respectively. Results showed that
+ OGD-induced PC-12 cell injury and decreased ANRIL expression. ANRIL
+ overexpression significantly reduced OGD-induced PC-12 cell injury evidenced
+ by increasing cell viability and decreasing apoptosis, while ANRIL silence
+ led to the opposite results. Meanwhile, dysregulation of ANRIL altered the
+ expression of apoptotic proteins. Furthermore, ANRIL negatively regulated
+ miR-127 expression. miR-127 overexpression significantly enhanced OGD-induced
+ PC-12 cell injury. In addition, Mcl-1 expression was negatively regulated by
+ miR-127, besides ANRIL up-regulated Mcl-1 expression by down-regulation of
+ miR-127. Mcl-1 overexpression alleviated cell injury and miR-127 silence
+ up-regulated Mcl-1 expression. In conclusion, lncRNA ANRIL alleviated
+ OGD-induced PC-12 cell injury as evidenced. PI3K/AKT pathway might be
+ involved in this regulating progression.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Brain Ischemia",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myeloid Cell Leukemia Sequence 1 Protein",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Stroke",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "Mcl1 protein, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn127 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "Myeloid Cell Leukemia Sequence 1 Protein"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 31174432,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

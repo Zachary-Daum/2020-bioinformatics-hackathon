@@ -1,0 +1,298 @@
+
+Pubmed-entry ::= {
+  pmid 30928631,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginsenoside Rg3 inhibits growth and epithelial-mesenchymal
+ transition of human oral squamous carcinoma cells by down-regulating miR-221."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cheng Z",
+            affil str "Department of Stomatology, The Affiliated Yantai
+ Yuhuangding Hospital of Qingdao University, Yantai, 264000, China. Electronic
+ address: chengzhou213@sina.com."
+          },
+          {
+            name ml "Xing D",
+            affil str "Department of Stomatology, The Affiliated Yantai
+ Yuhuangding Hospital of Qingdao University, Yantai, 264000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Pharmacol.",
+          ml-jta "Eur J Pharmacol",
+          issn "1879-0712",
+          name "European journal of pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6,
+            day 15
+          },
+          volume "853",
+          pages "353-363",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 3,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30928631,
+        pii "S0014-2999(19)30201-8",
+        doi "10.1016/j.ejphar.2019.03.040",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-2999(19)30201-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejphar.2019.03.040"
+        }
+      }
+    },
+    abstract "Ginsenoside Rg3, isolated from the roots of Panax ginseng, has
+ been found to exert anti-cancer activity on multiple human cancers. However,
+ there is no any literature available about the effect of Rg3 on oral squamous
+ cell carcinoma (OSCC). This study investigated the possible anti-cancer
+ effects of Rg3 on OSCC, as well as the possible molecular mechanisms. In
+ vitro, cell viability and proliferation were respectively detected by CCK-8
+ assay and BrdU assay. Cell apoptosis was detected by Annexin V-FITC/PI assay.
+ Cell transfection was used to change the expression of miR-221 and TIMP3.
+ qRT-PCR and western blotting were performed to measure the expression of
+ molecules involving in cell apoptosis, epithelial-mesenchymal transition
+ (EMT) process, PI3K/AKT pathway and MAPK/ERK pathway. In vivo, OSCC
+ orthotopic murine model was established and tumor volumes were measured. We
+ found that Rg3 treatment inhibited viability, proliferation and EMT process
+ of human OSCC SCC-9 and HSC-5cells, but promoted cell apoptosis. miR-221 was
+ highly expressed in OSCC tissues and cells. Rg3 reduced the expression of
+ miR-221 in OSCC cells. Up-regulation of miR-221 abrogated the effects of Rg3
+ on SCC-9 and HSC-5cell viability, proliferation, apoptosis and EMT process.
+ TIMP3 was lowly expressed in OSCC tissues and cells, which was a direct
+ target gene of miR-221. Rg3 inactivated PI3K/AKT and MAPK/ERK pathways in
+ SCC-9cells by up-regulating TIMP3. In vivo, Rg3 reduced the tumor volume of
+ OSCC orthotopic murine model. In conclusion, Rg3 exerted anti-cancer effects
+ on OSCC might be via down-regulating miR-221, up-regulating TIMP3, and then
+ inactivating PI3K/AKT and MAPK/ERK pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Squamous Cell",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Mouth Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN221 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "227D367Y57",
+        name "ginsenoside Rg3"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30928631,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

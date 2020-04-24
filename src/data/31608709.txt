@@ -1,0 +1,309 @@
+
+Pubmed-entry ::= {
+  pmid 31608709,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lycium barbarum polysaccharide alleviates IL-1beta-evoked
+ chondrogenic ATDC5 cell inflammatory injury through mediation of microRNA-124."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ni H",
+            affil str "Department of Orthopedics, The Affiliated Hospital of
+ Hangzhou Normal University , Hangzhou , China."
+          },
+          {
+            name ml "Wang G",
+            affil str "Department of Orthopedics, Shenzhen University General
+ Hospital , Shenzhen , China."
+          },
+          {
+            name ml "Xu Y",
+            affil str "Department of Orthopedics, Shaoxing People's Hospital
+ (Shaoxing Hospital of Zhejiang University) , Shaoxing , China."
+          },
+          {
+            name ml "Gu X",
+            affil str "Department of Orthopedics, The Affiliated Hospital of
+ Hangzhou Normal University , Hangzhou , China."
+          },
+          {
+            name ml "Sun C",
+            affil str "Department of Orthopedics, The Affiliated Hospital of
+ Hangzhou Normal University , Hangzhou , China."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Orthopedics, Shaoxing People's Hospital
+ (Shaoxing Hospital of Zhejiang University) , Shaoxing , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "4046-4052",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31608709,
+        doi "10.1080/21691401.2019.1673765",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1673765"
+        }
+      }
+    },
+    abstract "Background: Lycium barbarum polysaccharide (LBP) is a promising
+ therapeutic drug in inflammation-related injuries, nevertheless the mechanism
+ of LBP's action is still elusive. The study is to explore the effect of LBP
+ on IL-1beta-evoked ATDC5 cell inflammatory injury. Methods: ATDC5 cells were
+ administrated with 10 ng/mL interleukin (IL)-1beta to establish an in vitro
+ model of cartilage damage. After management, cell viability was tested
+ through CCK8 assay. The pro-inflammatory cytokines and cyclooxygenase (Cox)-2
+ were assessed through ELISA, western blot and qRT-PCR. MiR-124 expression in
+ ATDC5 cells was silenced by transfecting with miR-124 inhibitor, and the
+ pro-inflammatory cytokines and Cox-2 were re-assessed. NF-kappaB and JNK
+ pathways were measured through western blot. Results: IL-1beta stimulation
+ accelerated the release of IL-1beta, IL-6 and TNF-alpha, elevated Cox-2
+ expression. LBP significantly eased IL-1beta-induced inflammation. MiR-124
+ expression was observed to enhance by LBP, and the impacts of LBP on ATDC5
+ cells were lightened via transfection with miR-124 inhibitor. NF-kappaB and
+ JNK pathways were activated after IL-1beta stimulation, nevertheless were
+ inactivated by LBP administration. Besides, LBP-evoked the repression of
+ NF-kappaB and JNK pathways were overturned by miR-124 inhibitor. Conclusions:
+ Our study suggests that LBP protects ATDC5 cells from IL-1beta-evoked injury
+ through up-regulating miR-124 via blocking NF-kappaB and JNK pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cyclooxygenase 2",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Inflammation"
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn124 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "lycium barbarum polysaccharide"
+      },
+      {
+        type ec,
+        cit "1.14.99.-",
+        name "Ptgs2 protein, mouse"
+      },
+      {
+        type ec,
+        cit "1.14.99.1",
+        name "Cyclooxygenase 2"
+      }
+    },
+    pmid 31608709,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

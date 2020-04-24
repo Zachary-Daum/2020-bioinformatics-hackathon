@@ -1,0 +1,369 @@
+
+Pubmed-entry ::= {
+  pmid 30415256,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Pro-Angiogenic Role of LncRNA HULC in Microvascular Endothelial
+ Cells via Sequestrating miR-124."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yin D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Fu C",
+            affil str "The 4th Department of Surgery, DongFang Hospital of
+ Beijing University of Chinese Medicine, Beijing, China."
+          },
+          {
+            name ml "Feng Y",
+            affil str "Department of Gastrointestinal Colorectal and Anal
+ Surgery, China-Japan Union Hospital of Jilin University, Changchun,
+ Chinayefeng0152@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "50",
+          issue "6",
+          pages "2188-2202",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30415256,
+        pii "000495060",
+        doi "10.1159/000495060",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000495060"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: HULC is a multifunctional lncRNA that has
+ pro-angiogenic function in various cancers. The present study was designed to
+ see the role of lncRNA HULC in normal endothelial cells angiogenesis.
+ METHODS: Cell viability, apoptosis, migration, tube formation and expression
+ levels of angiogenesis-related proteins were respectively assessed in human
+ microvascular endothelial HMEC-1 cells after lncRNA HULC was silenced by
+ shRNA transfection. Cross-regulation between lncRNA HULC and miR-124, and
+ between miR-124 and MCL-1 were detected by qRT-PCR, sequence analysis, and
+ luciferase reporter assay. RESULTS: Silence of lncRNA HULC significantly
+ reduced viability, migration, tube formation and protein levels of VEGF,
+ VEGFR2, CD144 and eNOS in HMEC-1 cells. Meanwhile, silence of lncRNA HULC
+ induced apoptosis in HMEC-1 cells, as Bcl-2 was down-regulated, Bax was
+ up-regulated, and caspase-3 and -9 were cleaved. miR-124 expression was
+ negatively regulated by lncRNA HULC, and HULC worked as a molecular sponge
+ for miR-124, in having miR-124 exhausted. Besides, MCL-1 was a target gene of
+ miR-124. Rescue assay results showed that the effects of lncRNA HULC silence
+ on HMEC-1 cells growth, migration and angiogenesis were abolished by miR-124
+ suppression. Similarly, the effects of miR-124 on HMEC-1 cells were abolished
+ by MCL-1 overexpression. Furthermore, MCL-1 activated PI3K/AKT and JAK/STAT
+ signaling pathways. CONCLUSION: These findings suggest a pro-angiogenic role
+ of lncRNA HULC in endothelial cells. The pro-angiogenic actions of lncRNA
+ HULC may be through sponging miR-124, preventing MCL-1 from degradation by
+ miR-124.",
+    mesh {
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myeloid Cell Leukemia Sequence 1 Protein",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neovascularization, Physiologic"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Vascular Endothelial Growth Factor A",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "bcl-2-Associated X Protein",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "HULC long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MCL1 protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN124 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Myeloid Cell Leukemia Sequence 1 Protein"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "STAT3 protein, human"
+      },
+      {
+        type nameonly,
+        name "Vascular Endothelial Growth Factor A"
+      },
+      {
+        type nameonly,
+        name "bcl-2-Associated X Protein"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      }
+    },
+    pmid 30415256,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,357 @@
+
+Pubmed-entry ::= {
+  pmid 31302422,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragalus polysaccharide ameliorates lipopolysaccharide-induced
+ cell injury in ATDC5 cells via miR-92a/KLF4 mediation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fan L",
+            affil str "Department of Orthopedic Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou 450002, China; Department of
+ Orthopedic Surgery, People's Hospital of Zhengzhou University, Zhengzhou
+ 450003, China."
+          },
+          {
+            name ml "Li M",
+            affil str "Basic Medical College of Zhengzhou University,
+ Zhengzhou 450001, China."
+          },
+          {
+            name ml "Cao FY",
+            affil str "Basic Medical College of Zhengzhou University,
+ Zhengzhou 450001, China."
+          },
+          {
+            name ml "Zeng ZW",
+            affil str "Basic Medical College of Zhengzhou University,
+ Zhengzhou 450001, China."
+          },
+          {
+            name ml "Li XB",
+            affil str "Department of Orthopedic Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou 450002, China; Department of
+ Orthopedic Surgery, People's Hospital of Zhengzhou University, Zhengzhou
+ 450003, China."
+          },
+          {
+            name ml "Ma C",
+            affil str "Department of Cardiology, Campus Virchow,
+ Charite-Universitatsmedizin Berlin, Berlin 13353, Germany; DZHK (German
+ Center for Cardiovascular Research), Partner Site Berlin, Berlin, Germany.
+ Electronic address: chao.ma@charite.de."
+          },
+          {
+            name ml "Ru JT",
+            affil str "Department of Orthopedic Surgery, People's Hospital of
+ Zhengzhou University, Zhengzhou 450003, China. Electronic address:
+ rengcaitan5576kt@163.com."
+          },
+          {
+            name ml "Wu XJ",
+            affil str "Department of Orthopedic Surgery, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou 450002, China. Electronic
+ address: wu14xuejian@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10
+          },
+          volume "118",
+          pages "109180",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 3
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31302422,
+        pii "S0753-3322(19)31461-1",
+        doi "10.1016/j.biopha.2019.109180",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(19)31461-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2019.109180"
+        }
+      }
+    },
+    abstract "BACKGROUND: Astragalus polysaccharide (APS) is a traditional
+ Chinese herbal medicine with anti-inflammatory and anti-aging activities.
+ OBJECTIVE: This study aimed to explore the effect and associated mechanisms
+ of APS on LPS-induced injury in ATDC5 cells, to evaluate the potential of APS
+ for use as an adjuvant therapy for osteoarthritis (OA). MATERIALS AND
+ METHODS: ATDC5 cells were pre-treated with APS and stimulated with
+ lipopolysaccharide (LPS). Cell viability, ROS generation as well as the
+ expression of IL-6, TNF-alpha, iNOS and Cox-2 were evaluated by performing
+ CCK8 assay, ROS detection, ELISA, western blot and qRT-PCR. The expression of
+ NF-kappaB and p38MAPK signal pathways related proteins and KLF4 was measured
+ through western blot. RESULTS: LPS increased the expression of IL-6 and
+ TNF-alpha, elevated the expression of Cox-2, iNOS and increased ROS
+ generation. APS treatment significantly alleviated LPS-induced damage in
+ ATDC5 cells. Besides, miR-92a was down-regulated while KLF4 was up-regulated
+ by APS. At the same time, the targeting relationship between miR-92a and KLF4
+ was demonstrated. The inhibitory effects of APS on LPS-induced injury in
+ ATDC5 cells were attenuated by the combination of KLF4 siRNA. In addition,
+ LPS induced NF-kappaB and p38MAPK signal pathways were decreased by APS
+ treatment. Also, the inhibitory effect of APS on NF-kappaB and p38MAPK signal
+ pathways was reversed by KLF4 siRNA. CONCLUSIONS: The present study reveals
+ that APS protects ATDC5 cells against LPS induced-injury by regulation of
+ miR-92a/KLF4 axis and suppressing NF-kappaB and p38MAPK signal pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Astragalus Plant",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Kruppel-Like Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis"
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "GKLF protein"
+      },
+      {
+        type nameonly,
+        name "Kruppel-Like Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn92 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      }
+    },
+    pmid 31302422,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

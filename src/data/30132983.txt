@@ -1,0 +1,322 @@
+
+Pubmed-entry ::= {
+  pmid 30132983,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA SNHG16 contributes to the development of
+ bladder cancer via regulating miR-98/STAT3/Wnt/beta-catenin pathway axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Feng F",
+            affil str "Department of Minimally Invasive Urology, Shandong
+ Provincial Hospital Affiliated to Shandong University, Jinan, Shandong,
+ China.; Department of Urology, Shandong University School of Medicine, Jinan,
+ Shandong, China."
+          },
+          {
+            name ml "Chen A",
+            affil str "Department of Quality Control, Liaocheng People's
+ Hospital, Liao Cheng, Shandong, China."
+          },
+          {
+            name ml "Huang J",
+            affil str "Laboratory of Tumor and Molecular Biology, Academy of
+ Military Medical Sciences, Beijing, China."
+          },
+          {
+            name ml "Xia Q",
+            affil str "Department of Minimally Invasive Urology, Shandong
+ Provincial Hospital Affiliated to Shandong University, Jinan, Shandong, China."
+          },
+          {
+            name ml "Chen Y",
+            affil str "Department of Minimally Invasive Urology, Shandong
+ Provincial Hospital Affiliated to Shandong University, Jinan, Shandong, China."
+          },
+          {
+            name ml "Jin X",
+            affil str "Department of Minimally Invasive Urology, Shandong
+ Provincial Hospital Affiliated to Shandong University, Jinan, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "119",
+          issue "11",
+          pages "9408-9418",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30132983,
+        doi "10.1002/jcb.27257",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27257"
+        }
+      }
+    },
+    abstract "This study aimed to investigate the role and the possible
+ mechanism of the long noncoding small nucleolar RNA host gene 16 (SNHG16) in
+ bladder cancer development. The expression of SNHG16 in the tumor tissues and
+ plasma of patients with bladder cancer as well as bladder cancer cell lines
+ was detected. T24 cells were then transfected with sh-SNHG16 to further
+ investigate the effects of suppression of SNHG16 on T24 cell proliferation,
+ apoptosis, migration, and invasion. In addition, the regulatory relationships
+ between SNHG16 and miR-98 as well as the target of miR-98 were explored.
+ Besides, the association between SNHG16 and the Wnt/beta-catenin pathway was
+ further elucidated. The SNHG16 expression was upregulated in the tumor
+ tissues and plasma of patients with bladder cancer, as well as bladder cancer
+ cells. Suppression of SNHG16 inhibited T24 cell proliferation, promoted
+ apoptosis, and suppressed migration and invasion in vitro. In addition,
+ SNHG16 negatively regulated miR-98 expression and regulated the malignant
+ behaviors of T24 cells through sponging miR-98. Moreover, signal transducer
+ and activator of transcription 3 (STAT3) was identified as a functional
+ target of miR-98, and miR-98 regulated the malignant behaviors of bladder
+ cancer cells by targeting STAT3. Besides, suppression of SNHG16 inhibited the
+ activation of the Wnt/beta-catenin pathway, which was further regulated by
+ miR-98 and STAT3, indicating that the effects of SNHG16/miR-98/STAT3 on T24
+ cells were achieved through the Wnt/beta-catenin pathway. Our findings reveal
+ that long noncoding RNAs SNHG16 is upregulated in bladder cancer and
+ contributes to the development of bladder cancer possibly via regulating the
+ miR-98/STAT3/Wnt/beta-catenin pathway axis. The
+ SNHG16/miR-98/STAT3/Wnt/beta-catenin pathway axis may provide a new strategy
+ for bladder cancer treatment.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Flow Cytometry"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reverse Transcriptase Polymerase Chain Reaction"
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Urinary Bladder Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN98 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "SNHG16 lncRNA, human"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      }
+    },
+    pmid 30132983,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

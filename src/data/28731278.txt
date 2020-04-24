@@ -1,0 +1,269 @@
+
+Pubmed-entry ::= {
+  pmid 28731278,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of long non-coding RNA MEG3 protects H9c2 cells from
+ hypoxia-induced injury by targeting microRNA-183."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gong L",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Xu H",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Chang H",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Tong Y",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Zhang T",
+            affil str "Department of Gastrointestinal Surgery, China-Japan
+ Union Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Guo G",
+            affil str "Department of Cardiovascular Internal Medicine,
+ China-Japan Union Hospital of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "119",
+          issue "2",
+          pages "1429-1440",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28731278,
+        doi "10.1002/jcb.26304",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26304"
+        }
+      }
+    },
+    abstract "Acute myocardial infarction (AMI) occurs when blood supply to
+ the heart is diminished (ischemia) for long time, and ischemia is primarily
+ caused due to hypoxia. This study evaluated the effects of long non-coding
+ RNA maternally expressed gene 3 (MEG3) on hypoxic rat cardiomyocyte-drived
+ H9c2 cells. Hypoxic injury was confirmed by alterations of cell viability,
+ migration, invasion, apoptosis, and hypoxia-inducible factor 1alpha
+ (HIF-1alpha) expression. MEG3 level in hypoxic cells and effects of its
+ knockdown on hypoxic cells were assessed. The interactions between MEG3 and
+ miR-183 as well as miR-183 and p27 were investigated. In addition, the
+ effects of aberrantly expressed MEG3, miR-183, and p27 on hypoxic cells along
+ with the activation of PI3K/AKT/FOXO3a signaling pathway were all assessed.
+ Results showed that hypoxia induced decreases of cell viability, migration
+ and invasion, and increases of apoptosis and expressions of HIF-1alpha and
+ MEG3. Knockdown of MEG3 decreased hypoxia-induced injury in H9c2 cells.
+ Knockdown of MEG3 also increased miR-183 expression, which was identified as
+ a target of MEG3. The effects of MEG3 knockdown on the hypoxic cells were
+ reversed by miR-183 silence. p27 was identified as a target gene of miR-183,
+ and its expression negatively regulated by miR-183. The mechanistic studies
+ revealed that knockdown of p27 decreased hypoxia-induced H9c2 cell injury by
+ activating PI3K/AKT/FOXO3a signal pathways. These findings suggest that
+ knockdown of MEG3 alleviates hypoxia-induced H9c2 cell injury by
+ miR-183-mediated suppression of p27 through activation of PI3K/AKT/FOXO3a
+ signaling pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Cyclin-Dependent Kinase Inhibitor p27",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hypoxia-Inducible Factor 1, alpha Subunit",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cdkn1b protein, rat"
+      },
+      {
+        type nameonly,
+        name "Hif1a protein, rat"
+      },
+      {
+        type nameonly,
+        name "Hypoxia-Inducible Factor 1, alpha Subunit"
+      },
+      {
+        type nameonly,
+        name "MEG3 non-coding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "MIRN183 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "147604-94-2",
+        name "Cyclin-Dependent Kinase Inhibitor p27"
+      }
+    },
+    pmid 28731278,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

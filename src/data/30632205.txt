@@ -1,0 +1,252 @@
+
+Pubmed-entry ::= {
+  pmid 30632205,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tanshinol relieves lipopolysaccharide-induced inflammatory
+ injury of HaCaT cells via down-regulation of microRNA-122."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang H",
+            affil str "Operating Room, Jining No.1 People's Hospital, Jining,
+ 272011, China.; Affiliated Jining No.1 People's Hospital of Jining Medical
+ University, Jining Medical University, Jining, 272067, China."
+          },
+          {
+            name ml "Wei S",
+            affil str "Operating Room, Jining No.1 People's Hospital, Jining,
+ 272011, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phytother Res",
+          ml-jta "Phytother Res",
+          issn "1099-1573",
+          name "Phytotherapy research : PTR"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "33",
+          issue "4",
+          pages "910-918",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30632205,
+        doi "10.1002/ptr.6283",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ptr.6283"
+        }
+      }
+    },
+    abstract "This study investigated the effects of tanshinol (TAN) on
+ lipopolysaccharide (LPS)-induced human keratinocytes inflammatory injury and
+ underlying potential molecular mechanisms. Viability and apoptosis of HaCaT
+ cells were assessed using MTT assay and Annexin V-FITC/PI staining,
+ respectively. Quantitative reverse transcription-polymerase chain reaction
+ was performed to measure the expression of microRNA-122 (miR-122) in HaCaT
+ cells. Cell transfection was conducted to up-regulate the expression of
+ miR-122. Western blotting was used to detect the protein expression levels of
+ key factors involved in cell apoptosis, inflammatory response, c-Jun
+ N-terminal kinase (JNK), and nuclear factor kappa B (NF-kappaB) pathways. We
+ found that LPS treatment induced HaCaT cell inflammatory injury by inhibiting
+ cell viability, promoting cell apoptosis, and enhancing the protein
+ expression levels of cyclooxygenase 2 and inducible nitric oxide synthase.
+ TAN treatment relieved LPS-induced HaCaT cell inflammatory injury. Moreover,
+ TAN treatment attenuated LPS-induced activation of JNK and NF-kappaB pathways
+ in HaCaT cells. Furthermore, TAN treatment alleviated LPS-induced
+ up-regulation of miR-122. Overexpression of miR-122 reversed the effects of
+ TAN on LPS-induced HaCaT cell inflammatory injury and activation of JNK and
+ NF-kappaB pathways. In conclusion, TAN exerted anti-inflammatory and
+ protective effects on keratinocytes injury. TAN relieved LPS-induced
+ inflammatory injury of human HaCaT cells via down-regulating miR-122 and then
+ inactivating JNK and NF-kappaB pathways.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Caffeic Acids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Keratinocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Caffeic Acids"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN122 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "tanshinol"
+      }
+    },
+    pmid 30632205,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

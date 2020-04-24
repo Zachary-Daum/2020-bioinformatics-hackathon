@@ -1,0 +1,226 @@
+
+Pubmed-entry ::= {
+  pmid 29611016,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Geniposide Attenuates LPS-Induced Injury via Up-Regulation of
+ miR-145 in H9c2 Cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Su Q",
+            affil str "Department of Emergency, Affiliated Hospital of Jining
+ Medical University, Jining, 272000, Shandong, China."
+          },
+          {
+            name ml "Yao J",
+            affil str "Department of Cardiac Surgery, Jining No. 1 People's
+ Hospital, No. 6, Jiankang Road, Jining, 272000, Shandong, China."
+          },
+          {
+            name ml "Sheng C",
+            affil str "Department of Cardiac Surgery, Jining No. 1 People's
+ Hospital, No. 6, Jiankang Road, Jining, 272000, Shandong, China.
+ shengcj226@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Inflammation",
+          ml-jta "Inflammation",
+          issn "1573-2576",
+          name "Inflammation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "41",
+          issue "4",
+          pages "1229-1237",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29611016,
+        doi "10.1007/s10753-018-0769-8",
+        pii "10.1007/s10753-018-0769-8",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10753-018-0769-8"
+        }
+      }
+    },
+    abstract "Myocarditis is a cardiomyopathy associated with inflammatory
+ response. It has been reported that geniposide (GEN), a traditional Chinese
+ herb extract from Gardenia jasminoides Ellis, possesses an anti-inflammatory
+ effect and a protective effect on cardiomyocytes. The present study aimed to
+ explore the protective role of GEN and the underlying mechanism in
+ LPS-injured H9c2 cells. H9c2 cells were treated with LPS to induce cell
+ injury and then we investigated the effect of GEN. miR-145 expression was
+ inhibited by transfection with miR-145 inhibitor and its expression was
+ measured by RT-PCR. Cell viability and apoptotic cells were measured by CCK-8
+ assay and flow cytometry analysis. The levels of pro-inflammatory factors
+ (IL-6, TNF-alpha, and MCP-1) were assessed by western blot and RT-PCR.
+ Western blot was performed to detect the expression of the MEK/ERK
+ pathway-related factors. LPS exposure reduced cell viability, increased
+ apoptotic cells, and promoted the expression of pro-inflammatory factors in
+ H9c2 cells. However, GEN pretreatment significantly reduced LPS-induced cell
+ injury, as increased cell viability, reduced apoptotic cells, and inhibited
+ the expression of pro-inflammatory factors. Moreover, we found that miR-145
+ expression was down-regulated by LPS exposure but was up-regulated by GEN
+ pretreatment. The protective effect of GEN on LPS-injured H9c2 cells was
+ blocked by miR-145 inhibitor. In addition, GEN inhibited the MEK/ERK pathway
+ through up-regulating miR-145. Our results suggested that GEN exerted a
+ protective role in LPS-injured H9c2 cells. The GEN-associated regulation
+ might be related to its regulation on miR-145 and the MEK/ERK signaling
+ pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Iridoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Iridoids"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "145295QLXY",
+        name "geniposide"
+      }
+    },
+    pmid 29611016,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

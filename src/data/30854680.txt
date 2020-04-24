@@ -1,0 +1,153 @@
+
+Pubmed-entry ::= {
+  pmid 30854680,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "microRNA-203 promotes proliferation, differentiation, and
+ migration of osteoblasts by upregulation of Msh homeobox 2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu H",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Chen B",
+            affil str "Department of Anesthesiology, China-Japan Union
+ Hospital of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Radiology, China-Japan Union Hospital of
+ Jilin University, Changchun, Jilin, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8
+          },
+          volume "234",
+          issue "10",
+          pages "17639-17648",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30854680,
+        doi "10.1002/jcp.28387",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28387"
+        }
+      }
+    },
+    abstract "Despite the improvements in fracture healing, about 10% of
+ patients undergo abnormal healing. As a tumor suppressor, upregulation of
+ microRNA (miR)-203 has been observed in osteogenic differentiation. Herein,
+ we aimed to explore the functional role of miR-203 in osteoblasts as well as
+ the underlying mechanisms. The expression of miR-203 in MC3T3-E1 cells that
+ underwent osteogenic differentiation was determined by quantitative reverse
+ transcription PCR (qRT-PCR). The effects of aberrantly expressed miR-203 on
+ cell viability, migration, and expressions of proteins associated with
+ proliferation, migration, and osteogenic differentiation were measured by
+ using a Cell Counting Kit-8 assay, Transwell cell migration assay, and
+ western blot/qRT-PCR, respectively. The possible downstream factor of miR-203
+ was subsequently studied. Finally, involvements of the mitogen-activated
+ protein kinase (MAPK)/activator of transcription (STAT) pathways were
+ assessed by western blot. We found that the miR-203 level was increased in
+ osteogenic differentiation of MC3T3-E1 cells with increasing duration time
+ (28th day, p < 0.001). After cell transfection, we interestingly found that
+ miR-203 overexpression could increase cell viability (p < 0.05), promote
+ proliferation, migration (p < 0.05), and osteogenic differentiation, and
+ upregulate Msh homeobox 2 (Msx2) expression. Furthermore, Msx2 knockdown was
+ proved to abrogate the effects of miR-203 overexpression on MC3T3-E1 cells.
+ Finally, phosphorylated levels of key kinases in the MAPK/STAT pathways were
+ increased by miR-203 overexpression via upregulating Msx2 expression. In
+ conclusion, miR-203 overexpression promoted proliferation, migration, and
+ osteogenic differentiation of MC3T3-E1 cells through upregulating Msx2 along
+ with activation of the MAPK/STAT pathways.",
+    pmid 30854680,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

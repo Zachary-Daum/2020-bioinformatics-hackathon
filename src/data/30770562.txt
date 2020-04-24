@@ -1,0 +1,162 @@
+
+Pubmed-entry ::= {
+  pmid 30770562,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-PI3K-AKT signaling promotes the occurrence and development
+ of uveal melanoma by downregulating H3K56ac expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Y",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Sun D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, Jilin, China."
+          },
+          {
+            name ml "Sun W",
+            affil str "Department of Gastrointestinal Colorectal and Anal
+ Surgery, China-Japan Union Hospital of Jilin University, Changchun, Jilin,
+ China."
+          },
+          {
+            name ml "Yin D",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, Jilin, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2,
+            day 15
+          },
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 15
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30770562,
+        doi "10.1002/jcp.28261",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.28261"
+        }
+      }
+    },
+    abstract "BACKGROUND: Uveal melanoma (UM) is an intraocular malignant
+ tumor characterized by rapid progression and recurrence. The current
+ conventional treatments are unsatisfactory. Histone acetylation at H3 lysine
+ 56 (H3K56ac) has been reported to be a tumor suppressor in breast cancer.
+ However, whether H3K56ac prevents the occurrence and development of UM
+ remains uninvestigated. The study aimed to explore the regulatory effect of
+ H3K56ac on Ras-PI3K-AKT induced UM cells proliferation and migration.
+ METHODS: The vectors of pEGFP-Ras(WT) , pEGFP-K-Ras (G12V/Y40C) , and
+ pEGFP-N1 were transfected into MP46 cells, and protein levels of
+ phosphorylated AKT (Ser473) and H3K56ac were examined using western blot
+ analysis. The effect of H3K56ac on cell proliferation and migration were
+ studied using 3-(4,5-dimethylthiazol-2-yl)-2,5 diphenyl tetrazolium bromide,
+ colony formation, and Transwell assays. Reverse transcription-quantitative
+ polymerase chain reaction (RT-qPCR) and chromatin immunoprecipitation assays
+ were performed to determine the phosphoinositide 3-kinase/protein kinase B
+ (PI3K/AKT) downstream genes. Further, the regulatory effects of silent mating
+ type information regulation 2 homolog-1 (SIRT1), general control
+ nonderepressible 5 (GCN5), and mouse double minute 2 homolog (MDM2) on
+ Ras-PI3K-AKT affected H3K56ac expression were also investigated. RESULTS:
+ H3K56ac expression was specifically downregulated by Ras-PI3K-AKT activation
+ pathway. H3K56ac inhibited the tumorigenic effect of Ras-PI3K-AKT on MP46
+ cells viability, colony formation, and migration, as well as participated in
+ regulating the transcription of PI3K/AKT downstream genes. SIRT1 silence
+ recovered H3K56ac expression, and reversed the tumorigenic effect of
+ Ras-PI3K-AKT activation on MP46 cells. Downregulation of H3K56ac induced by
+ Ras-PI3K-AKT activation was found to be associated with MDM2-mediated the
+ degradation of GCN5. CONCLUSIONS: The results demonstrated that Ras-PI3K-AKT
+ signaling promoted UM cells proliferation and migration via downregulation of
+ H3K56ac expression, which might be related to MDM2-mediated the degradation
+ of GCN5.",
+    pmid 30770562,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

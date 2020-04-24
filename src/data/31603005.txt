@@ -1,0 +1,299 @@
+
+Pubmed-entry ::= {
+  pmid 31603005,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Protective functions of salvianolic acid B in PC-12 cells
+ against hydrogen peroxide-triggered damage by mediation of microRNA-26a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu N",
+            affil str "Department of Traumatology, North Medical District of
+ Linyi People's Hospital , Linyi , PR China."
+          },
+          {
+            name ml "Fan M",
+            affil str "Department of Spinal Surgery, North Medical District of
+ Linyi People's Hospital , Linyi , PR China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "4030-4037",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31603005,
+        doi "10.1080/21691401.2019.1673766",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1673766"
+        }
+      }
+    },
+    abstract "Spinal cord injury (SCI) can lead to varying degrees of sensory
+ and motor dysfunction. Salvianolic acid B (Sal-B) is the dominating bioactive
+ constituent of Danshen, which has been reported to alleviate liver fibrosis
+ and exert neuroprotective effects. But, the influence of Sal-B in SCI remains
+ mysterious. The research planned to delve the protective function of Sal-B in
+ hydrogen peroxide (H2O2)-caused PC-12 cell injury. H2O2-caused PC-12 cells
+ injury model was built, CCK-8, Transwell and flow cytometry experiments were
+ enforced to assess cell proliferation, migration and apoptosis. The microRNA
+ (miR)-26a plasmid and the matching control were transfected into PC-12 cells,
+ subsequently, the influence of miR-26a inhibition in H2O2-corrupted PC-12
+ cells was evaluated. The cell growth-correlated factors and PI3K/AKT and
+ MEK/ERK pathways were assayed through western blot assay. Results
+ corroborated that Sal-B eased H2O2-evoked injury in PC-12 cells. Ascended
+ miR-26a was monitored in Sal-B and H2O2-exposed cells. MiR-26a inhibition
+ annulled the protective action of Sal-B in H2O2-corrupted cells. The
+ protective function of Sal-B was enabled through activating PI3K/AKT and
+ MEK/ERK pathways. These findings delineated that Sal-B protected PC-12 cells
+ against H2O2-caused injury through ascending miR-26a via initiating PI3K/AKT
+ and MEK/ERK pathways. Highlights H2O2 causes PC-12 cell injury; Sal-B eases
+ H2O2-caused PC-12 cell injury; Sal-B protects PC-12 cells against H2O2-caused
+ injury via elevating miR-26a; Sal-B activates AKT and MEK/ERK pathways via
+ modulating miR-26a.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Benzofurans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Salvia miltiorrhiza",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Benzofurans"
+      },
+      {
+        type nameonly,
+        name "MIRN26 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type cas,
+        cit "C1GQ844199",
+        name "salvianolic acid B"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.12.2",
+        name "Mitogen-Activated Protein Kinase Kinases"
+      }
+    },
+    pmid 31603005,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

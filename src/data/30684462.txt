@@ -1,0 +1,292 @@
+
+Pubmed-entry ::= {
+  pmid 30684462,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Triptolide inhibits the growth and migration of colon carcinoma
+ cells by down-regulation of miR-191."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qi Y",
+            affil str "Department of Anorectal Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China; Affiliated Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University, Jining 272067, China."
+          },
+          {
+            name ml "Li J",
+            affil str "Department of Anorectal Surgery, Jining No.1 People's
+ Hospital, Jining 272011, China. Electronic address: lijinliang94@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "107",
+          pages "23-31",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30684462,
+        pii "S0014-4800(18)30484-2",
+        doi "10.1016/j.yexmp.2019.01.008",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30484-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.01.008"
+        }
+      }
+    },
+    abstract "BACKGROUND: Triptolide (TPL) is the active component of
+ Tripterygium wifordii Hook F, which has been reported to exert anti-tumor
+ efficacies. Herein, we aimed to examine the efficacy of TPL in colorectal
+ cancer (CRC) cells and to reveal its underlying mechanisms. METHODS: Human
+ CRC cell lines HT-29 and SW480 were treated by TPL for 24h in the presence or
+ absence of epithelial-to-mesenchymal transition (EMT) inducer TGF-beta1. The
+ expression of miR-191 in cell was overexpressed by miRNA transfection.
+ Thereafter, cell viability, migration, apoptosis, EMT-related protein
+ expressions, and the activation of NF-kappaB and Wnt/beta-catenin pathways
+ were respectively assessed. Moreover, a mouse model of CRC was established
+ and the effects of TPL on the growth of primary tumors were tested. RESULTS:
+ TPL (50 and 100nM) significantly reduced cell viability and migration, but
+ increased apoptotic cell rate. TPL up-regulated Bax, increased the cleavage
+ of caspase-3 and -9, and neutralized TGF-beta1-induced alterations of EMT
+ indicators, including E-cadherin, N-cadherin, Vimentin, and Snail. At the
+ meantime, TPL treatment down-regulated miR-191 expression, and the effect of
+ TPL on miR-191 expression was mediated by EZH2. More interestingly, anti-CRC
+ properties and the inhibitory effects of TPL on NF-kappaB and
+ Wnt/beta-catenin pathways were reversed by miR-191 up-regulation. In vivo
+ data showed that, TPL treatment decreased the growth of primary tumor
+ xenografts and the expression of miR-191. CONCLUSION: TPL is effective in
+ killing CRC cells and suppressing the migratory capacity. TPL exerts anti-CRC
+ properties possibly via down-regulating miR-191, and blocking the activation
+ of NF-kappaB and Wnt/beta-catenin pathways.",
+    mesh {
+      {
+        term "Adenocarcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents, Alkylating",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Colonic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Diterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Epoxy Compounds",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Phenanthrenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Xenograft Model Antitumor Assays"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Alkylating"
+      },
+      {
+        type nameonly,
+        name "Diterpenes"
+      },
+      {
+        type nameonly,
+        name "Epoxy Compounds"
+      },
+      {
+        type nameonly,
+        name "MIRN191 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenanthrenes"
+      },
+      {
+        type cas,
+        cit "19ALD1S53J",
+        name "triptolide"
+      }
+    },
+    pmid 30684462,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

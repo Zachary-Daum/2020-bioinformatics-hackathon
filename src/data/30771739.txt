@@ -1,0 +1,346 @@
+
+Pubmed-entry ::= {
+  pmid 30771739,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA activated by transforming growth factor beta
+ alleviates lipopolysaccharide-induced inflammatory injury via regulating
+ microRNA-223 in ATDC5 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ying H",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Gao Z",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China."
+          },
+          {
+            name ml "Zhang Q",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, Jilin, China. Electronic address:
+ qiaozhang0096@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "69",
+          pages "313-320",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 31
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30771739,
+        pii "S1567-5769(19)30245-0",
+        doi "10.1016/j.intimp.2019.01.056",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(19)30245-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2019.01.056"
+        }
+      }
+    },
+    abstract "Osteoarthritis (OA) is a conversant joint disease, which
+ seriously threatens the health of the elderly, and even leads to disability.
+ Long non-coding RNA-activated by transforming growth factor beta (lncRNA-ATB)
+ has been reported in diverse cancers. However, the functions of lncRNA-ATB in
+ OA remain uninvestigated. The current study aimed to explore the impacts of
+ lncRNA-ATB on lipopolysaccharide (LPS)-induced inflammatory injury in ATDC5
+ cells and to uncover the underlying mechanism. LPS-induced ATDC5 cell injury
+ model was constructed, and the effects of lncRNA-ATB on LPS-injured cells
+ were explored via analyzing cell viability, apoptosis, iNOS, COX-2, and
+ inflammatory cytokines (IL-6 and TNF-alpha). Subsequently, the relationship
+ between lncRNA-ATB and microRNA (miR)-223 was detected, and whether miR-223
+ was involved in modulating LPS-induced cells injury in ATDC5 cells was
+ investigated. Finally, MyD88/NF-kappaB and p38MAPK pathways were assessed to
+ explore the underlying mechanism. Results showed that LPS repressed cell
+ viability, induced apoptosis, and promoted iNOS, COX-2, IL-6 and TNF-alpha
+ expression. Additionally, we observed that lncRNA-ATB expression was
+ down-regulated in LPS-injured cells, and lncRNA-ATB overexpression
+ significantly alleviated LPS-induced inflammatory injury in ATDC5 cells.
+ Interesting results revealed that miR-223 expression was down-regulated by
+ lncRNA-ATB and miR-223 overexpression declined the protective effect of
+ lncRNA-ATB on LPS-injured ATDC5 cells. Further, the signaling pathway
+ experiments showed that lncRNA-ATB inhibited MyD88/NF-kappaB and p38MAPK
+ pathways by down-regulating miR-223 in LPS-injured cells. These data
+ demonstrated that lncRNA-ATB protected ATDC5 cells against LPS-induced
+ inflammatory injury by repressing MyD88/NF-kappaB and p38MAPK pathways, which
+ was mediated by down-regulation of miR-223.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cyclooxygenase 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide Synthase Type II",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Transforming Growth Factor beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN223 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Transforming Growth Factor beta"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nitric Oxide Synthase Type II"
+      },
+      {
+        type ec,
+        cit "1.14.99.1",
+        name "Cyclooxygenase 2"
+      }
+    },
+    pmid 30771739,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

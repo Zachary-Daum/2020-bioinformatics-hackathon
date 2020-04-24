@@ -1,0 +1,307 @@
+
+Pubmed-entry ::= {
+  pmid 31223035,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "6-Gingerol protects cardiocytes H9c2 against hypoxia-induced
+ injury by suppressing BNIP3 expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ren Q",
+            affil str "a Department of Cardiology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Zhao S",
+            affil str "a Department of Cardiology, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Ren C",
+            affil str "a Department of Cardiology, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2016-2023",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31223035,
+        doi "10.1080/21691401.2019.1610415",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1610415"
+        }
+      }
+    },
+    abstract "Background: Cardiomyocytes loss is the predominant pathogenic
+ characteristic in the hypoxia-induced injury. Meanwhile, it has been
+ corroborated that Bcl-2 E1B 19-KDa interacting protein 3 (BNIP3) provokes
+ apoptosis and autophagy. For moderating cardiomyocytes loss, we initially
+ probed the cyto-protection effects of 6-Gingerol (6 G), meanwhile, its
+ potential mechanisms associated with BNIP3 were elucidated in our studies.
+ Methods: We pretreated cardiomyocytes H9c2 cells with 6 G at different
+ concentrations (0-100 muM) before exposure to hypoxia. Thereafter, the cell
+ viability, lactate dehydrogenase (LDH), apoptosis and protein expression were
+ respectively assessed using cell counting kit-8 and methyl thiazolyl
+ tetrazolium (MTT) assay, LDH assay kit, Annexin V-fluorescein
+ isothiocyannate/propidium iodide (Annexin V-FITC/PI) apoptosis detection kit
+ and Western blotting analysis. In addition, we also analyzed BNIP3 level
+ after treatment. Moreover, we enforced the exogenous overexpression of BNIP3
+ and then evaluated the cell viability, apoptosis, and protein level again.
+ Results: In our present work, we observed that the cell viability was
+ promoted by 6 G in the hypoxia-induced H9c2 cells in a dose-dependent manner.
+ Moreover, hypoxia-induced LDH release, apoptosis and autophagy were inhibited
+ by 6 G pretreatment through promoting phosphorylation of PI3K, AKT and mTOR.
+ Remarkably, accumulation of BNIP3 protein was significantly reduced by 6 G in
+ hypoxia-induced H9c2 cells. Mechanistically, 6 G initiated the phosphorylated
+ expression of PI3K, AKT and mTOR by down-regulating BNIP3 with reducing
+ cardiomyocytes apoptosis and autophagy. Conclusion: Hypoxia-induced
+ cardiomyocytes injury was ameliorated by 6 G through suppressing BNIP3
+ expression with triggering PI3K/AKT/mTOR signalling pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Catechols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Fatty Alcohols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Membrane Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitochondrial Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BNIP3 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Catechols"
+      },
+      {
+        type nameonly,
+        name "Fatty Alcohols"
+      },
+      {
+        type nameonly,
+        name "Membrane Proteins"
+      },
+      {
+        type nameonly,
+        name "Mitochondrial Proteins"
+      },
+      {
+        type cas,
+        cit "925QK2Z900",
+        name "gingerol"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31223035,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

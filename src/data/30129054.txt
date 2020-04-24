@@ -1,0 +1,298 @@
+
+Pubmed-entry ::= {
+  pmid 30129054,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of long noncoding RNA urothelial carcinoma-associated
+ 1 inhibits cell viability, migration, and invasion by regulating microRNA-182
+ in gastric carcinoma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qin L",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital, Jining, China."
+          },
+          {
+            name ml "Jia Z",
+            affil str "Department of General Surgery, Zoucheng City People's
+ Hospital, Zoucheng, China."
+          },
+          {
+            name ml "Xie D",
+            affil str "Department of General Surgery, Zoucheng City People's
+ Hospital, Zoucheng, China."
+          },
+          {
+            name ml "Liu Z",
+            affil str "Department of Gastrointestinal Surgery, Jining No. 1
+ People's Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "119",
+          issue "12",
+          pages "10075-10086",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30129054,
+        doi "10.1002/jcb.27344",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27344"
+        }
+      }
+    },
+    abstract "BACKGROUND: Long noncoding RNA urothelial carcinoma-associated 1
+ (UCA1) has been reported to be a vital mediator in various cancers. But, in
+ terms of gastric cancer (GC), the effects of UCA1 on GC cell proliferation,
+ migration, invasion, and apoptosis remain unclear. This study aimed to
+ uncover the potential regulatory mechanism of UCA1 in GC cells. METHODS: The
+ expression level of UCA1 was first examined in the five different cell lines
+ of HEK293, CCL-153, HUVEC, SUN-216, and SGC-7901 using a
+ reverse-transcriptase quantitative polymerase chain reaction. Then, the
+ vectors of short hairpin UCA1, the microRNA-182 (miR-182) mimic/inhibitor,
+ and the pEX-tissue inhibitor of metalloproteinases 2 (TIMP2)/small
+ interfering TIMP2 were transfected into SUN-216 and SGC-7901 cells to alter
+ UCA1, miR-182, and TIMP2 expression. To investigate the biological functions,
+ cell viability, migration, invasion, and apoptosis were examined by Cell
+ Counting Kit-8, Transwell, and flow cytometry. The key factors of apoptosis
+ and phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT)/glycogen synthase
+ kinase 3beta (GSK3beta) and nuclear factor kappaB (NF-kappaB) signal pathways
+ were determined by Western blot analysis. RESULTS: UCA1 was upregulated in
+ SUN-216 and SGC-7901 cells than in the other three cell lines of HEK293,
+ CCL-153, and HUVEC. Knockdown of UCA1 significantly suppressed cell
+ viability, migration, and invasion, and promoted apoptosis by regulating
+ B-cell lymphoma 2, Bax, and cleaved-caspase-3/9 expressions. However, miR-182
+ overexpression markedly reversed the regulatory effect of UCA1 knockdown on
+ SUN-216 and SGC-7901 cells. TIMP2 was a direct target gene of miR-182, and
+ TIMP2 overexpression exhibited the same effect of UCA1 knockdown on cell
+ viability, migration, invasion, and apoptosis. Besides, miR-182 activated
+ PI3K/AKT/GSK3beta and NF-kappaB signal pathways by regulation of TIMP2.
+ CONCLUSION: Knockdown of UCA1 exerts an anticancer effect on GC cells by
+ regulating miR-182.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Carcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Human Umbilical Vein Endothelial Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Tissue Inhibitor of Metalloproteinase-2",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn182 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "TIMP2 protein, human"
+      },
+      {
+        type nameonly,
+        name "UCA1 RNA, human"
+      },
+      {
+        type cas,
+        cit "127497-59-0",
+        name "Tissue Inhibitor of Metalloproteinase-2"
+      }
+    },
+    pmid 30129054,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

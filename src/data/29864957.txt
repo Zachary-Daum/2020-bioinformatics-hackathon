@@ -1,0 +1,358 @@
+
+Pubmed-entry ::= {
+  pmid 29864957,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "TUG1 alleviates hypoxia injury by targeting miR-124 in H9c2
+ cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jiang N",
+            affil str "Department of Cardiology, Seventh People's Hospital of
+ Shanghai University of Traditional Chinese Medicine, Shanghai 200137, China."
+          },
+          {
+            name ml "Xia J",
+            affil str "Department of Cardiology, Shanghai Songjiang District
+ Center Hospital, No.746, Zhongshan Middle Road, Songjiang District, Shanghai
+ 201600, China."
+          },
+          {
+            name ml "Jiang B",
+            affil str "Department of Cardiology, Seventh People's Hospital of
+ Shanghai University of Traditional Chinese Medicine, Shanghai 200137, China."
+          },
+          {
+            name ml "Xu Y",
+            affil str "Department of Cardiology, Seventh People's Hospital of
+ Shanghai University of Traditional Chinese Medicine, Shanghai 200137, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Cardiology, Shanghai Songjiang District
+ Center Hospital, No.746, Zhongshan Middle Road, Songjiang District, Shanghai
+ 201600, China. Electronic address: liyansong3612@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "103",
+          pages "1669-1677",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 9
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 29
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29864957,
+        pii "S0753-3322(18)30960-0",
+        doi "10.1016/j.biopha.2018.04.191",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30960-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.04.191"
+        }
+      }
+    },
+    abstract "TUG1 has been reported to play an important role in various
+ cancer types. However, the study about the function of lncRNA TUG1 in
+ myocardial infarction is limited. This study was aimed to investigate the
+ role of TUG1 in H9c2 cell injury induced by hypoxia and explore its possible
+ molecular mechanism. The proliferation assay, migration assay, invasion
+ assay, and apoptosis assay were performed. RT-PCR was used to determine the
+ relative RNA expression of TUG1, miR-124 and Hic-5. Western blotting was used
+ to detect the expression levels of apoptotic proteins, Hic-5, Sp1, and
+ Survivin. Hypoxia could significantly decrease cell proliferation, migration
+ and invasion and increase H9c2 cell apoptosis. Knock-down of TUG1 promoted
+ the cell damage induced by hypoxia. miR-124 was the direct target of TUG1 and
+ down-regulated by TUG1. TUG1 silence aggravated hypoxia injury by
+ up-regulating miR-124. In addition, Hic-5 was the target of miR-124 and
+ negatively regulated by miR-124. Our findings showed that Hic-5
+ over-expression could significantly induce increases in cell viability,
+ migration and invasion, and induce decrease in cell apoptosis after hypoxia
+ damage. Over-expression of Hic-5 could increase the expression of Sp1 and
+ Survivin, which inhibited the cell apoptosis, thereby reducing the cell
+ damage induced by hypoxia.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cytoskeletal Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "DNA-Binding Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "LIM Domain Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Microtubule-Associated Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Survivin"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Birc5 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Cytoskeletal Proteins"
+      },
+      {
+        type nameonly,
+        name "DNA-Binding Proteins"
+      },
+      {
+        type nameonly,
+        name "LIM Domain Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN124 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Microtubule-Associated Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Survivin"
+      },
+      {
+        type nameonly,
+        name "TUG1 long noncoding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "Tgfb1i1 protein, rat"
+      }
+    },
+    pmid 29864957,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

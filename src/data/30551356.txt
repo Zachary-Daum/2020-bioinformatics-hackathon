@@ -1,0 +1,321 @@
+
+Pubmed-entry ::= {
+  pmid 30551356,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ailanthone exerts anticancer effect by up-regulating miR-148a
+ expression in MDA-MB-231 breast cancer cells and inhibiting proliferation,
+ migration and invasion."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gao W",
+            affil str "Two Ward of Breast Thyroid Surgery, Dalian Municipal
+ Central Hospital Affiliated of Dalian Medical University, Dalian, 116033,
+ Liaoning, China. Electronic address: weigao0086@sina.com."
+          },
+          {
+            name ml "Ge S",
+            affil str "Two Ward of Breast Thyroid Surgery, Dalian Municipal
+ Central Hospital Affiliated of Dalian Medical University, Dalian, 116033,
+ Liaoning, China."
+          },
+          {
+            name ml "Sun J",
+            affil str "Two Ward of Breast Thyroid Surgery, Dalian Municipal
+ Central Hospital Affiliated of Dalian Medical University, Dalian, 116033,
+ Liaoning, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "109",
+          pages "1062-1069",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 10,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30551356,
+        pii "S0753-3322(18)32453-3",
+        doi "10.1016/j.biopha.2018.10.114",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)32453-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.10.114"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Breast cancer is one of the most common malignant
+ tumors in women with high mortality. Recent evidences have demonstrated that
+ Ailanthone (AIL) could effectively inhibit tumor growth. However, whether AIL
+ exerts anti-tumor effect on breast cancer remains unclear. The study aimed to
+ investigate the effect of AIL on cell proliferation, apoptosis, migration and
+ invasion in MDA-MB-231 cells. METHODS: After treatment with different
+ concentrations (0-25 muM) of AIL, cell viability was detected by CCK-8 assay,
+ and 10 muM AIL was noted as the optimum concentration for the following
+ experiments. Then, cell proliferation, apoptosis, migration, invasion and
+ relative protein levels were examined by BrdU, flow cytometry, Transwell
+ assays, and western blot, respectively. The expression vectors of miR-148a
+ mimic, miR-148a inhibitor were transfected into MDA-MB-231 cells, and the
+ above experiments were determined again. The signal pathways of AMPK and
+ Wnt/beta-catenin were finally analyzed by western blot assay. RESULTS: Cell
+ viability was significantly decreased by AIL in a dose-dependent way.
+ Moreover, AIL reduced the proliferation rate, and modulated CyclinD1, p53 and
+ p21 expressions. AIL remarkably induced cell apoptosis with an increase in
+ cleaved-Caspase-3/-9 expressions. Further, cell migration and invasion were
+ decreased after treatment of AIL in MDA-MB-231 cells. AIL significantly
+ up-regulated miR-148a expression. The effect of AIL on MDA-MB-231 cells was
+ significantly enhanced by miR-148a overexpression, but reversed by miR-148a
+ inhibition. Besides, we found that AIL blocked AMPK and Wnt/beta-catenin
+ signal pathways by regulating miR-148a. CONCLUSIONS: These data demonstrated
+ that AIL inhibited proliferation, migration and invasion of MDA-MB-231 cells
+ by regulating miR-148a.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Quassins",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transcriptional Activation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "MIRN148 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Quassins"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type cas,
+        cit "981-15-7",
+        name "ailanthone"
+      }
+    },
+    pmid 30551356,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

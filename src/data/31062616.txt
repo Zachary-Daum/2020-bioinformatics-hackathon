@@ -1,0 +1,291 @@
+
+Pubmed-entry ::= {
+  pmid 31062616,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Salidroside mitigates hydrogen peroxide-induced injury by
+ enhancement of microRNA-27a in human trabecular meshwork cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao J",
+            affil str "a Department of Ophthalmology , Linyi People's Hospital
+ , Linyi , China."
+          },
+          {
+            name ml "Du X",
+            affil str "b Department of Ophthalmology, Eye Institute of
+ Shandong University of Traditional Chinese Medicine , Affiliated Eye Hospital
+ of Shandong University of TCM , Jinan , China."
+          },
+          {
+            name ml "Wang M",
+            affil str "a Department of Ophthalmology , Linyi People's Hospital
+ , Linyi , China."
+          },
+          {
+            name ml "Yang P",
+            affil str "c Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "a Department of Ophthalmology , Linyi People's Hospital
+ , Linyi , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1758-1765",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31062616,
+        doi "10.1080/21691401.2019.1608222",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1608222"
+        }
+      }
+    },
+    abstract "Salidroside (Sal) exerted widely pharmacological effects in
+ multitudinous diseases had been certified. The actual study clarified the
+ protective activity of Sal in H2O2-injured human trabecular meshwork (HTM)
+ cells. HTM cells were disposed with H2O2 to construct an oxidative damage
+ model in vitro. Then, Sal was utilized to administrate HTM cells, and cell
+ viability, apoptosis, apoptosis-interrelated proteins and ROS production were
+ appraised using CCK-8, flow cytometry, western blot and DCFH-DA staining.
+ MiR-27a inhibitor and its control were transfected into HTM cells, and the
+ influences of miR-27a inhibition in HTM cells stimulated with H2O2 and Sal
+ were detected. PI3K/AKT and Wnt/beta-catenin pathways were ultimately
+ investigated to uncover the underlying mechanism. We found that H2O2 evoked
+ HTM cells oxidative damage, as evidenced by repressing cell viability,
+ inducing apoptosis, activating cleaved-caspase-3/-9 expression and increasing
+ ROS production. Sal significantly lightened H2O2-evoked oxidative damage in
+ HTM cells. Additionally, miR-27a was up-regulated by Sal, and miR-27a
+ suppression significantly reversed the protective effect of Sal on
+ H2O2-injured HTM cells. Finally, Sal activated PI3K/AKT and Wnt/beta-catenin
+ pathways through enhancement of miR-27a in H2O2-injured HTM cells. In
+ conclusion, these discoveries suggested that Sal could protect HTM cells
+ against H2O2-evoked oxidative damage by activating PI3K/AKT and
+ Wnt/beta-catenin pathways through enhancement of miR-27a. Highlights H2O2
+ evokes HTM cells oxidative damage; Sal relieves H2O2-induced oxidative damage
+ in HTM cells; Sal enhances miR-27a expression in H2O2-injured HTM cells;
+ Repressed miR-27a reverses the protective impacts of Sal on H2O2-injured HTM
+ cells; Sal activates PI3K/AKT and Wnt/beta-catenin pathways by increasing
+ miR-27a.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Trabecular Meshwork",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "MIRN27 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "M983H6N1S9",
+        name "rhodioloside"
+      }
+    },
+    pmid 31062616,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

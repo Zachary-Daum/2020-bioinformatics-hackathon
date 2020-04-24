@@ -1,0 +1,281 @@
+
+Pubmed-entry ::= {
+  pmid 31826181,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Polydatin protects H9c2 cells from hypoxia-induced injury via
+ up-regulating long non-coding RNA DGCR5."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dai J",
+            affil str "Department of Clinical Laboratory, Hwa Mei Hospital,
+ University of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo,
+ Zhejiang, China."
+          },
+          {
+            name ml "Ma J",
+            affil str "Department of Clinical Laboratory, Hwa Mei Hospital,
+ University of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo,
+ Zhejiang, China."
+          },
+          {
+            name ml "Liao Y",
+            affil str "Department of Clinical Laboratory, Hwa Mei Hospital,
+ University of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo,
+ Zhejiang, China."
+          },
+          {
+            name ml "Luo X",
+            affil str "Department of Clinical Laboratory, Ningbo Kangning
+ Hospital, Ningbo Mental Health Center, Ningbo, Zhejiang, China."
+          },
+          {
+            name ml "Chen G",
+            affil str "Department of Cardiology, Hwa Mei Hospital, University
+ of Chinese Academy of Sciences (Ningbo No. 2 Hospital), Ningbo, Zhejiang,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12,
+            day 5
+          },
+          volume "52",
+          issue "12",
+          pages "e8834",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 16
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31826181,
+        pii "S0100-879X2019001200613",
+        doi "10.1590/1414-431X20198834",
+        other {
+          db "pmc",
+          tag str "PMC6903803"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2019001200613"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431X20198834"
+        }
+      }
+    },
+    abstract "Polydatin (PD), a monocrystalline polyphenolic drug mainly found
+ in the roots of Polygonum cuspidatum, has various pharmacological activities.
+ Long non-coding RNAs (lncRNA) DiGeorge syndrome critical region gene 5
+ (DGCR5) was found to participate in the suppression of multiple cancers.
+ Here, we proposed to study the effect of PD on myocardial infarction (MI) by
+ inducing DGCR5. CCK-8 assay was performed to detect the viability of H9c2
+ cells. Flow cytometry was utilized to test apoptosis of H9c2 cells. These
+ results determined the optimal concentration and effect time of hypoxia as
+ well as PD. Si-DGCR5 was transfected into cells and the expression level was
+ determined by qRT-PCR. Western blot was utilized to evaluate the expression
+ of apoptosis-related proteins, Bcl-2, Bax, and cleaved-caspase-3, as well as
+ autophagy-associated proteins including Beclin-1, p62, and LC3-II/LC3-I. As a
+ result, PD efficiently attenuated hypoxia-induced apoptosis and autophagy in
+ H9c2 cells. The expression of DGCR5 was down-regulated by hypoxia and
+ up-regulated by PD. Besides, knocking-down the expression of DGCR5 inhibited
+ the protection of PD in H9c2 cells. In addition, PD up-regulated the
+ accumulation of DGCR5, DGCR5 decreased the expression of Bcl-2 and p62,
+ raised the expression of Bax and cleaved-caspase-3, and the proportion of
+ LC3-II/LC3-I. PD stimulated the PI3K/AKT/mTOR and MEK/ERK signaling pathways
+ via up-regulating the expression of DGCR5. Our data demonstrated that PD
+ reduced cell apoptosis and autophagy induced by hypoxia in cardiomyocytes.
+ Moreover, PD activated PI3K/AKT/mTOR and MEK/ERK signaling pathways by
+ up-regulating the expression of DGCR5.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection"
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Stilbenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Stilbenes"
+      },
+      {
+        type cas,
+        cit "XM261C37CQ",
+        name "polydatin"
+      }
+    },
+    pmid 31826181,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

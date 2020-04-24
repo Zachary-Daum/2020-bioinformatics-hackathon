@@ -1,0 +1,228 @@
+
+Pubmed-entry ::= {
+  pmid 29321082,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long Noncoding RNA ATB Promotes Proliferation, Migration, and
+ Invasion in Bladder Cancer by Suppressing MicroRNA-126."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhai X",
+            affil str "Department of Urology, Zoucheng People's Hospital,
+ Zoucheng, Shandong, P.R. China."
+          },
+          {
+            name ml "Xu W",
+            affil str "Department of Urology, Zoucheng People's Hospital,
+ Zoucheng, Shandong, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8,
+            day 23
+          },
+          volume "26",
+          issue "7",
+          pages "1063-1072",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29321082,
+        doi "10.3727/096504018X15152072098476",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504018X15152072098476"
+        }
+      }
+    },
+    abstract "This study aimed to explore the biological functions of long
+ noncoding RNA activated by transforming growth factor-beta (lncRNA-ATB) in
+ bladder cancer cells. For the expressions of lncRNA-ATB, miR-126, and KRAS,
+ T24 cells were transfected with their specific vectors/shRNA or
+ mimic/inhibitor. Then cell viability, migration, invasion, and apoptosis as
+ well as the protein levels of apoptosis-related factors and PI3K/AKT and mTOR
+ signal pathways were measured. The relationships of lncRNA-ATB and miR-126 or
+ miR-126 and KRAS were analyzed by Dual-Luciferase Reporter assay. Functional
+ experiments showed that lncRNA-ATB overexpression significantly promoted cell
+ viability, migration, and invasion in T24 cells. lncRNA-ATB was a molecular
+ sponge of miR-126 and exerted tumor-promoting effects by downregulation of
+ miR-126. Moreover, KRAS was a direct target of miR-126 and was negatively
+ regulated by miR-126. Finally, overexpression of KRAS increased cell
+ viability, migration, and invasion, as well as activated PI3K/AKT and mTOR
+ signaling pathways in T24 cells. The results revealed that lncRNA-ATB was an
+ oncogene, which promoted cell proliferation, migration, and invasion by
+ regulating miR-126 in bladder cancer. These findings may provide a potential
+ prognostic biomarker and a therapeutic target for bladder cancer.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Movement"
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins p21(ras)",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Tumor Cells, Cultured"
+      },
+      {
+        term "Urinary Bladder Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type nameonly,
+        name "KRAS protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN126 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "long non-coding RNA ATB, human"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "Proto-Oncogene Proteins p21(ras)"
+      }
+    },
+    pmid 29321082,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

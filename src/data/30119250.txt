@@ -1,0 +1,331 @@
+
+Pubmed-entry ::= {
+  pmid 30119250,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-208b targets Bax to protect H9c2 cells against
+ hypoxia-induced apoptosis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhou YL",
+            affil str "Health Management Center, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Sun Q",
+            affil str "Department of Ultrasound, The Affiliated Cardiovascular
+ Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "Department of Ultrasound, The Affiliated Hospital of
+ Jining Medical College, Jining, China."
+          },
+          {
+            name ml "Li R",
+            affil str "Health Management Center, The Affiliated Hospital of
+ Qingdao University, Qingdao, China. Electronic address:
+ qddx1016sunyue@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "106",
+          pages "1751-1759",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 6,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 7,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 7,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30119250,
+        pii "S0753-3322(18)33952-0",
+        doi "10.1016/j.biopha.2018.07.141",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)33952-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.07.141"
+        }
+      }
+    },
+    abstract "BACKGROUND: miR-208 family members have been considered as
+ promising biomarkers in myocardial infarction (MI). Among which, miR-208a and
+ miR-499 are reported to function as ischemic injury promoting miRNAs. This
+ study aimed to explore the in vitro function of miR-208b in MI, which has not
+ been widely studied. METHODS: RT-qPCR was conducted to measure the expression
+ changes of miR-208b in MI patients, MI mouse model and H9c2 cells stimulated
+ by hypoxia. H9c2 cells were subjected to hypoxia before which miR-208b
+ expression was altered by transfection. CCK-8, flow cytometry and Western
+ blot were performed to detect cell survival. Besides, the regulatory
+ relationship between miR-208b, Bax, and PI3K/AKT was tested by luciferase
+ reporter, RT-qPCR and Western blot. RESULTS: Serum levels of miR-208b in MI
+ patients were significantly higher than those in the healthy controls. Also,
+ miR-208b was up-regulated in mouse model and cell model of MI. Overexpression
+ of miR-208b protected H9c2 cells against hypoxia-induced apoptosis, as the
+ viability was increased, apoptosis rate was decreased, Bax and Cytochrome c
+ were down-regulated, and Bcl-2 was up-regulated. Bax was a target gene of
+ miR-208b. And miR-208b could not protect H9c2 cells when Bax was
+ overexpressed. More interestingly, miR-208b activated PI3K/AKT pathway via
+ targeting Bax, and the activated PI3K/AKT pathway could further repress Bax
+ expression. Finally, blocking PI3K/AKT pathway by using LY294002 eliminated
+ the myocardioprotective effects of miR-208b. CONCLUSION: miR-208b is highly
+ expressed during MI, and miR-208b protects H9c2 cells against hypoxia-induced
+ apoptosis. miR-208b exerts myocardioprotective effect via targeting Bax and
+ activating PI3K/AKT pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Apoptosis"
+      },
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cellular Microenvironment"
+      },
+      {
+        term "Cytochromes c",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Gene Expression Regulation"
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "bcl-2-Associated X Protein",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "BAX protein, human"
+      },
+      {
+        type nameonly,
+        name "Bax protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Bax protein, rat"
+      },
+      {
+        type nameonly,
+        name "MIRN208 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN208 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn208 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "bcl-2-Associated X Protein"
+      },
+      {
+        type cas,
+        cit "9007-43-6",
+        name "Cytochromes c"
+      },
+      {
+        type ec,
+        cit "2.7.1.137",
+        name "Phosphatidylinositol 3-Kinase"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 30119250,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

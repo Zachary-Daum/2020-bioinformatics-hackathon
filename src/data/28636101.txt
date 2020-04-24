@@ -1,0 +1,245 @@
+
+Pubmed-entry ::= {
+  pmid 28636101,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of lncRNA MEG3 inhibits viability, migration, and
+ invasion and promotes apoptosis by sponging miR-127 in osteosarcoma cell."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Kong D",
+            affil str "Department of Orthopaedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "119",
+          issue "1",
+          pages "669-679",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28636101,
+        doi "10.1002/jcb.26230",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26230"
+        }
+      }
+    },
+    abstract "Osteosarcoma (OS) is one of the most common bone malignancies
+ and occurs almost exclusively in children and adolescents. This study aimed
+ to explore the role of lncRNA maternally expressed gene 3 (MEG3) in OS cells
+ growth and metastasis, and to uncover the possible underlying mechanism. In
+ this study, the expressions of MEG3 in five OS cell lines (MG63, OS-732,
+ SaOS, G292, and 143B) and in a human osteoblast cell line hFOB1.19 were
+ measured by qRT-PCR analysis. The expressions of MEG3, miR-127, and ZEB1 in
+ OS-732 cells were overexpressed or suppressed by transfection. Cell
+ viability, migration, invasion, and apoptosis were then assessed. The results
+ showed that MEG3 was highly expressed in OS cell lines when compared to
+ hFOB1.19 cell. MEG3 silence significantly suppressed OS-732 cells growth and
+ metastasis, as evidenced by the decreases in cell viability, migration,
+ invasion, and increase in apoptotic cell rate. MEG3 acted as an endogenous
+ sponge by binding to miR-127. More interestingly, MEG3 silence could not
+ suppress OS-732 cells growth and metastasis when miR-127 was knocked down.
+ ZEB1 was a target gene of miR-127, and miR-127 overexpression-induced
+ impairments in cell growth and metastasis were attenuated when ZEB1 was
+ overexpressed. Moreover,miR-127 suppression activated JNK and Wnt signaling
+ pathways, while these activations were recovered by ZEB1 silence. To
+ conclude, our findings suggest that lncRNA MEG3 promoted OS cells growth and
+ metastasis in vitro through sponging miR-127. This study provides the
+ evidence that MEG3 may be a potential therapeutic target for OS.",
+    mesh {
+      {
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway"
+      },
+      {
+        term "Zinc Finger E-box-Binding Homeobox 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "MEG3 non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN127 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "ZEB1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Zinc Finger E-box-Binding Homeobox 1"
+      }
+    },
+    pmid 28636101,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

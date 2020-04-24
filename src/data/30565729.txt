@@ -1,0 +1,151 @@
+
+Pubmed-entry ::= {
+  pmid 30565729,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ailanthone exerts an antitumor function on the development of
+ human lung cancer by upregulating microRNA-195."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hou S",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Cheng Z",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Wang W",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital,
+ Linyi, China."
+          },
+          {
+            name ml "Wu Y",
+            affil str "Department of Thoracic Surgery, Linyi Central Hospital,
+ Linyi, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 6
+          },
+          volume "120",
+          issue "6",
+          pages "10444-10451",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 10,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30565729,
+        doi "10.1002/jcb.28329",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.28329"
+        }
+      }
+    },
+    abstract "BACKGROUND: Lung cancer is a common leading cause of
+ cancer-related death worldwide. Ailanthone, a natural compound isolated from
+ Chinese herb Ailanthus altissima, has been reported to exert
+ antiproliferative effects on various cancer cells. METHODS: The present study
+ aimed to investigate the role of ailanthone in the lung cancer cells and the
+ correlation between the ailanthone and microRNA (miR)-195. The cell
+ viability, proliferation, and apoptosis were determined by cell counting
+ kit-8 assay, bromodeoxyuridine incorporation method, annexin V-fluorescein
+ isothiocyanate/propidium iodide assay, respectively. Apoptosis- and
+ autophagy-related proteins, as well as regulatory factors in the signaling
+ pathways, were analyzed by Western blot method. The expression of miR-195 was
+ quantified by quantitative reverse transcription-polymerase chain reaction.
+ RESULTS: The results confirmed that ailanthone was involved in the lung
+ cancer cell progress by inhibiting cell viability and proliferation, but
+ promoted cell apoptosis and autophagy. We also found that ailanthone
+ upregulated the expression of miR-195. Further, the downregulated miR-195
+ inhibited the apoptosis and autophagy induced by ailanthone. Moreover, our
+ studies revealed that miR-195 inhibitor promoted the phosphorylation of PI3K,
+ AKT, JAK, and STAT3, which was inhibited by ailanthone. CONCLUSION: All these
+ findings suggest that ailanthone plays key roles in lung cancer progress and
+ is closely correlated with miR-195 expression.",
+    pmid 30565729,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

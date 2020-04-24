@@ -1,0 +1,279 @@
+
+Pubmed-entry ::= {
+  pmid 31669130,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA MALAT1 knockdown alleviates oxygen-glucose deprivation
+ and reperfusion induced cardiomyocyte apoptotic death by regulating miR-122."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gong L",
+            affil str "Department of Cardiology, China-Japan Union Hospital of
+ Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Chang H",
+            affil str "Department of Cardiology, China-Japan Union Hospital of
+ Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Xu H",
+            affil str "Department of Cardiology, China-Japan Union Hospital of
+ Jilin University, Changchun 130033, China. Electronic address:
+ xhming0145@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "111",
+          pages "104325",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31669130,
+        pii "S0014-4800(19)30261-8",
+        doi "10.1016/j.yexmp.2019.104325",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(19)30261-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.104325"
+        }
+      }
+    },
+    abstract "BACKGROUND: Metastasis associated lung adenocarcinoma transcript
+ 1 (MALAT1) has been reported to be critical in the onset and progression of
+ acute myocardial ischemia (AMI). This study attempted to reveal the
+ biological function of MALAT1 in AMI. METHODS: Expression of MALAT1 in H9c2
+ cells was silenced by shRNA-mediated transfection, following which cells were
+ suffered from oxygen-glucose deprivation and reperfusion (OGD/R). CCK-8, flow
+ cytometry and western blot were carried out to evaluate the effects of MALAT1
+ against OGD/R injury. Further, the correlation between MALAT1, miR-122 and
+ AKT/GSK-3beta/beta-catenin signaling was studied to decode the underlying
+ mechanisms. RESULTS: MALAT1 expression was highly expressed following OGD/R.
+ Suppression of MALAT1 attenuated OGD/R-induced cardiomyocyte apoptosis, as
+ evidenced by the increase of cell viability and the decrease of apoptosis
+ rate. Besides that, miR-122 was found to be positive regulated by MALAT1. The
+ protective effects of MALAT1 knockdown were flattened by miR-122
+ overexpression. Furthermore, AKT/GSK-3beta/beta-catenin signaling was
+ activated by MALAT1 knockdown. The effects of MALAT1 knockdown on the
+ signaling were flattened when miR-122 was overexpressed. CONCLUSION: Our
+ finding revealed protective effects of MALAT1 knockdown on OGD/R induced
+ cardiomyocyte apoptosis. MALAT1 exerted its function possibly through
+ regulating AKT/GSK-3beta/beta-catenin signaling through up-regulating miR-122.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Wistar"
+      },
+      {
+        term "Reperfusion Injury",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MALAT1 long noncoding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "MIRN122 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 31669130,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

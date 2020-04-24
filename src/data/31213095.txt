@@ -1,0 +1,299 @@
+
+Pubmed-entry ::= {
+  pmid 31213095,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tetramethylpyrazine relieves LPS-induced pancreatic beta-cell
+ Min6 injury via regulation of miR-101/MKP-1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen D",
+            affil str "a Department of Nuclear Medicine, Qingdao Municipal
+ Hospital , Qingdao , China."
+          },
+          {
+            name ml "Cao D",
+            affil str "b Department of Pharmacy, Qingdao Municipal Hospital ,
+ Qingdao , China."
+          },
+          {
+            name ml "Sui P",
+            affil str "c Jining Medical University , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2545-2552",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31213095,
+        doi "10.1080/21691401.2019.1628039",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1628039"
+        }
+      }
+    },
+    abstract "Tetramethylpyrazine (TMP) is a traditional Chinese medicine with
+ anti-inflammation and immunomodulatory effects. In this context, our purpose
+ was to investigate the associated regulatory mechanisms of TMP against
+ lipopolysaccharide (LPS)-caused pancreatic beta cell Min6 injury. The injury
+ of Min6 cells was induced by 10 mug/mL of LPS. Viability of Min6 cells was
+ detected through CCK-8 assay, apoptosis process through flow cytometry, and
+ the proteins involved in apoptosis through western blot. Insulin secretion
+ was valued through the glucose-stimulated insulin secretion (GSIS) assay.
+ microRNA-101 (miR-101) was measured through qRT-PCR. Mitogen-activated
+ protein kinase phosphatase 1 (MKP-1) and signaling regulators was measured
+ through western blot. We found that, TMP treatment effectively attenuated
+ LPS-induced injury in Min6 cells by suppressing cell apoptosis and promoting
+ insulin secretion. Further investigation revealed that TMP exerted protective
+ effect through down-regulating miR-101, and MKP-1 was demonstrated as a
+ target of miR-101. Moreover, TMP attenuated LPS-triggered inflammation by
+ inactivating the JNK1/2 and NF-kappaB through the down-regulation of miR-101.
+ In conclusion, our present study revealed that TMP alleviated LPS-induced
+ injury in pancreatic beta-cell Min6 injury via regulation of miR-101/MKP-1
+ with the bluntness of JNK1/2 and NF-kappaB pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dual Specificity Phosphatase 1",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Enzymologic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Insulin Secretion",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Insulin-Secreting Cells",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 8",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 9",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pyrazines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN101 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Pyrazines"
+      },
+      {
+        type ec,
+        cit "2.7.1.24",
+        name "Mitogen-Activated Protein Kinase 9"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 8"
+      },
+      {
+        type ec,
+        cit "3.1.3.48",
+        name "Dual Specificity Phosphatase 1"
+      },
+      {
+        type cas,
+        cit "V80F4IA5XG",
+        name "tetramethylpyrazine"
+      }
+    },
+    pmid 31213095,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

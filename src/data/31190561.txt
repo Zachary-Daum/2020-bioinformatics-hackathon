@@ -1,0 +1,272 @@
+
+Pubmed-entry ::= {
+  pmid 31190561,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LINC00305 represses miR-124 expression to trigger inflammatory
+ insults in the presence of lipopolysaccharide."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X",
+            affil str "a Department of Orthopaedics, Affiliated Hospital of
+ Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Yu M",
+            affil str "b Department of Trauma Reconstruction, Shandong Wendeng
+ Orthopaedic & Traumatic Hospital   Weihai , China."
+          },
+          {
+            name ml "Han L",
+            affil str "a Department of Orthopaedics, Affiliated Hospital of
+ Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Chen L",
+            affil str "a Department of Orthopaedics, Affiliated Hospital of
+ Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Zhang D",
+            affil str "a Department of Orthopaedics, Affiliated Hospital of
+ Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Zhou G",
+            affil str "c Emergency Department, Jining No. 1 People's Hospital
+ , Jining , China."
+          },
+          {
+            name ml "Zhao Q",
+            affil str "d Department of Orthopaedics, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Sun T",
+            affil str "d Department of Orthopaedics, Jining No.1 People's
+ Hospital , Jining , China.; e Department of Orthopaedics, Affiliated Jining
+ No.1 People's Hospital of Jining Medical University, Jining Medical
+ University , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2352-2360",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31190561,
+        doi "10.1080/21691401.2019.1624559",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1624559"
+        }
+      }
+    },
+    abstract "Background: The anti-inflammatory function of microRNA-124
+ (miR-124) has been a matter of extensive studies in the last few years.
+ Although LINC00305 regulates biological activities by acting as a miR sponge,
+ it is still unexplored whether LINC00305 is involved in inflammation by
+ regulating miR-124. Methods: Cell viability and apoptosis were evaluated with
+ commercial kits, cell counting kit-8 (CCK-8) and Annexin V-fluorescein
+ isothiocyanate (FITC) kit, respectively. LINC00305, miR-124 and mRNA levels
+ were quantified by quantitative reverse transcription PCR (qRT-PCR). Protein
+ level was assessed with Western blot assay and enzyme-linked immunosorbent
+ assay (ELISA). Results: The expression of LINC00305 was up-regulated by
+ lipopolysaccharide (LPS). LINC00305 overexpression further suppressed the
+ cell viability, promoted apoptosis and induced inflammation in LPS-treated
+ ATDC5 cells while its silence enhanced the cell viability, inhibited
+ apoptosis and ameliorated inflammation. miR-124 was negatively regulated by
+ LINC00305 and its overexpression abolished the effects of LINC00305 in the
+ presence of LPS. LINC00305 further triggered the Notch/nuclear factor kappa B
+ (NF-kappaB) signalling pathway in LPS-treated ATDC5 cells and this activation
+ was abrogated when ATDC5 cells overexpressed miR-124. Conclusion: LINC00305
+ might emerge as a novel suppressor for miR-124. LINC00305-caused miR-124
+ silence compromises ATDC5 cell viability and ultimately results in
+ inflammatory insults by activating Notch/NF-kappaB pathway.",
+    mesh {
+      {
+        term "Cell Line"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn124 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      }
+    },
+    pmid 31190561,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

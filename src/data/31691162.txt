@@ -1,0 +1,287 @@
+
+Pubmed-entry ::= {
+  pmid 31691162,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Triptolide inhibits angiogenesis in microvascular endothelial
+ cells through regulation of miR-92a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu X",
+            affil str "Medical Examination Center of Qilu Hospital of Shandong
+ University, No.107 Culture West Road, Jinan, 250012, Shandong, China.;
+ Department of Health Management, Jining NO.1 People's Hospital, Jining,
+ 272011, Shandong, China."
+          },
+          {
+            name ml "Tian L",
+            affil str "Department of Critical Care Medicine, Jining NO.1
+ People's Hospital, Jining, 272011, Shandong, China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "Medical Examination Center of Qilu Hospital of Shandong
+ University, No.107 Culture West Road, Jinan, 250012, Shandong, China.
+ zhangzhimian0064@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Physiol. Biochem.",
+          ml-jta "J Physiol Biochem",
+          issn "1877-8755",
+          name "Journal of physiology and biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11
+          },
+          volume "75",
+          issue "4",
+          pages "573-583",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31691162,
+        doi "10.1007/s13105-019-00707-2",
+        pii "10.1007/s13105-019-00707-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s13105-019-00707-2"
+        }
+      }
+    },
+    abstract "Atherosclerosis is one common chronic inflammatory disease in
+ which angiogenesis is involved. Here we established an in vitro cell model of
+ angiogenesis made by human dermal microvascular endothelial cells (HMEC-1)
+ and work to investigate the role of triptolide (TPL) in this model. To induce
+ angiogenesis, HMEC-1 cells were cultured in Matrigel-conditioned medium. The
+ ratio of tubes to nucleus was detected. To evaluate angiogenesis, Western
+ blot assay was carried out to detect endothelial nitric oxide synthase
+ (eNOS), vascular endothelial growth factor receptor-2 (VEGFR2) and VEGF. Cell
+ counting kit-8 was utilized to estimate the viability of HMEC-1 cells.
+ microRNA (miR)-92a was analyzed by qRT-PCR. The targeting relationship
+ between integrin subunit alpha 5 (ITGA5) and miR-92a was verified through
+ luciferase activity assay. The effects of ITGA5 on signaling transducers
+ (ERK, PI3K, and AKT) in a phosphorylated form were valued using Western blot
+ method. After stimulated by TPL, LY294002 and PD98059, the alteration in
+ phosphorylation of the signaling transducers was evaluated by Western blot
+ assay. The ratio of tubes to nucleus and angiogenesis related factors were
+ increased with the delaying of culture time. TPL decreased the expression of
+ angiogenesis factors. Furthermore, miR-92a was upregulated by TPL and miR-92a
+ silence upregulated angiogenesis factors. In addition, TPL decreased ITGA5
+ which was proved as a target of miR-92a. ITGA5 overexpression resulted in the
+ abundance of angiogenesis factors while ITGA5 silence led to the opposite
+ results. Meanwhile, ITGA5 overexpression increased phosphorylation of ERK,
+ PI3K and AKT while ITGA5 silence reversed the trend. TPL (as an
+ anti-angiogenesis agent) suppressed angiogenesis by upregulating miR-92a, and
+ miR-92a-mediated down-regulation of ITGA5 blocked the signaling transduction
+ of ERK and PI3K/AKT pathways.",
+    mesh {
+      {
+        term "Cell Line"
+      },
+      {
+        term "Diterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Epoxy Compounds",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Integrins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neovascularization, Pathologic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Phenanthrenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Skin",
+        qual {
+          {
+            subh "blood supply"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Diterpenes"
+      },
+      {
+        type nameonly,
+        name "Epoxy Compounds"
+      },
+      {
+        type nameonly,
+        name "ITGA5 protein, human"
+      },
+      {
+        type nameonly,
+        name "Integrins"
+      },
+      {
+        type nameonly,
+        name "MIRN92 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenanthrenes"
+      },
+      {
+        type cas,
+        cit "19ALD1S53J",
+        name "triptolide"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 31691162,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

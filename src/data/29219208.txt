@@ -1,0 +1,294 @@
+
+Pubmed-entry ::= {
+  pmid 29219208,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA H19 promotes epithelial-mesenchymal transition (EMT) by
+ targeting miR-484 in human lung cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang Q",
+            affil str "Department of Respiration, Henan Provincial People's
+ Hospital, Zhengzhou, Henan, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Respiration, Henan Provincial People's
+ Hospital, Zhengzhou, Henan, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Respiration, Henan Provincial People's
+ Hospital, Zhengzhou, Henan, China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Respiration, Henan Provincial People's
+ Hospital, Zhengzhou, Henan, China."
+          },
+          {
+            name ml "Chen Z",
+            affil str "Department of Respiration, Henan Provincial People's
+ Hospital, Zhengzhou, Henan, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "119",
+          issue "6",
+          pages "4447-4457",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29219208,
+        doi "10.1002/jcb.26537",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26537"
+        }
+      }
+    },
+    abstract "Recently, the long non-coding RNA (lncRNA) H19 has been
+ identified as an oncogenic gene in multiple cancer types. However, the
+ molecular basis for this observation has not been characterized in lung
+ cancer, especially during epithelial mesenchymal transition (EMT)
+ progression. Cell viability, migration, invasion, and apoptosis were measured
+ using trypan blue exclusion assay, Transwell migration/invasion assay, and
+ flow cytometry, respectively. Quantitative RT-PCR was used to measure
+ relative expressions of H19, microR-484 (miR-484), and Rho associated
+ coiled-coil containing protein kinase 2 (ROCK2). Western blot was used to
+ measure expressions of apoptosis-, EMT-, and c-Jun N-terminal kinase (JNK)
+ pathway-related proteins. Luciferase reporter assay was used to identify the
+ target of H19. H19 was highly expressed in both lung cancer tissues and
+ cells. Suppression of H19 significantly decreased A549 cell viability,
+ migration, and invasion, but promoted apoptosis. Overexpression of H19
+ promoted cell migration, invasion, and EMT process. miR-484 was a target of
+ H19 and overexpression of it reversed the effects of H19 on EMT. miR-484
+ regulated the expression of ROCK2. Mechanistic study revealed that
+ suppressing H19 decreased the expression of proteins in JNK pathway, and
+ ROCK2 was the main downstream molecule of H19. H19 promoted EMT in lung
+ cancer A549 cells by negatively regulating miR-484.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        mp TRUE,
+        term "Epithelial-Mesenchymal Transition"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Kinase 4",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "rho-Associated Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "H19 long non-coding RNA"
+      },
+      {
+        type nameonly,
+        name "MIRN484 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "ROCK2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "rho-Associated Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.12.2",
+        name "MAP Kinase Kinase 4"
+      }
+    },
+    pmid 29219208,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

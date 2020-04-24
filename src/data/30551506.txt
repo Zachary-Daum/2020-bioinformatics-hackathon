@@ -1,0 +1,295 @@
+
+Pubmed-entry ::= {
+  pmid 30551506,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Icariin inhibits cell proliferation, migration and invasion by
+ down-regulation of microRNA-625-3p in thyroid cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fang L",
+            affil str "Department of Thyroid and Breast Surgery, Jining No. 1
+ People's Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Xu W",
+            affil str "Department of Thyroid and Breast Surgery, Jining No. 1
+ People's Hospital, Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Kong D",
+            affil str "Department of Thyroid and Breast Surgery, Jining No. 1
+ People's Hospital, Jining 272011, Shandong, China. Electronic address:
+ kongdedi0062@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "109",
+          pages "2456-2463",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 2
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30551506,
+        pii "S0753-3322(18)30343-3",
+        doi "10.1016/j.biopha.2018.04.012",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30343-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.04.012"
+        }
+      }
+    },
+    abstract "Thyroid cancer (TC) is a familiar cancer, which accounts for
+ approximately 1% of the malignant tumors of all cancers worldwide. Recently,
+ icariin (ICA) has been reported to play an anti-tumor role in different
+ cancers. The study aimed to investigate the effect of ICA on TC cells to
+ uncover the regulatory mechanism. The different concentrations of ICA were
+ stimulated SW579 and TPC1 cells, and cell viability, apoptosis, migration,
+ invasion and main factors of these processes were detected by CCK-8, flow
+ cytometry, Transwell and western blot. The expression of miR-625-3p in TC
+ tissues or in ICA-treated cells was examined by qRT-PCR. MiR-625-3p mimic and
+ the negative control were transfected into SW579 and TPC1 cells to
+ investigate the effect of miR-625-3p on TC. Finally, the signaling pathways
+ of PI3K/AKT and MEK/ERK were examined by western blot. ICA significantly
+ suppressed cell viability in a dose-dependent manner and induced apoptosis by
+ regulating Bcl-2, Bax and cleaced-Caspase-3/-9 expression in SW579 and TPC1
+ cells (p<0.001). Moreover, ICA inhibited cell migration and invasion by
+ down-regulating MMP-9 and Vimentin in SW579 and TPC1 cells (p<0.01 or
+ p<0.001). The expression level of miR-625-3p was decreased by ICA, and
+ miR-625-3p overexpression reversed the anti-tumor effect of ICA on SW579 and
+ TPC1 cells (p<0.05, p<0.01 or p<0.001). Furthermore, ICA inactivated PI3K/AKT
+ and MEK/ERK signaling pathways by mediating miR-625-3p in SW579 and TPC1
+ cells. ICA exerted anti-tumor effect by inhibiting cell proliferation,
+ migration and invasion by down-regulating miR-625-3p in TC cells.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Thyroid Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "MIRN625 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "VNM47R2QSQ",
+        name "icariin"
+      }
+    },
+    pmid 30551506,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 31387394,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silencing circular RNA circZNF609 restrains growth, migration
+ and invasion by up-regulating microRNA-186-5p in prostate cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jin C",
+            affil str "a Department of Urology, The First Affiliated Hospital
+ of Harbin Medical University , Harbin , China."
+          },
+          {
+            name ml "Zhao W",
+            affil str "a Department of Urology, The First Affiliated Hospital
+ of Harbin Medical University , Harbin , China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "a Department of Urology, The First Affiliated Hospital
+ of Harbin Medical University , Harbin , China."
+          },
+          {
+            name ml "Liu W",
+            affil str "b Department of Reproductive Medicine, The First
+ Affiliated Hospital of Harbin Medical University , Harbin , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3350-3358",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31387394,
+        doi "10.1080/21691401.2019.1648281",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1648281"
+        }
+      }
+    },
+    abstract "Background: Prostate cancer (PC) fearfully impacts men's health.
+ We explored the efficacy and mechanism of circular RNA circZNF609
+ (circZNF609) on colony formation, viability, apoptosis, migration and
+ invasion and in PC cells. Methods: Colony formation, CCK-8, flow cytometry,
+ migration and invasion assay were respectively used to detect the functions
+ of circZNF609 and microRNA (miR)-186-5p on cell colony ability, viability,
+ apoptosis, migration and invasion. circZNF609 and miR-186-5p expression were
+ changed by cell transfection and tested by RT-qPCR. Moreover,
+ Cleaved-Caspase-3, Cleaved-Caspase-9, matrix metalloproteinase-9 (MMP-9),
+ Vimentin and relate-proteins of cell pathways were examined through Western
+ blot. Results: circZNF609 was highly expressed at PC tissues. circZNF609
+ declined cell colony ability, viability, migration and invasion and caused
+ apoptosis. Furthermore, circZNF609 negatively regulated miR-186-5p,
+ miR-186-5p inhibitor could reverse impacts of circZNF609. Finally, circZNF609
+ restrained the YAP1 and AMPK pathways by up-regulating miR-186-5p.
+ Conclusion: Silencing circZNF609 restrained growth, migration and invasion of
+ PC cells by up-regulating miR-186-5p via YAP1 and AMPK pathways. Highlights
+ circZNF609 is highly expressed in PC tissues; circZNF609 restrains cell
+ growth, migration and invasion; circZNF609 exerts its function by
+ up-regulating miR-186-5p; circZNF609 exerts its function by YAP1 and AMPK
+ signaling pathways.",
+    mesh {
+      {
+        term "AMP-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Adaptor Proteins, Signal Transducing",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "PC-3 Cells"
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Circular",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Transcription Factors",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adaptor Proteins, Signal Transducing"
+      },
+      {
+        type nameonly,
+        name "MIRN186 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Circular"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "YAP1 (Yes-associated) protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.31",
+        name "AMP-Activated Protein Kinases"
+      }
+    },
+    pmid 31387394,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

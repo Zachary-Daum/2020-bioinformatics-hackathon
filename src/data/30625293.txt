@@ -1,0 +1,323 @@
+
+Pubmed-entry ::= {
+  pmid 30625293,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalin protects human retinal pigment epithelial cell lines
+ against high glucose-induced cell injury by up-regulation of microRNA-145."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dai C",
+            affil str "Department of Ophthalmology, Shandong Provincial
+ Hospital Affiliated to Shandong University, Jinan 250021, China; Department
+ of Ophthalmology, Yantai Affiliated Hospital of Binzhou Medical University,
+ Yantai 264100, China."
+          },
+          {
+            name ml "Jiang S",
+            affil str "Department of Ophthalmology, Yantai Affiliated Hospital
+ of Binzhou Medical University, Yantai 264100, China."
+          },
+          {
+            name ml "Chu C",
+            affil str "Department of Ophthalmology, Yantai Affiliated Hospital
+ of Binzhou Medical University, Yantai 264100, China."
+          },
+          {
+            name ml "Xin M",
+            affil str "Department of Ophthalmology, Yantai Affiliated Hospital
+ of Binzhou Medical University, Yantai 264100, China."
+          },
+          {
+            name ml "Song X",
+            affil str "Department of Ophthalmology, Yantai Affiliated Hospital
+ of Binzhou Medical University, Yantai 264100, China."
+          },
+          {
+            name ml "Zhao B",
+            affil str "Department of Ophthalmology, Shandong Provincial
+ Hospital Affiliated to Shandong University, Jinan 250021, China. Electronic
+ address: zhaobojun2018@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "106",
+          pages "123-130",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30625293,
+        pii "S0014-4800(18)30345-9",
+        doi "10.1016/j.yexmp.2019.01.002",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30345-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.01.002"
+        }
+      }
+    },
+    abstract "BACKGROUND: Diabetic retinopathy (DR) is a common complication
+ of diabetes mellitus, which is a major reason of blindness. Baicalin (BAI) is
+ a flavonoid extracted from Scutellaria baicalensis, whose pharmacological
+ characterizes have been widely reported in various diseases. However, it
+ remains unclear the effect of BAI on DR. The study aimed to confirm the
+ protective effect of BAI on DR. METHODS: ARPE-19 cells and HRMECs were
+ exposed to the high glucose (HG) environment to construct a cell injury
+ model. After treatment with HG and BAI, cell viability, apoptosis,
+ inflammatory cytokines and ROS generations were determined in ARPE-19 cells
+ and HRMECs. Subsequently, microRNA-145 (miR-145) inhibitor and its negative
+ control were transfected into ARPE-19 cells, and the regulatory effects on
+ HG-and BAI-co-treated cells were detected. NF-kappaB and p38MAPK signaling
+ pathways were finally examined to state the underling mechanisms. RESULTS: HG
+ treatment significantly induced ARPE-19 cells and HRMECs injury in vitro. BAI
+ significantly promoted cell proliferation, reduced apoptosis, as well as
+ inhibited the release of IL-1beta, IL-6, IL-8 and ROS level in HG-injured
+ ARPE-19 cells and HRMECs. Additionally, the expression level of miR-145 was
+ up-regulated in HG-and BAI-co-treated cells. More importantly, miR-145
+ inhibition reversed the protective effect of BAI on HG-injured ARPE-19 cells.
+ Besides, we observed that BAI inhibited the activations of NF-kappaB and
+ p38MAPK pathways by up-regulating miR-145. CONCLUSIONS: Results demonstrated
+ that BAI exhibited the protective effect against HG-induced cell injury by
+ up-regulation of miR-145.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Diabetic Retinopathy",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Drug Evaluation, Preclinical"
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species"
+      },
+      {
+        term "Retinal Pigment Epithelium",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "MIRN145 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "347Q89U4M5",
+        name "baicalin"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      }
+    },
+    pmid 30625293,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

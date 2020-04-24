@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 31556312,
+  medent {
+    em std {
+      year 2019,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sinomenine restrains breast cancer cells proliferation,
+ migration and invasion via modulation of miR-29/PDCD-4 axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gao G",
+            affil str "Department of Galactophore, Linyi Central Hospital ,
+ Linyi , China."
+          },
+          {
+            name ml "Liang X",
+            affil str "Department of Pharmacy, Shenzhen Hospital, Southern
+ Medical University , Shenzhen , China."
+          },
+          {
+            name ml "Ma W",
+            affil str "Department of Pharmacy, Jining No.1 People's Hospital ,
+ Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3839-3846",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31556312,
+        doi "10.1080/21691401.2019.1666861",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1666861"
+        }
+      }
+    },
+    abstract "Sinomenine (Sino) is diffusely applied in heal rheumatoid
+ arthritis and neuralgia. Howbeit, the activities of Sino in breast cancer
+ cells remain confused. The research attempted to probe the anti-tumor
+ function of Sino in breast cancer cells and divulge the feasible molecular
+ mechanism. Sion at the 1-16 muM concentrations was exploited for the exposure
+ of MDA-MB-231 or MCF7 cells, and cell growth, migration, invasion, cell
+ cycle-relevant and apoptosis-correlative factors were estimated. Micro RNA
+ (miR)-29 expression was evaluated via enforcing qRT-PCR, and the actions of
+ miR-29 in MDA-MB-231 cells growth, migration and invasion were appraised
+ after the overexpressed or suppressed vectors transfection. The functions of
+ PDCD-4 in JNK and MEK/ERK pathways were estimated by employing western blot.
+ We found that, Sino exposure impeded cell proliferation, provoked cell
+ apoptosis and barricaded cell migration and invasion in MDA-MB-231 and MCF7
+ cells. Enhancement of miR-29 was observed in Sino-managed cells, and miR-29
+ overexpression further potentiated the activities of Sino in MDA-MB-231
+ cells. Additionally, Sino remarkably enhanced PCDC-4 expression via adjusting
+ miR-29 in MDA-MB-231 cells. Beyond that, overexpressed PCDC-4 obstructed JNK
+ and MEK/ERK pathways in MDA-MB-231 cells. Taken together, the explorations
+ unveiled that Sino restrained MDA-MB-231 cells proliferation, migration,
+ invasion, and provoked apoptosis through modulation of miR-29/PDCD-4 axis.
+ Highlight Sino inhibits MDA-MB-231 and MCF7 cells proliferation and provokes
+ apoptosis; Sino restrains MDA-MB-231 and MCF7 cells migration and invasion;
+ Sino ascends miR-29 expression in MDA-MB-231 and MCF7 cells; Sino adjusts
+ cell growth, migration and invasion via modulating miR-29; Sino up-regulates
+ PDCD-4 expression through mediating miR-29; PDCD-4 obstructs JNK and MEK/ERK
+ pathways in MDA-MB-231 cells.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MCF-7 Cells"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Morphinans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "RNA-Binding Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN29 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Morphinans"
+      },
+      {
+        type nameonly,
+        name "PDCD4 protein, human"
+      },
+      {
+        type nameonly,
+        name "RNA-Binding Proteins"
+      },
+      {
+        type cas,
+        cit "63LT81K70N",
+        name "sinomenine"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31556312,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

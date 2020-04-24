@@ -1,0 +1,290 @@
+
+Pubmed-entry ::= {
+  pmid 28379605,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-126 Inhibits Proliferation, Migration, Invasion, and
+ EMT in Osteosarcoma by Targeting ZEB1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jiang R",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, China."
+          },
+          {
+            name ml "Liu G",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Gu R",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Wu H",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "118",
+          issue "11",
+          pages "3765-3774",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 31
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28379605,
+        doi "10.1002/jcb.26024",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26024"
+        }
+      }
+    },
+    abstract "Osteosarcoma (OS) is a tumor with rapid progression, high
+ metastatic potential and poor clinical prognosis. This study was aimed to
+ investigate the function of miR-126 in OS cells. The miR-126 expression in OS
+ cell lines and OS tissues were explored by qRT-PCR. Then, the effects of
+ miR-126 on proliferation, cycle, migration, invasion, and transforming growth
+ factor (TGF)-beta1 induced epithelial to mesenchymal transition (EMT) were
+ assessed. Predicted by TargetScan, one of target genes for miR-126 was
+ verified by luciferase activity assay. Meantime, the mRNA and protein
+ expressions of ZEB1 were assessed by qRT-PCR and Western blot assay.
+ Subsequently, the effect of ZEB1 silence on miR-126 down-regulated cells was
+ also evaluated. Finally, the expressions of key kinases involved in c-Jun
+ N-terminal kinase (JNK) and Janus-activated kinase (JAK)-1/signal transducer
+ and activator of transcription (STAT)-3 pathways were detected by Western
+ blot analysis. Result showed that miR-126 was down-regulated in OS tissues
+ and cell lines. Overexpression of miR-126 significantly inhibited cell
+ proliferation, migration, invasion, and TGF-beta1 induced EMT. The effect of
+ miR-126 knockdown was just the opposite. ZEB1 was predicted and verified as a
+ target gene of miR-126. Meantime, the influence of miR-126 knockdown was
+ abrogated by ZEB1 silence. Additionally, the phosphorylation levels of c-Jun,
+ JNK, JAK1, and STAT3 were down-regulated in miR-126 over-expressed cells, and
+ the effect of miR-126 knockdown was reversed by ZEB1 silence. In conclusion,
+ miR-126 inhibits proliferation, migration, invasion and EMT in OS by
+ targeting ZEB1 through inactivation of JNK and JAK1/STAT3 pathways. J. Cell.
+ Biochem. 118: 3765-3774, 2017. (c) 2017 Wiley Periodicals, Inc.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Movement"
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        mp TRUE,
+        term "Epithelial-Mesenchymal Transition"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Zinc Finger E-box-Binding Homeobox 1",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN126 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type nameonly,
+        name "ZEB1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Zinc Finger E-box-Binding Homeobox 1"
+      }
+    },
+    pmid 28379605,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

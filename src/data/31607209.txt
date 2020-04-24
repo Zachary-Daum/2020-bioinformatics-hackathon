@@ -1,0 +1,134 @@
+
+Pubmed-entry ::= {
+  pmid 31607209,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The circular RNA ZNF292 alleviates OGD-induced injury in H9c2
+ cells via targeting BNIP3."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ren Q",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, China.; Affiliated Jining No.1 People's Hospital of Jining
+ Medical University, Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell Cycle",
+          ml-jta "Cell Cycle",
+          issn "1551-4005",
+          name "Cell cycle (Georgetown, Tex.)"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "18",
+          issue "23",
+          pages "3365-3377",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 10,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31607209,
+        doi "10.1080/15384101.2019.1676585",
+        other {
+          db "pmc",
+          tag str "PMC6927697"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/15384101.2019.1676585"
+        }
+      }
+    },
+    abstract "The research aims to explore the roles and regulatory mechanisms
+ of the circular RNA (circRNA) ZNF292 (circZNF292) in OGD-induced damage in
+ H9c2 cells. The H9c2 cells were treated by OGD and/or transfected with
+ circZNF292, si-circZNF292, pc-Bcl-2/adenovirus E1B-19 kDa-interacting protein
+ 3 (BNIP3) or corresponding controls. Cell viability was detected with the
+ CCK-8. The protein expression levels of the Bax, caspase-3, Beclin-1, p62,
+ LC3, BNIP3, Wnt3a, beta-catenin and mammalian target of rapamycin (mTOR) were
+ individually determined via western blot. qRT-PCR was used to examine the
+ circZNF292 expression level. The apoptotic rate was determined by the Annexin
+ V-FITC/PI with flow cytometer. The production of the circZNF292 was promoted
+ by OGD. Abundant circZNF292 released OGD-induced damage by up-regulating cell
+ viability and Wnt3a/beta-catenin or mTOR proteins, but down-regulating
+ apoptosis and autophagy. circZNF292 had an opposite effect on these elements
+ mentioned above. Besides, BNIP3 was negatively adjusted by the circZNF292.
+ The BNIP3 overproduction destroyed the protective effect of circZNF292 on
+ H9c2. circZNF292 released OGD-induced damage in the H9c2 cells by targeting
+ the BNIP3 through Wnt/beta-catenin and mTOR activation.",
+    pmid 31607209,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

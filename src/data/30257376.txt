@@ -1,0 +1,295 @@
+
+Pubmed-entry ::= {
+  pmid 30257376,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Baicalein inhibits proliferation and migration of bladder cancer
+ cell line T24 by down-regulation of microRNA-106."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jiang L",
+            affil str "Department of Urology, Tianjin TEDA Hospital, Tianjin,
+ 300457, China."
+          },
+          {
+            name ml "Song H",
+            affil str "Department of Urology, Dezhou People's Hospital,
+ Dezhou, Shandong, 253000, China."
+          },
+          {
+            name ml "Guo H",
+            affil str "Department of Urology, Jining No.1 People's Hospital,
+ Jining, Shandong, 272011, China. Electronic address: guohb327@sina.com."
+          },
+          {
+            name ml "Wang C",
+            affil str "Department of Urology, Jining No.1 People's Hospital,
+ Jining, Shandong, 272011, China."
+          },
+          {
+            name ml "Lu Z",
+            affil str "Department of Urology, Jining No.1 People's Hospital,
+ Jining, Shandong, 272011, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "107",
+          pages "1583-1590",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 8,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 8,
+                day 22
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30257376,
+        pii "S0753-3322(18)32088-2",
+        doi "10.1016/j.biopha.2018.08.107",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)32088-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.08.107"
+        }
+      }
+    },
+    abstract "BACKGROUND: The high incidence and relapse make bladder cancer
+ become a public health problem. Although the anti-tumor role of baicalein
+ (BAI) in bladder cancer has been reported, the details of regulatory
+ mechanism and the interaction between BAI and microRNAs (miRs) remain
+ unclear. We aimed to explore the regulatory mechanisms of BAI in bladder
+ cancer. METHODS: T24 cell viability after BAI treatments was measured by Cell
+ Counting Kit-8 assay. Then, effects of BAI on proliferation, apoptosis,
+ migration and expressions of proteins involved were assessed by BrdU
+ incorporation assay, flow cytometry assay, Transwell cell migration assay and
+ Western blot analysis, respectively. We subsequently testified the miR-106
+ and p21 level using stem-loop RT-PCR. In addition, whether BAI affected T24
+ cells through regulating miR-106 was verified. Double luciferase reporter
+ assay was used to determine a target of miR-106. The involvements of the
+ c-Jun N-terminal protein kinase (JNK) and mitogen-activated protein kinase
+ kinase (MEK)/ extracellular signal-regulated kinase (ERK) pathways were
+ finally measured. RESULTS: First of all, we verified that BAI could repress
+ proliferation and migration, and promote apoptosis. Then, we interestingly
+ identified that miR-106 level was decreased by BAI stimulation. After that,
+ miR-106 overexpression was found to significantly reverse the effects of BAI
+ on proliferation, migration and apoptosis of T24 cells. p21 was a target of
+ miR-106. Finally, phosphorylated levels of JNK, MEK and ERK were reduced by
+ BAI, and those reductions were reversed by miR-106 overexpression.
+ Furthermore, phosphorylated levels of JNK, MEK and ERK were reduced by p21
+ upregulation. CONCLUSION: BAI suppressed proliferation and migration, and
+ induced apoptosis of T24 cells through down-regulating miR-106, along with
+ inhibition of the JNK and MEK/ERK pathways.",
+    mesh {
+      {
+        term "Antineoplastic Agents, Phytogenic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Flavanones",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Reverse Transcriptase Polymerase Chain Reaction"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Urinary Bladder Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Phytogenic"
+      },
+      {
+        type nameonly,
+        name "Flavanones"
+      },
+      {
+        type nameonly,
+        name "MIRN106 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type cas,
+        cit "49QAH60606",
+        name "baicalein"
+      }
+    },
+    pmid 30257376,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

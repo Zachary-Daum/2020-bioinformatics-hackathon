@@ -1,0 +1,375 @@
+
+Pubmed-entry ::= {
+  pmid 29179202,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long Non-Coding RNA H19 Protects H9c2 Cells against
+ Hypoxia-Induced Injury by Targeting MicroRNA-139."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gong LC",
+            affil str "Department of Cardiovascular Internal Medicine,
+ Changchun, China."
+          },
+          {
+            name ml "Xu HM",
+            affil str "Department of Cardiovascular Internal Medicine,
+ Changchun, China."
+          },
+          {
+            name ml "Guo GL",
+            affil str "Department of Cardiovascular Internal Medicine,
+ Changchun, China."
+          },
+          {
+            name ml "Zhang T",
+            affil str "Department of Gastrointestinal Surgery, Changchun,
+ China."
+          },
+          {
+            name ml "Shi JW",
+            affil str "Department of Clinical Laboratory, China-Japan Union
+ Hospital of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Chang C",
+            affil str "Department of Cardiovascular Internal Medicine,
+ Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "44",
+          issue "3",
+          pages "857-869",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29179202,
+        pii "000485354",
+        doi "10.1159/000485354",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000485354"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Acute myocardial infarction (AMI) occurs when
+ blood supply to the heart is diminished (ischemia) for long time; ischemia is
+ primarily caused due to hypoxia. The present study evaluated the effects of
+ long non-coding RNA H19 on hypoxic rat H9c2 cells and mouse HL-1 cells.
+ METHODS: Hypoxic injury was confirmed by measuring cell viability, migration
+ and invasion, and apoptosis using MTT, Transwell and flow cytometry assays,
+ respectively. H19 expression after hypoxia was estimated by qRT-PCR. We then
+ measured the effects of non-physiologically expressed H19, knockdown of
+ miR-139 with or without H19 silence, and abnormally expressed Sox8 on
+ hypoxia-induced H9c2 cells. Moreover, the interacted miRNA for H19 and
+ downstream target gene were virtually screened and verified. The involved
+ signaling pathways and the effects of abnormally expressed H19 on
+ contractility of HL-1 cells were explored via Western blot analysis. RESULTS:
+ Hypoxia induced decreases of cell viability, migration and invasion, increase
+ of cell apoptosis and up-regulation of H19. Knockdown of H19 increased
+ hypoxia-induced injury in H9c2 cells. H19 acted as a sponge for miR-139 and
+ H19 knockdown aggravated hypoxia-induced injury by up-regulating miR-139.
+ Sox8 was identified as a target of miR-139, and its expression was negatively
+ regulated by miR-139. The mechanistic studies revealed that overexpression of
+ Sox8 might decrease hypoxia-induced cell injury by activating the
+ PI3K/AKT/mTOR pathway and MAPK. Besides, H19 promoted contractility of HL-1
+ cells. CONCLUSION: These findings suggest that H19 alleviates hypoxia-induced
+ myocardial cell injury by miR-139-mediated up-regulation of Sox8, along with
+ activation of the PI3K/AKT/mTOR pathway and MAPK.",
+    mesh {
+      {
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        mp TRUE,
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      },
+      {
+        term "SOXE Transcription Factors",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sarcoplasmic Reticulum",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sarcoplasmic Reticulum Calcium-Transporting ATPases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sequence Alignment"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "H19 long non-coding RNA"
+      },
+      {
+        type nameonly,
+        name "MIRN139 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "SOXE Transcription Factors"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "3.6.3.8",
+        name "Sarcoplasmic Reticulum Calcium-Transporting ATPases"
+      }
+    },
+    pmid 29179202,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

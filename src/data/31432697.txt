@@ -1,0 +1,378 @@
+
+Pubmed-entry ::= {
+  pmid 31432697,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Anti-gastric cancer effect of Salidroside through elevating
+ miR-99a expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang L",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Yu Y",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Zhang Q",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Li X",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Mao T",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Liu S",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          },
+          {
+            name ml "Tian Z",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University , Qingdao , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3500-3510",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31432697,
+        doi "10.1080/21691401.2019.1652626",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1652626"
+        }
+      }
+    },
+    abstract "Salidroside is an active ingredient extracted from Rhodiola
+ rosea that has anti-tumor activities. The current paper attempted to assess
+ the impact of Salidroside on gastric cancer (GC) and explore the potential
+ mechanism. GC cell lines (SNU-216 and MGC803) and gastric epithelial cell
+ line GES-1 were treated with Salidroside. CCK-8 assay, colony formation
+ assay, flow cytometry and Transwell assay were respectively performed to
+ evaluate GC cells phenotype. qRT-PCR and western blot were conducted to
+ reveal the downstream genes and signaling of Salidroside. We found that 800
+ muM Salidroside was capable of reducing GC cells viability, while has no such
+ impacts on GES-1 cells. Salidroside inhibited GC cells proliferation,
+ migration, invasion and promoted apoptosis, which coupled with the
+ down-regulation of p21, Bcl-2, MMP2, RhoA, p-ROCK1, Vimentin and the
+ up-regulations of CyclinD1, Bax, cleaved caspases. miR-99a was found to be
+ highly expressed in response to Salidroside treatment. Besides, the
+ inhibition of MAPK/ERK and PI3K/AKT signaling induced by Salidroside was
+ attenuated by miR-99a silence and in this process, IGF1R worked as a target
+ of miR-99a. The anti-GC effect of Salidroside was also confirmed in a mouse
+ model of GC. The promoting effect of Salidroside on miR-99a expression was
+ also verified in vivo. Furthermore, Salidroside promoted the
+ cisplatin-sensitivity of SGC7901/DDP cells. In conclusion, this study
+ demonstrated that Salidroside possessed anti-GC effects through regulating
+ miR-99a/IGF1R axis and inhibiting MAPK/ERK and PI3K/AKT pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cisplatin",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Drug Synergism"
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Receptor, IGF Type 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Xenograft Model Antitumor Assays"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "IGF1R protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN99 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "Receptor, IGF Type 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinases"
+      },
+      {
+        type cas,
+        cit "M983H6N1S9",
+        name "rhodioloside"
+      },
+      {
+        type cas,
+        cit "Q20Q21Q62J",
+        name "Cisplatin"
+      }
+    },
+    pmid 31432697,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

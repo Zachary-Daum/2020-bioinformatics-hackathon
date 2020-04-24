@@ -1,0 +1,136 @@
+
+Pubmed-entry ::= {
+  pmid 31531877,
+  medent {
+    em std {
+      year 2019,
+      month 9,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CBP-triggered KDM2B acetylation accelerates the carcinogenesis
+ of colon cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qi Y",
+            affil str "Department of Anus and Intestine Surgery, Jining No.1
+ People's Hospital, Jining, China.; Affiliated Jining NO.1 People's Hospital
+ of Jining Medical University, Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Zhao Y",
+            affil str "Department of Anus and Intestine Surgery, Jining No.1
+ People's Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 3
+          },
+          volume "235",
+          issue "3",
+          pages "2901-2910",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 9,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31531877,
+        doi "10.1002/jcp.29196",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.29196"
+        }
+      }
+    },
+    abstract "Lysine (K)-specific demethylase 2B (KDM2B) has been testified to
+ be an oncogene in diverse cancers, which joins in mediating the
+ carcinogenesis of cancers. Nonetheless, the function of KDM2B in colon cancer
+ remains unexplored. The study attempted to disclose the influences of KDM2B
+ acetylation in the progression of colon cancer. SW48 and SUN-C1 cells were
+ transfected with Flag-KDM2B and administrated by trichostatin A and
+ nicotinamide for 24 hr. Immunoprecipitation with a Flag antibody followed by
+ western blot with acetyl-lysine-specific antibody was executed to detect
+ KDM2B acetylation. The correlation between CREB binding protein (CBP) and
+ KDM2B was then investigated. The K-R and K-Q mutants were constructed and the
+ impacts of KDM2B on demethylation of nucleosomal substrates, p21, and puma
+ transcription and the carcinogenesis of colon cancer were probed. CBP
+ immediately evoked KDM2B acetylation at lysine residue 765 in colon cancer
+ cells. Acetylation of KDM2B obviously destroyed the relevance with
+ nucleosomes, demethylation of nucleosomal substrates, and repressed p21 and
+ puma transcription. More important, KDM2B acetylation restrained SUN-C1 cells
+ proliferation and colony formation, meanwhile, hindered cell migration and
+ invasion. Beyond that, the tumor formation was repressed by KDM2B
+ acetylation. The observations testified that CBP-triggered KDM2B acetylation
+ accelerated the carcinogenesis of colon cancer.",
+    pmid 31531877,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

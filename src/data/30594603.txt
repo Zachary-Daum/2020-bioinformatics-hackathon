@@ -1,0 +1,335 @@
+
+Pubmed-entry ::= {
+  pmid 30594603,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lycium barbarum polysaccharides alleviate hydrogen
+ peroxide-induced injury by up-regulation of miR-4295 in human trabecular
+ meshwork cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu Y",
+            affil str "Department of Ophthalmology, Zhoukou Central Hospital,
+ Zhoukou, Henan 466000, China. Electronic address: yuxialiu0001@sina.com."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Pathology, Huaihe Hospital of Henan
+ University, Kaifeng, Henan 475000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "106",
+          pages "109-115",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 8,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 11,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 12,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30594603,
+        pii "S0014-4800(18)30324-1",
+        doi "10.1016/j.yexmp.2018.12.007",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30324-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2018.12.007"
+        }
+      }
+    },
+    abstract "Glaucoma is a chronic neurodegenerative disease which produces
+ damage to the optic nerve and causes sightlessness. Current remains lack of
+ effective method for glaucoma. Lycium barbarum polysaccharides (LBPs) have
+ pleiotropic effects on various diseases. However, the effect of LBPs on
+ glaucoma remains unclear. The study aimed to clarify the protective effect of
+ LBPs against hydrogen peroxide (H2O2)-induced oxidative damage in human
+ trabecular meshwork (HTM) cells. HTM cells were exposed to H2O2 (0-400muM)
+ for 24h to construct an oxidative damage model. Then, the different
+ concentrations of LBPs (0-500mugmL(-1)) were used to pre-treated HTM cells,
+ and cell viability, apoptosis, protein levels of pro-/cleaved-caspase-3 and
+ pro-/cleaved-caspase-9, and reactive oxygen species (ROS) generations were
+ detected. MicroRNA (miR)-4295 inhibitor and its control were transfected into
+ HTM cells, and the biological functions of miR-4295 were assessed in H2O2 and
+ LBPs treated cells. Phosphatidylinositol 3-kinase (PI3K)/protein Kinase B
+ (AKT) and extracellular regulated protein kinases (ERK) pathways were
+ determined by western blot assay. LBPs significantly promoted cell viability,
+ reduced apoptosis, declined cleaved-caspase-3/-9 and ROS level in HTM cells
+ after H2O2 administration. MiR-4295 expression was up-regulated in H2O2 and
+ LBPs treated cells. The protective effect of LBPs on H2O2-injured HTM cells
+ was obviously reversed by miR-4295 inhibition. LBPs activated PI3K/AKT and
+ ERK signaling pathways through up-regulation of miR-4295 in H2O2-injured HTM
+ cells. These data demonstrated that LBPs alleviated H2O2-induced injury by
+ up-regulation of miR-4295 in HTM cells, indicating the protective effect of
+ LBPs on HTM cells against oxidative damage.",
+    mesh {
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glaucoma",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Lycium",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Trabecular Meshwork",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "MIRN4295 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "lycium barbarum polysaccharide"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      }
+    },
+    pmid 30594603,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

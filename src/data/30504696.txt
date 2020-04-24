@@ -1,0 +1,270 @@
+
+Pubmed-entry ::= {
+  pmid 30504696,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notoginsenoside R1 Protects HUVEC Against Oxidized Low Density
+ Lipoprotein (Ox-LDL)-Induced Atherogenic Response via Down-Regulating miR-132."
+      },
+      authors {
+        names ml {
+          "Fu C",
+          "Yin D",
+          "Nie H",
+          "Sun D"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "4",
+          pages "1739-1750",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 11,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30504696,
+        pii "000495677",
+        doi "10.1159/000495677",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000495677"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Radix notoginseng is a well-known traditional
+ Chinese herbal medicine, has extensively pharmacological activities in
+ cardiovascular system. Notoginsenoside R1 (NGR1) is one main active
+ ingredient of Radix notoginseng. The purpose of this study was to evaluate
+ the functional effects of NGR1 on atherosclerosis (AS). METHODS: Human
+ umbilical vascular endothelial cells (HUVECs) were subjected to oxidized low
+ density lipoprotein (ox-LDL), before which cells were preconditioned with
+ NGR1. Cell Counting Kit-8 (CCK-8) assay, flow cytometry, Transwell assay,
+ quantitative real-time polymerase chain reaction (qRT-PCR) and Western blot
+ were carried out to assess the impacts of ox-LDL and NGR1 on HUVECs. Besides,
+ the expression of microRNA-132 (miR-132), and the regulatory role of miR-132
+ in Matrix Gla Protein (MGP) expression were measured by qRT-PCR and Western
+ blot. RESULTS: NGR1 pre-conditioning prevented ox-LDL-induced apoptosis,
+ migration and overproduction of Monocyte Chemoattractant Protein 1 (MCP-1)
+ and Intercellular Adhesion Molecule 1 (ICAM-1). miR-132 was up-regulated in
+ response to ox-LDL while was down-regulated by NGR1 pre-conditioning. The
+ protective actions of NGR1 in ox-LDL-treated HUVECs were enhanced by miR-132
+ inhibitor, while were attenuated by miR-132 mimic. Besides, the up-regulated
+ miR-132 could further decrease the expression of MGP, which acted as an
+ anti-migratory and anti-adhesive factor. Furthermore, ox-LDL-induced the
+ activation of c-Jun N-terminal Kinase (JNK) and Nuclear Factor Kappa B
+ (NF-kappaB) pathways were partially attenuated by NGR1, and were fully
+ eliminated by NGR1 treatment together with MGP overexpression. CONCLUSION:
+ NGR1 prevents ox-LDL-induced apoptosis, migration and adhesion-related
+ molecule release in HUVECs possibly via down-regulating miR-132, and
+ subsequent up-regulating MGP.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Atherosclerosis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Human Umbilical Vein Endothelial Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipoproteins, LDL",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "Lipoproteins, LDL"
+      },
+      {
+        type nameonly,
+        name "MIRN132 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "oxidized low density lipoprotein"
+      },
+      {
+        type cas,
+        cit "Z62692362Z",
+        name "notoginsenoside R1"
+      }
+    },
+    pmid 30504696,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

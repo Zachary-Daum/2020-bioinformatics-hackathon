@@ -1,0 +1,251 @@
+
+Pubmed-entry ::= {
+  pmid 31810390,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-PI3K pathway promotes osteosarcoma progression via
+ regulating VRK1-mediated H2A phosphorylation at threonine 120."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu X",
+            affil str "Department of Traumatology, Jining No.1 People's
+ Hospital, Jining, Shandong, China.; Affiliated Jining No. 1 People's Hospital
+ of Jining Medical University, Jining Medical University, Jining, Shandong,
+ China."
+          },
+          {
+            name ml "Yu H",
+            affil str "Department of Traumatology, Jining No.1 People's
+ Hospital, Jining, Shandong, China.; Affiliated Jining No. 1 People's Hospital
+ of Jining Medical University, Jining Medical University, Jining, Shandong,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "4274-4283",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31810390,
+        doi "10.1080/21691401.2019.1687506",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1687506"
+        }
+      }
+    },
+    abstract "Background: Ras-PI3K pathway aberrant activation plays an
+ important role in the occurrence and development of osteosarcoma. This study
+ investigated the functions of Ras-PI3K pathway specific activation on histone
+ H2A phosphorylation at threonine 120 (H2A(T120ph)) in osteosarcoma cells,
+ along with the possible internal molecular mechanisms.Methods: Cell
+ transfection was done to alter Ras(G12V/Y40C), H2A(T120ph) and
+ vaccinia-related kinase 1 (VRK1) expression. Then, cell viability,
+ proliferation, migration and cell cycle distribution were assessed,
+ respectively. qRT-PCR was utilized to measure the VRK1 and Ras-PI3K pathway
+ downstream genes (CYR61, IGFBP3, WNT16B, NT5E, GDF15 and CARD16) expression.
+ Chromatin immunoprecipitation (ChIP) was conducted to evaluate the input
+ levels of H2A(T120ph) and VRK1 in the promoter regions of Ras-PI3K pathway
+ downstream genes.Results: Ras-PI3K specific activation promoted histone
+ H2A(T120ph). H2A(T120ph) participated in the oncogenic functions of Ras-PI3K
+ pathway on osteosarcoma by modulating the transcription of Ras-PI3K-targeted
+ genes. Moreover, VRK1 contributed to the Ras-PI3K specific activation-induced
+ up-regulation of H2A(T120ph) and osteosarcoma progression. Ras-PI3K
+ pathway-specific activation-induced up-regulation of H2A(T120ph) was achieved
+ by up-regulation of VRK1.Conclusions: Ras-PI3K pathway activation promoted
+ osteosarcoma progression might be via up-regulating VRK1-mediated
+ H2A(T120ph). We proposed that VRK1 and H2A(T120ph) could be the potential
+ targets for osteosarcoma diagnosis and treatment.HighlightsH2A(T120ph) is
+ specifically promoted by Ras-PI3K pathway activation.H2A(T120ph) joins in the
+ oncogenic effects of Ras-PI3K pathway on osteosarcoma.H2A(T120ph) regulates
+ the transcription of Ras-PI3K-targeted genes.VRK1 takes part in the
+ regulatory function of Ras-PI3K pathway on H2A(T120ph).",
+    mesh {
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intracellular Signaling Peptides and Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Protein-Serine-Threonine Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Threonine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription, Genetic"
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "ras Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type nameonly,
+        name "Intracellular Signaling Peptides and Proteins"
+      },
+      {
+        type cas,
+        cit "2ZD004190S",
+        name "Threonine"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Protein-Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "VRK1 protein, human"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "ras Proteins"
+      }
+    },
+    pmid 31810390,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

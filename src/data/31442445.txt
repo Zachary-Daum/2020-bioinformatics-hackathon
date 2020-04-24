@@ -1,0 +1,347 @@
+
+Pubmed-entry ::= {
+  pmid 31442445,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silencing circANKRD36 protects H9c2 cells against
+ lipopolysaccharide-induced injury via up-regulating miR-138."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shi S",
+            affil str "Department of Cardiology I, People's Hospital of Juye
+ County, Heze 274900, China."
+          },
+          {
+            name ml "Zhang S",
+            affil str "Department of Cardiology III, Affiliated Hospital of
+ Jining Medical University, Jining 272000, China. Electronic address:
+ zhang19sh@163.com."
+          },
+          {
+            name ml "Zhang H",
+            affil str "Department of Cardiology I, Affiliated Hospital of
+ Jining Medical University, Jining 272000, China."
+          },
+          {
+            name ml "Jin Q",
+            affil str "Department of Cardiology I, Affiliated Hospital of
+ Jining Medical University, Jining 272000, China."
+          },
+          {
+            name ml "Wu D",
+            affil str "Department of Cardiology V, Affiliated Hospital of
+ Jining Medical University, Jining 272000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "111",
+          pages "104300",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 5,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 7,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 8,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31442445,
+        pii "S0014-4800(19)30408-3",
+        doi "10.1016/j.yexmp.2019.104300",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(19)30408-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.104300"
+        }
+      }
+    },
+    abstract "BACKGROUND: Myocarditis refers to the inflammatory process that
+ affects the muscle tissue of the heart. Persistent myocardial inflammation
+ promotes myocardial cell damage, which ultimately leads to heart failure or
+ death. Therefore, we aimed to explore the functional impacts of circANKRD36
+ on myocarditis. METHODS: H9c2 cells were pre-treated with lipopolysaccharide
+ (LPS). Viability and apoptosis were evaluated utilizing CCK-8 assay and flow
+ cytometry. Inflammatory cytokines mRNA expression and production were
+ assessed by qRT-PCR and ELISA. Western blot was utilized to distinguish
+ apoptosis and inflammatory related factors expression. Sequentially, the
+ above mentioned parameters were reassessed when overexpressed miR-138.
+ RESULTS: LPS declined viability and as well as raised apoptosis and
+ inflammatory injury in H9c2 cells. Silencing circular RNA ANKRD36
+ (si-circANKRD36) alleviated apoptosis and inflammatory injury induced by LPS.
+ MiR-138 expression was suppressed by LPS and elevated by si-circANKRD36.
+ Increase of viability and inflammatory injury induced by si-circANKRD36 was
+ alleviated by down-regulation of miR-138. Eventually, si-circANKRD36
+ inhibited p38MAPK/NF-kappaB pathway which activated by LPS via up-regulating
+ miR-138. CONCLUSION: Si-circANKRD36 exerted its anti-apoptosis and
+ anti-inflammatory function under the condition of LPS in H9c2 cells through
+ p38MAPK/NF-kappaB pathway and up-regulation of miR-138.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Cytokines"
+      },
+      {
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Heart Ventricles",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocarditis",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Circular",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN138 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "RNA, Circular"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 31442445,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

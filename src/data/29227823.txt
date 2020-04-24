@@ -1,0 +1,333 @@
+
+Pubmed-entry ::= {
+  pmid 29227823,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA MALAT1 regulates sepsis-induced cardiac inflammation and
+ dysfunction via interaction with miR-125b and p38 MAPK/NFkappaB."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen H",
+            affil str "Department of Anesthesiology, Shenzhen Bao'an Maternity
+ and Child Health Hospital, Shenzhen 518100, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Department of Anesthesiology, Shenzhen Bao'an Maternity
+ and Child Health Hospital, Shenzhen 518100, China."
+          },
+          {
+            name ml "Yan X",
+            affil str "Department of Anesthesiology, Shenzhen Bao'an Maternity
+ and Child Health Hospital, Shenzhen 518100, China. Electronic address:
+ xuetaoyan08@126.com."
+          },
+          {
+            name ml "Cheng X",
+            affil str "Department of Anesthesiology, Shenzhen Bao'an Maternity
+ and Child Health Hospital, Shenzhen 518100, China."
+          },
+          {
+            name ml "He X",
+            affil str "Department of Anesthesiology, Zhongnan Hospital of
+ Wuhan University, Wuhan, Hubei 430071, China."
+          },
+          {
+            name ml "Zheng W",
+            affil str "Department of Anesthesiology, Shenzhen Bao'an Maternity
+ and Child Health Hospital, Shenzhen 518100, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. Immunopharmacol.",
+          ml-jta "Int Immunopharmacol",
+          issn "1878-1705",
+          name "International immunopharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "55",
+          pages "69-76",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29227823,
+        pii "S1567-5769(17)30458-7",
+        doi "10.1016/j.intimp.2017.11.038",
+        other {
+          db "ELocationID pii",
+          tag str "S1567-5769(17)30458-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.intimp.2017.11.038"
+        }
+      }
+    },
+    abstract "This study aimed to explore the role of MALAT1 in sepsis-induced
+ cardiac inflammation and dysfunction. We constructed the rat sepsis models
+ through cecal ligation and puncture (CLP). The cardiac function, including
+ left ventricular peak pressure (LVPP), left ventricular end diastolic
+ pressure (LVEDP) and maximum rate of rise/fall of left ventricle pressure
+ (+/-dp/dtmax) as well as the contents of serum cardiac troponin I (CTn-I),
+ creatine kinase (CK), and creative kinase isoenzyme MB (CK-MB) were detected
+ after modeling. Additionally, the blood cytokines levels including tumor
+ necrosis factor alpha (TNF-alpha), interleukin 6 (IL-6), IL-1beta, IL-10,
+ IL-17, and IFN-gamma and complement proteins of C5 and C5a after modeling
+ were detected. Moreover, luciferase reporter assay was performed to
+ investigate the regulatory miRNA of MALAT1. The protein expressions of p38
+ MAPK, NFkappaB, JAK2 and STAT3 were detected using western blot. MALAT1
+ expression was significantly upregulated in CLP-induced sepsis model. MALAT1
+ knockdown significantly increased LVSP and +dp/dsmax, decreased LVEDP and
+ -dp/dsmax of sepsis as well as levels of cTn-I, CK, CK-MB, TNF-alpha,
+ IL-1beta, IL-6, IL-10, IL-17, IFN-gamma, C5 and C5a. MALAT1 was regulated by
+ miR-125b, and miR-125b overexpression and MALAT1 knockdown had similar
+ effects on sepsis rat models. Furthermore, MALAT1 induced cardiac dysfunction
+ and inflammation in CLP models via activating p38 MAPK/NFkappaB. Our results
+ suggest that MALAT1 aggravates cardiac inflammation and dysfunction in
+ sepsis, which is achieved via interaction with miR-125b and p38
+ MAPK/NFkappaB. MALAT1 may serve as a diagnostic marker and therapeutic target
+ in sepsis.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cecum",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Heart Function Tests"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Myocarditis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Sepsis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Troponin I",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "MALAT1 long noncoding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "MIRN125 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "Troponin I"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      }
+    },
+    pmid 29227823,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

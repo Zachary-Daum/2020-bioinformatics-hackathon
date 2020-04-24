@@ -1,0 +1,288 @@
+
+Pubmed-entry ::= {
+  pmid 29377269,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ginsenoside Rh2 inhibits proliferation and migration of
+ medulloblastoma Daoy by down-regulation of microRNA-31."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen Y",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Shang H",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Zhang S",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "119",
+          issue "8",
+          pages "6527-6534",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29377269,
+        doi "10.1002/jcb.26716",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26716"
+        }
+      }
+    },
+    abstract "This study aimed to investigate the effects of ginsenoside Rh2
+ on proliferation, apoptosis, and migration of the human medulloblastoma cell
+ line Daoy, as well as to explore the potential mechanisms of the effects. The
+ human medulloblastoma cell line Daoy was cultured in vitro and treated with
+ or without ginsenoside Rh2. CCK-8 assay was performed to investigate the
+ effect of Rh2 on cell survival using a cell counting Kit-8. Cell
+ proliferation was assessed by BrdU assay. Cell apoptosis was determined using
+ flow cytometry analysis. Cell migration was detected using a modified
+ two-chamber migration assay. MiR-31 mimic and the NC control were transfected
+ into Daoy cells and detected by qRT-PCR. The expression of Wnt3a, Wnt5a, and
+ beta-catein was detected by Western blot analysis. Rh2 efficiently suppressed
+ the proliferation and migration, and promoted the apoptosis of Daoy cells.
+ Additionally, Rh2 could down-regulate miR-31. miR-31 overexpression reversed
+ the effects of Rh2 on proliferation, apoptosis and migration of Daoy cells,
+ and activated the Wnt/beta-catein signaling pathways in Daoy cells. Rh2 could
+ inhibit the proliferation and migration, and induce apoptosis of Daoy
+ medulloblastoma cells through down-regulation of miR-31 to inactivate the
+ Wnt/beta-catein signaling pathway. Therefore, Rh2 may have a utility in
+ clinical applications for the treatment of medulloblastoma.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cerebellar Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Medulloblastoma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN31 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type cas,
+        cit "78214-33-2",
+        name "ginsenoside Rh2"
+      }
+    },
+    pmid 29377269,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

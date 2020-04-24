@@ -1,0 +1,251 @@
+
+Pubmed-entry ::= {
+  pmid 29363368,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Total glucosides of paeony suppresses experimental autoimmune
+ uveitis in association with inhibition of Th1 and Th2 cell function in mice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang XT",
+            affil str "1 Department of Ophthalmology, Changsha Aier Eye
+ Hospital, Aier School of Ophthalmology, Central South University, Changsha,
+ China.; 2 Department of Ophthalmology, Huaihe Hospital of Henan University,
+ Kaifeng, China."
+          },
+          {
+            name ml "Wang B",
+            affil str "3 Department of Dermatology, Huaihe Hospital of Henan
+ University, Kaifeng, China."
+          },
+          {
+            name ml "Zhang WH",
+            affil str "4 Department of Ophthalmology, Third Xiangya Hospital
+ of Central South University, Changsha, China."
+          },
+          {
+            name ml "Peng MQ",
+            affil str "1 Department of Ophthalmology, Changsha Aier Eye
+ Hospital, Aier School of Ophthalmology, Central South University, Changsha,
+ China."
+          },
+          {
+            name ml "Lin D",
+            affil str "1 Department of Ophthalmology, Changsha Aier Eye
+ Hospital, Aier School of Ophthalmology, Central South University, Changsha,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "32",
+          pages "394632017751547",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29363368,
+        doi "10.1177/0394632017751547",
+        other {
+          db "pmc",
+          tag str "PMC5849247"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0394632017751547"
+        }
+      }
+    },
+    abstract "Total glucosides of paeony (TGP) are active components extracted
+ from the roots of Paeonia lactiflora Pall. In this study, we investigated the
+ role and mechanisms of TGP in experimental autoimmune uveitis (EAU) model of
+ mice. The C57BL/6 mice were randomly divided into three groups: sham group,
+ EAU-control group, and EAU-TGP group. Clinical score of images of the eye
+ fundus were taken on 7, 14, 21, and 28 days after induction of EAU. The
+ concentrations of proinflammatory cytokines in intraocular fluid were
+ measured at 14 days after EAU induction with the use of a multiplex assay
+ system. Flow cytometry was used to analyze the frequency of CD4+, CD8+,
+ interferon-gamma (IFN-gamma), and CD4+/CD8+ ratio in spleen and lymph nodes.
+ Western blotting was used to measure expressions of mitogen-activated protein
+ kinase (MAPK) pathway-related proteins in retina. Clinical scores for uveitis
+ were lower in TGP-treated EAU mice than those without TGP treatment.
+ Importantly, the concentrations of cytokines induced by T-helper 1 (Th1) and
+ T-helper 2 (Th2) cells in intraocular fluid were reduced in EAU mice treated
+ with TGP. Furthermore, the frequency of CD4+, IFN-gamma, and CD4+/CD8+ ratio
+ was decreased and the frequency of CD8+ was increased in spleen and lymph
+ nodes of mice treated with TGP. The anti-inflammatory effects of TGP were
+ mediated by inhibiting the MAPK signaling pathways. Our results showed that
+ TGP suppressed uveitis in mice via the inhibition of Th1 and Th2 cell
+ function. Thus, TGP may be a promising therapeutic strategy for uveitis, as
+ well as other ocular inflammatory diseases.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Autoimmune Diseases",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        mp TRUE,
+        term "Paeonia"
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Th1 Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Th2 Cells",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Uveitis",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      }
+    },
+    pmid 29363368,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,267 @@
+
+Pubmed-entry ::= {
+  pmid 31085811,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of LncRNA GAS5 Protects Cardiomyocytes H9c2 against
+ Hypoxic Injury via Sponging miR-142-5p."
+      },
+      authors {
+        names std {
+          {
+            name ml "Du J",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin 130021, China."
+          },
+          {
+            name ml "Yang ST",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin 130021, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin 130021, China."
+          },
+          {
+            name ml "Zhang KX",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin 130021, China."
+          },
+          {
+            name ml "Leng JY",
+            affil str "Department of Cadre Ward, The First Hospital of Jilin
+ University, Changchun, Jilin 130021, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cells",
+          ml-jta "Mol Cells",
+          issn "0219-1032",
+          name "Molecules and cells"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 5,
+            day 31
+          },
+          volume "42",
+          issue "5",
+          pages "397-405",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 9,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 10,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31085811,
+        pii "molcells.2018.0180",
+        doi "10.14348/molcells.2018.0180",
+        other {
+          db "pmc",
+          tag str "PMC6537652"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.14348/molcells.2018.0180"
+        }
+      }
+    },
+    abstract "The regulatory role of long noncoding RNA (lncRNA) growth
+ arrest-specific transcript 5 (GAS5) in both cancerous and noncancerous cells
+ have been widely reported. This study aimed to evaluate the role of lncRNA
+ GAS5 in heart failure caused by myocardial infarction. We reported that
+ silence of lncRNA GAS5 attenuated hypoxia-triggered cell death, as cell
+ viability was increased and apoptosis rate was decreased. This phenomenon was
+ coupled with the down-regulated expression of p53, Bax and cleaved caspase-3,
+ as well as the up-regulated expression of CyclinD1, CDK4 and Bcl-2. At the
+ meantime, the expression of four heart failure-related miRNAs was altered
+ when lncRNA GAS5 was silenced (miR-21 and miR-142-5p were up-regulated;
+ miR-30b and miR-93 were down-regulated). RNA immunoprecipitation assay
+ results showed that lncRNA GAS5 worked as a molecular sponge for miR-142-5p.
+ More interestingly, the protective actions of lncRNA GAS5 silence on
+ hypoxia-stimulated cells were attenuated by miR-142-5p suppression. Besides,
+ TP53INP1 was a target gene for miR-142-5p. Silence of lncRNA GAS5 promoted
+ the activation of PI3K/AKT and MEK/ERK signaling pathways in a
+ miR-142-5p-dependent manner. Collectively, this study demonstrated that
+ silence of lncRNA GAS5 protected H9c2 cells against hypoxia-induced injury
+ possibly via sponging miR-142-5p, functionally releasing TP53INP1 mRNA
+ transcripts that are normally targeted by miR-142-5p.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis Regulatory Proteins"
+      },
+      {
+        mp TRUE,
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Heat-Shock Proteins"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Nuclear Proteins"
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Rats"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "Heat-Shock Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN142 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Nuclear Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Trp53inp1 protein, rat"
+      }
+    },
+    pmid 31085811,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

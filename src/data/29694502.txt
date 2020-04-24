@@ -1,0 +1,243 @@
+
+Pubmed-entry ::= {
+  pmid 29694502,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA HULC mediates radioresistance via autophagy in prostate
+ cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen C",
+            affil str "Tengzhou Central People's Hospital, Department of
+ Urology, Jining Medical College, Tengzhou, China."
+          },
+          {
+            name ml "Wang K",
+            affil str "Tengzhou Central People's Hospital, Department of
+ Urology, Jining Medical College, Tengzhou, China."
+          },
+          {
+            name ml "Wang Q",
+            affil str "Tengzhou Central People's Hospital, Department of
+ Traumatology, Jining Medical College, Tengzhou, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Tengzhou Central People's Hospital, Department of
+ Urology, Jining Medical College, Tengzhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "6",
+          pages "e7080",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 2
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29694502,
+        pii "S0100-879X2018000600611",
+        doi "10.1590/1414-431x20187080",
+        other {
+          db "pmc",
+          tag str "PMC5937721"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000600611"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431x20187080"
+        }
+      }
+    },
+    abstract "Prostate cancer (PCa) is the second leading cause of cancer
+ death in men. Irradiation is one of the available options for treatment of
+ PCa, however, approximately 10-45% of PCa are resistant to irradiation. We
+ aimed to explore the role of long non-coding RNA highly upregulated in liver
+ cancer (HULC) in the sensitivity of PCa cells to irradiation. Survival rate,
+ cell apoptosis, cycle, expressions of related proteins, and caspase-3
+ activity were assessed to explore the effects of HULC on sensitivity of PCa
+ cells to irradiation. Expression of HULC in DU-145, PC3, LNCaP, and RWPE-1
+ cells was determined and the influence of HULC on DU-145 cells was explored.
+ Then, PC3 cells aberrantly expressing HULC were implanted into NOD-SCID mice
+ for tumor xenograft study. Changes of autophagy after aberrant expression of
+ HULC in vivo and in vitro were tested. Furthermore, the interacted protein of
+ HULC and involved signaling pathway were investigated. In PC3 and LNCaP cells
+ under irradiation, survival rate and cell cycle were decreased and apoptosis
+ was increased by HULC knockdown. HULC knockdown arrested PC3 cells at G0/G1
+ phase. DU-145 was sensitive to irradiation, and resistance to irradiation of
+ DU-145 cells was enhanced by HULC overexpression. Moreover, HULC knockdown
+ enhanced the sensitivity of PC3 xenografts to irradiation. HULC knockdown
+ promoted autophagy through interaction with Beclin-1 and inhibition of mTOR,
+ resulting in increased apoptosis. HULC knockdown improved sensitivity of PCa
+ cells to irradiation both in vivo and in vitro. HULC suppressed Beclin-1
+ phosphorylation, thereby reduced autophagy, involving the mTOR pathway.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line, Tumor",
+        qual {
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA Interference",
+        qual {
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Radiation Tolerance",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      },
+      {
+        term "Transfection"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "HULC long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 29694502,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

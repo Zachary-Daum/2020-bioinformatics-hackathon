@@ -1,0 +1,249 @@
+
+Pubmed-entry ::= {
+  pmid 30176223,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Geniposide suppresses growth, migration and invasion of MKN45
+ cells by down-regulation of lncRNA HULC."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma J",
+            affil str "Department of Endoscopy, Huaihe Hospital of Henan
+ University, Kaifeng 475000, Henan, China."
+          },
+          {
+            name ml "Ding Y",
+            affil str "School of Basic Medical Sciences, Henan University,
+ Kaifeng 475004, Henan, China. Electronic address: yongding0144@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "105",
+          issue "3",
+          pages "252-259",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 7,
+                day 26
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 8,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 8,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30176223,
+        pii "S0014-4800(18)30307-1",
+        doi "10.1016/j.yexmp.2018.08.011",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30307-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2018.08.011"
+        }
+      }
+    },
+    abstract "Gastric cancer (GC) is a serious disease with high incidence
+ rate and high mortality. Geniposide (GEN) exhibits multiple biological
+ properties including anti-tumor function. However, effect of GEN on GC is not
+ well studied. Hence, the effects of GEN on GC were investigated in our study.
+ HULC expression in GC tissue and GC cell lines (MKN45, SGC-7901, MKN28, AGS)
+ was detected by qRT-PCR. Cell viability, colony formation, migration,
+ invasion and cell apoptosis were examined by CCK-8 assay, survival fraction
+ assay, modified two-chamber migration assay, Millicell Hanging Cell Culture
+ and flow cytometry analysis, respectively. The expression of matrix
+ metalloproteinase (MMP)-2/9 and vimentin was detected by qRT-PCR and western
+ blot, respectively. The expression of PI3K/AKT and JNK was measured by
+ western blot. The expression of HULC was up-regulated both in GC tissue and
+ cell lines (P<.05, P<.01 or P<.001). GEN negatively regulated the expression
+ of HULC in MKN45 cells (P<.05 or P<.01). GEN decreased cell viability
+ (P<.05), colony formation (P<.01), migration (P<.05) and invasion (P<.05)
+ while HULC overexpression led to the opposite results in GEN-treated cells.
+ The expression of phosphatidylinositol 3' -kinase (PI3K)/ protein kinase B
+ (AKT) and c-Jun N-terminal kinase (JNK) was down-regulated by GEN (all P<.05)
+ while reversed by HULC overexpression. HULC was up-regulated in GC. GEN
+ inhibited MNK45 cell viability, colony formation, migration and invasion
+ while induced cell apoptosis by down-regulation of HULC in MKN45 cells. GEN
+ inactivated PI3K/AKT and JNK signal pathways through down-regulation of HULC.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Iridoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "HULC long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "Iridoids"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "145295QLXY",
+        name "geniposide"
+      }
+    },
+    pmid 30176223,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

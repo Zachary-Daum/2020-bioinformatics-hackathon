@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 30942624,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-ERK1/2 signalling promotes the development of osteosarcoma
+ through regulation of H4K12ac through HAT1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "a Department of Orthopedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Liu M",
+            affil str "b Department of Ultrasonography , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Liu W",
+            affil str "a Department of Orthopedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          },
+          {
+            name ml "Wang W",
+            affil str "a Department of Orthopedics , China-Japan Union
+ Hospital of Jilin University , Changchun , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1207-1215",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30942624,
+        doi "10.1080/21691401.2019.1593857",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1593857"
+        }
+      }
+    },
+    abstract "Histone H4 acetylation at lysine 12 (H4K12ac) has been reported
+ to be associated with the poor prognosis of pancreatic cancer. The study
+ intends to study whether H4K12ac participates in regulating the carcinogenic
+ effect of Ras-ERK1/2 on osteosarcoma (OS). The plasmids of pEGFP-N1,
+ pEGFP-Ras(WT) and pEGFP-K-Ras(G12V/T35S) were transfected into MG-63 cells,
+ the protein levels of H4K12ac and ERK1/2 were analyzed by Western blot.
+ Effects of H4K12ac on cell proliferation and migration of MG-63 cells were
+ tested by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl-2Htetrazolium bromide
+ solution (MTT), transwell, soft-agar colony formation and flow cytometry
+ assays. Effect of H4K12ac on the transcription of ERK1/2 downstream genes was
+ analyzed by RT-qPCR and ChIP assays. The involvements of HDAT6, HAT1 and MDM2
+ in cell proliferation and migration of MG-63 cells were finally studied. We
+ found that H4K12ac was specifically down-regulated by Ras-ERK1/2 activation
+ in MG-63 cells. H4K12ac suppressed Ras-ERK1/2-induced cell viability, colony
+ formation and migration in MG-63 cells. Additionally, HDAC6 silence recovered
+ Ras-ERK1/2-repressed H4K12ac expression, as well as inhibited the
+ carcinogenic effect of Ras-ERK1/2 on MG-63 cells. Besides, down-regulated
+ H4K12ac induced by Ras-ERK1/2 was found to be associated with MDM2-mediated
+ HAT1 degradation. In conclusion, these results testified that Ras-ERK1/2
+ signalling promoted the development of OS by mediating H4K12ac through
+ MDM2-mediated HAT1 degradation.",
+    mesh {
+      {
+        term "Acetylation"
+      },
+      {
+        term "Carcinogenesis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Enzyme Activation"
+      },
+      {
+        term "Histone Acetyltransferases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lysine",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Proteolysis"
+      },
+      {
+        term "Proto-Oncogene Proteins c-mdm2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription, Genetic"
+      },
+      {
+        term "ras Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type ec,
+        cit "2.3.1.48",
+        name "Histone Acetyltransferases"
+      },
+      {
+        type ec,
+        cit "2.3.1.48",
+        name "histone acetyltransferase type B complex"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Proto-Oncogene Proteins c-mdm2"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 3"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "ras Proteins"
+      },
+      {
+        type cas,
+        cit "K3Z4F929H6",
+        name "Lysine"
+      }
+    },
+    pmid 30942624,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

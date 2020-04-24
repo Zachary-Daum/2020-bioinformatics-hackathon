@@ -1,0 +1,356 @@
+
+Pubmed-entry ::= {
+  pmid 28609843,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of ANRIL aggravates H2O2-induced injury in PC-12 cells
+ by targeting microRNA-125a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li R",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Yin F",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Guo YY",
+            affil str "Department of Blood Transfusion, The First Bethune
+ Hospital of Jilin University, Changchun 130021, China."
+          },
+          {
+            name ml "Zhao KC",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Ruan Q",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China."
+          },
+          {
+            name ml "Qi YM",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun 130033, China. Electronic address:
+ qiyingmei098@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8
+          },
+          volume "92",
+          pages "952-961",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 3
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28609843,
+        pii "S0753-3322(17)30982-4",
+        doi "10.1016/j.biopha.2017.05.122",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)30982-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2017.05.122"
+        }
+      }
+    },
+    abstract "Spinal cord injury (SCI) is a devastating and common
+ neurological disorder which causes local oxidative damage. The study aimed to
+ investigate the underlying role of ANRIL in H2O2-induced cell injury of rat
+ PC-12 cells. Cell injury was evaluated on the basis of cell viability,
+ migration, invasion and apoptosis. The effect of ANRIL on H2O2-induced cell
+ injury was estimated after cell transfection. Then, the interaction between
+ ANRIL and miR-125a was explored by qRT-PCR and estimation of cell injury.
+ Predicted by TargetScan, the possible target gene of miR-125a was verified.
+ After that, the effects of aberrantly expressed target gene on cell
+ viability, migration, invasion and apoptosis as well as phosphorylation of
+ key kinases involved in JAK/STAT and ERK/MAPK pathways were evaluated.
+ Results revealed that H2O2-induced PC-12 cell injury could be aggravated by
+ ANRIL suppression. ANRIL appeared to act as a sponge of miR-125a, and ANRIL
+ suppression promoted H2O2-induced cell injury by up-regulation of miR-125a.
+ MCL-1 was a target of miR-125a, and MCL-1 was negatively correlated with
+ miR-125a. Subsequent experiments showed the effect of MCL-1 silence on
+ H2O2-induced PC-12 cell injury was the same as ANIRL suppression. MCL-1
+ attenuated H2O2-induced PC-12 cell injury by activating JAK/STAT and ERK/MAPK
+ pathways. These findings suggested that knockdown of ANRIL aggravates
+ H2O2-induced injury in PC-12 cells by targeting miR-125a. This might provide
+ novel insights in the role of ANRIL in pathogenesis of oxidative damage
+ during SCI.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation"
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Janus Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myeloid Cell Leukemia Sequence 1 Protein",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        mp TRUE,
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "STAT Transcription Factors",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "MIRN125 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "Mcl1 protein, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Myeloid Cell Leukemia Sequence 1 Protein"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "STAT Transcription Factors"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      }
+    },
+    pmid 28609843,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

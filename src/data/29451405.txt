@@ -1,0 +1,266 @@
+
+Pubmed-entry ::= {
+  pmid 29451405,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragalus polysaccharide alleviates LPS-induced inflammation
+ injury by regulating miR-127 in H9c2 cardiomyoblasts."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ren Q",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Zhao S",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Ren C",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Ma Z",
+            affil str "Department of Cardiology, Jining No.1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "32",
+          pages "2058738418759180",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29451405,
+        doi "10.1177/2058738418759180",
+        other {
+          db "pmc",
+          tag str "PMC5849246"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738418759180"
+        }
+      }
+    },
+    abstract "Astragalus polysaccharide (APS) has been widely reported to play
+ an important role in inflammatory response. In this study, we aimed to
+ explore the effects and underlying mechanisms of APS on lipopolysaccharide
+ (LPS)-induced inflammation injury in H9c2 cardiomyoblasts. H9c2 cells were
+ treated with different concentrations of APS, and cell viability was detected
+ by the Cell Counting Kit-8 (CCK-8) assay. Then, the effect of APS on cell
+ viability and apoptosis induced by LPS was determined by CCK-8, flow
+ cytometry, and western blot. The expression and release of inflammatory
+ cytokines were evaluated by quantitative real-time polymerase chain reaction
+ (qRT-PCR), western blot, and enzyme-linked immunosorbent assay (ELISA).
+ Furthermore, expression of miR-127 in H9c2 cells was analyzed by qRT-PCR, and
+ knocked down by transfection with miR-127 inhibitor. Western blot was used to
+ analyze signaling pathway molecules. APS had no effect on H9c2 cells
+ viability. However, APS could alleviate LPS-induced inflammation injury by
+ increasing cell viability, reducing apoptosis, and inhibiting release of
+ inflammatory cytokines in H9c2 cells ( P < 0.05). Additionally, we found that
+ APS increased toll-like receptor 4 (TLR4) expressions in LPS-treated H9c2
+ cells. Mechanistically, we found that APS exerted the protective effect by
+ down-regulating LPS-increased expression of miR-127 ( P < 0.05), inhibiting
+ nuclear factor kappa B (NF-kappaB), JNK and promoting phosphoinositide
+ 3-kinase/protein kinase B (PI3K/AKT) signaling pathways in LPS-treated H9c2
+ cells. The results demonstrated that APS could protect H9c2 cells against
+ LPS-induced inflammation injury, which might be partially due to miR-127
+ down-regulation and regulation of NF-kappaB, JNK, and PI3K/AKT signaling
+ pathways. These findings indicated that APS might be a potential therapeutic
+ drug for treatment of myocarditis.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Astragalus propinquus"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Inflammation Mediators",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Rats"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Inflammation Mediators"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn127 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      }
+    },
+    pmid 29451405,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

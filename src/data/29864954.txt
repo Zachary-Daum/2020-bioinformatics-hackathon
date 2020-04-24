@@ -1,0 +1,293 @@
+
+Pubmed-entry ::= {
+  pmid 29864954,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-140-5p aggravates hypoxia-induced cell injury via regulating
+ MLK3 in H9c2 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xing B",
+            affil str "Department of Cardiology, Jining No. 1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Li QJ",
+            affil str "Department of Painless Endoscopy, Jining No. 1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Li H",
+            affil str "Department of Cardiology, Jining No. 1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Chen SS",
+            affil str "Department of Cardiology, Jining No. 1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Cui ZY",
+            affil str "Department of Cardiology, Jining No. 1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Ma J",
+            affil str "Department of Cardiology, Jining No. 1 People's
+ Hospital, Jining, Shandong 272011, China."
+          },
+          {
+            name ml "Zhang ZW",
+            affil str "Department of Cardiology, Jining No. 1 People's
+ Hospital, Jining, Shandong 272011, China. Electronic address:
+ zhzw2001@yeah.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "103",
+          pages "1652-1657",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29864954,
+        pii "S0753-3322(18)30832-1",
+        doi "10.1016/j.biopha.2018.04.062",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)30832-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.04.062"
+        }
+      }
+    },
+    abstract "Myocardial infarction (MI) is an important cause of
+ cardiovascular disease. microRNAs (miRNAs) have been indicated as pivotal
+ regulators in the physiological and pathological processes of heart diseases.
+ The purpose of this study was to investigate the role of miR-140-5p in
+ hypoxia-induced cell injury in H9c2 cells and its underlying mechanism. H9c2
+ cells were subjected to hypoxia, before which the expression levels of
+ miR-140-5p and MLK3 were overexpressed or knocked down through transient
+ transfection. The efficiency of transfection was verified by qRT-PCR and
+ Western blotting. Cell viability, apoptotic cell rate, and the expression
+ changes of apoptosis-related proteins were determined by trypan blue
+ exclusion, flow cytometry, and Western blotting, respectively. Furthermore,
+ Western blotting was performed to assess the expression levels of core
+ factors related with p38MAPK and JNK signaling pathways. As a result, hypoxia
+ significantly reduced cell viability and increased cell apoptosis in H9c2
+ cells. miR-140-5p inhibition attenuated cell injury induced by hypoxia in
+ H9c2 cells, while miR-140-5p overexpression expedited the cell injury, as
+ evidenced by the decreased cell viability and enhanced cell apoptosis.
+ Moreover, miR-140-5p promoted the activation of p38MAPK and JNK pathways.
+ miR-140-5p positively modulated the expression of MLK3. ML3 overexpression
+ reversed the regulatory effects of miR-140-5p inhibition on hypoxia-injured
+ H9c2 cells. In conclusion, this study demonstrated that miR-140-5p aggravated
+ hypoxia-induced cell injury partially through up-regulation of MLK3.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Hypoxia",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "MAP Kinase Kinase Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            subh "enzymology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "p38 Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN140 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "p38 Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.25",
+        name "MAP Kinase Kinase Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.25",
+        name "mitogen-activated protein kinase kinase kinase 11"
+      }
+    },
+    pmid 29864954,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

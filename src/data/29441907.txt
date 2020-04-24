@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 29441907,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "microRNA-335 inhibits colorectal cancer HCT116 cells growth and
+ epithelial-mesenchymal transition (EMT) process by targeting Twist1."
+      },
+      authors {
+        names ml {
+          "Wang J",
+          "Wang X",
+          "Liu F",
+          "Fu Y"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pharmazie",
+          ml-jta "Pharmazie",
+          issn "0031-7144",
+          name "Die Pharmazie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8,
+            day 1
+          },
+          volume "72",
+          issue "8",
+          pages "475-481",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29441907,
+        doi "10.1691/ph.2017.7489",
+        other {
+          db "ELocationID doi",
+          tag str "10.1691/ph.2017.7489"
+        }
+      }
+    },
+    abstract "Colorectal cancer is one of the most commonly diagnosed cancers.
+ Recently, several microRNAs (miRNAs) have been characterized as oncogenes or
+ tumor suppressors in colorectal cancer. This study was aimed to explore the
+ tumor suppressive effects and its underling mechanism of miR-335 on
+ colorectal cancer cells. Human colorectal cancer HCT116 cells were employed
+ and the expression of miR-335 in cells was altered by transfection with
+ miR-335 mimic and miR-335 inhibitor. Thereafter, CCK-8 assay, flow cytometry,
+ Transwell assay and Western blotting were used to detect cell viability,
+ apoptosis, migration, invasion, and the expression of epithelial-mesenchymal
+ transition (EMT)-related proteins. Dual luciferase activity assay was
+ performed to test whether Twist1 was a direct target of miR-335. Moreover,
+ cells were co-transfected with miR-335 inhibitor and Twist1 siRNA, and then
+ cell growth and metastasis were re-evaluated. miR-335 overexpression
+ inhibited cell viability, migration and invasion, and promoted apoptotic
+ cells rate. miR-335 overexpression up-regulated E-Cadherin, while
+ down-regulated N-Cadherin, Vimentin and Snail. Twist1 was a direct target of
+ miR-335, and Twist1 silence promoted apoptosis, and abolished miR-335
+ suppression induced increases in cell viability, migration, invasion, and
+ abnormal expressions of EMT-related proteins. Besides, Twist1 silence
+ abolished miR-335 suppression induced activations of p65 and IkappaBalpha,
+ and miR-335 suppression induced up-regulations of Wnt3a, Wnt5a and
+ beta-Catenin. miR-335 inhibited HCT116 cells growth, migration, invasion, and
+ ETM process. miR-335 exhibited tumor suppressive effects possibly by
+ inhibition of Twsit1 and thus inactivating NF-kappaB and Wnt/beta-catenin
+ pathways.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cadherins",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Flow Cytometry"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "HCT116 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Nuclear Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "Twist-Related Protein 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cadherins"
+      },
+      {
+        type nameonly,
+        name "MIRN335 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Nuclear Proteins"
+      },
+      {
+        type nameonly,
+        name "TWIST1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Twist-Related Protein 1"
+      }
+    },
+    pmid 29441907,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

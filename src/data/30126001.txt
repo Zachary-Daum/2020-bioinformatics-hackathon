@@ -1,0 +1,292 @@
+
+Pubmed-entry ::= {
+  pmid 30126001,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-150-5p affects cell proliferation, apoptosis, and EMT
+ by regulation of the BRAF(V600E) mutation in papillary thyroid cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yan R",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Yang T",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Zhai H",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Zhou Z",
+            affil str "Department of Nuclear Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Gao L",
+            affil str "Laboratory of Molecular Medicine, Liaocheng People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Pathology, Liaocheng People's Hospital,
+ Liaocheng, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "119",
+          issue "11",
+          pages "8763-8772",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30126001,
+        doi "10.1002/jcb.27108",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27108"
+        }
+      }
+    },
+    abstract "Papillary thyroid cancer (PTC) is the most common endocrine
+ malignancy. Studies have confirmed an association between microRNA (miRNA)
+ and the BRAF(V600E) mutation in various cellular biological processes of PTC.
+ This study aimed to clarify the potential relationship between miR-150-5p and
+ the BRAF(V600E) mutation in PTC. Human PTC cell lines B-CPAP and TPC-1 were
+ transfected with the miR-150-5p mimic, an inhibitor, and the corresponding
+ controls. Then, cell proliferation, viability, and apoptosis were detected by
+ bromodeoxyuridine, trypan blue exclusion, and flow cytometry assays. The
+ expressions of the main factors of cell cycle, epithelial mesenchymal
+ transition (EMT), and DNA mismatch repair were examined by Western blot
+ analysis and a real-time quantitative polymerase chain reaction.
+ Additionally, pc-BRAF(V600E) was transfected into B-CPAP and TPC-1 cells to
+ determine the relationship between miR-150-5p and BRAF(V600E) . In addition,
+ the methyl ethyl ketone (MEK)/extracellular signal-regulated kinase (ERK)
+ signal pathway was examined using Western blot analysis. Overexpression of
+ miR-150-5p promoted cell proliferation and viability, inhibited apoptosis,
+ and upregulated cell cycle factor expressions at 50 passages of B-CPAP and
+ TPC-1 cells after transfection. Overexpression of miR-150-5p led to an
+ obvious decrease in E-cadherin expression, but enhanced N-cadherin, Slug and
+ Vimentin, ZEB1, and Snail expression. Moreover, overexpression of miR-150-5p
+ markedly suppressed POLD3, MSH2, and MSH3 expression. Furthermore,
+ BRAF(V600E) overexpression increased the expression level of miR-150-5p in
+ TPC cells, and overexpression of telomerase reverse transcriptase further
+ enhanced the promoting effect of BRAF(V600E) on miR-150-5p expression in
+ B-CPAP and TPC-1 cells. Finally, BRAF(V600E) overexpression activated the
+ MEK/ERK signal pathway in B-CPAP and TPC-1 cells. These data indicated that
+ miR-150-5p promoted cell proliferation, suppressed apoptosis, and accelerated
+ the EMT process by regulation of the BRAF(V600E) mutation. Our findings will
+ help elucidate the pathogenesis of PTC and identify biomarkers.",
+    mesh {
+      {
+        term "Analysis of Variance"
+      },
+      {
+        mp TRUE,
+        term "Apoptosis"
+      },
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Cycle"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        mp TRUE,
+        term "Cell Proliferation"
+      },
+      {
+        term "DNA Repair"
+      },
+      {
+        mp TRUE,
+        term "Epithelial-Mesenchymal Transition"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Molecular Mimicry"
+      },
+      {
+        term "Mutation"
+      },
+      {
+        term "Proto-Oncogene Proteins B-raf",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Thyroid Cancer, Papillary",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Thyroid Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type nameonly,
+        name "MIRN150 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "BRAF protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins B-raf"
+      }
+    },
+    pmid 30126001,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

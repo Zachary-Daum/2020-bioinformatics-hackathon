@@ -1,0 +1,177 @@
+
+Pubmed-entry ::= {
+  pmid 31692056,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The circular RNA-NRIP1 plays oncogenic roles by targeting
+ microRNA-505 in the renal carcinoma cell lines."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dong Z",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Department of Urology, Taian City Central Hospital,
+ Taian, Shandong, China."
+          },
+          {
+            name ml "Wang Q",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Ji J",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Huang T",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Khanal A",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Niu H",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Cao Y",
+            affil str "Department of Urology and Renal Transplantation, The
+ Affiliated Hospital of Qingdao University, Qingdao, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 3
+          },
+          volume "121",
+          issue "3",
+          pages "2236-2246",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31692056,
+        doi "10.1002/jcb.29446",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.29446"
+        }
+      }
+    },
+    abstract "We explored the roles and regulatory mechanisms of the circular
+ RNA (circRNA) nuclear receptor-interacting protein 1 (NRIP1; circNRIP1) in
+ ACHN and CAKI-1 cells. ACHN and CAKI-1 cells were transfected with
+ small-interfering-circNRIP1 (si-circNRIP1) and microRNA-505 (miR-505)
+ inhibitor or the corresponding controls. Cell viability was detected with the
+ Cell Counting Kit-8. The protein expression levels of Bcl-2, Bax,
+ cleaved-caspase-3, matrix metalloproteinase (MMP)-2, MMP-9, adenosine 5
+'-monophosphate (AMP)-activated protein kinase (AMPK), protein kinase B (AKT),
+ phosphatidylinositol 3-kinase (PI3K), and mammalian target of rapamycin
+ (mTOR) were individually determined via Western blot. Quantitative reverse
+ transcription polymerase chain reaction was used to examine the expressions
+ of circNRIP1 and miR-505 both in tumor cells and tissues. The apoptotic rate,
+ the colony numbers, and the migration rate were separately determined by the
+ Annexin V-fluorescein isothiocyanate/propidium iodide and flow cytometer,
+ colony formation assay, and migration assay. We found that circNRIP1 was
+ overexpressed in tumor tissue but miR-505 was overproduced. Silencing
+ circZNF292 induced inhibition of cell viability, colony formation, and
+ migration, as well as the activity of AMPK and PI3K/AKT/mTOR cascades but
+ enhancement of apoptosis. si-circNRIP1 stimulated the upregulation of
+ miR-505, whose silence abolished the effects of si-circNRIP1 on these
+ elements mentioned above. In conclusion, the circNRIP1 played oncogenic roles
+ in the ACHN and the CAKI-1 cell lines by targeting miR-505 via stimulating
+ AMPK and PI3K/AKT/mTOR cascades.",
+    idnum {
+      "ZR2014HM059/Natural Science Foundation of Shandong Province",
+      "2018/Foundation of the Affiliated Hospital of Qingdao University"
+    },
+    pmid 31692056,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

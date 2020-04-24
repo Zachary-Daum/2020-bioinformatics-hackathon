@@ -1,0 +1,372 @@
+
+Pubmed-entry ::= {
+  pmid 30161272,
+  medent {
+    em std {
+      year 2018,
+      month 8,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-133a inhibits gastric cancer cells growth, migration,
+ and epithelial-mesenchymal transition process by targeting presenilin 1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen XB",
+            affil str "Department of Gastroenterology, Shengli Oilfield
+ Central Hospital, Dongying, China."
+          },
+          {
+            name ml "Li W",
+            affil str "Department of Gastroenterology, Shengli Oilfield
+ Central Hospital, Dongying, China."
+          },
+          {
+            name ml "Chu AX",
+            affil str "Department of Gastroenterology, Shengli Oilfield
+ Central Hospital, Dongying, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "120",
+          issue "1",
+          pages "470-480",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 7,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30161272,
+        doi "10.1002/jcb.27403",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.27403"
+        }
+      }
+    },
+    abstract "Gastric cancer (GC) is one of the most common malignancies and a
+ leading cause of cancer-related death worldwide. Accumulating evidence
+ reported that microRNA (miR)-133a was involved in GC. This study aimed to
+ investigate the function and mechanism of miR-133a in the development and
+ progression of GC. The expression of miR-133a and presenilin 1 (PSEN1) in two
+ GC cell lines, SGC-7901 and BGC-823, were inhibited and overexpressed by
+ transient transfections. Thereafter, cell viability, migration, and apoptosis
+ were measured by trypan blue exclusion assay, transwell migration assay, and
+ flow cytometry assay, respectively. Dual-luciferase reporter assay was
+ conducted to verify whether PSEN1 was a direct target of miR-133a.
+ Furthermore, quantitative real-time polymerase chain reaction and Western
+ blot analysis were mainly performed to assess the expression changes of
+ epithelial-mesenchymal transition (EMT)-associated proteins,
+ apoptosis-related proteins, and Notch pathway proteins. MiR-133a inhibitor
+ significantly increased cell viability and migration, while miR-133a mimic
+ decreased cell viability, migration, and induced apoptosis. miR-133a
+ suppression accelerated transforming growth factor-beta1 (TGF-beta1)-induce
+ EMT, as evidenced by upregulation of E-cadherin, and downregulation of
+ N-cadherin, vimentin, and Slug. Of contrast, miR-133a overexpression blocked
+ TGF-beta1-induce EMT by altering these factors. PSEN1 was a direct target of
+ miR-133a, and suppression of PSEN1 abolished the promoting functions of
+ miR-133 suppression on cell growth and metastasis. Moreover, PSEN1 inhibition
+ decreased Notch 1, Notch 2, and Notch 3 protein expressions. This study
+ demonstrates an antigrowth and antimetastasis role of miR-133a in GC cells.
+ Additionally, miR-133a acts as a tumor suppressor may be via targeting PSEN1.",
+    mesh {
+      {
+        term "Antigens, CD",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cadherins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Molecular Mimicry"
+      },
+      {
+        term "Presenilin-1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Snail Family Transcription Factors",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "Transforming Growth Factor beta1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "Vimentin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antigens, CD"
+      },
+      {
+        type nameonly,
+        name "CDH1 protein, human"
+      },
+      {
+        type nameonly,
+        name "CDH2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Cadherins"
+      },
+      {
+        type nameonly,
+        name "MIRN133 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "PSEN1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Presenilin-1"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type nameonly,
+        name "SNAI1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Snail Family Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "TGFB1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Transforming Growth Factor beta1"
+      },
+      {
+        type nameonly,
+        name "VIM protein, human"
+      },
+      {
+        type nameonly,
+        name "Vimentin"
+      }
+    },
+    pmid 30161272,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

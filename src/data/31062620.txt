@@ -1,0 +1,308 @@
+
+Pubmed-entry ::= {
+  pmid 31062620,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Scutellaria barbata D. Don (SBD) protects oxygen glucose
+ deprivation/reperfusion-induced injuries of PC12 cells by up-regulating Nrf2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "a Department of Critical Care Medicine , Jining No.1
+ People's Hospital , Jining , China.; b Affiliated Jining No.1 People's
+ Hospital of Jining Medical University, Jining Medical University , Jining ,
+ China."
+          },
+          {
+            name ml "Li B",
+            affil str "a Department of Critical Care Medicine , Jining No.1
+ People's Hospital , Jining , China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "a Department of Critical Care Medicine , Jining No.1
+ People's Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1797-1807",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31062620,
+        doi "10.1080/21691401.2019.1610413",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1610413"
+        }
+      }
+    },
+    abstract "This study aimed to investigate the potential effect of
+ Scutellaria barbata D. Don (SBD) on oxygen glucose deprivation/reperfusion
+ (OGD/R)-injured PC12 cells. PC12 cells were pretreated with various
+ concentrations of 0.1-0.8 mg/ml SBD for indicated times (12-48 h) and then
+ subjected to OGD/R injury. Cell viability, apoptosis and proliferation were
+ detected using MTT assay, flow cytometry, Ki67 staining and western blot.
+ Oxidative damage was assessed by detecting MDA content, SOD activity and GSH
+ levels. The mitochondrial membrane potential (Deltapsim) was measured by
+ Rh123 staining. Western blot was performed to assess the expression levels of
+ Nrf2 and PI3K/AKT pathway-related proteins. We found that SBD pretreatment
+ promoted cell viability and proliferation but inhibited apoptosis of
+ OGD/R-injured PC12 cells in dosage- and time-dependent manner. Meanwhile, SBD
+ attenuated oxidative damage and restored mitochondria dysfunction, as
+ evidenced by the reduced MDA content, the increased SOD and GSH levels, and
+ the increased Deltapsim. Furthermore, SBD induced the expression of Nrf2 in a
+ PI3K/AKT-dependent signalling. Knockdown of Nrf2 blocked the protective
+ effects of SBD on PC12 cells. In conclusion, this study demonstrates that SBD
+ pretreatment protects PC12 cells against OGD/R-induced injury. The potential
+ mechanism may be through up-regulating the expression of Nrf2 in a
+ PI3K/AKT-dependent pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "NF-E2-Related Factor 2",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reperfusion Injury",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Scutellaria",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "bcl-2-Associated X Protein",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "NF-E2-Related Factor 2"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "bcl-2-Associated X Protein"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 31062620,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

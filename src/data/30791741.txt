@@ -1,0 +1,350 @@
+
+Pubmed-entry ::= {
+  pmid 30791741,
+  medent {
+    em std {
+      year 2019,
+      month 2,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tripterine up-regulates miR-223 to alleviate
+ lipopolysaccharide-induced damage in murine chondrogenic ATDC5 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X",
+            affil str "Department of Orthopedics, Liaocheng Third People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Wei W",
+            affil str "Department of Orthopedics, Liaocheng Third People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Zhao Z",
+            affil str "Department of Orthopedics, Liaocheng Third People's
+ Hospital, Liaocheng, China."
+          },
+          {
+            name ml "Lv S",
+            affil str "Department of Orthopedics, Liaocheng Third People's
+ Hospital, Liaocheng, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "33",
+          pages "2058738418824521",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30791741,
+        doi "10.1177/2058738418824521",
+        other {
+          db "pmc",
+          tag str "PMC6350133"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738418824521"
+        }
+      }
+    },
+    abstract "Tripterine, also known as celastrol, is a main natural
+ ingredient in Tripterygium wilfordii. Tripterine has a variety of
+ pharmacological functions, and the therapeutic potential of tripterine in
+ many kinds of inflammation-linked diseases has been revealed. However, the
+ function of tripterine on osteoarthritis still remains unclear. The objective
+ of this study was to study the function of tripterine (TPR) on
+ lipopolysaccharide (LPS)-injured chondrocyte. ATDC5 cells were treated with
+ tripterine after LPS stimulation and then cell survival, the release of
+ pro-inflammatory cytokines, and the expression of chondrogenic
+ differentiation-associated proteins were assessed by performing CCK-8, flow
+ cytometry, reverse transcription quantitative polymerase chain reaction
+ (RT-qPCR), enzyme-linked immunosorbent assay (ELISA), and Western blot.
+ Moreover, the expression of miR-223 and core factors in PI3K/AKT and nuclear
+ factor kappa B (NF-kappaB) signaling was tested by RT-qPCR/Western blot. LPS
+ stimulation significantly reduced ATDC5 cells viability, induced apoptosis,
+ and increased the release of interleukin (IL)-6 and tumor necrosis factor
+ (TNF)-alpha. Tripterine protected ATDC5 cells against LPS-induced chondrocyte
+ loss and the release of IL-6 and TNF-alpha. miR-223 was down-regulated by
+ LPS, while was up-regulated by tripterine. The protective actions of
+ tripterine were eliminated when miR-223 was silenced. Besides, tripterine
+ inhibited hypertrophic differentiation induced by LPS, and the inhibitory
+ effects of tripterine on hypertrophic differentiation could be abolished when
+ miR-223 was silenced. Furthermore, tripterine activated PI3K/AKT pathway and
+ deactivated NF-kappaB pathway. And the regulatory effects of tripterine on
+ these two pathways were abolished by miR-223 silence. This study revealed
+ that tripterine protected ATDC5 cells against LPS-induced cell damage
+ possibly via up-regulation of miR-223 and modulation of NF-kappaB and
+ PI3K/AKT pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transcriptional Activation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Triterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN223 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Triterpenes"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type cas,
+        cit "L8GG98663L",
+        name "tripterine"
+      }
+    },
+    pmid 30791741,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

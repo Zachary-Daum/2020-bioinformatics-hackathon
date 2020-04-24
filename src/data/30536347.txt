@@ -1,0 +1,252 @@
+
+Pubmed-entry ::= {
+  pmid 30536347,
+  medent {
+    em std {
+      year 2018,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Inhibiting lncRNA ROR suppresses growth, migration and
+ angiogenesis in microvascular endothelial cells by up-regulating miR-26."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qin WW",
+            affil str "Department of Vascular Surgery, Jining No.1 People's
+ Hospital, Jining, Shandong Province, China. wxu131@sina.com."
+          },
+          {
+            name ml "Xin ZL"
+          },
+          {
+            name ml "Wang HQ"
+          },
+          {
+            name ml "Wang KP"
+          },
+          {
+            name ml "Li XY"
+          },
+          {
+            name ml "Wang X"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur Rev Med Pharmacol Sci",
+          ml-jta "Eur Rev Med Pharmacol Sci",
+          issn "2284-0729",
+          name "European review for medical and pharmacological sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "22",
+          issue "22",
+          pages "7985-7993",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30536347,
+        doi "10.26355/eurrev_201811_16427",
+        other {
+          db "ELocationID pii",
+          tag str "16427"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.26355/eurrev_201811_16427"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Lower extremity arteriosclerosis is one of leading
+ causes of death worldwide. Arteriosclerosis is closely related to
+ microvascular endothelial cells. This study was aimed to explore the role of
+ long non-coding RNA ROR in regulations of growth, migration, and angiogenesis
+ of microvascular endothelial cells. MATERIALS AND METHODS: Angiogenesis was
+ determined by the number of tube-like cells on a matrigel extracellular
+ matrix. Cell viability, apoptosis, and migration were determined by CCK-8
+ assay, PI/FITC-Annexin V staining method, and transwell assay, respectively.
+ Relative RNA expression of ROR, miR-26, and angiogenesis-associated genes
+ were analyzed by qRT-PCR. The protein expression of apoptosis- and
+ angiogenesis-associated genes, as well as main factors in NF-kappaB and
+ JAK1/STAT3 pathways, were analyzed by Western blot. RESULTS: LncRNA ROR
+ silence inhibited viability, migration, and angiogenesis of HMEC-1 cells but
+ promoted apoptosis of them. miR-26 expression was promoted after knocking
+ down ROR expression. miR-26 overexpression enhanced the inhibitory effects of
+ ROR silence on growth, migration, and angiogenesis in HMEC-1 cells, whereas,
+ miR-26 silence impaired the effects of ROR silence. Finally, we found that
+ NF-kappaB and JAK1/STAT3 signaling pathways were inhibited by ROR
+ down-regulation. Similarly, miR-26 overexpression enhanced the inhibitory
+ effect of ROR down-regulation on the pathways and miR-26 inhibition abrogated
+ it. CONCLUSIONS: Down-regulating lncRNA ROR inhibited growth, migration and
+ angiogenesis of microvascular endothelial cells possibly through
+ up-regulation of miR-26. During this process, the activations of NF-kappaB
+ and JAK1/STAT3 pathways were inhibited after interaction of ROR and miR-26.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Endothelium, Vascular",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Microvessels",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Linc-RNA-RoR, human"
+      },
+      {
+        type nameonly,
+        name "MIRN26A microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30536347,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

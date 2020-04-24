@@ -1,0 +1,241 @@
+
+Pubmed-entry ::= {
+  pmid 31267802,
+  medent {
+    em std {
+      year 2019,
+      month 7,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long non-coding RNA H19 down-regulates miR-181a to facilitate
+ endothelial angiogenic function."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhu A",
+            affil str "a Department of Vascular Surgery, Jining No.1 People's
+ Hospital , Jining , China.; b Affiliated Jining No.1 People's Hospital of
+ Jining Medical University, Jining Medical University , Jining , China."
+          },
+          {
+            name ml "Chu L",
+            affil str "a Department of Vascular Surgery, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Ma Q",
+            affil str "a Department of Vascular Surgery, Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Li Y",
+            affil str "a Department of Vascular Surgery, Jining No.1 People's
+ Hospital , Jining , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2698-2705",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 7,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 7,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31267802,
+        doi "10.1080/21691401.2019.1634577",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1634577"
+        }
+      }
+    },
+    abstract "H19 is the first identified long non-coding RNA (lncRNA) whose
+ function in diverse cancers and non-cancerous disease states has been widely
+ studied. The objective of this study was to study the functional role of H19
+ in vascular endothelial cells. We found that H19 overexpression significantly
+ increased HMEC-1 cells viability, migration and tube-formation capacity.
+ Meanwhile, H19 overexpression up-regulated the protein levels of MMP-2,
+ MMP-9, VEGF and eNOS, and down-regulated RNA level of miR-181a. These
+ alterations, induced by H19 overexpression were abolished by miR-181a
+ overexpression, while they were enhanced when miR-181a was silenced. And
+ also, overexpression of H19 activated JNK and AMPK signalling, which could be
+ eliminated by miR-181a overexpression and accelerated by miR-181a
+ suppression. In conclusion, overexpression of H19 improved HMEC-1 cells
+ viability, migration and tube-formation capacity. H19 exerted pro-angiogenic
+ effects possibly by down-regulating miR-181a, and thus activating JNK and
+ AMPK signalling pathways.",
+    mesh {
+      {
+        term "AMP-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "JNK Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neovascularization, Physiologic",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "H19 long non-coding RNA"
+      },
+      {
+        type nameonly,
+        name "MIrn181 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "JNK Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.31",
+        name "AMP-Activated Protein Kinases"
+      }
+    },
+    pmid 31267802,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

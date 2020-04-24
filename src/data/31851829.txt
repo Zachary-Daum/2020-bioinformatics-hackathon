@@ -1,0 +1,119 @@
+
+Pubmed-entry ::= {
+  pmid 31851829,
+  medent {
+    em std {
+      year 2019,
+      month 12,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-155 is high-expressed in polycystic ovarian syndrome and
+ promotes cell proliferation and migration through targeting PDCD4 in KGN
+ cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xia H",
+            affil str "School of Nursing, Jining Medical University, Jining,
+ P. R. China."
+          },
+          {
+            name ml "Zhao Y",
+            affil str "Department of Obstetrics, No.1 People's Hospital of
+ Jining, Jining, P. R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 12
+          },
+          volume "48",
+          issue "1",
+          pages "197-205",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31851829,
+        doi "10.1080/21691401.2019.1699826",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1699826"
+        }
+      }
+    },
+    abstract "Polycystic ovarian syndrome (PCOS) is a typical disease of
+ female endocrine and metabolic abnormalities. miR-155, famous as a
+ multifunctional miRNA, promotes the proliferation, migration and invasion of
+ human cancer cells. Therefore, we aimed to explore its regulation mechanism
+ in PCOS. BrdU incorporation and apoptosis assay were used to test KGN cell
+ survival. Luciferase activity experiment was employed to test targeting link
+ between miR-155 and programmed cell death 4 (PDCD4). Migration and invasion
+ assay were operated to examine the influence of miR-155 and PDCD4 in
+ migration and invasion of KGN cells. In addition, quantitative reverse
+ transcription-polymerase chain reaction (qRT-PCR) assay and western blot
+ analysis were utilized to measure expression of miR-155 and other relative
+ factors. We found that expression of miR-155 was high in PCOS patients'
+ tissues and it promoted proliferation, migration and invasion in KGN cells.
+ Further studies found that PDCD4 was down-regulated by miR-155 and was a
+ target of miR-155. Overexpression of PDCD4 promoted cell apoptosis to
+ mitigate PCOS. Besides, up-regulation of PDCD4 suppressed PI3K/AKT and JNK
+ signal pathways. To sum up, miR-155 promoted proliferation, migration,
+ invasion and the activation of PI3K/AKT and JNK pathways in KGN cells through
+ negatively regulating PDCD4.",
+    pmid 31851829,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

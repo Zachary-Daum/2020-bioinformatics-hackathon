@@ -1,0 +1,319 @@
+
+Pubmed-entry ::= {
+  pmid 29673591,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA HAGLROS regulates cell apoptosis and
+ autophagy in lipopolysaccharides-induced WI-38cells via modulating
+ miR-100/NF-kappaB axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu M",
+            affil str "Department of Ultrasonography, China-Japan Union
+ Hospital of Jilin University, Changchun, Jilin, 130033, China."
+          },
+          {
+            name ml "Han T",
+            affil str "Department of Vascular Surgery, China-Japan Union
+ Hospital of Jilin University, Changchun, Jilin, 130033, China."
+          },
+          {
+            name ml "Shi S",
+            affil str "Department of Respiratory, China-Japan Union Hospital
+ of Jilin University, Changchun, Jilin, 130033, China. Electronic address:
+ shaominshi06@126.com."
+          },
+          {
+            name ml "Chen E",
+            affil str "Department of Ultrasonography, China-Japan Union
+ Hospital of Jilin University, Changchun, Jilin, 130033, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biochem. Biophys. Res. Commun.",
+          ml-jta "Biochem Biophys Res Commun",
+          issn "1090-2104",
+          name "Biochemical and biophysical research communications"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 7
+          },
+          volume "500",
+          issue "3",
+          pages "589-596",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29673591,
+        pii "S0006-291X(18)30888-X",
+        doi "10.1016/j.bbrc.2018.04.109",
+        other {
+          db "ELocationID pii",
+          tag str "S0006-291X(18)30888-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bbrc.2018.04.109"
+        }
+      }
+    },
+    abstract "Pneumonia is a lower respiratory disease caused by pathogens or
+ other factors. This study aimed to explore the roles and mechanism of long
+ noncoding RNA HAGLROS in lipopolysaccharides (LPS)-induced inflammatory
+ injury in pneumonia. The HAGLROS expression in serum of patients with acute
+ stage pneumonia was detected. To induce pulmonary injury, WI-38 human lung
+ fibroblasts were stimulated with lipopolysaccharides (LPS). The HAGLROS
+ expressions in LPS-treated WI-38cells and the effects of HAGLROS knockdown on
+ the viability, apoptosis, and autophagy of LPS-induced cells were detected.
+ Moreover, the regulatory relationship between HAGLROS and miR-100 was
+ explored as well as the functional targets of miR-100 were identified.
+ Furthermore, the regulatory relationship between miR-100 and
+ PI3K/AKT/NF-kappaB pathway was elucidated. LncRNA HAGLROS was higher
+ expressed in serum of patients with acute stage pneumonia compared with that
+ in serum of healthy control. LPS caused WI-38cell injury and increased
+ HAGLROS levels. Downregulation of HAGLROS alleviated LPS-induced cell injury
+ via increasing cell viability, and inhibiting apoptosis and autophagy.
+ Moreover, there was a negative correlation between HAGLROS and miR-100, and
+ the effects of HAGLROS downregulation on LPS-induced apoptosis and autophagy
+ in WI-38cells were by regulation of miR-100. Furthermore, NFKappaB3 was
+ verified as a functional target of miR-100 and effects of miR-100 inhibition
+ on LPS-induced WI-38cell injury were alleviated by knockdown of NFKappaB3.
+ Besides, Knockdown of HAGLROS inhibited the activation of PI3K/AKT/NF-kappaB
+ pathway. Our findings reveal that downregulation of HAGLROS may alleviate
+ LPS-induced inflammatory injury in WI-38cells via modulating
+ miR-100/NF-kappaB axis. HAGLROS/miR-100/NF-kappaB axis may provide a new
+ strategy for treating acute stage of pneumonia.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pneumonia",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transcription Factor RelA",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN100 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RELA protein, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Transcription Factor RelA"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 29673591,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

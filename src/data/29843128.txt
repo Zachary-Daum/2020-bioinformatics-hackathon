@@ -1,0 +1,311 @@
+
+Pubmed-entry ::= {
+  pmid 29843128,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Zurampic Protects Pancreatic beta-Cells from High Uric Acid
+ Induced-Damage by Inhibiting URAT1 and Inactivating the ROS/AMPK/ERK Pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xin Y",
+            affil str "Department of Endocrine and Metabolic Diseases, The
+ Affiliated Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Wang K",
+            affil str "Department of Endocrinology, Jining No.1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Jia Z",
+            affil str "Department of Endocrine and Metabolic Diseases, The
+ Affiliated Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Xu T",
+            affil str "Department of Respiratory Medicine, The Affiliated
+ Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Xu Q",
+            affil str "Department of Geriatrics, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Zhang C",
+            affil str "Department of Cardiology, The Affiliated Cardiovascular
+ Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Department of Geriatrics, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Chen R",
+            affil str "Department of Geriatrics, The Affiliated Hospital of
+ Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Du Z",
+            affil str "Department of Infectious Diseases, The Affiliated
+ Hospital of Qingdao University, Qingdao, China."
+          },
+          {
+            name ml "Sun J",
+            affil str "Department of Endocrinology, Jining No.1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "47",
+          issue "3",
+          pages "1074-1083",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29843128,
+        pii "000490184",
+        doi "10.1159/000490184",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000490184"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Zurampic is a US FDA approved drug for
+ treatment of gout. However, the influence of Zurampic on pancreatic
+ beta-cells remains unclear. The study aimed to evaluate the effects of
+ Zurampic on high uric acid-induced damage of pancreatic beta-cells and the
+ possible underlying mechanisms. METHODS: INS-1 cells and primary rat islets
+ were stimulated with Zurampic and the mRNA expression of urate transporter 1
+ (URAT1) was assessed by qRT-PCR. Cells were stimulated with uric acid or uric
+ acid plus Zurampic, and cell viability, apoptosis and ROS release were
+ measured by MTT and flow cytometry assays. Western blot analysis was
+ performed to evaluate the expressions of active Caspase-3 and phosphorylation
+ of AMPK and ERK. Finally, cells were stimulated with uric acid or uric acid
+ plus Zurampic at low/high level of glucose (2.8/16.7 mM glucose), and the
+ insulin release was assessed by ELISA. RESULTS: mRNA expression of URAT1 was
+ decreased by Zurampic in a dose-dependent manner. Uric acid decreased cell
+ viability, promoted cell apoptosis and induced ROS release. Uric acid-induced
+ alterations could be reversed by Zurampic. Activation of Caspase-3 and
+ phosphorylation of AMPK and ERK were enhanced by uric acid, and the
+ enhancements were reversed by Zurampic. Decreased phosphorylation of AMPK and
+ ERK, induced by Zurampic, was further reduced by adding inhibitor of AMPK or
+ ERK. Besides, uric acid inhibited high glucose-induced insulin secretion and
+ the inhibition was rescued by Zurampic. CONCLUSIONS: Zurampic has a
+ protective effect on pancreatic beta-cells against uric acid induced-damage
+ by inhibiting URAT1 and inactivating the ROS/AMPK/ERK pathway.",
+    mesh {
+      {
+        term "AMP-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anion Transport Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Insulin-Secreting Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Thioglycolates",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Triazoles",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Uric Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anion Transport Proteins"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "Thioglycolates"
+      },
+      {
+        type nameonly,
+        name "Triazoles"
+      },
+      {
+        type nameonly,
+        name "URAT1 protein, rat"
+      },
+      {
+        type cas,
+        cit "09ERP08I3W",
+        name "lesinurad"
+      },
+      {
+        type cas,
+        cit "268B43MJ25",
+        name "Uric Acid"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.31",
+        name "AMP-Activated Protein Kinases"
+      }
+    },
+    pmid 29843128,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

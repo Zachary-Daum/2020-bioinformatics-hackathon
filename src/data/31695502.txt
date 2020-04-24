@@ -1,0 +1,151 @@
+
+Pubmed-entry ::= {
+  pmid 31695502,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-ERK1/2 Signaling Promotes The Development Of Osteosarcoma By
+ Regulating H2BK12ac Through CBP."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu X",
+            affil str "Department of Traumatology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, People's Republic of China.; Affiliated
+ Jining No.1 People's Hospital of Jining Medical University, Jining Medical
+ University, Jining 272067, Shandong, People's Republic of China."
+          },
+          {
+            name ml "Yu H",
+            affil str "Department of Traumatology, Jining No.1 People's
+ Hospital, Jining 272011, Shandong, People's Republic of China.; Affiliated
+ Jining No.1 People's Hospital of Jining Medical University, Jining Medical
+ University, Jining 272067, Shandong, People's Republic of China."
+          },
+          {
+            name ml "Xu Y",
+            affil str "Department of Orthopedics, Jining Bone Fracture
+ Hospital, Jining 272000, Shandong, People's Republic of China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cancer Manag Res",
+          ml-jta "Cancer Manag Res",
+          issn "1179-1322",
+          name "Cancer management and research"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 10,
+            day 24
+          },
+          volume "11",
+          pages "9153-9163",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 8,
+                day 27
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 7,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31695502,
+        doi "10.2147/CMAR.S219535",
+        pii "219535",
+        other {
+          db "pmc",
+          tag str "PMC6817345"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.2147/CMAR.S219535"
+        }
+      }
+    },
+    abstract "Background: H2BK12ac is an important histone acetylation pattern
+ of H2B, which has been reported in several cancers. However, whether H2BK12ac
+ joins in Ras-ERK1/2 activation-induced osteosarcoma (OS) cell behaviors
+ remain unclear. The study explored this peradventure and revealed the
+ underlying mechanism. Methods: MG-63 cells were transfected with pEGFP-N1,
+ pEGFP-Ras(WT) and pEGFP-K-Ras(G12V/T35S), H2BK12ac and ERK1/2 expression
+ levels were analyzed by Western blot. Effects of H2BK12ac on cell viability,
+ migration, colony formation and cell cycle were investigated by MTT,
+ Transwell, soft-agar colony formation and flow cytometry assays. RT-qPCR and
+ ChIP were performed to study the effect of H2BK12ac and CBP on
+ ERK1/2-downstream gene transcriptions. Results: H2BK12ac was specifically
+ down-regulated by Ras-ERK1/2 activation in MG-63 cells. Down-regulated
+ H2BK12ac participated in regulating cell proliferation and migration of MG-63
+ cells, meanwhile, affected the transcription of ERK1/2-downstream genes.
+ Additionally, silence of HDAC1 up-regulated H2BK12ac expression, and
+ inhibited the promoting effect of Ras-ERK1/2 on MG-63 cells' proliferation,
+ migration and RNA expression levels of ERK1/2-downstream genes. Further, the
+ degradation of CBP mediated by MDM2 was discovered to be linked to Ras-ERK1/2
+ activation-induced H2BK12ac down-regulation. Conclusion: These findings from
+ the study demonstrated that Ras-ERK1/2 signaling could promote the
+ development of OS via regulating H2BK12ac through MDM2-mediated CBP
+ degradation.",
+    pmid 31695502,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

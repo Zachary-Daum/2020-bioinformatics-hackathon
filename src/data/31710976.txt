@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 31710976,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Curcumin inhibits proliferation and soluble collagen synthesis
+ of NIH/3T3 cell line by modulation of miR-29a and via ERK1/2 and beta-catenin
+ pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "Department of Burn and Plastic Surgery, Linyi People's
+ Hospital, Linyi 276003, Shandong, China."
+          },
+          {
+            name ml "Song M",
+            affil str "Department of Endocrinology, Linyi People's Hospital,
+ Linyi 276003, Shandong, China."
+          },
+          {
+            name ml "Li W",
+            affil str "Department of Burn and Plastic Surgery, Linyi People's
+ Hospital, Linyi 276003, Shandong, China."
+          },
+          {
+            name ml "Zhao F",
+            affil str "Department of Burn and Plastic Surgery, Linyi People's
+ Hospital, Linyi 276003, Shandong, China. Electronic address:
+ zhao0163zf@sina.com."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Orthopaedics, Lanling County People's
+ Hospital, Linyi 277799, Shandong, China. Electronic address:
+ liyuguo111@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Immunol.",
+          ml-jta "Mol Immunol",
+          issn "1872-9142",
+          name "Molecular immunology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "116",
+          pages "191-198",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 9,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 10,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31710976,
+        pii "S0161-5890(19)30463-8",
+        doi "10.1016/j.molimm.2019.10.018",
+        other {
+          db "ELocationID pii",
+          tag str "S0161-5890(19)30463-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.molimm.2019.10.018"
+        }
+      }
+    },
+    abstract "BACKGROUND: Scars affects the appearance and results in tissue
+ damage. In this research, we preliminarily studied the function and mechanism
+ of curcumin (CUR) on cell proliferation and soluble collagen synthesis in
+ NIH-3T3 cells. METHODS: CCK-8 was used to detect the IC50 of CUR. Moreover,
+ Western blot was used to measure the expression of cell
+ proliferation-related, soluble collagen synthesis and pathway-related
+ proteins. Sircol assay was determined the expression of soluble collagen.
+ Furthermore, reverse transcription quantitative PCR (RT-qPCR) was used to
+ determined miR-29a, alpha-smooth muscle aorta (alpha-SMA), soluble collagen 1
+ (Col 1) and Col 3 expression. RESULTS: CUR inhibited cell viability and
+ proliferation-related proteins expression. Transforming growth factor-beta
+ (TGFbeta1)-induced heightened the expression of proliferation-related
+ proteins and soluble collagen synthesis-related proteins. CUR inhibited
+ TGFbeta1-induced proliferation and soluble collagen synthesis. Furthermore,
+ CUR positively related miR-29a and miR-29a mimic inhibited TGFbeta1-induced
+ proliferation and soluble collagen synthesis. Besides, transfection with
+ miR-29a inhibitor could partly reverse the effects of CUR. CUR inhibited the
+ ERK1/2 and beta-catenin pathways and the miR-29a inhibitor reversed the above
+ results. Otherwise, soluble collagen 1 (Col 1) partly reversed the effects of
+ CUR on proliferation and soluble collagen synthesis and silenced Col 1/3
+ could inhibit ERK1/2 and beta-catenin signaling pathways. CONCLUSION: CUR
+ restrained TGFbeta1-induced proliferation and soluble collagen synthesis in
+ NIH-3T3 cells by up-regulation of miR-29a via ERK1/2 and beta-catenin
+ signaling pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Collagen Type I",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Curcumin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NIH 3T3 Cells"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transforming Growth Factor beta1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Collagen Type I"
+      },
+      {
+        type nameonly,
+        name "MIRN29 microRNA, mouse"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Transforming Growth Factor beta1"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type cas,
+        cit "IT942ZTH98",
+        name "Curcumin"
+      }
+    },
+    pmid 31710976,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,138 @@
+
+Pubmed-entry ::= {
+  pmid 32027070,
+  medent {
+    em std {
+      year 2020,
+      month 2,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-31 weakens cisplatin resistance of medulloblastoma
+ cells via NF-kappaB and PI3K/AKT pathways."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma H",
+            affil str "Department of Neurosurgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Cao W",
+            affil str "Department of Neurosurgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Ding M",
+            affil str "Department of Pediatrics, Jining No. 1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biofactors",
+          ml-jta "Biofactors",
+          issn "1872-8081",
+          name "BioFactors (Oxford, England)"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 2,
+            day 6
+          },
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 11,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2020,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 32027070,
+        doi "10.1002/biof.1616",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/biof.1616"
+        }
+      }
+    },
+    abstract "BACKGROUND: Medulloblastoma (MB) is a malignant intracranial
+ tumor. Cisplatin is a broad-spectrum antitumor drug. It is important to study
+ the cisplatin resistance of MB cells for the treatment of MB. In this
+ article, we preliminarily studied the cisplatin resistance of microRNA
+ (miR)-31 and the possible mechanism in DAOY and UW228 cells, laying a
+ theoretical foundation for clinical treatment of MB. METHODS: Following
+ anti-miR-31 and pre-miR-31 transfections, cell viability, BrdU, CyclinD1, and
+ apoptosis levels of DAOY and UW228 cell were detected by CCK8, BrdU, and
+ western blot. Meanwhile, migration, invasion, and western blot assay were
+ respectively used to detect the functions of miR-31 migration and invasion.
+ miR-31 levels were changed by cell transfection and detected by RT-qPCR.
+ Furthermore, the related-proteins of pathways were also detected by western
+ blot. RESULTS: Anti-miR-31 increased DAOY and UW228 cells viability, BrdU(+)
+ numbers, and expression of CyclinD1. The migration/invasion rate and
+ expression levels of MMP-9 and vimentin after anti-miR-31 transfection were
+ increased. Furthermore, anti-miR-31 enhanced cells' cisplatin resistance and
+ triggered PI3K/AKT and NF-kappaB pathways. Pre-miR-31 played opposite roles
+ and promoted the apoptosis. CONCLUSION: miR-31 regulated cell growth,
+ migration, invasion and cisplatin resistance of MB cells via PI3K/AKT and
+ NF-kappaB pathways.",
+    pmid 32027070,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

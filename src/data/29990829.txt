@@ -1,0 +1,376 @@
+
+Pubmed-entry ::= {
+  pmid 29990829,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Astragaloside IV reduces the hypoxia-induced injury in PC-12
+ cells by inhibiting expression of miR-124."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu W",
+            affil str "Department of Geriatrics, Shengli Oilfield Central
+ Hospital, Dongying 257034, Shandong, China."
+          },
+          {
+            name ml "Lv Z",
+            affil str "Department of Neurology, Shengli Oilfield Central
+ Hospital, Dongying 257034, Shandong, China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "Department of Neurology, Shengli Oilfield Central
+ Hospital, Dongying 257034, Shandong, China."
+          },
+          {
+            name ml "Gao Z",
+            affil str "Department of Neurology, Shengli Oilfield Central
+ Hospital, Dongying 257034, Shandong, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Neurology, Shengli Oilfield Central
+ Hospital, Dongying 257034, Shandong, China."
+          },
+          {
+            name ml "Yang X",
+            affil str "Department of Rheumatology and Immunology, Shengli
+ Oilfield Central Hospital, Dongying 257034, Shandong, China."
+          },
+          {
+            name ml "Zhong M",
+            affil str "Department of Neurology, Shengli Oilfield Central
+ Hospital, Dongying 257034, Shandong, China. Electronic address:
+ zhongmf312@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "106",
+          pages "419-425",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29990829,
+        pii "S0753-3322(18)31641-X",
+        doi "10.1016/j.biopha.2018.06.127",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(18)31641-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2018.06.127"
+        }
+      }
+    },
+    abstract "BACKGROUND: Astragalus membranaceus has been clinically used in
+ cerebral ischemia treatment in China and its main component, Astragaloside IV
+ (Ast IV) shows anti-hypoxia activity, but the underlying mechanism has not
+ been clearly clarified. This study was aimed to investigate the effects of
+ Ast IV on hypoxia-induced injury in PC-12 cells as well as the underlying
+ mechanism. METHODS: Relative miR-124 expression was detected by qRT-PCR.
+ Hic-5 expression was analyzed by qRT-PCR and Western blot. To alter miR-124
+ and Hic-5 expressions, cells were respectively transfected with miR-124 mimic
+ and pEX-Hic-5. Cell proliferation and apoptosis were measured by BrdU assay
+ and Annexin V-fluorescein isothiocynate (FITC)/propidium iodide (PI) double
+ staining method, respectively. Besides, apoptotic proteins and cell
+ proliferation-associated factors were analyzed by Western blot. RESULTS: Ast
+ IV alleviated hypoxia-induced injury in PC-12 cells by decreasing apoptosis
+ (P< 0.01). Ast IV inhibited up-regulation of miR-124 induced by hypoxia (P<
+ 0.01). miR-124 mimic impaired the anti-apoptotic effect of Ast IV on PC-12
+ cells (P< 0.01). Hic-5 expression was significantly down-regulated in miR-124
+ overexpressed cells (P< 0.001) and Hic-5 overexpression activated
+ Sp1/Survivin signaling pathway (P< 0.001). CONCLUSION: Ast IV could
+ ameliorate hypoxia-induced injury in PC-12 cells by decreasing miR-124
+ expression and then up-regulating Hic-5 expression.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Hypoxia"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection"
+      },
+      {
+        term "Cytoskeletal Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "DNA-Binding Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "LIM Domain Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neuroprotective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Saponins",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Sp1 Transcription Factor",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Survivin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Triterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Birc5 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Cytoskeletal Proteins"
+      },
+      {
+        type nameonly,
+        name "DNA-Binding Proteins"
+      },
+      {
+        type nameonly,
+        name "LIM Domain Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN124 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neuroprotective Agents"
+      },
+      {
+        type nameonly,
+        name "Saponins"
+      },
+      {
+        type nameonly,
+        name "Sp1 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "Survivin"
+      },
+      {
+        type nameonly,
+        name "Tgfb1i1 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Triterpenes"
+      },
+      {
+        type cas,
+        cit "3A592W8XKE",
+        name "astragaloside A"
+      }
+    },
+    pmid 29990829,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

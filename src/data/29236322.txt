@@ -1,0 +1,322 @@
+
+Pubmed-entry ::= {
+  pmid 29236322,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "microRNA-383 suppresses the PI3K-AKT-MTOR signaling pathway to
+ inhibit development of cervical cancer via down-regulating PARP2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Teng P",
+            affil str "Department of Gynecology and Obstetrics, The Second
+ Hospital of Shanxi Medical University, Taiyuan, P. R. China."
+          },
+          {
+            name ml "Jiao Y",
+            affil str "Department of Gynecology and Obstetrics, Xuzhou Central
+ Hospital, Xuzhou, P. R. China."
+          },
+          {
+            name ml "Hao M",
+            affil str "Department of Gynecology and Obstetrics, The Second
+ Hospital of Shanxi Medical University, Taiyuan, P. R. China."
+          },
+          {
+            name ml "Tang X",
+            affil str "Department of Gynecology and Obstetrics, Xuzhou Central
+ Hospital, Xuzhou, P. R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "119",
+          issue "7",
+          pages "5243-5252",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29236322,
+        doi "10.1002/jcb.26585",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26585"
+        }
+      }
+    },
+    abstract "This study aims to evaluate the effect of the regulatory
+ relationship between microRNA-383 (miR-383) and PARP2 in the cell migration
+ and invasion in human with cervical cancer (CC) via the PI3K-AKT-MTOR
+ signaling pathway. Cancerous tissues and corresponding paracancerous tissues
+ were collected from 115 patients with CC. The positive expression rate of
+ PARP2 was detected by immunohistochemistry. HeLa cells with highest miR-383
+ expression were selected and assigned into the blank, negative control (NC),
+ miR-383 mimic, miR-383 inhibitor, si-PARP2, and miR-383 inhibitor + si-PARP2
+ groups. qRT-PCR and Western blot were performed to evaluate the expression of
+ miR-383, PI3K, AKT, mTOR, PARP2, and p70S6K. MTT assay were utilized to
+ measure cell viability. Transwell assay were applied to evaluate cell
+ invasion and metastasis. Dual luciferase reporter assay identified that PARP2
+ is a target gene of miR-383. Cancerous tissues manifested higher expression
+ of PI3K, AKT, mTOR, PARP2, and p70S6K but lower miR-383 expression than
+ paracancerous tissues. Compared with the blank and NC groups, the miR-383
+ mimic and si-PARP2 groups had decreased expression of PI3K, AKT, mTOR, PARP2,
+ and p70S6K mRNA and protein. In the miR-383 mimic and si-PARP2 groups, the
+ cell viability, migration, and invasion were descended, in comparison to the
+ blank and NC groups. All above parameters showed an opposite trend in the
+ miR-383 inhibitor group when compared with the blank and NC groups. This
+ study demonstrates that miR-383 could down-regulate PARP2 to protect against
+ CC by inhibiting PI3K-AKT-MTOR signaling pathway.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Blotting, Western"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "HeLa Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Poly(ADP-ribose) Polymerases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Ribosomal Protein S6 Kinases, 70-kDa"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Uterine Cervical Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN383 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.4.2.30",
+        name "PARP2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.4.2.30",
+        name "Poly(ADP-ribose) Polymerases"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Ribosomal Protein S6 Kinases, 70-kDa"
+      }
+    },
+    pmid 29236322,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

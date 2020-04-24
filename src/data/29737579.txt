@@ -1,0 +1,313 @@
+
+Pubmed-entry ::= {
+  pmid 29737579,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Beta-elemene increases chemosensitivity to 5-fluorouracil
+ through down-regulating microRNA-191 expression in colorectal carcinoma cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guo Z",
+            affil str "Department of Traditional Chinese Medicine, Jining No.
+ 1 People's Hospital, Jining, China."
+          },
+          {
+            name ml "Liu Z",
+            affil str "Department of Traditional Chinese Medicine, Jining No.
+ 1 People's Hospital, Jining, China."
+          },
+          {
+            name ml "Yue H",
+            affil str "Department of Traditional Chinese Medicine, Jining No.
+ 1 People's Hospital, Jining, China."
+          },
+          {
+            name ml "Wang J",
+            affil str "Department of Anorectal Surgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "119",
+          issue "8",
+          pages "7032-7039",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29737579,
+        doi "10.1002/jcb.26914",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.26914"
+        }
+      }
+    },
+    abstract "Colorectal carcinoma is a common malignant tumor occurring in
+ the alimentary system. Despite developments of modern medicine, developed
+ resistance to 5-fluorouracil (5-FU) may lead to poor prognosis. Herein, we
+ aimed to explore the effects of beta-elemene on colorectal carcinoma cells
+ (HCT116 and HT29) as well as the underlying mechanisms. Beta-elemene reduced
+ cell viability and induced apoptosis in HCT116 and HT29 cells. Increased
+ apoptosis following beta-elemene exposure was due to enhanced sensitivity to
+ 5-FU through down-regulating miR-191. Expression of key kinases, including
+ Wnt3a, and beta-catenin, were down-regulated by beta-elemene through a
+ miR-191 mechanism. Moreover, beta-elemene might improve resistance of
+ colorectal carcinoma cells to 5-FU by down-regulating miR-191, thereby
+ inhibiting the Wnt/beta-catenin pathway.",
+    mesh {
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Fluorouracil",
+        qual {
+          {
+            subh "agonists"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "HCT116 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sesquiterpenes",
+        qual {
+          {
+            subh "agonists"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt3A Protein",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN191 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Neoplasm"
+      },
+      {
+        type nameonly,
+        name "Sesquiterpenes"
+      },
+      {
+        type nameonly,
+        name "WNT3A protein, human"
+      },
+      {
+        type nameonly,
+        name "Wnt3A Protein"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type nameonly,
+        name "beta-elemene"
+      },
+      {
+        type cas,
+        cit "U3P01618RT",
+        name "Fluorouracil"
+      }
+    },
+    pmid 29737579,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

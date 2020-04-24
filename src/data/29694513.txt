@@ -1,0 +1,299 @@
+
+Pubmed-entry ::= {
+  pmid 29694513,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-27a protects human mitral valve interstitial cell from
+ TNF-alpha-induced inflammatory injury via up-regulation of NELL-1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen H",
+            affil str "Department of Cardiology, Chengyang People's Hospital,
+ Qingdao, Shandong, China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "Department of Cardiology, Chengyang People's Hospital,
+ Qingdao, Shandong, China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "Teaching and Research Office of Immunology, Qingdao
+ University, Qingdao, Shandong, China."
+          },
+          {
+            name ml "Wang J",
+            affil str "Department of Cardiology, Chengyang People's Hospital,
+ Qingdao, Shandong, China."
+          },
+          {
+            name ml "Zhang M",
+            affil str "Department of Imaging, Eastern District of Linyi People
+'s Hospital, Linyi, Shandong, China."
+          },
+          {
+            name ml "Zhu B",
+            affil str "Department of Cardiology, Chengyang People's Hospital,
+ Qingdao, Shandong, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "6",
+          pages "e6997",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29694513,
+        pii "S0100-879X2018000600603",
+        doi "10.1590/1414-431x20186997",
+        other {
+          db "pmc",
+          tag str "PMC5937725"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000600603"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431x20186997"
+        }
+      }
+    },
+    abstract "MicroRNAs (miRNAs) have been reported to be associated with
+ heart valve disease, which can be caused by inflammation. This study aimed to
+ investigate the functional impacts of miR-27a on TNF-alpha-induced
+ inflammatory injury in human mitral valve interstitial cells (hMVICs). hMVICs
+ were subjected to 40 ng/mL TNF-alpha for 48 h, before which the expressions
+ of miR-27a and NELL-1 in hMVICs were altered by stable transfection. Trypan
+ blue staining, BrdU incorporation assay, flow cytometry detection, ELISA, and
+ western blot assay were performed to detect cell proliferation, apoptosis,
+ and the release of proinflammatory cytokines. We found that miR-27a was lowly
+ expressed in response to TNF-alpha exposure in hMVICs. Overexpression of
+ miR-27a rescued hMVICs from TNF-alpha-induced inflammatory injury, as cell
+ viability and BrdU incorporation were increased, apoptotic cell rate was
+ decreased, Bcl-2 was up-regulated, Bax and cleaved caspase-3/9 were
+ down-regulated, and the release of IL-1beta, IL-6, and MMP-9 were reduced.
+ NELL-1 was positively regulated by miR-27a, and NELL-1 up-regulation
+ exhibited protective functions during TNF-alpha-induced cell damage.
+ Furthermore, miR-27a blocked JNK and Wnt/beta-catenin signaling pathways, and
+ the blockage was abolished when NELL-1 was silenced. This study demonstrated
+ that miR-27a overexpression protected hMVICs from TNF-alpha-induced cell
+ damage, which might be via up-regulation of NELL-1 and thus modulation of JNK
+ and Wnt/beta-catenin signaling pathways.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Enzyme-Linked Immunosorbent Assay"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Heart Valve Diseases",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Mitral Valve",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nerve Tissue Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reverse Transcriptase Polymerase Chain Reaction"
+      },
+      {
+        term "Transfection"
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "MIRN27 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NELL1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Nerve Tissue Proteins"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      }
+    },
+    pmid 29694513,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

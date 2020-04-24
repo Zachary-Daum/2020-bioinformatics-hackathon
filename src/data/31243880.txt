@@ -1,0 +1,329 @@
+
+Pubmed-entry ::= {
+  pmid 31243880,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sinomenine exerts antitumour effect in gastric cancer cells via
+ enhancement of miR-204 expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yuan H",
+            affil str "Department of Gastroenterology, Heze Municipal
+ Hospital, Heze, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Histology and Embryology, Heze Medical
+ College, Heze, China."
+          },
+          {
+            name ml "Li F",
+            affil str "Department of Clinical Pharmacy, Heze Municipal
+ Hospital, Heze, China."
+          },
+          {
+            name ml "Li W",
+            affil str "Department of Gastroenterology, Heze Municipal
+ Hospital, Heze, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Department of Oncology, Heze Municipal Hospital, Heze,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Basic Clin. Pharmacol. Toxicol.",
+          ml-jta "Basic Clin Pharmacol Toxicol",
+          issn "1742-7843",
+          name "Basic & clinical pharmacology & toxicology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11
+          },
+          volume "125",
+          issue "5",
+          pages "450-459",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 6,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31243880,
+        doi "10.1111/bcpt.13285",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/bcpt.13285"
+        }
+      }
+    },
+    abstract "Gastric carcinoma (GC) is a pernicious neoplasm with high
+ morbidity and mortality. Sinomenine (SIN) has long been exploited to heal
+ rheumatoid arthritis. Recently, SIN has been discovered to exert the
+ antitumour functions in diverse cancers. However, the impacts of SIN on GC
+ remain indistinct. We attempted to expose the antitumour effect of SIN on GC.
+ MKN45 and SGC-7901 cells were administered with SIN for 24 hours, cell
+ viability, proliferation, apoptosis, migration, invasion and the associated
+ proteins in the above processes were examined via exploiting CCK-8, BrdU,
+ flow cytometry, Transwell and Western blot. MiR-204 expression in GC tumour
+ tissues, different GC cell lines and SIN-stimulated GC cells was investigated
+ by executing RT-qPCR. The above cell biological processes were reassessed
+ after transfection with miR-204 inhibitor. The latent mechanisms were probed
+ by examining AMPK and Wnt/beta-catenin pathways. We found that SIN memorably
+ repressed cell proliferation, evoked apoptosis and affected CyclinD1, Bcl-2,
+ Bax and cleaved-caspase-3 expression in MKN45 and SGC-7901 cells. Cell
+ migration, invasion and expression of MMP-9 and Vimentin were all restrained
+ by SIN stimulation. The increase of miR-204 was discovered in GC tissues and
+ SIN-treated MKN45 and SGC-7901 cells. But suppression of miR-204 was observed
+ in AGS, MKN28, MKN45 and SGC-7901 cells. Suppression of miR-204 overturned
+ the inhibitory functions of SIN in MKN45 and SGC-7901 cells. Besides, SIN
+ prohibited AMPK and Wnt/beta-catenin pathways via enhancement of miR-204. In
+ conclusion, these findings suggested that SIN exerted the antitumour activity
+ in GC cells by hindering AMPK and Wnt/beta-catenin pathways via enhancement
+ of miR-204.",
+    mesh {
+      {
+        term "AMP-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Carcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Drug Screening Assays, Antitumor"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Morphinans",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Stomach",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN204 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Morphinans"
+      },
+      {
+        type cas,
+        cit "63LT81K70N",
+        name "sinomenine"
+      },
+      {
+        type ec,
+        cit "2.7.11.31",
+        name "AMP-Activated Protein Kinases"
+      }
+    },
+    pmid 31243880,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

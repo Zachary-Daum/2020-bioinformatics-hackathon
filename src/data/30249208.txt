@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 30249208,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown long non-coding RNA ANRIL inhibits proliferation,
+ migration and invasion of HepG2 cells by down-regulation of miR-191."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang D",
+            affil str "Department of Infectious Disease, The Affiliated
+ Hospital of Qingdao University, Qingdao, 266003, Shandong, China."
+          },
+          {
+            name ml "Bi C",
+            affil str "Department of Infectious Disease, The Affiliated
+ Hospital of Qingdao University, Qingdao, 266003, Shandong, China."
+          },
+          {
+            name ml "Zhao Q",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, No.16, Jiangsu Road, Qingdao, 266003, Shandong, China."
+          },
+          {
+            name ml "Ding X",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, No.16, Jiangsu Road, Qingdao, 266003, Shandong, China."
+          },
+          {
+            name ml "Bian C",
+            affil str "Department of Infectious Disease, The Affiliated
+ Hospital of Qingdao University, Qingdao, 266003, Shandong, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Department of Infectious Disease, The Affiliated
+ Hospital of Qingdao University, Qingdao, 266003, Shandong, China."
+          },
+          {
+            name ml "Wang T",
+            affil str "Department of Infectious Disease, The Affiliated
+ Hospital of Qingdao University, Qingdao, 266003, Shandong, China."
+          },
+          {
+            name ml "Liu H",
+            affil str "Department of Gastroenterology, The Affiliated Hospital
+ of Qingdao University, No.16, Jiangsu Road, Qingdao, 266003, Shandong, China.
+ liuhua042@sohu.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9,
+            day 24
+          },
+          volume "18",
+          issue "1",
+          pages "919",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30249208,
+        doi "10.1186/s12885-018-4831-6",
+        pii "10.1186/s12885-018-4831-6",
+        other {
+          db "pmc",
+          tag str "PMC6154945"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-018-4831-6"
+        }
+      }
+    },
+    abstract "BACKGROUND: Hepatocellular carcinoma (HCC) is a common malignant
+ tumor with high fatality rate. Recent studies reported that up-regulation of
+ long non-coding RNA antisense non-coding RNA in the INK4 locus (lncRNA ANRIL)
+ was found in HCC tissues, and which could affect HCC cells biological
+ processes. However, the potential molecular mechanism of ANRIL in HCC is
+ still unclear. The study aimed to uncover the effect of ANRIL on HepG2 cells
+ growth, migration and invasion. METHODS: The knockdown expression vectors of
+ ANRIL were transfected into HepG2 cells, and qRT-PCR, CCK-8, flow cytometry,
+ Transwell and western blot assays were performed to analyze the effect of
+ ANRIL on cell proliferation, apoptosis, migration and invasion. The relative
+ expression of miR-191 was then examined in ANRIL knockdown vector transfected
+ cells. These experiments were repeated again for exploring the effect of
+ miR-191 on HepG2 cells. NF-kappaB and Wnt/beta-catenin signaling pathways
+ were examined by using western blot assay. RESULTS: Knockdown of ANRIL
+ inhibited proliferation, induced apoptosis, meanwhile suppressed migration
+ and invasion of HepG2 cells. Additionally, the results showed that the
+ expression level of miR-191 was down-regulated by ANRIL knockdown in HepG2
+ cells. Importantly, overexpression of miR-191 reversed the anti-tumor effect
+ of ANRIL on cell proliferation, apoptosis, migration and invasion in HepG2
+ cells. Besides, we found that ANRIL knockdown inactivated NF-kappaB and
+ Wnt/beta-catenin pathways by regulating miR-191. CONCLUSIONS: These data
+ demonstrated that ANRIL knockdown suppressed proliferation, migration,
+ invasion, and promoted apoptosis in HepG2 cells by down-regulating miR-191
+ and inactivating NF-kappaB and Wnt/beta-catenin signaling pathways.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Hepatocellular",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Hep G2 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ANRIL long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN191 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30249208,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

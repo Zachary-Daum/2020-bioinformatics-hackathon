@@ -1,0 +1,310 @@
+
+Pubmed-entry ::= {
+  pmid 31736361,
+  medent {
+    em std {
+      year 2019,
+      month 11,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "KRas-ERK signalling promotes the onset and maintenance of uveal
+ melanoma through regulating JMJD6-mediated H2A.X phosphorylation at tyrosine
+ 39."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li Y",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, PR China."
+          },
+          {
+            name ml "Yu P",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, PR China."
+          },
+          {
+            name ml "Zou Y",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, PR China."
+          },
+          {
+            name ml "Cai W",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, PR China."
+          },
+          {
+            name ml "Sun W",
+            affil str "Department of Gastrointestinal Colorectal and Anal
+ Surgery, China-Japan Union Hospital of Jilin University, Changchun, PR China."
+          },
+          {
+            name ml "Han N",
+            affil str "Department of Ophthalmology, The Second Hospital of
+ Jilin University, Changchun, PR China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "4257-4265",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 11,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 11,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31736361,
+        doi "10.1080/21691401.2019.1673764",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1673764"
+        }
+      }
+    },
+    abstract "Since DNA damage is a first incident occurred during a tumour
+ attack, it is rational that histone H2A.X phosphorylation on tyrosine 39
+ (H2A.X(Y39ph)) may act as a tumour-relevant factor. This study was aimed to
+ test the authenticity of the hypothesis. Uveal melanoma MP65 cells were
+ transfected for expression of KRas mutated. H2A.X phosphorylation and ERK1/2
+ was measured, and transwell experiment was performed to examine the
+ consequents of H2A.X(Y39ph) on MP65 cells developing and migration.
+ Regulatory relationship between H2A.X(Y39ph) and ERK1/2 downstream genes were
+ measured. Moreover, whether JMJD6 and MDM2 are involved in H2A.X
+ phosphorylation was studied. Mutation of Ras activated ERK1/2 signalling and
+ inhibited H2A.X phosphorylation at Y39. Silence of H2A.X(Y39ph) contributed
+ to the regulation of MP65 cells growth, migration and transcription of ERK1/2
+ downstream genes, including CYR61, IGFBP3, WNT16B, NT5E, GDF15 and CARD16.
+ The repressed H2A.X phosphorylation through Ras-ERK1/2 signalling might be
+ through MDM2-mediated JMJD6 degradation. Our study suggested that Ras-ERK1/2
+ signalling inhibited H2A.X phosphorylation at Y39, which led to the
+ uncontrolled developing and migration of uveal melanoma cells. In addition,
+ H2A.X phosphorylation was mediated possibly through JMJD6 which could be
+ degraded by MDM2.",
+    mesh {
+      {
+        mp TRUE,
+        term "Carcinogenesis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Enzyme Activation"
+      },
+      {
+        term "Extracellular Signal-Regulated MAP Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Jumonji Domain-Containing Histone Demethylases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Melanoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Proto-Oncogene Proteins c-mdm2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins p21(ras)",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      },
+      {
+        term "Transcription, Genetic"
+      },
+      {
+        term "Tyrosine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Uveal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "H2AX protein, human"
+      },
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type nameonly,
+        name "KRAS protein, human"
+      },
+      {
+        type cas,
+        cit "42HK56048U",
+        name "Tyrosine"
+      },
+      {
+        type ec,
+        cit "1.14.11.-",
+        name "JMJD6 protein, human"
+      },
+      {
+        type ec,
+        cit "1.14.11.-",
+        name "Jumonji Domain-Containing Histone Demethylases"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Proto-Oncogene Proteins c-mdm2"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Extracellular Signal-Regulated MAP Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 3"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "Proto-Oncogene Proteins p21(ras)"
+      }
+    },
+    pmid 31736361,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,311 @@
+
+Pubmed-entry ::= {
+  pmid 29490000,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Propofol inhibits proliferation, migration, and invasion but
+ promotes apoptosis by regulation of Sox4 in endometrial cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Du Q",
+            affil str "Department of Anesthesiology, Qingdao University,
+ Qingdao, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Department of Anesthesiology, Qingdao University,
+ Qingdao, China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "Department of Emergency, Qingdao University, Qingdao,
+ China."
+          },
+          {
+            name ml "Zhang X",
+            affil str "Department of Anesthesiology, Qingdao University,
+ Qingdao, China."
+          },
+          {
+            name ml "Zhu H",
+            affil str "Department of Anesthesiology, Qingdao University,
+ Qingdao, China."
+          },
+          {
+            name ml "Wei M",
+            affil str "Department of Anesthesiology, Qingdao University,
+ Qingdao, China."
+          },
+          {
+            name ml "Wang S",
+            affil str "Department of Anesthesiology, Qingdao University,
+ Qingdao, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz. J. Med. Biol. Res.",
+          ml-jta "Braz J Med Biol Res",
+          issn "1414-431X",
+          name "Brazilian journal of medical and biological research = Revista
+ brasileira de pesquisas medicas e biologicas"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "51",
+          issue "4",
+          pages "e6803",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29490000,
+        pii "S0100-879X2018000400605",
+        doi "10.1590/1414-431x20176803",
+        other {
+          db "pmc",
+          tag str "PMC5856446"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0100-879X2018000400605"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1414-431x20176803"
+        }
+      }
+    },
+    abstract "Propofol is an intravenous sedative hypnotic agent of which the
+ growth-inhibitory effect has been reported on various cancers. However, the
+ roles of propofol in endometrial cancer (EC) remain unclear. This study aimed
+ to explore the effects of propofol on EC in vitro and in vivo. Different
+ concentrations of propofol were used to treat Ishikawa cells. Colony number,
+ cell viability, cell cycle, apoptosis, migration, and invasion were analyzed
+ by colony formation, MTT, flow cytometry, and Transwell assays. In addition,
+ the pcDNA3.1-Sox4 and Sox4 siRNA plasmids were transfected into Ishikawa
+ cells to explore the relationship between propofol and Sox4 in EC cell
+ proliferation. Tumor weight in vivo was measured by xenograft tumor model
+ assay. Protein levels of cell cycle-related factors, apoptosis-related
+ factors, matrix metalloproteinases 9 (MMP9), matrix metalloproteinases 2
+ (MMP2) and Wnt/beta-catenin pathway were examined by western blot. Results
+ showed that propofol significantly decreased colony numbers, inhibited cell
+ viability, migration, and invasion but promoted apoptosis in a dose-dependent
+ manner in Ishikawa cells. Moreover, propofol reduced the expression of Sox4
+ in a dose-dependent manner. Additionally, propofol significantly suppressed
+ the proportions of Ki67+ cells, but Sox4 overexpression reversed the results.
+ Furthermore, in vivo assay results showed that propofol inhibited tumor
+ growth; however, the inhibitory effect was abolished by Sox4 overexpression.
+ Moreover, propofol inhibited Sox4 expression via inactivation of
+ Wnt/beta-catenin signal pathway. Our study demonstrated that propofol
+ inhibited cell proliferation, migration, and invasion but promoted apoptosis
+ by regulation of Sox4 in EC cells. These findings might indicate a novel
+ treatment strategy for EC.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Endometrial Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hypnotics and Sedatives",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Propofol",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "SOXC Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Stem Cell Assay"
+      },
+      {
+        term "Wnt Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Xenograft Model Antitumor Assays"
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Hypnotics and Sedatives"
+      },
+      {
+        type nameonly,
+        name "SOX4 protein, human"
+      },
+      {
+        type nameonly,
+        name "SOXC Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "Sox4 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Wnt Proteins"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type cas,
+        cit "YI7VU623SF",
+        name "Propofol"
+      }
+    },
+    pmid 29490000,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

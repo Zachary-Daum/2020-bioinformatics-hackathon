@@ -1,0 +1,213 @@
+
+Pubmed-entry ::= {
+  pmid 29171984,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-1246 inhibits cell invasion and epithelial mesenchymal
+ transition process by targeting CXCR4 in lung cancer cells."
+      },
+      authors {
+        names ml {
+          "Xu X",
+          "Cao L",
+          "Zhang Y",
+          "Lian H",
+          "Sun Z",
+          "Cui Y"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cancer Biomark",
+          ml-jta "Cancer Biomark",
+          issn "1875-8592",
+          name "Cancer biomarkers : section A of Disease markers"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 6
+          },
+          volume "21",
+          issue "2",
+          pages "251-260",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29171984,
+        pii "CBM170317",
+        doi "10.3233/CBM-170317",
+        other {
+          db "ELocationID doi",
+          tag str "10.3233/CBM-170317"
+        }
+      }
+    },
+    abstract "BACKGROUND: Recent studies have indicated that microRNAs
+ (miRNAs) are closely related to lung cancer. However, the effects of miR-1246
+ on lung cancer are still elusive. In this study, we aimed to explore the
+ molecular mechanisms of miR-1246 in lung cancer. MATERIALS AND METHODS: Using
+ RT-qPCR assay, we analyzed the expression of miR-1246 in lung cancer cell
+ lines and lung epithelial cell line. Using Cell Counting Kit-8 (CCK-8), flow
+ cytometry, Transwell, RT-qPCR and western blot assays, we investigated cell
+ viability, apoptosis, invasion and epithelial mesenchymal transition (EMT)
+ process. Using luciferase reporter assay, we confirmed a target of miR-1246.
+ Using western blot assay, we detected the protein mechanisms of Janus kinase
+ (JAK)/signal transducer and activator of transcription (STAT) and
+ phosphatidylinositol 3 kinase (PI3K)/protein kinase B (AKT) signal pathways.
+ RESULTS: Our results showed that miR-1246 was down-regulated in lung cancer
+ cell lines (A549, H1650 and H1299) compared to in lung epithelial cell line
+ (16HBE14o). MiR-1246 overexpression remarkably inhibited cell invasion as
+ well as up-regulated E-cadherin expression and down-regulated N-cadherin,
+ Vimentin, ZEB1 and Snail expressions in A549 cells. Further studies have
+ confirmed CXCR4 as a target gene of miR-1246, and CXCR4 silence significantly
+ abolished the promotion effect of miR-1246 suppression on cell invasion and
+ EMT process in A549 cells. Besides, miR-1246 blocked JAK/STAT and PI3K/AKT
+ signal pathways by regulation of CXCR4. CONCLUSIONS: These results
+ demonstrated that miR-1246 inhibited cell invasion and EMT process by
+ targeting CXCR4 and blocking JAK/STAT and PI3K/AKT signal pathways in lung
+ cancer cells.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Epithelial-Mesenchymal Transition"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Receptors, CXCR4",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Transfection"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CXCR4 protein, human"
+      },
+      {
+        type nameonly,
+        name "MIRN1246 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Receptors, CXCR4"
+      }
+    },
+    pmid 29171984,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

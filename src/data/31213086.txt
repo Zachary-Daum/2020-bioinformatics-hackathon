@@ -1,0 +1,263 @@
+
+Pubmed-entry ::= {
+  pmid 31213086,
+  medent {
+    em std {
+      year 2019,
+      month 6,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long noncoding RNA SNHG15 enhances the development of colorectal
+ carcinoma via functioning as a ceRNA through miR-141/SIRT1/Wnt/beta-catenin
+ axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun X",
+            affil str "a Department of Colorectal Surgery, The First
+ Affiliated Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Bai Y",
+            affil str "a Department of Colorectal Surgery, The First
+ Affiliated Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Yang C",
+            affil str "a Department of Colorectal Surgery, The First
+ Affiliated Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Hu S",
+            affil str "a Department of Colorectal Surgery, The First
+ Affiliated Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Hou Z",
+            affil str "a Department of Colorectal Surgery, The First
+ Affiliated Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          },
+          {
+            name ml "Wang G",
+            affil str "a Department of Colorectal Surgery, The First
+ Affiliated Hospital of Zhengzhou University , Zhengzhou , Henan , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "2536-2544",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31213086,
+        doi "10.1080/21691401.2019.1621328",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1621328"
+        }
+      }
+    },
+    abstract "Colon cancer, also known as colorectal carcinoma (CRC), remains
+ to be one of the most mainsprings of cancer-produced deaths entire world. We
+ planned to grab the role and possible biological cause of a long noncoding
+ RNA, namely, small nucleolar RNA host gene 15 (SNHG15), in CRC. The mRNA
+ level of SNHG15 in CRC tissues and cells was detected, followed by
+ investigating the impacts of the depression of SNHG15 on CRC cell
+ proliferation (viability and colony-forming), apoptosis, migration, and
+ invasion. Moreover, the association between SNHG15 and miR-141 and the
+ correlation between miR-141 and SIRT1 were also explored. Besides, the
+ influences of dysregulated SNHG15 on the Wnt/beta-catenin signal-related
+ proteins were determined. SNHG15 was highly expressed in CRC tissues and
+ cells. Depression of SNHG15 depressed proliferation, enhanced apoptosis, and
+ repressed the migration and invasion of CRC cells. In addition, SNHG15
+ presented a downside tendency on regulating miR-141, and the miR-141
+ inhibitor dramatically changeover the impacts of SNHG15 depression on tumor
+ growth and metastasis. Moreover, SIRT1 was verified as a functional target of
+ miR-141 in CRC cells. Besides, the suppression of SNHG15 remarkably
+ controlled activating the Wnt/beta-catenin signals, which was reversed after
+ inhibiting miR-141 at the same time. The investigated results in this
+ research revealed that the increased expression of SNHG15 may enhance the
+ process of CRC by acting as a ceRNA in regulating SIRT1 expression by
+ sponging miR-141. Thus we propose that Wnt/beta-catenin signals may be a
+ downriver regulator in mediating the impacts of SNHG15 in CRC and
+ SNHG15-miR-141-SIRT1 axis may pave a new sight in explaining the biological
+ processes of CRC.",
+    mesh {
+      {
+        term "Carcinogenesis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sirtuin 1",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Wnt Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "beta Catenin",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN141 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Wnt Proteins"
+      },
+      {
+        type nameonly,
+        name "beta Catenin"
+      },
+      {
+        type ec,
+        cit "3.5.1.-",
+        name "Sirtuin 1"
+      }
+    },
+    pmid 31213086,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

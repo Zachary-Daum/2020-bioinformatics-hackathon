@@ -1,0 +1,346 @@
+
+Pubmed-entry ::= {
+  pmid 31129138,
+  medent {
+    em std {
+      year 2019,
+      month 5,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ras-ERK1/2 signaling accelerates the progression of colorectal
+ cancer via mediation of H2BK5ac."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jia H",
+            affil str "Department of Radiology, Jining No.1 People's Hospital,
+ Jining 272011, Shandong, China."
+          },
+          {
+            name ml "Xu M",
+            affil str "Department of Anorectal Surgery, Qilu Hospital of
+ Shandong University (Qingdao), Qingdao 266035, Shandong, China."
+          },
+          {
+            name ml "Bo Y",
+            affil str "Department of General Surgery, Qilu Hospital of
+ Shandong University (Qingdao), Qingdao 266035, Shandong, China."
+          },
+          {
+            name ml "Li W",
+            affil str "Department of Intensive Care Unit, Shandong Provincial
+ Third Hospital, Jinan 250000, Shandong, China."
+          },
+          {
+            name ml "Zhou R",
+            affil str "Department of General Surgery, Qilu Hospital of
+ Shandong University (Qingdao), Qingdao 266035, Shandong, China. Electronic
+ address: zhou14runhe@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Life Sci.",
+          ml-jta "Life Sci",
+          issn "1879-0631",
+          name "Life sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8,
+            day 1
+          },
+          volume "230",
+          pages "89-96",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 4,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 5,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 5,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 5,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31129138,
+        pii "S0024-3205(19)30416-3",
+        doi "10.1016/j.lfs.2019.05.060",
+        other {
+          db "ELocationID pii",
+          tag str "S0024-3205(19)30416-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.lfs.2019.05.060"
+        }
+      }
+    },
+    abstract "AIMS: Extracellular signal-regulated protein kinases 1 and 2
+ (ERK1/2) is a key downstream gene of Ras pathway. Activation of Ras-ERK1/2
+ has been testified to be linked to the progression of diverse cancers.
+ Nonetheless, whether Ras-ERK1/2-tumorigenic pathway is mediated by epigenetic
+ factors remains indistinct. The purpose of the research attempted to disclose
+ the functions of H2BK5ac in Ras-ERK1/2-evoked CRC cell phenotypes. MATERIALS
+ AND METHODS: Western blot assay was implemented for exploration of the
+ relevancy between Ras-ERK1/2 and H2BK5ac. H2BK5Q was established and its
+ functions in cell viability, colony formation and migration were appraised
+ via utilizing MTT, soft-agar colony formation and Transwell assays. The mRNA
+ and transcription of ERK1/2 downstream genes were estimated via RT-qPCR and
+ ChIP assays. HDAC2 functions in SW48 cell phenotypes were evaluated after
+ co-transfection with pEGFP-Ras(Q61L/T35S) and si-HDAC2 vectors. Additionally,
+ the involvements of ATF2 and MDM2 in Ras-ERK1/2-affected H2BK5ac expression
+ were estimated. KEY FINDINGS: H2BK5ac expression was evidently repressed by
+ Ras-ERK1/2 pathway in SW48 cells. Moreover, Ras-ERK1/2-elevated cell
+ viability, the number of colonies and migration were both impeded by H2BK5ac.
+ The mRNA and transcriptions of CYR61, IGFBP3, WNT16B, NT5E, GDF15 and CARD16
+ were both mediated by H2BK5ac. Additionally, HDAC2 silence overtly recovered
+ H2BK5ac expression inhibited by Ras-ERK1/2, meanwhile abated
+ Ras-ERK1/2-affected SW48 cell phenotypes. Beyond that, restrained H2BK5ac
+ induced by Ras-ERK1/2 was concerned with MDM2-mediated ATF2 degradation.
+ SIGNIFICANCE: These investigations testified that Ras-ERK1/2 pathway affected
+ SW48 cell phenotypes through repressing H2BK5ac expression. Otherwise,
+ declined H2BK5ac might be linked to MDM2-mediated ATF2 degradation.",
+    mesh {
+      {
+        term "Acylation"
+      },
+      {
+        term "Carcinogenesis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Growth Differentiation Factor 15",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Histone Deacetylase 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Histones",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-mdm2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "ras Proteins",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "GDF15 protein, human"
+      },
+      {
+        type nameonly,
+        name "Growth Differentiation Factor 15"
+      },
+      {
+        type nameonly,
+        name "Histones"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "MDM2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Proto-Oncogene Proteins c-mdm2"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 3"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinases"
+      },
+      {
+        type ec,
+        cit "3.5.1.98",
+        name "Histone Deacetylase 2"
+      },
+      {
+        type ec,
+        cit "3.6.5.2",
+        name "ras Proteins"
+      }
+    },
+    pmid 31129138,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,224 @@
+
+Pubmed-entry ::= {
+  pmid 31434545,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "miR-451a Inhibits the Growth and Invasion of Osteosarcoma via
+ Targeting TRIM66."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma X",
+            affil str "1 Department of Orthopedics, New District, Hohhot,
+ People's Republic of China."
+          },
+          {
+            name ml "Li D",
+            affil str "1 Department of Orthopedics, New District, Hohhot,
+ People's Republic of China."
+          },
+          {
+            name ml "Gao Y",
+            affil str "1 Department of Orthopedics, New District, Hohhot,
+ People's Republic of China."
+          },
+          {
+            name ml "Liu C",
+            affil str "1 Department of Orthopedics, New District, Hohhot,
+ People's Republic of China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Technol. Cancer Res. Treat.",
+          ml-jta "Technol Cancer Res Treat",
+          issn "1533-0338",
+          name "Technology in cancer research & treatment"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1,
+            day 1
+          },
+          volume "18",
+          pages "1533033819870209",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31434545,
+        doi "10.1177/1533033819870209",
+        other {
+          db "pmc",
+          tag str "PMC6706812"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1533033819870209"
+        }
+      }
+    },
+    abstract "The importance of microRNAs in regulating osteosarcoma
+ development has been studied in recent years. However, the function of
+ microRNA-451a in osteosarcoma growth is rarely investigated. Here, we
+ explored the expression of microRNA-451a in osteosarcoma cell lines.
+ Bioinformatic software, luciferase activity reporter assay, and Western blot
+ were conducted to determine the association between microRNA-451a and
+ tripartite motif-containing 66. Cell Counting Kit-8 assay and transwell assay
+ were used to explore the regulatory effects of microRNA-451a on osteosarcoma
+ cells. Moreover, we explored whether microRNA-451a modulates osteosarcoma
+ cell biological activity by regulating tripartite motif-containing 66. The
+ expression of microRNA-451a was found to be downregulated in osteosarcoma and
+ negatively regulated the expression of tripartite motif-containing 66.
+ Tripartite motif-containing 66 was further validated as a target of
+ microRNA-451a. MicroRNA-451a inhibits the growth and invasion of osteosarcoma
+ cell lines through targeting tripartite motif-containing 66. The miR-451a
+ targets tripartite motif-containing 66 may provide novel therapeutic targets
+ for the treatment of osteosarcoma.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intracellular Signaling Peptides and Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Intracellular Signaling Peptides and Proteins"
+      },
+      {
+        type nameonly,
+        name "MIRN451 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "TRIM66 protein, human"
+      }
+    },
+    pmid 31434545,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,264 @@
+
+Pubmed-entry ::= {
+  pmid 31581849,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Notoginsenoside R1 alleviates high glucose-evoked damage in
+ RSC96 cells through down-regulation of miR-503."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang W",
+            affil str "Department of Endocrinology, Jining No. 1 People's
+ Hospital , Jining , Shandong , China."
+          },
+          {
+            name ml "Hao Y",
+            affil str "Department of Endocrinology, Jining No. 1 People's
+ Hospital , Jining , Shandong , China."
+          },
+          {
+            name ml "Li F",
+            affil str "Department of Endocrinology, Jining No. 1 People's
+ Hospital , Jining , Shandong , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "3947-3954",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31581849,
+        doi "10.1080/21691401.2019.1671434",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1671434"
+        }
+      }
+    },
+    abstract "Notoginsenoside R1 (NGR1) is a major bioactive ingredient of
+ Radix notoginseng that has promise in treating several diabetes-related
+ diseases, like diabetic nephropathy and diabetic cardiomyopathy. This work is
+ designed to explore if NGR1 has potential in treating diabetic peripheral
+ neuropathy (DPN). A cell model of DPN was made by stimulating RSC96 cells
+ with high glucose. The effects of NGR1 preconditioning were examined by
+ conducting CCK-8 assay, flow cytometry, ROS assay and Western blot. The
+ downstream effector and signalling of NGR1 were then explored by qRT-PCR and
+ Western blot. High glucose incubation led to cell viability loss, apoptosis
+ facilitation, caspase-3 and PARP cleavage, and ROS generation of RSC96 cells.
+ Meanwhile, expression of NGF and BDNF was declined by high glucose.
+ Preconditioning NGR1 significantly protected RSC96 cells against high
+ glucose-evoked damage. And NGR1 prevented high glucose-induced expression of
+ miR-503. The beneficial functions of NGR1 towards high glucose-injured RSC96
+ cells were impeded by miR-503 overexpression. Further, NGR1 activated
+ PI3K/AKT and beta-catenin signalling through a miR-503-dependent way. This
+ paper illustrated the neuroprotective and neurotrophic function of NGR1 in
+ RSC96 cells. The beneficial function may due to its regulation on miR-503
+ expression and the downstream signalling such as PI3K/AKT and beta-catenin.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cytoprotection",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ginsenosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ginsenosides"
+      },
+      {
+        type nameonly,
+        name "MIRN503 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      },
+      {
+        type cas,
+        cit "Z62692362Z",
+        name "notoginsenoside R1"
+      }
+    },
+    pmid 31581849,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

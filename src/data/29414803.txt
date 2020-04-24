@@ -1,0 +1,352 @@
+
+Pubmed-entry ::= {
+  pmid 29414803,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown MiR-302b Alleviates LPS-Induced Injury by Targeting
+ Smad3 in C28/I2 Chondrocytic Cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang Y",
+            affil str "Department of Hand Surgery, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Yu T",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Jin H",
+            affil str "Department of Orthopedics, The Second Hospital of Jilin
+ University, Changchun, China."
+          },
+          {
+            name ml "Zhao C",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, Changchun, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "45",
+          issue "2",
+          pages "733-743",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29414803,
+        pii "000487165",
+        doi "10.1159/000487165",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000487165"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: Osteoarthritis (OA) is one of the most common
+ chronic degenerative diseases. Many studies have demonstrated the role of
+ microRNAs (miRNAs) in OA; however, the role of miR-302b in OA remains
+ elusive. The aim of this study was to identify the role of miR-302b in
+ LPS-induced injury in chondrocytes. METHODS: Human OA chondrocytes (C28/12
+ cell line) were transfected with miR-302b inhibitor and miR-302b mimic to
+ investigate the effects of miR-302b expression on chondrocyte apoptosis and
+ inflammation, and to identify the miR-302b target proteins. RESULTS: LPS
+ treatment of chondrocytes significantly reduced cell viability and increased
+ apoptotic rate. LPS treatment also increased the expression of inflammatory
+ cytokines compared to control. miR-302b was up-regulated in LPS-induced
+ chondrocytes. miR-302b was either suppressed or overexpressed in LPS-induced
+ chondrocytes by transient transfection. miR-302b mimic transfection
+ accelerated the effects of LPS on cell viability, apoptosis and inflammation.
+ Of contrast, miR-302b inhibition represented a reverse effect. Dual
+ luciferase activity demonstrated that Smad3 is a direct target for miR-302b
+ and its expression was negatively regulated by miR-302b. In addition,
+ miR-302b inhibition suppressed inflammation in LPS treated chondrocytes by
+ up-regulating Smad3 expression. Moreover, LPS induced down-regulation of
+ Notch and mTOR signaling pathway-related protein expressions, and miR-302b
+ inhibition increased the expressions of Notch and mTOR signaling
+ pathway-related proteins. We further found that miR-302b negatively regulated
+ Notch2 levels through direct targeting its 3'UTR. CONCLUSIONS: These results
+ suggest that miR-302b suppression may function as a protector in suppressing
+ the inflammation during the development and progression of OA by
+ up-regulating the target Smad3 expression.",
+    mesh {
+      {
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sequence Alignment"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Smad3 Protein",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "bcl-2-Associated X Protein",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN302A microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type nameonly,
+        name "SMAD3 protein, human"
+      },
+      {
+        type nameonly,
+        name "Smad3 Protein"
+      },
+      {
+        type nameonly,
+        name "bcl-2-Associated X Protein"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      }
+    },
+    pmid 29414803,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

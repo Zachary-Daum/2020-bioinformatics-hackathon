@@ -1,0 +1,384 @@
+
+Pubmed-entry ::= {
+  pmid 30257238,
+  medent {
+    em std {
+      year 2018,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Propofol Inhibits Proliferation, Migration, Invasion and
+ Promotes Apoptosis Through Down-Regulating miR-374a in Hepatocarcinoma Cell
+ Lines."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu SQ",
+            affil str "Department of Anesthesiology, Henan Provincial People's
+ Hospital, Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Zhang JL",
+            affil str "Department of Anesthesiology, Henan Provincial People's
+ Hospital, Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Li ZW",
+            affil str "Department of Anesthesiology, Henan Provincial People's
+ Hospital, Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Hu ZH",
+            affil str "Department of Anesthesiology, Henan Provincial People's
+ Hospital, Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Liu Z",
+            affil str "Department of Anesthesiology, Henan Provincial People's
+ Hospital, Zhengzhou University, Zhengzhou, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Clinical Laboratory, Henan Provincial
+ People's Hospital, Zhengzhou University, Zhengzhou, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "49",
+          issue "6",
+          pages "2099-2110",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30257238,
+        pii "000493814",
+        doi "10.1159/000493814",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000493814"
+        }
+      }
+    },
+    abstract "BACKGROUND: Propofol is a commonly used anaesthetic with
+ controversial effects on cancer cells. We aimed to explore the functional
+ roles of propofol in hepatocellular carcinoma (HCC) cells as well as the
+ underlying mechanisms. METHODS: HepG2 and SMMC-7721 cells were used in this
+ study. Firstly, the effects of propofol on cell viability, migration,
+ invasion, apoptosis, and involved proteins were assessed by Cell Counting
+ Kit-8 assay, Transwell assay, flow cytometry assay and Western blot analysis,
+ respectively. Subsequently, alteration of miR-374a after stimulation of
+ propofol was analyzed by qRT-PCR. miR-374a was overexpressed and the
+ alteration of proteins in the Wnt/beta-catenin and PI3K/AKT pathways was
+ detected by Western blot analysis. The downstream factor of miR-374a was
+ finally studied. RESULTS: Propofol inhibited cell viability, migration and
+ invasion but promoted apoptosis of HepG2 and SMMC-7721 cells. Meanwhile,
+ cyclinD1, matrix metalloproteinase (MMP)-2 and MMP-9 were down-regulated
+ while Bax/Bcl-2, cleaved caspase-3 and cleaved caspase-9 were up-regulated by
+ propofol. Then, miR-374a level was reduced by propofol. Expression of Wnt3a,
+ beta-catenin, p-PI3K and p-AKT was decreased by propofol, whereas these
+ decreases were reversed by miR-374a overexpression. Finally, TP53 was proven
+ to be target of miR-374a in HepG2 cells. CONCLUSION: Propofol inhibited cell
+ proliferation, migration and invasion while promoted cell apoptosis of HepG2
+ and SMMC-7721 cells through inhibiting the Wnt/beta-catenin and PI3K/ AKT
+ pathways via down-regulation of miR-374a. Besides, miR-374a affected
+ propofol-treated HepG2 cells by targeting TP53.",
+    mesh {
+      {
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Hepatocellular",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cyclin D1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Hep G2 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Neoplasms",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Matrix Metalloproteinase 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Matrix Metalloproteinase 9",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Propofol",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Suppressor Protein p53",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "MIRN374 microRNA 374, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "TP53 protein, human"
+      },
+      {
+        type nameonly,
+        name "Tumor Suppressor Protein p53"
+      },
+      {
+        type cas,
+        cit "136601-57-5",
+        name "Cyclin D1"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      },
+      {
+        type ec,
+        cit "3.4.24.24",
+        name "Matrix Metalloproteinase 2"
+      },
+      {
+        type ec,
+        cit "3.4.24.35",
+        name "Matrix Metalloproteinase 9"
+      },
+      {
+        type cas,
+        cit "YI7VU623SF",
+        name "Propofol"
+      }
+    },
+    pmid 30257238,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

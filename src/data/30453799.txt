@@ -1,0 +1,373 @@
+
+Pubmed-entry ::= {
+  pmid 30453799,
+  medent {
+    em std {
+      year 2018,
+      month 11,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Triptolide inhibits benign prostatic epithelium viability and
+ migration and induces apoptosis via upregulation of microRNA-218."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yao C",
+            affil str "1 Department of Urinary Surgery, People's Hospital of
+ Rizhao, Rizhao, China."
+          },
+          {
+            name ml "Li H",
+            affil str "1 Department of Urinary Surgery, People's Hospital of
+ Rizhao, Rizhao, China."
+          },
+          {
+            name ml "Zhang W",
+            affil str "2 Department of Urinary Surgery, Affiliated Hospital of
+ Taishan Medical University, Taian, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "32",
+          pages "2058738418812349",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30453799,
+        doi "10.1177/2058738418812349",
+        other {
+          db "pmc",
+          tag str "PMC6247479"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738418812349"
+        }
+      }
+    },
+    abstract "Benign prostatic hypertrophy (BPH) has become a troublesome
+ disease for elder men. Triptolide (TPL) has been reported to be a potential
+ anticancer agent. However, the potential effects of TPL on BPH have not been
+ shown out. BPH-1 cells were treated with different concentrations of TPL
+ and/or transfected with microRNA-218 (miR-218) inhibitor, pc-survivin,
+ sh-survivin, or their corresponding controls (NC). Thereafter, cell viability
+ was determined by CCK-8 assay. Cell migration was accessed by modified
+ two-chamber migration assay. Cell apoptosis was checked by propidium iodide
+ (PI) and fluorescein isothiocyanate (FITC)-conjugated Annexin V staining. In
+ addition, messenger RNA (mRNA) and protein levels were detected using
+ quantitative real-time polymerase chain reaction (qRT-PCR) and western blot
+ analysis, respectively. BPH-1 cell viability and migration were significantly
+ decreased, while cell apoptosis and expression of miR-218 were statistically
+ enhanced by TPL ( P < 0.05 or P < 0.01). However, downregulation of miR-218
+ increased cell viability and migration, while decreased cell apoptosis
+ compared with the negative control group ( P < 0.05 or P < 0.01).
+ Furthermore, the expression of cell cycle-related proteins and cell
+ apoptosis-related proteins were also led to the opposite results with NC. In
+ addition, we found that miR-218 negatively regulated the expression of
+ survivin ( P < 0.01) and suppression of survivin significantly enhanced cell
+ apoptosis ( P < 0.01). Moreover, the results demonstrated that TPL could
+ inactivate mammalian target of rapamycin (mTOR) pathway, while inhibition of
+ miR-218 alleviated the effects. TPL inhibits viability and migration of BPH-1
+ cells and induces cell apoptosis and also inactivates mTOR signal pathway via
+ upregulation of miR-218. This study provides evidence for the further studies
+ representing triptolide as a potential agent in the treatment of human BPH.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Cycle Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Diterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Epithelium",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Epoxy Compounds",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phenanthrenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Prostate",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Prostatic Hyperplasia",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Messenger",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Survivin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcriptional Activation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Cell Cycle Proteins"
+      },
+      {
+        type nameonly,
+        name "Diterpenes"
+      },
+      {
+        type nameonly,
+        name "Epoxy Compounds"
+      },
+      {
+        type nameonly,
+        name "MIRN218 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenanthrenes"
+      },
+      {
+        type nameonly,
+        name "RNA, Messenger"
+      },
+      {
+        type nameonly,
+        name "Survivin"
+      },
+      {
+        type cas,
+        cit "19ALD1S53J",
+        name "triptolide"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      }
+    },
+    pmid 30453799,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

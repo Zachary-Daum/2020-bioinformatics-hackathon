@@ -1,0 +1,274 @@
+
+Pubmed-entry ::= {
+  pmid 30880481,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Salidroside represses proliferation, migration and invasion of
+ human lung cancer cells through AKT and MEK/ERK signal pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ren M",
+            affil str "a Department of Oncology , Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Xu W",
+            affil str "b Department of Chinese Medicine , Jining No.1 People's
+ Hospital , Jining , China."
+          },
+          {
+            name ml "Xu T",
+            affil str "c Department of Respiratory Medicine , The Affiliated
+ Hospital of Qingdao University , Qingdao , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "1014-1021",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30880481,
+        doi "10.1080/21691401.2019.1584566",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1584566"
+        }
+      }
+    },
+    abstract "Salidroside, a glycoside of tyrosol, is isolated from Rhodiola
+ rosea and shows anti-cancer functions in several cancers. However, the
+ potentials of salidroside in the migration and invasion of lung cancer cells
+ and its underlying mechanisms remain unknown. We aimed to investigate the
+ functions and mechanisms of salidroside in non-small cell lung cancer
+ (NSCLC). Human NSCLC cell line A549 was treated with different doses of
+ salidroside. Cell viability, colony formation, apoptosis, migration and
+ invasion were detected by CCK-8, crystal violet-staining assay, flow
+ cytometry and transwell assay, respectively. qRT-PCR and western blot
+ analysis were performed to assess the regulatory effects of salidroside on
+ miR-195 expression and the activation of AKT and the MEK/ERK signal pathway.
+ We found that, salidroside remarkably reduced cell viability, colony
+ formation and Cyclin D1 expression, but increased p21 expression and
+ apoptosis in A549 cells. Additionally, salidroside inhibited the migration
+ and invasion of A549 cells by regulating expressions of migration- and
+ invasion-related proteins. Finally, salidroside inhibited phosphorylation of
+ AKT, MEK and ERK by upregulating miR-195 expression in A549 cells. In
+ conclusion, salidroside inhibited the survival, migration and invasion of
+ NSCLC cells. Salidroside blocked AKT and the MEK/ERK signal pathway by
+ upregulating miR-195 expression in A549 cells.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Non-Small-Cell Lung",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Glucosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Glucosides"
+      },
+      {
+        type nameonly,
+        name "MIRN195 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type cas,
+        cit "M983H6N1S9",
+        name "rhodioloside"
+      }
+    },
+    pmid 30880481,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

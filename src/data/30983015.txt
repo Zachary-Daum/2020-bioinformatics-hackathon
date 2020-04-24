@@ -1,0 +1,160 @@
+
+Pubmed-entry ::= {
+  pmid 30983015,
+  medent {
+    em std {
+      year 2019,
+      month 4,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "lncRNA-ATB promotes viability, migration, and angiogenesis in
+ human microvascular endothelial cells by sponging microRNA-195."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhu AD",
+            affil str "Department of Vascular Surgery, Jining No. 1 People's
+ Hospital, Jining, China.; Affiliated Jining No.1 People's Hospital of Jining
+ Medical University, Jining Medical University, Jining, China."
+          },
+          {
+            name ml "Sun YY",
+            affil str "Department of Vascular Surgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Ma QJ",
+            affil str "Department of Vascular Surgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          },
+          {
+            name ml "Xu F",
+            affil str "Department of Vascular Surgery, Jining No. 1 People's
+ Hospital, Jining, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Biochem.",
+          ml-jta "J Cell Biochem",
+          issn "1097-4644",
+          name "Journal of cellular biochemistry"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 9
+          },
+          volume "120",
+          issue "9",
+          pages "14360-14371",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 6
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 12,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30983015,
+        doi "10.1002/jcb.28692",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcb.28692"
+        }
+      }
+    },
+    abstract "The atherosclerosis in the arterial system of the extremities is
+ considered as the major pathogenesis of peripheral arterial disease. The
+ present work aimed to explore the potential role of long noncoding RNA
+ activated by tumor growth factor-beta (lncRNA-ATB) on the dysfunction of
+ endothelial cells. Human microvascular endothelial cells (HMEC-1) were
+ transfected with lncRNA-ATB expressing vectors, and then the formation of
+ tubes and expression of proteins associated with angiogenesis were analyzed
+ using microscope and reverse transcription-quantitative polymerase chain
+ reaction (RT-qPCR)/Western blot analysis. Cell viability, migration, and
+ microRNA-195 (miR-195) expression were examined by Cell Counting Kit-8 assay,
+ modified Boyden chambers, Western blot analysis, and RT-qPCR. The interaction
+ between lncRNA-ATB and miR-195 was determined by RT-qPCR, dual-luciferase
+ reporter assay, and biotin-avidin pull-down assay. Finally, expression of key
+ kinases in the PI3K/AKT and MEK/ERK pathways was determined by Western blot
+ analysis. We found vascular tubulogenesis was induced spontaneously when
+ HMEC-1 cells were cultured in Matrigel-coated plates. lncRNA-ATB
+ overexpression increased cell viability, migration and formation of tubes,
+ along with upregulation of matrix metalloproteinase-2 (MMP-2), MMP-9, and
+ vascular endothelial growth factor. Then, we found lncRNA-ATB worked as a
+ molecular sponge for miR-195, and the effects of lncRNA-ATB on HMEC-1 cells
+ were reversed by miR-195 overexpression while were augmented by miR-195
+ inhibition. Phosphorylated levels of key kinases in the PI3K/AKT and MEK/ERK
+ pathways were increased by lncRNA-ATB via miR-195. In conclusion, lncRNA-ATB
+ enhanced cell viability, migration and angiogenesis in HMEC-1 cells through
+ sponging miR-195. Moreover, the PI3K/AKT and MEK/ERK pathways were activated
+ by lncRNA-ATB via miR-195.",
+    pmid 30983015,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

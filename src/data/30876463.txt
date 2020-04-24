@@ -1,0 +1,268 @@
+
+Pubmed-entry ::= {
+  pmid 30876463,
+  medent {
+    em std {
+      year 2019,
+      month 3,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lidocaine inhibits growth, migration and invasion of gastric
+ carcinoma cells by up-regulation of miR-145."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sui H",
+            affil str "Department of Emergency, The First Affiliated Hospital
+ of Zhengzhou University, Zhengzhou, 450052, China."
+          },
+          {
+            name ml "Lou A",
+            affil str "Department of Anesthesiology, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, 450052, China."
+          },
+          {
+            name ml "Li Z",
+            affil str "Department of Anesthesiology, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, 450052, China."
+          },
+          {
+            name ml "Yang J",
+            affil str "Department of Anesthesiology, The First Affiliated
+ Hospital of Zhengzhou University, Zhengzhou, 450052, China.
+ jianjun0091@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3,
+            day 15
+          },
+          volume "19",
+          issue "1",
+          pages "233",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 3,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 3,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 3,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30876463,
+        doi "10.1186/s12885-019-5431-9",
+        pii "10.1186/s12885-019-5431-9",
+        other {
+          db "pmc",
+          tag str "PMC6419442"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-019-5431-9"
+        }
+      }
+    },
+    abstract "BACKGROUND: Gastric cancer receives considerable attention not
+ only because it is the most common cancer all through the world, but also
+ because it's on the top third leading reason for cancer-related death.
+ Lidocaine is a well-documented local anesthetic that has been reported to
+ suppress cancer development. The study explored the effects of lidocaine on
+ the growth, migration and invasion of the gastric carcinoma cell line MKN45
+ and the mechanism behind. METHODS: The effect of lidocaine on viability,
+ proliferation and apoptosis of MKN45 cells were analyzed by Cell Counting
+ Kit-8 assay, BrdU staining assay and flow cytometry, respectively. Moreover,
+ cell migration and invasion were both examined by Transwell assay. The
+ expression of apoptosis-, migration-, and invasion-related proteins were
+ detected by western blot. The relative expression of miR-145 was determined
+ by qRT-PCR. Moreover, the impact which lidocaine brought on MEK/ERK and
+ NF-kappaB pathways were examined by western blot. RESULTS: Lidocaine
+ inhibited viability, proliferation, migration, and invasion of MKN45 cells,
+ while enhanced apoptosis. Moreover, miR-145 expression was enhanced by
+ lidocaine; and transfection with miR-145 inhibitor increased cell viability,
+ proliferation, migration, and invasion, but inhibited apoptosis. The
+ up-regulation of miR-145 was partly contributed to the inhibitory effect of
+ lidocaine on gastric cancer cell line MKN45. Finally, lidocaine inactivated
+ MEK/ERK and NF-kappaB pathways via up-regulation of miR-145. CONCLUSIONS: Our
+ results suggested that lidocaine decreased growth, migration and invasion of
+ MKN45 cells via regulating miR-145 expression and further inactivation of
+ MEK/ERK and NF-kappaB signaling pathways.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lidocaine",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN145 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type cas,
+        cit "98PI200987",
+        name "Lidocaine"
+      }
+    },
+    pmid 30876463,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

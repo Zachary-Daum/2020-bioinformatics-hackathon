@@ -1,0 +1,236 @@
+
+Pubmed-entry ::= {
+  pmid 31456460,
+  medent {
+    em std {
+      year 2019,
+      month 8,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Green tea polyphenols protect PC12 cells against H2O2-induced
+ damages by upregulating lncRNA MALAT1."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu S",
+            affil str "1 Department of Spine Surgery, Jinan Central Hospital
+ Affiliated to Shandong University, Jinan, China."
+          },
+          {
+            name ml "Yu G",
+            affil str "2 Department of Orthopaedics, Heze Municipal Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Song G",
+            affil str "2 Department of Orthopaedics, Heze Municipal Hospital,
+ Heze, China."
+          },
+          {
+            name ml "Zhang Q",
+            affil str "1 Department of Spine Surgery, Jinan Central Hospital
+ Affiliated to Shandong University, Jinan, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "33",
+          pages "2058738419872624",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 8,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 8,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31456460,
+        doi "10.1177/2058738419872624",
+        other {
+          db "pmc",
+          tag str "PMC6713953"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2058738419872624"
+        }
+      }
+    },
+    abstract "It is of significance to alleviate oxidative damages for the
+ treatment of spinal cord injury (SCI). Studies have ascertained that green
+ tea polyphenols (GTPs) exert protective activities against oxidative damages.
+ In this study, we aimed to investigate the protective effects of GTP against
+ H2O2-caused injuries in PC12 cells as well as the molecular underpinnings
+ associated with long non-coding RNA metastasis-associated lung adenocarcinoma
+ transcript 1 (MALAT1). PC12 cells were preincubated with GTP prior to H2O2
+ stimulation. Furthermore, MALAT1-deficient PC12 cells were constructed by
+ transfection and identified by quantitative real-time polymerase chain
+ reaction (qRT-PCR) assay. Next, viability and apoptosis were detected by cell
+ counting kit-8 and flow cytometry, respectively. Meanwhile, Western blot
+ assay was carried out to monitor the expression alteration of proteins
+ associated with apoptosis (Bcl-2, Bax, pro-Caspase-3/9, and cleaved
+ Caspase-3/9) and autophagy (microtubule-associated protein 1 light chain 3
+ (LC3)-II, LC3-I, Beclin-1, and p62). Moreover, we examined the expression of
+ beta-catenin and dissected the phosphorylation of phosphatidylinositol 3
+'-kinase (PI3K) and protein kinase B (AKT). We found that H2O2 decreased the
+ viability of PC12 cells while initiated apoptosis and autophagy processes.
+ GTP-preincubated PC12 cells maintained the viability and resisted the
+ apoptosis and autophagy induced by H2O2. Pointedly, GTP-pretreated PC12 cells
+ showed an increase in MALAT1 after H2O2 stimulation. Of note, the protective
+ effects of GTP were buffered in MALAT1-deficient cells in response to H2O2.
+ The expression of beta-catenin and phosphorylation of PI3K and AKT were
+ upregulated by GTP, while MALAT1 knockdown led to opposite results. To sum
+ up, GTP protected PC12 cells from H2O2-induced damages by the upregulation of
+ MALAT1. This process might be through activating Wnt/beta-catenin and
+ PI3K/AKT signal pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "PC12 Cells"
+      },
+      {
+        term "Polyphenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Protective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        mp TRUE,
+        term "Tea"
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MALAT1 long noncoding RNA, rat"
+      },
+      {
+        type nameonly,
+        name "Polyphenols"
+      },
+      {
+        type nameonly,
+        name "Protective Agents"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "Tea"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      }
+    },
+    pmid 31456460,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

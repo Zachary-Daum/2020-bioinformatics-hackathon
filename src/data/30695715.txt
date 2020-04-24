@@ -1,0 +1,245 @@
+
+Pubmed-entry ::= {
+  pmid 30695715,
+  medent {
+    em std {
+      year 2019,
+      month 1,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Silence of lncRNA CHRF protects H9c2 cells against
+ lipopolysaccharide-induced injury via up-regulating microRNA-221."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang L",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Wang L",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Guo E",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining 272011, China."
+          },
+          {
+            name ml "Qi Y",
+            affil str "Department of Pediatrics, Jining No.1 People's
+ Hospital, Jining 272011, China. Electronic address: qiyuefeng26@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Mol. Pathol.",
+          ml-jta "Exp Mol Pathol",
+          issn "1096-0945",
+          name "Experimental and molecular pathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "107",
+          pages "43-50",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 9,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2019,
+                month 1,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2019,
+                month 1,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 30695715,
+        pii "S0014-4800(18)30422-2",
+        doi "10.1016/j.yexmp.2019.01.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4800(18)30422-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yexmp.2019.01.010"
+        }
+      }
+    },
+    abstract "BACKGROUND: Cardiac hypertrophy related factor (CHRF), a newly
+ recognized long non-coding RNA (lncRNA), is a central regulator in cardiac
+ hypertrophy responses. This study attempted to show the potential role of
+ lncRNA CHRF in bacterial infection caused myocarditis. METHODS: H9c2 cells
+ were transfected with small interfering RNAs (siRNAs) specific for lncRNA
+ CHRF alone or in combination with miR-221 inhibitor, and then subjected to
+ lipopolysaccharide (LPS). The following parameters were measured: cell
+ viability, apoptosis, reactive oxygen species (ROS) generation,
+ pro-inflammatory cytokines release, microRNA (miR)-221 expression and the
+ activation of nuclear factor-kappaB (NF-kappaB) and c-Jun N-terminal kinase
+ (JNK) pathways. RESULTS: Silence of lncRNA CHRF impeded the LPS injury to
+ H9c2 cells, as cell viability was increased (p<.05), apoptosis was inhibited
+ (p<.05), ROS generation was decreased (p<.01), and the expression of
+ interleukin (IL)-6 and tumor necrosis factor (TNF)-alpha was suppressed
+ (p<.05). However, silence of lncRNA CHRF had no impacts on normal H9c2 cells
+ growth (p>.05). miR-221 was negatively regulated by lncRNA CHRF (p<.01).
+ LncRNA CHRF silence did not protect H9c2 cells against LPS when miR-221 was
+ suppressed (p<.05 or p<.01). Also, the inhibitory effects of lncRNA CHRF
+ silence on the activation of NF-kappaB and JNK pathways were flattened by
+ miR-221 suppression (p<.05 or p<.01). CONCLUSION: These in vitro data
+ collectively demonstrated that lncRNA CHRF silence protected H9c2 cells
+ against LPS-induced injury via up-regulating miR-221 and modulating NF-kappaB
+ and JNK pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myoblasts"
+      },
+      {
+        term "Myocarditis",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN221 microRNA, rat"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 30695715,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

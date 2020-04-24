@@ -1,0 +1,155 @@
+
+Pubmed-entry ::= {
+  pmid 32108372,
+  medent {
+    em std {
+      year 2020,
+      month 2,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Hsa_circ_0003645 shows an oncogenic role by sponging
+ microRNA-1299 in hepatocellular carcinoma cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu Q",
+            affil str "Department of Clinical Laboratory, Hwa Mei Hospital,
+ University of Chinese Academy of Science (Ningbo No.2 Hospital), Ningbo,
+ China."
+          },
+          {
+            name ml "Dai J",
+            affil str "Department of Clinical Laboratory, Hwa Mei Hospital,
+ University of Chinese Academy of Science (Ningbo No.2 Hospital), Ningbo,
+ China."
+          },
+          {
+            name ml "Shu M",
+            affil str "Department of Hepatobiliary Surgery, Hwa Mei Hospital,
+ University of Chinese Academy of Science (Ningbo No.2 Hospital), Ningbo,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Clin. Lab. Anal.",
+          ml-jta "J Clin Lab Anal",
+          issn "1098-2825",
+          name "Journal of clinical laboratory analysis"
+        },
+        imp {
+          date std {
+            year 2020,
+            month 2,
+            day 28
+          },
+          pages "e23249",
+          language "eng",
+          pubstatus aheadofprint,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2019,
+                month 11,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2020,
+                month 1,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2020,
+                month 1,
+                day 21
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2020,
+                month 2,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2020,
+                month 2,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 32108372,
+        doi "10.1002/jcla.23249",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcla.23249"
+        }
+      }
+    },
+    abstract "BACKGROUND: Studies found circular RNAs (circRNAs) and microRNAs
+ (miRNAs) are abnormally expressed in hepatocellular carcinoma. Cancer process
+ might be modulated by circRNA-miRNA node. Here, we focused on
+ hsa_circ_0003645 and miR-1299. METHODS: RT-qPCR was used to examine
+ hsa_circ_0003645 and miR-1299 in hepatocellular carcinoma tissues and cells.
+ Hsa_circ_0003645 and miR-1299 were regulated by transfection. The phenotypes
+ of hepatocellular carcinoma cells were evaluated through cell viability,
+ colony, apoptosis, migration and invasion, and proteins associated with
+ apoptosis and motility. Targeting relationship between hsa_circ_0003645 and
+ miR-1299 was confirmed by dual-luciferase reporter assay. Changes in
+ signaling transduction were monitored by Western blot. RESULTS:
+ Hsa_circ_0003645 was notably enhanced in patients with hepatocellular
+ carcinoma tissues and (Huh7 and SK-HEP-1) cells. Silencing hsa_circ_0003645
+ blocked the growth of hepatocellular carcinoma cells by inhibiting colony
+ formation, inducing apoptosis, impeding migration and invasion, promoting the
+ expression of apoptosis-associated proteins, and decreasing the expression of
+ motility-relevant proteins. miR-1299 was targeted by hsa_circ_0003645 and
+ upregulated by silencing hsa_circ_0003645. miR-1299 deficiency reversed the
+ role of hsa_circ_0003645 silence in growth of hepatocellular carcinoma cells
+ and signaling transduction of PI3K/mTOR pathway. CONCLUSION: Silencing
+ hsa_circ_0003645 buffered the growth of hepatocellular carcinoma cells.
+ miR-1299 was responsible for the role of hsa_circ_0003645 silence.",
+    idnum {
+      "2016009/Key Subjects of Ningbo No.2 Hospital"
+    },
+    pmid 32108372,
+    pub-type {
+      "Journal Article"
+    },
+    status publisher
+  }
+}
+
+

@@ -1,0 +1,254 @@
+
+Pubmed-entry ::= {
+  pmid 31630562,
+  medent {
+    em std {
+      year 2019,
+      month 10,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Neferine hinders choriocarcinoma cell proliferation, migration
+ and invasion through repression of long noncoding RNA-CHRF."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang G",
+            affil str "Department of Gynecology, Shandong Provincial ENT
+ Hospital, Shandong Provincial ENT Hospital Affiliated to Shandong University
+ , Jinan , China."
+          },
+          {
+            name ml "Wang P",
+            affil str "Department of Obstetrics, Laigang Hospital Affiliated
+ to Shandong First Medical University , Jinan , China."
+          },
+          {
+            name ml "Yan X",
+            affil str "Department of Obstetrics, Laigang Hospital Affiliated
+ to Shandong First Medical University , Jinan , China."
+          },
+          {
+            name ml "Liu J",
+            affil str "Department of Obstetrics, Laigang Hospital Affiliated
+ to Shandong First Medical University , Jinan , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Artif Cells Nanomed Biotechnol",
+          ml-jta "Artif Cells Nanomed Biotechnol",
+          issn "2169-141X",
+          name "Artificial cells, nanomedicine, and biotechnology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 12
+          },
+          volume "47",
+          issue "1",
+          pages "4089-4096",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2019,
+                month 10,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2019,
+                month 10,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 3,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 31630562,
+        doi "10.1080/21691401.2019.1671429",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21691401.2019.1671429"
+        }
+      }
+    },
+    abstract "The comprehensive pathological peculiarities of Neferine (NEF)
+ have been testified in disparate diseases. But, the functions of NEF in
+ choriocarcinoma progression remain unexplored. The research endeavoured to
+ uncover the anti-tumour action of NEF in choriocarcinoma cells. NEF at
+ diverse doses was employed to dispose JEG-3 and HTR-8 cells, and cell
+ viability assessment adopted CCK-8 assay. After 60 mug/mL NEF management,
+ BrdU-positive cells, apoptosis, migration, invasion and correlative factors
+ were assessed. CHRF expression in choriocarcinoma tumour and choriocarcinoma
+ cell lines was estimated via RT-qPCR. Then, the functions of overexpressed
+ CHRF in NEF-disposed cells were determined. At last, impacts of NEF on
+ PI3K/AKT/mTOR and ERK1/2 pathways were evaluated. Results showed that NEF
+ restrained cell proliferation, triggered apoptosis and repressed migration
+ and invasion in JEG-3 and HTR-8 cells. CHRF was ascended in choriocarcinoma
+ tissues and NEF repressed CHRF expression in choriocarcinoma cell lines.
+ Additionally, overexpressed CHRF abolished the above functions of NEF in
+ choriocarcinoma cells proliferation, apoptosis, migration and invasion.
+ Further, NEF impeded PI3K/AKT/mTOR and ERK1/2 pathways via repressing CHRF.
+ The explorations testified that NEF exhibited the anti-tumour action in JEG-3
+ and HTR-8 cells via hindering PI3K/AKT/mTOR and ERK1/2 pathways by mediating
+ CHRF.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Benzylisoquinolines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Choriocarcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MAP Kinase Signaling System",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Uterine Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Benzylisoquinolines"
+      },
+      {
+        type nameonly,
+        name "CHRF long noncoding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type cas,
+        cit "2292-16-2",
+        name "neferine"
+      }
+    },
+    pmid 31630562,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

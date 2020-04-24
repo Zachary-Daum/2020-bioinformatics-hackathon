@@ -1,0 +1,355 @@
+
+Pubmed-entry ::= {
+  pmid 29414815,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA GAS5 Represses Osteosarcoma Cells Growth and Metastasis
+ via Sponging MiR-203a."
+      },
+      authors {
+        names ml {
+          "Wang Y",
+          "Kong D"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell. Physiol. Biochem.",
+          ml-jta "Cell Physiol Biochem",
+          issn "1421-9778",
+          name "Cellular physiology and biochemistry : international journal
+ of experimental cellular physiology, biochemistry, and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "45",
+          issue "2",
+          pages "844-855",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29414815,
+        pii "000487178",
+        doi "10.1159/000487178",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000487178"
+        }
+      }
+    },
+    abstract "BACKGROUND/AIMS: LncRNA GAS5, a growth suppressor, has been
+ reported to exert anti-tumor actions in various cancers, whereas the exact
+ mechanism underling the anti-tumor action is still unclear. This study was
+ aimed to investigate the effect of lncRNA GAS5 on osteosarcoma and tried to
+ decode the underling mechanisms. METHODS: Expressions of lncRNA GAS5 in MG-63
+ cells were silenced by shRNA transfection, while were overexpressed by vector
+ transfection. Cell viability, migration, invasion and apoptosis were
+ respectively assessed by MTT, Transwell assay and flow cytometry. Regulations
+ between lncRNA GAS5 and miR-203a, as well as between miR-203a and TIMP2 were
+ detected by qPCR, western blot and dual luciferase activity assay. RESULTS:
+ LncRNA GAS5 was down-regulated in MG-63 and OS-732 cells compared to hFOB1.19
+ cells. Silence of lncRNA GAS5 significantly promoted MG-63 cells viability,
+ migration and invasion, and up-regulated Cyclin D1, Cyclin B1, CDK1 and CDK4
+ expressions. miR-203a was negatively regulated by lncRNA GAS5. The promoting
+ activities of lncRNA GAS5 silence on MG-63 cells growth and metastasis were
+ reversed by miR-203a suppression. TIMP2 was a target of miR-203a and the
+ anti-growth and anti-metastasis actions of miR-203a suppression were reversed
+ by TIMP2 silence. Further, lncRNA GAS5 silence, miR-203a overexpression, and
+ TIMP2 silence could activate PI3K/AKT/GSK3beta signaling while block
+ NF-kappaB signaling. CONCLUSION: LncRNA GAS5 might be a tumor suppressor in
+ osteosarcoma via sponging miR-203a, sequestering miR-203a away from TIMP2.",
+    mesh {
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Bone Neoplasms",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "CDC2 Protein Kinase",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Cyclin B1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cyclin D1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glycogen Synthase Kinase 3 beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Osteosarcoma",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA Interference"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Tissue Inhibitor of Metalloproteinase-2",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "Cyclin B1"
+      },
+      {
+        type nameonly,
+        name "GAS5 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN203 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "TIMP2 protein, human"
+      },
+      {
+        type cas,
+        cit "127497-59-0",
+        name "Tissue Inhibitor of Metalloproteinase-2"
+      },
+      {
+        type cas,
+        cit "136601-57-5",
+        name "Cyclin D1"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Glycogen Synthase Kinase 3 beta"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "2.7.11.22",
+        name "CDC2 Protein Kinase"
+      }
+    },
+    pmid 29414815,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

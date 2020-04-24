@@ -1,0 +1,250 @@
+
+Pubmed-entry ::= {
+  pmid 28550678,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of Long Noncoding RNA (lncRNA) Metastasis-Associated
+ Lung Adenocarcinoma Transcript 1 (MALAT1) Inhibits Proliferation, Migration,
+ and Invasion and Promotes Apoptosis by Targeting miR-124 in Retinoblastoma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu S",
+            affil str "Department of Ophthalmology, Yantai Yuhuangding
+ Hospital Affiliated to Qingdao University, Yantai, Shandong, P.R. China."
+          },
+          {
+            name ml "Yan G",
+            affil str "Department of Ophthalmology, Yantai Yuhuangding
+ Hospital Affiliated to Qingdao University, Yantai, Shandong, P.R. China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Ophthalmology, Weifang People's Hospital,
+ Weifang, Shandong, P.R. China."
+          },
+          {
+            name ml "Yu L",
+            affil str "Department of Physical Examination, Yantai Yuhuangding
+ Hospital Affiliated to Qingdao University, Yantai, Shandong, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol. Res.",
+          ml-jta "Oncol Res",
+          issn "1555-3906",
+          name "Oncology research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 7
+          },
+          volume "26",
+          issue "4",
+          pages "581-591",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28550678,
+        doi "10.3727/096504017X14953948675403",
+        other {
+          db "ELocationID doi",
+          tag str "10.3727/096504017X14953948675403"
+        }
+      }
+    },
+    abstract "Evidence suggests that the long noncoding RNA (lncRNA)
+ metastasis-associated lung adenocarcinoma transcript 1 (MALAT1) is
+ upregulated in cancer tissues, and its elevated expression is associated with
+ hyperproliferation. However, the underlying mechanisms regarding the role of
+ MALAT1 in retinoblastoma (RB) remain unclear. This study aimed to explore the
+ functional role of MALAT1 in RB by targeting miR-124. The results showed that
+ the expression of MALAT1 was significantly higher in the Y79 cell line than
+ in the ARPE-19 cell line (p < 0.01). Moreover, MALAT1 silence inhibited cell
+ viability, migration, and invasion and promoted apoptosis in Y79 cells (p <
+ 0.05, p < 0.01, or p < 0.001). miR-124 was upregulated by MALAT1 silence and
+ hence was identified as a target of MALAT1 (p < 0.05 or p < 0.001). In
+ addition, miR-124 suppression inhibited cell apoptosis and remarkably
+ abolished the inhibitory effects of MALAT1 silence on cell viability,
+ migration, and invasion (p < 0.05, p < 0.01, or p < 0.001). In addition, Slug
+ was a target of miR-124 and regulated cell viability, migration, invasion,
+ and apoptosis in Y79 cells (p < 0.05, p < 0.01, or p < 0.001). Further, Slug
+ silence abolished miR-124 suppression-induced inactivation of the ERK/MAPK
+ and Wnt/beta-catenin pathways. Taken together, our data highlight the pivotal
+ role of MALAT1 in RB. Moreover, the present study elucidated the
+ MALAT1-miR-124-ERK/MAPK and Wnt/beta-catenin signaling pathways in RB, which
+ might provide a new approach for the treatment of RB.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Gene Silencing"
+      },
+      {
+        term "Genes, Retinoblastoma"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Retinal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Retinoblastoma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Up-Regulation"
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MALAT1 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MIRN124 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 28550678,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+
