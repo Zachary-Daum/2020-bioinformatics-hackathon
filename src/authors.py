@@ -18,36 +18,35 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
     idlist = fakeid.splitlines() #by here each PMID is its own item in the list
 
    #working w/ multiple files
-    n = 1
-    while ( n <= 2 ):
-        workingfile = "test-data{}.txt"
-        workingfile = workingfile.format(n)
+    n = 0
+    while ( n <= 20 ):
+        workingid = idlist[n]
+        workingfile = "data/{}.txt"
+        workingfile = workingfile.format(workingid)
 
         #get data
         with open(workingfile,'r') as file:
             data = file.read().splitlines()
             temp = ''.join(data)
             if "names ml" in temp:
-                #w/out affiliations
-                authors = between(temp, 'names ml {          "', '"        }      },').replace('",          "',"-")
-                #list author's names
-                authorlist = authors.split("-")
-                print(authorlist)
-
+                print("no affiliation for", workingfile, end='\n')
                 #still need to find lookup method for authors
                 n = n+1
         
             else:
                 #get needed data
-                data = between(temp, "names std {          {",'          }        }      },      from journal').replace('."          },          {            name ml ','-').replace('",            affil str "','-').replace('            name ml "','').replace('"','')
-                datasplit = data.split("-")
+                data  = ''.join(data)
+                data = between(data,'names std {          {            ','          }        }      },      from journal').replace('            affil str ','name ml ').replace('          },          {            ','')
+                datasplit = data.split('name ml ')
                 #find each author
-                AUTH = datasplit[0::2]
+                AUTH = datasplit[1::2]
                 #find each author's affiliations
-                AFF = datasplit[1::2]
-                print(AUTH)
-                print(AFF)
+                AFF = datasplit[0::2]
+                AFF = AFF[1:]
 
-                #lookup authors and affiliations and compile in other doc
                 n = n+1
+                #combine authors and affiliations into datatable
+
+                #author lookup
+                print(AUTH)
         
