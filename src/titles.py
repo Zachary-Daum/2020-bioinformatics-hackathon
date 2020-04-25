@@ -22,7 +22,6 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
         currentfile = workingfile.format(workingid)
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
                 
             
         #get title names
@@ -36,8 +35,6 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
 =======
 =======
 >>>>>>> 2f99a7a2f6516691739c434e30e2a35316bdbf49
-=======
->>>>>>> 2f99a7a2f6516691739c434e30e2a35316bdbf49
         with open (currentfile, 'rt') as file:
             data = file.read().splitlines()
             temp = ''.join(data)
@@ -46,9 +43,6 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
             print(titlelist)
                    
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 2f99a7a2f6516691739c434e30e2a35316bdbf49
-=======
 >>>>>>> 2f99a7a2f6516691739c434e30e2a35316bdbf49
 =======
 >>>>>>> 2f99a7a2f6516691739c434e30e2a35316bdbf49
