@@ -1,0 +1,296 @@
+
+Pubmed-entry ::= {
+  pmid 28402151,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tanshinone inhibits neuronal cell apoptosis and inflammatory
+ response in cerebral infarction rat model."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhou L",
+            affil str "1 Department of Rehabilitation Medicine, Shandong
+ Provincial Hospital Affiliated to Shandong University, Jinan, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "2 Department of Massage, Shandong Provincial Hospital
+ Affiliated to Shandong University, Jinan, China."
+          },
+          {
+            name ml "Wang C",
+            affil str "1 Department of Rehabilitation Medicine, Shandong
+ Provincial Hospital Affiliated to Shandong University, Jinan, China."
+          },
+          {
+            name ml "Sun Q",
+            affil str "3 Department of Rehabilitation Medicine, The Second
+ Hospital of Shandong University, Jinan, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Immunopathol Pharmacol",
+          ml-jta "Int J Immunopathol Pharmacol",
+          issn "2058-7384",
+          name "International journal of immunopathology and pharmacology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "30",
+          issue "2",
+          pages "123-129",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28402151,
+        doi "10.1177/0394632017703274",
+        other {
+          db "pmc",
+          tag str "PMC5806795"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0394632017703274"
+        }
+      }
+    },
+    abstract "We aimed to investigate the effect and mechanisms of tanshinone
+ (TSN) IIA in cerebral infarction. The cerebral infarction rat model was
+ established by middle cerebral artery occlusion (MCAO). After pretreatment
+ with TSN, cerebral infarct volume, cerebral edema, and neurological deficits
+ score were evaluated, as well as cell apoptosis in hippocampus and cortex of
+ the brain was examined with terminal deoxynucleotidyl transferase dUTP nick
+ end labeling (TUNEL) and the levels of interleukin-6 (IL-6), tumor necrosis
+ factor-alpha (TNF-alpha), and C-reactive protein (CRP) were determined by
+ Enzyme-Linked Immunosorbent Assay (ELISA). In addition, rat primary neuronal
+ cells were isolated and cultured in oxygen-glucose deprivation (OGD)
+ conditions. After pretreatment with TSN, cell viability and apoptosis were
+ observed by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+ (MTT) assay and flow cytometry analysis, respectively. The expressions of Bax
+ and B-cell lymphoma 2 (Bcl-2) were detected by quantitative reverse
+ transcription polymerase chain reaction (qRT-PCR) and western blotting.
+ Compared with untreated cerebral infarction rat, TSN treatment significantly
+ reduced cerebral infarct volume, cerebral edema, and neurological deficits
+ score ( P < 0.05). Cell apoptosis as well as the levels of IL-6, TNF-alpha,
+ and CRP in hippocampus and cortex of cerebral infarction rat were inhibited
+ after pretreatment with TSN ( P < 0.05). Furthermore, TSN remarkably
+ increased cell viability and inhibited cell apoptosis ratio ( P < 0.05) in
+ OGD-induced rat neuronal cells. Besides, TSN significantly downregulated the
+ expression of Bax and upregulated Bcl-2 ( P < 0.05). TSN IIA has a preventive
+ effect on cerebral infarction by inhibiting neuronal cell apoptosis and
+ inflammatory response in vitro and in vivo.",
+    mesh {
+      {
+        term "Abietanes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "C-Reactive Protein",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cerebral Infarction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Neuroprotective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-bcl-2",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Abietanes"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Neuroprotective Agents"
+      },
+      {
+        type nameonly,
+        name "Proto-Oncogene Proteins c-bcl-2"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "03UUH3J385",
+        name "tanshinone"
+      },
+      {
+        type cas,
+        cit "9007-41-4",
+        name "C-Reactive Protein"
+      }
+    },
+    pmid 28402151,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+
