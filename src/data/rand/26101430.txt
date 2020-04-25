@@ -1,0 +1,200 @@
+
+Pubmed-entry ::= {
+  pmid 26101430,
+  medent {
+    em std {
+      year 2015,
+      month 6,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prognostic value of PET/CT in patients with lymphoma treated
+ with autologous stem cell transplantation for relapsed/refractory or high
+ risk disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stefani PM",
+            affil str "Unit of Hematology, Ca' Foncello Hospital, Treviso,
+ Italy - pmstefani@ulss.tv.it."
+          },
+          {
+            name ml "Salvadori U",
+            affil str "Unit of Hematology, Ca' Foncello Hospital, Treviso,
+ Italy."
+          },
+          {
+            name ml "Gottardi M",
+            affil str "Unit of Hematology, Ca' Foncello Hospital, Treviso,
+ Italy."
+          },
+          {
+            name ml "Bissoli S",
+            affil str "Unit of Nuclear Medicine, San Giacomo Hospital,
+ Castelfranco Veneto, Treviso, Italy."
+          },
+          {
+            name ml "Chierichetti F",
+            affil str "Unit of Nuclear Medicine, San Giacomo Hospital,
+ Castelfranco Veneto, Treviso, Italy."
+          },
+          {
+            name ml "Gherlinzoni F",
+            affil str "Unit of Hematology, Ca' Foncello Hospital, Treviso,
+ Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Q J Nucl Med Mol Imaging",
+          ml-jta "Q J Nucl Med Mol Imaging",
+          issn "1827-1936",
+          name "The quarterly journal of nuclear medicine and molecular
+ imaging : official publication of the Italian Association of Nuclear Medicine
+ (AIMN) [and] the International Association of Radiopharmacology (IAR), [and]
+ Section of the Society of..."
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3
+          },
+          volume "63",
+          issue "1",
+          pages "62-67",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2015,
+                month 6,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2015,
+                month 6,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 26101430,
+        doi "10.23736/S1824-4785.17.02793-5",
+        pii "R39Y9999N00A150021",
+        other {
+          db "ELocationID doi",
+          tag str "10.23736/S1824-4785.17.02793-5"
+        }
+      }
+    },
+    abstract "BACKGROUND: Positron emission tomography/computed tomography
+ (PET/CT scan) has increasingly been used for management of lymphoma, however
+ few and conflicting data have been provided in the setting of high dose
+ therapy with autologous stem cell transplantation (ASCT) so far. METHODS: We
+ retrospectively evaluated the outcome of 47 NHL patients who underwent ASCT
+ for relapsed/refractory disease or high risk disease or partial response
+ after first line treatment, with the aim of testing sensitivity, specificity,
+ positive and negative prognostic value of PET/CT performed before and after
+ ASCT. RESULTS: In our experience pre ASCT-PET/CT predicts outcome of
+ non-Hodgkin's lymphoma patients with chemosensitive relapse, whereas post
+ ASCT-PET showed a better prognostic value for relapsed disease. CONCLUSIONS:
+ Results of our study, if confirmed by studies on a larger scale, could
+ significantly contribute to design future trials and optimize the management
+ of lymphoma patients.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        mp TRUE,
+        term "Hematopoietic Stem Cell Transplantation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lymphoma",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Staging"
+      },
+      {
+        mp TRUE,
+        term "Positron Emission Tomography Computed Tomography"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Recurrence"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Risk"
+      },
+      {
+        term "Transplantation, Autologous"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 26101430,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

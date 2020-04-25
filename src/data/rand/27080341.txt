@@ -1,0 +1,350 @@
+
+Pubmed-entry ::= {
+  pmid 27080341,
+  medent {
+    em std {
+      year 2016,
+      month 4,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Mycobacteria-responsive sonic hedgehog signaling mediates
+ programmed death-ligand 1- and prostaglandin E2-induced regulatory T cell
+ expansion."
+      },
+      authors {
+        names std {
+          {
+            name ml "Holla S",
+            affil str "Department of Microbiology and Cell Biology, Indian
+ Institute of Science, Bangalore, Karnataka, India."
+          },
+          {
+            name ml "Stephen-Victor E",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale, Unite 1138, Paris, France.; Centre de Recherche des Cordeliers,
+ Equipe-Immunopathology and therapeutic immunointervention, Paris, France.;
+ Sorbonne Universites, UPMC Univ Paris 06, UMR S 1138, Paris, France."
+          },
+          {
+            name ml "Prakhar P",
+            affil str "Department of Microbiology and Cell Biology, Indian
+ Institute of Science, Bangalore, Karnataka, India."
+          },
+          {
+            name ml "Sharma M",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale, Unite 1138, Paris, France.; Centre de Recherche des Cordeliers,
+ Equipe-Immunopathology and therapeutic immunointervention, Paris, France."
+          },
+          {
+            name ml "Saha C",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale, Unite 1138, Paris, France.; Centre de Recherche des Cordeliers,
+ Equipe-Immunopathology and therapeutic immunointervention, Paris, France.;
+ Universite de Technologie de Compiegne, Compiegne, France."
+          },
+          {
+            name ml "Udupa V",
+            affil str "Department of Microbiology and Cell Biology, Indian
+ Institute of Science, Bangalore, Karnataka, India."
+          },
+          {
+            name ml "Kaveri SV",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale, Unite 1138, Paris, France.; Centre de Recherche des Cordeliers,
+ Equipe-Immunopathology and therapeutic immunointervention, Paris, France.;
+ Sorbonne Universites, UPMC Univ Paris 06, UMR S 1138, Paris, France.;
+ Universite Paris Descartes, Sorbonne Paris Cite, UMR S 1138, Paris, France."
+          },
+          {
+            name ml "Bayry J",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale, Unite 1138, Paris, France.; Centre de Recherche des Cordeliers,
+ Equipe-Immunopathology and therapeutic immunointervention, Paris, France.;
+ Sorbonne Universites, UPMC Univ Paris 06, UMR S 1138, Paris, France.;
+ Universite Paris Descartes, Sorbonne Paris Cite, UMR S 1138, Paris, France."
+          },
+          {
+            name ml "Balaji KN",
+            affil str "Department of Microbiology and Cell Biology, Indian
+ Institute of Science, Bangalore, Karnataka, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2016,
+            month 4,
+            day 15
+          },
+          volume "6",
+          pages "24193",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2015,
+                month 5,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 3,
+                day 22
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 3,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27080341,
+        pii "srep24193",
+        doi "10.1038/srep24193",
+        other {
+          db "pmc",
+          tag str "PMC4832185"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/srep24193"
+        }
+      }
+    },
+    abstract "CD4(+)CD25(+)FoxP3(+) regulatory T cells (Tregs) are exploited
+ by mycobacteria to subvert the protective host immune responses. The Treg
+ expansion in the periphery requires signaling by professional antigen
+ presenting cells and in particularly dendritic cells (DC). However, precise
+ molecular mechanisms by which mycobacteria instruct Treg expansion via DCs
+ are not established. Here we demonstrate that mycobacteria-responsive sonic
+ hedgehog (SHH) signaling in human DCs leads to programmed death ligand-1
+ (PD-L1) expression and cyclooxygenase (COX)-2-catalyzed prostaglandin E2
+ (PGE2) that orchestrate mycobacterial infection-induced expansion of Tregs.
+ While SHH-responsive transcription factor GLI1 directly arbitrated COX-2
+ transcription, specific microRNAs, miR-324-5p and miR-338-5p, which target
+ PD-L1 were downregulated by SHH signaling. Further, counter-regulatory roles
+ of SHH and NOTCH1 signaling during mycobacterial-infection of human DCs was
+ also evident. Together, our results establish that Mycobacterium directs a
+ fine-balance of host signaling pathways and molecular regulators in human DCs
+ to expand Tregs that favour immune evasion of the pathogen. ",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "B7-H1 Antigen",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cyclooxygenase 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Dinoprostone",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hedgehog Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lymphocyte Activation",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Mycobacterium",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Mycobacterium bovis",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Notch",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      },
+      {
+        term "T-Lymphocyte Subsets",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "T-Lymphocytes, Regulatory",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TOR Serine-Threonine Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "B7-H1 Antigen"
+      },
+      {
+        type nameonly,
+        name "Hedgehog Proteins"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Receptors, Notch"
+      },
+      {
+        type ec,
+        cit "1.14.99.1",
+        name "Cyclooxygenase 2"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.1.1",
+        name "TOR Serine-Threonine Kinases"
+      },
+      {
+        type cas,
+        cit "K7Q1JQR04M",
+        name "Dinoprostone"
+      }
+    },
+    pmid 27080341,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

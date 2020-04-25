@@ -1,0 +1,181 @@
+
+Pubmed-entry ::= {
+  pmid 27889080,
+  medent {
+    em std {
+      year 2016,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Invasion Biology: Specific Problems and Possible Solutions."
+      },
+      authors {
+        names std {
+          {
+            name ml "Courchamp F",
+            affil str "Ecologie Systematique Evolution, Univ. Paris-Sud, CNRS,
+ AgroParisTech, Universite Paris-Saclay, 91400 Orsay, France. Electronic
+ address: franck.courchamp@u-psud.fr."
+          },
+          {
+            name ml "Fournier A",
+            affil str "Ecologie Systematique Evolution, Univ. Paris-Sud, CNRS,
+ AgroParisTech, Universite Paris-Saclay, 91400 Orsay, France."
+          },
+          {
+            name ml "Bellard C",
+            affil str "Department of Genetics, Evolution, and Environment,
+ Centre for Biodiversity and Environment Research, Darwin Building, University
+ College London (UCL), Gower Street, London WC1E 6BT, UK."
+          },
+          {
+            name ml "Bertelsmeier C",
+            affil str "Department of Ecology and Evolution, Biophore,
+ Universite de Lausanne (UNIL)-Sorge, 1015 Lausanne, Switzerland."
+          },
+          {
+            name ml "Bonnaud E",
+            affil str "Ecologie Systematique Evolution, Univ. Paris-Sud, CNRS,
+ AgroParisTech, Universite Paris-Saclay, 91400 Orsay, France."
+          },
+          {
+            name ml "Jeschke JM",
+            affil str "Leibniz-Institute of Freshwater Ecology and Inland
+ Fisheries (IGB), Muggelseedamm 310, 12587 Berlin, Germany; Department of
+ Biology, Chemistry, Pharmacy, Institute of Biology, Freie Universitat Berlin,
+ Konigin-Luise-Strasse 1-3, 14195 Berlin, Germany; Berlin-Brandenburg
+ Institute of Advanced Biodiversity Research (BBIB), Altensteinstrasse 34,
+ 14195 Berlin, Germany."
+          },
+          {
+            name ml "Russell JC",
+            affil str "Ecologie Systematique Evolution, Univ. Paris-Sud, CNRS,
+ AgroParisTech, Universite Paris-Saclay, 91400 Orsay, France; School of
+ Biological Sciences, University of Auckland, Private Bag 92019, Auckland,
+ 1142, New Zealand."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Trends Ecol. Evol. (Amst.)",
+          ml-jta "Trends Ecol Evol",
+          issn "1872-8383",
+          name "Trends in ecology & evolution"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1
+          },
+          volume "32",
+          issue "1",
+          pages "13-22",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 11,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27889080,
+        pii "S0169-5347(16)30212-9",
+        doi "10.1016/j.tree.2016.11.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0169-5347(16)30212-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.tree.2016.11.001"
+        }
+      }
+    },
+    abstract "Biological invasions have been unambiguously shown to be one of
+ the major global causes of biodiversity loss. Despite the magnitude of this
+ threat and recent scientific advances, this field remains a regular target of
+ criticism - from outright deniers of the threat to scientists questioning the
+ utility of the discipline. This unique situation, combining internal strife
+ and an unaware society, greatly hinders the progress of invasion biology. It
+ is crucial to identify the specificities of this discipline that lead to such
+ difficulties. We outline here 24 specificities and problems of this
+ discipline and categorize them into four groups: understanding, alerting,
+ supporting, and implementing the issues associated with invasive alien
+ species, and we offer solutions to tackle these problems and push the field
+ forward.",
+    mesh {
+      {
+        mp TRUE,
+        term "Biodiversity"
+      },
+      {
+        term "Introduced Species"
+      }
+    },
+    pmid 27889080,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

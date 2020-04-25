@@ -3,6 +3,7 @@ from nltk import pos_tag
 from nltk import RegexpParser
 from nltk.corpus import state_union
 from nltk.tokenize import PunktSentenceTokenizer
+import pandas as pd
 
 train_text = state_union.raw("2005-GWBush.txt")
 custom_sent_tokenizer = PunktSentenceTokenizer(train_text)
@@ -26,6 +27,10 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
 
     n = 0
     titlelist = []
+    poslist = []
+    #create dataframe
+    df = pd.DataFrame([['$t','$VB','$NN']], columns = ["Title","VBCount","NNCount"])
+    
     while ( n <= 20 ):
         workingid = idlist[n]
         workingfile = "data/{}.txt"
@@ -40,9 +45,9 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
         titlelist = titlelist + workinglist
         n = n+1
     i = 0
+    
     while ( i < n ):
         workingtitle = titlelist[i]
-        print(workingtitle)
         #analyze PoS of titles
         tokenized = custom_sent_tokenizer.tokenize(workingtitle)
         def process_content():
@@ -51,13 +56,23 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
                     words = nltk.word_tokenize(k)
                     tagged = nltk.pos_tag(words)
                     print(tagged)
+                    vbcount = tagged.count('VB')
+                    print(vbcount)
 
             except Exception as e:
                 print(str(e))
         process_content()
+
+        #find VBCount and NNCount
+        #vbcount = tagged.count('VB')
+        
+        #nncount = tagged.count('NN')
+        #append data frame
+        #df2 = pd.DataFrame([[workingtitle, vbcount, nncount]], columns = ["Title","VBCount","NNCount"])
+        #df = df.append(df2)
         
         i = i+1
 
-        #find PoS percentages
+    #print(df)
         
         

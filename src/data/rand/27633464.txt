@@ -1,0 +1,206 @@
+
+Pubmed-entry ::= {
+  pmid 27633464,
+  medent {
+    em std {
+      year 2016,
+      month 9,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Interosseous electrostimulation in a model of lengthening with
+ external fixation].",
+        trans "Electroestimulacion interosea en un modelo de elongacion con
+ fijacion externa."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pena-Martinez V",
+            affil str "Servicio de Ortopedia y Traumatologia, Hospital
+ Universitario Dr. Jose E. Gonzalez, Universidad Autonoma de Nuevo Leon,
+ Monterrey, Nuevo Leon, Mexico. Electronic address: doctorviko@hotmail.com."
+          },
+          {
+            name ml "Lara-Arias J",
+            affil str "Servicio de Ortopedia y Traumatologia, Hospital
+ Universitario Dr. Jose E. Gonzalez, Universidad Autonoma de Nuevo Leon,
+ Monterrey, Nuevo Leon, Mexico."
+          },
+          {
+            name ml "Vilchez-Cavazos F",
+            affil str "Servicio de Ortopedia y Traumatologia, Hospital
+ Universitario Dr. Jose E. Gonzalez, Universidad Autonoma de Nuevo Leon,
+ Monterrey, Nuevo Leon, Mexico."
+          },
+          {
+            name ml "Alvarez-Lozano E",
+            affil str "Servicio de Ortopedia y Traumatologia, Hospital
+ Universitario Dr. Jose E. Gonzalez, Universidad Autonoma de Nuevo Leon,
+ Monterrey, Nuevo Leon, Mexico."
+          },
+          {
+            name ml "Montes de Oca-Luna R",
+            affil str "Departamento de Histologia, Facultad de Medicina,
+ Universidad Autonoma de Nuevo Leon, Monterrey, Nuevo Leon, Mexico."
+          },
+          {
+            name ml "Mendoza-Lemus O",
+            affil str "Servicio de Ortopedia y Traumatologia, Hospital
+ Universitario Dr. Jose E. Gonzalez, Universidad Autonoma de Nuevo Leon,
+ Monterrey, Nuevo Leon, Mexico."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cir Cir",
+          ml-jta "Cir Cir",
+          issn "2444-054X",
+          name "Cirugia y cirujanos"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "85",
+          issue "2",
+          pages "127-134",
+          language "spa",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 4,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 7,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 9,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 9,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27633464,
+        pii "S0009-7411(16)30055-X",
+        doi "10.1016/j.circir.2016.07.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0009-7411(16)30055-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.circir.2016.07.001"
+        }
+      }
+    },
+    abstract "BACKGROUND: A fracture repair involves complex cellular
+ processes. However, despite optimal treatment, some fractures heal slowly or
+ do not repair. These complications support the need for innovative therapies.
+ Electromagnetic stimulation is a non-invasive technology that could have a
+ direct impact on many cellular pathways. OBJECTIVE: To demonstrate the
+ effectiveness of electro-stimulation by alternating current applied during
+ bone elongation to accelerate the consolidation process for 30 days in an
+ animal model. MATERIALS AND METHODS: A device with closed circuit and
+ graduated voltage was designed and kept in contact with the external fixator.
+ Group A was elongated without electro-stimulation and group B was
+ electro-stimulated since the beginning of the distraction. Radiographs were
+ taken at 15 and 30 days post-surgical. Haematoxylin and eosin staining and
+ Masson's trichrome stain were performed. RESULTS: No significant difference
+ were observed in bone density of group A (4.05+/-3.24, P=0.163). In group B
+ there was a significant difference (61.06+/-20.17, P=0.03) in bone density.
+ Group A maintained a fibrous tissue repair, with areas of cartilage and bone
+ matrix. Group B had more organised tissue in the stages of bone repair.
+ CONCLUSION: Because there is a significant difference in the growth and
+ callus formation at 15 and 30 days between groups, electro-stimulation could
+ be considered as an adjuvant during bone elongation.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Bone Lengthening",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Bone and Bones"
+      },
+      {
+        term "Dogs"
+      },
+      {
+        mp TRUE,
+        term "Electric Stimulation Therapy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "External Fixators"
+      },
+      {
+        mp TRUE,
+        term "Fracture Fixation"
+      },
+      {
+        term "Models, Animal"
+      }
+    },
+    pmid 27633464,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

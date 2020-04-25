@@ -1,0 +1,212 @@
+
+Pubmed-entry ::= {
+  pmid 27687024,
+  medent {
+    em std {
+      year 2016,
+      month 10,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Complementary role of cardiovascular imaging and laboratory
+ indices in early detection of cardiovascular disease in systemic lupus
+ erythematosus."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mavrogeni S",
+            affil str "1 Onassis Cardiac Surgery Center, Athens, Greece."
+          },
+          {
+            name ml "Koutsogeorgopoulou L",
+            affil str "2 Department of Pathophysiology, School of Medicine,
+ University of Athens, Athens, Greece."
+          },
+          {
+            name ml "Dimitroulas T",
+            affil str "3 4th Department of Internal Medicine, School of
+ Medicine, Aristotle University of Thessaloniki, Thessaloniki, Greece."
+          },
+          {
+            name ml "Markousis-Mavrogenis G",
+            affil str "1 Onassis Cardiac Surgery Center, Athens, Greece."
+          },
+          {
+            name ml "Kolovou G",
+            affil str "1 Onassis Cardiac Surgery Center, Athens, Greece."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lupus",
+          ml-jta "Lupus",
+          issn "1477-0962",
+          name "Lupus"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "26",
+          issue "3",
+          pages "227-236",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 10,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 10,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27687024,
+        pii "0961203316671810",
+        doi "10.1177/0961203316671810",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0961203316671810"
+        }
+      }
+    },
+    abstract "Background Cardiovascular disease (CVD) has been documented in
+ >50% of systemic lupus erythematosus (SLE) patients, due to a complex
+ interplay between traditional risk factors and SLE-related factors. Various
+ processes, such as coronary artery disease, myocarditis, dilated
+ cardiomyopathy, vasculitis, valvular heart disease, pulmonary hypertension
+ and heart failure, account for CVD complications in SLE. Methods
+ Electrocardiogram (ECG), echocardiography (echo), nuclear techniques, cardiac
+ computed tomography (CT), cardiovascular magnetic resonance (CMR) and cardiac
+ catheterization (CCa) can detect CVD in SLE at an early stage. ECG and echo
+ are the cornerstones of CVD evaluation in SLE. The routine use of cardiac CT
+ and nuclear techniques is limited by radiation exposure and use of iodinated
+ contrast agents. Additionally, nuclear techniques are also limited by low
+ spatial resolution that does not allow detection of sub-endocardial and
+ sub-epicardial lesions. CCa gives definitive information about coronary
+ artery anatomy and pulmonary artery pressure and offers the possibility of
+ interventional therapy. However, it carries the risk of invasive
+ instrumentation. Recently, CMR was proved of great value in the evaluation of
+ cardiac function and the detection of myocardial inflammation, stress-rest
+ perfusion defects and fibrosis. Results An algorithm for CVD evaluation in
+ SLE includes clinical, laboratory, ECG and echo assessment as well as CMR
+ evaluation in patients with inconclusive findings, persistent cardiac
+ symptoms despite normal standard evaluation, new onset of life-threatening
+ arrhythmia/heart failure and/or as a tool to select SLE patients for CCa.
+ Conclusions A non-invasive approach including clinical, laboratory and
+ imaging evaluation is key for early CVD detection in SLE.",
+    mesh {
+      {
+        term "Cardiac Catheterization"
+      },
+      {
+        term "Cardiovascular Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Contrast Media",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Coronary Angiography"
+      },
+      {
+        term "Coronary Vessels",
+        qual {
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Early Diagnosis"
+      },
+      {
+        term "Echocardiography"
+      },
+      {
+        term "Electrocardiography"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lupus Erythematosus, Systemic",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Magnetic Resonance Angiography"
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Positron Emission Tomography Computed Tomography"
+      },
+      {
+        term "Risk Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Contrast Media"
+      }
+    },
+    pmid 27687024,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

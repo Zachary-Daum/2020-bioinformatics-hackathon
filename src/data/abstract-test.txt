@@ -1,0 +1,24 @@
+#process abstract
+            tokenizedabstract = custom_sent_tokenizer.tokenize(abstract)
+            def process_content():
+                try:
+                    for i in tokenizedabstract:
+                        words = nltk.word_tokenize(i)
+                        tagged = nltk.pos_tag(words)
+                        #process title
+                        temp = str(tagged).strip('[]')
+                        #count verbs
+                        VBCount = temp.count('VB')
+                        #count VBZ
+                        VBZCount = temp.count('VBZ')
+                        #count NN
+                        NNCount = temp.count('NN')
+                        #count JJ
+                        JJCount = temp.count('JJ')
+                        #count IN
+                        INCount = temp.count('IN')
+                        print(VBCount, VBZCount, NNCount, JJCount, INCount)
+                except Exception as e:
+                    print(str(e))
+
+            process_content()

@@ -1,15 +1,15 @@
 import requests
 #get PMIDs
-with open('fake_pmids.txt', 'r') as fakeid:
+with open('rand_pmids.txt', 'r') as fakeid:
     fakeid = fakeid.readlines()
     fakeid = ''.join(fakeid).replace("PMID:","")
     idlist = fakeid.splitlines() #by here each PMID is its own item in the list
 
     n = 0
-    while ( n <= 421 ):
+    while ( n <= 4220 ):
         workingid = idlist[n]
         #creates proper filename
-        workingfile = "{}.txt"
+        workingfile = "rand/{}.txt"
         workingfile = workingfile.format(workingid)
         #creates correct link for metadata get
         workinglink = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id={}"

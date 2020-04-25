@@ -1,0 +1,172 @@
+
+Pubmed-entry ::= {
+  pmid 26657870,
+  medent {
+    em std {
+      year 2015,
+      month 12,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Association of Macrophages With Angiogenesis in Oral Epithelial
+ Dysplasia, Oral Verrucous Carcinoma, and Oral Squamous Cell Carcinoma: An
+ Immunohistochemical Study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chawla H",
+            affil str "Department of Oral & Maxillofacial Pathology, Maulana
+ Azad Institute of Dental Sciences, New Delhi, India."
+          },
+          {
+            name ml "Urs AB"
+          },
+          {
+            name ml "Augustine J"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Appl. Immunohistochem. Mol. Morphol.",
+          ml-jta "Appl Immunohistochem Mol Morphol",
+          issn "1533-4058",
+          name "Applied immunohistochemistry & molecular morphology : AIMM"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "25",
+          issue "3",
+          pages "203-208",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2015,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2015,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 26657870,
+        doi "10.1097/PAI.0000000000000284",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/PAI.0000000000000284"
+        }
+      }
+    },
+    abstract "The present study aimed to elucidate the role of
+ tumor-associated macrophages (TAMs) and angiogenesis in tumor progression by
+ assessing their immunohistochemical expression in oral epithelial dysplasia
+ (OED), oral verrucous carcinoma (OVC), and oral squamous cell carcinoma
+ (OSCC). About 20 histopathologically confirmed cases of OED, OVC, and OSCC
+ each and 10 cases of normal oral mucosa taken as controls were stained
+ immunohistochemically using CD68 and CD31 antibodies. The average TAM count
+ and the microvessel density (MVD) were calculated for each group and
+ expressed as mean+/-SD and compared using the Mann-Whitney U Test. Pearson
+ correlation was applied to assess the correlation between TAM and MVD in
+ different groups. The CD68 count was found to be significantly higher in all
+ the groups as compared with controls, with the highest counts in OSCC,
+ followed by OED and OVC. MVD was significantly higher in all the test groups
+ as compared with controls. The increase in MVD was highly significant in OSCC
+ as compared with OVC, and in OVC as compared with OED. No association could
+ be determined between TAM and MVD. There does not seem to be any direct
+ influence of macrophages on angiogenesis in the microenvironment of OED, OVC,
+ and OSCC.",
+    mesh {
+      {
+        term "Carcinoma, Squamous Cell",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Verrucous",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunohistochemistry"
+      },
+      {
+        term "Macrophages",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Mouth Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neovascularization, Pathologic",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    pmid 26657870,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

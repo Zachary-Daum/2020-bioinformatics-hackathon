@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 27296470,
+  medent {
+    em std {
+      year 2016,
+      month 6,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Can we separate verbs from their argument structure? A group
+ study in aphasia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Caley S",
+            affil str "School of Psychology and Speech Pathology, Curtin
+ University, Perth, WA, Australia."
+          },
+          {
+            name ml "Whitworth A",
+            affil str "School of Psychology and Speech Pathology, Curtin
+ University, Perth, WA, Australia."
+          },
+          {
+            name ml "Claessen M",
+            affil str "School of Psychology and Speech Pathology, Curtin
+ University, Perth, WA, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Lang Commun Disord",
+          ml-jta "Int J Lang Commun Disord",
+          issn "1460-6984",
+          name "International journal of language & communication disorders"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1
+          },
+          volume "52",
+          issue "1",
+          pages "59-70",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2015,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 2,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 2,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27296470,
+        doi "10.1111/1460-6984.12253",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/1460-6984.12253"
+        }
+      }
+    },
+    abstract "BACKGROUND: Given the integral role that verbs play in sentence
+ production, understanding verb deficits is critical to clinical practice.
+ Difficulties in sentence production are often directly related to an
+ inability to retrieve argument structure information which, according to most
+ theoretical accounts, is specified at a lexical level as part of the semantic
+ representation of the verb. The presence of an argument complexity effect
+ when retrieving verbs in isolation, i.e. increased difficulty with increasing
+ number of arguments required by the verb, is considered evidence of the
+ integral link between verbs and the ensuing structure. Recent reports,
+ however, of relatively intact verb retrieval and impaired argument structure
+ suggest that difficulties with verbs and argument structure may not always
+ co-occur. One explanation for this is that lexical-syntactic information may
+ be stored separately to lexical-semantic information at the lemma level and
+ then differentially impaired. AIMS: To determine whether the presence of
+ difficulties creating argument structure in a group of people with aphasia
+ with verb-retrieval deficits consistently aligned with the underlying nature
+ of their impairment, where semantic involvement resulted in argument
+ structure difficulties and post-semantic impairment resulted in intact
+ argument structure. This would provide evidence either to support or to
+ challenge the view that argument structure is lexically specified. The
+ presence of an argument complexity effect within the participants' single
+ verb naming was also investigated to examine the relationship between verb
+ argument information and any subsequent difficulties creating argument
+ structure for sentence production. METHODS & PROCEDURES: Verb retrieval and
+ argument structure production were investigated in 12 people with aphasia
+ with verb-retrieval deficits on single-word and sentence-production measures.
+ OUTCOMES & RESULTS: Eight of the 12 participants presented with a semantic
+ verb deficit (five semantic and three mixed semantic and phonological) and
+ had difficulties in creating argument structure. Four participants presented
+ with a phonological verb deficit. Of these, two had intact argument structure
+ while two had impaired argument structure. An argument complexity effect in
+ verb naming was seen in both groups. CONCLUSIONS & IMPLICATIONS: Semantic
+ verb-retrieval deficits consistently resulted in argument structure
+ production difficulties, supporting the view that syntactic information is
+ stored within the lemma. The presence of argument structure difficulties in
+ two participants with phonological deficits; however, lends support for the
+ separate coding of lexical-syntactic from lexical-semantic information at the
+ lemma level, a factor that has both theoretical and clinical implications
+ with respect to diagnosis and management.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Aphasia",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Cerebral Hemorrhage",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Cerebral Infarction",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Linguistics"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Mental Recall"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Phonetics"
+      },
+      {
+        mp TRUE,
+        term "Semantics"
+      },
+      {
+        mp TRUE,
+        term "Speech Production Measurement"
+      },
+      {
+        mp TRUE,
+        term "Verbal Behavior"
+      },
+      {
+        mp TRUE,
+        term "Verbal Learning"
+      }
+    },
+    pmid 27296470,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

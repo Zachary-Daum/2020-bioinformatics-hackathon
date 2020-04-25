@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 27956008,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effect of bumetanide, a selective NKCC1 inhibitor, on
+ hallucinations of schizophrenic patients; a double-blind randomized clinical
+ trial."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rahmanzadeh R",
+            affil str "Division of Neuroscience, Cellular and Molecular
+ Research Center, Iran University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Eftekhari S",
+            affil str "Faculty of Advanced Technologies in Medicine,
+ Department of Neuroscience, Iran University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Shahbazi A",
+            affil str "Faculty of Advanced Technologies in Medicine,
+ Department of Neuroscience, Iran University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Khodaei Ardakani MR",
+            affil str "Razi Psychiatric Hospital, University of Social Welfare
+ and Rehabilitation, Tehran, Iran."
+          },
+          {
+            name ml "Rahmanzade R",
+            affil str "Division of Neuroscience, Cellular and Molecular
+ Research Center, Iran University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Mehrabi S",
+            affil str "Division of Neuroscience, Cellular and Molecular
+ Research Center, Iran University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Barati M",
+            affil str "Division of Neuroscience, Cellular and Molecular
+ Research Center, Iran University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Joghataei MT",
+            affil str "Division of Neuroscience, Cellular and Molecular
+ Research Center, Iran University of Medical Sciences, Tehran, Iran.
+ Electronic address: Joghataei.mt@iums.ac.ir."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Schizophr. Res.",
+          ml-jta "Schizophr Res",
+          issn "1573-2509",
+          name "Schizophrenia research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "184",
+          pages "145-146",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 12,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27956008,
+        pii "S0920-9964(16)30560-6",
+        doi "10.1016/j.schres.2016.12.002",
+        other {
+          db "ELocationID pii",
+          tag str "S0920-9964(16)30560-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.schres.2016.12.002"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Bumetanide",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Double-Blind Method"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Hallucinations",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Schizophrenia",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Sodium Potassium Chloride Symporter Inhibitors",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Sodium Potassium Chloride Symporter Inhibitors"
+      },
+      {
+        type cas,
+        cit "0Y2S3XUQ5H",
+        name "Bumetanide"
+      }
+    },
+    pmid 27956008,
+    pub-type {
+      "Letter",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

@@ -15,12 +15,10 @@ def process_content():
         for i in tokenized[:5]:
             words = nltk.word_tokenize(i)
             tagged = nltk.pos_tag(words)
-            print(tagged)
-            gram = "NP: {<NN.?>*<VBZ.?>*}"
-            cp = nltk.RegexpParser(gram)
-            result = cp.parse(tagged)
+            temp = str(tagged).strip('[]')
+            VBCount = temp.count('VB')
+            print(VBCount)
 
-            result.draw()
     except Exception as e:
         print(str(e))
 

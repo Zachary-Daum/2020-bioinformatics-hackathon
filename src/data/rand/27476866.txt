@@ -1,0 +1,195 @@
+
+Pubmed-entry ::= {
+  pmid 27476866,
+  medent {
+    em std {
+      year 2016,
+      month 8,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A process evaluation of a Training of Trainers (TOT) model of
+ men's health training."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lefkowich M",
+            affil str "Centre for Health Behaviour Research, Waterford
+ Institute of Technology, Waterford, Ireland."
+          },
+          {
+            name ml "Richardson N",
+            affil str "National Centre for Men's Health, Institute of
+ Technology Carlow, Carlow, Ireland."
+          },
+          {
+            name ml "Brennan L",
+            affil str "Men's Development Network, Waterford, Ireland."
+          },
+          {
+            name ml "Lambe B",
+            affil str "Centre for Health Behaviour Research, Waterford
+ Institute of Technology, Waterford, Ireland."
+          },
+          {
+            name ml "Carroll P",
+            affil str "Centre for Health Behaviour Research, Waterford
+ Institute of Technology, Waterford, Ireland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Health Promot Int",
+          ml-jta "Health Promot Int",
+          issn "1460-2245",
+          name "Health promotion international"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 1
+          },
+          volume "33",
+          issue "1",
+          pages "60-70",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27476866,
+        pii "daw056",
+        doi "10.1093/heapro/daw056",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/heapro/daw056"
+        }
+      }
+    },
+    abstract "This study set out to identify the mediators of diffusion of a
+ Training of Trainers (ToT) programme; focusing on ENGAGE, Ireland's national
+ men's health training programme, we explored the process (planning,
+ implementation and maintenance) of using a ToT model of training to affect
+ change in gender sensitive health and social service provision for men. Our
+ findings indicate that an experiential learning approach in combination with
+ mechanisms for feedback and fostering peer-based support during training and
+ beyond are key strategies that foster individual (Trainer), community (of
+ Trainers) and organizational (Trainer workplaces) level ownership. Moreover,
+ by adapting in response to feedback, ENGAGE was able to remain relevant over
+ a number years and to different cohorts of Trainers. As such, core strategies
+ used by ENGAGE could be used to inform new models of health training
+ elsewhere.",
+    mesh {
+      {
+        term "Community Health Planning",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Health Educators",
+        qual {
+          {
+            subh "supply & distribution"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Health Promotion",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ireland"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Men's Health",
+        qual {
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Models, Organizational"
+      },
+      {
+        term "Primary Health Care"
+      },
+      {
+        mp TRUE,
+        term "Program Evaluation"
+      },
+      {
+        term "Public Health",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      },
+      {
+        term "Workforce"
+      }
+    },
+    pmid 27476866,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

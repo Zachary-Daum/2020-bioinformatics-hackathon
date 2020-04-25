@@ -1,0 +1,183 @@
+
+Pubmed-entry ::= {
+  pmid 27325370,
+  medent {
+    em std {
+      year 2016,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An integrative review of a preoperative nursing care structure."
+      },
+      authors {
+        names std {
+          {
+            name ml "Turunen E",
+            affil str "Department of Nursing Science, University of Eastern
+ Finland, Kuopio, Finland."
+          },
+          {
+            name ml "Miettinen M",
+            affil str "Kuopio University Hospital, Kuopio, Finland."
+          },
+          {
+            name ml "Setala L",
+            affil str "Kuopio University Hospital, Kuopio, Finland."
+          },
+          {
+            name ml "Vehvilainen-Julkunen K",
+            affil str "Department of Nursing Science, University of Eastern
+ Finland, Kuopio, Finland.; Kuopio University Hospital, Kuopio, Finland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Clin Nurs",
+          ml-jta "J Clin Nurs",
+          issn "1365-2702",
+          name "Journal of clinical nursing"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 4
+          },
+          volume "26",
+          issue "7-8",
+          pages "915-930",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 6,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27325370,
+        doi "10.1111/jocn.13448",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jocn.13448"
+        }
+      }
+    },
+    abstract "AIMS AND OBJECTIVES: The aims of this integrative literature
+ review are to define the role of a preoperative nurse and to describe the
+ main components and hypothetical outcomes of a preoperative nursing care
+ structure before a surgical patient arrives to an elective procedure.
+ BACKGROUND: The development of medical care has impacted surgical processes,
+ and patients are now spending less time in hospital settings. Patients often
+ enter the hospital on the day of a procedure and are discharged as soon as it
+ is medically safe, creating challenges for nursing care. Preoperative clinics
+ have been opened, and the importance of preoperative nursing care has been
+ widely understood. Previous literature has provided descriptions about the
+ roles, tasks and outcomes of preoperative nurses; however, the terminology is
+ heterogeneous, and the optimal model remains unknown. DESIGN: A systematic
+ procedure for searching, selecting, and evaluating the literature was
+ followed. The data were collected from PubMed and CINAHL between 1 January
+ 2004 and 20 September 2014. In total, 41 articles were included in the study
+ and were analysed by qualitative inductive content analysis. RESULTS: The
+ data provided seven main tasks of a preoperative nurse, tools to support
+ preoperative nursing and outcomes of structured preoperative nursing care.
+ CONCLUSION: A preoperative nurse is a specialised coordinator of patient
+ care, and the main purposes of this role are to meet the patient's and the
+ family's needs individually and to prepare them for the scheduled procedure
+ and postoperative recovery. By following the structure of the seven main
+ tasks and using different supportive tools, preoperative nursing can
+ positively impact patient and provider satisfaction, patient safety, quality
+ of care and cost savings. RELEVANCE TO CLINICAL PRACTICE: A preoperative
+ nursing care structure should be implemented in clinical practice and then
+ evaluated to measure whether the hypothetical outcomes reported in this
+ literature review can be achieved.",
+    mesh {
+      {
+        mp TRUE,
+        term "Clinical Competence"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Patient Care",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Practice Patterns, Nurses'",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Preoperative Care",
+        qual {
+          {
+            mp TRUE,
+            subh "nursing"
+          },
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      }
+    },
+    pmid 27325370,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+
