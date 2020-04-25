@@ -13,8 +13,10 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
             workingfile = file.read()
         #get title names
 
-        slice(title { name, }, none)
-        slice ('""')
+        slice("Pubmed-entry", "title")
+              
+        slice("authors", "medline")
+              
         
             
         n = n+1
