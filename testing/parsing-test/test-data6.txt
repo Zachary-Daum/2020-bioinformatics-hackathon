@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 29306212,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-19a promotes cell viability and migration of
+ chondrocytes via up-regulating SOX9 through NF-kappaB pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu C",
+            affil str "Department of Orthopedics, Heze Municipal Hospital,
+ Heze 274031, Shandong, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Orthopedics, China-Japan Union Hospital
+ of Jilin University, No.126, Xiantai Street, Changchun 130033, Jilin, China.
+ Electronic address: wangyongkun614@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "98",
+          pages "746-753",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29306212,
+        pii "S0753-3322(17)32887-1",
+        doi "10.1016/j.biopha.2017.11.132",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)32887-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2017.11.132"
+        }
+      }
+    },
+    abstract "BACKGROUND: Osteoarthritis (OA), as a degenerative disease, is a
+ major problem in ageing populations. To better understand the underlying
+ mechanisms in the pathogenesis of OA, this study was undertaken to
+ investigate the role of microRNA (miR)-19a in chondrocytes. METHODS:
+ Expression of the members of miR-17-92 cluster in synovium from OA patients
+ and non-OA patients were measured by quantitative reverse
+ transcription-polymerase chain reaction (qRT-PCR). miR-19a was abnormal
+ expressed in human chondrocyte line (CHON-001 and T-C/28 cells) and primary
+ human chondrocytes by transient transfection. Cell viability, migration and
+ apoptosis were determined by CCK-8 assay, wound healing assay, and flow
+ cytometry, respectively. Expression of apoptosis related factors was measured
+ by western blot. Transcription factor SOX9 expression and activity of
+ NF-kappaB pathway were also assessed by western blot. RESULTS: Levels of
+ miR-19a and other five members of miR-17-92 cluster were down-regulated in OA
+ patients' synovium compare with non-OA. miR-19a overexpression promoted cell
+ viability and migration of chondrocytes, while miR-19a suppression promoted
+ cell apoptosis, and inhibited cell viability and migration. miR-19a direct
+ up-regulated expression of SOX9, and thus affecting cell viability and
+ migration. miR-19a promoted activation of NF-kappaB signaling pathway to
+ up-regulate SOX9 expression. CONCLUSION: miR-19a was down-regulated in
+ synovium form OA patients. miR-19a could promote cell viability and migration
+ of chondrocyte via positively regulating SOX9 expression through NF-kappaB
+ signaling pathway. This study might provide the novel strategy for clinical
+ treatment of OA caused by chondrocyte function degradation.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chondrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Down-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "SOX9 Transcription Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MIRN19 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "SOX9 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "SOX9 protein, human"
+      }
+    },
+    pmid 29306212,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+
