@@ -28,36 +28,6 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
     titlelist = []
     while ( n <= 20 ):
         workingid = idlist[n]
-        workingfile = "data/{}.txt"
+        workingfile = "test-data{}.txt"
         currentfile = workingfile.format(workingid)
-        with open (currentfile, 'rt') as file:
-            data = file.read().splitlines()
-            temp = ''.join(data)
-            title = between(temp,'title {        name "','"      },      authors')
-            
-        #build lists into one
-        workinglist = title.splitlines()
-        titlelist = titlelist + workinglist
-        n = n+1
-    i = 0
-    while ( i < n ):
-        workingtitle = titlelist[i]
-        print(workingtitle)
-        #analyze PoS of titles
-        tokenized = custom_sent_tokenizer.tokenize(workingtitle)
-        def process_content():
-            try:
-                for k in tokenized[:5]:
-                    words = nltk.word_tokenize(k)
-                    tagged = nltk.pos_tag(words)
-                    print(tagged)
 
-            except Exception as e:
-                print(str(e))
-        process_content()
-        
-        i = i+1
-
-        #find PoS percentages
-        
-        
