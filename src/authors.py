@@ -12,11 +12,11 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
         currentfile = workingfile.format(workingid)
         with open (currentfile, 'rt') as file:
             workingfile = file.read()
-        #get author names
-            
-        #check for affiliations
-            
-        #search Entrez for # of citations (wont list any more than 20
+        #get title names
+
+        slice(title { name, }, none)
+        slice ('""')
+        
             
         n = n+1
         
