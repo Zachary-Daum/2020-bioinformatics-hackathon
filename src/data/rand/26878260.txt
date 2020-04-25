@@ -1,0 +1,234 @@
+
+Pubmed-entry ::= {
+  pmid 26878260,
+  medent {
+    em std {
+      year 2016,
+      month 2,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Accidental aspiration of denture cleanser tablets caused severe
+ mucosal edema in upper airway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ochi N",
+            affil str "Department of General Internal Medicine 4, Kawasaki
+ Medical School, Okayama, Japan."
+          },
+          {
+            name ml "Yamane H",
+            affil str "Department of General Internal Medicine 4, Kawasaki
+ Medical School, Okayama, Japan."
+          },
+          {
+            name ml "Honda Y",
+            affil str "Department of General Internal Medicine 4, Kawasaki
+ Medical School, Okayama, Japan."
+          },
+          {
+            name ml "Takigawa N",
+            affil str "Department of General Internal Medicine 4, Kawasaki
+ Medical School, Okayama, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Respir J",
+          ml-jta "Clin Respir J",
+          issn "1752-699X",
+          name "The clinical respiratory journal"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "12",
+          issue "1",
+          pages "291-294",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2015,
+                month 11,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 1,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 2,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 26878260,
+        doi "10.1111/crj.12468",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/crj.12468"
+        }
+      }
+    },
+    abstract "A 78-year-old man accidentally swallowed denture cleanser
+ tablets (Polident((R)) ). Although he immediately spat them out, he felt
+ difficulty in breathing. Observation using a fiber optic bronchoscope
+ revealed a constricted glottis with edema and redness. The instillation of 1%
+ xylocaine with epinephrine to the epiglottis and larynx reduced the edema and
+ enabled the bronchoscope to pass the glottis. Red and edematous mucosa of the
+ trachea and major bronchus were also observed. We should be aware that
+ accidental aspiration of denture cleansers may cause laryngeal edema.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Airway Obstruction",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Bronchi"
+      },
+      {
+        term "Bronchoscopy"
+      },
+      {
+        term "Denture Cleansers",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Edema",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Glucocorticoids",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infusions, Intravenous"
+      },
+      {
+        term "Inhalation"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Tablets"
+      },
+      {
+        term "Tomography, X-Ray Computed"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Denture Cleansers"
+      },
+      {
+        type nameonly,
+        name "Glucocorticoids"
+      },
+      {
+        type nameonly,
+        name "Tablets"
+      }
+    },
+    pmid 26878260,
+    pub-type {
+      "Case Reports"
+    },
+    status medline
+  }
+}
+
+

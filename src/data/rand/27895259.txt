@@ -1,0 +1,146 @@
+
+Pubmed-entry ::= {
+  pmid 27895259,
+  medent {
+    em std {
+      year 2016,
+      month 11,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Arene guest selectivity and pore flexibility in a metal-organic
+ framework with semi-fluorinated channel walls."
+      },
+      authors {
+        names std {
+          {
+            name ml "Smith R",
+            affil str "Department of Chemistry, University of Sheffield, Brook
+ Hill, Sheffield S3 7HF, UK."
+          },
+          {
+            name ml "Vitorica-Yrezabal IJ",
+            affil str "Department of Chemistry, University of Sheffield, Brook
+ Hill, Sheffield S3 7HF, UK."
+          },
+          {
+            name ml "Hill A",
+            affil str "Johnson Matthey Process Technologies, Inc., Savannah,
+ GA 31408, USA."
+          },
+          {
+            name ml "Brammer L",
+            affil str "Department of Chemistry, University of Sheffield, Brook
+ Hill, Sheffield S3 7HF, UK lee.brammer@sheffield.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Philos Trans A Math Phys Eng Sci",
+          ml-jta "Philos Trans A Math Phys Eng Sci",
+          issn "1364-503X",
+          name "Philosophical transactions. Series A, Mathematical, physical,
+ and engineering sciences"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1,
+            day 13
+          },
+          volume "375",
+          issue "2084",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 10,
+                day 6
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 11,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 11,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2016,
+                month 11,
+                day 30,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27895259,
+        pii "rsta.2016.0031",
+        doi "10.1098/rsta.2016.0031",
+        other {
+          db "pmc",
+          tag str "PMC5179934"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "20160031"
+        }
+      }
+    },
+    abstract "A metal-organic framework (MOF) with one-dimensional channels of
+ approximately hexagonal cross-section [Ag2(O2CCF2CF2CO2)(TMP)] 1: (TMP
+ =2,3,5,6-tetramethylpyrazine) has been synthesized with MeOH filling the
+ channels in its as-synthesized form as [Ag2(O2CCF2CF2CO2)(TMP)].n(MeOH)
+ 1-MEOH: (n = 1.625 by X-ray crystallography). The two types of ligand connect
+ columns of Ag(I) centres in an alternating manner, both around the channels
+ and along their length, leading to an alternating arrangement of hydrocarbon
+ (C-H) and fluorocarbon (C-F) groups lining the channel walls, with the former
+ groups projecting further into the channel than the latter. MeOH solvent in
+ the channels can be exchanged for a variety of arene guests, ranging from
+ xylenes to tetrafluorobenzene, as confirmed by gas chromatography, (1)H
+ nuclear magnetic resonance (NMR) spectroscopy, thermogravimetric analysis and
+ (13)C cross-polarization magic angle spinning NMR spectroscopy. Alkane and
+ perfluoroalkane guests, however, do not enter the channels. Although
+ exhibiting some stability under a nitrogen atmosphere, sufficient to enable
+ crystal structure determination, the evacuated MOF 1: is unstable for periods
+ of more than minutes under ambient conditions or upon heating, whereupon it
+ undergoes an irreversible solid-state transformation to a non-porous
+ polymorph 2: , which comprises Ag2(O2CCF2CF2CO2) coordination layers that are
+ pillared by TMP ligands. This transformation has been followed in situ by
+ powder X-ray diffraction and shown to proceed via a crystalline
+ intermediate.This article is part of the themed issue 'Coordination polymers
+ and metal-organic frameworks: materials by design'.",
+    pmid 27895259,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

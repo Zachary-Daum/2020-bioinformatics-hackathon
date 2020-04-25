@@ -1,0 +1,138 @@
+
+Pubmed-entry ::= {
+  pmid 27989682,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Catheter ablation of supraventricular tachycardia in
+ d-transposition of the great arteries after corrective surgery."
+      },
+      authors {
+        names std {
+          {
+            name ml "Aizawa Y",
+            affil str "Department of Research and Development, Tachikawa
+ Medical Center, Nagaoka, Japan. Electronic address:
+ aizaways@med.niigata-u.ac.jp."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Heart Rhythm",
+          ml-jta "Heart Rhythm",
+          issn "1556-3871",
+          name "Heart rhythm"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "14",
+          issue "3",
+          pages "357-358",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27989682,
+        pii "S1547-5271(16)31215-2",
+        doi "10.1016/j.hrthm.2016.12.024",
+        other {
+          db "ELocationID pii",
+          tag str "S1547-5271(16)31215-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.hrthm.2016.12.024"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Catheter Ablation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Tachycardia, Paroxysmal",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Tachycardia, Supraventricular"
+      },
+      {
+        term "Transposition of Great Vessels",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      }
+    },
+    pmid 27989682,
+    pub-type {
+      "Editorial",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

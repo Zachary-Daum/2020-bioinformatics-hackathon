@@ -1,0 +1,197 @@
+
+Pubmed-entry ::= {
+  pmid 27749005,
+  medent {
+    em std {
+      year 2016,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sex-specific selection under environmental stress in seed
+ beetles."
+      },
+      authors {
+        names std {
+          {
+            name ml "Martinossi-Allibert I",
+            affil str "Department of Ecology and Genetics, Animal Ecology,
+ Uppsala University, Uppsala, Sweden."
+          },
+          {
+            name ml "Arnqvist G",
+            affil str "Department of Ecology and Genetics, Animal Ecology,
+ Uppsala University, Uppsala, Sweden."
+          },
+          {
+            name ml "Berger D",
+            affil str "Department of Ecology and Genetics, Animal Ecology,
+ Uppsala University, Uppsala, Sweden."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Evol. Biol.",
+          ml-jta "J Evol Biol",
+          issn "1420-9101",
+          name "Journal of evolutionary biology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1
+          },
+          volume "30",
+          issue "1",
+          pages "161-173",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 9,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 10,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27749005,
+        doi "10.1111/jeb.12996",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jeb.12996"
+        }
+      }
+    },
+    abstract "Sexual selection can increase rates of adaptation by imposing
+ strong selection in males, thereby allowing efficient purging of the mutation
+ load on population fitness at a low demographic cost. Indeed, sexual
+ selection tends to be male-biased throughout the animal kingdom, but little
+ empirical work has explored the ecological sensitivity of this sex
+ difference. In this study, we generated theoretical predictions of
+ sex-specific strengths of selection, environmental sensitivities and
+ genotype-by-environment interactions and tested them in seed beetles by
+ manipulating either larval host plant or rearing temperature. Using fourteen
+ isofemale lines, we measured sex-specific reductions in fitness components,
+ genotype-by-environment interactions and the strength of selection (variance
+ in fitness) in the juvenile and adult stage. As predicted, variance in
+ fitness increased with stress, was consistently greater in males than females
+ for adult reproductive success (implying strong sexual selection), but was
+ similar in the sexes in terms of juvenile survival across all levels of
+ stress. Although genetic variance in fitness increased in magnitude under
+ severe stress, heritability decreased and particularly so in males. Moreover,
+ genotype-by-environment interactions for fitness were common but specific to
+ the type of stress, sex and life stage, suggesting that new environments may
+ change the relative alignment and strength of selection in males and females.
+ Our study thus exemplifies how environmental stress can influence the
+ relative forces of natural and sexual selection, as well as concomitant
+ changes in genetic variance in fitness, which are predicted to have
+ consequences for rates of adaptation in sexual populations.",
+    mesh {
+      {
+        mp TRUE,
+        term "Adaptation, Physiological"
+      },
+      {
+        term "Adolescent"
+      },
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Coleoptera"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Mating Preference, Animal"
+      },
+      {
+        mp TRUE,
+        term "Reproduction"
+      },
+      {
+        term "Selection, Genetic"
+      },
+      {
+        term "Sex Characteristics"
+      },
+      {
+        mp TRUE,
+        term "Stress, Physiological"
+      }
+    },
+    xref {
+    },
+    pmid 27749005,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

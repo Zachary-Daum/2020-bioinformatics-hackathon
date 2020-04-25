@@ -1,0 +1,118 @@
+
+Pubmed-entry ::= {
+  pmid 27988951,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Abandoning first generation supraglottic airway devices in
+ paediatric anaesthesia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Montague JP",
+            affil str "University Hospital Southampton, Southampton, UK."
+          },
+          {
+            name ml "Halloran CJ",
+            affil str "Hampshire Hospitals NHS Foundation Trust, Basingstoke,
+ UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Anaesthesia",
+          ml-jta "Anaesthesia",
+          issn "1365-2044",
+          name "Anaesthesia"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1
+          },
+          volume "72",
+          issue "1",
+          pages "125-126",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27988951,
+        doi "10.1111/anae.13771",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/anae.13771"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Airway Management"
+      },
+      {
+        term "Anesthesia"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Laryngeal Masks"
+      }
+    },
+    pmid 27988951,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

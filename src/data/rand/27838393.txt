@@ -1,0 +1,360 @@
+
+Pubmed-entry ::= {
+  pmid 27838393,
+  medent {
+    em std {
+      year 2016,
+      month 11,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Mutation spectrum of NF1 gene in Italian patients with
+ neurofibromatosis type 1 using Ion Torrent PGM platform."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cali F",
+            affil str "Laboratorio di Genetica Molecolare, UOC Laboratorio di
+ Genetica Medica, Associazione Oasi Maria SS, IRCCS, Troina, EN, Italy.
+ Electronic address: cali@oasi.en.it."
+          },
+          {
+            name ml "Chiavetta V",
+            affil str "Laboratorio di Genetica Molecolare, UOC Laboratorio di
+ Genetica Medica, Associazione Oasi Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Ruggeri G",
+            affil str "Laboratorio di Genetica Molecolare, UOC Laboratorio di
+ Genetica Medica, Associazione Oasi Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Piccione M",
+            affil str "Azienda Ospedali Riuniti Villa Sofia Cervello,
+ Universita degli Studi di Palermo, Palermo, Italy."
+          },
+          {
+            name ml "Selicorni A",
+            affil str "UOS Genetica Pediatrica, Fondazione MBBM, AOS Gerardo,
+ Monza, Italy; UOC Pediatria ASST Lariana, Como, Italy."
+          },
+          {
+            name ml "Palazzo D",
+            affil str "Azienda Ospedali Riuniti Villa Sofia Cervello,
+ Universita degli Studi di Palermo, Palermo, Italy."
+          },
+          {
+            name ml "Bonsignore M",
+            affil str "UOC di Neuropsichiatria Infantile, Dipartimento Materno
+ Infantile, Policlinico Universitario ""G. Martino"", Messina, Italy."
+          },
+          {
+            name ml "Cereda A",
+            affil str "UOC Pediatria Ospedale Papa Giovanni XXIII Bergamo,
+ Italy."
+          },
+          {
+            name ml "Elia M",
+            affil str "Dipartimento per il Ritardo Mentale, Associazione Oasi
+ Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Failla P",
+            affil str "Dipartimento per il Ritardo Mentale, Associazione Oasi
+ Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Figura MG",
+            affil str "Dipartimento per il Ritardo Mentale, Associazione Oasi
+ Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Fiumara A",
+            affil str "Dipartimento di Medicina Clinica e Sperimentale,
+ Sezione di Pediatria e Neuropsichiatria Infantile, Universita degli Studi di
+ Catania, Catania, Italy."
+          },
+          {
+            name ml "Maitz S",
+            affil str "UOS Genetica Pediatrica, Fondazione MBBM, AOS Gerardo,
+ Monza, Italy."
+          },
+          {
+            name ml "Luana Mandara GM",
+            affil str "UO Genetica Medica, Ospedale Maria Paterno Arezzo,
+ Ragusa, Italy."
+          },
+          {
+            name ml "Mattina T",
+            affil str "Dipartimento di Medicina Clinica e Sperimentale,
+ Sezione di Pediatria e Neuropsichiatria Infantile, Universita degli Studi di
+ Catania, Catania, Italy."
+          },
+          {
+            name ml "Ragalmuto A",
+            affil str "Laboratorio di Genetica Molecolare, UOC Laboratorio di
+ Genetica Medica, Associazione Oasi Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Romano C",
+            affil str "Dipartimento per il Ritardo Mentale, Associazione Oasi
+ Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Ruggieri M",
+            affil str "Dipartimento di Medicina Clinica e Sperimentale,
+ Sezione di Pediatria e Neuropsichiatria Infantile, Universita degli Studi di
+ Catania, Catania, Italy."
+          },
+          {
+            name ml "Salluzzo R",
+            affil str "Laboratorio di Genetica Molecolare, UOC Laboratorio di
+ Genetica Medica, Associazione Oasi Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Saporoso A",
+            affil str "UOC di Neuropsichiatria Infantile, Dipartimento Materno
+ Infantile, Policlinico Universitario ""G. Martino"", Messina, Italy."
+          },
+          {
+            name ml "Schepis C",
+            affil str "Dipartimento per il Ritardo Mentale, Associazione Oasi
+ Maria SS, IRCCS, Troina, EN, Italy."
+          },
+          {
+            name ml "Sorge G",
+            affil str "Dipartimento di Medicina Clinica e Sperimentale,
+ Sezione di Pediatria e Neuropsichiatria Infantile, Universita degli Studi di
+ Catania, Catania, Italy."
+          },
+          {
+            name ml "Spano M",
+            affil str "UOC di Neuropsichiatria Infantile, Dipartimento Materno
+ Infantile, Policlinico Universitario ""G. Martino"", Messina, Italy."
+          },
+          {
+            name ml "Tortorella G",
+            affil str "UOC di Neuropsichiatria Infantile, Dipartimento Materno
+ Infantile, Policlinico Universitario ""G. Martino"", Messina, Italy."
+          },
+          {
+            name ml "Romano V",
+            affil str "Dipartimento di Fisica e Chimica, Universita degli
+ Studi di Palermo, Palermo, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur J Med Genet",
+          ml-jta "Eur J Med Genet",
+          issn "1878-0849",
+          name "European journal of medical genetics"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2
+          },
+          volume "60",
+          issue "2",
+          pages "93-99",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 10,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 2,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27838393,
+        pii "S1769-7212(16)30118-5",
+        doi "10.1016/j.ejmg.2016.11.001",
+        other {
+          db "ELocationID pii",
+          tag str "S1769-7212(16)30118-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejmg.2016.11.001"
+        }
+      }
+    },
+    abstract "Neurofibromatosis type 1 (NF1) is caused by mutations of the NF1
+ gene and is one of the most common human autosomal dominant disorders. The
+ patient shows different signs on the skin and other organs from early
+ childhood. The best known are six or more cafe au lait spots, axillary or
+ inguinal freckling, increased risk of developing benign nerve sheath tumours
+ and plexiform neurofibromas. Mutation detection is complex, due to the large
+ gene size, the large variety of mutations and the presence of pseudogenes.
+ Using Ion Torrent PGM Platform, 73 mutations were identified in 79 NF1
+ Italian patients, 51% of which turned out to be novel mutations. Pathogenic
+ status of each variant was classified using ""American College of Medical
+ Genetics and Genomics"" guidelines criteria, thus enabling the classification
+ of 96% of the variants identified as being pathogenic. The use of Next
+ Generation Sequencing has proven to be effective as for costs, and time for
+ analysis, and it allowed us to identify a patient with NF1 mosaicism.
+ Furthermore, we designed a new approach aimed to quantify the mosaicism
+ percentage using electropherogram of capillary electrophoresis performed on
+ Sanger method.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Cafe-au-Lait Spots",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "DNA Mutational Analysis"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Italy"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Mosaicism"
+      },
+      {
+        term "Mutation"
+      },
+      {
+        term "Neurofibromatosis 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neurofibromin 1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sequence Analysis, DNA"
+      },
+      {
+        term "Skin Abnormalities",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Neurofibromin 1"
+      }
+    },
+    pmid 27838393,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

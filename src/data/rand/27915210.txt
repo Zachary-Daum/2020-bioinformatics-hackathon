@@ -1,0 +1,249 @@
+
+Pubmed-entry ::= {
+  pmid 27915210,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Functional brain imaging of walking while talking - An fNIRS
+ study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Metzger FG",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital of Tuebingen, Calwerstrasse 14, 72076 Tuebingen, Germany; Geriatric
+ Center, University Hospital of Tuebingen, Calwerstrasse 14, 72076 Tuebingen,
+ Germany. Electronic address: florian.Metzger@med.uni-tuebingen.de."
+          },
+          {
+            name ml "Ehlis AC",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital of Tuebingen, Calwerstrasse 14, 72076 Tuebingen, Germany. Electronic
+ address: ann-christine.ehlis@med.uni-tuebingen.de."
+          },
+          {
+            name ml "Haeussinger FB",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital of Tuebingen, Calwerstrasse 14, 72076 Tuebingen, Germany. Electronic
+ address: florian.haeussinger@med.uni-tuebingen.de."
+          },
+          {
+            name ml "Schneeweiss P",
+            affil str "Department of Sports Medicine, University Hospital of
+ Tuebingen, Hoppe-Seyler-Strasse 6, 72076 Tubingen, Germany. Electronic
+ address: patrick.schneeweiss@med.uni-tuebingen.de."
+          },
+          {
+            name ml "Hudak J",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital of Tuebingen, Calwerstrasse 14, 72076 Tuebingen, Germany. Electronic
+ address: justin.hudak@med.uni-tuebingen.de."
+          },
+          {
+            name ml "Fallgatter AJ",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital of Tuebingen, Calwerstrasse 14, 72076 Tuebingen, Germany; Center of
+ Integrative Neuroscience (CIN), Cluster of Excellence, University of
+ Tuebingen, Otfried-Muller-Strasse 25, 72076 Tubingen, Germany. Electronic
+ address: andreas.fallgatter@med.uni-tuebingen.de."
+          },
+          {
+            name ml "Schneider S",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital of Tuebingen, Calwerstrasse 14, 72076 Tuebingen, Germany; Department
+ of Psychology, HELP University Kuala Lumpur, Persiaran Cakerawala, Subang
+ Bestari, Seksyen U4, 40150 Shah Alam, Selangor, Malaysia. Electronic address:
+ s85sabrina@aol.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neuroscience",
+          ml-jta "Neuroscience",
+          issn "1873-7544",
+          name "Neuroscience"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2,
+            day 20
+          },
+          volume "343",
+          pages "85-93",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 11,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27915210,
+        pii "S0306-4522(16)30653-4",
+        doi "10.1016/j.neuroscience.2016.11.032",
+        other {
+          db "ELocationID pii",
+          tag str "S0306-4522(16)30653-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.neuroscience.2016.11.032"
+        }
+      }
+    },
+    abstract "Since functional imaging of whole body movements is not feasible
+ with functional magnetic resonance imaging (fMRI), the present study presents
+ in vivo functional near-infrared spectroscopy (fNIRS) as a suitable technique
+ to measure body movement effects on fronto-temporo-parietal cortical
+ activation in single- and dual-task paradigms. Previous fNIRS applications in
+ studies addressing whole body movements were typically limited to the
+ assessment of prefrontal brain areas. The current study investigated brain
+ activation in the frontal, temporal and parietal cortex of both hemispheres
+ using functional near-infrared spectroscopy (fNIRS) with two large 4x4
+ probe-sets with 24 channels each during single and dual gait tasks. 12 young
+ healthy adults were measured using fNIRS walking on a treadmill: the
+ participants performed two single-task (ST) paradigms (walking at different
+ speeds, i.e. 3 and 5km/h) and a dual task (DT) paradigm where a verbal
+ fluency task (VFT) had to be executed while walking at 3km/h. The results
+ show an increase of activation in Broca's area during the more advanced
+ conditions (ST 5km/h vs. ST 3km/h, DT vs. ST 3km/h, DT vs. 5km/h), while the
+ corresponding area on the right hemisphere was also activated. DT paradigms
+ including a cognitive task in conjunction with whole body movements elicit
+ wide-spread cortical activation patterns across fronto-temporo-parietal
+ areas. An elaborate assessment of these activation patterns requires more
+ extensive fNIRS assessments than the traditional prefrontal investigations,
+ e.g. as performed with portable fNIRS devices.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Cerebral Cortex",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Feasibility Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Functional Neuroimaging"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Nasal Provocation Tests"
+      },
+      {
+        term "Pilot Projects"
+      },
+      {
+        term "Spectroscopy, Near-Infrared"
+      },
+      {
+        term "Speech",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Walking",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 27915210,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

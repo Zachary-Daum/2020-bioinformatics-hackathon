@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 27903810,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Subthalamic nucleus deep brain stimulation in isolated dystonia:
+ A 3-year follow-up study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ostrem JL",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA. jill.ostrem@ucsf.edu."
+          },
+          {
+            name ml "San Luciano M",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "Dodenhoff KA",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "Ziman N",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "Markun LC",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "Racine CA",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "de Hemptinne C",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "Volz MM",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "Heath SL",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          },
+          {
+            name ml "Starr PA",
+            affil str "From the Department of Neurology, Movement Disorders
+ and Neuromodulation Center (J.L.O., M.S.L., K.A.D., N.Z., L.C.M., M.M.V.),
+ and Department of Neurological Surgery (C.A.R., C.d.H., P.A.S.), University
+ of California, San Francisco; and Parkinson's Disease Research, Education,
+ and Clinical Center (J.L.O., L.C.M., S.L.H., P.A.S.), San Francisco Veterans
+ Affairs Medical Center, CA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neurology",
+          ml-jta "Neurology",
+          issn "1526-632X",
+          name "Neurology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1,
+            day 3
+          },
+          volume "88",
+          issue "1",
+          pages "25-35",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 9,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27903810,
+        pii "WNL.0000000000003451",
+        doi "10.1212/WNL.0000000000003451",
+        other {
+          db "ELocationID doi",
+          tag str "10.1212/WNL.0000000000003451"
+        }
+      }
+    },
+    abstract "OBJECTIVE: To report long-term safety and efficacy outcomes of a
+ large cohort of patients with medically refractory isolated dystonia treated
+ with subthalamic nucleus (STN) deep brain stimulation (DBS). METHODS: Twenty
+ patients (12 male, 8 female; mean age 49 +/- 16.3 years) with medically
+ refractory isolated dystonia were studied (14 were followed for 36 months).
+ The primary endpoints were change in Burke-Fahn-Marsden Dystonia Rating Scale
+ (BFMDRS) motor score and Toronto Western Spasmodic Torticollis Rating Scale
+ (TWSTRS) total score at 36 months compared to preoperative baseline. Multiple
+ secondary outcomes were also assessed (ClinicalTrials.gov NCT00773604).
+ RESULTS: Eighteen of 20 patients showed improvement 12 months after STN DBS
+ with sustained benefit persisting for 3 years (n = 14). At 36 months, BFMDRS
+ motor scores improved 70.4% from a mean 17.9 +/- 8.5 to 5.3 +/- 5.6 (p =
+ 0.0002) and total TWSTRS scores improved 66.6% from a mean 41.0 +/- 18.9 to
+ 13.7 +/- 17.9 (p = 0.0002). Improvement at 36 months was equivalent to that
+ seen at 6 months. Disability and quality of life measures were also improved.
+ Three hardware-related and 24 stimulation-related nonserious adverse events
+ occurred between years 1 and 3 (including 4 patients with dyskinesia).
+ CONCLUSIONS: This study offers support for long-term tolerability and
+ sustained effectiveness of STN DBS in the treatment of severe forms of
+ isolated dystonia. CLASSIFICATION OF EVIDENCE: This study provides Class IV
+ evidence that STN DBS decreases long-term dystonia severity in patients with
+ medically refractory isolated dystonia.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Deep Brain Stimulation",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Dystonia",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neuropsychological Tests"
+      },
+      {
+        term "Severity of Illness Index"
+      },
+      {
+        term "Subthalamic Nucleus",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    xref {
+    },
+    pmid 27903810,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,231 @@
+
+Pubmed-entry ::= {
+  pmid 26537022,
+  medent {
+    em std {
+      year 2015,
+      month 11,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Characterization of the voltage-gated sodium channel of the
+ Asian citrus psyllid, Diaphorina citri."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu B",
+            affil str "Entomology and Nematology Department, Citrus Research
+ and Education Center, University of Florida, Florida, USA.; Key Laboratory of
+ Entomology and Pest Control Engineering, College of Plant Protection,
+ Southwest University, Chongqing, China."
+          },
+          {
+            name ml "Coy MR",
+            affil str "Entomology and Nematology Department, Citrus Research
+ and Education Center, University of Florida, Florida, USA."
+          },
+          {
+            name ml "Wang JJ",
+            affil str "Key Laboratory of Entomology and Pest Control
+ Engineering, College of Plant Protection, Southwest University, Chongqing,
+ China."
+          },
+          {
+            name ml "Stelinski LL",
+            affil str "Entomology and Nematology Department, Citrus Research
+ and Education Center, University of Florida, Florida, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Insect Sci.",
+          ml-jta "Insect Sci",
+          issn "1744-7917",
+          name "Insect science"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2
+          },
+          volume "24",
+          issue "1",
+          pages "47-59",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2015,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2015,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2015,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 26537022,
+        doi "10.1111/1744-7917.12288",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/1744-7917.12288"
+        }
+      }
+    },
+    abstract "The Asian citrus psyllid, Diaphorina citri Kuwayama (Hemiptera:
+ Liviidae), is an important insect pest of citrus. It is the vector of 
+'Candidatus' Liberibacter asiaticus, a phloem-limited bacterium that infects
+ citrus, resulting in the disease Huanglongbing (HLB). Disease management
+ relies heavily on suppression of D. citri populations with insecticides,
+ including pyrethroids. In recent annual surveys to monitor insecticide
+ resistance, reduced susceptibility to fenpropathrin was identified in several
+ field populations of D. citri. The primary target of pyrethroids is the
+ voltage-gated sodium channel (VGSC). The VGSC is prone to target-site
+ insensitivity because of mutations that either reduce pyrethroid binding
+ and/or alter gating kinetics. These mutations, known as knockdown resistance
+ or kdr, have been reported in a wide diversity of arthropod species.
+ Alternative splicing, in combination with kdr mutations, has been also
+ associated with reduced pyrethroid efficacy. Here we report the molecular
+ characterization of the VGSC in D. citri along with a survey of alternative
+ splicing across developmental stages of this species. Previous studies
+ demonstrated that D. citri has an exquisite enzymatic arsenal to detoxify
+ insecticides resulting in reduced efficacy. The results from the current
+ investigation demonstrate that target-site insensitivity is also a potential
+ basis for insecticide resistance to pyrethroids in D. citri. The VGSC
+ sequence and its molecular characterization should facilitate early
+ elucidation of the underlying cause of an established case of resistance to
+ pyrethroids. This is the first characterization of a VGSC from a hemipteran
+ to this level of detail, with the majority of the previous studies on
+ dipterans and lepidopterans.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Citrus",
+        qual {
+          {
+            subh "parasitology"
+          }
+        }
+      },
+      {
+        term "Hemiptera",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "growth & development"
+          }
+        }
+      },
+      {
+        term "Insect Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Insect Vectors"
+      },
+      {
+        term "Insecticide Resistance"
+      },
+      {
+        mp TRUE,
+        term "Insecticides"
+      },
+      {
+        term "Mutation"
+      },
+      {
+        term "Nymph"
+      },
+      {
+        mp TRUE,
+        term "Pyrethrins"
+      },
+      {
+        term "Voltage-Gated Sodium Channels",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Insect Proteins"
+      },
+      {
+        type nameonly,
+        name "Insecticides"
+      },
+      {
+        type nameonly,
+        name "Pyrethrins"
+      },
+      {
+        type nameonly,
+        name "Voltage-Gated Sodium Channels"
+      },
+      {
+        type cas,
+        cit "87BH96P0MX",
+        name "fenpropathrin"
+      }
+    },
+    pmid 26537022,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+
