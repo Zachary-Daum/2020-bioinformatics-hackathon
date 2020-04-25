@@ -16,9 +16,7 @@ def process_content():
             words = nltk.word_tokenize(i)
             tagged = nltk.pos_tag(words)
             print(tagged)
-            gram = "NP: {<NN.?>*<VBZ.?>*}"
-            cp = nltk.RegexpParser(gram)
-            result = cp.parse(tagged)
+            
 
             result.draw()
     except Exception as e:
