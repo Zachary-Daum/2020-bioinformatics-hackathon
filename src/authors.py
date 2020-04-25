@@ -1,4 +1,3 @@
-import re
 #create file names to draw data from
 with open('data/fake_pmids.txt', 'r') as fakeid:
     fakeid = fakeid.readlines()
