@@ -1,1 +1,217 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28158847,
+  medent {
+    em std {
+      year 2017,
+      month 2,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Gendered Expectations Distort Male-Female Differences in
+ Instrumental Activities of Daily Living in Later Adulthood."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sheehan CM",
+            affil str "Population Research Center and Department of Sociology,
+ University of Texas at Austin."
+          },
+          {
+            name ml "Tucker-Drob EM",
+            affil str "Population Research Center and Department of
+ Psychology, University of Texas at Austin."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Gerontol B Psychol Sci Soc Sci",
+          ml-jta "J Gerontol B Psychol Sci Soc Sci",
+          issn "1758-5368",
+          name "The journals of gerontology. Series B, Psychological sciences
+ and social sciences"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4,
+            day 12
+          },
+          volume "74",
+          issue "4",
+          pages "715-723",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 2,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28158847,
+        pii "2965376",
+        doi "10.1093/geronb/gbw209",
+        other {
+          db "pmc",
+          tag str "PMC6460339"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/geronb/gbw209"
+        }
+      }
+    },
+    abstract "OBJECTIVES: The ability of older adults to live independently is
+ often assessed with a battery of questions known as Instrumental Activities
+ of Daily Living (IADLs). Many of these questions query the difficulty
+ conducting household activities that have been predominantly conducted by
+ women (e.g., the ability to prepare a meal), especially for cohorts now in
+ old age. Although previous research has documented gender differences in IADL
+ limitations, it has not been documented whether IADLs equivalently measure
+ the same latent construct for men and women. METHODS: We apply psychometric
+ tests of measurement invariance to data from the 1998 Health and Retirement
+ Study. We then estimate corrected models that account for violations of
+ measurement invariance across genders. RESULTS: We find that IADLs do not
+ equivalently measure same latent construct for men and women. We find that
+ men are more likely not to do the IADL activities for reasons unrelated to
+ health limitations, which may reflect gendered expectations regarding
+ household activities. Accounting for this we still find that women report
+ greater health-related IADL limitations than men. DISCUSSION: Researchers
+ should be cautious making gender comparisons for IADLs without attending to
+ the gender-specific measurement properties of many of the items of which the
+ IADL is comprised.",
+    mesh {
+      {
+        term "Activities of Daily Living",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aging",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Analysis of Variance"
+      },
+      {
+        term "Disability Evaluation"
+      },
+      {
+        mp TRUE,
+        term "Family Characteristics"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gender Identity"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Independent Living",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Psychometrics",
+        qual {
+          {
+            subh "methods"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Sex Factors"
+      }
+    },
+    idnum {
+      "P2C HD042849/HD/NICHD NIH HHS",
+      "R24 HD042849/HD/NICHD NIH HHS",
+      "T32 HD007081/HD/NICHD NIH HHS"
+    },
+    pmid 28158847,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

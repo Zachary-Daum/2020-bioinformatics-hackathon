@@ -1,0 +1,317 @@
+
+Pubmed-entry ::= {
+  pmid 28497745,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Preventive efficacy of NexGard Spectra((R)) against Dipylidium
+ caninum infection in dogs using a natural flea (Ctenocephalides felis)
+ infestation model.",
+        trans "Efficacite preventive de NexGard Spectra((R)) contre l
+'infection par Dipylidium caninum chez les chiens, utilisant un modele d
+'infestation naturelle par des puces (Ctenocephalides felis)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Beugnet F",
+            affil str "Merial, 29 avenue Tony Garnier, 69007 Lyon, France."
+          },
+          {
+            name ml "Meyer L",
+            affil str "ClinVet International (Pty) Ltd, 9321 Universitas,
+ South Africa."
+          },
+          {
+            name ml "Fourie J",
+            affil str "ClinVet International (Pty) Ltd, 9321 Universitas,
+ South Africa."
+          },
+          {
+            name ml "Larsen D",
+            affil str "Merial, 29 avenue Tony Garnier, 69007 Lyon, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Parasite",
+          ml-jta "Parasite",
+          issn "1776-1042",
+          name "Parasite (Paris, France)"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "24",
+          pages "16",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 4,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28497745,
+        doi "10.1051/parasite/2017017",
+        pii "parasite170013",
+        other {
+          db "pmc",
+          tag str "PMC5432962"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1051/parasite/2017017"
+        }
+      }
+    },
+    abstract "The efficacy of a monthly oral endectocide product, NexGard
+ Spectra((R)) (Merial), a combination of afoxolaner and milbemycin oxime, was
+ evaluated in a flea (Ctenocephalides felis) challenge model for the
+ prevention of Dipylidium caninum tapeworm infection in dogs. The efficacy of
+ treatment with NexGard Spectra((R)) was assessed in 10 dogs following weekly
+ flea infestation with metacestode naturally infected fleas and compared with
+ that in 10 untreated control dogs. The 100 fleas deposited weekly on each dog
+ were not removed until Day 35, allowing enough time for their ingestion. The
+ microscopical analysis of 30 fleas from the flea batches before each weekly
+ challenge demonstrated that 10-33% of the fleas were infected by D. caninum
+ cysticercoid larvae. The arithmetic mean flea count recorded was 47.7 for the
+ 10 untreated dogs and 0 for the 10 treated dogs at Day 35. Based on the daily
+ collection of expelled D. caninum proglottids by dogs during the 70 days of
+ the study, 70% (7/10) of the control dogs and 0% (0/10) of the treated dogs
+ were infected with D. caninum (p < 0.0031). Through its efficacy against
+ fleas, NexGard Spectra((R)) treatment provided indirect prevention of D.
+ caninum infestation. No treatment-related adverse events were observed in
+ dogs during this study.",
+    mesh {
+      {
+        term "Administration, Oral"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anthelmintics",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Cestoda",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cestode Infections",
+        qual {
+          {
+            subh "prevention & control"
+          },
+          {
+            subh "transmission"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Ctenocephalides",
+        qual {
+          {
+            mp TRUE,
+            subh "parasitology"
+          }
+        }
+      },
+      {
+        term "Dog Diseases",
+        qual {
+          {
+            subh "parasitology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          },
+          {
+            subh "transmission"
+          }
+        }
+      },
+      {
+        term "Dogs"
+      },
+      {
+        term "Drug Combinations"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Flea Infestations",
+        qual {
+          {
+            subh "parasitology"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Isoxazoles",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Macrolides",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Naphthalenes",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anthelmintics"
+      },
+      {
+        type nameonly,
+        name "Drug Combinations"
+      },
+      {
+        type nameonly,
+        name "Isoxazoles"
+      },
+      {
+        type nameonly,
+        name "Macrolides"
+      },
+      {
+        type nameonly,
+        name "Naphthalenes"
+      },
+      {
+        type cas,
+        cit "02L07H6D0U",
+        name "afoxolaner"
+      },
+      {
+        type cas,
+        cit "0502PUN0GT",
+        name "milbemycin oxime"
+      }
+    },
+    pmid 28497745,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

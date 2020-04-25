@@ -1,0 +1,295 @@
+
+Pubmed-entry ::= {
+  pmid 28525976,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The adaptation of colorectal cancer cells when forming
+ metastases in the liver: expression of associated genes and pathways in a
+ mouse model."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bocuk D",
+            affil str "Department of General, Visceral and Paediatric Surgery,
+ University Medical Centre, Georg - August - University Goettingen, Gottingen,
+ Germany."
+          },
+          {
+            name ml "Wolff A",
+            affil str "Statistical Bioinformatics, Department of Medical
+ Statistics, University Medical Centre, Georg - August - University
+ Goettingen, Gottingen, Germany."
+          },
+          {
+            name ml "Krause P",
+            affil str "Department of General, Visceral and Paediatric Surgery,
+ University Medical Centre, Georg - August - University Goettingen, Gottingen,
+ Germany."
+          },
+          {
+            name ml "Salinas G",
+            affil str "Microarray and Deep-Sequencing Core Facility, Institute
+ for Developmental Biochemistry, University Medical Centre, Georg - August -
+ University Goettingen, Gottingen, Germany."
+          },
+          {
+            name ml "Bleckmann A",
+            affil str "Statistical Bioinformatics, Department of Medical
+ Statistics, University Medical Centre, Georg - August - University
+ Goettingen, Gottingen, Germany.; Department of Haematology and Medical
+ Oncology, University Medical Centre, Georg - August - University Goettingen,
+ Gottingen, Germany."
+          },
+          {
+            name ml "Hackl C",
+            affil str "Department of Surgery, University Hospital Regensburg,
+ Regensburg, Germany."
+          },
+          {
+            name ml "Beissbarth T",
+            affil str "Statistical Bioinformatics, Department of Medical
+ Statistics, University Medical Centre, Georg - August - University
+ Goettingen, Gottingen, Germany."
+          },
+          {
+            name ml "Koenig S",
+            affil str "Department of General, Visceral and Paediatric Surgery,
+ University Medical Centre, Georg - August - University Goettingen, Gottingen,
+ Germany. koenig_sarah@ukw.de.; Medical Teaching and Medical Education
+ Research, University Hospital Wuerzburg, Julius-Maximilians-University
+ Wuerzburg, Josef-Schneider-Str. 2/D6, 97080, Wuerzburg, Germany.
+ koenig_sarah@ukw.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5,
+            day 19
+          },
+          volume "17",
+          issue "1",
+          pages "342",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 11
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28525976,
+        doi "10.1186/s12885-017-3342-1",
+        pii "10.1186/s12885-017-3342-1",
+        other {
+          db "pmc",
+          tag str "PMC5437520"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-017-3342-1"
+        }
+      }
+    },
+    abstract "BACKGROUND: Colorectal cancer (CRC) is the second leading cause
+ of cancer-related death in men and women. Systemic disease with metastatic
+ spread to distant sites such as the liver reduces the survival rate
+ considerably. The aim of this study was to investigate the changes in gene
+ expression that occur on invasion and expansion of CRC cells when forming
+ metastases in the liver. METHODS: The livers of syngeneic C57BL/6NCrl mice
+ were inoculated with 1 million CRC cells (CMT-93) via the portal vein,
+ leading to the stable formation of metastases within 4 weeks. RNA sequencing
+ performed on the Illumina platform was employed to evaluate the expression
+ profiles of more than 14,000 genes, utilizing the RNA of the cell line cells
+ and liver metastases as well as from corresponding tumour-free liver.
+ RESULTS: A total of 3329 differentially expressed genes (DEGs) were
+ identified when cultured CMT-93 cells propagated as metastases in the liver.
+ Hierarchical clustering on heat maps demonstrated the clear changes in gene
+ expression of CMT-93 cells on propagation in the liver. Gene ontology
+ analysis determined inflammation, angiogenesis, and signal transduction as
+ the top three relevant biological processes involved. Using a selection list,
+ matrix metallopeptidases 2, 7, and 9, wnt inhibitory factor, and chemokine
+ receptor 4 were the top five significantly dysregulated genes. CONCLUSION:
+ Bioinformatics assists in elucidating the factors and processes involved in
+ CRC liver metastasis. Our results support the notion of an
+ invasion-metastasis cascade involving CRC cells forming metastases on
+ successful invasion and expansion within the liver. Furthermore, we
+ identified a gene expression signature correlating strongly with invasiveness
+ and migration. Our findings may guide future research on novel therapeutic
+ targets in the treatment of CRC liver metastasis.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "High-Throughput Nucleotide Sequencing"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "secondary"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Portal Vein",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      }
+    },
+    pmid 28525976,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

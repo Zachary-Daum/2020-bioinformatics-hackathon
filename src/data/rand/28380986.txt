@@ -1,1 +1,112 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28380986,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Nonlinear control system for optical interferometry based on
+ variable structure control and sliding modes."
+      },
+      authors {
+        names ml {
+          "Martin RI",
+          "Sakamoto JM",
+          "Teixeira MC",
+          "Martinez GA",
+          "Pereira FC",
+          "Kitano C"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Opt Express",
+          ml-jta "Opt Express",
+          issn "1094-4087",
+          name "Optics express"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3,
+            day 20
+          },
+          volume "25",
+          issue "6",
+          pages "6335-6348",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 4,
+                day 7,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28380986,
+        pii "361538",
+        doi "10.1364/OE.25.006335",
+        other {
+          db "ELocationID doi",
+          tag str "10.1364/OE.25.006335"
+        }
+      }
+    },
+    abstract "This work presents a novel nonlinear control system designed for
+ interferometry based on variable structure control and sliding modes. This
+ approach can fully compensate the nonlinear behavior of the interferometer
+ and lead to high accuracy control for large disturbances, featuring low cost,
+ ease of implementation and high robustness, without a reset circuit (when
+ compared with a linear control system). A deep stability analysis was
+ accomplished and the global asymptotic stability of the system was proved.
+ The results showed that the nonlinear control is able to keep the
+ interferometer in the quadrature point and suppress signal fading for
+ arbitrary signals, sinusoidal signals, or zero input signal, even under
+ strong external disturbances. The system showed itself suitable to
+ characterize a multi-axis piezoelectric flextentional actuator, which
+ displacements that are much smaller than half wavelength. The high robustness
+ allows the system to be embedded and to operate in harsh environments as
+ factories, bringing the interferometry outside the laboratory.",
+    pmid 28380986,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

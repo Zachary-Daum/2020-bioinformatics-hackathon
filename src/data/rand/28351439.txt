@@ -1,1 +1,182 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28351439,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Revision of the Dutch College of General Practitioners practice
+ guideline 'Children with fever'].",
+        trans "Herziene NHG-standaard 'Kinderen met koorts'."
+      },
+      authors {
+        names std {
+          {
+            name ml "Eizenga WE",
+            affil str "*Namens de werkgroep NHG-standaard 'Kinderen met koorts
+', waarvan de leden aan het eind van dit artikel staan vermeld."
+          },
+          {
+            name ml "Opstelten W"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ned Tijdschr Geneeskd",
+          ml-jta "Ned Tijdschr Geneeskd",
+          issn "1876-8784",
+          name "Nederlands tijdschrift voor geneeskunde"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "161",
+          pages "D1199",
+          language "dut",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28351439
+      }
+    },
+    abstract "- Fever in children is usually caused by benign viral
+ infection.- Approximately 1-10% of children with fever has or develops a
+ serious infection such as pneumonia, meningitis or pyelonephritis.- It is
+ more important to timely recognize symptoms that may indicate a potentially
+ serious disease course than to make an exact diagnosis.- Children < 3 months
+ are at greater risk for a serious disease course.- During follow-up it is
+ important to provide parents with proper advice on the expected disease
+ course and who they should contact, and when, in cases of deterioration or
+ concern.- Paracetamol or ibuprofen should only be given when there is a
+ combination of fever and pain. Combating fever is not an end in itself.",
+    mesh {
+      {
+        term "Acetaminophen",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Family Practice"
+      },
+      {
+        term "Fever",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "General Practitioners",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ibuprofen",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Netherlands"
+      },
+      {
+        term "Pain",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Practice Guidelines as Topic"
+      },
+      {
+        mp TRUE,
+        term "Practice Patterns, Physicians'"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "362O9ITL9D",
+        name "Acetaminophen"
+      },
+      {
+        type cas,
+        cit "WK2XYI10QM",
+        name "Ibuprofen"
+      }
+    },
+    pmid 28351439,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

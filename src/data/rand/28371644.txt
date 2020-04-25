@@ -1,1 +1,221 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28371644,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Smoking and survival of breast cancer patients: A meta-analysis
+ of cohort studies."
+      },
+      authors {
+        names std {
+          {
+            name ml "Duan W",
+            affil str "Department of Epidemiology and Biostatistics, Shandong
+ University, Jinan 250012, Shandong, PR China."
+          },
+          {
+            name ml "Li S",
+            affil str "Department of Epidemiology and Biostatistics, Shandong
+ University, Jinan 250012, Shandong, PR China."
+          },
+          {
+            name ml "Meng X",
+            affil str "Department of Epidemiology and Biostatistics, Shandong
+ University, Jinan 250012, Shandong, PR China."
+          },
+          {
+            name ml "Sun Y",
+            affil str "Department of Epidemiology and Biostatistics, Shandong
+ University, Jinan 250012, Shandong, PR China."
+          },
+          {
+            name ml "Jia C",
+            affil str "Department of Epidemiology and Biostatistics, Shandong
+ University, Jinan 250012, Shandong, PR China. Electronic address:
+ jiachongqi@sdu.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Breast",
+          ml-jta "Breast",
+          issn "1532-3080",
+          name "Breast (Edinburgh, Scotland)"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "33",
+          pages "117-124",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 3,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28371644,
+        pii "S0960-9776(17)30419-8",
+        doi "10.1016/j.breast.2017.03.012",
+        other {
+          db "ELocationID pii",
+          tag str "S0960-9776(17)30419-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.breast.2017.03.012"
+        }
+      }
+    },
+    abstract "OBJECTIVES: Published articles reported controversial results
+ about the association of breast cancer survival with smoking. Hence, a
+ meta-analysis was performed to investigate this association. METHODS: A
+ comprehensive search was performed to identify relevant cohort studies (up to
+ May 31st, 2016). In the current smoking and former smoking v. never smoking
+ analyses, the fixed- or random-effect model was selected based on the
+ heterogeneity test among studies. And the heterogeneity was measured using Q
+ test and I(2) statistic. Publication bias was estimated using Egger's
+ regression asymmetry test. RESULTS: Thirteen articles with 44 studies were
+ included. Compared with never smokers, current smokers have a higher breast
+ cancer-specific mortality and all-cause mortality, with pooled hazard ratio
+ (HR) (HR = 1.30 95%CI: 1.16-1.45; I(2) = 52.4%) and (HR = 1.59, 95%CI:
+ 1.41-1.78; I(2) = 87.1%), respectively. While former smokers tend to have a
+ moderately increased all-cause mortality (HR = 1.10, 95%CI: 1.07-1.12; I(2) =
+ 0.0%), but there was no significant association between former smoking and
+ breast cancer-specific mortality (HR = 0.95, 95%CI: 0.90-1.02; I(2) = 0.0%).
+ CONCLUSION: The present evidence indicates that current smoking leads to
+ higher breast cancer-specific mortality and all-cause mortality than never
+ smoking in breast cancer patients. However former smoking just causes a mild
+ increase in all-cause morality, but not breast cancer-specific mortality.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Cause of Death"
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Proportional Hazards Models"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Smoking",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 28371644,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

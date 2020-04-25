@@ -1,1 +1,215 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28121760,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Striving for Optimum Noise-Decreasing Strategies in Critical
+ Care: Initial Measurements and Observations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Disher TC",
+            affil str "IWK Health Centre, Halifax, Nova Scotia, Canada (Messrs
+ Disher and Sheppard, Drs Benoit, Jangaard, Morrison, and Campbell-Yeo, and
+ Mss Inglis, Burgess, Ellsmere, Hewitt, and Bishop); and Dalhousie University,
+ Halifax, Nova Scotia, Canada (Mr Disher and Ms Benoit, Drs Jangaard,
+ Morrison, and Campbell-Yeo)."
+          },
+          {
+            name ml "Benoit B"
+          },
+          {
+            name ml "Inglis D"
+          },
+          {
+            name ml "Burgess SA"
+          },
+          {
+            name ml "Ellsmere B"
+          },
+          {
+            name ml "Hewitt BE"
+          },
+          {
+            name ml "Bishop TM"
+          },
+          {
+            name ml "Sheppard CL"
+          },
+          {
+            name ml "Jangaard KA"
+          },
+          {
+            name ml "Morrison GC"
+          },
+          {
+            name ml "Campbell-Yeo ML"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Perinat Neonatal Nurs",
+          ml-jta "J Perinat Neonatal Nurs",
+          issn "1550-5073",
+          name "The Journal of perinatal & neonatal nursing"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1
+          },
+          volume "31",
+          issue "1",
+          pages "58-66",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28121760,
+        doi "10.1097/JPN.0000000000000229",
+        pii "00005237-201701000-00013",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/JPN.0000000000000229"
+        }
+      }
+    },
+    abstract "To identify baseline sound levels, patterns of sound levels, and
+ potential barriers and facilitators to sound level reduction. The study
+ setting was neonatal and pediatric intensive care units in a tertiary care
+ hospital. Participants were staff in both units and parents of currently
+ hospitalized children or infants. One 24-hour sound measurements and one
+ 4-hour sound measurement linked to observed sound events were conducted in
+ each area of the center's neonatal intensive care unit. Two of each
+ measurement type were conducted in the pediatric intensive care unit. Focus
+ groups were conducted with parents and staff. Transcripts were analyzed with
+ descriptive content analysis and themes were compared against results from
+ quantitative measurements. Sound levels exceeded recommended standards at
+ nearly every time point. The most common code was related to talking. Themes
+ from focus groups included the critical care context and sound levels,
+ effects of sound levels, and reducing sound levels-the way forward. Results
+ are consistent with work conducted in other critical care environments. Staff
+ and families realize that high sound levels can be a problem, but feel that
+ the culture and context are not supportive of a quiet care space. High levels
+ of ambient sound suggest that the largest changes in sound levels are likely
+ to come from design and equipment purchase decisions. L10 and Lmax appear to
+ be the best outcomes for measurement of behavioral interventions.",
+    mesh {
+      {
+        term "Environmental Exposure",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Environmental Monitoring",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Equipment and Supplies, Hospital"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Focus Groups"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Intensive Care Units, Neonatal",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Noise, Occupational",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Nursing Staff, Hospital",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      }
+    },
+    pmid 28121760,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,1 +1,161 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28393297,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Injuries Among School-aged Children of Immigrants."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chang J",
+            affil str "Boston University School of Social Work, 264 Bay State
+ Road, Boston, MA, 02215, USA. jina@bu.edu."
+          },
+          {
+            name ml "Miller DP",
+            affil str "Boston University School of Social Work, 264 Bay State
+ Road, Boston, MA, 02215, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Immigr Minor Health",
+          ml-jta "J Immigr Minor Health",
+          issn "1557-1920",
+          name "Journal of immigrant and minority health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "20",
+          issue "4",
+          pages "841-847",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28393297,
+        doi "10.1007/s10903-017-0575-7",
+        pii "10.1007/s10903-017-0575-7",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10903-017-0575-7"
+        }
+      }
+    },
+    abstract "In response to a dearth of research on injuries among children
+ of immigrants, this study examined child injury rates by immigrant
+ generation. We used generalized estimating equations and nationally
+ representative data to estimate injury risk for school-aged children of
+ immigrants of different generations compared to children of native, US-born
+ parents. After controlling for multiple other factors including socioeconomic
+ status, citizenship, and children's general health, both 1st and 2nd
+ generation school-aged children had significantly lower odds of having
+ injuries compared to children of natives. Additional analyses also found
+ lower odds of injuries among 1st and 2nd generation children relative to
+ children of natives that persisted in both lower- and higher-income families.
+ The findings suggest that 1st and 2nd generation immigrant families possess
+ factors that protect children from injury independent of socioeconomic
+ status. Policy and program development would benefit from a clearer
+ understanding of these protective factors.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Emigrants and Immigrants",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Exercise"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Status"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Socioeconomic Factors"
+      },
+      {
+        term "Wounds and Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "ethnology"
+          }
+        }
+      }
+    },
+    pmid 28393297,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

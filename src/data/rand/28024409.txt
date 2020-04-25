@@ -1,1 +1,194 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"4","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28024409,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Exercise Self-Efficacy Scale: Validation of the Arabic Version
+ Among Jordanians With Chronic Diseases."
+      },
+      authors {
+        names std {
+          {
+            name ml "Darawad MW",
+            affil str "1 The University of Jordan, Amman, Jordan.; 2
+ University of Dammam, Saudi Arabia."
+          },
+          {
+            name ml "Hamdan-Mansour AM",
+            affil str "1 The University of Jordan, Amman, Jordan."
+          },
+          {
+            name ml "Khalil AA",
+            affil str "1 The University of Jordan, Amman, Jordan."
+          },
+          {
+            name ml "Arabiat D",
+            affil str "1 The University of Jordan, Amman, Jordan.; 3 Edith
+ Cowan University, Joondalup, Australia."
+          },
+          {
+            name ml "Samarkandi OA",
+            affil str "4 King SaudUniversity, Riyadh, Saudi Arabia."
+          },
+          {
+            name ml "Alhussami M",
+            affil str "1 The University of Jordan, Amman, Jordan.; 2
+ University of Dammam, Saudi Arabia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Nurs Res",
+          ml-jta "Clin Nurs Res",
+          issn "1552-3799",
+          name "Clinical nursing research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "27",
+          issue "7",
+          pages "890-906",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28024409,
+        doi "10.1177/1054773816683504",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1054773816683504"
+        }
+      }
+    },
+    abstract "This study assessed the psychometric properties of the Arabic
+ version of Exercise Self-Efficacy scale (ESE-A) among Jordanian outpatients
+ with a variety of chronic diseases using descriptive cross-sectional design.
+ Participants' scores of ESE-A significantly correlated with their reported
+ weekly exercise frequency ( r = .23, p< .001), duration ( r = .31, p< .001),
+ and evaluation of their physical exercise ( r = .39, p< .001). The construct
+ validity was tested using exploratory factor analysis, which retained all
+ items, and the scree plot showed one meaningful factor with an eigenvalue of
+ 10.38 and an explained variance of 57.7%. Furthermore, Cronbach's alpha was
+ .89 and split-half coefficient was .83 indicating that the ESE-A is a
+ reliable scale. The ESE-A was found to be a robust measure to evaluate
+ exercise self-efficacy among Arabic patients with chronic diseases. Arabic
+ researchers interested in exercise self-efficacy are invited to utilize the
+ ESE-A in their studies to confirm its psychometric properties.",
+    mesh {
+      {
+        mp TRUE,
+        term "Chronic Disease"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Diabetes Mellitus",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Exercise",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypertension",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Jordan"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Psychometrics"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        mp TRUE,
+        term "Self Efficacy"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 28024409,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Validation Study"
+    },
+    status medline
+  }
+}
+
+

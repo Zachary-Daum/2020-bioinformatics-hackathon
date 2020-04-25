@@ -1,1 +1,169 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"4","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 27994856,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "C3 glomerulopathy in adults: a distinct patient subset showing
+ frequent association with monoclonal gammopathy and poor renal outcome."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lloyd IE",
+            affil str "Department of Pathology, University of Utah, 1950
+ Circle of Hope Drive, Room N3100, Salt Lake City, UT 84112, USA."
+          },
+          {
+            name ml "Gallan A",
+            affil str "Department of Pathology, University of Chicago,
+ Chicago, IL, USA."
+          },
+          {
+            name ml "Huston HK",
+            affil str "Department of Internal Medicine, University of Utah,
+ Salt Lake City, UT, USA."
+          },
+          {
+            name ml "Raphael KL",
+            affil str "Department of Internal Medicine, University of Utah,
+ Salt Lake City, UT, USA."
+          },
+          {
+            name ml "Miller DV",
+            affil str "Department of Pathology, University of Utah, 1950
+ Circle of Hope Drive, Room N3100, Salt Lake City, UT 84112, USA."
+          },
+          {
+            name ml "Revelo MP",
+            affil str "Department of Pathology, University of Utah, 1950
+ Circle of Hope Drive, Room N3100, Salt Lake City, UT 84112, USA."
+          },
+          {
+            name ml "Khalighi MA",
+            affil str "Department of Pathology, University of Utah, 1950
+ Circle of Hope Drive, Room N3100, Salt Lake City, UT 84112, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Kidney J",
+          ml-jta "Clin Kidney J",
+          issn "2048-8505",
+          name "Clinical kidney journal"
+        },
+        imp {
+          date std {
+            year 2016,
+            month 12
+          },
+          volume "9",
+          issue "6",
+          pages "794-799",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 8,
+                day 4
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2016,
+                month 12,
+                day 21,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27994856,
+        doi "10.1093/ckj/sfw090",
+        pii "sfw090",
+        other {
+          db "pmc",
+          tag str "PMC5162413"
+        }
+      }
+    },
+    abstract "BACKGROUND: C3 glomerulopathy (C3G) includes both C3
+ glomerulonephritis (C3GN) and dense deposit disease (DDD) and is defined by
+ C3-dominant deposits on immunofluorescence. Dysfunction of the alternative
+ pathway (AP) of complement is central to the pathophysiology of C3G and young
+ patients often harbor genetic alterations of AP mediators. Recently, a link
+ between C3G and paraproteinemia has been established. We performed this study
+ to better characterize older patients with C3G where this association is more
+ frequently seen. METHODS: Fourteen biopsies from 12 patients meeting
+ diagnostic criteria for C3G were identified in patients > 49 years of age
+ from 2005 to 2015 after exclusion of cases containing masked monotypic
+ immunoglobulin deposits. Pathologic and clinical features were reviewed.
+ RESULTS: The median age was 63.5 years and 75% of patients were male. All had
+ renal insufficiency at presentation. Kidney biopsy showed DDD in three
+ patients and C3GN in the remainder. Serum protein electrophoresis revealed a
+ paraprotein in 10 patients, 8 of which had a plasma cell dyscrasia on bone
+ marrow biopsy. A membranoproliferative pattern of glomerular injury was seen
+ in 64% of biopsies, while mesangial proliferative and endocapillary
+ proliferative patterns were seen less frequently. Among patients with at
+ least 1 year of follow-up (n = 9), five were on renal replacement therapy,
+ three showed stable (but impaired) kidney function and one demonstrated
+ improvement. CONCLUSIONS: C3G is an uncommon but important cause of kidney
+ injury in older adults and associates with a high prevalence of
+ paraproteinemia. In adult patients with C3G, prognosis is guarded as most
+ patients showed either progression to end-stage kidney disease or stable but
+ impaired kidney function.",
+    idnum {
+      "IK2 CX000537/CX/CSRD VA"
+    },
+    pmid 27994856,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

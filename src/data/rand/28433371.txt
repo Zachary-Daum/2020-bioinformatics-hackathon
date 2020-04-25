@@ -1,0 +1,335 @@
+
+Pubmed-entry ::= {
+  pmid 28433371,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "In vitro fertilization with preimplantation genetic diagnosis
+ for aneuploidies in advanced maternal age: a randomized, controlled study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rubio C",
+            affil str "Igenomix Valencia/INCLIVA, Valencia, Spain. Electronic
+ address: carmen.rubio@igenomix.com."
+          },
+          {
+            name ml "Bellver J",
+            affil str "Instituto Valenciano de Infertilidad, Valencia
+ University, Valencia, Spain; Department of Pediatrics, Obstetrics and
+ Gynecology, School of Medicine, Valencia University, Valencia, Spain."
+          },
+          {
+            name ml "Rodrigo L",
+            affil str "Igenomix Valencia/INCLIVA, Valencia, Spain."
+          },
+          {
+            name ml "Castillon G",
+            affil str "Instituto Valenciano de Infertilidad, Barcelona, Spain."
+          },
+          {
+            name ml "Guillen A",
+            affil str "Instituto Valenciano de Infertilidad, Madrid,
+ Universidad Juan Carlos I, Madrid, Spain."
+          },
+          {
+            name ml "Vidal C",
+            affil str "Instituto Valenciano de Infertilidad, Valencia
+ University, Valencia, Spain."
+          },
+          {
+            name ml "Giles J",
+            affil str "Instituto Valenciano de Infertilidad, Valencia
+ University, Valencia, Spain."
+          },
+          {
+            name ml "Ferrando M",
+            affil str "Instituto Valenciano de Infertilidad, Bilbao, Spain."
+          },
+          {
+            name ml "Cabanillas S",
+            affil str "Instituto Valenciano de Infertilidad, Valencia
+ University, Valencia, Spain."
+          },
+          {
+            name ml "Remohi J",
+            affil str "Instituto Valenciano de Infertilidad, Valencia
+ University, Valencia, Spain; Department of Pediatrics, Obstetrics and
+ Gynecology, School of Medicine, Valencia University, Valencia, Spain."
+          },
+          {
+            name ml "Pellicer A",
+            affil str "Instituto Valenciano de Infertilidad, Valencia
+ University, Valencia, Spain; Department of Pediatrics, Obstetrics and
+ Gynecology, School of Medicine, Valencia University, Valencia, Spain;
+ Instituto de Investigacion Sanitaria La Fe, Valencia, Spain."
+          },
+          {
+            name ml "Simon C",
+            affil str "Igenomix Valencia/INCLIVA, Valencia, Spain; Instituto
+ Valenciano de Infertilidad, Valencia University, Valencia, Spain; Department
+ of Pediatrics, Obstetrics and Gynecology, School of Medicine, Valencia
+ University, Valencia, Spain."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Fertil. Steril.",
+          ml-jta "Fertil Steril",
+          issn "1556-5653",
+          name "Fertility and sterility"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "107",
+          issue "5",
+          pages "1122-1129",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 1,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28433371,
+        pii "S0015-0282(17)30254-6",
+        doi "10.1016/j.fertnstert.2017.03.011",
+        other {
+          db "ELocationID pii",
+          tag str "S0015-0282(17)30254-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.fertnstert.2017.03.011"
+        }
+      }
+    },
+    abstract "OBJECTIVE: To determine the clinical value of preimplantation
+ genetic diagnosis for aneuploidy screening (PGD-A) in women of advanced
+ maternal age (AMA; between 38 and 41 years). DESIGN: This was a multicenter,
+ randomized trial with two arms: a PGD-A group with blastocyst transfer, and a
+ control group with blastocyst transfer without PGD-A. SETTING: Private
+ reproductive centers. PATIENT(S): A total of 326 recruited patients fit the
+ inclusion criteria, and 205 completed the study (100 in the PGD-A group and
+ 105 in the control group). INTERVENTION(S): Day-3 embryo biopsy, array
+ comparative genomic hybridization, blastocyst transfer, and vitrification.
+ MAIN OUTCOME MEASURE(S): Primary outcomes were delivery and live birth rates
+ in the first transfer and cumulative outcome rates. RESULT(S): The PGD-A
+ group exhibited significantly fewer ETs (68.0% vs. 90.5% for control) and
+ lower miscarriage rates (2.7% vs. 39.0% for control). Delivery rate after the
+ first transfer attempt was significantly higher in the PGD-A group per
+ transfer (52.9% vs 24.2%) and per patient (36.0% vs. 21.9%). No significant
+ differences were observed in the cumulative delivery rates per patient 6
+ months after closing the study. However, the mean number of ETs needed per
+ live birth was lower in the PGD-A group compared with the control group (1.8
+ vs. 3.7), as was the time to pregnancy (7.7 vs. 14.9 weeks). CONCLUSION(S):
+ Preimplantation genetic diagnosis for aneuploidy screening is superior
+ compared with controls not only in clinical outcome at the first ET but also
+ in dramatically decreasing miscarriage rates and shortening the time to
+ pregnancy.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Age Distribution"
+      },
+      {
+        mp TRUE,
+        term "Aneuploidy"
+      },
+      {
+        term "Chromosome Disorders",
+        qual {
+          {
+            subh "embryology"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Embryo Implantation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Embryo Transfer",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Fertilization in Vitro",
+        qual {
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Genetic Counseling",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Genetic Testing",
+        qual {
+          {
+            subh "methods"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Incidence"
+      },
+      {
+        mp TRUE,
+        term "Maternal Age"
+      },
+      {
+        term "Mosaicism",
+        qual {
+          {
+            subh "embryology"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Pregnancy Rate"
+      },
+      {
+        term "Preimplantation Diagnosis",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Spain",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      }
+    },
+    pmid 28433371,
+    pub-type {
+      "Journal Article",
+      "Multicenter Study",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

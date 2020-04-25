@@ -81,10 +81,72 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
             #append NN per S
             NNWlist.append(NNperW)
             n = n+1
+####Plot fake data
+    plt.scatter( x = NNWlist, y = JJperNN, c = 'red')
+            
+#analyze real data to compare
+with open('data/rand_pmids.txt', 'r') as fakeid:
+    fakeid = fakeid.readlines()
+    fakeid = ''.join(fakeid).replace("PMID:","")
+    idlist = fakeid.splitlines() #by here each PMID is its own item in the list
+
+    n = 0
+    VBlist = []
+    VBZlist = []
+    NNlist = []
+    JJlist = []
+    INlist = []
+    JJperNN = []
+    SLenList = []
+    NNWlist = []
+    while ( n <= 140):
+        workingid = idlist[n]
+        workingfile = "data/rand/{}.txt"
+        currentfile = workingfile.format(workingid)
+        with open (currentfile, 'rt') as file:
+            data = file.read().splitlines()
+            temp = ''.join(data)
+            title = between(temp,'title {        name "','."      },      authors {')
+            #find sentence length
+            sent_len = (len(title.split()))
+            abstract = between(temp,'abstract "','.",    mesh {')
+            #PoS Tagging
+            tokenizedtitle = custom_sent_tokenizer.tokenize(title)
+            def process_content():
+                for i in tokenizedtitle:
+                    words = nltk.word_tokenize(i)
+                    tagged = nltk.pos_tag(words)
+                        #process title
+                    temp = str(tagged).strip('[]')
+                    print(temp)
+                        #count verbs
+                    process_content.VBCount = temp.count('VB')
+                        #count VBZ
+                    process_content.VBZCount = temp.count('VBZ')
+                        #count NN
+                    process_content.NNCount = temp.count('NN')
+                        #count JJ
+                    process_content.JJCount = temp.count('JJ')
+                        #count IN
+                    process_content.INCount = temp.count('IN')
+
+                    #count JJ/NN
+                    if process_content.NNCount == 0:
+                        process_content.JJperNN = 0
+                    else:
+                        process_content.JJperNN = process_content.JJCount / process_content.NNCount
+                    
+            process_content()
+
+            JJperNN.append(process_content.JJperNN)
+            #calc NN per S
+            NNperW = process_content.NNCount / sent_len
+            #append NN per S
+            NNWlist.append(NNperW)
+            n = n+1    
 
     #plot everything
-    plt.scatter( x = NNWlist, y = JJperNN, c = 'red')
-    plt.scatter( x = VBlist, y = VBlist, c = 'blue')
+    plt.scatter( x = NNWlist, y = JJperNN, c = 'blue')
     plt.xlabel('Nouns per Word')
     plt.ylabel('Adjectives per Noun')
     plt.show()

@@ -1,0 +1,137 @@
+
+Pubmed-entry ::= {
+  pmid 28521441,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The context of prostate cancer genomics in personalized medicine."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu Y",
+            affil str "Department of Oncology-Pathology, Karolinska
+ Institutet, Stockholm SE-171 76, Sweden."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol Lett",
+          ml-jta "Oncol Lett",
+          issn "1792-1074",
+          name "Oncology letters"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "13",
+          issue "5",
+          pages "3347-3353",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 26
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 5,
+                day 20,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28521441,
+        doi "10.3892/ol.2017.5911",
+        pii "OL-0-0-5911",
+        other {
+          db "pmc",
+          tag str "PMC5431214"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3892/ol.2017.5911"
+        }
+      }
+    },
+    abstract "Prostate cancer is one of the most common types of cancer in
+ males. Heterogeneous genomic aberrations may lead to prostate cancer onset,
+ progression and metastasis. This heterogeneity also contributes to the
+ variety in cancer risk and outcomes, different drug responses and
+ progression, observed between individual patients. Classical prognostic
+ factors, including prostate-specific antigen, Gleason Score and clinical
+ tumor staging, are not sufficient to portray the complexity of a clinically
+ relevant cancer diagnosis, risk prognosis, treatment choice and therapy
+ monitoring. There is a requirement for novel genetic biomarkers in order to
+ understand the oncogenic heterogeneity in a patient-personalized clinical
+ setting and to improve the efficacy of risk prognosis and treatment choice. A
+ number of biomarkers and gene panels have been established from patient
+ sample cohort studies. These previous studies have provided distinct
+ information to the investigation of heterogeneous malignancy in prostate
+ cancer, which aids in clinical decision-making. Biomarker-guided therapies
+ may facilitate the effective selection of drugs during early treatment;
+ therefore, are beneficial to the individual patient. A non-invasive approach
+ allows for convenient and repeated sampling to screen for cancer and monitor
+ treatment response without the requirement for invasive tissue biopsies. With
+ the current availability of numerous advanced technologies, reliable
+ detection of the minimal tumor residues present following treatment may
+ become clinical practice and, therefore, inform further in the field of
+ personalized medicine.",
+    pmid 28521441,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

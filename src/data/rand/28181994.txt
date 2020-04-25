@@ -1,1 +1,185 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28181994,
+  medent {
+    em std {
+      year 2017,
+      month 2,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Gene Expression Panel is Accurate for Diagnosis and Monitoring
+ Treatment of Eosinophilic Esophagitis in Adults."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dellon ES",
+            affil str "Center for Esophageal Diseases and Swallowing, Division
+ of Gastroenterology and Hepatology, Department of Medicine, University of
+ North Carolina, Chapel Hill, North Carolina, USA."
+          },
+          {
+            name ml "Veerappan R",
+            affil str "Miraca Life Sciences Research Institute, Irving, Texas,
+ USA."
+          },
+          {
+            name ml "Selitsky SR",
+            affil str "Department of Genetics, University of Chapel Hill,
+ Chapel Hill, North Carolina, USA."
+          },
+          {
+            name ml "Parker JS",
+            affil str "Department of Genetics, University of Chapel Hill,
+ Chapel Hill, North Carolina, USA."
+          },
+          {
+            name ml "Higgins LL",
+            affil str "Center for Esophageal Diseases and Swallowing, Division
+ of Gastroenterology and Hepatology, Department of Medicine, University of
+ North Carolina, Chapel Hill, North Carolina, USA."
+          },
+          {
+            name ml "Beitia R",
+            affil str "Center for Esophageal Diseases and Swallowing, Division
+ of Gastroenterology and Hepatology, Department of Medicine, University of
+ North Carolina, Chapel Hill, North Carolina, USA."
+          },
+          {
+            name ml "Genta RM",
+            affil str "Miraca Life Sciences Research Institute, Irving, Texas,
+ USA.; Dallas Veterans Affairs Medical Center, University of Texas
+ Southwestern Medical Center, Dallas, Texas, USA."
+          },
+          {
+            name ml "Lash RH",
+            affil str "Miraca Life Sciences Research Institute, Irving, Texas,
+ USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Transl Gastroenterol",
+          ml-jta "Clin Transl Gastroenterol",
+          issn "2155-384X",
+          name "Clinical and translational gastroenterology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2,
+            day 9
+          },
+          volume "8",
+          issue "2",
+          pages "e74",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 2,
+                day 10,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28181994,
+        pii "ctg20172",
+        doi "10.1038/ctg.2017.2",
+        other {
+          db "pmc",
+          tag str "PMC5387749"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/ctg.2017.2"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Eosinophilic esophagitis (EoE) can be difficult to
+ diagnose. We aimed to evaluate whether a gene expression score could
+ differentiate adult EoE cases from non-EoE controls and to determine whether
+ scores normalized after treatment for EoE. METHODS: We analyzed prospectively
+ collected esophageal biopsies from EoE patients (diagnosed as per consensus
+ guidelines and after a proton pump inhibitor trial) and non-EoE controls.
+ Gene expression for a previously constructed 94 gene panel was quantified for
+ a single RNA-later preserved biopsy. For diagnosis, a summary expression
+ score and the area under the receiver operating characteristic curve (AUC)
+ were calculated. For treatment response (defined as <15 eosinophils per
+ high-power field), pretreatment and posttreatment EoE samples were compared.
+ RESULTS: For 91 EoE cases and 174 controls, gene scores for EoE cases were
+ lower than non-EoE controls (mean 198 vs. 420; P<0.001), with an AUC of
+ 0.927. A score </=263 yielded a positive predictive value=91%; a score >/=349
+ yielded a negative predictive value=90%; only 12% of subjects had an
+ indeterminate score (264-348) by this classification scheme. For the 89 EoE
+ cases with paired pretreatment and posttreatment samples, overall gene scores
+ improved after treatment from 199 to 343 (P<0.001). This normalization was
+ seen only in cases with histological response (202 vs. 425; P<0.001); scores
+ were unchanged in non-responders (189 vs. 226; P=0.25). CONCLUSIONS: A gene
+ expression score has high diagnostic utility for distinguishing EoE patients
+ from non-EoE controls in adults and can be used in clinical algorithms.
+ Because it is highly responsive to treatment, the test could be used to
+ monitor disease status.",
+    idnum {
+      "K23 DK090073/DK/NIDDK NIH HHS",
+      "P30 CA016086/CA/NCI NIH HHS",
+      "P30 DK034987/DK/NIDDK NIH HHS",
+      "P30 ES010126/ES/NIEHS NIH HHS"
+    },
+    pmid 28181994,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

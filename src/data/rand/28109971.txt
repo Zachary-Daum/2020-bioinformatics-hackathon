@@ -1,1 +1,264 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"4","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28109971,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Optimal Systolic Blood Pressure Target After SPRINT: Insights
+ from a Network Meta-Analysis of Randomized Trials."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bangalore S",
+            affil str "Division of Cardiology, New York University School of
+ Medicine, New York, NY. Electronic address: sripalbangalore@gmail.com."
+          },
+          {
+            name ml "Toklu B",
+            affil str "Division of Cardiology, Mount Sinai Beth Israel Medical
+ Center, New York, NY."
+          },
+          {
+            name ml "Gianos E",
+            affil str "Division of Cardiology, New York University School of
+ Medicine, New York, NY."
+          },
+          {
+            name ml "Schwartzbard A",
+            affil str "Division of Cardiology, New York University School of
+ Medicine, New York, NY."
+          },
+          {
+            name ml "Weintraub H",
+            affil str "Division of Cardiology, New York University School of
+ Medicine, New York, NY."
+          },
+          {
+            name ml "Ogedegbe G",
+            affil str "Division of Cardiology, New York University School of
+ Medicine, New York, NY."
+          },
+          {
+            name ml "Messerli FH",
+            affil str "Division of Cardiology, University Hospital, Bern,
+ Switzerland; Division of Cardiology, Mount Sinai, Icahn School of Medicine,
+ New York, NY."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Med.",
+          ml-jta "Am J Med",
+          issn "1555-7162",
+          name "The American journal of medicine"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "130",
+          issue "6",
+          pages "707-719.e8",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 5,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28109971,
+        pii "S0002-9343(17)30035-9",
+        doi "10.1016/j.amjmed.2017.01.004",
+        other {
+          db "ELocationID pii",
+          tag str "S0002-9343(17)30035-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.amjmed.2017.01.004"
+        }
+      }
+    },
+    abstract "BACKGROUND: The optimal on-treatment blood pressure (BP) target
+ has been a matter of debate. The recent SPRINT trial showed significant
+ benefits of a BP target of <120 mm Hg, albeit with an increase in serious
+ adverse effects related to low BP. METHODS: PubMed, EMBASE, and CENTRAL were
+ searched for randomized trials comparing treating with different BP targets.
+ Trial arms were grouped into 5 systolic BP target categories: 1) <160 mm Hg,
+ 2) <150 mm Hg, 3) <140 mm Hg, 4) <130 mm Hg, and 5) <120 mm Hg. Efficacy
+ outcomes of stroke, myocardial infarction, death, cardiovascular death, heart
+ failure, and safety outcomes of serious adverse effects were evaluated using
+ a network meta-analysis. RESULTS: Seventeen trials that enrolled 55,163
+ patients with 204,103 patient-years of follow-up were included. There was a
+ significant decrease in stroke (rate ratio [RR] 0.54; 95% confidence interval
+ [CI], 0.29-1.00) and myocardial infarction (RR 0.68; 95% CI, 0.47-1.00) with
+ systolic BP <120 mm Hg (vs <160 mm Hg). Sensitivity analysis using achieved
+ systolic BP showed a 72%, 97%, and 227% increase in stroke with systolic BP
+ of <140 mm Hg, <150 mm Hg, and <160 mm, respectively, when compared with
+ systolic BP <120 mm Hg. There was no difference in death, cardiovascular
+ death, or heart failure when comparing any of the BP targets. However, the
+ point estimate favored lower BP targets (<120 mm Hg, <130 mm Hg) when
+ compared with higher BP targets (<140 mm Hg or <150 mm Hg). BP targets of
+ <120 mm Hg and <130 mm Hg ranked #1 and #2, respectively, as the most
+ efficacious target. There was a significant increase in serious adverse
+ effects with systolic BP <120 mm Hg vs <150 mm Hg (RR 1.83; 95% CI,
+ 1.05-3.20) or vs <140 mm Hg (RR 2.12; 95% CI, 1.46-3.08). BP targets of <140
+ mm Hg and <150 mm Hg ranked #1 and #2, respectively, as the safest target for
+ the outcome of serious adverse effects. Cluster plots for combined efficacy
+ and safety showed that a systolic BP target of <130 mm Hg had optimal balance
+ between efficacy and safety. CONCLUSIONS: In patients with hypertension, a
+ on-treatment systolic BP target of <130 mm Hg achieved optimal balance
+ between efficacy and safety.",
+    mesh {
+      {
+        term "Antihypertensive Agents",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Blood Pressure"
+      },
+      {
+        term "Cardiovascular Diseases",
+        qual {
+          {
+            subh "mortality"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Heart Failure",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypertension",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Myocardial Infarction",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Network Meta-Analysis"
+      },
+      {
+        term "Randomized Controlled Trials as Topic"
+      },
+      {
+        term "Stroke",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antihypertensive Agents"
+      }
+    },
+    pmid 28109971,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis"
+    },
+    status medline
+  }
+}
+
+

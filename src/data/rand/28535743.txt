@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 28535743,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Acceptability of Complementary Foods That Incorporate Moringa
+ oleifera Leaf Powder Among Infants and Their Caregivers."
+      },
+      authors {
+        names std {
+          {
+            name ml "Boateng L",
+            affil str "1 Department of Nutrition and Food Science, University
+ of Ghana, Legon, Accra, Ghana."
+          },
+          {
+            name ml "Nyarko R",
+            affil str "2 Department of Dietetics, University of Ghana, Legon,
+ Accra, Ghana."
+          },
+          {
+            name ml "Asante M",
+            affil str "2 Department of Dietetics, University of Ghana, Legon,
+ Accra, Ghana."
+          },
+          {
+            name ml "Steiner-Asiedu M",
+            affil str "2 Department of Dietetics, University of Ghana, Legon,
+ Accra, Ghana."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Food Nutr Bull",
+          ml-jta "Food Nutr Bull",
+          issn "1564-8265",
+          name "Food and nutrition bulletin"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "39",
+          issue "1",
+          pages "137-148",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28535743,
+        doi "10.1177/0379572117708656",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0379572117708656"
+        }
+      }
+    },
+    abstract "BACKGROUND: Moringa oleifera leaf powder (MLP) is a
+ nutrient-rich and readily available food resource that has the potential to
+ improve the micronutrient quality of complementary foods in developing
+ countries. OBJECTIVE: To investigate the acceptability of complementary foods
+ fortified with MLP. METHODS: Moringa oleifera leaf powder was fed to infants
+ either as part of a cereal-legume complementary food blend (MCL-35 g) or by
+ sprinkling as a food supplement (MS-5 g) on infant's usual foods.
+ Mother-infant pairs (n = 18 for the MCL-35 g group and n = 16 for the MS-5 g
+ group) attending regular weight monitoring sessions were recruited to
+ participate in the acceptability trial. The study consisted of an initial
+ tasting session after which mothers were to feed the assigned foods to their
+ infants for 14 days. Mothers rated color, odor, taste, and overall liking of
+ the complementary foods using a 5-point hedonic scale. Primary outcome was
+ the proportion of test porridge consumed. RESULTS: On the tasting day, MCL-35
+ g group infants consumed an average of 64.27% +/- 25.02 of the test porridge
+ offered, whereas MS-5 g group infants consumed an average of 66.43% +/-
+ 29.09. During the 14-day period, median percent daily consumption for MCL-35
+ g was 71.5% of the daily recommended intake, whereas median percent daily
+ consumption for MS-5 g was 86.2%. CONCLUSION: We conclude that complementary
+ foods incorporating Moringa oleifera leaf powder either as part of a
+ cereal-legume complementary food blend (MCL-35 g) or when sprinkled as a food
+ supplement (MS-5 g) on infant's usual foods were well accepted.",
+    mesh {
+      {
+        term "Caregivers"
+      },
+      {
+        mp TRUE,
+        term "Consumer Behavior"
+      },
+      {
+        term "Diet"
+      },
+      {
+        term "Dietary Supplements"
+      },
+      {
+        term "Edible Grain"
+      },
+      {
+        term "Fabaceae"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Food, Fortified"
+      },
+      {
+        term "Ghana"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        mp TRUE,
+        term "Infant Food"
+      },
+      {
+        term "Infant Nutritional Physiological Phenomena"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Micronutrients",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Moringa oleifera",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Mothers"
+      },
+      {
+        term "Plant Leaves",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Plant Preparations",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Powders"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Micronutrients"
+      },
+      {
+        type nameonly,
+        name "Plant Preparations"
+      },
+      {
+        type nameonly,
+        name "Powders"
+      }
+    },
+    pmid 28535743,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

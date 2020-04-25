@@ -1,1 +1,182 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28271960,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Performance evaluation of a natural treatment system for small
+ communities, composed of a UASB reactor, maturation ponds (baffled and
+ unbaffled) and a granular rock filter in series."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dias DFC",
+            affil str "a Department of Sanitary and Environmental Engineering
+ , Federal University of Minas Gerais , Belo Horizonte , Brazil."
+          },
+          {
+            name ml "Passos RG",
+            affil str "a Department of Sanitary and Environmental Engineering
+ , Federal University of Minas Gerais , Belo Horizonte , Brazil."
+          },
+          {
+            name ml "Rodrigues VAJ",
+            affil str "a Department of Sanitary and Environmental Engineering
+ , Federal University of Minas Gerais , Belo Horizonte , Brazil."
+          },
+          {
+            name ml "de Matos MP",
+            affil str "a Department of Sanitary and Environmental Engineering
+ , Federal University of Minas Gerais , Belo Horizonte , Brazil."
+          },
+          {
+            name ml "Santos CRS",
+            affil str "a Department of Sanitary and Environmental Engineering
+ , Federal University of Minas Gerais , Belo Horizonte , Brazil."
+          },
+          {
+            name ml "von Sperling M",
+            affil str "a Department of Sanitary and Environmental Engineering
+ , Federal University of Minas Gerais , Belo Horizonte , Brazil."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ Technol",
+          ml-jta "Environ Technol",
+          issn "1479-487X",
+          name "Environmental technology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "39",
+          issue "4",
+          pages "490-502",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28271960,
+        doi "10.1080/09593330.2017.1304456",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/09593330.2017.1304456"
+        }
+      }
+    },
+    abstract "Post-treatment of anaerobic reactor effluent with maturation
+ ponds is a good option for small to medium-sized communities in tropical
+ climates. The treatment line investigated, operating in Brazil, with an
+ equivalent capacity to treat domestic sewage from 250 inhabitants, comprised
+ a upflow anaerobic sludge blanket reactor followed by two shallow maturation
+ ponds (unbaffled and baffled) and a granular rock filter (decreasing grain
+ size) in series, requiring an area of only 1.5 m(2) inhabitant(-1). With an
+ overall hydraulic retention time of only 6.7 days, the performance was
+ excellent for a natural treatment system. Based on over two years of
+ continuous monitoring, median removal efficiencies were: biochemical oxygen
+ demand = 93%, chemical oxygen demand = 79%, total suspended solids = 87%,
+ ammonia = 43% and Escherichia coli = 6.1 log units. The final effluent
+ complied with European discharge standards and WHO guidelines for some forms
+ of irrigation, and appeared to be a suitable alternative for treating
+ domestic sewage for small communities in warm areas, especially in developing
+ countries.",
+    mesh {
+      {
+        term "Ammonia"
+      },
+      {
+        term "Anaerobiosis"
+      },
+      {
+        term "Biological Oxygen Demand Analysis"
+      },
+      {
+        mp TRUE,
+        term "Bioreactors"
+      },
+      {
+        term "Brazil"
+      },
+      {
+        term "Filtration",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Ponds"
+      },
+      {
+        term "Waste Disposal, Fluid",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "7664-41-7",
+        name "Ammonia"
+      }
+    },
+    pmid 28271960,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

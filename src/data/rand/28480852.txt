@@ -1,0 +1,244 @@
+
+Pubmed-entry ::= {
+  pmid 28480852,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[THE INFLUENCE OF MONO- AND MULTIVASCULAR LESIONS OF CORONARY
+ ARTERIES ON THE COURSE OF CORONARY HEART DISEASE IN PATIENTS WITH DIABETES
+ MELLITUS TYPE 2]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sypalo A",
+            affil str "Kharkiv National Medical University, Department of
+ Internal Medicine numero sign2 and Clinical Immunology and Allergology,
+ Ukraine."
+          },
+          {
+            name ml "Kravchun P",
+            affil str "Kharkiv National Medical University, Department of
+ Internal Medicine numero sign2 and Clinical Immunology and Allergology,
+ Ukraine."
+          },
+          {
+            name ml "Kadykova O",
+            affil str "Kharkiv National Medical University, Department of
+ Internal Medicine numero sign2 and Clinical Immunology and Allergology,
+ Ukraine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Georgian Med News",
+          ml-jta "Georgian Med News",
+          issn "1512-0112",
+          name "Georgian medical news"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          issue "264",
+          pages "61-65",
+          language "rus",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28480852
+      }
+    },
+    abstract "The article assesses the influence of mono- and multivascular
+ lesions of coronary arteries on the course of coronary heart disease at
+ patients with diabetes mellitus type 2. For this purpose, a comprehensive
+ survey of 75 patients with coronary heart disease and diabetes mellitus type
+ 2 was arranged. Depending on the number of vascular lesions of the coronary
+ arteries, according to the data of coronary arteries computer tomography, all
+ patients were divided into two subgroups. The first subgroup included 27
+ patients with coronary heart disease and diabetes mellitus type 2 with
+ monovascular lesions of coronary arteries. To the second subgroup were
+ included 48 patients with coronary heart disease and diabetes mellitus type 2
+ with multivascular lesions of coronary arteries. During the analysis of
+ carbohydrate metabolism in cases of coronary heart disease and diabetes
+ mellitus type 2 the HOMA index increase by 25.40% and insulin level increase
+ by 17.05% were revealed at patients with multivascular lesions of coronary
+ arteries in comparison with patients with monovascular lesions of coronary
+ arteries, respectively. The combination of coronary heart disease and
+ diabetes mellitus type 2 with multivascular lesions of coronary arteries was
+ associated with an increase of sortilin level (233,47+/-47,85 ng/l). A
+ significant increase in triglycerides, lipoprotein cholesterol of very low
+ density influences greatly on the progression of coronary atherosclerosis
+ with lesions of greater number of coronary arteries at patients surveyed. At
+ patients with coronary heart disease and diabetes mellitus type 2 with
+ multivascular lesions of coronary arteries the left ventricle myocardial
+ re-modeling occurred through the increase of left ventricle's size and cavity.",
+    mesh {
+      {
+        term "Adaptor Proteins, Vesicular Transport",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Blood Pressure"
+      },
+      {
+        term "Cholesterol, VLDL",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Coronary Artery Disease",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Coronary Vessels",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Diabetes Mellitus, Type 2",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Heart Rate"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Insulin Resistance"
+      },
+      {
+        term "Myocardium",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Organ Size"
+      },
+      {
+        term "Triglycerides",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adaptor Proteins, Vesicular Transport"
+      },
+      {
+        type nameonly,
+        name "Cholesterol, VLDL"
+      },
+      {
+        type nameonly,
+        name "Triglycerides"
+      },
+      {
+        type cas,
+        cit "Z020Y8WIJ4",
+        name "sortilin"
+      }
+    },
+    pmid 28480852,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

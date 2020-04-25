@@ -1,0 +1,176 @@
+
+Pubmed-entry ::= {
+  pmid 28436249,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The weapon focus effect is weaker with Black versus White male
+ perpetrators."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pickel KL",
+            affil str "a Department of Psychological Science , Ball State
+ University , Muncie , IN , USA."
+          },
+          {
+            name ml "Sneyd DE",
+            affil str "b Department of Psychology , Florida International
+ University , Miami , FL , USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Memory",
+          ml-jta "Memory",
+          issn "1464-0686",
+          name "Memory (Hove, England)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "26",
+          issue "1",
+          pages "29-41",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28436249,
+        doi "10.1080/09658211.2017.1317814",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/09658211.2017.1317814"
+        }
+      }
+    },
+    abstract "We compared the influence of a weapon's presence on eyewitnesses
+' memory for a White versus a Black male perpetrator. Prior data indicate that
+ unusual objects in visual scenes attract attention and that a weapon's effect
+ depends on how unusual it seems within the context in which it appears.
+ Therefore, given the stereotype linking Black men and weapons, we predicted a
+ weaker weapon focus effect with the Black perpetrator. The results of
+ Experiment 1 supported this hypothesis using White and Black witnesses.
+ Moreover, in Experiment 2 the weapon focus effect became nonsignificant when
+ the Black perpetrator wore a style of clothing that is strongly associated
+ with Black men. We propose that observing an armed Black perpetrator
+ automatically activates a stereotype linking Black men with weapons and
+ crime, which in turn reduces the perceived unusualness of the weapon and thus
+ its ability to attract attention.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "African Americans",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Attentional Bias"
+      },
+      {
+        term "European Continental Ancestry Group",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Mental Recall"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Photic Stimulation"
+      },
+      {
+        mp TRUE,
+        term "Stereotyping"
+      },
+      {
+        mp TRUE,
+        term "Weapons"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 28436249,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

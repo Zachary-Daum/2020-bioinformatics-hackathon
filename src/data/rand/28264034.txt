@@ -1,1 +1,413 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28264034,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Overexpression of the WOX gene STENOFOLIA improves biomass yield
+ and sugar release in transgenic grasses and display altered cytokinin
+ homeostasis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang H",
+            affil str "Biotechnology Research Institute, Chinese Academy of
+ Agricultural Sciences, Beijing, China."
+          },
+          {
+            name ml "Niu L",
+            affil str "Biotechnology Research Institute, Chinese Academy of
+ Agricultural Sciences, Beijing, China.; Department of Plant and Soil
+ Sciences, Institute for Agricultural Biosciences, Oklahoma State University,
+ 3210 Sam Noble Parkway, Ardmore, OK, United States of America."
+          },
+          {
+            name ml "Fu C",
+            affil str "Forage Improvement Division, Samuel Roberts Noble
+ Foundation, 2510 Sam Noble Parkway, Ardmore, OK, United States of America."
+          },
+          {
+            name ml "Meng Y",
+            affil str "Biotechnology Research Institute, Chinese Academy of
+ Agricultural Sciences, Beijing, China."
+          },
+          {
+            name ml "Sang D",
+            affil str "Department of Plant and Soil Sciences, Institute for
+ Agricultural Biosciences, Oklahoma State University, 3210 Sam Noble Parkway,
+ Ardmore, OK, United States of America."
+          },
+          {
+            name ml "Yin P",
+            affil str "Biotechnology Research Institute, Chinese Academy of
+ Agricultural Sciences, Beijing, China."
+          },
+          {
+            name ml "Wu J",
+            affil str "Biotechnology Research Institute, Chinese Academy of
+ Agricultural Sciences, Beijing, China."
+          },
+          {
+            name ml "Tang Y",
+            affil str "Plant Biology Division, Samuel Roberts Noble
+ Foundation, 2510 Sam Noble Parkway, Ardmore, OK, United States of America."
+          },
+          {
+            name ml "Lu T",
+            affil str "Biotechnology Research Institute, Chinese Academy of
+ Agricultural Sciences, Beijing, China."
+          },
+          {
+            name ml "Wang ZY",
+            affil str "Forage Improvement Division, Samuel Roberts Noble
+ Foundation, 2510 Sam Noble Parkway, Ardmore, OK, United States of America."
+          },
+          {
+            name ml "Tadege M",
+            affil str "Department of Plant and Soil Sciences, Institute for
+ Agricultural Biosciences, Oklahoma State University, 3210 Sam Noble Parkway,
+ Ardmore, OK, United States of America."
+          },
+          {
+            name ml "Lin H",
+            affil str "Biotechnology Research Institute, Chinese Academy of
+ Agricultural Sciences, Beijing, China.; Department of Plant and Soil
+ Sciences, Institute for Agricultural Biosciences, Oklahoma State University,
+ 3210 Sam Noble Parkway, Ardmore, OK, United States of America."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS Genet.",
+          ml-jta "PLoS Genet",
+          issn "1553-7404",
+          name "PLoS genetics"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3,
+            day 6
+          },
+          volume "13",
+          issue "3",
+          pages "e1006649",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 2,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 3,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28264034,
+        doi "10.1371/journal.pgen.1006649",
+        pii "PGENETICS-D-16-02729",
+        other {
+          db "pmc",
+          tag str "PMC5358894"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pgen.1006649"
+        }
+      }
+    },
+    abstract "Lignocellulosic biomass can be a significant source of renewable
+ clean energy with continued improvement in biomass yield and bioconversion
+ strategies. In higher plants, the leaf blade is the central energy convertor
+ where solar energy and CO2 are assimilated to make the building blocks for
+ biomass production. Here we report that introducing the leaf blade
+ development regulator STENOFOLIA (STF), a WOX family transcription factor,
+ into the biofuel crop switchgrass, significantly improves both biomass yield
+ and sugar release. We found that STF overexpressing switchgrass plants
+ produced approximately 2-fold more dry biomass and release approximately
+ 1.8-fold more solubilized sugars without pretreatment compared to controls.
+ The biomass increase was attributed mainly to increased leaf width and stem
+ thickness, which was also consistent in STF transgenic rice and Brachypodium,
+ and appeared to be caused by enhanced cell proliferation. STF directly binds
+ to multiple regions in the promoters of some cytokinin oxidase/dehydrogenase
+ (CKX) genes and represses their expression in all three transgenic grasses.
+ This repression was accompanied by a significant increase in active cytokinin
+ content in transgenic rice leaves, suggesting that the increase in biomass
+ productivity and sugar release could at least in part be associated with
+ improved cytokinin levels caused by repression of cytokinin degrading
+ enzymes. Our study provides a new tool for improving biomass feedstock yield
+ in bioenergy crops, and uncovers a novel mechanistic insight in the function
+ of STF, which may also apply to other repressive WOX genes that are master
+ regulators of several key plant developmental programs.",
+    mesh {
+      {
+        term "Biofuels"
+      },
+      {
+        term "Biomass"
+      },
+      {
+        term "Brachypodium",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Carbohydrate Metabolism"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Chromatin Immunoprecipitation"
+      },
+      {
+        term "Crops, Agricultural",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytokinins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "DNA, Plant",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Plant"
+      },
+      {
+        term "Green Fluorescent Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Homeostasis"
+      },
+      {
+        term "Medicago truncatula",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oligonucleotide Array Sequence Analysis"
+      },
+      {
+        term "Oryza",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxidoreductases",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Panicum",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        term "Plant Leaves",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plant Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plants, Genetically Modified",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transgenes"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biofuels"
+      },
+      {
+        type nameonly,
+        name "Cytokinins"
+      },
+      {
+        type nameonly,
+        name "DNA, Plant"
+      },
+      {
+        type nameonly,
+        name "Plant Proteins"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      },
+      {
+        type cas,
+        cit "147336-22-9",
+        name "Green Fluorescent Proteins"
+      },
+      {
+        type ec,
+        cit "1.-",
+        name "Oxidoreductases"
+      },
+      {
+        type ec,
+        cit "1.5.99.12",
+        name "cytokinin oxidase"
+      }
+    },
+    pmid 28264034,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

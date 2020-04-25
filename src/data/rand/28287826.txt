@@ -1,1 +1,214 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"5","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28287826,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Honing in on the Social Difficulties Associated With Sluggish
+ Cognitive Tempo in Children: Withdrawal, Peer Ignoring, and Low Engagement."
+      },
+      authors {
+        names std {
+          {
+            name ml "Becker SP",
+            affil str "a Division of Behavioral Medicine and Clinical
+ Psychology , Cincinnati Children's Hospital Medical Center.; b Department of
+ Pediatrics , University of Cincinnati College of Medicine."
+          },
+          {
+            name ml "Garner AA",
+            affil str "c Department of Psychology , Saint Louis University."
+          },
+          {
+            name ml "Tamm L",
+            affil str "a Division of Behavioral Medicine and Clinical
+ Psychology , Cincinnati Children's Hospital Medical Center.; b Department of
+ Pediatrics , University of Cincinnati College of Medicine."
+          },
+          {
+            name ml "Antonini TN",
+            affil str "d Department of Rehabilitation
+ Psychology/Neuropsychology, TIRR Memorial Hermann and Department of Physical
+ Medicine and Rehabilitation , Baylor College of Medicine."
+          },
+          {
+            name ml "Epstein JN",
+            affil str "a Division of Behavioral Medicine and Clinical
+ Psychology , Cincinnati Children's Hospital Medical Center.; b Department of
+ Pediatrics , University of Cincinnati College of Medicine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Clin Child Adolesc Psychol",
+          ml-jta "J Clin Child Adolesc Psychol",
+          issn "1537-4424",
+          name "Journal of clinical child and adolescent psychology : the
+ official journal for the Society of Clinical Child and Adolescent Psychology,
+ American Psychological Association, Division 53"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3
+          },
+          volume "48",
+          issue "2",
+          pages "228-237",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28287826,
+        doi "10.1080/15374416.2017.1286595",
+        other {
+          db "pmc",
+          tag str "PMC6047915"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS980399"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/15374416.2017.1286595"
+        }
+      }
+    },
+    abstract "Sluggish cognitive tempo (SCT) symptoms are associated with
+ social difficulties in children, though findings are mixed and many studies
+ have used global measures of social impairment. The present study tested the
+ hypothesis that SCT would be uniquely associated with aspects of social
+ functioning characterized by withdrawal and isolation, whereas attention
+ deficit/hyperactivity disorder (ADHD) and oppositional defiant disorder (ODD)
+ symptoms would be uniquely associated with aspects of social functioning
+ characterized by inappropriate responding in social situations and active
+ peer exclusion. Participants were 158 children (70% boys) between 7-12 years
+ of age being evaluated for possible ADHD. Both parents and teachers completed
+ measures of SCT, ADHD, ODD, and internalizing (anxiety/depression) symptoms.
+ Parents also completed ratings of social engagement and self-control.
+ Teachers also completed measures assessing asociality and exclusion, as well
+ as peer ignoring and dislike. In regression analyses controlling for
+ demographic characteristics and other psychopathology symptoms,
+ parent-reported SCT symptoms were significantly associated with lower social
+ engagement (e.g., starting conversations, joining activities).
+ Teacher-reported SCT symptoms were significantly associated with greater
+ asociality/withdrawal and ratings of more frequent ignoring by peers, as well
+ as greater exclusion. ODD symptoms and ADHD hyperactive-impulsive symptoms
+ were more consistently associated with other aspects of social behavior,
+ including peer exclusion, being disliked by peers, and poorer self-control
+ during social situations. Findings provide the clearest evidence to date that
+ the social difficulties associated with SCT are primarily due to withdrawal,
+ isolation, and low initiative in social situations. Social skills training
+ interventions may be effective for children displaying elevated SCT
+ symptomatology.",
+    mesh {
+      {
+        term "Attention Deficit Disorder with Hyperactivity",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Attention Deficit and Disruptive Behavior Disorders",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Cognition Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Peer Group"
+      },
+      {
+        mp TRUE,
+        term "Social Behavior"
+      },
+      {
+        term "Substance Withdrawal Syndrome",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      }
+    },
+    idnum {
+      "K23 MH108603/MH/NIMH NIH HHS"
+    },
+    pmid 28287826,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

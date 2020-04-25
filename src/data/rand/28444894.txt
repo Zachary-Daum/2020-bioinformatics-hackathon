@@ -1,0 +1,166 @@
+
+Pubmed-entry ::= {
+  pmid 28444894,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Species ecological similarity modulates the importance of
+ colonization history for adaptive radiation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tan J",
+            affil str "School of Biological Sciences, Georgia Institute of
+ Technology, 310 Ferst Drive, Atlanta, Georgia, 30332."
+          },
+          {
+            name ml "Yang X",
+            affil str "School of Biological Sciences, Georgia Institute of
+ Technology, 310 Ferst Drive, Atlanta, Georgia, 30332."
+          },
+          {
+            name ml "Jiang L",
+            affil str "School of Biological Sciences, Georgia Institute of
+ Technology, 310 Ferst Drive, Atlanta, Georgia, 30332."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Evolution",
+          ml-jta "Evolution",
+          issn "1558-5646",
+          name "Evolution; international journal of organic evolution"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "71",
+          issue "6",
+          pages "1719-1727",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28444894,
+        doi "10.1111/evo.13249",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/evo.13249"
+        }
+      }
+    },
+    abstract "Adaptive radiation is an important evolutionary process, through
+ which a single ancestral lineage rapidly gives rise to multiple newly formed
+ lineages that specialize in different niches. In the first-arrival
+ hypothesis, David Lack emphasized the importance of species colonization
+ history for adaptive radiation, suggesting that the earlier arrival of a
+ diversifying species would allow it to radiate to a greater extent. Here, we
+ report on the first rigorous experimental test of this hypothesis, using the
+ rapidly evolving bacterium Pseudomonas fluorescens SBW25 and six different
+ bacterial competitors. We show that the earlier arrival of P. fluorescens
+ facilitated its diversification. Nevertheless, significant effects of
+ colonization history, which led to alternative diversification trajectories,
+ were observed only when the competitors shared similar niche and competitive
+ fitness with P. fluorescens. These results highlight the important role of
+ species colonization history, modified by their ecological differences, for
+ adaptive radiation.",
+    mesh {
+      {
+        mp TRUE,
+        term "Biological Evolution"
+      },
+      {
+        mp TRUE,
+        term "Ecology"
+      },
+      {
+        mp TRUE,
+        term "Genetic Speciation"
+      },
+      {
+        term "Genetic Variation"
+      },
+      {
+        term "Phylogeny"
+      },
+      {
+        term "Pseudomonas fluorescens",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    xref {
+    },
+    pmid 28444894,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

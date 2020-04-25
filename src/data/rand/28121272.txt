@@ -1,1 +1,200 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"4","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28121272,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Multivariate characterization of elements accumulated in
+ Wolfiporia extensa mushroom from Yunnan province of China."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun J",
+            affil str "a Institute of Medicinal Plants, Yunnan Academy of
+ Agricultural Sciences , Kunming , China.; b College of Traditional Chinese
+ Medicine , Yunnan University of Traditional Chinese Medicine , Kunming ,
+ China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "b College of Traditional Chinese Medicine , Yunnan
+ University of Traditional Chinese Medicine , Kunming , China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "b College of Traditional Chinese Medicine , Yunnan
+ University of Traditional Chinese Medicine , Kunming , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Environ Sci Health B",
+          ml-jta "J Environ Sci Health B",
+          issn "1532-4109",
+          name "Journal of environmental science and health. Part. B,
+ Pesticides, food contaminants, and agricultural wastes"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3,
+            day 4
+          },
+          volume "52",
+          issue "3",
+          pages "206-213",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28121272,
+        doi "10.1080/03601234.2017.1261552",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/03601234.2017.1261552"
+        }
+      }
+    },
+    abstract "Dried sclerotia of Wolfiporia extensa have been used as medicine
+ in Asia from Eastern Han Dynasty, and also used as traditional snack called 
+""fulingjiabing"" in Beijing, China. In this paper, 18 macro and trace
+ elements (Ag, As, Ba, Cd, Co, Cr, Cs, Cu, Fe, Li, Mn, Ni, Pb, Rb, Se, Sr, V,
+ and Zn) in both flesh and peel of Wolfiporia extensa from seven sites of
+ Yunnan province in China were determined by inductively coupled plasma mass
+ spectrometer. The average recovery rates of certified reference materials for
+ GBW10015 (spinach leaves) ranged from 90.5 to 113%, for GBW10028 (citrus
+ leaves) from 92.8 to 106%, and for GBW07603 (bush branch and leaves) from
+ 83.3 to 114.6%. Generally speaking, the concentration of all elements
+ determined was at common level. The results of this survey indicate that
+ mineral compositions in peel were higher than in flesh. In peel, the contents
+ of investigated trace metals in mushroom samples were found to be in the
+ range of 1,660-13,400 microg.g(-1) dry matter (dm) for Fe and 29.6-710
+ microg.g(-1) dm for Mn. The mean contents of Cr, Cu, Rb, V, and Zn in peel
+ were between 10 and 20 microg.g(-1) dm, followed by As, Co, Li, Ni, Pb, Se,
+ and Sr with mean contents between 1 and 10 microg.g(-1) dm, while Ag, Cd, and
+ Cs had mean contents of <1 microg.g(-1) dm. In flesh, the concentration of Fe
+ was in the range of 54-900 microg.g(-1) dm, and it was 1.5-49 microg.g(-1) dm
+ for Mn, followed by Ba, Cu, Rb, and Zn in the range of 1 to 10 microg.g(-1)
+ dm, while for Ag, As, Cd, Co, Cr, Cs, Li, Ni, Pb, Se, Sr, and V it was <1
+ microg.g(-1) dm. The concentration of toxic elements, such as As, Cd, and Pb,
+ in both flesh and peel was below the permissible limits of World Health
+ Organization. However, As and Pb contents in peel were higher than the limits
+ permitted in the Chinese Pharmacopoeia. The results of principal component
+ analysis showed that the flesh of Wolfiporia extensa from all the seven sites
+ of the Yunnan province tend to cluster together, most probably because the
+ origin of mineral elements in both flesh and peel is wood substrate (old and
+ dead pine trees).",
+    mesh {
+      {
+        term "Agaricales",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "China"
+      },
+      {
+        term "Environmental Monitoring"
+      },
+      {
+        mp TRUE,
+        term "Food Analysis"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Multivariate Analysis"
+      },
+      {
+        term "Plants, Medicinal",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Principal Component Analysis"
+      },
+      {
+        term "Trace Elements",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Wolfiporia",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Trace Elements"
+      }
+    },
+    pmid 28121272,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

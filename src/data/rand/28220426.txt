@@ -1,1 +1,210 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"4","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28220426,
+  medent {
+    em std {
+      year 2017,
+      month 2,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Measuring Callose Deposition, an Indicator of Cell Wall
+ Reinforcement, During Bacterial Infection in Arabidopsis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jin L",
+            affil str "Department of Horticulture and Crop Science, The Ohio
+ State University, Columbus, OH, 43210, USA."
+          },
+          {
+            name ml "Mackey DM",
+            affil str "Department of Horticulture and Crop Science, The Ohio
+ State University, Columbus, OH, 43210, USA. mackey.86@osu.edu.; Department of
+ Molecular Genetics, The Ohio State University, Columbus, OH, 43210, USA.
+ mackey.86@osu.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Methods Mol. Biol.",
+          ml-jta "Methods Mol Biol",
+          issn "1940-6029",
+          name "Methods in molecular biology (Clifton, N.J.)"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "1578",
+          pages "195-205",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 2,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 2,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28220426,
+        doi "10.1007/978-1-4939-6859-6_16",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/978-1-4939-6859-6_16"
+        }
+      }
+    },
+    abstract "The plant cell wall responds dynamically during interaction with
+ various pathogens. Upon recognition of ""nonself"" components, plant cells
+ deploy a variety of immune responses including cell wall fortification.
+ Callose, a beta-(1, 3)-D-glucan polymer, is a component of the material
+ deposited at the site of infection between the plasma membrane and the
+ preexisting cell wall that is hypothesized to serve as a physical barrier and
+ platform for directed antimicrobial compound deposition. The
+ defense-associated function of callose deposition is supported by its
+ induction during pathogen-associated molecular patterns (PAMP)-triggered
+ immunity (PTI) and its inhibition by defense suppressing virulence effectors.
+ Thus, callose deposition is a commonly monitored read-out in plant defense.
+ This protocol describes the use of aniline blue staining and fluorescent
+ microscopy to measure callose deposition in bacteria-infected or
+ elicitor-challenged Arabidopsis leaf tissues.",
+    mesh {
+      {
+        term "Arabidopsis",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Arabidopsis Proteins",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Cell Wall",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Plant"
+      },
+      {
+        term "Glucans",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Microscopy, Fluorescence"
+      },
+      {
+        term "Pathogen-Associated Molecular Pattern Molecules",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Plant Diseases",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Pseudomonas syringae",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "pathogenicity"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Arabidopsis Proteins"
+      },
+      {
+        type nameonly,
+        name "Glucans"
+      },
+      {
+        type nameonly,
+        name "Pathogen-Associated Molecular Pattern Molecules"
+      },
+      {
+        type cas,
+        cit "9064-51-1",
+        name "callose"
+      }
+    },
+    pmid 28220426,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

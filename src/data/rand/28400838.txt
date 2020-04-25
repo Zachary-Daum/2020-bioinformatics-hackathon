@@ -1,1 +1,173 @@
-{"error":"API rate limit exceeded","api-key":"2601:2c3:8300:2a40:5cf8:296d:d989:94ac","count":"4","limit":"3"}
+
+Pubmed-entry ::= {
+  pmid 28400838,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "HemoHIM, a herbal preparation, alleviates airway inflammation
+ caused by cigarette smoke and lipopolysaccharide."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shin NR",
+            affil str "College of Veterinary Medicine (BK21 Plus Project
+ Team), Chonnam National University, Gwangju, Korea."
+          },
+          {
+            name ml "Kim SH",
+            affil str "College of Veterinary Medicine (BK21 Plus Project
+ Team), Chonnam National University, Gwangju, Korea."
+          },
+          {
+            name ml "Ko JW",
+            affil str "College of Veterinary Medicine (BK21 Plus Project
+ Team), Chonnam National University, Gwangju, Korea."
+          },
+          {
+            name ml "Park SH",
+            affil str "College of Veterinary Medicine (BK21 Plus Project
+ Team), Chonnam National University, Gwangju, Korea."
+          },
+          {
+            name ml "Lee IC",
+            affil str "Natural Product Research Center, Korea Research
+ Institute of Bioscience and Biotechnology, Jeongeup, Korea."
+          },
+          {
+            name ml "Ryu JM",
+            affil str "College of Veterinary Medicine (BK21 Plus Project
+ Team), Chonnam National University, Gwangju, Korea."
+          },
+          {
+            name ml "Kim JC",
+            affil str "College of Veterinary Medicine (BK21 Plus Project
+ Team), Chonnam National University, Gwangju, Korea."
+          },
+          {
+            name ml "Shin IS",
+            affil str "College of Veterinary Medicine (BK21 Plus Project
+ Team), Chonnam National University, Gwangju, Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lab Anim Res",
+          ml-jta "Lab Anim Res",
+          issn "1738-6055",
+          name "Laboratory animal research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "33",
+          issue "1",
+          pages "40-47",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 31
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 2,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 16
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 4,
+                day 13,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28400838,
+        doi "10.5625/lar.2017.33.1.40",
+        other {
+          db "pmc",
+          tag str "PMC5385281"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.5625/lar.2017.33.1.40"
+        }
+      }
+    },
+    abstract "HemoHIM, herbal preparation has designed for immune system
+ recovery. We investigated the anti-inflammatory effect of HemoHIM on
+ cigarette smoke (CS) and lipopolysaccharide (LPS) induced chronic obstructive
+ pulmonary disease (COPD) mouse model. To induce COPD, C57BL/6 mice were
+ exposed to CS for 1 h per day (eight cigarettes per day) for 4 weeks and
+ intranasally received LPS on day 26. HemoHIM was administrated to mice at a
+ dose of 50 or 100 mg/kg 1h before CS exposure. HemoHIM reduced the
+ inflammatory cell count and levels of tumor necrosis factor receptor
+ (TNF)-alpha, interleukin (IL)-6 and IL-1beta in the broncho-alveolar lavage
+ fluid (BALF) induced by CS+LPS exposure. HemoHIM decreased the inflammatory
+ cell infiltration in the airway and inhibited the expression of iNOS and
+ MMP-9 and phosphorylation of Erk in lung tissue exposed to CS+LPS. In
+ summary, our results indicate that HemoHIM inhibited a reduction in the lung
+ inflammatory response on CS and LPS induced lung inflammation via the Erk
+ pathway. Therefore, we suggest that HemoHIM has the potential to treat
+ pulmonary inflammatory disease such as COPD.",
+    pmid 28400838,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
