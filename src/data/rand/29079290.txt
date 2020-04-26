@@ -1,0 +1,188 @@
+
+Pubmed-entry ::= {
+  pmid 29079290,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Extended DAA indications for hepatitis C patients awaiting liver
+ transplantation and further statistical considerations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Azab M",
+            affil str "Department of Internal Medicine, University of Nevada
+ Las Vegas School of Medicine, Las Vegas, NV, United States."
+          },
+          {
+            name ml "Shah S",
+            affil str "Department of Internal Medicine, University of Nevada
+ Las Vegas School of Medicine, Las Vegas, NV, United States."
+          },
+          {
+            name ml "Liu X",
+            affil str "Department of Medicine, University of Arizona College
+ of Medicine, Tucson, AZ, United States."
+          },
+          {
+            name ml "Ukken J",
+            affil str "University of Nevada Reno School of Medicine, Reno, NV,
+ United States."
+          },
+          {
+            name ml "Froehlich M",
+            affil str "University of Nevada Reno School of Medicine, Reno, NV,
+ United States."
+          },
+          {
+            name ml "Shafi A",
+            affil str "Department of Internal Medicine, University of Nevada
+ Las Vegas School of Medicine, Las Vegas, NV, United States."
+          },
+          {
+            name ml "Al Dawoodi T",
+            affil str "Department of Internal Medicine, University of Nevada
+ Las Vegas School of Medicine, Las Vegas, NV, United States."
+          },
+          {
+            name ml "Liu C",
+            affil str "Department of Psychology, Northeastern University,
+ Boston, MA, United States."
+          },
+          {
+            name ml "Shin HP",
+            affil str "Division of Hepatology, Department of Internal
+ Medicine, Kyung Hee University School of Medicine, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Yoo JW",
+            affil str "Department of Internal Medicine, University of Nevada
+ Las Vegas School of Medicine, Las Vegas, NV, United States. Electronic
+ address: ji.yoo@unlv.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Hepatol.",
+          ml-jta "J Hepatol",
+          issn "1600-0641",
+          name "Journal of hepatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "68",
+          issue "3",
+          pages "626-627",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29079290,
+        pii "S0168-8278(17)32390-5",
+        doi "10.1016/j.jhep.2017.09.029",
+        other {
+          db "ELocationID pii",
+          tag str "S0168-8278(17)32390-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jhep.2017.09.029"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Antiviral Agents"
+      },
+      {
+        term "Hepacivirus"
+      },
+      {
+        mp TRUE,
+        term "Hepatitis C"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Liver Transplantation"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antiviral Agents"
+      }
+    },
+    pmid 29079290,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

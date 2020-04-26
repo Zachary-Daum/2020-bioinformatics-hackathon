@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 28086955,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Evaluation of the Xpert(R) MTB/RIF assay and microscopy for the
+ diagnosis of Mycobacterium tuberculosis in Namibia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mavenyengwa RT",
+            affil str "Department of Health Sciences, School of Health and
+ Applied Sciences, Namibia University of Science and Technology, Private Bag
+ 13388, Windhoek, Namibia. rmavenyengwa@yahoo.com.; Department of Medical
+ Microbiology, University of Zimbabwe College of Health Sciences, P. O. Box
+ A178, Harare, Zimbabwe. rmavenyengwa@yahoo.com."
+          },
+          {
+            name ml "Shaduka E",
+            affil str "Department of Health Sciences, School of Health and
+ Applied Sciences, Namibia University of Science and Technology, Private Bag
+ 13388, Windhoek, Namibia."
+          },
+          {
+            name ml "Maposa I",
+            affil str "Department of Mathematics and Statistics, Namibia
+ University of Science and Technology, Private Bag 13388, Windhoek, Namibia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Infect Dis Poverty",
+          ml-jta "Infect Dis Poverty",
+          issn "2049-9957",
+          name "Infectious diseases of poverty"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1,
+            day 11
+          },
+          volume "6",
+          issue "1",
+          pages "13",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 1,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 12,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 2,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28086955,
+        doi "10.1186/s40249-016-0213-y",
+        pii "10.1186/s40249-016-0213-y",
+        other {
+          db "pmc",
+          tag str "PMC5237317"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s40249-016-0213-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Tuberculosis (TB) kills approximately two million
+ people and infects around nine million worldwide annually. Its proper
+ management, especially in resource-limited settings, has been hindered by the
+ lack of rapid and easy-to-use diagnostic tests. Sputum smear microscopy
+ remains the cheapest, readily available diagnostic method but it only
+ identifies less than half of the patients with a HIV/TB co-infection because
+ the bacilli would have disseminated from the lungs to other areas of the
+ body. The fully automated Xpert(R) MTB/RIF assay is a promising innovation
+ for diagnosing TB and detecting resistance to rifampicin. This study aimed to
+ evaluate the use of Xpert(R) MTB/RIF assay and microscopy in the diagnosis of
+ Mycobacterium tuberculosis in Namibia, by determining the disease's
+ epidemiology and calculating the proportion of cases infected just with TB
+ and those with a resistance to rifampicin among the total suspected cases of
+ TB in the country. METHODS: This retrospective study analysed TB cases that
+ were diagnosed using both the Xpert(R) MTB/RIF assay and microscopy. Data
+ were collected from patient records from the Meditech laboratory information
+ system of the Namibia Institute of Pathology for the time period of July
+ 2012-April 2013. Data from 13 regions were collected. RESULTS: The total
+ number of specimens collected from patients with symptoms of pulmonary TB was
+ 1 842. Of these, 594 (32.20%) were found to be positive for MTB by Xpert(R)
+ MTB/RIF assay, out of which 443 (24.05%) were also found to be positive by
+ microscopy. The remainder was negative. The male patients were more resistant
+ to rifampicin when compared to the female patients. CONCLUSIONS: Tuberculosis
+ is widely distributed throughout Namibia, with slightly more males infected
+ than females. Most TB patients are also co-infected with HIV. Both microscopy
+ and Xpert(R) MTB/RIF assay are crucial for the diagnosis of TB in the
+ country. Screening diagnostic efforts should focus on the sexually active HIV
+ positive male population who could be the source of more RIF-resistant TB
+ than females to prevent its spread.",
+    mesh {
+      {
+        term "Antibiotics, Antitubercular",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Coinfection",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "microbiology"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Diagnostic Tests, Routine",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Drug Resistance, Bacterial"
+      },
+      {
+        term "HIV",
+        qual {
+          {
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "HIV Infections",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mycobacterium tuberculosis",
+        qual {
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Namibia",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Rifampin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Sensitivity and Specificity"
+      },
+      {
+        term "Tuberculosis, Pulmonary",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "microbiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antibiotics, Antitubercular"
+      },
+      {
+        type cas,
+        cit "VJT6J7R4TR",
+        name "Rifampin"
+      }
+    },
+    pmid 28086955,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

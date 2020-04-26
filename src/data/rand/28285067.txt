@@ -1,0 +1,221 @@
+
+Pubmed-entry ::= {
+  pmid 28285067,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Incorporation of a community pharmacy-based heart failure
+ assessment tool by advanced pharmacy practice experience students."
+      },
+      authors {
+        names ml {
+          "Kelling SE",
+          "Walker PC",
+          "Mason JG",
+          "Zara N",
+          "Bleske BE"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Am Pharm Assoc (2003)",
+          ml-jta "J Am Pharm Assoc (2003)",
+          issn "1544-3450",
+          name "Journal of the American Pharmacists Association : JAPhA"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "57",
+          issue "3",
+          pages "382-388",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 11,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28285067,
+        pii "S1544-3191(17)30008-0",
+        doi "10.1016/j.japh.2017.01.008",
+        other {
+          db "ELocationID pii",
+          tag str "S1544-3191(17)30008-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.japh.2017.01.008"
+        }
+      }
+    },
+    abstract "OBJECTIVES: To incorporate a published clinical tool related to
+ heart failure (HF) assessment into advanced pharmacy practice experiences in
+ the community pharmacy setting to provide a meaningful and innovative
+ learning experience for students. SETTING: Sixteen independent and chain
+ community pharmacies that served as advanced pharmacy practice experience
+ locations. PRACTICE DESCRIPTION: Sixteen community pharmacy locations served
+ as rotation sites and participated in data collection (8 chain and 8
+ independent). PRACTICE INNOVATION: This was the first study in which pharmacy
+ students used The One-Minute Clinic for Heart Failure (TOM-C HF) tool to
+ assess HF within the community pharmacy setting. INTERVENTIONS: Trained
+ student pharmacists identified patients who may have heart failure by
+ evaluating medication dispensing records, interviewed the patient using the
+ TOM-C HF tool, and made interventions as clinically appropriate. EVALUATION:
+ The number of students using the TOM-C HF tool, the number and types of
+ interventions made, and student perceptions about the educational and
+ professional value of the patient interaction. RESULTS: Thirty-three of 83
+ (40%) students completed 63 patient assessments. Thirty-five percent of
+ patients (22/63) were candidates for an intervention. Interventions were
+ performed in 9 of 22 patients (41%). More than 65% of students found the
+ patient interaction to have educational and professional value. CONCLUSION:
+ Students were able to assess HF patients and make interventions in a
+ community pharmacy setting. The majority of students also perceived some
+ value in these assessments. The incorporation of a clinical tool in the
+ community setting driven by fourth-year pharmacy students has been shown to
+ be feasible and to provide both a novel advanced practice experience. In
+ addition, it may be expandable to the services offered at community
+ pharmacies.",
+    mesh {
+      {
+        term "Community Pharmacy Services",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Education, Pharmacy",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Heart Failure",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Patient Care",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Pharmacies",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Pharmacists",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Professional Role"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Students, Pharmacy",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      }
+    },
+    pmid 28285067,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

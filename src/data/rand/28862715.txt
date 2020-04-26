@@ -1,0 +1,189 @@
+
+Pubmed-entry ::= {
+  pmid 28862715,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prognostic role of EZH2 in gliomas: a meta-analysis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pyo JS",
+            affil str "1 Department of Pathology, Eulji University Hospital,
+ Eulji University School of Medicine, Daejeon - Republic of Korea.; 2 Study
+ Group for Meta-Analysis, Eulji University Hospital, Eulji University School
+ of Medicine, Daejeon - Republic of Korea."
+          },
+          {
+            name ml "Kang DW",
+            affil str "1 Department of Pathology, Eulji University Hospital,
+ Eulji University School of Medicine, Daejeon - Republic of Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. J. Biol. Markers",
+          ml-jta "Int J Biol Markers",
+          issn "1724-6008",
+          name "The International journal of biological markers"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "33",
+          issue "1",
+          pages "62-67",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28862715,
+        pii "3E6531A5-B6B1-498C-B528-CB6B3AE07651",
+        doi "10.5301/ijbm.5000293",
+        other {
+          db "ELocationID doi",
+          tag str "10.5301/ijbm.5000293"
+        }
+      }
+    },
+    abstract "BACKGROUND: The aim of this study was to elucidate the
+ clinicopathological significance of enhancer of zeste homolog 2 (EZH2)
+ expression in gliomas, including its incidence and prognostic role. In
+ addition, we investigated the concordance between immunohistochemistry and
+ polymerase chain reaction for determining the presence or absence of EZH2 in
+ these tumors. METHODS: The current meta-analysis included 1,049 gliomas with
+ various WHO tumor grades from 12 eligible studies, which were analyzed for
+ positivity of EZH2 and correlation between EZH2 expression and prognosis.
+ Subgroup analyses were performed based on detection methods and WHO tumor
+ grades. RESULTS: We found the estimated positive rate of EZH2 in gliomas to
+ be 0.663 (95% confidence interval [95% CI], 0.549-0.761). There was no
+ difference between immunohistochemistry and polymerase chain reaction in
+ determination of EZH2 positivity (0.706, 95% CI, 0.539-0.831 vs. 0.673, 95%
+ CI, 0.472-0.825). The positive rate of EZH2 increased by increasing WHO tumor
+ grade. EZH2 expression was significantly correlated with worse overall and
+ progression-free survival (hazard ratio [HR] = 2.436, 95% CI, 1.350-4.393,
+ and HR = 4.071, 95% CI, 1.325-12.508, respectively). The overall concordance
+ rate between immunohistochemistry and polymerase chain reaction was 0.885
+ (95% CI, 0.300-0.993). CONCLUSIONS: EZH2 positivity was significantly
+ correlated with WHO tumor grade and worse prognosis in gliomas.",
+    mesh {
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Disease-Free Survival"
+      },
+      {
+        term "Enhancer of Zeste Homolog 2 Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunohistochemistry"
+      },
+      {
+        term "Neoplasm Grading"
+      },
+      {
+        mp TRUE,
+        term "Prognosis"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type ec,
+        cit "2.1.1.43",
+        name "EZH2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.1.1.43",
+        name "Enhancer of Zeste Homolog 2 Protein"
+      }
+    },
+    pmid 28862715,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis"
+    },
+    status medline
+  }
+}
+
+

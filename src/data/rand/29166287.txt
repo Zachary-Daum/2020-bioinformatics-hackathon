@@ -1,0 +1,171 @@
+
+Pubmed-entry ::= {
+  pmid 29166287,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Assessment of genomic inbreeding in Polish Konik horses."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kaminski S",
+            affil str "."
+          },
+          {
+            name ml "Hering DM",
+            affil str "."
+          },
+          {
+            name ml "Jaworski Z",
+            affil str "."
+          },
+          {
+            name ml "Zabolewicz T",
+            affil str "."
+          },
+          {
+            name ml "Rusc A",
+            affil str "."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pol J Vet Sci",
+          ml-jta "Pol J Vet Sci",
+          issn "1505-1773",
+          name "Polish journal of veterinary sciences"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9,
+            day 26
+          },
+          volume "20",
+          issue "3",
+          pages "603-605",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29166287,
+        doi "10.1515/pjvs-2017-0074",
+        pii "/j/pjvs.2017.20.issue-3/pjvs-2017-0074/pjvs-2017-0074.xml",
+        other {
+          db "ELocationID doi",
+          tag str "10.1515/pjvs-2017-0074"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "/j/pjvs.2017.20.issue-3/pjvs-2017-0074/pjvs-2017-0074.xml"
+        }
+      }
+    },
+    abstract "The aim of this study was to assess the inbreeding coefficient
+ of Polish Konik horses based on runs of homozygosity (ROH). Ninety six horses
+ kept in 6 herds located across Poland were genotyped with the use of
+ EquineSNP60 BeadChip (Illumina). SNP markers with a Minor Allele Frequency
+ lower than 0.01 and SNPs assigned to chromosome X or Y were excluded from the
+ study. A total of 50 708 SNPs were included for statistical analysis (SVS
+ software, Golden Helix). The analysis showed that the population is in
+ genetic equilibrium, with He and Ho estimates both equal to 0.3086. Seven
+ categories of Runs of Homozygozity (ROH) length were defined: >0.5, >1, >2,
+ >4, >8, >16, >25 Mb. The genomic inbreeding coefficient derived from ROH
+ (FROH) calculated for each ROH length ranged from 15.96% based on the
+ shortest ROH (>0,5Mb) to 2.71% for the longest ROH (>25Mb). Among individual
+ horses, the inbreeding coefficient ranged from 5.25% to 22.41% (for ROH
+ >1Mb). Analysis of ROH in Polish Koniks allows for more effective management
+ of their inbreeding in the future.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Genomics",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Genotype"
+      },
+      {
+        term "Horses",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Inbreeding"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Poland"
+      },
+      {
+        term "Polymorphism, Single Nucleotide"
+      }
+    },
+    pmid 29166287,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,173 @@
+
+Pubmed-entry ::= {
+  pmid 28675253,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Flight and swarming behaviour of Culicoides species (Diptera:
+ Ceratopogonidae) on a livestock farm in Northern Spain."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gonza Lez M",
+            affil str "Division of Biomedical and Life Sciences, Faculty of
+ Health and Medicine, Lancaster University, Bailrigg, Lancashire, LA1 4YG,
+ United Kingdom."
+          },
+          {
+            name ml "Alarco N-Elbal PM"
+          },
+          {
+            name ml "Venter GJ"
+          },
+          {
+            name ml "Lo Pez S"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Vet. Ital.",
+          ml-jta "Vet Ital",
+          issn "1828-1427",
+          name "Veterinaria italiana"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6,
+            day 30
+          },
+          volume "53",
+          issue "2",
+          pages "157-166",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28675253,
+        doi "10.12834/VetIt.371.1663.4",
+        other {
+          db "ELocationID doi",
+          tag str "10.12834/VetIt.371.1663.4"
+        }
+      }
+    },
+    abstract "The efficacy of sweep nets and a CDC white light-suction trap
+ for the sampling of Culicoides species (Diptera: Ceratopogonidae) were
+ compared on a livestock farm in Northern Spain during the Summer of 2013. A
+ total of 6,082 specimens representing 26 species were collected with sweep
+ nets in 4 areas at di erent heights (ground level, 1.5 m, and 3 m), and 8,463
+ specimens representing 28 species with a single white light trap. Eight
+ species - Culicoides brunnicans, Culicoides punctatus, Culicoides
+ obsoletus/Culicoides scoticus, Culicoides lupicaris, Culcoides picturatus,
+ Culicoides achrayi, and Culicoides simulator - were dominant and accounted
+ for 97.4% and 97.2% of the total specimens collected with both methods, sweep
+ nets, and light traps, respectively. The sex ratios with sweep netting and
+ light trapping were strongly female biased (78.4% and 97.1%, respectively).
+ Nulliparous and parous females were predominantly captured with both methods.
+ A high percentage (17%) of gravid females was, however, captured on manure at
+ ground level while sweeping. Searches for male swarms revealed the presence
+ of several C. punctatus swarms consisting of 26 to 196 males and 3 swarms of
+ C. obsoletus that ranged from 1 to 12 males in size. This study suggested
+ that both methods are suitable and complementary tools for Culicoides
+ sampling.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Behavior, Animal",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Ceratopogonidae",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Farms"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Insect Vectors",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Livestock"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Sex Factors"
+      },
+      {
+        term "Spain"
+      }
+    },
+    pmid 28675253,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

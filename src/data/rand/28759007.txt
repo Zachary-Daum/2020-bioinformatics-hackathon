@@ -1,0 +1,341 @@
+
+Pubmed-entry ::= {
+  pmid 28759007,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Generating diversity in human glucocorticoid signaling through a
+ racially diverse polymorphism in the beta isoform of the glucocorticoid
+ receptor."
+      },
+      authors {
+        names std {
+          {
+            name ml "Whirledge SD",
+            affil str "Department of Obstetrics, Gynecology, and Reproductive
+ Sciences, Yale School of Medicine, New Haven, CT, USA."
+          },
+          {
+            name ml "Jewell CM",
+            affil str "Molecular Endocrinology Group, Signal Transduction
+ Laboratory, National Institute of Environmental Health Sciences/NIH, Research
+ Triangle Park, NC, USA."
+          },
+          {
+            name ml "Barber LM",
+            affil str "Social and Scientific Systems Inc, Durham, NC, USA."
+          },
+          {
+            name ml "Xu X",
+            affil str "Integrative Bioinformatics, National Institute of
+ Environment Health Sciences/NIH, Research Triangle Park, NC, USA."
+          },
+          {
+            name ml "Katen KS",
+            affil str "Molecular Endocrinology Group, Signal Transduction
+ Laboratory, National Institute of Environmental Health Sciences/NIH, Research
+ Triangle Park, NC, USA."
+          },
+          {
+            name ml "Garantziotis S",
+            affil str "Clinical Research Program, Office of Clinical Research,
+ National Institute of Environmental Health Sciences/NIH, Research Triangle
+ Park, NC, USA."
+          },
+          {
+            name ml "Cidlowski JA",
+            affil str "Molecular Endocrinology Group, Signal Transduction
+ Laboratory, National Institute of Environmental Health Sciences/NIH, Research
+ Triangle Park, NC, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lab. Invest.",
+          ml-jta "Lab Invest",
+          issn "1530-0307",
+          name "Laboratory investigation; a journal of technical methods and
+ pathology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "97",
+          issue "11",
+          pages "1282-1295",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28759007,
+        pii "labinvest201776",
+        doi "10.1038/labinvest.2017.76",
+        other {
+          db "pmc",
+          tag str "PMC5759773"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS924694"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/labinvest.2017.76"
+        }
+      }
+    },
+    abstract "Alternative splicing of the human glucocorticoid receptor gene
+ generates two isoforms, hGRalpha and hGRbeta. hGRbeta functions as a
+ dominant-negative regulator of hGRalpha activity and but also has inherent
+ transcriptional activity, collectively altering glucocorticoid sensitivity.
+ Single-nucleotide polymorphisms in the 3' UTR of hGRbeta have been associated
+ with altered receptor protein expression, glucocorticoid sensitivity, and
+ disease risk. Characterization of the hGRbeta G3134T polymorphism has been
+ limited to a relatively small, homogenous population. The objective of this
+ study was to determine the prevalence of hGRbeta G3134T in a diverse
+ population and assess the association of hGRbeta G3134T in this population
+ with physiological outcomes. In a prospective cohort study, 3730 genetically
+ diverse participants were genotyped for hGRbeta G3134T and four common GR
+ polymorphisms. A subset of these participants was evaluated for clinical and
+ biochemical measurements. Immortalized human osteosarcoma cells (U-2 OS),
+ stably transfected with wild-type or G3134T hGRbeta, were evaluated for
+ receptor expression, stability, and genome-wide gene expression.
+ Glucocorticoid-mediated gene expression profiles were investigated in primary
+ macrophages isolated from participants. In a racially diverse population, the
+ minor allele frequency was 74% (50.7% heterozygous carriers and 23.3%
+ homozygous minor allele), with a higher prevalence in Caucasian non-Hispanic
+ participants. After adjusting for confounding variable, carriers of hGRbeta
+ G3134T were more likely to self-report allergies, have higher serum cortisol
+ levels, and reduced cortisol suppression in response to low-dose
+ dexamethasone. The presence of hGRbeta G3134T in U-2 OS cells increased hGR
+ mRNA stability and protein expression. Microarray analysis revealed that the
+ presence of the hGRbeta G3134T polymorphism uniquely altered gene expression
+ profiles in U-2 OS cells and primary macrophages. hGRbeta G3134T is
+ significantly present in the study population and associated with race,
+ self-reported disease, and serum levels of glucocorticoids. Underlying these
+ health differences may be changes in gene expression driven by altered
+ receptor stability.",
+    mesh {
+      {
+        mp TRUE,
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "African Continental Ancestry Group"
+      },
+      {
+        term "Amino Acid Substitution"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "European Continental Ancestry Group"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Genetic Association Studies"
+      },
+      {
+        term "Glucocorticoids",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hispanic Americans"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Macrophages",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "North Carolina"
+      },
+      {
+        mp TRUE,
+        term "Polymorphism, Single Nucleotide"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Receptors, Glucocorticoid",
+        qual {
+          {
+            mp TRUE,
+            subh "agonists"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Recombinant Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Registries"
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "Glucocorticoids"
+      },
+      {
+        type nameonly,
+        name "NR3C1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Receptors, Glucocorticoid"
+      },
+      {
+        type nameonly,
+        name "Recombinant Proteins"
+      },
+      {
+        type nameonly,
+        name "glucocorticoid receptor beta"
+      }
+    },
+    idnum {
+      "Z01 ES090057-12/Intramural NIH HHS",
+      "Z01 ES090057-13/Intramural NIH HHS",
+      "Z01 ES090079-12/Intramural NIH HHS"
+    },
+    pmid 28759007,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, N.I.H., Intramural"
+    },
+    status medline
+  }
+}
+
+

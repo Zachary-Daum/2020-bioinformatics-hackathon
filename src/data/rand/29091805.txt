@@ -1,0 +1,326 @@
+
+Pubmed-entry ::= {
+  pmid 29091805,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Photochemical degradation of the carbapenem antibiotics imipenem
+ and meropenem in aqueous solutions under solar radiation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Reina AC",
+            affil str "EUDIM, Escuela Universitaria de Ingenieria Mecanica,
+ Universidad de Tarapaca, Av. General Velasquez, 1775, Arica, Chile."
+          },
+          {
+            name ml "Martinez-Piernas AB",
+            affil str "CIESOL, Joint Centre University of Almeria-CIEMAT,
+ Almeria, Spain."
+          },
+          {
+            name ml "Bertakis Y",
+            affil str "Department of Environmental Engineering, Technical
+ University of Crete, Polytechneioupolis, GR-73100 Chania, Greece."
+          },
+          {
+            name ml "Brebou C",
+            affil str "Department of Environmental Engineering, Technical
+ University of Crete, Polytechneioupolis, GR-73100 Chania, Greece."
+          },
+          {
+            name ml "Xekoukoulotakis NP",
+            affil str "Department of Environmental Engineering, Technical
+ University of Crete, Polytechneioupolis, GR-73100 Chania, Greece. Electronic
+ address: nikos.xekoukoulotaki@enveng.tuc.gr."
+          },
+          {
+            name ml "Aguera A",
+            affil str "CIESOL, Joint Centre University of Almeria-CIEMAT,
+ Almeria, Spain. Electronic address: aaguera@ual.es."
+          },
+          {
+            name ml "Sanchez Perez JA",
+            affil str "CIESOL, Joint Centre University of Almeria-CIEMAT,
+ Almeria, Spain; Chemical Engineering Department, University of Almeria, Spain."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Water Res.",
+          ml-jta "Water Res",
+          issn "1879-2448",
+          name "Water research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 1
+          },
+          volume "128",
+          pages "61-70",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29091805,
+        pii "S0043-1354(17)30882-5",
+        doi "10.1016/j.watres.2017.10.047",
+        other {
+          db "ELocationID pii",
+          tag str "S0043-1354(17)30882-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.watres.2017.10.047"
+        }
+      }
+    },
+    abstract "This paper deals with the photochemical fate of two
+ representative carbapenem antibiotics, namely imipenem and meropenem, in
+ aqueous solutions under solar radiation. The analytical method employed for
+ the determination of the target compounds in various aqueous matrices, such
+ as ultrapure water, municipal wastewater treatment plant effluents, and river
+ water, at environmentally relevant concentrations, was liquid chromatography
+ coupled with hybrid triple quadrupole-linear ion trap-mass spectrometry. The
+ absorption spectra of both compounds were measured in aqueous solutions at pH
+ values from 6 to 8, and both compounds showed a rather strong absorption band
+ centered at about 300 nm, while their molar absorption coefficient was in the
+ order from 9 x 10(3)-10(4) L mol(-1) cm(-1). The kinetics of the
+ photochemical degradation of the target compounds was studied in aqueous
+ solutions under natural solar radiation in a solar reactor with compound
+ parabolic collectors. It was found that the photochemical degradation of both
+ compounds at environmentally relevant concentrations follows first order
+ kinetics and the quantum yield was in the order of 10(-3) mol einsten(-1).
+ Several parameters were studied, such as solution pH, the presence of nitrate
+ ions and humic acids, and the effect of water matrix. In all cases, it was
+ found that the presence of various organic and inorganic constituents in the
+ aqueous matrices do not contribute significantly, either positively or
+ negatively, to the photochemical degradation of both compounds under natural
+ solar radiation. In a final set of photolysis experiments, the effect of the
+ level of irradiance was studied under simulated solar radiation and it was
+ found that the quantum yield for the direct photodegradation of both
+ compounds remained practically constant by changing the incident solar
+ irradiance from 28 to 50 W m(-2).",
+    mesh {
+      {
+        term "Carbapenems",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Chromatography, Liquid"
+      },
+      {
+        term "Humic Substances",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Imipenem",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Kinetics"
+      },
+      {
+        term "Meropenem"
+      },
+      {
+        term "Photolysis"
+      },
+      {
+        term "Rivers",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Sunlight"
+      },
+      {
+        term "Thienamycins",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Waste Water",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Water",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Water Pollutants, Chemical",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Carbapenems"
+      },
+      {
+        type nameonly,
+        name "Humic Substances"
+      },
+      {
+        type nameonly,
+        name "Thienamycins"
+      },
+      {
+        type nameonly,
+        name "Waste Water"
+      },
+      {
+        type nameonly,
+        name "Water Pollutants, Chemical"
+      },
+      {
+        type cas,
+        cit "059QF0KO0R",
+        name "Water"
+      },
+      {
+        type cas,
+        cit "71OTZ9ZE0A",
+        name "Imipenem"
+      },
+      {
+        type cas,
+        cit "FV9J3JU8B1",
+        name "Meropenem"
+      }
+    },
+    pmid 29091805,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

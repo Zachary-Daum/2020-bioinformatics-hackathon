@@ -1,0 +1,199 @@
+
+Pubmed-entry ::= {
+  pmid 29353084,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Creating diverse synapses from the same molecules."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nusser Z",
+            affil str "Laboratory of Cellular Neurophysiology, Institute of
+ Experimental Medicine, Hungarian Academy of Sciences, Szigony Street 43, 1083
+ Budapest, Hungary. Electronic address: nusser@koki.hu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Curr. Opin. Neurobiol.",
+          ml-jta "Curr Opin Neurobiol",
+          issn "1873-6882",
+          name "Current opinion in neurobiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "51",
+          pages "8-15",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29353084,
+        pii "S0959-4388(17)30282-9",
+        doi "10.1016/j.conb.2018.01.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0959-4388(17)30282-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.conb.2018.01.001"
+        }
+      }
+    },
+    abstract "Research over the past half a century has revealed remarkable
+ diversity among chemical synapses of the CNS. The structural, functional and
+ molecular diversity of synapses was mainly concluded from studying different
+ synapses in distinct brain regions and preparations. It is not surprising
+ that synapses made by molecularly distinct pre-synaptic and post-synaptic
+ cells display different morphological and functional properties with distinct
+ underlying molecular mechanisms. However, synapses made by a single
+ presynaptic cell onto distinct types of postsynaptic cells, or distinct
+ presynaptic inputs onto a single postsynaptic cell, also show remarkable
+ heterogeneity. Here, by reviewing recent experiments, I suggest that robust
+ functional diversity can be achieved by building synapses from the same
+ molecules, but using different numbers, densities and nanoscale arrangements.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "Calcium",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neurotransmitter Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Presynaptic Terminals",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          },
+          {
+            subh "ultrastructure"
+          }
+        }
+      },
+      {
+        term "Synapses",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Synaptic Membranes",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Neurotransmitter Agents"
+      },
+      {
+        type cas,
+        cit "SY7Q814VUP",
+        name "Calcium"
+      }
+    },
+    pmid 29353084,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

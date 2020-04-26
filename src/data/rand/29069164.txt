@@ -1,0 +1,206 @@
+
+Pubmed-entry ::= {
+  pmid 29069164,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Potential of microalgae in the bioremediation of water with
+ chloride content."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ramirez ME",
+            affil str "Centro de Estudios y de Investigacion en Biotecnologia
+ - CIBIOT, Facultad de Ingenieria Quimica, Escuela de Ingenierias, Universidad
+ Pontificia Bolivariana - UPB, Circular 1 No. 70-01, Postal Code 050031,
+ Medellin, Colombia."
+          },
+          {
+            name ml "Velez YH",
+            affil str "Centro de Estudios y de Investigacion en Biotecnologia
+ - CIBIOT, Facultad de Ingenieria Quimica, Escuela de Ingenierias, Universidad
+ Pontificia Bolivariana - UPB, Circular 1 No. 70-01, Postal Code 050031,
+ Medellin, Colombia."
+          },
+          {
+            name ml "Rendon L",
+            affil str "Centro de Estudios y de Investigacion en Biotecnologia
+ - CIBIOT, Facultad de Ingenieria Quimica, Escuela de Ingenierias, Universidad
+ Pontificia Bolivariana - UPB, Circular 1 No. 70-01, Postal Code 050031,
+ Medellin, Colombia."
+          },
+          {
+            name ml "Alzate E",
+            affil str "Centro de Estudios y de Investigacion en Biotecnologia
+ - CIBIOT, Facultad de Ingenieria Quimica, Escuela de Ingenierias, Universidad
+ Pontificia Bolivariana - UPB, Circular 1 No. 70-01, Postal Code 050031,
+ Medellin, Colombia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz J Biol",
+          ml-jta "Braz J Biol",
+          issn "1678-4375",
+          name "Brazilian journal of biology = Revista brasleira de biologia"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "78",
+          issue "3",
+          pages "472-476",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29069164,
+        pii "S1519-69842017005113104",
+        doi "10.1590/1519-6984.169372",
+        other {
+          db "ELocationID pii",
+          tag str "S1519-69842018000300472"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1519-6984.169372"
+        }
+      }
+    },
+    abstract "In this work it was carried out the bioremediation of water
+ containing chlorides with native microalgae (MCA) provided by the Centre for
+ study and research in biotechnology (CIBIOT) at Universidad Pontificia
+ Bolivariana. Microalgae presented an adaptation to the water and so the
+ conditions evaluated reaching a production of CO2 in mg L-1 of 53.0, 26.6,
+ 56.0, 16.0 and 30.0 and chloride removal efficiencies of 16.37, 26.03, 40.04,
+ 25.96 and 20.25% for microalgae1, microalgae2, microalgae3, microalgae4 and
+ microalgae5 respectively. Water bioremediation process was carried out with
+ content of chlorides in fed batch system with an initial concentration of
+ chlorides of 20585 mg L-1 every 2 days. The Manipulated variables were: the
+ flow of MCA3 (10% inoculum) for test one; NPK flow for test two, and flow of
+ flow of MCA3+0.5 g L-1 NPK. Chloride removal efficiencies were 66.88%, 63.41%
+ and 66.98% for test one, two and three respectively, for a total bioprocess
+ time of 55 days.",
+    mesh {
+      {
+        term "Biodegradation, Environmental"
+      },
+      {
+        term "Biomass"
+      },
+      {
+        term "Colombia"
+      },
+      {
+        term "Microalgae",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Waste Water",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Water Pollutants, Chemical",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Waste Water"
+      },
+      {
+        type nameonly,
+        name "Water Pollutants, Chemical"
+      }
+    },
+    pmid 29069164,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

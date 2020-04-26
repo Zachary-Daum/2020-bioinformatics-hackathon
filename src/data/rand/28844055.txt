@@ -1,0 +1,179 @@
+
+Pubmed-entry ::= {
+  pmid 28844055,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "What is MR spectroscopy?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Manias KA",
+            affil str "Institute of Cancer and Genomic Sciences, University of
+ Birmingham, Birmingham, West Midlands, UK.; Department of Paediatric
+ Oncology, Birmingham Children's Hospital, Birmingham, West Midlands, UK."
+          },
+          {
+            name ml "Peet A",
+            affil str "Institute of Cancer and Genomic Sciences, University of
+ Birmingham, Birmingham, West Midlands, UK.; Department of Paediatric
+ Oncology, Birmingham Children's Hospital, Birmingham, West Midlands, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arch Dis Child Educ Pract Ed",
+          ml-jta "Arch Dis Child Educ Pract Ed",
+          issn "1743-0593",
+          name "Archives of disease in childhood. Education and practice
+ edition"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "103",
+          issue "4",
+          pages "213-216",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28844055,
+        pii "archdischild-2017-312839",
+        doi "10.1136/archdischild-2017-312839",
+        other {
+          db "ELocationID doi",
+          tag str "10.1136/archdischild-2017-312839"
+        }
+      }
+    },
+    abstract "(1)H-Magnetic Resonance Spectroscopy (MRS) is a novel advanced
+ imaging technique used as an adjunct to MRI to reveal complementary
+ non-invasive information about the biochemical composition of imaged tissue.
+ Clinical uses in paediatrics include aiding diagnosis of brain tumours,
+ neonatal disorders such as hypoxic-ischaemic encephalopathy, inherited
+ metabolic diseases, traumatic brain injury, demyelinating conditions and
+ infectious brain lesions. MRS has potential to improve diagnosis and
+ treatment monitoring of childhood brain tumours and other CNS diseases,
+ facilitate biopsy and surgical planning, and provide prognostic biomarkers.
+ MRS is employed as a research tool outside the brain in liver disease and
+ disorders of muscle metabolism. The range of clinical uses is likely to
+ increase with growing evidence for added value. Multicentre trials are needed
+ to definitively establish the benefits of MRS in specific clinical scenarios
+ and integrate this promising new technique into routine practice to improve
+ patient care. This article gives a brief overview of MRS and its potential
+ clinical applications, and addresses challenges surrounding translation into
+ practice.",
+    mesh {
+      {
+        term "Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Brain Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Magnetic Resonance Spectroscopy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 28844055,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

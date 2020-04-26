@@ -1,0 +1,190 @@
+
+Pubmed-entry ::= {
+  pmid 29377203,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Media Smart-Targeted: Diagnostic outcomes from a two-country
+ pragmatic online eating disorder risk reduction trial for young adults."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wilksch SM",
+            affil str "School of Psychology, Flinders University, Adelaide,
+ South Australia, Australia."
+          },
+          {
+            name ml "O'Shea A",
+            affil str "School of Psychology, Flinders University, Adelaide,
+ South Australia, Australia."
+          },
+          {
+            name ml "Wade TD",
+            affil str "School of Psychology, Flinders University, Adelaide,
+ South Australia, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Eat Disord",
+          ml-jta "Int J Eat Disord",
+          issn "1098-108X",
+          name "The International journal of eating disorders"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "51",
+          issue "3",
+          pages "270-274",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29377203,
+        doi "10.1002/eat.22825",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/eat.22825"
+        }
+      }
+    },
+    abstract "BACKGROUND: Diagnostic outcomes in eating disorder (ED) risk
+ reduction trials are important but rarely reported. METHODS: An online
+ pragmatic randomized-controlled trial was conducted with young-adult women in
+ Australia and New Zealand seeking to improve their body image. Media
+ Smart-Targeted (MS-T) was a 9-module program released weekly while control
+ participants received tips for positive body image. Eating Disorder
+ Examination-Questionnaire (EDE-Q) scores from baseline and 12-month follow-up
+ were used to investigate two outcomes: ED onset in those who were
+ asymptomatic at baseline (prevention effects); and, ED remission in those who
+ met diagnosis at baseline (treatment effects). RESULTS: MS-T participants
+ were 66% less likely than controls to develop an ED by 12-month follow-up
+ (nonsignificant). MS-T participants who met ED criteria at baseline were 75%
+ less likely than controls to still meet diagnostic criteria at follow-up.
+ This effect was significant and remained so for both those who did and who
+ did not access external face-to-face ED treatment during the trial.
+ CONCLUSIONS: While further investigations are necessary, MS-T has fully
+ automated procedures, low implementation costs, the potential to be delivered
+ at-scale to assist those assist those where face-to-face services are limited
+ or not available (e.g., remote areas).",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Education, Distance"
+      },
+      {
+        term "Feeding and Eating Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Risk Reduction Behavior"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29377203,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,107 @@
+
+Pubmed-entry ::= {
+  pmid 28455609,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Erratum to: Measurement of Macrophage-Specific In Vivo Reverse
+ Cholesterol Transport in Mice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kockx M",
+            affil str "ANZAC Research Institute, Concord Repatriation General
+ Hospital, Concord, NSW, 2139, Australia. maaike.kockx@sydney.edu.au."
+          },
+          {
+            name ml "Jessup W",
+            affil str "ANZAC Research Institute, Concord Repatriation General
+ Hospital, Concord, NSW, 2139, Australia."
+          },
+          {
+            name ml "Kritharides L",
+            affil str "ANZAC Research Institute, Concord Repatriation General
+ Hospital, Concord, NSW, 2139, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Methods Mol. Biol.",
+          ml-jta "Methods Mol Biol",
+          issn "1940-6029",
+          name "Methods in molecular biology (Clifton, N.J.)"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "1583",
+          pages "E1",
+          language "eng",
+          retract {
+            type erratum,
+            exp "Methods Mol Biol. 2017;1583:287-298. PMID: 28205182"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 4,
+                day 30,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28455609,
+        doi "10.1007/978-1-4939-6875-6_22",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/978-1-4939-6875-6_22"
+        }
+      }
+    },
+    pmid 28455609,
+    pub-type {
+      "Journal Article",
+      "Published Erratum"
+    },
+    status premedline
+  }
+}
+
+

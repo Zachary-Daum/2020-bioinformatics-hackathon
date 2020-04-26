@@ -1,0 +1,352 @@
+
+Pubmed-entry ::= {
+  pmid 29224791,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Antioxidant and anti-inflammatory effects of virgin coconut oil
+ supplementation abrogate acute chemotherapy oxidative nephrotoxicity induced
+ by anticancer drug methotrexate in rats."
+      },
+      authors {
+        names std {
+          {
+            name ml "Famurewa AC",
+            affil str "Department of Medical Biochemistry, Faculty of Basic
+ Medical Sciences, Federal University, Ndufu-Alike, Ikwo, Abakaliki, Ebonyi
+ State, Nigeria. Electronic address: ademola.famurewa@funai.edu.ng."
+          },
+          {
+            name ml "Aja PM",
+            affil str "Department of Biochemistry, Faculty of Biological
+ Sciences, Ebonyi State University, Abakaliki, Nigeria."
+          },
+          {
+            name ml "Maduagwuna EK",
+            affil str "Department of Biochemistry, Faculty of Biological
+ Sciences, Ebonyi State University, Abakaliki, Nigeria."
+          },
+          {
+            name ml "Ekeleme-Egedigwe CA",
+            affil str "Department of Chemistry/Biochemistry/Molecular Biology,
+ Faculty of Science, Federal University, Ndufu-Alike, Ikwo, Ebonyi State,
+ Nigeria."
+          },
+          {
+            name ml "Ufebe OG",
+            affil str "Department of Medical Biochemistry, Faculty of Basic
+ Medical Sciences, Federal University, Ndufu-Alike, Ikwo, Abakaliki, Ebonyi
+ State, Nigeria."
+          },
+          {
+            name ml "Azubuike-Osu SO",
+            affil str "Department of Physiology, Faculty of Basic Medical
+ Sciences, Federal University, Ndufu-Alike, Ikwo, Abakaliki, Ebonyi State,
+ Nigeria."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "96",
+          pages "905-911",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29224791,
+        pii "S0753-3322(17)35372-6",
+        doi "10.1016/j.biopha.2017.12.008",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)35372-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2017.12.008"
+        }
+      }
+    },
+    abstract "BACKGROUND: Methotrexate (MTX) is an efficacious anticancer
+ agent constrained in clinical use due to its toxicity on non-targeted tissue,
+ a considerable source of worry to clinicians. Because the toxicity is
+ associated with oxidative stress and inflammation, the study explored
+ antioxidant and anti-inflammatory effect of virgin coconut oil (VCO)
+ supplementation in nephrotoxicity induced by MTX in rats. METHODS: Rats were
+ randomized into 4 groups (n=6) as follows: Control group; MTX group injected
+ with single dose of MTX (20mg/kg, ip) on day 14; VCO (5%)+MTX and VCO
+ (15%)+MTX groups were pre-treated with VCO diet and injected with single dose
+ of MTX (20mg/kg, ip) on day 14. After 3 days of MTX injection, serum kidney
+ markers, renal activities of antioxidant enzymes and glutathione (GSH)
+ content were determined. Lipid peroxidation level and inflammatory markers-
+ interleukin-6 (IL-6), nitric oxide (NO) and C-reactive protein (CRP) were
+ estimated in kidney. Histopathological alterations were examined for kidney
+ damage. RESULTS: MTX nephrotoxicity was evidenced by markedly elevated serum
+ renal markers along with significant decreases in renal GSH and activities of
+ antioxidant enzymes confirmed by histopathology. Lipid peroxidation level,
+ IL-6, NO and CRP markedly increased compared to control. VCO supplementation
+ prior to MTX injection attenuated MTX-induced oxidative nephrotoxicity via
+ prominent increases in GSH and antioxidant enzyme activities in a
+ dose-dependent manner. The renal inflammatory markers and MDA depleted
+ considerably compared to MTX control group. Histopathological alterations
+ were mitigated to confirm the biochemical indices. CONCLUSION: VCO
+ supplementation demonstrates nephroprotective activity by attenuating MTX
+ oxidative nephrotoxicity via antioxidant and anti-inflammatory activities in
+ kidney. Our results suggested that VCO may benefit cancer patients on MTX
+ chemotherapy against kidney injury.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Coconut Oil",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Dietary Supplements"
+      },
+      {
+        term "Glutathione",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Kidney",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Kidney Diseases",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipid Peroxidation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Malondialdehyde",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Methotrexate",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Oxidation-Reduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Wistar"
+      },
+      {
+        term "Superoxide Dismutase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type cas,
+        cit "4Y8F71G49Q",
+        name "Malondialdehyde"
+      },
+      {
+        type ec,
+        cit "1.15.1.1",
+        name "Superoxide Dismutase"
+      },
+      {
+        type cas,
+        cit "GAN16C9B8O",
+        name "Glutathione"
+      },
+      {
+        type cas,
+        cit "Q9L0O73W7L",
+        name "Coconut Oil"
+      },
+      {
+        type cas,
+        cit "YL5FZ2Y5U1",
+        name "Methotrexate"
+      }
+    },
+    pmid 29224791,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

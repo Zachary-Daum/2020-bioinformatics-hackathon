@@ -1,0 +1,383 @@
+
+Pubmed-entry ::= {
+  pmid 29328418,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "microRNA3941 targets IGF2 to control LPSinduced acute pneumonia
+ in A549 cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fei S",
+            affil str "Department of Pediatrics, Edong Healthcare Group,
+ Huangshi Maternity and Children's Health Hospital, Huangshi, Hubei 435000,
+ P.R. China."
+          },
+          {
+            name ml "Cao L",
+            affil str "Department of Pediatrics, Huangshi Central Hospital,
+ Affiliated Hospital of Hubei Polytechnic University, Huangshi, Hubei 435000,
+ P.R. China."
+          },
+          {
+            name ml "Pan L",
+            affil str "Department of Medical Records, Huangshi Central
+ Hospital, Affiliated Hospital of Hubei Polytechnic University, Huangshi,
+ Hubei 435000, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol Med Rep",
+          ml-jta "Mol Med Rep",
+          issn "1791-3004",
+          name "Molecular medicine reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "17",
+          issue "3",
+          pages "4019-4026",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29328418,
+        doi "10.3892/mmr.2017.8369",
+        other {
+          db "ELocationID doi",
+          tag str "10.3892/mmr.2017.8369"
+        }
+      }
+    },
+    abstract "The present study aimed to investigate the potential roles and
+ regulatory mechanism of microRNA (miR)-3941 in lipopolysaccharides
+ (LPS)induced acute pneumonia. The expression of miR3941 in child patients
+ with acute pneumonia was detected and A549 cells were treated with LPS to
+ establish the cellular model of acute pneumonia. The effects of miR3941 in
+ LPSinduced cell injury were investigated by assessing cell viability,
+ apoptosis and inflammation. In addition, the regulatory relationship between
+ miR3941 and insulinlike growth factor 2 (IGF2) was explored, as well as the
+ association between miR3941 and the phosphatidylinositol4,5bisphosphate
+ 3kinase/protein kinase B (PI3K/AKT) pathway. miR3941 was significantly
+ downregulated in patients with acute pneumonia (P<0.01). In the cell model of
+ acute pneumonia, LPS treatment significantly induced cell injury via
+ inhibiting cell viability (P<0.05 or P<0.01), inducing cell apoptosis
+ (P<0.01) and enhancing the production of cytokines [interleukin (IL)6, IL8
+ and tumor necrosis factoralpha; P<0.01 or P<0.001]. LPS treatment also
+ resulted in a significantly decreased expression of miR3941 in A549 cells
+ (P<0.01) and the overexpression of miR3941 significantly alleviated
+ LPSinduced cell injury (P<0.05). In addition, IGF2 was confirmed as a direct
+ target gene of miR3941. Knockdown of IGF2 significantly alleviated LPSinduced
+ cell injury (P<0.05, P<0.01 or P<0.001), which was significantly reversed by
+ suppression of miR3941 (P<0.05, P<0.01 or P<0.001). Furthermore, inhibition
+ of miR3941 was demonstrated to activate the PI3K/AKT pathway, which was
+ inhibited following knockdown of IGF2. The present study indicates that
+ miR3941 is downregulated in child patients with acute pneumonia and that
+ downregulation of miR3941 may promote LPSinduced cell injury in A549 cells
+ via targeting IGF2 to regulate the activation of the PI3K/AKT pathway.
+ Therefore, miR3941 may be a potential therapeutic target for the treatment of
+ acute pneumonia in child patients.",
+    mesh {
+      {
+        term "A549 Cells"
+      },
+      {
+        term "Acute Disease"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Binding Sites"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Genes, Reporter"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Insulin-Like Growth Factor II",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Luciferases",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "agonists"
+          },
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oligoribonucleotides",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pneumonia",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "IGF2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "MIRN3941 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Oligoribonucleotides"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type cas,
+        cit "67763-97-7",
+        name "Insulin-Like Growth Factor II"
+      },
+      {
+        type ec,
+        cit "1.13.12.-",
+        name "Luciferases"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 29328418,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,142 @@
+
+Pubmed-entry ::= {
+  pmid 28729449,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Disease Highlights the Cellular Diversity of Neurovascular
+ Units: Sign in Stranger."
+      },
+      authors {
+        names std {
+          {
+            name ml "Faraci FM",
+            affil str "From the Department of Internal Medicine and Department
+ of Pharmacology, Francois M. Abboud Cardiovascular Center, Carver College of
+ Medicine, Iowa City Veterans Affairs Healthcare System, University of Iowa.
+ frank-faraci@uiowa.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Circ. Res.",
+          ml-jta "Circ Res",
+          issn "1524-4571",
+          name "Circulation research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 21
+          },
+          volume "121",
+          issue "3",
+          pages "203-205",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28729449,
+        pii "CIRCRESAHA.117.311386",
+        doi "10.1161/CIRCRESAHA.117.311386",
+        other {
+          db "pmc",
+          tag str "PMC5539904"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS886755"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1161/CIRCRESAHA.117.311386"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Alzheimer Disease"
+      },
+      {
+        term "Blood-Brain Barrier"
+      },
+      {
+        term "Brain"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Macrophages"
+      },
+      {
+        term "Peptides"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Peptides"
+      }
+    },
+    idnum {
+      "I01 BX001399/BX/BLRD VA",
+      "R01 HL113863/HL/NHLBI NIH HHS",
+      "R01 NS096465/NS/NINDS NIH HHS"
+    },
+    pmid 28729449,
+    pub-type {
+      "Editorial",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

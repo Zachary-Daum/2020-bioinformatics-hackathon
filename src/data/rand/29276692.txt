@@ -1,0 +1,171 @@
+
+Pubmed-entry ::= {
+  pmid 29276692,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Small sample sizes in high-throughput miRNA screens: A common
+ pitfall for the identification of miRNA biomarkers."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kok MGM",
+            affil str "Departments of Vascular Medicine, University of
+ Amsterdam, Amsterdam, The Netherlands."
+          },
+          {
+            name ml "de Ronde MWJ",
+            affil str "Departments of Vascular Medicine, University of
+ Amsterdam, Amsterdam, The Netherlands.; Departments of Clinical Epidemiology,
+ Biostatistics and Bioinformatics, University of Amsterdam, Amsterdam, The
+ Netherlands."
+          },
+          {
+            name ml "Moerland PD",
+            affil str "Departments of Clinical Epidemiology, Biostatistics and
+ Bioinformatics, University of Amsterdam, Amsterdam, The Netherlands."
+          },
+          {
+            name ml "Ruijter JM",
+            affil str "Departments of Anatomy, Embryology and Physiology,
+ University of Amsterdam, Amsterdam, The Netherlands."
+          },
+          {
+            name ml "Creemers EE",
+            affil str "Departments of Experimental Cardiology, Academic
+ Medical Center, University of Amsterdam, Amsterdam, The Netherlands."
+          },
+          {
+            name ml "Pinto-Sietsma SJ",
+            affil str "Departments of Vascular Medicine, University of
+ Amsterdam, Amsterdam, The Netherlands.; Departments of Clinical Epidemiology,
+ Biostatistics and Bioinformatics, University of Amsterdam, Amsterdam, The
+ Netherlands."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomol Detect Quantif",
+          ml-jta "Biomol Detect Quantif",
+          issn "2214-7535",
+          name "Biomolecular detection and quantification"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12,
+            day 18
+          },
+          volume "15",
+          pages "1-5",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 26,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29276692,
+        doi "10.1016/j.bdq.2017.11.002",
+        pii "S2214-7535(17)30210-3",
+        other {
+          db "pmc",
+          tag str "PMC5737945"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bdq.2017.11.002"
+        }
+      }
+    },
+    abstract "Since the discovery of microRNAs (miRNAs), circulating miRNAs
+ have been proposed as biomarkers for disease. Consequently, many groups have
+ tried to identify circulating miRNA biomarkers for various types of diseases
+ including cardiovascular disease and cancer. However, the replicability of
+ these experiments has been disappointingly low. In order to identify
+ circulating miRNA candidate biomarkers, in general, first an unbiased
+ high-throughput screen is performed in which a large number of miRNAs is
+ detected and quantified in the circulation. Because these are costly
+ experiments, many of such studies have been performed using a low number of
+ study subjects (small sample size). Due to lack of power in small sample size
+ experiments, true effects are often missed and many of the detected effects
+ are wrong. Therefore, it is important to have a good estimate of the
+ appropriate sample size for a miRNA high-throughput screen. In this review,
+ we discuss the effects of small sample sizes in high-throughput screens for
+ circulating miRNAs. Using data from a miRNA high-throughput experiment on
+ isolated monocytes, we illustrate that the implementation of power
+ calculations in a high-throughput miRNA discovery experiment will avoid
+ unnecessarily large and expensive experiments, while still having enough
+ power to be able to detect clinically important differences.",
+    pmid 29276692,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

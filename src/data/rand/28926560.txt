@@ -1,0 +1,208 @@
+
+Pubmed-entry ::= {
+  pmid 28926560,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "HIV and HCV in U.S. Prisons and Jails: The Correctional Facility
+ as a Bellwether Over Time for the Community's Infections."
+      },
+      authors {
+        names std {
+          {
+            name ml "Spaulding AC",
+            affil str "Rollins School of Public Health, Emory University,
+ Atlanta GA, USA.; Emory School of Medicine, Emory University, Atlanta GA, USA."
+          },
+          {
+            name ml "Anderson EJ",
+            affil str "Rollins School of Public Health, Emory University,
+ Atlanta GA, USA."
+          },
+          {
+            name ml "Khan MA",
+            affil str "Rollins School of Public Health, Emory University,
+ Atlanta GA, USA."
+          },
+          {
+            name ml "Taborda-Vidarte CA",
+            affil str "Emory School of Medicine, Emory University, Atlanta GA,
+ USA."
+          },
+          {
+            name ml "Phillips JA",
+            affil str "Rollins School of Public Health, Emory University,
+ Atlanta GA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "AIDS Rev",
+          ml-jta "AIDS Rev",
+          issn "1698-6997",
+          name "AIDS reviews"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "19",
+          issue "3",
+          pages "134-147",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28926560,
+        pii "s113961211642"
+      }
+    },
+    abstract "Screening and treating correctional populations for HIV and HCV
+ infections is essential to successfully addressing both epidemics in the USA.
+ The prevalence of HIV and HCV infection is high in prisons and jails due to
+ increased rates of incarceration among disproportionately affected groups
+ such as injection drug users. Through a search of the published and grey
+ literature and surveying persons overseeing health programs in prisons, we
+ collected data on efforts to determine prevalence first for HIV and then for
+ HCV. Prevalence of both infections varies geographically and temporally,
+ reflecting epidemics in the community as well as local law enforcement
+ policies. We estimate that seroprevalence of HCV in 2015 for persons in U.S.
+ prisons averaged 18%, over tenfold greater than HIV. For both, transmission
+ and acquisition during incarceration are rare. Screening can identify
+ previously undetected cases: the efficiency of a testing strategy depends on
+ local conditions. Universal opt-out screening of entrants is usually best as
+ conducting risk-based screening has challenges. With HCV, the advent of
+ highly effective regimens makes cure feasible. Treatment within facilities
+ has the potential to reduce HCV incidence and disease burden in the
+ community, especially in difficult-to-reach populations. The extraordinarily
+ high cost of HCV treatment regimens and lack of political will are the main
+ barriers to treatment expansion. Just as community-wide HIV viral suppression
+ has required correctional/community coordination, elimination of HCV
+ infection in the USA will depend on a thoughtful, well-funded effort to
+ manage this disease in populations interacting with the criminal justice
+ system.",
+    mesh {
+      {
+        term "Antiviral Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Disease Transmission, Infectious"
+      },
+      {
+        term "HIV Infections",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "transmission"
+          }
+        }
+      },
+      {
+        term "Health Policy"
+      },
+      {
+        term "Hepatitis C",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "transmission"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mass Screening"
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        mp TRUE,
+        term "Prisons"
+      },
+      {
+        term "United States",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antiviral Agents"
+      }
+    },
+    idnum {
+      "P30 AI050409/AI/NIAID NIH HHS"
+    },
+    pmid 28926560,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

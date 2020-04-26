@@ -1,0 +1,192 @@
+
+Pubmed-entry ::= {
+  pmid 29290545,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Immune regulation by monocytes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Murray PJ",
+            affil str "Immunoregulation Group, Max-Planck-Institut fur
+ Biochemie, Am Klopferspitz 18, 82152 Martinsried, Germany. Electronic
+ address: murray@biochem.mpg.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Semin. Immunol.",
+          ml-jta "Semin Immunol",
+          issn "1096-3618",
+          name "Seminars in immunology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "35",
+          pages "12-18",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29290545,
+        pii "S1044-5323(17)30056-8",
+        doi "10.1016/j.smim.2017.12.005",
+        other {
+          db "ELocationID pii",
+          tag str "S1044-5323(17)30056-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.smim.2017.12.005"
+        }
+      }
+    },
+    abstract "Monocytes emerging from the bone marrow are the progenitors of
+ monocyte-derived macrophages. An essential function of monocytes is to seed
+ tissues with sufficient macrophages to replace loss from infection and tissue
+ damage. Recent work from diverse inflammatory and homeostatic settings has
+ shown monocytes also possess direct protective and pathogenic activities.
+ Thus, monocytes are not simply needed to generate macrophages, but instead
+ contribute to the overall orchestration of immunity. Some recently described
+ properties of monocytes are both surprising and mechanistically specific; for
+ example, inflammatory monocytes are required for the efficacy of transferred
+ activated cytotoxic T cells, but can have potent tissue damaging effects
+ while patrolling monocytes are required for anti-tumor immunity in some
+ cases, but in another example provokes resistance to chemotherapy and thereby
+ aid tumor growth. This summary will therefore focus on new findings about the
+ regulatory activities of monocytes themselves.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Differentiation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunologic Surveillance"
+      },
+      {
+        term "Immunotherapy, Adoptive"
+      },
+      {
+        term "Lymphocyte Activation"
+      },
+      {
+        term "Macrophages",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Monocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "T-Lymphocytes, Cytotoxic",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          },
+          {
+            subh "transplantation"
+          }
+        }
+      }
+    },
+    pmid 29290545,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

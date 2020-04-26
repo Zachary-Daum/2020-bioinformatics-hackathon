@@ -1,0 +1,152 @@
+
+Pubmed-entry ::= {
+  pmid 29323735,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The basis of behavioral momentum in the nonlinearity of strength."
+      },
+      authors {
+        names std {
+          {
+            name ml "Killeen PR",
+            affil str "Arizona State University."
+          },
+          {
+            name ml "Nevin JA",
+            affil str "University of New Hampshire."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Exp Anal Behav",
+          ml-jta "J Exp Anal Behav",
+          issn "1938-3711",
+          name "Journal of the experimental analysis of behavior"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "109",
+          issue "1",
+          pages "4-32",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29323735,
+        doi "10.1002/jeab.304",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jeab.304"
+        }
+      }
+    },
+    abstract "The persistence of operant responding in the context of
+ distractors and opposing forces is of central importance to the success of
+ behavioral interventions. It has been successfully analyzed with Behavioral
+ Momentum Theory. Key data from the research inspired by that theory are
+ reanalyzed in terms of more molecular behavioral mechanisms: the
+ demotivational effects of disruptors, and their differential impacts on the
+ target response and other responses that interact with them. Behavioral
+ momentum is regrounded as a nonlinear effect of motivation and reinforcement
+ rate on response probability and persistence. When response probabilities are
+ high, more energy is required to further increase or to decrease them than
+ when they are low. Classic Behavioral Momentum Theory effects are reproduced
+ with this account. Finally, it is shown how the new account involving
+ motivation and competition is closely related to the metaphor of force and
+ action that is at the core of Behavioral Momentum Theory.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Conditioning, Operant"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Motivation"
+      },
+      {
+        mp TRUE,
+        term "Psychological Theory"
+      },
+      {
+        term "Reinforcement Schedule"
+      },
+      {
+        term "Reinforcement, Psychology"
+      }
+    },
+    pmid 29323735,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

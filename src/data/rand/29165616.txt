@@ -1,0 +1,256 @@
+
+Pubmed-entry ::= {
+  pmid 29165616,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Work System Assessment to Facilitate the Dissemination of a
+ Quality Improvement Program for Optimizing Blood Culture Use: A Case Study
+ Using a Human Factors Engineering Approach."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xie A",
+            affil str "Armstrong Institute for Patient Safety and Quality,
+ Johns Hopkins University, Baltimore, Maryland.; Department of Anesthesiology
+ and Critical Care Medicine."
+          },
+          {
+            name ml "Woods-Hill CZ",
+            affil str "Department of Anesthesiology and Critical Care
+ Medicine, Children's Hospital of Philadelphia, Pennsylvania."
+          },
+          {
+            name ml "King AF",
+            affil str "Division of Infectious Diseases, Department of
+ Pediatrics, Johns Hopkins University School of Medicine, Baltimore, Maryland."
+          },
+          {
+            name ml "Enos-Graves H",
+            affil str "Armstrong Institute for Patient Safety and Quality,
+ Johns Hopkins University, Baltimore, Maryland."
+          },
+          {
+            name ml "Ascenzi J",
+            affil str "Department of Pediatrics, Johns Hopkins Nursing,
+ Baltimore, Maryland."
+          },
+          {
+            name ml "Gurses AP",
+            affil str "Armstrong Institute for Patient Safety and Quality,
+ Johns Hopkins University, Baltimore, Maryland.; Department of Anesthesiology
+ and Critical Care Medicine."
+          },
+          {
+            name ml "Klaus SA",
+            affil str "MITRE Corporation, McLean, Virginia."
+          },
+          {
+            name ml "Fackler JC",
+            affil str "Department of Anesthesiology and Critical Care Medicine."
+          },
+          {
+            name ml "Milstone AM",
+            affil str "Armstrong Institute for Patient Safety and Quality,
+ Johns Hopkins University, Baltimore, Maryland.; Division of Infectious
+ Diseases, Department of Pediatrics, Johns Hopkins University School of
+ Medicine, Baltimore, Maryland.; Department of Epidemiology, Johns Hopkins
+ Bloomberg School of Public Health, Baltimore, Maryland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Pediatric Infect Dis Soc",
+          ml-jta "J Pediatric Infect Dis Soc",
+          issn "2048-7207",
+          name "Journal of the Pediatric Infectious Diseases Society"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3,
+            day 28
+          },
+          volume "8",
+          issue "1",
+          pages "39-45",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29165616,
+        pii "4642821",
+        doi "10.1093/jpids/pix097",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/jpids/pix097"
+        }
+      }
+    },
+    abstract "BACKGROUND: Work system assessments can facilitate successful
+ implementation of quality improvement programs. Using a human factors
+ engineering approach, we conducted a work system assessment to facilitate the
+ dissemination of a quality improvement program for optimizing blood culture
+ use in pediatric intensive care units at 2 hospitals. METHODS: Semistructured
+ face-to-face interviews were conducted with clinicians from Johns Hopkins All
+ Children's Hospital and University of Virginia Medical Center. Interview data
+ were analyzed using qualitative content analysis. RESULTS: Blood
+ culture-ordering practices are influenced by various work system factors,
+ including people, tasks, tools and technologies, the physical environment,
+ organizational conditions, and the external environment. A clinical
+ decision-support tool could facilitate implementation by (1) standardizing
+ blood culture-ordering practices, (2) ensuring that prescribing clinicians
+ review the patient's condition before ordering a blood culture, (3)
+ facilitating critical thinking, and (4) empowering nurses to communicate with
+ physicians and advocate for adherence to blood culture-ordering guidelines.
+ CONCLUSION: The success of interventions for optimizing blood culture use
+ relies heavily on the local context. A work system analysis using a human
+ factors engineering approach can identify key areas to be addressed for the
+ successful dissemination of quality improvement interventions.",
+    mesh {
+      {
+        term "Algorithms"
+      },
+      {
+        term "Blood Culture",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Checklist"
+      },
+      {
+        term "Decision Support Systems, Clinical",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Ergonomics"
+      },
+      {
+        term "Hospitals, Pediatric",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          },
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intensive Care Units, Pediatric",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          },
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Interdisciplinary Communication"
+      },
+      {
+        term "Medical Order Entry Systems",
+        qual {
+          {
+            subh "organization & administration"
+          },
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Physician-Nurse Relations"
+      },
+      {
+        mp TRUE,
+        term "Quality Improvement"
+      },
+      {
+        term "Workflow"
+      }
+    },
+    pmid 29165616,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

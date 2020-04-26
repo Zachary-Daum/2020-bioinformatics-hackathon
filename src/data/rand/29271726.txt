@@ -1,0 +1,236 @@
+
+Pubmed-entry ::= {
+  pmid 29271726,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Bundled payment reimbursement for anterior and posterior
+ approaches for cervical spondylotic myelopathy: an analysis of private payer
+ and Medicare databases."
+      },
+      authors {
+        names std {
+          {
+            name ml "Virk SS",
+            affil str "1Department of Orthopaedics, The Ohio State University
+ Wexner Medical Center, Columbus, Ohio; and."
+          },
+          {
+            name ml "Phillips FM",
+            affil str "2Department of Orthopedic Surgery, Rush University
+ Medical Center, Chicago, Illinois."
+          },
+          {
+            name ml "Khan SN",
+            affil str "1Department of Orthopaedics, The Ohio State University
+ Wexner Medical Center, Columbus, Ohio; and."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Neurosurg Spine",
+          ml-jta "J Neurosurg Spine",
+          issn "1547-5646",
+          name "Journal of neurosurgery. Spine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "28",
+          issue "3",
+          pages "244-251",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29271726,
+        doi "10.3171/2017.7.SPINE1714",
+        pii "2017.7.SPINE1714",
+        other {
+          db "ELocationID doi",
+          tag str "10.3171/2017.7.SPINE1714"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "2017.7.SPINE1714"
+        }
+      }
+    },
+    abstract "OBJECTIVE Cervical spondylotic myelopathy (CSM) is a progressive
+ spinal condition that often requires surgery. Studies have shown the clinical
+ equivalency of anterior versus posterior approaches for CSM surgery. The
+ purpose of this study was to determine the amount and type of resources used
+ for anterior and posterior surgical treatment of CSM by using large national
+ databases of clinical and financial information from patients. METHODS This
+ study consists of 2 large cohorts of patients who underwent either an
+ anterior or posterior approach for treatment of CSM. These patients were
+ selected from the Medicare 5% National Sample Administrative Database (SAF5)
+ and the Humana orthopedic database (HORTHO), which is a database of patients
+ with private payer health insurance. The outcome measures were the cost of a
+ 90-day episode of care, as well as a breakdown of the cost components for
+ each surgical procedure between 2005 and 2014. RESULTS A total of 16,444
+ patients were included in this analysis. In HORTHO, there were 10,332 and
+ 1556 patients treated with an anterior or posterior approach for CSM,
+ respectively. In SAF5, there were 3851 and 705 patients who were treated by
+ an anterior or posterior approach for CSM, respectively. The mean +/- SD
+ reimbursements for anterior and posterior approaches in the HORTHO database
+ were $20,863 +/- $2014 and $23,813 +/- $4258, respectively (p = 0.048). The
+ mean +/- SD reimbursements for anterior and posterior approaches in the SAF5
+ database were $18,219 +/- $1053 and $25,598 +/- $1686, respectively (p <
+ 0.0001). There were also significantly higher reimbursements for a
+ rehabilitation/skilled nursing facility and hospital/inpatient care for
+ patients who underwent a posterior approach in both the private payer and
+ Medicare databases. In all cohorts in this study, the hospital-related
+ reimbursement was more than double the surgeon-related reimbursement.
+ CONCLUSIONS This study provides resource utilization information for a 90-day
+ episode of care for both anterior and posterior approaches for CSM surgery.
+ There is a statistically significant higher resource utilization for patients
+ undergoing the posterior approach for CSM, which is consistent with the
+ literature. Understanding the reimbursement patterns for anterior versus
+ posterior approaches for CSM will help providers design a bundled payment for
+ patients requiring surgery for CSM, and this study suggests that a subset of
+ patients who require the posterior approach for treatment also require
+ greater resources. The data also suggest that hospital-related reimbursement
+ is the major driver of payments.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Cervical Vertebrae",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Decompression, Surgical",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        term "Diskectomy",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Expenditures"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Insurance, Health, Reimbursement"
+      },
+      {
+        term "Laminoplasty",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Postoperative Complications",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Spinal Fusion",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29271726,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

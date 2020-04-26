@@ -1,0 +1,179 @@
+
+Pubmed-entry ::= {
+  pmid 28948851,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Y-Chromosome haplotypes reveal relationships between populations
+ of the Arabian Peninsula, North Africa and South Asia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jones RJ",
+            affil str "a School of Anatomy, Physiology and Human Biology ,
+ University of Western Australia , Crawley , WA , Australia."
+          },
+          {
+            name ml "Tay GK",
+            affil str "b School of Psychiatry and Clinical Neurosciences ,
+ University of Western Australia , Crawley , WA , Australia.; c School of
+ Medical and Health Sciences , Edith Cowan University , Joondalup , WA ,
+ Australia.; d Center for Biotechnology , Khalifa University of Science,
+ Technology and Research , Abu Dhabi , United Arab Emirates."
+          },
+          {
+            name ml "Mawart A",
+            affil str "d Center for Biotechnology , Khalifa University of
+ Science, Technology and Research , Abu Dhabi , United Arab Emirates."
+          },
+          {
+            name ml "Alsafar H",
+            affil str "d Center for Biotechnology , Khalifa University of
+ Science, Technology and Research , Abu Dhabi , United Arab Emirates.; e
+ Faculty of Biomedical Engineering , Khalifa University of Science, Technology
+ and Research , Abu Dhabi , United Arab Emirates."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ann. Hum. Biol.",
+          ml-jta "Ann Hum Biol",
+          issn "1464-5033",
+          name "Annals of human biology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "44",
+          issue "8",
+          pages "738-746",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28948851,
+        doi "10.1080/03014460.2017.1384508",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/03014460.2017.1384508"
+        }
+      }
+    },
+    abstract "BACKGROUND: The United Arab Emirates (UAE) is positioned at the
+ crossroads of human migration out of Africa and through to Asia and Europe.
+ AIM: To compare the degree of genetic diversity of the Arabian UAE population
+ with populations in other countries from the Middle East, South Asia and
+ North Africa. SUBJECTS AND METHODS: Twenty-seven Y-STR were analysed in 217
+ individuals. Y-STR haplotypes from this study were compared to population
+ data stored in YHRD, using MDS and AMOVA. RESULTS: Two hundred and twelve
+ haplotypes were observed in the 217 individuals studied. Although the
+ reduction in Y-STR loci from 27 to 17 resulted in a decrease in
+ discriminatory power, comparisons of populations were possible. The UAE
+ population clustered closer with other populations of the Middle East. The
+ South Asian and North African populations were separated by Middle Eastern
+ populations in between both clusters. CONCLUSION: This is the first study to
+ report the diversity of a population of the Arabian Peninsula using 27 Y-STR.
+ MDS plots show that Middle Eastern populations are positioned in the centre,
+ with African, Asian and European populations around the Arab population
+ cluster. The findings of this study are consistent with this region being at
+ the epicentre of human migration between continents.",
+    mesh {
+      {
+        term "Africa, Northern"
+      },
+      {
+        term "Arabs",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Asia, Western"
+      },
+      {
+        term "Chromosomes, Human, Y",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Genetic Variation"
+      },
+      {
+        term "Haplotypes",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "United Arab Emirates"
+      }
+    },
+    pmid 28948851,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

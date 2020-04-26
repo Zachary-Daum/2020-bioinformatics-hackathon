@@ -1,0 +1,130 @@
+
+Pubmed-entry ::= {
+  pmid 28802859,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Special issue on meibomian glands."
+      },
+      authors {
+        names std {
+          {
+            name ml "Saika S",
+            affil str "Department of Ophthalmology, Wakayama Medical
+ University, Wakayama, Japan. Electronic address: shizuya@wakayama-med.ac.jp."
+          },
+          {
+            name ml "Jester JV",
+            affil str "Department of Ophthalmology and Biomedical Engineering,
+ University of California, Irvin, CA, USA."
+          },
+          {
+            name ml "Whei-Yang Kao W",
+            affil str "Departments of Ophthalmology, College of Medicine
+ University of Cincinnati, Cincinnati, OH, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp. Eye Res.",
+          ml-jta "Exp Eye Res",
+          issn "1096-0007",
+          name "Experimental eye research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "163",
+          pages "1",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28802859,
+        pii "S0014-4835(17)30570-5",
+        doi "10.1016/j.exer.2017.08.006",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-4835(17)30570-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.exer.2017.08.006"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Eyelid Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Meibomian Glands",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      }
+    },
+    pmid 28802859,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

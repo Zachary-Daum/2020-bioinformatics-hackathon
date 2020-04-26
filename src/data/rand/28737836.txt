@@ -1,0 +1,205 @@
+
+Pubmed-entry ::= {
+  pmid 28737836,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Parenting and Cortisol in Infancy Interactively Predict Conduct
+ Problems and Callous-Unemotional Behaviors in Childhood."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wagner NJ",
+            affil str "The University of Maryland."
+          },
+          {
+            name ml "Mills-Koonce WR",
+            affil str "The University of North Carolina at Greensboro."
+          },
+          {
+            name ml "Willoughby MT",
+            affil str "RTI International."
+          },
+          {
+            name ml "Cox MJ",
+            affil str "The University of North Carolina at Chapel Hill."
+          },
+          {
+            name consortium "Family Life Project Key Investigators"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Child Dev",
+          ml-jta "Child Dev",
+          issn "1467-8624",
+          name "Child development"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "90",
+          issue "1",
+          pages "279-297",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28737836,
+        doi "10.1111/cdev.12900",
+        other {
+          db "pmc",
+          tag str "PMC5783800"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS880280"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/cdev.12900"
+        }
+      }
+    },
+    abstract "This study examines observed maternal sensitivity,
+ harsh-intrusion, and mental-state talk in infancy as predictors of conduct
+ problems (CP) and callous-unemotional (CU) behaviors in middle childhood, as
+ well as the extent to which infants' resting cortisol and cortisol reactivity
+ moderate these associations. Using data from the Family Life Project (n =
+ 1,292), results indicate that maternal sensitivity at 6 months predicts fewer
+ CP at first grade, but only for infants who demonstrate high levels of
+ cortisol reactivity. Maternal harsh intrusion predicts fewer
+ empathic-prosocial behaviors, a component of CU behaviors, but only for
+ infants who demonstrate high resting cortisol. Findings are discussed in the
+ context of diathesis-stress and differential susceptibility models.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Child"
+      },
+      {
+        mp TRUE,
+        term "Conduct Disorder",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrocortisone",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Maternal Behavior",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Parenting",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "WI4X0X7BPJ",
+        name "Hydrocortisone"
+      }
+    },
+    idnum {
+      "R01 HD080256/HD/NICHD NIH HHS",
+      "R01 HD080786/HD/NICHD NIH HHS",
+      "P01 HD039667/HD/NICHD NIH HHS"
+    },
+    pmid 28737836,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

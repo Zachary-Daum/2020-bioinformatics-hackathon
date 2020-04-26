@@ -1,0 +1,214 @@
+
+Pubmed-entry ::= {
+  pmid 28651805,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Dental implants in patients with osteoporosis: a systematic
+ review with meta-analysis."
+      },
+      authors {
+        names std {
+          {
+            name ml "de Medeiros FCFL",
+            affil str "Pro-Reitoria de Pesquisa e Pos-graduacao (PRPPG),
+ Universidade do Sagrado Coracao, Bauru, SP, Brazil."
+          },
+          {
+            name ml "Kudo GAH",
+            affil str "Pro-Reitoria de Pesquisa e Pos-graduacao (PRPPG),
+ Universidade do Sagrado Coracao, Bauru, SP, Brazil."
+          },
+          {
+            name ml "Leme BG",
+            affil str "Pro-Reitoria de Pesquisa e Pos-graduacao (PRPPG),
+ Universidade do Sagrado Coracao, Bauru, SP, Brazil."
+          },
+          {
+            name ml "Saraiva PP",
+            affil str "Pro-Reitoria de Pesquisa e Pos-graduacao (PRPPG),
+ Universidade do Sagrado Coracao, Bauru, SP, Brazil."
+          },
+          {
+            name ml "Verri FR",
+            affil str "Dental School of Aracatuba, UNESP - Universidade
+ Estadual Paulista, Aracatuba, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Honorio HM",
+            affil str "Department of Scientific Methodology and Statistics,
+ Bauru School of Dentistry, USP - University of Sao Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Pellizzer EP",
+            affil str "Dental School of Aracatuba, UNESP - Universidade
+ Estadual Paulista, Aracatuba, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Santiago Junior JF",
+            affil str "Pro-Reitoria de Pesquisa e Pos-graduacao (PRPPG),
+ Universidade do Sagrado Coracao, Bauru, SP, Brazil. Electronic address:
+ jf.santiagojunior@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Oral Maxillofac Surg",
+          ml-jta "Int J Oral Maxillofac Surg",
+          issn "1399-0020",
+          name "International journal of oral and maxillofacial surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "47",
+          issue "4",
+          pages "480-491",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 10,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28651805,
+        pii "S0901-5027(17)31484-4",
+        doi "10.1016/j.ijom.2017.05.021",
+        other {
+          db "ELocationID pii",
+          tag str "S0901-5027(17)31484-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ijom.2017.05.021"
+        }
+      }
+    },
+    abstract "There is currently no consensus regarding the survival rate of
+ osseointegrated implants in patients with osteoporosis. A systematic review
+ with meta-analysis was performed to evaluate the survival rate of implants in
+ such patients. The PubMed/MEDLINE, Web of Science, Cochrane Library, and
+ SciELO databases were used to identify articles published up to September
+ 2016. The systematic review was performed in accordance with PRISMA/PICO
+ requirements and the risk of bias was assessed (Australian National Health
+ and Medical Research Council scale). The relative risk (RR) of implant
+ failure and mean marginal bone loss were analyzed within a 95% confidence
+ interval (CI). Fifteen studies involving 8859 patients and 29,798 implants
+ were included. The main outcome of the meta-analysis indicated that there was
+ no difference in implant survival rate between patients with and without
+ osteoporosis, either at the implant level (RR 1.39, 95% CI 0.93-2.08; P=0.11)
+ or at the patient level (RR 0.98, 95% CI 0.50-1.89; P=0.94). However, the
+ meta-analysis for the secondary outcome revealed a significant difference in
+ marginal bone loss around implants between patients with and without
+ osteoporosis (0.18mm, 95% CI 0.05-0.30, P=0.005). Data heterogeneity was low.
+ An increase in peri-implant bone loss was observed in the osteoporosis group.
+ Randomized and controlled clinical studies should be conducted to analyze
+ possible biases.",
+    mesh {
+      {
+        mp TRUE,
+        term "Dental Implantation, Endosseous"
+      },
+      {
+        mp TRUE,
+        term "Dental Implants"
+      },
+      {
+        mp TRUE,
+        term "Dental Restoration Failure"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Osteoporosis",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Dental Implants"
+      }
+    },
+    pmid 28651805,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis",
+      "Review",
+      "Systematic Review"
+    },
+    status medline
+  }
+}
+
+

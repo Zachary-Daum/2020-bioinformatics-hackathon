@@ -1,0 +1,271 @@
+
+Pubmed-entry ::= {
+  pmid 29226325,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LncRNA MALAT1 induces colon cancer development by regulating
+ miR-129-5p/HMGB1 axis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wu Q",
+            affil str "Department of Gastroenterology, Shanghai Tongren
+ Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          },
+          {
+            name ml "Meng WY",
+            affil str "Department of Gastroenterology, Shanghai Tongren
+ Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          },
+          {
+            name ml "Jie Y",
+            affil str "Department of Clinical Research Center, People's
+ Hospital of Xuyi, Jiangsu Province, China."
+          },
+          {
+            name ml "Zhao H",
+            affil str "Division of Pediatric Surgery, Department of General
+ Surgery, Huai'an Second People's Hospital and The Affiliated Huai'an Hospital
+ of Xuzhou Medical University, Jiangsu, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "233",
+          issue "9",
+          pages "6750-6757",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29226325,
+        doi "10.1002/jcp.26383",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.26383"
+        }
+      }
+    },
+    abstract "Recent studies have exhibited significant roles of lncRNAs in
+ various tumors' development, including colon cancer. Our study focused on the
+ biological roles of lncRNA MALAT1 in colon cancer. In our study, it was
+ demonstrated that MALAT1 was upregulated in human colon cancer cell lines
+ including Lovo, HCT116, SW480, and HT29 cells compared to the normal human
+ intestinal epithelial HIEC cells. Moreover, we observed that miR-129-5p was
+ downregulated in colon cancer cells with a significant increase of HMGB1
+ expression. Inhibition of MALAT1 can inhibit the proliferation of colon
+ cancer SW480 and HCT116 cells and next, bioinformatics analysis was used to
+ predict the target microRNA of MALAT1. miR-129-5p was identified and
+ confirmed as a direct regulator of MALAT1 and it was shown that miR-129-5p
+ mimics were able to restrain the progression of colon cancer cells. In
+ addition, high motility group box protein 1 (HMGB1), was predicted as a mRNA
+ target of miR-129-5p. Furthermore, we found that MALAT1 exerted its
+ biological functions through regulating HMGB1 by sponging miR-129-5p in
+ vitro. Silencing MALAT1 greatly inhibited HMGB1 expression which can be
+ reversed by miR-129-5p inhibitors. It was indicated in our investigation that
+ MALAT1 may serve as a competing endogenous lncRNA (ceRNA) to mediate HMGB1 by
+ sponging miR-129-5p in colon cancer. Taken together, our results indicated
+ that MALAT1/miR-129-5p/HMGB1 axis could be provided as an important
+ prognostic biomarker in colon cancer development.",
+    mesh {
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Colonic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "HCT116 Cells"
+      },
+      {
+        term "HMGB1 Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "HT29 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "RNA, Messenger",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "HMGB1 Protein"
+      },
+      {
+        type nameonly,
+        name "HMGB1 protein, human"
+      },
+      {
+        type nameonly,
+        name "MALAT1 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Mirn129 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      },
+      {
+        type nameonly,
+        name "RNA, Messenger"
+      }
+    },
+    pmid 29226325,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,153 @@
+
+Pubmed-entry ::= {
+  pmid 28975282,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Holding the Self and the World Together: Robert Lowell, Mania,
+ and Having to Write."
+      },
+      authors {
+        names std {
+          {
+            name ml "Myers J",
+            affil str "Department of Psychiatry, University of Washington,
+ Seattle."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "JAMA",
+          ml-jta "JAMA",
+          issn "1538-3598",
+          name "JAMA"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9,
+            day 19
+          },
+          volume "318",
+          issue "11",
+          pages "988-989",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28975282,
+        pii "2654359",
+        doi "10.1001/jama.2017.12823",
+        other {
+          db "ELocationID doi",
+          tag str "10.1001/jama.2017.12823"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Bipolar Disorder",
+        qual {
+          {
+            mp TRUE,
+            subh "history"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Creativity"
+      },
+      {
+        mp TRUE,
+        term "Famous Persons"
+      },
+      {
+        term "History, 20th Century"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Literature, Modern",
+        qual {
+          {
+            mp TRUE,
+            subh "history"
+          }
+        }
+      },
+      {
+        term "Poetry as Topic",
+        qual {
+          {
+            mp TRUE,
+            subh "history"
+          }
+        }
+      },
+      {
+        term "Writing",
+        qual {
+          {
+            mp TRUE,
+            subh "history"
+          }
+        }
+      }
+    },
+    pmid 28975282,
+    pub-type {
+      "Biography",
+      "Historical Article",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

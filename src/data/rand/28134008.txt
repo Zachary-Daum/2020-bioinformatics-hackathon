@@ -1,0 +1,222 @@
+
+Pubmed-entry ::= {
+  pmid 28134008,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prioritising patient care: The different views of clinicians and
+ managers."
+      },
+      authors {
+        names std {
+          {
+            name ml "Skirbekk H",
+            affil str "Lovisenberg Diaconal University College, Norway;
+ University of Oslo, Norway.; University of Oslo, Norway."
+          },
+          {
+            name ml "Hem MH",
+            affil str "University of Oslo, Norway."
+          },
+          {
+            name ml "Nortvedt P",
+            affil str "University of Oslo, Norway."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nurs Ethics",
+          ml-jta "Nurs Ethics",
+          issn "1477-0989",
+          name "Nursing ethics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "25",
+          issue "6",
+          pages "746-759",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28134008,
+        doi "10.1177/0969733016664977",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0969733016664977"
+        }
+      }
+    },
+    abstract "BACKGROUND: There is little research comparing clinicians' and
+ managers' views on priority settings in the healthcare services. During
+ research on two different qualitative research projects on healthcare
+ prioritisations, we found a striking difference on how hospital executive
+ managers and clinical healthcare professionals talked about and understood
+ prioritisations. AIM: The purpose of this study is to explore how healthcare
+ professionals in mental healthcare and somatic medicine prioritise their
+ care, to compare different ways of setting priorities among managers and
+ clinicians and to explore how moral dilemmas are balanced and reconciled.
+ Research design and participants: We conducted qualitative observations,
+ interviews and focus groups with medical doctors, nurses and other clinical
+ members of the interdisciplinary team in both somatic medical and mental
+ health wards in hospitals in Norway. The interviews were recorded and
+ transcribed verbatim. Ethical considerations: Basic ethical principles for
+ research ethics were followed. The respondents signed an informed consent for
+ participation. They were assured anonymity and confidentiality. The studies
+ were approved by relevant ethics committees in line with the Helsinki
+ Convention. FINDINGS: Our findings showed a widening gap between the views of
+ clinicians on one hand and managers on the other. Clinicians experienced a
+ threat to their autonomy, to their professional ideals and to their desire to
+ perform their job in a professional way. Prioritisations were a cause of
+ constant concern and problematic decisions. Even though several managers
+ understood and empathised with the clinicians, the ideals of patient flow and
+ keeping budgets balanced were perceived as more important. DISCUSSION: We
+ discuss our findings in light of the moral challenges of patient-centred
+ individual healthcare versus demands of distributive justice from healthcare
+ management. CONCLUSION: The clinicians' ideals of autonomy and good medical
+ and nursing care for the individual patients were perceived as endangered.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Attitude of Health Personnel"
+      },
+      {
+        term "Decision Making",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Ethics, Nursing"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Focus Groups"
+      },
+      {
+        term "Health Priorities",
+        qual {
+          {
+            mp TRUE,
+            subh "ethics"
+          },
+          {
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Hospital Administrators",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Medical Staff, Hospital",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Morals"
+      },
+      {
+        term "Norway"
+      },
+      {
+        term "Patient Care",
+        qual {
+          {
+            mp TRUE,
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Qualitative Research"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 28134008,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

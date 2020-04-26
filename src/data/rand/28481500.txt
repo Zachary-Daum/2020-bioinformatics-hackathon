@@ -1,0 +1,203 @@
+
+Pubmed-entry ::= {
+  pmid 28481500,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Novel Single-Cell Analysis Platform Based on a Solid-State
+ Zinc-Coadsorbed Carbon Quantum Dots Electrochemiluminescence Probe for the
+ Evaluation of CD44 Expression on Breast Cancer Cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qiu Y",
+            affil str "Department of Chemistry, Jinan University , Guangzhou
+ 510632, China."
+          },
+          {
+            name ml "Zhou B",
+            affil str "Department of Chemistry, Jinan University , Guangzhou
+ 510632, China."
+          },
+          {
+            name ml "Yang X",
+            affil str "Department of Chemistry, Jinan University , Guangzhou
+ 510632, China."
+          },
+          {
+            name ml "Long D",
+            affil str "Department of Chemistry, Jinan University , Guangzhou
+ 510632, China."
+          },
+          {
+            name ml "Hao Y",
+            affil str "Department of Chemistry, Jinan University , Guangzhou
+ 510632, China."
+          },
+          {
+            name ml "Yang P",
+            affil str "Department of Chemistry, Jinan University , Guangzhou
+ 510632, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "ACS Appl Mater Interfaces",
+          ml-jta "ACS Appl Mater Interfaces",
+          issn "1944-8252",
+          name "ACS applied materials & interfaces"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5,
+            day 24
+          },
+          volume "9",
+          issue "20",
+          pages "16848-16856",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28481500,
+        doi "10.1021/acsami.7b02793",
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acsami.7b02793"
+        }
+      }
+    },
+    abstract "A novel single-cell analysis platform was fabricated using
+ solid-state zinc-coadsorbed carbon quantum dot (ZnCQDs) nanocomposites as an
+ electrochemiluminescence (ECL) probe for the detection of breast cancer cells
+ and evaluation of the CD44 expression level. Solid-state ZnCQDs nanocomposite
+ probes were constructed through the attachment of ZnCQDs to gold
+ nanoparticles and then the loading of magnetic beads to amplify the ECL
+ signal, exhibiting a remarkable 120-fold enhancement of the ECL intensity.
+ Hyaluronic acid (HA)-functionalized solid-state probes were used to label a
+ single breast cancer cell by the specific recognition of HA with CD44 on the
+ cell surface, revealing more stable, sensitive, and effective tagging in
+ comparison with the water-soluble CQDs. This strategy exhibited a good
+ analytical performance for the analysis of MDA-MB-231 and MCF-7 single cells
+ with linear range from 1 to 18 and from 1 to 12 cells, respectively.
+ Furthermore, this single-cell analysis platform was used for evaluation of
+ the CD44 expression level of these two cell lines, in which the MDA-MB-231
+ cells revealed a 2.8-5.2-fold higher CD44 expression level. A total of 20
+ single cells were analyzed individually, and the distributions of the ECL
+ intensity revealed larger variations, indicating the high cellular
+ heterogeneity of the CD44 expression level on the same cell line. The
+ as-proposed single-cell analysis platform might provide a novel protocol to
+ effectively study the individual cellular function and cellular heterogeneity.",
+    mesh {
+      {
+        term "Biosensing Techniques"
+      },
+      {
+        term "Breast Neoplasms"
+      },
+      {
+        term "Carbon"
+      },
+      {
+        term "Gold"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hyaluronan Receptors"
+      },
+      {
+        term "Luminescent Measurements"
+      },
+      {
+        term "Metal Nanoparticles"
+      },
+      {
+        mp TRUE,
+        term "Quantum Dots"
+      },
+      {
+        term "Single-Cell Analysis"
+      },
+      {
+        term "Zinc"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CD44 protein, human"
+      },
+      {
+        type nameonly,
+        name "Hyaluronan Receptors"
+      },
+      {
+        type cas,
+        cit "7440-44-0",
+        name "Carbon"
+      },
+      {
+        type cas,
+        cit "7440-57-5",
+        name "Gold"
+      },
+      {
+        type cas,
+        cit "J41CSQ7QDS",
+        name "Zinc"
+      }
+    },
+    pmid 28481500,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

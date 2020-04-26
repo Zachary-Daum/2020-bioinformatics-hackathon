@@ -1,0 +1,226 @@
+
+Pubmed-entry ::= {
+  pmid 28635641,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Fate of Pollutants in Porous Asphalt Pavements, Laboratory
+ Experiments to Investigate Their Potential to Impact Environmental Health."
+      },
+      authors {
+        names std {
+          {
+            name ml "Charlesworth SM",
+            affil str "Centre for Agroecology, Water and Resilience, Coventry
+ University, Coventry CV1 5FB, UK. s.charlesworth@coventry.ac.uk."
+          },
+          {
+            name ml "Beddow J",
+            affil str "Health and Life Sciences, Coventry University, Coventry
+ CV1 5FB, UK. aa0412@coventry.ac.uk."
+          },
+          {
+            name ml "Nnadi EO",
+            affil str "Hidrolef, Department of Environmental Sciences, Federal
+ University of Sao Carlos, Sorocaba, Sao Paulo-SP-264, CEP 18.052-780 Brazil.
+ ernest_nnadi@yahoo.co.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Environ Res Public Health",
+          ml-jta "Int J Environ Res Public Health",
+          issn "1660-4601",
+          name "International journal of environmental research and public
+ health"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6,
+            day 21
+          },
+          volume "14",
+          issue "6",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28635641,
+        pii "ijerph14060666",
+        doi "10.3390/ijerph14060666",
+        other {
+          db "pmc",
+          tag str "PMC5486352"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E666"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijerph14060666"
+        }
+      }
+    },
+    abstract "Pervious Paving Systems (PPS) are part of a sustainable approach
+ to drainage in which excess surface water is encouraged to infiltrate through
+ their structure, during which potentially toxic elements, such as metals and
+ hydrocarbons are treated by biodegradation and physical entrapment and
+ storage. However, it is not known where in the PPS structure these
+ contaminants accumulate, which has implications for environmental health,
+ particularly during maintenance, as well as consequences for the recycling of
+ material from the PPS at the end-of-life. A 1 m(3) porous asphalt (PA) PPS
+ test rig was monitored for 38 months after monthly additions of road sediment
+ (RS) (367.5 g in total) and unused oil (430 mL in total), characteristic of
+ urban loadings, were applied. Using a rainfall simulator, a typical UK
+ rainfall rate of 15 mm/h was used to investigate its efficiency in dealing
+ with contamination. Water quality of the effluent discharged from the rig was
+ found to be suitable for discharge to most environments. On completion of the
+ monitoring, a core was taken down through its surface, and samples of
+ sediment and aggregate were taken. Analysis showed that most of the sediment
+ remained in the surface course, with metal levels lower than the original RS,
+ but higher than clean, unused aggregate or PA. However, even extrapolating
+ these concentrations to 20 years' worth of in-service use (the projected life
+ of PPS) did not suggest their accumulation would present an environmental
+ pollution risk when carrying out maintenance of the pavement and also
+ indicates that the material could be recycled at end-of-life.",
+    mesh {
+      {
+        mp TRUE,
+        term "Environmental Health"
+      },
+      {
+        mp TRUE,
+        term "Environmental Monitoring"
+      },
+      {
+        mp TRUE,
+        term "Hydrocarbons",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Metals",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Porosity"
+      },
+      {
+        term "Recycling"
+      },
+      {
+        term "Water Pollutants, Chemical",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Water Quality"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Hydrocarbons"
+      },
+      {
+        type nameonly,
+        name "Metals"
+      },
+      {
+        type nameonly,
+        name "Water Pollutants, Chemical"
+      },
+      {
+        type cas,
+        cit "8052-42-4",
+        name "asphalt"
+      }
+    },
+    pmid 28635641,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,327 @@
+
+Pubmed-entry ::= {
+  pmid 29282254,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Continuous activity of Foxo1 is required to prevent anergy and
+ maintain the memory state of CD8(+) T cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Delpoux A",
+            affil str "Molecular Biology Section, Division of Biological
+ Sciences, University of California, San Diego, La Jolla CA.; Cellular and
+ Molecular Medicine, University of California, San Diego, La Jolla, CA."
+          },
+          {
+            name ml "Michelini RH",
+            affil str "Molecular Biology Section, Division of Biological
+ Sciences, University of California, San Diego, La Jolla CA.; Cellular and
+ Molecular Medicine, University of California, San Diego, La Jolla, CA."
+          },
+          {
+            name ml "Verma S",
+            affil str "Division of Immune Regulation, La Jolla Institute for
+ Allergy and Immunology, La Jolla, CA."
+          },
+          {
+            name ml "Lai CY",
+            affil str "Molecular Biology Section, Division of Biological
+ Sciences, University of California, San Diego, La Jolla CA.; Cellular and
+ Molecular Medicine, University of California, San Diego, La Jolla, CA."
+          },
+          {
+            name ml "Omilusik KD",
+            affil str "Molecular Biology Section, Division of Biological
+ Sciences, University of California, San Diego, La Jolla CA."
+          },
+          {
+            name ml "Utzschneider DT",
+            affil str "Molecular Biology Section, Division of Biological
+ Sciences, University of California, San Diego, La Jolla CA.; Cellular and
+ Molecular Medicine, University of California, San Diego, La Jolla, CA."
+          },
+          {
+            name ml "Redwood AJ",
+            affil str "Institute for Immunology and Infectious Diseases,
+ Murdoch University, Murdoch, Western Australia, Australia."
+          },
+          {
+            name ml "Goldrath AW",
+            affil str "Molecular Biology Section, Division of Biological
+ Sciences, University of California, San Diego, La Jolla CA."
+          },
+          {
+            name ml "Benedict CA",
+            affil str "Division of Immune Regulation, La Jolla Institute for
+ Allergy and Immunology, La Jolla, CA."
+          },
+          {
+            name ml "Hedrick SM",
+            affil str "Molecular Biology Section, Division of Biological
+ Sciences, University of California, San Diego, La Jolla CA
+ shedrick@ucsd.edu.; Cellular and Molecular Medicine, University of
+ California, San Diego, La Jolla, CA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Exp. Med.",
+          ml-jta "J Exp Med",
+          issn "1540-9538",
+          name "The Journal of experimental medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 5
+          },
+          volume "215",
+          issue "2",
+          pages "575-594",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29282254,
+        pii "jem.20170697",
+        doi "10.1084/jem.20170697",
+        other {
+          db "pmc",
+          tag str "PMC5789410"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1084/jem.20170697"
+        }
+      }
+    },
+    abstract "Upon infection with an intracellular pathogen, cytotoxic CD8(+)
+ T cells develop diverse differentiation states characterized by function,
+ localization, longevity, and the capacity for self-renewal. The program of
+ differentiation is determined, in part, by FOXO1, a transcription factor
+ known to integrate extrinsic input in order to specify survival, DNA repair,
+ self-renewal, and proliferation. At issue is whether the state of T cell
+ differentiation is specified by initial conditions of activation or is
+ actively maintained. To study the spectrum of T cell differentiation, we have
+ analyzed an infection with mouse cytomegalovirus, a persistent-latent virus
+ that elicits different cytotoxic T cell responses characterized as acute
+ resolving or inflationary. Our results show that FOXO1 is continuously
+ required for all the phenotypic characteristics of memory-effector T cells
+ such that with acute inactivation of the gene encoding FOXO1, T cells revert
+ to a short-lived effector phenotype, exhibit reduced viability, and manifest
+ characteristics of anergy.",
+    mesh {
+      {
+        term "Adoptive Transfer"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antigens, Viral"
+      },
+      {
+        term "CD8-Positive T-Lymphocytes",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Clonal Anergy"
+      },
+      {
+        term "Forkhead Box Protein O1",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Hepatocyte Nuclear Factor 1-alpha",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Immunologic Memory"
+      },
+      {
+        term "Lymphocyte Activation"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Mice, Knockout"
+      },
+      {
+        term "Muromegalovirus",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Receptors, Immunologic",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antigens, Viral"
+      },
+      {
+        type nameonly,
+        name "Forkhead Box Protein O1"
+      },
+      {
+        type nameonly,
+        name "Foxo1 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Hepatocyte Nuclear Factor 1-alpha"
+      },
+      {
+        type nameonly,
+        name "Hnf1a protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Klrg1 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Receptors, Immunologic"
+      }
+    },
+    idnum {
+      "R01 AI101423/AI/NIAID NIH HHS",
+      "R01 AI103440/AI/NIAID NIH HHS",
+      "R01 AI037988/AI/NIAID NIH HHS",
+      "R01 AI067545/AI/NIAID NIH HHS",
+      "R21 AI113349/AI/NIAID NIH HHS",
+      "R56 AI101423/AI/NIAID NIH HHS"
+    },
+    pmid 29282254,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

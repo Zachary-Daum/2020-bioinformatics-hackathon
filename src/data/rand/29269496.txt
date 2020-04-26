@@ -1,0 +1,228 @@
+
+Pubmed-entry ::= {
+  pmid 29269496,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Single Mechanosensitive Channel Protects Francisella
+ tularensis subsp. holarctica from Hypoosmotic Shock and Promotes Survival in
+ the Aquatic Environment."
+      },
+      authors {
+        names std {
+          {
+            name ml "Williamson DR",
+            affil str "Department of Veterinary and Biomedical Sciences,
+ Pennsylvania State University, University Park, Pennsylvania, USA."
+          },
+          {
+            name ml "Dewan KK",
+            affil str "Department of Veterinary and Biomedical Sciences,
+ Pennsylvania State University, University Park, Pennsylvania, USA."
+          },
+          {
+            name ml "Patel T",
+            affil str "Department of Veterinary and Biomedical Sciences,
+ Pennsylvania State University, University Park, Pennsylvania, USA."
+          },
+          {
+            name ml "Wastella CM",
+            affil str "Microscopy Facility, The Huck Institutes of the Life
+ Sciences, Department of Biology, Pennsylvania State University, University
+ Park, Pennsylvania, USA."
+          },
+          {
+            name ml "Ning G",
+            affil str "Microscopy Facility, The Huck Institutes of the Life
+ Sciences, Department of Biology, Pennsylvania State University, University
+ Park, Pennsylvania, USA."
+          },
+          {
+            name ml "Kirimanjeswara GS",
+            affil str "Department of Veterinary and Biomedical Sciences,
+ Pennsylvania State University, University Park, Pennsylvania, USA
+ gsk125@psu.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Appl. Environ. Microbiol.",
+          ml-jta "Appl Environ Microbiol",
+          issn "1098-5336",
+          name "Applied and environmental microbiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 14
+          },
+          volume "84",
+          issue "5",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29269496,
+        pii "AEM.02203-17",
+        doi "10.1128/AEM.02203-17",
+        other {
+          db "pmc",
+          tag str "PMC5812925"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "e02203-17"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1128/AEM.02203-17"
+        }
+      }
+    },
+    abstract "Francisella tularensis subsp. holarctica is found in North
+ America and much of Europe and causes the disease tularemia in humans and
+ animals. An aquatic cycle has been described for this subspecies, which has
+ caused waterborne outbreaks of tularemia in at least 10 countries. In this
+ study, we sought to identify the mechanosensitive channel(s) required for the
+ bacterium to survive the transition from mammalian hosts to freshwater, which
+ is likely essential for the transmission of the bacterium between susceptible
+ hosts. A single 165-amino-acid MscS-type mechanosensitive channel (FtMscS)
+ was found to protect F. tularensis subsp. holarctica from hypoosmotic shock,
+ despite lacking much of the cytoplasmic vestibule domain found in
+ well-characterized MscS proteins from other organisms. The deletion of this
+ channel did not affect virulence within the mammalian host; however, FtMscS
+ was required to survive the transition from the host niche to freshwater. The
+ deletion of FtMscS did not alter the sensitivity of F. tularensis subsp.
+ holarctica to detergents, H2O2, or antibiotics, suggesting that the role of
+ FtMscS is specific to protection from hypoosmotic shock. The deletion of
+ FtMscS also led to a reduced average cell size without altering gross cell
+ morphology. The mechanosensitive channel identified and characterized in this
+ study likely contributes to the transmission of tularemia between hosts by
+ allowing the bacterium to survive the transition from mammalian hosts to
+ freshwater.IMPORTANCE The contamination of freshwater by Francisella
+ tularensis subsp. holarctica has resulted in a number of outbreaks of
+ tularemia. Invariably, the contamination originates from the carcasses or
+ excreta of infected animals and thus involves an abrupt osmotic downshock as
+ the bacteria enter freshwater. How F. tularensis survives this drastic change
+ in osmolarity has not been clear, but here we report that a single
+ mechanosensitive channel protects the bacterium from osmotic downshock. This
+ channel is functional despite lacking much of the cytoplasmic vestibule
+ domain that is present in better-studied organisms such as Escherichia coli;
+ this report builds on previous studies that have suggested that parts of this
+ domain are dispensable for downshock protection. These findings extend our
+ understanding of the aquatic cycle and ecological persistence of F.
+ tularensis, with further implications for mechanosensitive channel biology.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Francisella tularensis",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Fresh Water"
+      },
+      {
+        term "Mechanotransduction, Cellular",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        mp TRUE,
+        term "Salt Stress"
+      },
+      {
+        term "Specific Pathogen-Free Organisms"
+      }
+    },
+    idnum {
+      "K99 AI077917/AI/NIAID NIH HHS",
+      "R00 AI077917/AI/NIAID NIH HHS",
+      "T32 AI074551/AI/NIAID NIH HHS"
+    },
+    pmid 29269496,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

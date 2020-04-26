@@ -1,0 +1,167 @@
+
+Pubmed-entry ::= {
+  pmid 29182489,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Peri-implantitis: A Comprehensive Overview of Systematic Reviews."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ting M",
+            affil str "1   Kornberg School of Dentistry, Temple University,
+ Philadelphia, Penn."
+          },
+          {
+            name ml "Craig J",
+            affil str "2   Department of Periodontology and Oral Implantology,
+ Kornberg School of Dentistry, Temple University, Philadelphia, Penn."
+          },
+          {
+            name ml "Balkin BE",
+            affil str "2   Department of Periodontology and Oral Implantology,
+ Kornberg School of Dentistry, Temple University, Philadelphia, Penn."
+          },
+          {
+            name ml "Suzuki JB",
+            affil str "2   Department of Periodontology and Oral Implantology,
+ Kornberg School of Dentistry, Temple University, Philadelphia, Penn.; 3  
+ Department of Microbiology and Immunology, School of Medicine, Temple
+ University, Philadelphia, Penn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Oral Implantol",
+          ml-jta "J Oral Implantol",
+          issn "0160-6972",
+          name "The Journal of oral implantology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "44",
+          issue "3",
+          pages "225-247",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29182489,
+        doi "10.1563/aaid-joi-D-16-00122",
+        other {
+          db "ELocationID doi",
+          tag str "10.1563/aaid-joi-D-16-00122"
+        }
+      }
+    },
+    abstract "The objective of this systematic review was to perform a
+ comprehensive overview of systematic reviews and meta-analyses pertaining to
+ peri-implantitis in humans, including the prevalence and incidence, the
+ diagnostic findings, microbial findings, effects of systemic diseases, and
+ treatment of peri-implantitis. Electronic databases were searched for
+ systematic reviews and meta-analyses of peri-implantitis. In view of the
+ limitations of the included systematic reviews, the outcome of this overview
+ suggested that (1) occurrence of peri-implantitis was higher in patients with
+ periodontitis, in patients who smoke, and after 5 years of implant function;
+ (2) the microbial profile of peri-implantitis was different from
+ periodontitis; (3) risk for peri-implantitis was higher in patients with
+ uncontrolled diabetes and cardiovascular disease; (4) there was no strong
+ evidence to suggest the most effective treatment intervention for
+ peri-implantitis, although most peri-implantitis treatments can produce
+ successful outcomes; and (5) postimplant maintenance may be crucial in
+ patients with a high risk of peri-implantitis.",
+    mesh {
+      {
+        mp TRUE,
+        term "Dental Implants",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Incidence"
+      },
+      {
+        term "Meta-Analysis as Topic"
+      },
+      {
+        mp TRUE,
+        term "Peri-Implantitis"
+      },
+      {
+        mp TRUE,
+        term "Periodontitis"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Systematic Reviews as Topic"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Dental Implants"
+      }
+    },
+    pmid 29182489,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,183 @@
+
+Pubmed-entry ::= {
+  pmid 29308700,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Comparing Main, Goldwyn, and Hesse (Berkeley) and Crittenden
+ (DMM) coding systems for classifying Adult Attachment Interview transcripts:
+ an empirical report."
+      },
+      authors {
+        names std {
+          {
+            name ml "Baldoni F",
+            affil str "a Attachment Assessment Lab, Department of Psychology ,
+ University of Bologna , Bologna , Italy."
+          },
+          {
+            name ml "Minghetti M",
+            affil str "a Attachment Assessment Lab, Department of Psychology ,
+ University of Bologna , Bologna , Italy."
+          },
+          {
+            name ml "Craparo G",
+            affil str "b Faculty of Human and Social Sciences , UKE - Kore
+ University of Enna , Enna , Italy."
+          },
+          {
+            name ml "Facondini E",
+            affil str "c Obstetrics and Gynecology Unit and Neonatal Intensive
+ Care Unit , Infermi Hospital , Rimini , Italy."
+          },
+          {
+            name ml "Cena L",
+            affil str "d Department of Clinical and Experimental Sciences ,
+ University of Brescia , Brescia , Italy."
+          },
+          {
+            name ml "Schimmenti A",
+            affil str "b Faculty of Human and Social Sciences , UKE - Kore
+ University of Enna , Enna , Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Attach Hum Dev",
+          ml-jta "Attach Hum Dev",
+          issn "1469-2988",
+          name "Attachment & human development"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "20",
+          issue "4",
+          pages "423-438",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29308700,
+        doi "10.1080/14616734.2017.1421979",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/14616734.2017.1421979"
+        }
+      }
+    },
+    abstract "Few studies have compared different systems in classifying Adult
+ Attachment Interview (AAI) transcripts. In this study, the AAI was
+ administered to 90 Italian parents (45 couples), and the AAI transcripts were
+ independently classified according to Main, Goldwyn, and Hesse's (Berkeley)
+ and Crittenden's (Dynamic-Maturational Model [DMM]) criteria. The two
+ classification systems were not significantly associated, with some limited
+ convergent results only when the interviews resulted in organized (Berkeley)
+ and normative (DMM) attachment classifications. Otherwise, the Berkeley
+ system identified more secure individuals than the DMM system, and many texts
+ judged secure on the Berkeley system were identified as insecure on the DMM
+ system. Since the Berkeley and the DMM systems rest on remarkably different
+ conceptualizations of the nature and functioning of the attachment behavioral
+ system (e.g. fear is conceived as organizing in the DMM and as potentially
+ disorganizing in the Berkeley), the attachment classifications resulting from
+ their applications should not be considered measurements of the same
+ phenomena.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Empirical Research"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interviews as Topic"
+      },
+      {
+        term "Italy"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Object Attachment"
+      },
+      {
+        mp TRUE,
+        term "Parent-Child Relations"
+      },
+      {
+        term "Parents",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29308700,
+    pub-type {
+      "Comparative Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

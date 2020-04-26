@@ -1,0 +1,250 @@
+
+Pubmed-entry ::= {
+  pmid 29274475,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Breast cancer in octogenarian. Are we doing our best? A
+ population-registry based study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Martinez-Ramos D",
+            affil str "General and Digestive Surgery Dept, Castellon General
+ Hospital, Spain. Electronic address: doctormartinezramos@gmail.com."
+          },
+          {
+            name ml "Simon-Monterde L",
+            affil str "General and Digestive Surgery Dept, Castellon General
+ Hospital, Spain."
+          },
+          {
+            name ml "Queralt-Martin R",
+            affil str "General and Digestive Surgery Dept, Castellon General
+ Hospital, Spain."
+          },
+          {
+            name ml "Suelves-Piqueres C",
+            affil str "General and Digestive Surgery Dept, Castellon General
+ Hospital, Spain."
+          },
+          {
+            name ml "Menor-Duran P",
+            affil str "General and Digestive Surgery Dept, Castellon General
+ Hospital, Spain."
+          },
+          {
+            name ml "Escrig-Sos J",
+            affil str "General and Digestive Surgery Dept, Castellon General
+ Hospital, Spain."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Breast",
+          ml-jta "Breast",
+          issn "1532-3080",
+          name "Breast (Edinburgh, Scotland)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "38",
+          pages "81-85",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29274475,
+        pii "S0960-9776(17)30789-0",
+        doi "10.1016/j.breast.2017.12.007",
+        other {
+          db "ELocationID pii",
+          tag str "S0960-9776(17)30789-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.breast.2017.12.007"
+        }
+      }
+    },
+    abstract "BACKGROUND: The number of old people with breast cancer is
+ estimated to increase during the next years in developed countries. However,
+ management of breast cancer in octogenarians is not well established. The
+ main objective was to evaluate if patients older than 80 years with breast
+ cancer are receiving the most convenient treatment by using a population
+ registry cancer analysis. PATIENTS AND METHODS: A retrospective analysis of a
+ population cancer registry was designed. Data were retrieved from the
+ Castellon Cancer Registry (Valencian Community, Spain). Patient records were
+ analyzed from January 1, 1995 to December 31, 2013. Two groups were defined:
+ group A, <80 years; and group B, >= 80 years. Survival analyses were
+ sequentially performed into three phases. First, a non-adjusted Kaplan Meier
+ analysis was conducted. For the second survival analyses, Cox's proportional
+ hazards model of Overall survival was used adjusting for condensed-TNM stage
+ and adjuvant treatments. Finally, the third specific adjustment was carried
+ out adding information of life expectancy by age for Spanish women,
+ corresponding to year 2008 with condensed-TNM stage and Propensity Score
+ variable, as an approximation to relative or disease-specific survival.
+ RESULTS: The total number of included patients was 1304. Women >/=80 years
+ presented a more extended disease, larger tumors and less in situ carcinomas.
+ A lower proportion of women >/=80 years received adjuvant therapies. In the
+ absence of any adjustment of results, the overall survival in women >/=80
+ years was poorer than in younger patients (median of 14.1 years for <80y vs.
+ 5.7 years for >/=80y), the crude HR was 4.6 (95% CI: 2.9-7.5) p < 0.001. For
+ second survival analysis, the HR was 2.5 (95% CI: 1.8-3.5) p < 0.001. After
+ the third adjustment the HR was 1.7 (95% CI: 1.2-2.4) p = 0.004. CONCLUSIONS:
+ Octogenarians with operable breast cancer are receiving suboptimal
+ treatments, which can have repercussions on survival. New studies are
+ required to identify a subgroup of women age >/=80 years who may benefit from
+ more aggressive treatment and a population of older women on the basis of
+ tumor characteristics, comorbidities and life expectancy who may not need as
+ aggressive treatment.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Age Factors"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Chemotherapy, Adjuvant",
+        qual {
+          {
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kaplan-Meier Estimate"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Staging"
+      },
+      {
+        term "Propensity Score"
+      },
+      {
+        term "Proportional Hazards Models"
+      },
+      {
+        term "Registries"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Spain"
+      },
+      {
+        term "Survival Rate"
+      }
+    },
+    pmid 29274475,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

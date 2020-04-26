@@ -1,0 +1,266 @@
+
+Pubmed-entry ::= {
+  pmid 28552836,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An original fibular shortening osteotomy technique in tibiotalar
+ arthrodesis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mehdi N",
+            affil str "Clinique de l'Union, centre de chirurgie de la cheville
+ et du pied, boulevard de Ratalens, 31240 Saint-Jean, France. Electronic
+ address: nazim.mehdi@gmail.com."
+          },
+          {
+            name ml "Bernasconi A",
+            affil str "University of Naples ""Federico II"", Department of
+ Public Health, Orthopaedic and Traumatology Unit, 5, Via S. Pansini, 80131
+ Napoli, Italy. Electronic address: alebernas@gmail.com."
+          },
+          {
+            name ml "Laborde J",
+            affil str "Clinique de l'Union, centre de chirurgie de la cheville
+ et du pied, boulevard de Ratalens, 31240 Saint-Jean, France. Electronic
+ address: jul.laborde@gmail.com."
+          },
+          {
+            name ml "Lintz F",
+            affil str "Clinique de l'Union, centre de chirurgie de la cheville
+ et du pied, boulevard de Ratalens, 31240 Saint-Jean, France. Electronic
+ address: dr.f.lintz@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Orthop Traumatol Surg Res",
+          ml-jta "Orthop Traumatol Surg Res",
+          issn "1877-0568",
+          name "Orthopaedics & traumatology, surgery & research : OTSR"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9
+          },
+          volume "103",
+          issue "5",
+          pages "717-720",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 3,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28552836,
+        pii "S1877-0568(17)30140-8",
+        doi "10.1016/j.otsr.2017.03.023",
+        other {
+          db "ELocationID pii",
+          tag str "S1877-0568(17)30140-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.otsr.2017.03.023"
+        }
+      }
+    },
+    abstract "Tibiotalar arthrodesis (TTA) is the gold-standard treatment for
+ advanced ankle osteoarthritis. We describe an original fibular shortening
+ osteotomy (FSO) performed during TTA, to allow complete talar ascension and
+ reduce the nonunion rate. Forty-two FSOs were associated to TTA (19 fixed by
+ cross-screwing and 23 by anatomic plates) and assessed clinically and
+ radiographically. At 24.7 months' follow-up, fusion rates were 97.6% for TTA
+ and 100% for FSO, with mean fusion time of 5.2 months. One infection and 1
+ nonunion (4.7%) required further surgery, with complete resolution.
+ Radiological and clinical outcome in TTA, lack of specific complications of
+ FSO and ease of implementation encourage us to publish the technique.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Ankle Joint",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Arthrodesis",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            subh "instrumentation"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Bone Plates"
+      },
+      {
+        term "Bone Screws"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Fibula",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Osteotomy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Radiography"
+      },
+      {
+        term "Reoperation"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Talus",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Tibia",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 28552836,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

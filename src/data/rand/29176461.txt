@@ -1,0 +1,192 @@
+
+Pubmed-entry ::= {
+  pmid 29176461,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Impact of Hydroxyurea on Anthropometry and Serum
+ 25-Hydroxyvitamin D Among Children With Sickle Cell Disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Adegoke SA",
+            affil str "Haematology and Blood Transfusion Division.; Department
+ of Pediatrics and Child Health, Obafemi Awolowo University, Ile-Ife, Nigeria."
+          },
+          {
+            name ml "Braga JAP",
+            affil str "Department of Pediatrics, Escola Paulista de Medicina,
+ Universidade Federal de Sao Paulo, Brazil."
+          },
+          {
+            name ml "D Adekile A",
+            affil str "Department of Paediatrics, Faculty of Medicine, Kuwait
+ University, Kuwait."
+          },
+          {
+            name ml "Figueiredo MS",
+            affil str "Haematology and Blood Transfusion Division."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Pediatr. Hematol. Oncol.",
+          ml-jta "J Pediatr Hematol Oncol",
+          issn "1536-3678",
+          name "Journal of pediatric hematology/oncology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "40",
+          issue "4",
+          pages "e243-e247",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29176461,
+        doi "10.1097/MPH.0000000000001002",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/MPH.0000000000001002"
+        }
+      }
+    },
+    abstract "OBJECTIVE: To evaluate the impact of hydroxyurea (HU) on
+ nutritional status and serum 25-hydroxyvitamin D (25-OHD) of children with
+ sickle cell disease (SCD). DESIGN: Anthropometry and serum 25-OHD were
+ determined in 98 children with SCD, comprising of 68 in HU-group and 30 in
+ HU-naive group. RESULTS: Underweight was more common among HU-naive group
+ (33.3% vs. 10.3%, P=0.009), while 79.4% of HU-group against 56.7% HU-naive
+ had normal body mass index percentile for age and sex, P=0.028. None of the
+ HU-group compared with 13.3% of the HU-naive had severe vitamin D deficiency,
+ P=0.002. The mean 25-OHD of the HU-group was also higher (24.1+/-1.2 vs.
+ 19.1+/-9.8 ng/mL, P=0.007). CONCLUSIONS: HU possibly ameliorate growth
+ retardation and vitamin D deficiency in children with SCD.",
+    mesh {
+      {
+        term "Anemia, Sickle Cell",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Anthropometry"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydroxyurea",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Vitamin D",
+        qual {
+          {
+            mp TRUE,
+            subh "analogs & derivatives"
+          },
+          {
+            subh "blood"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "1406-16-2",
+        name "Vitamin D"
+      },
+      {
+        type cas,
+        cit "A288AR3C9H",
+        name "25-hydroxyvitamin D"
+      },
+      {
+        type cas,
+        cit "X6Q56QN5QC",
+        name "Hydroxyurea"
+      }
+    },
+    pmid 29176461,
+    pub-type {
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

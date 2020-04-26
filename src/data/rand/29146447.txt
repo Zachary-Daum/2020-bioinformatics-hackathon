@@ -1,0 +1,254 @@
+
+Pubmed-entry ::= {
+  pmid 29146447,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "In the ovary of Ciona intestinalis (Type A), immune-related
+ galectin and phenoloxidase genes are differentially expressed by the follicle
+ accessory cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Parrinello D",
+            affil str "Dipartimento di Scienze della Terra e del Mare, Viale
+ delle Scienze Ed. 16, Palermo, Italy."
+          },
+          {
+            name ml "Sanfratello MA",
+            affil str "Dipartimento di Scienze della Terra e del Mare, Viale
+ delle Scienze Ed. 16, Palermo, Italy."
+          },
+          {
+            name ml "Parisi MG",
+            affil str "Dipartimento di Scienze della Terra e del Mare, Viale
+ delle Scienze Ed. 16, Palermo, Italy."
+          },
+          {
+            name ml "Vizzini A",
+            affil str "Dipartimento di Scienze e Tecnologie Biologiche,
+ Chimiche e Farmaceutiche, Via Archirafi 18, Palermo, Italy."
+          },
+          {
+            name ml "Cammarata M",
+            affil str "Dipartimento di Scienze della Terra e del Mare, Viale
+ delle Scienze Ed. 16, Palermo, Italy. Electronic address:
+ matteo.cammarata@unipa.it."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Fish Shellfish Immunol.",
+          ml-jta "Fish Shellfish Immunol",
+          issn "1095-9947",
+          name "Fish & shellfish immunology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "72",
+          pages "452-458",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29146447,
+        pii "S1050-4648(17)30700-3",
+        doi "10.1016/j.fsi.2017.11.023",
+        other {
+          db "ELocationID pii",
+          tag str "S1050-4648(17)30700-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.fsi.2017.11.023"
+        }
+      }
+    },
+    abstract "Riboprobes (in situ hybridization) and antibodies
+ (immunohistochemistry), previously used to show the upregulation of Ciona
+ intestinalis (Type A) galectins (CiLgals-a, CiLgals-b) and phenoloxidase
+ (CinPO2) immune-related genes, were tested on histological sections of the
+ ovary. The ovarian follicles are composed of oocytes encased by follicular
+ cells (FCs) and test cells (TCs). Results show the transcription upregulation
+ of both CiLgals and CinPO2 genes in the vitellogenic FCs, conversely distinct
+ cytolocalization of the proteins are shown. At vitellogenic stage, the
+ CiLgals are localized in the FCs, in the oocyte cytoplasm, and close to the
+ germinal vesicle (GV), whereas the CinPO2 was never identified in the FCs. In
+ a presumptive advanced phase and at the post-vitellogenic stage the TCs
+ appear to be labelled by the CinPO2 riboprobe, and the protein identified by
+ the antibody suggesting an mRNA transcytosis process from FCs. At
+ post-vitellogenic stage the CiLgals mainly enrich the GV nucleoplasm, whereas
+ the CinPO2 is contained in TCs and in the ooplasm but never found in the GV.
+ This finding sheds new light on a former paper in which TCs were reported to
+ be the only CinPO2-producing cells in the ovarian follicle. Finally, CiLgals
+ and CinPO2 genes transcription and proteins production seem to be associated
+ with accessory cells during their differentiation from vitellogenic to
+ post-vitellogenic stage. The present findings promote further research on the
+ early upregulation of immune-related genes, and the potential multifunctional
+ role of the produced proteins. In addition further insight on the accessory
+ cells involvement in ascidian oogenesis are reported.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Ciona intestinalis",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Galectins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Genes"
+      },
+      {
+        term "Immunity, Innate",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Monophenol Monooxygenase",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Ovary",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Galectins"
+      },
+      {
+        type ec,
+        cit "1.14.18.1",
+        name "Monophenol Monooxygenase"
+      }
+    },
+    pmid 29146447,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

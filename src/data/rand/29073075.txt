@@ -1,0 +1,247 @@
+
+Pubmed-entry ::= {
+  pmid 29073075,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Selective neutralization of IL-12 p40 monomer induces death in
+ prostate cancer cells via IL-12-IFN-gamma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kundu M",
+            affil str "Department of Neurological Sciences, Rush University
+ Medical Center, Chicago, IL 60612."
+          },
+          {
+            name ml "Roy A",
+            affil str "Department of Neurological Sciences, Rush University
+ Medical Center, Chicago, IL 60612."
+          },
+          {
+            name ml "Pahan K",
+            affil str "Department of Neurological Sciences, Rush University
+ Medical Center, Chicago, IL 60612; kalipada_pahan@rush.edu.; Division of
+ Research and Development, Jesse Brown Veterans Affairs Medical Center,
+ Chicago, IL 60612."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Proc. Natl. Acad. Sci. U.S.A.",
+          ml-jta "Proc Natl Acad Sci U S A",
+          issn "1091-6490",
+          name "Proceedings of the National Academy of Sciences of the United
+ States of America"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10,
+            day 24
+          },
+          volume "114",
+          issue "43",
+          pages "11482-11487",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29073075,
+        pii "1705536114",
+        doi "10.1073/pnas.1705536114",
+        other {
+          db "pmc",
+          tag str "PMC5664500"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1073/pnas.1705536114"
+        }
+      }
+    },
+    abstract "Cancer cells are adept at evading cell death, but the underlying
+ mechanisms are poorly understood. IL-12 plays a critical role in the early
+ inflammatory response to infection and in the generation of T-helper type 1
+ cells, favoring cell-mediated immunity. IL-12 is composed of two different
+ subunits, p40 and p35. This study underlines the importance of IL-12 p40
+ monomer (p40) in helping cancer cells to escape cell death. We found that
+ different mouse and human cancer cells produced greater levels of p40 than
+ p40 homodimer (p402), IL-12, or IL-23. Similarly, the serum level of p40 was
+ much greater in patients with prostate cancer than in healthy control
+ subjects. Selective neutralization of p40, but not p402, by mAb stimulated
+ death in different cancer cells in vitro and in vivo in a tumor model.
+ Interestingly, p40 was involved in the arrest of IL-12 receptor (IL-12R)
+ IL-12Rbeta1, but not IL-12Rbeta2, in the membrane, and that p40
+ neutralization induced the internalization of IL-12Rbeta1 via caveolin and
+ caused cancer cell death via the IL-12-IFN-gamma pathway. These studies
+ identify a role of p40 monomer in helping cancer cells to escape cell death
+ via suppression of IL-12Rbeta1 internalization.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interferon-gamma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-12",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-12 Subunit p40",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasms, Experimental",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Prostate",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interleukin-12 Subunit p40"
+      },
+      {
+        type cas,
+        cit "187348-17-0",
+        name "Interleukin-12"
+      },
+      {
+        type cas,
+        cit "82115-62-6",
+        name "Interferon-gamma"
+      }
+    },
+    idnum {
+      "I01 BX002174/BX/BLRD VA",
+      "I01 BX003033/BX/BLRD VA",
+      "R01 NS083054/NS/NINDS NIH HHS",
+      "R21 NS097426/NS/NINDS NIH HHS"
+    },
+    pmid 29073075,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,196 @@
+
+Pubmed-entry ::= {
+  pmid 29173033,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Evaluation of Alzheimer's disease progression based on clinical
+ dementia rating scale with missing responses and covariates."
+      },
+      authors {
+        names std {
+          {
+            name ml "Das K",
+            affil str "a Department of Statistics , University of Calcutta,
+ Ballygunge Science College , Kolkata , India."
+          },
+          {
+            name ml "Rana S",
+            affil str "a Department of Statistics , University of Calcutta,
+ Ballygunge Science College , Kolkata , India."
+          },
+          {
+            name ml "Roy S",
+            affil str "b Department of Statistics , St. Xavier's College ,
+ Kolkata , India."
+          },
+          {
+            name consortium ", and for the Alzheimer's Disease Neuroimaging
+ Initiative"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Biopharm Stat",
+          ml-jta "J Biopharm Stat",
+          issn "1520-5711",
+          name "Journal of biopharmaceutical statistics"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "28",
+          issue "5",
+          pages "893-908",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29173033,
+        doi "10.1080/10543406.2017.1402780",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/10543406.2017.1402780"
+        }
+      }
+    },
+    abstract "In clinical trials, patient's disease severity is usually
+ assessed on a Likert-type scale. Patients, however, may miss one or more
+ follow-up visits (non-monotone missing). The statistical analysis of
+ non-Gaussian longitudinal data with non-monotone missingness is difficult to
+ handle, particularly when both response and time-dependent covariates are
+ subject to such missingness. Even when the number of patients with
+ intermittent missing data is small, ignoring those patients from analysis
+ seems to be unsatisfactory. The focus of the current investigation is to
+ study the progression of Alzheimer's disease by incorporating a non-ignorable
+ missing data mechanism for both response and covariates in a longitudinal
+ setup. Combining the cumulative logit longitudinal model for Alzheimer's
+ disease progression with the bivariate binary model for the missing pattern,
+ we develop a joint likelihood. The parameters are then estimated using the
+ Monte Carlo Newton Raphson Expectation Maximization (MCNREM) method. This
+ approach is quite easy to handle and the convergence of the estimates is
+ attained in a reasonable amount of time. The study reveals that
+ apolipo-protein plays a significant role in assessing a patient's disease
+ severity. A detailed simulation has also been carried out for justifying the
+ performance of our approach.",
+    mesh {
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Data Interpretation, Statistical"
+      },
+      {
+        term "Dementia",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Disease Progression"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Mental Status and Dementia Tests",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Monte Carlo Method"
+      },
+      {
+        term "Organ Size"
+      },
+      {
+        mp TRUE,
+        term "Severity of Illness Index"
+      }
+    },
+    idnum {
+      "U01 AG024904/AG/NIA NIH HHS",
+      "CIHR"
+    },
+    pmid 29173033,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

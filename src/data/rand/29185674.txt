@@ -1,0 +1,301 @@
+
+Pubmed-entry ::= {
+  pmid 29185674,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effectiveness of Extracorporeal Shock Wave Therapy and kinesio
+ taping in calcific tendinopathy of the shoulder: a randomized controlled
+ trial."
+      },
+      authors {
+        names std {
+          {
+            name ml "Frassanito P",
+            affil str "Unit of Neuromotor Rehabilitation, Istituti Clinici
+ Scientifici Maugeri IRCCS Rehabilitation Center Montescano, Pavia, Italy -
+ paolo.frassanito@icsmaugeri.it."
+          },
+          {
+            name ml "Cavalieri C",
+            affil str "Unit of Neuromotor Rehabilitation, Istituti Clinici
+ Scientifici Maugeri IRCCS Rehabilitation Center Montescano, Pavia, Italy."
+          },
+          {
+            name ml "Maestri R",
+            affil str "Department of Biomedical Engineering, Istituti Clinici
+ Scientifici Maugeri IRCCS Rehabilitation Center Montescano, Pavia, Italy."
+          },
+          {
+            name ml "Felicetti G",
+            affil str "Unit of Neuromotor Rehabilitation, Istituti Clinici
+ Scientifici Maugeri IRCCS Rehabilitation Center Montescano, Pavia, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur J Phys Rehabil Med",
+          ml-jta "Eur J Phys Rehabil Med",
+          issn "1973-9095",
+          name "European journal of physical and rehabilitation medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "54",
+          issue "3",
+          pages "333-340",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29185674,
+        pii "S1973-9087.17.04749-9",
+        doi "10.23736/S1973-9087.17.04749-9",
+        other {
+          db "ELocationID doi",
+          tag str "10.23736/S1973-9087.17.04749-9"
+        }
+      }
+    },
+    abstract "BACKGROUND: Extracorporeal Shock Wave Therapy (ESWT) is
+ effective in the treatment of calcific tendinopathy of the rotator cuff,
+ eliciting an analgesic/anti-inflammatory action and promoting tissue
+ regeneration. Kinesio taping (KT), another recently-introduced rehabilitative
+ tool, exerts an analgesic and biomechanical action on joints and muscles.
+ ESWT and KT may have a synergic effect when used in combination, but the
+ effectiveness of the association has not been established. AIM: The aim of
+ this study was to test if the association of KT with ESWT is superior to ESWT
+ alone in the treatment of rotator cuff calcific tendinopathy. DESIGN:
+ Randomized controlled trial. SETTING: Rehabilitation Institute outpatients.
+ POPULATION: Forty-two patients with rotator cuff calcific tendinopathy were
+ randomly assigned to the experimental group (ESWT+KT, N.=21) or control
+ (ESWT, N.=21). METHODS: In the experimental group, patients underwent three
+ sessions (once a week for 3 weeks) of ESWT with KT applied at the end of each
+ session. Controls underwent three sessions of ESWT only. All patients were
+ assessed before treatment (T0) and at 1 (T1), 4 (T2) and 12 weeks (T3) after
+ the end of treatment with the following outcome measures: a visual analogue
+ scale (VAS), the Disabilities of the Arm, Shoulder and Hand (DASH)
+ questionnaire, Subjective Shoulder Rating Questionnaire (SSRQ), and Oxford
+ Shoulder Score (OSS). RESULTS: Both groups showed significant improvement in
+ all outcome measures, but the time course differed between the two groups. At
+ T1 vs. T0, the improvement was significantly better in ESWT+KT than ESWT on
+ VAS (P=0.007), DASH (P<0.0001) and SSRQ (P=0.0001). Successive improvements
+ at T2 vs. T1 and T3 vs. T2 did not differ significantly between the groups.
+ At the end of follow-up, ESWT+KT still showed significantly greater
+ improvement than ESWT on VAS (P=0.02) and SSRQ (P=0.038). CONCLUSIONS: KT
+ associated with ESWT seems to improve the recovery in rotator cuff calcific
+ tendinopathy with a faster therapeutic response compared to ESWT only.
+ CLINICAL REHABILITATION IMPACT: Our results suggest the effectiveness of
+ using KT as adjuvant therapy to ESWT in rotator cuff calcific tendinopathy,
+ through enhancing the short-term analgesic action and the medium- to
+ long-term biological-regenerative effects.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Ambulatory Care",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Analysis of Variance"
+      },
+      {
+        term "Athletic Tape",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Calcinosis",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Combined Modality Therapy"
+      },
+      {
+        term "Extracorporeal Shockwave Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Italy"
+      },
+      {
+        term "Magnetic Resonance Imaging",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Pain Measurement"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Range of Motion, Articular",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Rehabilitation Centers"
+      },
+      {
+        term "Risk Assessment"
+      },
+      {
+        term "Rotator Cuff",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Shoulder Joint",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Shoulder Pain",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Tendinopathy",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29185674,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

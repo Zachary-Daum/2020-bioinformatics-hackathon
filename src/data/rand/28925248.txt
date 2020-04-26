@@ -1,0 +1,119 @@
+
+Pubmed-entry ::= {
+  pmid 28925248,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Joint Commission now offering Comprehensive Cardiac Center
+ Certification."
+      },
+      authors {
+        names ml {
+          "Pellegrini CA"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Bull Am Coll Surg",
+          ml-jta "Bull Am Coll Surg",
+          issn "0002-8045",
+          name "Bulletin of the American College of Surgeons"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2
+          },
+          volume "102",
+          issue "2",
+          pages "49-50",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28925248
+      }
+    },
+    abstract "Comprehensive Cardiac Center Certification is designed for
+ hospitals with robust cardiac care facilities, with the aim of helping
+ institutions to establish the structures, processes, and culture necessary to
+ achieve sustained levels of effective clinical performance and patient
+ outcomes across cardiac specialties and the continuum of care.",
+    mesh {
+      {
+        term "Cardiac Care Facilities",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Certification",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Joint Commission on Accreditation of Healthcare Organizations"
+      },
+      {
+        term "United States"
+      }
+    },
+    pmid 28925248,
+    pub-type {
+      "News"
+    },
+    status medline
+  }
+}
+
+

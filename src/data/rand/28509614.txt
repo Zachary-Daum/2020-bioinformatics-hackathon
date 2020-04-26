@@ -1,0 +1,221 @@
+
+Pubmed-entry ::= {
+  pmid 28509614,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The impact of pharmacist telephone calls after discharge on
+ satisfaction of oncology patients: A randomized controlled study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Salmany SS",
+            affil str "1 Department of Pharmacy, King Hussein Cancer Center,
+ Amman, Jordan."
+          },
+          {
+            name ml "Ratrout L",
+            affil str "1 Department of Pharmacy, King Hussein Cancer Center,
+ Amman, Jordan."
+          },
+          {
+            name ml "Amireh A",
+            affil str "1 Department of Pharmacy, King Hussein Cancer Center,
+ Amman, Jordan."
+          },
+          {
+            name ml "Agha R",
+            affil str "1 Department of Pharmacy, King Hussein Cancer Center,
+ Amman, Jordan."
+          },
+          {
+            name ml "Nassar N",
+            affil str "1 Department of Pharmacy, King Hussein Cancer Center,
+ Amman, Jordan."
+          },
+          {
+            name ml "Mahmoud N",
+            affil str "1 Department of Pharmacy, King Hussein Cancer Center,
+ Amman, Jordan."
+          },
+          {
+            name ml "Rimawi D",
+            affil str "2 Office of Scientific Affairs and Research, King
+ Hussein Cancer Center, Amman, Jordan."
+          },
+          {
+            name ml "Nazer L",
+            affil str "1 Department of Pharmacy, King Hussein Cancer Center,
+ Amman, Jordan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Oncol Pharm Pract",
+          ml-jta "J Oncol Pharm Pract",
+          issn "1477-092X",
+          name "Journal of oncology pharmacy practice : official publication
+ of the International Society of Oncology Pharmacy Practitioners"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "24",
+          issue "5",
+          pages "359-364",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28509614,
+        doi "10.1177/1078155217709616",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1078155217709616"
+        }
+      }
+    },
+    abstract "Purpose The aim of the study was to determine the impact of
+ telephone follow-up calls on satisfaction in oncology patients after hospital
+ discharge. Method A randomized controlled study, in which patients were
+ randomized into two groups: The experimental group with the telephone
+ follow-up (TFU) calls (intervention) and the control group (no intervention).
+ The telephone follow-up call was conducted within 72 h after discharge.
+ During the call, patients were asked about their medications, namely, whether
+ they received them, understood how to take them, and whether they developed
+ any medication-related adverse effect. Both groups were contacted by phone
+ two weeks later to assess their satisfaction with the discharge medication
+ instructions and the provided pharmaceutical services, using the 5-point
+ Likert scale. In addition, hospital records were reviewed for emergency room
+ visits and hospital readmissions within 30 days after discharge. Results
+ There was no difference in the percentage of patients who reported being very
+ satisfied between both the intervention and the control groups (45%
+ intervention vs. 48% control, P = 0.68). The mean time of the intervention
+ phone call was 3 +/- 1.7 (SD) min. During the telephone follow-up call,
+ medication-related problems were identified in 20% of the patients. There was
+ no significant difference in emergency room visits and hospital readmissions
+ in the intervention group vs. control (44% vs. 53%, P = 0.123) and (37% vs.
+ 43%, P = 0.317), respectively. Conclusion Telephone follow-up calls conducted
+ by a pharmacist to discharged oncology patients did not improve patients'
+ satisfaction, emergency room visits or hospital readmissions; however, they
+ helped to identify medication-related adverse effects in the oncology
+ patients.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Patient Discharge"
+      },
+      {
+        term "Patient Readmission",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Patient Satisfaction"
+      },
+      {
+        term "Pharmaceutical Services",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Pharmacists",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Telephone"
+      }
+    },
+    pmid 28509614,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

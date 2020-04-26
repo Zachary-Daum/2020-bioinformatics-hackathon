@@ -1,0 +1,248 @@
+
+Pubmed-entry ::= {
+  pmid 29339216,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "In vivo biotinylated calpastatin improves the affinity
+ purification of human m-calpain."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nguyen HH",
+            affil str "VIB - VUB Centre for Structural Biology (VIB CSB),
+ Vlaams Instituut voor Biotechnologie (VIB), Brussels, Belgium; Structural
+ Biology Brussels (SBB), Department of Biotechnology (DBIT), Vrije
+ Universiteit Brussel (VUB), Brussels, Belgium."
+          },
+          {
+            name ml "Volkov AN",
+            affil str "VIB - VUB Centre for Structural Biology (VIB CSB),
+ Vlaams Instituut voor Biotechnologie (VIB), Brussels, Belgium; Structural
+ Biology Brussels (SBB), Department of Biotechnology (DBIT), Vrije
+ Universiteit Brussel (VUB), Brussels, Belgium; Jean Jeener NMR Centre, Vrije
+ Universiteit Brussel (VUB), Brussels, Belgium."
+          },
+          {
+            name ml "Vandenbussche G",
+            affil str "Laboratory for the Structure and Function of Biological
+ Membranes, Centre for Structural Biology and Bioinformatics, Universite Libre
+ de Bruxelles (ULB), Brussels, Belgium."
+          },
+          {
+            name ml "Tompa P",
+            affil str "VIB - VUB Centre for Structural Biology (VIB CSB),
+ Vlaams Instituut voor Biotechnologie (VIB), Brussels, Belgium; Structural
+ Biology Brussels (SBB), Department of Biotechnology (DBIT), Vrije
+ Universiteit Brussel (VUB), Brussels, Belgium; Institute of Enzymology,
+ Research Centre for Natural Sciences of the Hungarian Academy of Sciences,
+ Budapest, Hungary."
+          },
+          {
+            name ml "Pauwels K",
+            affil str "VIB - VUB Centre for Structural Biology (VIB CSB),
+ Vlaams Instituut voor Biotechnologie (VIB), Brussels, Belgium; Structural
+ Biology Brussels (SBB), Department of Biotechnology (DBIT), Vrije
+ Universiteit Brussel (VUB), Brussels, Belgium. Electronic address:
+ kris.pauwels@vub.be."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Protein Expr. Purif.",
+          ml-jta "Protein Expr Purif",
+          issn "1096-0279",
+          name "Protein expression and purification"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "145",
+          pages "77-84",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29339216,
+        pii "S1046-5928(17)30697-6",
+        doi "10.1016/j.pep.2018.01.002",
+        other {
+          db "ELocationID pii",
+          tag str "S1046-5928(17)30697-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.pep.2018.01.002"
+        }
+      }
+    },
+    abstract "Recently we established a novel affinity purification method for
+ calpain by exploiting the specific and reversible binding properties of its
+ intrinsically disordered protein inhibitor, calpastatin. The immobilization
+ strategy relied on the strength and specificity of the biotin - streptavidin
+ interaction. Here, we report an improved and optimized method that even
+ enables the general applicability of in vivo biotinylated (intrinsically
+ disordered) proteins in any affinity capture strategy. Since in vitro
+ chemical biotinylation is only accomplished with reagents that lack exact
+ site specificity, it can not only cause sample heterogeneity but it can also
+ hamper the functionality of the biotinylated molecules. Therefore, we have
+ developed a recombinant expression protocol to produce in vivo biotinylated
+ human calpastatin domain 1 (hCSD1) in Escherichia coli. We have
+ experimentally verified that the biotinylated polypeptide tag is compatible
+ with the intrinsically disordered state of hCSD1 and that it does not
+ influence the functional properties of this intrinsically disordered protein
+ (IDP). The in vivo biotinylated hCSD1 was then used without the need of any
+ prepurification step prior to the affinity capturing of its substrate, human
+ m-calpain. This leads to a simplified purification strategy that allows
+ capturing the calpain efficiently from a complex biological mixture with only
+ a single chromatogaphic step and in a considerably reduced timeframe. Our
+ approach is generally applicable through the in vivo biotinylation of any IDP
+ of interest, and its practical implementation will showcase the power to
+ exploit the properties of IDPs in affinity capture strategies.",
+    mesh {
+      {
+        term "Biotinylation"
+      },
+      {
+        term "Calpain",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Chromatography, Affinity",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Escherichia coli",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Recombinant Proteins",
+        qual {
+          {
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Streptavidin"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Recombinant Proteins"
+      },
+      {
+        type cas,
+        cit "9013-20-1",
+        name "Streptavidin"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Calpain"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "m-calpain"
+      }
+    },
+    pmid 29339216,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

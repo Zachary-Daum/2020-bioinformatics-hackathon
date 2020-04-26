@@ -1,0 +1,143 @@
+
+Pubmed-entry ::= {
+  pmid 29306944,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Dealing with Difficult Medical Colleagues."
+      },
+      authors {
+        names std {
+          {
+            name ml "de Leon J",
+            affil str "Mental Health Research Center at Eastern State
+ Hospital, Lexington, KY, USA."
+          },
+          {
+            name ml "Wise TN"
+          },
+          {
+            name ml "Balon R"
+          },
+          {
+            name ml "Fava GA"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Psychother Psychosom",
+          ml-jta "Psychother Psychosom",
+          issn "1423-0348",
+          name "Psychotherapy and psychosomatics"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "87",
+          issue "1",
+          pages "5-11",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29306944,
+        pii "000481200",
+        doi "10.1159/000481200",
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000481200"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Cooperative Behavior"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Interprofessional Relations"
+      },
+      {
+        term "Medical Staff, Hospital",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Problem Behavior"
+      }
+    },
+    pmid 29306944,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

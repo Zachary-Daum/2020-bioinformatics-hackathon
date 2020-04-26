@@ -1,0 +1,119 @@
+
+Pubmed-entry ::= {
+  pmid 29377854,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Remembering Thought Diversity: The Value of Social Science and
+ Humanities Physician-Scholars in MD-PhD Programs."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sun JK",
+            affil str "MD/PhD candidate, Department of Psychology, Medical
+ School, University of Michigan, Ann Arbor, Michigan. MD/PhD candidate,
+ Medical School/School of Public Health, University of Michigan, Ann Arbor,
+ Michigan. Professor of internal medicine and history, University of Michigan,
+ Ann Arbor, Michigan; ORCID: http://orcid.org/0000-0002-0527-4700;
+ jhowell@umich.edu."
+          },
+          {
+            name ml "Arntson EK"
+          },
+          {
+            name ml "Howell JD"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acad Med",
+          ml-jta "Acad Med",
+          issn "1938-808X",
+          name "Academic medicine : journal of the Association of American
+ Medical Colleges"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "93",
+          issue "2",
+          pages "150",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29377854,
+        doi "10.1097/ACM.0000000000002034",
+        pii "00001888-201802000-00004",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/ACM.0000000000002034"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Humanities"
+      },
+      {
+        term "Physicians"
+      },
+      {
+        mp TRUE,
+        term "Social Sciences"
+      }
+    },
+    pmid 29377854,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

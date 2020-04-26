@@ -1,0 +1,192 @@
+
+Pubmed-entry ::= {
+  pmid 28666817,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "What supports hospital pharmacist prescribing in Scotland? - A
+ mixed methods, exploratory sequential study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fisher J",
+            affil str "NHS Lothian Pharmacy Service, Western General Hospital,
+ Crewe Road, Edinburgh, Scotland, EH4 2XU, UK. Electronic address:
+ julie.fisher@nhslothian.scot.nhs.uk."
+          },
+          {
+            name ml "Kinnear M",
+            affil str "NHS Lothian Pharmacy Service, Western General Hospital,
+ Crewe Road, Edinburgh, Scotland, EH4 2XU, UK. Electronic address:
+ moira.kinnear@nhslothian.scot.nhs.uk."
+          },
+          {
+            name ml "Reid F",
+            affil str "NHS Education for Scotland, Westport 102, Westport,
+ Edinburgh, Scotland, EH3 9DN, UK. Electronic address: fiona.reid@nes.scot.uk."
+          },
+          {
+            name ml "Souter C",
+            affil str "NHS Lothian Pharmacy Service, Western General Hospital,
+ Crewe Road, Edinburgh, Scotland, EH4 2XU, UK. Electronic address:
+ carolinesouter@nhs.net."
+          },
+          {
+            name ml "Stewart D",
+            affil str "School of Pharmacy & Life Sciences, Robert Gordon
+ University, The Sir Ian Wood Building, Garthdee Road, Aberdeen, Scotland,
+ AB10 7GJ, UK. Electronic address: d.stewart@rgu.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Res Social Adm Pharm",
+          ml-jta "Res Social Adm Pharm",
+          issn "1934-8150",
+          name "Research in social & administrative pharmacy : RSAP"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "14",
+          issue "5",
+          pages "488-497",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28666817,
+        pii "S1551-7411(16)30520-4",
+        doi "10.1016/j.sapharm.2017.06.007",
+        other {
+          db "ELocationID pii",
+          tag str "S1551-7411(16)30520-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.sapharm.2017.06.007"
+        }
+      }
+    },
+    abstract "While approximately half of all qualified hospital pharmacist
+ independent prescribers (PIPs) in Scotland are active prescribers, there are
+ major differences in prescribing activity across geographical areas. This
+ study aimed to explore, through focus groups, interviews and a questionnaire,
+ hospital PIPs' perceptions of factors associated with prescribing activity
+ and to investigate the infrastructure required to better support active
+ prescribing by PIPs. Findings reinforced the perceived positive impact of
+ supportive pharmacy leadership within the organisation, recognition that
+ prescribing is integral to the clinical pharmacist role and a work
+ environment conducive to prescribing.",
+    mesh {
+      {
+        mp TRUE,
+        term "Attitude of Health Personnel"
+      },
+      {
+        mp TRUE,
+        term "Drug Prescriptions"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Pharmacists",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Pharmacy Service, Hospital"
+      },
+      {
+        term "Professional Role"
+      },
+      {
+        term "Scotland"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 28666817,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

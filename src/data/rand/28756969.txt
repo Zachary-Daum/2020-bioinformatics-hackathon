@@ -1,0 +1,225 @@
+
+Pubmed-entry ::= {
+  pmid 28756969,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Right Way to Teach Left-Handed Residents: Strategies for
+ Training by Right Handers."
+      },
+      authors {
+        names std {
+          {
+            name ml "Prasad NK",
+            affil str "Department of Surgery, University Of Maryland Medical
+ Center, Baltimore, Maryland."
+          },
+          {
+            name ml "Kvasnovsky C",
+            affil str "Department of Surgery, University Of Maryland Medical
+ Center, Baltimore, Maryland."
+          },
+          {
+            name ml "Wise ES",
+            affil str "Department of Surgery, University Of Maryland Medical
+ Center, Baltimore, Maryland."
+          },
+          {
+            name ml "Kavic SM",
+            affil str "Department of Surgery, University Of Maryland Medical
+ Center, Baltimore, Maryland. Electronic address: skavic@som.umaryland.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Surg Educ",
+          ml-jta "J Surg Educ",
+          issn "1878-7452",
+          name "Journal of surgical education"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "75",
+          issue "2",
+          pages "271-277",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28756969,
+        pii "S1931-7204(17)30195-2",
+        doi "10.1016/j.jsurg.2017.07.004",
+        other {
+          db "ELocationID pii",
+          tag str "S1931-7204(17)30195-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jsurg.2017.07.004"
+        }
+      }
+    },
+    abstract "PURPOSE: Left-handed (LH) residents remain underrepresented
+ among surgical trainees, and there are few available data on how best to
+ train them. The challenge is amplified when pairing a LH resident with a
+ right-handed (RH) mentor. This report provides recommendations on how to
+ improve the training of LH surgeons in a safe and effective manner. METHODS:
+ A comprehensive literature review was performed using different databases and
+ search engines to identify all articles relevant to the training of LH
+ residents. RESULTS: A total of 40 articles highlighted the challenges for LH
+ surgical residents and RH mentors. Our recommendations are based on the
+ following 4 themes: identifying inherent differences in left vs. RH
+ residents, providing guidance to RH mentors training LH residents, adapting
+ the RH environment to the LH surgeon, and maximizing safety during training.
+ CONCLUSION: An organized approach needs to be taken in training the LH
+ resident. Changes should be instituted at program-wide and national levels to
+ ensure that the training experience of the sinistral surgical resident is
+ optimized.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Clinical Competence"
+      },
+      {
+        term "Competency-Based Education",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Education, Medical, Graduate",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Functional Laterality"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Internship and Residency",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Laparoscopy",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Motor Skills"
+      },
+      {
+        term "Simulation Training",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 28756969,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

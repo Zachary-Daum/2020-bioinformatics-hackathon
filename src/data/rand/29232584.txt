@@ -1,0 +1,284 @@
+
+Pubmed-entry ::= {
+  pmid 29232584,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Natural product inspired library synthesis - Identification of
+ 2,3-diarylbenzofuran and 2,3-dihydrobenzofuran based inhibitors of Chlamydia
+ trachomatis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Saleeb M",
+            affil str "Department of Chemistry, Umea University, 901 87 Umea,
+ Sweden."
+          },
+          {
+            name ml "Mojica S",
+            affil str "Department of Clinical Microbiology, Umea University,
+ 901 87 Umea, Sweden."
+          },
+          {
+            name ml "Eriksson AU",
+            affil str "Laboratories for Chemical Biology Umea, Umea
+ University, 901 87 Umea, Sweden."
+          },
+          {
+            name ml "Andersson CD",
+            affil str "Department of Chemistry, Umea University, 901 87 Umea,
+ Sweden."
+          },
+          {
+            name ml "Gylfe A",
+            affil str "Department of Clinical Microbiology, Umea University,
+ 901 87 Umea, Sweden; Laboratory for Molecular Infection Medicine Sweden
+ (MIMS), Umea University, 901 87 Umea, Sweden; Umea Centre for Microbial
+ Research (UCMR), Umea University, 901 87 Umea, Sweden."
+          },
+          {
+            name ml "Elofsson M",
+            affil str "Department of Chemistry, Umea University, 901 87 Umea,
+ Sweden; Umea Centre for Microbial Research (UCMR), Umea University, 901 87
+ Umea, Sweden. Electronic address: mikael.elofsson@umu.se."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur J Med Chem",
+          ml-jta "Eur J Med Chem",
+          issn "1768-3254",
+          name "European journal of medicinal chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 1
+          },
+          volume "143",
+          pages "1077-1089",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 9
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29232584,
+        pii "S0223-5234(17)31002-4",
+        doi "10.1016/j.ejmech.2017.11.099",
+        other {
+          db "ELocationID pii",
+          tag str "S0223-5234(17)31002-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejmech.2017.11.099"
+        }
+      }
+    },
+    abstract "A natural product inspired library was synthesized based on
+ 2,3-diarylbenzofuran and 2,3-diaryl-2,3-dihydrobenzofuran scaffolds. The
+ library of forty-eight compounds was prepared by utilizing Pd-catalyzed
+ one-pot multicomponent reactions and ruthenium-catalyzed intramolecular
+ carbenoid C-H insertions. The compounds were evaluated for antibacterial
+ activity in a panel of test systems including phenotypic, biochemical and
+ image-based screening assays. We identified several potent inhibitors that
+ block intracellular replication of pathogenic Chlamydia trachomatis with IC50
+ </= 3 muM. These new C. trachomatis inhibitors can serve as starting points
+ for the development of specific treatments that reduces the global burden of
+ C. trachomatis infections.",
+    mesh {
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Benzofurans",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Biological Products",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chlamydia trachomatis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "HeLa Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Microbial Sensitivity Tests"
+      },
+      {
+        term "Molecular Structure"
+      },
+      {
+        term "Small Molecule Libraries",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Stereoisomerism"
+      },
+      {
+        term "Structure-Activity Relationship"
+      },
+      {
+        term "Tumor Cells, Cultured"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Benzofurans"
+      },
+      {
+        type nameonly,
+        name "Biological Products"
+      },
+      {
+        type nameonly,
+        name "Small Molecule Libraries"
+      }
+    },
+    pmid 29232584,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

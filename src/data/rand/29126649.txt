@@ -1,0 +1,262 @@
+
+Pubmed-entry ::= {
+  pmid 29126649,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Is dose de-escalation possible in sarcoma patients treated with
+ enlarged limb sparing resection?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Levy A",
+            affil str "Department of Radiation Oncology, Gustave Roussy,
+ Universite Paris-Saclay, Villejuif, France; INSERM U1030, Molecular
+ Radiotherapy, Gustave Roussy, Universite Paris-Saclay, Villejuif, France;
+ Univ Paris Sud, Universite Paris-Saclay, Le Kremlin-Bicetre, France."
+          },
+          {
+            name ml "Bonvalot S",
+            affil str "Department of Surgery, Institut Curie, PSL Research
+ University, Paris, France."
+          },
+          {
+            name ml "Bellefqih S",
+            affil str "Department of Radiation Oncology, Gustave Roussy,
+ Universite Paris-Saclay, Villejuif, France."
+          },
+          {
+            name ml "Terrier P",
+            affil str "Department of Pathology, Gustave-Roussy, Universite
+ Paris Saclay, Villejuif, France."
+          },
+          {
+            name ml "Le Cesne A",
+            affil str "Department of Medical Oncology, Gustave-Roussy,
+ Universite Paris Saclay, Villejuif, France."
+          },
+          {
+            name ml "Le Pechoux C",
+            affil str "Department of Radiation Oncology, Gustave Roussy,
+ Universite Paris-Saclay, Villejuif, France. Electronic address:
+ cecile.lepechoux@gustaveroussy.fr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Radiother Oncol",
+          ml-jta "Radiother Oncol",
+          issn "1879-0887",
+          name "Radiotherapy and oncology : journal of the European Society
+ for Therapeutic Radiology and Oncology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "126",
+          issue "3",
+          pages "493-498",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 26
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29126649,
+        pii "S0167-8140(17)32677-4",
+        doi "10.1016/j.radonc.2017.10.026",
+        other {
+          db "ELocationID pii",
+          tag str "S0167-8140(17)32677-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.radonc.2017.10.026"
+        }
+      }
+    },
+    abstract "PURPOSE: To evaluate the impact of dose de-escalation in a large
+ series of resected limbs soft tissue sarcomas (STS). METHODS: Data were
+ retrospectively analysed from 414 consecutive patients treated for limb STS
+ by enlarged surgery and radiotherapy at Gustave Roussy from 05/1993 to
+ 05/2012. Radiotherapy (RT) dose level was decided by the multidisciplinary
+ staff and depended upon the quality of surgery and margins size. RESULTS: RT
+ was delivered prior (13%) or after (87%) surgery. Seven patients (2%) had
+ pre- and a postoperative RT boost. Median delivered RT dose was 50Gy
+ (36-70Gy), and 33% received >/=55Gy. At a median follow-up of 6.8years, the
+ 5-year actuarial local relapse (LR) rate was 7% (95% CI: 4.4-10%). The median
+ time to the first LR was 2.7years (range: 0.6-11.2years). The LR was most
+ often located within the irradiated field (26/32; 81%), where the median
+ total applied dose was 56Gy (range, 40-60Gy). The 5-year LR rates were 4%,
+ and 15% in patients receiving <55Gy, and in those who had >/=55Gy (p<0.001),
+ respectively. In the multivariate analysis, dose >/=55Gy (HR [hazard ratio]:
+ 2.9; p=0.02), certain histological subtypes (HR: 7.8; p<0.001), and minimal
+ surgical margins <1mm (HR: 2.9; p=0.02) were associated to higher LR rates.
+ In the subgroup of patients with ""positive"" margins <1mm (n=102), these
+ histological subtypes (HR: 4.4; p=0.03), and inadequate initial surgery
+ justifying re-excision (HR: 3; p=0.048) predicted for an increased LR,
+ whereas dose of irradiation did not (p=0.2). Patients who had late
+ complications (n=64; 15%) received higher doses of irradiation as compared
+ with other patients (median: 55Gy vs. 50Gy, respectively; p<0.001).
+ CONCLUSION: In this retrospective analysis of patients having enlarged
+ surgery and RT, histological subtype is the strongest predictor of LR,
+ whereas dose de-escalation did not lead to worse outcomes. A dose of 50Gy may
+ be recommended in case of planned enlarged surgery with R0 margins.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Dose-Response Relationship, Radiation"
+      },
+      {
+        term "Extremities",
+        qual {
+          {
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Limb Salvage",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoadjuvant Therapy"
+      },
+      {
+        term "Neoplasm Recurrence, Local"
+      },
+      {
+        term "Radiotherapy Dosage"
+      },
+      {
+        term "Radiotherapy, Adjuvant"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Sarcoma",
+        qual {
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "radiotherapy"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29126649,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

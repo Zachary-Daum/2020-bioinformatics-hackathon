@@ -1,0 +1,93 @@
+
+Pubmed-entry ::= {
+  pmid 29302855,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "2018 National Society of Genetic Counselors Presidential Address."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ramos E",
+            affil str "Illumina, Inc., San Diego, CA, USA. eramos@illumina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Genet Couns",
+          ml-jta "J Genet Couns",
+          issn "1573-3599",
+          name "Journal of genetic counseling"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "27",
+          issue "1",
+          pages "1-5",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29302855,
+        doi "10.1007/s10897-017-0203-7",
+        pii "10.1007/s10897-017-0203-7",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10897-017-0203-7"
+        }
+      }
+    },
+    pmid 29302855,
+    pub-type {
+      "News"
+    },
+    status premedline
+  }
+}
+
+

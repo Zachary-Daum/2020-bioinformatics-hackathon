@@ -1,0 +1,137 @@
+
+Pubmed-entry ::= {
+  pmid 29101434,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Comment on Mycobacterium Chelonae Infection of the Buttocks
+ Secondary to Lipofilling: A Case Report and Review of the Literature."
+      },
+      authors {
+        names std {
+          {
+            name ml "Keikha M",
+            affil str "Department of Microbiology, School of Medicine, Isfahan
+ University of Medical Sciences, Isfahan, Iran. Masoud.keykha90@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Aesthetic Plast Surg",
+          ml-jta "Aesthetic Plast Surg",
+          issn "1432-5241",
+          name "Aesthetic plastic surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "42",
+          issue "2",
+          pages "610",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29101434,
+        doi "10.1007/s00266-017-1005-x",
+        pii "10.1007/s00266-017-1005-x",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00266-017-1005-x"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Anti-Bacterial Agents"
+      },
+      {
+        mp TRUE,
+        term "Buttocks"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mycobacterium Infections"
+      },
+      {
+        mp TRUE,
+        term "Mycobacterium chelonae"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      }
+    },
+    pmid 29101434,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

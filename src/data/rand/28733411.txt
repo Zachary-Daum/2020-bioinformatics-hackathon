@@ -1,0 +1,163 @@
+
+Pubmed-entry ::= {
+  pmid 28733411,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "DNA Preparation from Schizosaccharomyces pombe."
+      },
+      authors {
+        names std {
+          {
+            name ml "Roguev A",
+            affil str "Department of Cellular and Molecular Pharmacology,
+ University of California San Francisco, San Francisco, California 94518
+ roguev@gmail.com."
+          },
+          {
+            name ml "Xu J",
+            affil str "Department of Cellular and Molecular Pharmacology,
+ University of California San Francisco, San Francisco, California 94518."
+          },
+          {
+            name ml "Krogan NJ",
+            affil str "Department of Cellular and Molecular Pharmacology,
+ University of California San Francisco, San Francisco, California 94518."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cold Spring Harb Protoc",
+          ml-jta "Cold Spring Harb Protoc",
+          issn "1559-6095",
+          name "Cold Spring Harbor protocols"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 2
+          },
+          volume "2018",
+          issue "1",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28733411,
+        pii "pdb.prot091959",
+        doi "10.1101/pdb.prot091959",
+        other {
+          db "ELocationID doi",
+          tag str "10.1101/pdb.prot091959"
+        }
+      }
+    },
+    abstract "This protocol includes two methods for genomic DNA preparation
+ from Schizosaccharomyces pombe The first is a quick method for preparation of
+ DNA suitable for polymerase chain reaction (PCR) genotyping. The second,
+ longer method yields high-quality DNA that can be used for amplification of
+ targeting cassettes.",
+    mesh {
+      {
+        term "DNA, Fungal",
+        qual {
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Genetics, Microbial",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Genotyping Techniques"
+      },
+      {
+        term "Molecular Biology",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Mycological Typing Techniques"
+      },
+      {
+        term "Polymerase Chain Reaction"
+      },
+      {
+        term "Schizosaccharomyces",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "DNA, Fungal"
+      }
+    },
+    pmid 28733411,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

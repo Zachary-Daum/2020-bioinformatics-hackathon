@@ -1,0 +1,232 @@
+
+Pubmed-entry ::= {
+  pmid 29073577,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prevalence of depression in cardiovascular patients in Iran: A
+ systematic review and meta-analysis from 2000 to 2017."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ghaemmohamadi MS",
+            affil str "Student Research Committee, Faculty of Health
+ Management and Information Sciences Branch, Iran University of Medical
+ Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Behzadifar M",
+            affil str "Health Management and Economics Research Center, Iran
+ University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Ghashghaee A",
+            affil str "Student Research Committee, Faculty of Health
+ Management and Information Sciences Branch, Iran University of Medical
+ Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Mousavinejad N",
+            affil str "Social Determinants of Health Research Center, Lorestan
+ University of Medical Sciences, Khorramabad, Iran."
+          },
+          {
+            name ml "Ebadi F",
+            affil str "Student Research Committee, Faculty of Health
+ Management and Information Sciences Branch, Iran University of Medical
+ Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Saeedi Shahri SS",
+            affil str "Student Research Committee, Faculty of Health
+ Management and Information Sciences Branch, Iran University of Medical
+ Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Seyedin H",
+            affil str "Department of Health Services Management, School of
+ Health Management and Information Sciences, Iran University of Medical
+ Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Behzadifar M",
+            affil str "Social Determinants of Health Research Center, Lorestan
+ University of Medical Sciences, Khorramabad, Iran. Electronic address:
+ masoudbehzadifar@gmail.com."
+          },
+          {
+            name ml "Bragazzi NL",
+            affil str "School of Public Health, Department of Health Sciences
+ (DISSAL), University of Genoa, Genoa, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Affect Disord",
+          ml-jta "J Affect Disord",
+          issn "1573-2517",
+          name "Journal of affective disorders"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "227",
+          pages "149-155",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29073577,
+        pii "S0165-0327(17)31859-1",
+        doi "10.1016/j.jad.2017.10.026",
+        other {
+          db "ELocationID pii",
+          tag str "S0165-0327(17)31859-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jad.2017.10.026"
+        }
+      }
+    },
+    abstract "BACKGROUND: In both developed and developing countries,
+ cardiovascular disease is on the rise, representing nowadays one of the main
+ challenges for the health systems worldwide. This increase generates relevant
+ costs. The aim of this study was to conduct a systematic and meta-analytical
+ review of the prevalence of depression in cardiovascular patients in Iran.
+ METHODS: Articles written in English and Persian were searched from January
+ 2000 to July 2017 in different scholarly databases. RESULTS: 12 studies were
+ retained and included in the current meta-analysis. Selected studies were
+ published between 2008 and 2016. The number of patients participating in
+ these studies was 9292. Based on the random-effects model, the prevalence of
+ depression in cardiovascular patients in Iran was 47% [95% confidence
+ interval or CI 38-56], I(2)=98.2% with P = 0.000. The relative risk (RR) of
+ depression in cardiovascular patients yielded a value of 1.30 [95%CI
+ 1.05-1.62] with P < 0.001. Women are more at risk for depression than men.
+ CONCLUSION: The current meta-analysis estimated the prevalence of depression
+ among cardiovascular patients in Iran. The prevalence found computed by the
+ present study is higher than the figures found in developed countries.
+ Depression with cardiovascular disease causes many problems for these
+ patients, and early diagnosis and treatment significantly helps in improving
+ quality of life, as well as saving costs and resources.",
+    mesh {
+      {
+        term "Cardiovascular Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Comorbidity"
+      },
+      {
+        term "Depression",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Iran",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Sex Factors"
+      }
+    },
+    pmid 29073577,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Review",
+      "Systematic Review"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,200 @@
+
+Pubmed-entry ::= {
+  pmid 28980340,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Longitudinal development of subtraction performance in
+ elementary school."
+      },
+      authors {
+        names std {
+          {
+            name ml "Artemenko C",
+            affil str "LEAD Graduate School & Research Network, University of
+ Tuebingen, Germany.; Department of Psychology, University of Tuebingen,
+ Germany."
+          },
+          {
+            name ml "Pixner S",
+            affil str "Institute for Psychology, UMIT - The Health and Life
+ Sciences University, Hall in Tyrol, Austria."
+          },
+          {
+            name ml "Moeller K",
+            affil str "LEAD Graduate School & Research Network, University of
+ Tuebingen, Germany.; Department of Psychology, University of Tuebingen,
+ Germany.; Leibniz-Institut fur Wissensmedien, Tuebingen, Germany."
+          },
+          {
+            name ml "Nuerk HC",
+            affil str "LEAD Graduate School & Research Network, University of
+ Tuebingen, Germany.; Department of Psychology, University of Tuebingen,
+ Germany.; Leibniz-Institut fur Wissensmedien, Tuebingen, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br J Dev Psychol",
+          ml-jta "Br J Dev Psychol",
+          issn "2044-835X",
+          name "The British journal of developmental psychology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "36",
+          issue "2",
+          pages "188-205",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 8,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28980340,
+        doi "10.1111/bjdp.12215",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/bjdp.12215"
+        }
+      }
+    },
+    abstract "A major goal of education in elementary mathematics is the
+ mastery of arithmetic operations. However, research on subtraction is rather
+ scarce, probably because subtraction is often implicitly assumed to be
+ cognitively similar to addition, its mathematical inverse. To evaluate this
+ assumption, we examined the relation between the borrow effect in subtraction
+ and the carry effect in addition, and the developmental trajectory of the
+ borrow effect in children using a choice reaction paradigm in a longitudinal
+ study. In contrast to the carry effect in adults, carry and borrow effects in
+ children were found to be categorical rather than continuous. From grades 3
+ to 4, children became more proficient in two-digit subtraction in general,
+ but not in performing the borrow operation in particular. Thus, we observed
+ no specific developmental progress in place-value computation, but a general
+ improvement in subtraction procedures. Statement of contribution What is
+ already known on this subject? The borrow operation increases difficulty in
+ two-digit subtraction in adults. The carry effect in addition, as the inverse
+ operation of borrowing, comprises categorical and continuous processing
+ characteristics. What does this study add? In contrast to the carry effect in
+ adults, the borrow and carry effects are categorical in elementary school
+ children. Children generally improve in subtraction performance from grades 3
+ to 4 but do not progress in place-value computation in particular.",
+    mesh {
+      {
+        term "Academic Performance"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child Development",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Mathematical Concepts"
+      },
+      {
+        term "Mathematics",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      },
+      {
+        term "Problem Solving",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    pmid 28980340,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

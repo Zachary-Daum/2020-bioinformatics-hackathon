@@ -1,0 +1,269 @@
+
+Pubmed-entry ::= {
+  pmid 29303851,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Protection of Inferior Alveolar Neurovascular Bundle in Alveolar
+ Bone Operation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang W",
+            affil str "Department of Oral and Maxillofacial Surgery, Ninth
+ People's Hospital, Shanghai Jiao Tong University School of Medicine,
+ Shanghai, China."
+          },
+          {
+            name ml "Chen M"
+          },
+          {
+            name ml "Yang C"
+          },
+          {
+            name ml "Han Z"
+          },
+          {
+            name ml "Wei W"
+          },
+          {
+            name ml "Chai Y"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Craniofac Surg",
+          ml-jta "J Craniofac Surg",
+          issn "1536-3732",
+          name "The Journal of craniofacial surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "29",
+          issue "2",
+          pages "e155-e158",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29303851,
+        doi "10.1097/SCS.0000000000004237",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/SCS.0000000000004237"
+        }
+      }
+    },
+    abstract "PURPOSE: The aim of this study was to investigate the protection
+ of the inferior alveolar neurovascular bundle in alveolar bone operation in
+ conditions such as chronic osteomyelitis and cementoma. PATIENTS AND METHODS:
+ The study enrolled 7 cases, 4 with chronic osteomyelitis and 3 with cementoma
+ with pain. Computed tomography scan and 3-dimensional reconstruction were
+ performed for the diseases. Data were processed by ProPlan CMF 1.3 software.
+ The edge of lesion was defined and the inferior alveolar nerve was marked.
+ Template was designed to guide the osteotomy line. Piezosurgery was used for
+ osteotomy, with the avoidance of nerve canal. Current perception threshold
+ (CPT) was performed to evaluate the nerve function after operation. RESULTS:
+ The CPT difference of the affected side before and after operation showed no
+ statistically significant differences compared with that of the unaffected
+ side (P = 0.0556). CONCLUSIONS: Digital template protects the inferior
+ alveolar neurovascular bundle with the aid of piezosurgery during alveolar
+ bone resection, which obtained satisfying clinical results. As powerful
+ assistive tools of functional surgery, digital template and piezosurgery
+ achieve both the purposes of treatment and function.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Alveolar Process",
+        qual {
+          {
+            subh "blood supply"
+          },
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "innervation"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Blood Vessels",
+        qual {
+          {
+            subh "injuries"
+          }
+        }
+      },
+      {
+        term "Cementoma",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Imaging, Three-Dimensional"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mandible",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Mandibular Neoplasms",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Mandibular Nerve"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Organ Sparing Treatments",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Osteomyelitis",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Osteotomy",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Piezosurgery"
+      },
+      {
+        term "Tomography, X-Ray Computed"
+      },
+      {
+        term "Trigeminal Nerve Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Vascular System Injuries",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      }
+    },
+    pmid 29303851,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

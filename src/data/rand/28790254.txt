@@ -1,0 +1,141 @@
+
+Pubmed-entry ::= {
+  pmid 28790254,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Health Impacts Due to Occupational Exposure of Hazardous
+ Drugs(HD)]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yasui H",
+            affil str "Dept. of Medical Oncology, Kobe City Medical Center
+ General Hospital."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Gan To Kagaku Ryoho",
+          ml-jta "Gan To Kagaku Ryoho",
+          issn "0385-0684",
+          name "Gan to kagaku ryoho. Cancer & chemotherapy"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7
+          },
+          volume "44",
+          issue "7",
+          pages "550-553",
+          language "jpn",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28790254
+      }
+    },
+    abstract "Healthcare workers who occupationally handle hazardous
+ drugs(HD)have been reported to be at high risk of reproductive toxicity and
+ carcinogenicity by long-term exposure even in trace amounts. The risk is
+ determined not only by the toxicity of the drug but also by how much HD is
+ absorbed in the body. Adverse events due to exposure to anticancer drugs can
+ be classified into biological effects expressed at the cell and gene level,
+ and effects on health expressed on individual level, the latter appearing as
+ acute symptoms in the short term. In the long term, the effects on
+ reproduction and development of malignant tumors become a problem.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infertility",
+        qual {
+          {
+            subh "chemically induced"
+          }
+        }
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            subh "chemically induced"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Occupational Exposure"
+      },
+      {
+        term "Protective Devices"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      }
+    },
+    pmid 28790254,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

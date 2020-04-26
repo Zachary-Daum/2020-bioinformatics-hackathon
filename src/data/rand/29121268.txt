@@ -1,0 +1,888 @@
+
+Pubmed-entry ::= {
+  pmid 29121268,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Association of Polygenic Score for Schizophrenia and HLA Antigen
+ and Inflammation Genes With Response to Lithium in Bipolar Affective
+ Disorder: A Genome-Wide Association Study."
+      },
+      authors {
+        names std {
+          {
+            name consortium "International Consortium on Lithium Genetics
+ (ConLi+Gen)"
+          },
+          {
+            name ml "Amare AT",
+            affil str "Discipline of Psychiatry, School of Medicine,
+ University of Adelaide, Adelaide, South Australia, Australia."
+          },
+          {
+            name ml "Schubert KO",
+            affil str "Discipline of Psychiatry, School of Medicine,
+ University of Adelaide, Adelaide, South Australia, Australia.; Northern
+ Adelaide Local Health Network, Mental Health Services, Adelaide, South
+ Australia, Australia."
+          },
+          {
+            name ml "Hou L",
+            affil str "Intramural Research Program, National Institute of
+ Mental Health, National Institutes of Health, US Department of Health and
+ Human Services, Bethesda, Maryland."
+          },
+          {
+            name ml "Clark SR",
+            affil str "Discipline of Psychiatry, School of Medicine,
+ University of Adelaide, Adelaide, South Australia, Australia."
+          },
+          {
+            name ml "Papiol S",
+            affil str "Institute of Psychiatric Phenomics and Genomics,
+ University Hospital, Ludwig-Maximilian University of Munich, Munich,
+ Germany.; Department of Psychiatry and Psychotherapy, Ludwig-Maximilian
+ University of Munich, Munich, Germany."
+          },
+          {
+            name ml "Heilbronner U",
+            affil str "Institute of Psychiatric Phenomics and Genomics,
+ University Hospital, Ludwig-Maximilian University of Munich, Munich,
+ Germany.; Department of Psychiatry and Psychotherapy, University Medical
+ Center, Georg-August University Gottingen, Gottingen, Germany."
+          },
+          {
+            name ml "Degenhardt F",
+            affil str "Institute of Human Genetics and Department of Genomics,
+ Life & Brain Center, University of Bonn, Bonn, Germany."
+          },
+          {
+            name ml "Tekola-Ayele F",
+            affil str "Epidemiology Branch, Division of Intramural Population
+ Health Research, Eunice Kennedy Shriver National Institute of Child Health
+ and Human Development, National Institutes of Health, Bethesda, Maryland."
+          },
+          {
+            name ml "Hsu YH",
+            affil str "Hebrew SeniorLife Institute for Aging Research, Harvard
+ Medical School, Boston, Massachusetts.; Program for Quantitative Genomics,
+ Harvard School of Public Health, Boston, Massachusetts.; Broad Institute of
+ Massachusetts Institute of Technology and Harvard, Cambridge, Massachusetts."
+          },
+          {
+            name ml "Shekhtman T",
+            affil str "Department of Psychiatry, University of California San
+ Diego."
+          },
+          {
+            name ml "Adli M",
+            affil str "Department of Psychiatry and Psychotherapy,
+ Charite-Universitatsmedizin Berlin, Campus Charite Mitte, Berlin, Germany."
+          },
+          {
+            name ml "Akula N",
+            affil str "Intramural Research Program, National Institute of
+ Mental Health, National Institutes of Health, US Department of Health and
+ Human Services, Bethesda, Maryland."
+          },
+          {
+            name ml "Akiyama K",
+            affil str "Department of Biological Psychiatry and Neuroscience,
+ Dokkyo Medical University School of Medicine, Mibu, Tochigi, Japan."
+          },
+          {
+            name ml "Ardau R",
+            affil str "Unit of Clinical Pharmacology, Hospital University
+ Agency of Cagliari, Cagliari, Italy."
+          },
+          {
+            name ml "Arias B",
+            affil str "Unitat de Zoologia i Antropologia Biologica (Dpt
+ Biologia Evolutiva, Ecologia i Ciencies Ambientals), Facultat de Biologia and
+ Institut de Biomedicina, University of Barcelona, Centro de Investigacion
+ Biomedica en Red de Salud Mental, Barcelona, Spain."
+          },
+          {
+            name ml "Aubry JM",
+            affil str "Department of Psychiatry, Mood Disorders Unit, Geneva
+ University Hospitals, Geneva, Switzerland."
+          },
+          {
+            name ml "Backlund L",
+            affil str "Department of Molecular Medicine and Surgery,
+ Karolinska Institutet, Stockholm, Sweden, and Center for Molecular Medicine,
+ Karolinska University Hospital, Stockholm, Sweden."
+          },
+          {
+            name ml "Bhattacharjee AK",
+            affil str "Department of Psychiatry, University of California San
+ Diego."
+          },
+          {
+            name ml "Bellivier F",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale Unite Mixte de Recherche Scientifique 1144, Universite Paris
+ Diderot, Departement de Psychiatrie et de Medecine Addictologique, Assistance
+ Publique-Hopitaux de Paris, Groupe Hospitalier Saint-Louis-Lariboisiere-F.
+ Widal, Paris, France."
+          },
+          {
+            name ml "Benabarre A",
+            affil str "Bipolar Disorder Program, Institute of Neuroscience,
+ Hospital Clinic, University of Barcelona, Institut d'Investigacions
+ Biomediques August Pi i Sunyer, Centro de Investigacion Biomedica en Red
+ Salud Mental, Barcelona, Catalonia, Spain."
+          },
+          {
+            name ml "Bengesser S",
+            affil str "Department of Psychiatry and Psychotherapeutic
+ Medicine, Research Unit for Bipolar Affective Disorder, Medical University of
+ Graz, Graz, Austria."
+          },
+          {
+            name ml "Biernacka JM",
+            affil str "Department of Health Sciences Research, Mayo Clinic,
+ Rochester, Minnesota.; Department of Psychiatry and Psychology, Mayo Clinic,
+ Rochester, Minnesota."
+          },
+          {
+            name ml "Birner A",
+            affil str "Department of Psychiatry and Psychotherapeutic
+ Medicine, Research Unit for Bipolar Affective Disorder, Medical University of
+ Graz, Graz, Austria."
+          },
+          {
+            name ml "Brichant-Petitjean C",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale Unite Mixte de Recherche Scientifique 1144, Universite Paris
+ Diderot, Departement de Psychiatrie et de Medecine Addictologique, Assistance
+ Publique-Hopitaux de Paris, Groupe Hospitalier Saint-Louis-Lariboisiere-F.
+ Widal, Paris, France."
+          },
+          {
+            name ml "Cervantes P",
+            affil str "The Neuromodulation Unit, McGill University Health
+ Centre, Montreal, Canada."
+          },
+          {
+            name ml "Chen HC",
+            affil str "Department of Psychiatry and Center of Sleep Disorders,
+ National Taiwan University Hospital, Taipei, Taiwan."
+          },
+          {
+            name ml "Chillotti C",
+            affil str "Unit of Clinical Pharmacology, Hospital University
+ Agency of Cagliari, Cagliari, Italy."
+          },
+          {
+            name ml "Cichon S",
+            affil str "Institute of Human Genetics and Department of Genomics,
+ Life & Brain Center, University of Bonn, Bonn, Germany.; Human Genomics
+ Research Group, Department of Biomedicine, University Hospital Basel, Basel,
+ Switzerland."
+          },
+          {
+            name ml "Cruceanu C",
+            affil str "Douglas Mental Health University Institute, McGill
+ University, Montreal, Canada."
+          },
+          {
+            name ml "Czerski PM",
+            affil str "Psychiatric Genetic Unit, Poznan University of Medical
+ Sciences, Poznan, Poland."
+          },
+          {
+            name ml "Dalkner N",
+            affil str "Department of Psychiatry and Psychotherapeutic
+ Medicine, Research Unit for Bipolar Affective Disorder, Medical University of
+ Graz, Graz, Austria."
+          },
+          {
+            name ml "Dayer A",
+            affil str "Department of Psychiatry, Mood Disorders Unit, Geneva
+ University Hospitals, Geneva, Switzerland."
+          },
+          {
+            name ml "Del Zompo M",
+            affil str "Department of Biomedical Sciences, University of
+ Cagliari, Cagliari, Italy."
+          },
+          {
+            name ml "DePaulo JR",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University, Baltimore, Maryland."
+          },
+          {
+            name ml "Etain B",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale Unite Mixte de Recherche Scientifique 1144, Universite Paris
+ Diderot, Departement de Psychiatrie et de Medecine Addictologique, Assistance
+ Publique-Hopitaux de Paris, Groupe Hospitalier Saint-Louis-Lariboisiere-F.
+ Widal, Paris, France."
+          },
+          {
+            name ml "Falkai P",
+            affil str "Department of Psychiatry and Psychotherapy,
+ Ludwig-Maximilian University of Munich, Munich, Germany."
+          },
+          {
+            name ml "Forstner AJ",
+            affil str "Institute of Human Genetics and Department of Genomics,
+ Life & Brain Center, University of Bonn, Bonn, Germany.; Human Genomics
+ Research Group, Department of Biomedicine, University Hospital Basel, Basel,
+ Switzerland.; Department of Psychiatry, University of Basel, Basel,
+ Switzerland."
+          },
+          {
+            name ml "Frisen L",
+            affil str "Department of Molecular Medicine and Surgery,
+ Karolinska Institutet, Stockholm, Sweden, and Center for Molecular Medicine,
+ Karolinska University Hospital, Stockholm, Sweden."
+          },
+          {
+            name ml "Frye MA",
+            affil str "Department of Psychiatry and Psychology, Mayo Clinic,
+ Rochester, Minnesota."
+          },
+          {
+            name ml "Fullerton JM",
+            affil str "Neuroscience Research Australia, Sydney, New South
+ Wales, Australia.; School of Medical Sciences, University of New South Wales,
+ Sydney, New South Wales, Australia."
+          },
+          {
+            name ml "Gard S",
+            affil str "Service de Psychiatrie, Hopital Charles Perrens,
+ Bordeaux, France."
+          },
+          {
+            name ml "Garnham JS",
+            affil str "Department of Psychiatry, Dalhousie University,
+ Halifax, Nova Scotia, Canada."
+          },
+          {
+            name ml "Goes FS",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University, Baltimore, Maryland."
+          },
+          {
+            name ml "Grigoroiu-Serbanescu M",
+            affil str "Biometric Psychiatric Genetics Research Unit, Alexandru
+ Obregia Clinical Psychiatric Hospital, Bucharest, Romania."
+          },
+          {
+            name ml "Grof P",
+            affil str "Mood Disorders Center of Ottawa, Ontario, Canada."
+          },
+          {
+            name ml "Hashimoto R",
+            affil str "Molecular Research Center for Children's Mental
+ Development, United Graduate School of Child Development, Osaka University,
+ Osaka, Japan.; Department of Psychiatry, Osaka University Graduate School of
+ Medicine, Osaka, Japan."
+          },
+          {
+            name ml "Hauser J",
+            affil str "Psychiatric Genetic Unit, Poznan University of Medical
+ Sciences, Poznan, Poland."
+          },
+          {
+            name ml "Herms S",
+            affil str "Institute of Human Genetics and Department of Genomics,
+ Life & Brain Center, University of Bonn, Bonn, Germany.; Human Genomics
+ Research Group, Department of Biomedicine, University Hospital Basel, Basel,
+ Switzerland."
+          },
+          {
+            name ml "Hoffmann P",
+            affil str "Institute of Human Genetics and Department of Genomics,
+ Life & Brain Center, University of Bonn, Bonn, Germany.; Human Genomics
+ Research Group, Department of Biomedicine, University Hospital Basel, Basel,
+ Switzerland."
+          },
+          {
+            name ml "Hofmann A",
+            affil str "Institute of Human Genetics and Department of Genomics,
+ Life & Brain Center, University of Bonn, Bonn, Germany."
+          },
+          {
+            name ml "Jamain S",
+            affil str "Institut National de la Sante et de la Recherche
+ Medicale Unite 955, Psychiatrie Translationnelle, Creteil, France."
+          },
+          {
+            name ml "Jimenez E",
+            affil str "Bipolar Disorder Program, Institute of Neuroscience,
+ Hospital Clinic, University of Barcelona, Institut d'Investigacions
+ Biomediques August Pi i Sunyer, Centro de Investigacion Biomedica en Red
+ Salud Mental, Barcelona, Catalonia, Spain."
+          },
+          {
+            name ml "Kahn JP",
+            affil str "Service de Psychiatrie et Psychologie Clinique, Centre
+ Psychotherapique de Nancy, Universite de Lorraine, Nancy, France."
+          },
+          {
+            name ml "Kassem L",
+            affil str "Intramural Research Program, National Institute of
+ Mental Health, National Institutes of Health, US Department of Health and
+ Human Services, Bethesda, Maryland."
+          },
+          {
+            name ml "Kuo PH",
+            affil str "Department of Public Health and Institute of
+ Epidemiology and Preventive Medicine, College of Public Health, National
+ Taiwan University, Taipei, Taiwan."
+          },
+          {
+            name ml "Kato T",
+            affil str "Laboratory for Molecular Dynamics of Mental Disorders,
+ RIKEN Brain Science Institute, Saitama, Japan."
+          },
+          {
+            name ml "Kelsoe J",
+            affil str "Department of Psychiatry, University of California San
+ Diego."
+          },
+          {
+            name ml "Kittel-Schneider S",
+            affil str "Department of Psychiatry, Psychosomatic Medicine, and
+ Psychotherapy, University Hospital Frankfurt, Frankfurt, Germany."
+          },
+          {
+            name ml "Kliwicki S",
+            affil str "Department of Adult Psychiatry, Poznan University of
+ Medical Sciences, Poznan, Poland."
+          },
+          {
+            name ml "Konig B",
+            affil str "Department of Psychiatry and Psychotherapeutic
+ Medicine, Landesklinikum Neunkirchen, Neunkirchen, Austria."
+          },
+          {
+            name ml "Kusumi I",
+            affil str "Department of Psychiatry, Hokkaido University Graduate
+ School of Medicine, Sapporo, Japan."
+          },
+          {
+            name ml "Laje G",
+            affil str "Intramural Research Program, National Institute of
+ Mental Health, National Institutes of Health, US Department of Health and
+ Human Services, Bethesda, Maryland."
+          },
+          {
+            name ml "Landen M",
+            affil str "Institute of Neuroscience and Physiology, The
+ Sahlgrenska Academy at the Gothenburg University, Gothenburg, Sweden.;
+ Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Lavebratt C",
+            affil str "Department of Molecular Medicine and Surgery,
+ Karolinska Institutet, Stockholm, Sweden, and Center for Molecular Medicine,
+ Karolinska University Hospital, Stockholm, Sweden."
+          },
+          {
+            name ml "Leboyer M",
+            affil str "Inserm U955, Translational Psychiatry Laboratory,
+ Universite Paris-Est-Creteil, Department of Psychiatry and Addictology of
+ Mondor University Hospital, Assistance Publique-Hopitaux de Paris, Hopital
+ Albert Chenevier-Henri Mondor, Pole de Psychiatrie, Creteil, France."
+          },
+          {
+            name ml "Leckband SG",
+            affil str "Department of Pharmacy, Veterans Affairs San Diego
+ Healthcare System, San Diego, California."
+          },
+          {
+            name ml "Tortorella A",
+            affil str "Department of Psychiatry, University of Perugia,
+ Perugia, Italy."
+          },
+          {
+            name ml "Manchia M",
+            affil str "Section of Psychiatry, Department of Medical Sciences
+ and Public Health, University of Cagliari, Cagliari, Italy.; Department of
+ Pharmacology, Dalhousie University, Halifax, Nova Scotia, Canada."
+          },
+          {
+            name ml "Martinsson L",
+            affil str "Department of Clinical Neurosciences, Karolinska
+ Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "McCarthy MJ",
+            affil str "Department of Psychiatry, University of California San
+ Diego.; Department of Psychiatry, Veterans Affairs San Diego Healthcare
+ System, San Diego, California."
+          },
+          {
+            name ml "McElroy S",
+            affil str "Department of Psychiatry, Lindner Center of Hope and
+ University of Cincinnati, Mason, Ohio."
+          },
+          {
+            name ml "Colom F",
+            affil str "Bipolar Disorder Program, Institute of Neuroscience,
+ Hospital Clinic, University of Barcelona, Institut d'Investigacions
+ Biomediques August Pi i Sunyer, Centro de Investigacion Biomedica en Red
+ Salud Mental, Barcelona, Catalonia, Spain.; Mental Health Research Group,
+ IMIM-Hospital del Mar, Barcelona, Catalonia, Spain."
+          },
+          {
+            name ml "Mitjans M",
+            affil str "Centro de Investigacion Biomedica en Red de Salud
+ Mental, Instituto de Salud Carlos III, Madrid, Spain.; Clinical Neuroscience,
+ Max Planck Institute of Experimental Medicine, Gottingen, Germany."
+          },
+          {
+            name ml "Mondimore FM",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University, Baltimore, Maryland."
+          },
+          {
+            name ml "Monteleone P",
+            affil str "Neurosciences Section, Department of Medicine and
+ Surgery, University of Salerno, Salerno, Italy.; Department of Psychiatry,
+ Second University of Naples, Naples, Italy."
+          },
+          {
+            name ml "Nievergelt CM",
+            affil str "Department of Psychiatry, University of California San
+ Diego."
+          },
+          {
+            name ml "Nothen MM",
+            affil str "Institute of Human Genetics and Department of Genomics,
+ Life & Brain Center, University of Bonn, Bonn, Germany."
+          },
+          {
+            name ml "Novak T",
+            affil str "National Institute of Mental Health, Klecany, Czech
+ Republic."
+          },
+          {
+            name ml "O'Donovan C",
+            affil str "Department of Psychiatry, Dalhousie University,
+ Halifax, Nova Scotia, Canada."
+          },
+          {
+            name ml "Ozaki N",
+            affil str "Department of Psychiatry, Nagoya University Graduate
+ School of Medicine, Nagoya, Aichi, Japan."
+          },
+          {
+            name ml "Osby U",
+            affil str "Department of Neurobiology, Care Sciences, and Society,
+ Karolinska Institutet and Center for Molecular Medicine, Karolinska
+ University Hospital, Stockholm, Sweden."
+          },
+          {
+            name ml "Pfennig A",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital Carl Gustav Carus, Medical Faculty, Technische Universitat Dresden,
+ Germany."
+          },
+          {
+            name ml "Potash JB",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University, Baltimore, Maryland."
+          },
+          {
+            name ml "Reif A",
+            affil str "Laboratory for Molecular Dynamics of Mental Disorders,
+ RIKEN Brain Science Institute, Saitama, Japan."
+          },
+          {
+            name ml "Reininghaus E",
+            affil str "Department of Psychiatry and Psychotherapeutic
+ Medicine, Research Unit for Bipolar Affective Disorder, Medical University of
+ Graz, Graz, Austria."
+          },
+          {
+            name ml "Rouleau GA",
+            affil str "Montreal Neurological Institute and Hospital, McGill
+ University, Montreal, Canada."
+          },
+          {
+            name ml "Rybakowski JK",
+            affil str "Department of Psychiatry, Psychosomatic Medicine, and
+ Psychotherapy, University Hospital Frankfurt, Frankfurt, Germany."
+          },
+          {
+            name ml "Schalling M",
+            affil str "Department of Molecular Medicine and Surgery,
+ Karolinska Institutet, Stockholm, Sweden, and Center for Molecular Medicine,
+ Karolinska University Hospital, Stockholm, Sweden."
+          },
+          {
+            name ml "Schofield PR",
+            affil str "Neuroscience Research Australia, Sydney, New South
+ Wales, Australia.; School of Medical Sciences, University of New South Wales,
+ Sydney, New South Wales, Australia."
+          },
+          {
+            name ml "Schweizer BW",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University, Baltimore, Maryland."
+          },
+          {
+            name ml "Severino G",
+            affil str "Department of Biomedical Sciences, University of
+ Cagliari, Cagliari, Italy."
+          },
+          {
+            name ml "Shilling PD",
+            affil str "Department of Molecular Medicine and Surgery,
+ Karolinska Institutet, Stockholm, Sweden, and Center for Molecular Medicine,
+ Karolinska University Hospital, Stockholm, Sweden."
+          },
+          {
+            name ml "Shimoda K",
+            affil str "Department of Psychiatry, Dokkyo University School of
+ Medicine, Mibu, Tochigi, Japan."
+          },
+          {
+            name ml "Simhandl C",
+            affil str "Bipolar Center Wiener Neustadt, Sigmund Freud
+ University, Medical Faculty, Vienna, Austria."
+          },
+          {
+            name ml "Slaney CM",
+            affil str "Department of Psychiatry, Dalhousie University,
+ Halifax, Nova Scotia, Canada."
+          },
+          {
+            name ml "Squassina A",
+            affil str "Department of Biomedical Sciences, University of
+ Cagliari, Cagliari, Italy."
+          },
+          {
+            name ml "Stamm T",
+            affil str "Department of Psychiatry and Psychotherapy,
+ Charite-Universitatsmedizin Berlin, Campus Charite Mitte, Berlin, Germany."
+          },
+          {
+            name ml "Stopkova P",
+            affil str "National Institute of Mental Health, Klecany, Czech
+ Republic."
+          },
+          {
+            name ml "Maj M",
+            affil str "Department of Psychiatry, Second University of Naples,
+ Naples, Italy."
+          },
+          {
+            name ml "Turecki G",
+            affil str "Douglas Mental Health University Institute, McGill
+ University, Montreal, Canada."
+          },
+          {
+            name ml "Vieta E",
+            affil str "Bipolar Disorder Program, Institute of Neuroscience,
+ Hospital Clinic, University of Barcelona, Institut d'Investigacions
+ Biomediques August Pi i Sunyer, Centro de Investigacion Biomedica en Red
+ Salud Mental, Barcelona, Catalonia, Spain."
+          },
+          {
+            name ml "Volkert J",
+            affil str "Department of Psychiatry, Psychosomatic Medicine, and
+ Psychotherapy, University Hospital Frankfurt, Frankfurt, Germany."
+          },
+          {
+            name ml "Witt S",
+            affil str "Department of Genetic Epidemiology in Psychiatry,
+ Central Institute of Mental Health, Medical Faculty Mannheim, University of
+ Heidelberg, Mannheim, Germany."
+          },
+          {
+            name ml "Wright A",
+            affil str "School of Psychiatry, University of New South Wales,
+ and Black Dog Institute, Sydney, New South Wales, Australia."
+          },
+          {
+            name ml "Zandi PP",
+            affil str "Department of Mental Health, Johns Hopkins Bloomberg
+ School of Public Health, Baltimore, Maryland."
+          },
+          {
+            name ml "Mitchell PB",
+            affil str "School of Psychiatry, University of New South Wales,
+ and Black Dog Institute, Sydney, New South Wales, Australia."
+          },
+          {
+            name ml "Bauer M",
+            affil str "Department of Psychiatry and Psychotherapy, University
+ Hospital Carl Gustav Carus, Medical Faculty, Technische Universitat Dresden,
+ Germany."
+          },
+          {
+            name ml "Alda M",
+            affil str "Department of Psychiatry, Dalhousie University,
+ Halifax, Nova Scotia, Canada."
+          },
+          {
+            name ml "Rietschel M",
+            affil str "Department of Genetic Epidemiology in Psychiatry,
+ Central Institute of Mental Health, Medical Faculty Mannheim, University of
+ Heidelberg, Mannheim, Germany."
+          },
+          {
+            name ml "McMahon FJ",
+            affil str "Intramural Research Program, National Institute of
+ Mental Health, National Institutes of Health, US Department of Health and
+ Human Services, Bethesda, Maryland."
+          },
+          {
+            name ml "Schulze TG",
+            affil str "Intramural Research Program, National Institute of
+ Mental Health, National Institutes of Health, US Department of Health and
+ Human Services, Bethesda, Maryland.; Institute of Psychiatric Phenomics and
+ Genomics, University Hospital, Ludwig-Maximilian University of Munich,
+ Munich, Germany.; Department of Psychiatry and Psychotherapy, University
+ Medical Center, Georg-August University Gottingen, Gottingen, Germany.;
+ Department of Psychiatry and Behavioral Sciences, Johns Hopkins University,
+ Baltimore, Maryland.; Department of Genetic Epidemiology in Psychiatry,
+ Central Institute of Mental Health, Medical Faculty Mannheim, University of
+ Heidelberg, Mannheim, Germany."
+          },
+          {
+            name ml "Baune BT",
+            affil str "Discipline of Psychiatry, School of Medicine,
+ University of Adelaide, Adelaide, South Australia, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "JAMA Psychiatry",
+          ml-jta "JAMA Psychiatry",
+          issn "2168-6238",
+          name "JAMA psychiatry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 1
+          },
+          volume "75",
+          issue "1",
+          pages "65-74",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29121268,
+        pii "2663274",
+        doi "10.1001/jamapsychiatry.2017.3433",
+        other {
+          db "pmc",
+          tag str "PMC5833535"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1001/jamapsychiatry.2017.3433"
+        }
+      }
+    },
+    abstract "Importance: Lithium is a first-line mood stabilizer for the
+ treatment of bipolar affective disorder (BPAD). However, the efficacy of
+ lithium varies widely, with a nonresponse rate of up to 30%. Biological
+ response markers are lacking. Genetic factors are thought to mediate
+ treatment response to lithium, and there is a previously reported genetic
+ overlap between BPAD and schizophrenia (SCZ). Objectives: To test whether a
+ polygenic score for SCZ is associated with treatment response to lithium in
+ BPAD and to explore the potential molecular underpinnings of this
+ association. Design, Setting, and Participants: A total of 2586 patients with
+ BPAD who had undergone lithium treatment were genotyped and assessed for
+ long-term response to treatment between 2008 and 2013. Weighted SCZ polygenic
+ scores were computed at different P value thresholds using summary statistics
+ from an international multicenter genome-wide association study (GWAS) of
+ 36989 individuals with SCZ and genotype data from patients with BPAD from the
+ Consortium on Lithium Genetics. For functional exploration, a cross-trait
+ meta-GWAS and pathway analysis was performed, combining GWAS summary
+ statistics on SCZ and response to treatment with lithium. Data analysis was
+ performed from September 2016 to February 2017. Main Outcomes and Measures:
+ Treatment response to lithium was defined on both the categorical and
+ continuous scales using the Retrospective Criteria of Long-Term Treatment
+ Response in Research Subjects with Bipolar Disorder score. The effect
+ measures include odds ratios and the proportion of variance explained.
+ Results: Of the 2586 patients in the study (mean [SD] age, 47.2 [13.9]
+ years), 1478 were women and 1108 were men. The polygenic score for SCZ was
+ inversely associated with lithium treatment response in the categorical
+ outcome, at a threshold P < 5 x 10-2. Patients with BPAD who had a low
+ polygenic load for SCZ responded better to lithium, with odds ratios for
+ lithium response ranging from 3.46 (95% CI, 1.42-8.41) at the first decile to
+ 2.03 (95% CI, 0.86-4.81) at the ninth decile, compared with the patients in
+ the 10th decile of SCZ risk. In the cross-trait meta-GWAS, 15 genetic loci
+ that may have overlapping effects on lithium treatment response and
+ susceptibility to SCZ were identified. Functional pathway and network
+ analysis of these loci point to the HLA antigen complex and inflammatory
+ cytokines. Conclusions and Relevance: This study provides evidence for a
+ negative association between high genetic loading for SCZ and poor response
+ to lithium in patients with BPAD. These results suggest the potential for
+ translational research aimed at personalized prescribing of lithium.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Bipolar Disorder",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Genetic Load"
+      },
+      {
+        mp TRUE,
+        term "Genome-Wide Association Study"
+      },
+      {
+        term "Genotype"
+      },
+      {
+        term "HLA Antigens",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Lithium Carbonate",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Multifactorial Inheritance",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Schizophrenia",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Schizophrenic Psychology"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "HLA Antigens"
+      },
+      {
+        type cas,
+        cit "2BMD2GNA4V",
+        name "Lithium Carbonate"
+      }
+    },
+    xref {
+    },
+    idnum {
+      "R21 AR056405/AR/NIAMS NIH HHS",
+      "K02 DA021237/DA/NIDA NIH HHS"
+    },
+    pmid 29121268,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

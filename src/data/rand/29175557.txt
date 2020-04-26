@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 29175557,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Meniscal repair: Technique."
+      },
+      authors {
+        names std {
+          {
+            name ml "Beaufils P",
+            affil str "Service d'orthopedie traumatologie, centre hospitalier
+ de Versailles, 78150 Le Chesnay, France. Electronic address:
+ pbeaufils@ch-versailles.fr."
+          },
+          {
+            name ml "Pujol N",
+            affil str "Service d'orthopedie traumatologie, centre hospitalier
+ de Versailles, 78150 Le Chesnay, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Orthop Traumatol Surg Res",
+          ml-jta "Orthop Traumatol Surg Res",
+          issn "1877-0568",
+          name "Orthopaedics & traumatology, surgery & research : OTSR"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "104",
+          issue "1S",
+          pages "S137-S145",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 2,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 4,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29175557,
+        pii "S1877-0568(17)30328-6",
+        doi "10.1016/j.otsr.2017.04.016",
+        other {
+          db "ELocationID pii",
+          tag str "S1877-0568(17)30328-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.otsr.2017.04.016"
+        }
+      }
+    },
+    abstract "Meniscal repair aims to achieve meniscal healing, avoiding the
+ adverse effects of meniscectomy. Longitudinal vertical tears in a
+ vascularized area are the reference indication. The technique generally uses
+ hybrid all-inside implants. The outside-in technique has other indications in
+ more anterior tears. Healing has been demonstrated on CT-arthrography and
+ arthroscopy. Specific techniques have been developed for other pathological
+ situations. Posterior meniscosynovial lesions in a context of chronic
+ anterior laxity are identified by exploration of the posterior compartment,
+ and fixed by all-inside hook suture. Horizontal lesions in young athletes can
+ be treated by open meniscal suture. Radial tears, when deep, can be repaired.
+ Root tears, when traumatic, can be treated by transosseous pullout
+ reinsertion.",
+    mesh {
+      {
+        term "Arthroscopy"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Knee Joint",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Menisci, Tibial",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Suture Techniques"
+      },
+      {
+        term "Tibial Meniscus Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      }
+    },
+    pmid 29175557,
+    pub-type {
+      "Journal Article",
+      "Lecture",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

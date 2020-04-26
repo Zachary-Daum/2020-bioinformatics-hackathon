@@ -1,0 +1,226 @@
+
+Pubmed-entry ::= {
+  pmid 29097296,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "2017 AHA/ACC/HRS Guideline for Management of Patients With
+ Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report
+ of the American College of Cardiology/American Heart Association Task Force
+ on Clinical Practice Guidelines and the Heart Rhythm Society."
+      },
+      authors {
+        names ml {
+          "Al-Khatib SM",
+          "Stevenson WG",
+          "Ackerman MJ",
+          "Bryant WJ",
+          "Callans DJ",
+          "Curtis AB",
+          "Deal BJ",
+          "Dickfeld T",
+          "Field ME",
+          "Fonarow GC",
+          "Gillis AM",
+          "Granger CB",
+          "Hammill SC",
+          "Hlatky MA",
+          "Joglar JA",
+          "Kay GN",
+          "Matlock DD",
+          "Myerburg RJ",
+          "Page RL"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Am. Coll. Cardiol.",
+          ml-jta "J Am Coll Cardiol",
+          issn "1558-3597",
+          name "Journal of the American College of Cardiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10,
+            day 2
+          },
+          volume "72",
+          issue "14",
+          pages "e91-e220",
+          language "eng",
+          retract {
+            type in-error,
+            exp "J Am Coll Cardiol. 2018 Oct 2;72(14):1760. PMID: 30261972"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29097296,
+        pii "S0735-1097(17)41306-4",
+        doi "10.1016/j.jacc.2017.10.054",
+        other {
+          db "ELocationID pii",
+          tag str "S0735-1097(17)41306-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jacc.2017.10.054"
+        }
+      }
+    },
+    mesh {
+      {
+        term "American Heart Association"
+      },
+      {
+        term "Anti-Arrhythmia Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Arrhythmias, Cardiac",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Athletes"
+      },
+      {
+        term "Autopsy"
+      },
+      {
+        term "Cardiovascular Diseases",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Catheter Ablation"
+      },
+      {
+        term "Comorbidity"
+      },
+      {
+        term "Death, Sudden, Cardiac",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Defibrillators"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Primary Prevention"
+      },
+      {
+        term "Quality of Life"
+      },
+      {
+        term "Renal Insufficiency, Chronic",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Secondary Prevention"
+      },
+      {
+        term "Sex Factors"
+      },
+      {
+        term "Terminal Care"
+      },
+      {
+        term "United States"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Arrhythmia Agents"
+      }
+    },
+    pmid 29097296,
+    pub-type {
+      "Journal Article",
+      "Practice Guideline",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

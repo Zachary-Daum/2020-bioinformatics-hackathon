@@ -1,0 +1,192 @@
+
+Pubmed-entry ::= {
+  pmid 28723228,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Thermal processing of live bivalve molluscs for controlling
+ viruses: On the need for a risk-based design."
+      },
+      authors {
+        names std {
+          {
+            name ml "Messens W",
+            affil str "a Unit on Biological Hazards and Contaminants
+ (BIOCONTAM) , European Food Safety Authority (EFSA) , Parma , Italy."
+          },
+          {
+            name ml "Fernandez-Escamez PS",
+            affil str "b Universidad Politecnica de Cartagena , Spain."
+          },
+          {
+            name ml "Lees D",
+            affil str "c European Community Reference Laboratory, Centre for
+ Environment , Fisheries and Aquaculture Science (CEFAS) , The Nothe, Weymouth
+ , UK."
+          },
+          {
+            name ml "Lindqvist R",
+            affil str "d Department of Risk and Benefit Assessment , Swedish
+ National Food Agency , Sweden."
+          },
+          {
+            name ml "O'Mahony M",
+            affil str "e Sea Fisheries Protection Authority , Ireland."
+          },
+          {
+            name ml "Suffredini E",
+            affil str "f Istituto Superiore di Sanita , Department of Food
+ Safety, Nutrition and Veterinary Public Health , Rome , Italy."
+          },
+          {
+            name ml "Cortinas Abrahantes J",
+            affil str "g Unit on Assessment Methodology (AMU) , European Food
+ Safety Authority (EFSA) , Parma , Italy."
+          },
+          {
+            name ml "Chantzis E",
+            affil str "a Unit on Biological Hazards and Contaminants
+ (BIOCONTAM) , European Food Safety Authority (EFSA) , Parma , Italy."
+          },
+          {
+            name ml "Koutsoumanis K",
+            affil str "h Department of Food Science and Technology, School of
+ Agriculture, Faculty of Agriculture, Forestry and Natural Environment ,
+ Aristotle University of Thessaloniki , Thessaloniki , Greece."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Crit Rev Food Sci Nutr",
+          ml-jta "Crit Rev Food Sci Nutr",
+          issn "1549-7852",
+          name "Critical reviews in food science and nutrition"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "58",
+          issue "16",
+          pages "2854-2865",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28723228,
+        doi "10.1080/10408398.2017.1338246",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/10408398.2017.1338246"
+        }
+      }
+    },
+    abstract "Norovirus (NoV) and Hepatitis A virus (HAV) are the most
+ important viral hazards associated with human illness following consumption
+ of contaminated bivalve molluscs. The effectiveness of the current EU
+ criteria for heat processing of bivalve molluscs (i.e. raising the
+ temperature of the internal mollusc flesh to at least 90 degrees C for a
+ minimum of 90 seconds) was evaluated using predictive microbiology. A HAV
+ thermal inactivation model was developed based on literature data in mollusc
+ matrices during isothermal heat treatment. Application of the developed model
+ demonstrated that the 90 degrees C-90 s requirement may lead to significantly
+ different virus inactivation depending on the commercial process design. This
+ shows the need for the establishment of a Performance Criterion for bivalve
+ molluscs heat processing which will assure a common specified level of
+ consumer protection. A risk-based approach is described that allows for an
+ effective processing design providing a more transparent and objective
+ relation between the thermal processing targets and public health. Model
+ simulations demonstrate that the F-value is a more appropriate Process
+ Criterion than a single time-temperature combination since it enables the
+ food business operators to design a process that is compliant with the safety
+ requirements while at the same time achieving a desired product quality.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Bivalvia",
+        qual {
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Food Handling",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Food Safety"
+      },
+      {
+        mp TRUE,
+        term "Hot Temperature"
+      },
+      {
+        term "Viruses",
+        qual {
+          {
+            mp TRUE,
+            subh "radiation effects"
+          }
+        }
+      }
+    },
+    pmid 28723228,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

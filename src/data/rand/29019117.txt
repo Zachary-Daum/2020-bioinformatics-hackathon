@@ -1,0 +1,278 @@
+
+Pubmed-entry ::= {
+  pmid 29019117,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Physiologically Based Pharmacokinetic Modeling of
+ Transporter-Mediated Hepatic Clearance and Liver Partitioning of OATP and OCT
+ Substrates in Cynomolgus Monkeys."
+      },
+      authors {
+        names std {
+          {
+            name ml "Morse BL",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA.; Lilly Research Laboratories, Eli Lilly and
+ Company, Indianapolis, Indiana, USA."
+          },
+          {
+            name ml "MacGuire JG",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Marino AM",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Zhao Y",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Fox M",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Shen H",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Griffith Humphreys W",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Marathe P",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA."
+          },
+          {
+            name ml "Lai Y",
+            affil str "Pharmaceutical Candidate Optimization, Bristol-Myers
+ Squibb, Princeton, NJ, USA. Yurong.lai@gilead.com.; Drug Metabolism, Gilead
+ Sciences Inc., Foster City, California, 94404, USA. Yurong.lai@gilead.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "AAPS J",
+          ml-jta "AAPS J",
+          issn "1550-7416",
+          name "The AAPS journal"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "19",
+          issue "6",
+          pages "1878-1889",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29019117,
+        doi "10.1208/s12248-017-0151-z",
+        pii "10.1208/s12248-017-0151-z",
+        other {
+          db "ELocationID doi",
+          tag str "10.1208/s12248-017-0151-z"
+        }
+      }
+    },
+    abstract "In the present investigations, we evaluate in vitro hepatocyte
+ uptake and partitioning for the prediction of in vivo clearance and liver
+ partitioning. Monkeys were intravenously co-dosed with rosuvastatin and
+ bosentan, substrates of the organic anion transporting polypeptides (OATPs),
+ and metformin, a substrate of organic cation transporter 1 (OCT1). Serial
+ plasma and liver samples were collected over time. Liver and plasma unbound
+ fraction was determined using equilibrium dialysis. In vivo unbound
+ partitioning (Kpu,u) for rosuvastatin, bosentan, and metformin, calculated
+ from total concentrations in the liver and plasma, were 243, 553, and 15,
+ respectively. A physiologically based pharmacokinetic monkey model that
+ incorporates active and passive hepatic uptake was developed to fit plasma
+ and liver concentrations. In addition, a two-compartment model was used to
+ fit in vitro hepatic uptake curves in suspended monkey hepatocyte to
+ determine active uptake, passive diffusion, and intracellular unbound
+ fraction parameters. At steady-state in the model, in vitro Kpu,u was
+ determined. The results demonstrated that in vitro values under-predicted in
+ vivo active uptake for rosuvastatin, bosentan, and metformin by 6.7-, 28-,
+ and 1.5-fold, respectively, while passive diffusion was over-predicted. In
+ vivo Kpu,u values were under-predicted from in vitro data by 30-, 79-, and
+ 3-fold. In conclusion, active uptake and liver partitioning in monkeys for
+ OATP substrates were greatly under-predicted from in vitro hepatocyte uptake,
+ while OCT-mediated uptake and partitioning scaled reasonably well from in
+ vitro, demonstrating substrate- and transporter-dependent scaling factors.
+ The combination of in vitro experimental and modeling approaches proved
+ useful for assessing prediction of in vivo intracellular partitioning.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Bosentan"
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Macaca fascicularis"
+      },
+      {
+        term "Metformin",
+        qual {
+          {
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        term "Models, Biological"
+      },
+      {
+        term "Organic Anion Transporters",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Organic Cation Transporter 1",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Rosuvastatin Calcium",
+        qual {
+          {
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        term "Sulfonamides",
+        qual {
+          {
+            subh "pharmacokinetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Organic Anion Transporters"
+      },
+      {
+        type nameonly,
+        name "Organic Cation Transporter 1"
+      },
+      {
+        type nameonly,
+        name "Sulfonamides"
+      },
+      {
+        type cas,
+        cit "83MVU38M7Q",
+        name "Rosuvastatin Calcium"
+      },
+      {
+        type cas,
+        cit "9100L32L2N",
+        name "Metformin"
+      },
+      {
+        type cas,
+        cit "Q326023R30",
+        name "Bosentan"
+      }
+    },
+    pmid 29019117,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

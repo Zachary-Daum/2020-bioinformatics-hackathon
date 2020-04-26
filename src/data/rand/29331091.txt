@@ -1,0 +1,296 @@
+
+Pubmed-entry ::= {
+  pmid 29331091,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Terminal spreading depolarization and electrical silence in
+ death of human cerebral cortex."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dreier JP",
+            affil str "Center for Stroke Research Berlin,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany.; Departments of
+ Neurology, Charite-Universitatsmedizin Berlin, Berlin, Germany.; Experimental
+ Neurology, Charite-Universitatsmedizin Berlin, Berlin, Germany.; Bernstein
+ Center for Computational Neuroscience Berlin, Berlin, Germany.; Einstein
+ Center for Neurosciences Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Major S",
+            affil str "Center for Stroke Research Berlin,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany.; Departments of
+ Neurology, Charite-Universitatsmedizin Berlin, Berlin, Germany.; Experimental
+ Neurology, Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Foreman B",
+            affil str "UC Gardner Neuroscience Institute.; Department of
+ Neurology and Rehabilitation Medicine, University of Cincinnati College of
+ Medicine, Cincinnati, OH."
+          },
+          {
+            name ml "Winkler MKL",
+            affil str "Center for Stroke Research Berlin,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Kang EJ",
+            affil str "Center for Stroke Research Berlin,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany.; Experimental Neurology,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Milakara D",
+            affil str "Center for Stroke Research Berlin,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Lemale CL",
+            affil str "Center for Stroke Research Berlin,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany.; Experimental Neurology,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany.; Department of
+ Neurosurgery, Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "DiNapoli V",
+            affil str "Department of Neurosurgery, University of Cincinnati
+ College of Medicine, Cincinnati, OH.; Mayfield Clinic, Cincinnati, OH."
+          },
+          {
+            name ml "Hinzman JM",
+            affil str "Department of Neurosurgery, University of Cincinnati
+ College of Medicine, Cincinnati, OH."
+          },
+          {
+            name ml "Woitzik J",
+            affil str "Center for Stroke Research Berlin,
+ Charite-Universitatsmedizin Berlin, Berlin, Germany.; Department of
+ Neurosurgery, Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Andaluz N",
+            affil str "UC Gardner Neuroscience Institute.; Department of
+ Neurosurgery, University of Cincinnati College of Medicine, Cincinnati, OH.;
+ Mayfield Clinic, Cincinnati, OH."
+          },
+          {
+            name ml "Carlson A",
+            affil str "Department of Neurosurgery, University of New Mexico,
+ Albuquerque, NM."
+          },
+          {
+            name ml "Hartings JA",
+            affil str "UC Gardner Neuroscience Institute.; Department of
+ Neurosurgery, University of Cincinnati College of Medicine, Cincinnati, OH."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ann. Neurol.",
+          ml-jta "Ann Neurol",
+          issn "1531-8249",
+          name "Annals of neurology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "83",
+          issue "2",
+          pages "295-310",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29331091,
+        doi "10.1002/ana.25147",
+        other {
+          db "pmc",
+          tag str "PMC5901399"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ana.25147"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Restoring the circulation is the primary goal in
+ emergency treatment of cerebral ischemia. However, better understanding of
+ how the brain responds to energy depletion could help predict the time
+ available for resuscitation until irreversible damage and advance development
+ of interventions that prolong this span. Experimentally, injury to central
+ neurons begins only with anoxic depolarization. This potentially reversible,
+ spreading wave typically starts 2 to 5 minutes after the onset of severe
+ ischemia, marking the onset of a toxic intraneuronal change that eventually
+ results in irreversible injury. METHODS: To investigate this in the human
+ brain, we performed recordings with either subdural electrode strips (n = 4)
+ or intraparenchymal electrode arrays (n = 5) in patients with devastating
+ brain injury that resulted in activation of a Do Not Resuscitate-Comfort Care
+ order followed by terminal extubation. RESULTS: Withdrawal of life-sustaining
+ therapies produced a decline in brain tissue partial pressure of oxygen (pti
+ O2 ) and circulatory arrest. Silencing of spontaneous electrical activity
+ developed simultaneously across regional electrode arrays in 8 patients. This
+ silencing, termed ""nonspreading depression,"" developed during the steep
+ falling phase of pti O2 (intraparenchymal sensor, n = 6) at 11 (interquartile
+ range [IQR] = 7-14) mmHg. Terminal spreading depolarizations started to
+ propagate between electrodes 3.9 (IQR = 2.6-6.3) minutes after onset of the
+ final drop in perfusion and 13 to 266 seconds after nonspreading depression.
+ In 1 patient, terminal spreading depolarization induced the initial
+ electrocerebral silence in a spreading depression pattern; circulatory arrest
+ developed thereafter. INTERPRETATION: These results provide fundamental
+ insight into the neurobiology of dying and have important implications for
+ survivable cerebral ischemic insults. Ann Neurol 2018;83:295-310.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Brain Death",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Brain Ischemia",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Cerebral Cortex",
+        qual {
+          {
+            subh "blood supply"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Cerebrovascular Circulation",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cortical Spreading Depression",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Electrocorticography"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      }
+    },
+    idnum {
+      "P20 GM109089/GM/NIGMS NIH HHS"
+    },
+    pmid 29331091,
+    pub-type {
+      "Case Reports",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

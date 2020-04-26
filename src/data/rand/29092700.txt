@@ -1,0 +1,199 @@
+
+Pubmed-entry ::= {
+  pmid 29092700,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sinusitis complicated by frontal bone osteomyelitis in a young
+ patient."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nastovska R",
+            affil str "Eastern Health, Melbourne, VIC roza.nastovska@gmail.com."
+          },
+          {
+            name ml "Lim LL",
+            affil str "Eastern Health, Melbourne, VIC."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Med. J. Aust.",
+          ml-jta "Med J Aust",
+          issn "1326-5377",
+          name "The Medical journal of Australia"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11,
+            day 6
+          },
+          volume "207",
+          issue "9",
+          pages "376",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29092700,
+        pii "10.5694/mja16.01434",
+        doi "10.5694/mja16.01434"
+      }
+    },
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Frontal Bone",
+        qual {
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Frontal Sinusitis",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Penicillin G",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Pott Puffy Tumor",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Streptococcal Infections",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Streptococcus anginosus"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type cas,
+        cit "Q42T66VG0C",
+        name "Penicillin G"
+      }
+    },
+    pmid 29092700,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

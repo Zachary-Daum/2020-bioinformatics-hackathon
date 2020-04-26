@@ -1,0 +1,157 @@
+
+Pubmed-entry ::= {
+  pmid 29350653,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The law on artificial insemination: an italian anomaly."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cecchi R",
+            affil str "Legal Medicine, Faculty of Medicine, University of
+ Parma, Italy. rossana.cecchi@unipr.it."
+          },
+          {
+            name ml "Masotti V"
+          },
+          {
+            name ml "Meo AU"
+          },
+          {
+            name ml "Rinaldi R"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acta Biomed",
+          ml-jta "Acta Biomed",
+          issn "2531-6745",
+          name "Acta bio-medica : Atenei Parmensis"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 16
+          },
+          volume "88",
+          issue "4",
+          pages "403-408",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 11
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29350653,
+        doi "10.23750/abm.v88i4.6066",
+        other {
+          db "pmc",
+          tag str "PMC6166171"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.23750/abm.v88i4.6066"
+        }
+      }
+    },
+    abstract "The law on medically assisted procreation in Italy, from its
+ entering into force, has undergone numerous amendments. This has been due to
+ the fact that those citizens, directly affected by its imposed prohibitions,
+ have not given in, bringing their requests before the courts, both nationally
+ and internationally. Over the years, the courts through numerous rulings have
+ significantly changed a law clearly incapable of protecting the rights of
+ those involved. Currently Italy has an acceptable law on M.A.P. which is the
+ result of the strong willing of citizens affected by problems of sterility or
+ infertility. The aim of this paper is to present an historical summary of the
+ troubled path which the issue, from every perspective, has faced and is still
+ facing today. As well, it will document how, in Italy, the case-law and,
+ therefore, the law's interpretation and application by the judges have
+ contributed, in the end, to shaping a positive legislation.",
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        term "Insemination, Artificial",
+        qual {
+          {
+            mp TRUE,
+            subh "legislation & jurisprudence"
+          }
+        }
+      },
+      {
+        term "Italy"
+      },
+      {
+        mp TRUE,
+        term "Legislation, Medical"
+      }
+    },
+    pmid 29350653,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,208 @@
+
+Pubmed-entry ::= {
+  pmid 28984589,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Dementia Prevalence in a Rural Region of South Africa: A
+ Cross-Sectional Community Study."
+      },
+      authors {
+        names std {
+          {
+            name ml "de Jager CA",
+            affil str "Department of Medicine, Division of Geriatric Medicine,
+ University of Cape Town, South Africa."
+          },
+          {
+            name ml "Msemburi W",
+            affil str "Department of Medicine, Clinical Research Centre,
+ University of Cape Town, South Africa."
+          },
+          {
+            name ml "Pepper K",
+            affil str "Donald Woods Foundation, Hobeni, Eastern Cape, South
+ Africa."
+          },
+          {
+            name ml "Combrinck MI",
+            affil str "Department of Medicine, Division of Geriatric Medicine,
+ University of Cape Town, South Africa."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Alzheimers Dis.",
+          ml-jta "J Alzheimers Dis",
+          issn "1875-8908",
+          name "Journal of Alzheimer's disease : JAD"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "60",
+          issue "3",
+          pages "1087-1096",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28984589,
+        pii "JAD170325",
+        doi "10.3233/JAD-170325",
+        other {
+          db "pmc",
+          tag str "PMC5676974"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3233/JAD-170325"
+        }
+      }
+    },
+    abstract "BACKGROUND: Dementia is a growing concern for low- and
+ middle-income countries where longevity is increasing and service provision
+ is poor. Global prevalence estimates vary from 2% to 8.5% for those aged 60
+ years and older. There have been few dementia studies in sub-Saharan Africa,
+ and prevalence data are lacking for South Africa. OBJECTIVE: To conduct a
+ large dementia prevalence study in a low income rural population in South
+ Africa. METHODS: 1,394 Xhosa-speaking community dwellers, aged >/=60 y (mean
+ age+/-sd 71.3+/-8.3 y), in three clinic catchment areas, were screened at
+ home. Trained community health workers administered the brief Community
+ Screening Instrument for Dementia (CSID) to participants and informants to
+ assess cognitive and functional capacity. Depressive symptoms were assessed
+ with three questions from the EURO-D. RESULTS: The prevalence estimate using
+ published CSID sensitivity/specificity values was 0.8 (95% CI: 0.06-0.09).
+ Using CSID cut-off scores the estimated prevalence was 0.12 (95% CI:
+ 0.10-0.13), with 161 screen-positives. Both methods gave a rate of 0.11 (95%
+ CI: 0.09-0.13) for those over 65 years (n = 1051). 68.6% of participants were
+ female and 69.8% had less than 7 years of education. Dementia risk was
+ associated with older age and symptoms of depression, but not with sex. The
+ association with education was not significant when controlled for by age.
+ CONCLUSIONS: Dementia prevalence estimates were higher than expected for this
+ low-income rural community. There is a need for increased dementia awareness
+ and feasible support interventions. We also need further studies of regional
+ prevalences, dementia subtypes, and modifiable risk factors in South Africa.",
+    mesh {
+      {
+        term "Age Factors"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Dementia",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Depression",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Educational Status"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Likelihood Functions"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Poverty"
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Rural Population"
+      },
+      {
+        term "Sex Factors"
+      },
+      {
+        term "South Africa",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      }
+    },
+    pmid 28984589,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

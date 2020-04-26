@@ -1,0 +1,251 @@
+
+Pubmed-entry ::= {
+  pmid 28641354,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Acute Liver Failure, Acute-On-Chronic Liver Failure,
+ Hepatorenal Syndrome, Hepatopulmonary Syndrome and Portopulmonary
+ Hypertension, Artificial Liver Support on the ICU].",
+        trans "Akutes Leberversagen, akut-auf-chronisches Leberversagen,
+ hepatorenales Syndrom, hepatopulmonales Syndrom und portopulmonale
+ Hypertonie, Leberunterstutzungsverfahren auf der Intensivstation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lodes U",
+            affil str "Klinik fur Allgemein-, Viszeral- und Gefasschirurgie,
+ Universitatsklinikum Magdeburg A. o. R., Deutschland."
+          },
+          {
+            name ml "Jacob D",
+            affil str "Klinik fur Allgemein-, Viszeral- und Gefasschirurgie,
+ Universitatsklinikum Magdeburg A. o. R., Deutschland."
+          },
+          {
+            name ml "Meyer F",
+            affil str "Klinik fur Allgemein-, Viszeral- und Gefasschirurgie,
+ Universitatsklinikum Magdeburg A. o. R., Deutschland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Zentralbl Chir",
+          ml-jta "Zentralbl Chir",
+          issn "1438-9592",
+          name "Zentralblatt fur Chirurgie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "142",
+          issue "3",
+          pages "275-286",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28641354,
+        doi "10.1055/s-0043-106198",
+        other {
+          db "ELocationID doi",
+          tag str "10.1055/s-0043-106198"
+        }
+      }
+    },
+    abstract "Background Acute hepatic dysfunction in the form of acute liver
+ failure (ALF) or acute-on-chronic liver failure (ACLF) is a disease with a
+ high risk of mortality and requires interdisciplinary intensive care. Aim
+ This article explains the nomenclature, pathophysiology, prognosis and
+ possible treatment options of ALF and ACLF, including the possibilities of
+ extracorporeal liver support therapy at the point of liver transplantation
+ (LTx). Method Narrative review with a selective literature review and
+ representative case studies. Results/Corner Points ALF and ACLF may have
+ several causes and are associated with high mortality. The causes of ALF must
+ be accurately diagnosed because targeted treatment options are available.
+ Both ALF and ACLF may require a liver transplantation for the patient's
+ survival. For ALF and ACLF there are different criteria for decision-making
+ on liver transplantation and graft allocation. For extracorporeal liver
+ support therapy, two methods have been established (MARS [molecuar adsorbent
+ recirculating system] and FPSA [fractionated plasma separation and
+ adsorption] Prometheus((R))). Both approaches may have the potential to
+ increase the probability of survival of patients with ALF or ACLF. In some
+ cases they can be used for bridging to liver transplantation, in individual
+ cases also for primary poison elimination, e.g. after Amatoxin ingestion.
+ Both methods are not suitable for long-term therapy. Conclusion Acute liver
+ failure (ALF) and acute on chronic liver failure (ACLF) are serious diseases
+ with a high risk of mortality. Affected patients should receive immediate
+ interdisciplinary intensive care in a (tertiary) centre with the aim to
+ clarify the cause of the disease as well as possible treatment options with
+ respect to available extracorporeal liver support therapy and liver
+ transplantation.",
+    mesh {
+      {
+        term "Acute-On-Chronic Liver Failure",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Hepatopulmonary Syndrome",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Hepatorenal Syndrome",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypertension, Portal",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Hypertension, Pulmonary",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Intensive Care Units",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Interdisciplinary Communication"
+      },
+      {
+        term "Liver Failure, Acute",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Liver Transplantation"
+      },
+      {
+        mp TRUE,
+        term "Liver, Artificial"
+      },
+      {
+        term "Survival Rate"
+      }
+    },
+    pmid 28641354,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

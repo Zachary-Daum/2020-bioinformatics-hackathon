@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 28716164,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Collagen matrix as an inlay in endoscopic skull base
+ reconstruction."
+      },
+      authors {
+        names std {
+          {
+            name ml "Oakley GM",
+            affil str "Department of Otolaryngology Head and Neck
+ Surgery,University of California,San Francisco,USA."
+          },
+          {
+            name ml "Christensen JM",
+            affil str "Rhinology and Skull Base Research Group,St Vincent's
+ Centre for Applied Medical Research,University of New South
+ Wales,Sydney,Australia."
+          },
+          {
+            name ml "Winder M",
+            affil str "Rhinology and Skull Base Research Group,St Vincent's
+ Centre for Applied Medical Research,University of New South
+ Wales,Sydney,Australia."
+          },
+          {
+            name ml "Jonker BP",
+            affil str "Rhinology and Skull Base Research Group,St Vincent's
+ Centre for Applied Medical Research,University of New South
+ Wales,Sydney,Australia."
+          },
+          {
+            name ml "Davidson A",
+            affil str "Faculty of Medicine and Health Sciences,Macquarie
+ University,Sydney,Australia."
+          },
+          {
+            name ml "Steel T",
+            affil str "Department of Neurosurgery,St Vincent's
+ Hospital,Sydney,Australia."
+          },
+          {
+            name ml "Teo C",
+            affil str "Centre for Minimally Invasive Neurosurgery, Prince of
+ Wales Hospital,Sydney,Australia."
+          },
+          {
+            name ml "Harvey RJ",
+            affil str "Rhinology and Skull Base Research Group,St Vincent's
+ Centre for Applied Medical Research,University of New South
+ Wales,Sydney,Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Laryngol Otol",
+          ml-jta "J Laryngol Otol",
+          issn "1748-5460",
+          name "The Journal of laryngology and otology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "132",
+          issue "3",
+          pages "214-223",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28716164,
+        pii "S0022215117001499",
+        doi "10.1017/S0022215117001499",
+        other {
+          db "ELocationID doi",
+          tag str "10.1017/S0022215117001499"
+        }
+      }
+    },
+    abstract "BACKGROUND: Multi-layer reconstruction has become standard in
+ endoscopic skull base surgery. The inlay component used can vary among
+ autografts, allografts, xenografts and synthetics, primarily based on surgeon
+ preference. The short- and long-term outcomes of collagen matrix in skull
+ base reconstruction are described. METHODS: A case series of patients who
+ underwent endoscopic skull base reconstruction with collagen matrix inlay
+ were assessed. Immediate peri-operative outcomes (cerebrospinal fluid leak,
+ meningitis, ventriculitis, intracranial bleeding, epistaxis, seizures) and
+ delayed complications (delayed healing, meningoencephalocele, prolapse of
+ reconstruction, delayed cerebrospinal fluid leak, ascending meningitis) were
+ examined. RESULTS: Of 120 patients (51.0 +/- 17.5 years, 41.7 per cent
+ female), peri-operative complications totalled 12.7 per cent (cerebrospinal
+ fluid leak, 3.3 per cent; meningitis, 3.3 per cent; other intracranial
+ infections, 2.5 per cent; intracranial bleeding, 1.7 per cent; epistaxis, 1.7
+ per cent; and seizures, 0 per cent). Delayed complications did not occur in
+ any patients. CONCLUSION: Collagen matrix is an effective inlay material. It
+ provides robust long-term separation between sinus and cranial cavities, and
+ avoids donor site morbidity, but carries additional cost.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cerebral Ventriculitis",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Cerebrospinal Fluid Leak",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Collagen"
+      },
+      {
+        term "Encephalocele",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Endoscopy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Epistaxis",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intracranial Hemorrhages",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Meningitis",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Postoperative Complications",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Postoperative Hemorrhage",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Reconstructive Surgical Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Seizures",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Skull Base",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Surgical Flaps"
+      },
+      {
+        term "Surgical Wound Infection",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "9007-34-5",
+        name "Collagen"
+      }
+    },
+    pmid 28716164,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

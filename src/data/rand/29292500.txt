@@ -1,0 +1,122 @@
+
+Pubmed-entry ::= {
+  pmid 29292500,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prospective clinical trial registration: not sufficient, but
+ always necessary."
+      },
+      authors {
+        names std {
+          {
+            name ml "Smith SM",
+            affil str "Departments of Anesthesiology and Peri-operative
+ Medicine, Obstetrics and Gynecology, and Psychiatry, University of Rochester
+ School of Medicine and Dentistry, Rochester, NY, USA."
+          },
+          {
+            name ml "Dworkin RH",
+            affil str "Departments of Anesthesiology and Peri-operative
+ Medicine, Neurology, Psychiatry and, Center for Human Experimental
+ Therapeutics, University of Rochester School of Medicine and Dentistry,
+ Rochester, NY, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Anaesthesia",
+          ml-jta "Anaesthesia",
+          issn "1365-2044",
+          name "Anaesthesia"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "73",
+          issue "5",
+          pages "538-541",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29292500,
+        doi "10.1111/anae.14189",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/anae.14189"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Anesthesia"
+      },
+      {
+        mp TRUE,
+        term "Anesthesiology"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        mp TRUE,
+        term "Publication Bias"
+      }
+    },
+    idnum {
+      "U01 FD004187/FD/FDA HHS"
+    },
+    pmid 29292500,
+    pub-type {
+      "Editorial",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,153 @@
+
+Pubmed-entry ::= {
+  pmid 28135858,
+  medent {
+    em std {
+      year 2017,
+      month 2,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Perception, Interpretation, and Impact of Health Risk Appraisal
+ Feedback: Pilot Studies of an Assessment Tool."
+      },
+      authors {
+        names std {
+          {
+            name ml "Berlin K",
+            affil str "1 Indiana State University, Terre Haute, IN, USA."
+          },
+          {
+            name ml "Simpson V",
+            affil str "2 Purdue University, West Lafayette, IN, USA."
+          },
+          {
+            name ml "Hyner G",
+            affil str "2 Purdue University, West Lafayette, IN, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Health Promot Pract",
+          ml-jta "Health Promot Pract",
+          issn "1524-8399",
+          name "Health promotion practice"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "19",
+          issue "1",
+          pages "94-102",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28135858,
+        doi "10.1177/1524839916689551",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1524839916689551"
+        }
+      }
+    },
+    abstract "One mandate of the Affordable Care Act is continued support of
+ workplace wellness programs. A tool used to encourage behavior change is a
+ health risk appraisal (HRA). However, research indicates there is limited
+ benefit to HRAs unless supported by additional health interventions. The
+ purpose of these two pilot studies was to examine effects of the individual
+ HRA personalized feedback, including the perceived value of the feedback and
+ its influence on behavior change. Six months after completing and receiving
+ HRA personalized feedback, participants in two separate Indiana organizations
+ answered survey questions about the HRA value, motivational influence, and
+ ability to prompt behavior change. Descriptive statistics, chi-square tests,
+ analyses of variance, and factor analysis were used to analyze the influence
+ of various factors and test the relationship between HRA generated feedback
+ and these characteristics. The majority of respondents indicated the HRA was
+ helpful with 69% (Study 1, n = 51) and 63% (Study 2, n = 116) of the
+ respondents reporting an attempted behavior change. Preliminary results
+ indicate that completion of an HRA with feedback alone may be beneficial in
+ prompting behavior change.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Demography"
+      },
+      {
+        mp TRUE,
+        term "Feedback"
+      },
+      {
+        mp TRUE,
+        term "Health Knowledge, Attitudes, Practice"
+      },
+      {
+        mp TRUE,
+        term "Health Status Indicators"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Occupational Health"
+      },
+      {
+        term "Pilot Projects"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 28135858,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

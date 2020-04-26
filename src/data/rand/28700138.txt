@@ -1,0 +1,142 @@
+
+Pubmed-entry ::= {
+  pmid 28700138,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Detection of protein interactions by Subcellular Localization
+ Assay."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mocanu MM",
+            affil str "Department of Biophysics, ""Carol Davila"" University
+ of Medicine and Pharmacy, Bucharest, 050474, Romania."
+          },
+          {
+            name ml "Nagy P",
+            affil str "Department of Biophysics and Cell Biology, Faculty of
+ Medicine, University of Debrecen, Debrecen, 4032, Hungary."
+          },
+          {
+            name ml "Szollosi J",
+            affil str "Department of Biophysics and Cell Biology, Faculty of
+ Medicine, University of Debrecen, Debrecen, 4032, Hungary.; MTA-DE Cell
+ Biology and Signaling Research Group, Faculty of Medicine, University of
+ Debrecen, Debrecen, 4032, Hungary."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cytometry A",
+          ml-jta "Cytometry A",
+          issn "1552-4930",
+          name "Cytometry. Part A : the journal of the International Society
+ for Analytical Cytology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7
+          },
+          volume "91",
+          issue "7",
+          pages "657-658",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28700138,
+        doi "10.1002/cyto.a.23153",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/cyto.a.23153"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Flow Cytometry"
+      },
+      {
+        mp TRUE,
+        term "Protein Interaction Mapping"
+      }
+    },
+    pmid 28700138,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

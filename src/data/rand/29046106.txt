@@ -1,0 +1,213 @@
+
+Pubmed-entry ::= {
+  pmid 29046106,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Expression of von Willebrand factor and caldesmon in the
+ placental tissues of pregnancies complicated with intrauterine growth
+ restriction."
+      },
+      authors {
+        names std {
+          {
+            name ml "Goksever Celik H",
+            affil str "a Department of Obstetrics and Gynecology , Istanbul
+ Saglik Bilimleri University Kanuni Sultan Suleyman Training and Research
+ Hospital , Istanbul , Turkey."
+          },
+          {
+            name ml "Uhri M",
+            affil str "b Department of Pathology , Istanbul Saglik Bilimleri
+ University Kanuni Sultan Suleyman Training and Research Hospital , Istanbul ,
+ Turkey."
+          },
+          {
+            name ml "Yildirim G",
+            affil str "a Department of Obstetrics and Gynecology , Istanbul
+ Saglik Bilimleri University Kanuni Sultan Suleyman Training and Research
+ Hospital , Istanbul , Turkey."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Matern. Fetal. Neonatal. Med.",
+          ml-jta "J Matern Fetal Neonatal Med",
+          issn "1476-4954",
+          name "The journal of maternal-fetal & neonatal medicine : the
+ official journal of the European Association of Perinatal Medicine, the
+ Federation of Asia and Oceania Perinatal Societies, the International Society
+ of Perinatal Obstetricians"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3
+          },
+          volume "32",
+          issue "6",
+          pages "916-921",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29046106,
+        doi "10.1080/14767058.2017.1395017",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/14767058.2017.1395017"
+        }
+      }
+    },
+    abstract "PURPOSE: The decreased placental perfusion is the underlying
+ reason for intrauterine growth restriction that in turn leads to reduced
+ placental perfusion and ischemia. However, there are several issues to be
+ understood in the pathophysiology of intrauterine growth restriction. We
+ aimed to study whether any compensatory response in placental vascular bed
+ occur in pregnancies complicated with intrauterine growth restriction by the
+ immunohistochemical staining of von Willebrand factor and caldesmon in
+ placental tissues. MATERIALS AND METHODS: A total of 103 pregnant women was
+ enrolled in the study including 50 patients who were complicated with IUGR
+ and 50 uncomplicated control patients. The study was designed in a
+ prospective manner. All placentas were also stained with von Willebrand
+ factor and caldesmon monoclonal kits. RESULTS: The immunohistochemical
+ staining of von Willebrand factor and caldesmon expressions in placental
+ tissues were different between normal and intrauterine growth restriction
+ group. The percentages of 2+ and 3+ von Willebrand factor expression were
+ higher in the intrauterine growth restriction group comparing with the normal
+ group, although the difference was not statistically significant. The
+ intensity of caldesmon expression was significantly lower in the intrauterine
+ growth restriction group in comparison with the normal group (p < .001).
+ CONCLUSION: Angiogenesis occurs as a placental response to intrauterine
+ growth restriction which is a hypoxic condition. But newly formed vessels are
+ immature and not strong enough. Our study is important to clarify the
+ pathophysiology and placental compensatory responses in intrauterine growth
+ restriction.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Calmodulin-Binding Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Fetal Growth Retardation",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gestational Age"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Placenta",
+        qual {
+          {
+            mp TRUE,
+            subh "blood supply"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Young Adult"
+      },
+      {
+        term "von Willebrand Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Calmodulin-Binding Proteins"
+      },
+      {
+        type nameonly,
+        name "von Willebrand Factor"
+      }
+    },
+    pmid 29046106,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

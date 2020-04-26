@@ -1,0 +1,294 @@
+
+Pubmed-entry ::= {
+  pmid 29159556,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effects of Arsenic Trioxide on INF-gamma Gene Expression in
+ MRL/lpr Mice and Human Lupus."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hu H",
+            affil str "Department of Surgical Oncology, The First Affiliated
+ Hospital of Wenzhou Medical University, Wenzhou, Zhejiang Province, China."
+          },
+          {
+            name ml "Chen E",
+            affil str "Department of Pneumology, The People Hospital of
+ Pingyang, Wenzhou, Zhejiang Province, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Rheumatology, The First Affiliated
+ Hospital of Wenzhou Medical University, Nan Bai Xiang Street, Ouhai District,
+ Wenzhou, Zhejiang Province, 325000, China."
+          },
+          {
+            name ml "Zhu X",
+            affil str "Department of Rheumatology, The First Affiliated
+ Hospital of Wenzhou Medical University, Nan Bai Xiang Street, Ouhai District,
+ Wenzhou, Zhejiang Province, 325000, China."
+          },
+          {
+            name ml "Zhang T",
+            affil str "Department of Rheumatology, The First Affiliated
+ Hospital of Wenzhou Medical University, Nan Bai Xiang Street, Ouhai District,
+ Wenzhou, Zhejiang Province, 325000, China."
+          },
+          {
+            name ml "Zhu X",
+            affil str "Department of Rheumatology, The First Affiliated
+ Hospital of Wenzhou Medical University, Nan Bai Xiang Street, Ouhai District,
+ Wenzhou, Zhejiang Province, 325000, China. june8587@outlook.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biol Trace Elem Res",
+          ml-jta "Biol Trace Elem Res",
+          issn "1559-0720",
+          name "Biological trace element research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "184",
+          issue "2",
+          pages "391-397",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29159556,
+        doi "10.1007/s12011-017-1206-9",
+        pii "10.1007/s12011-017-1206-9",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s12011-017-1206-9"
+        }
+      }
+    },
+    abstract "Arsenic trioxide (As2O3; ATO), a traditional Chinese medicine,
+ is used to treat patients with acute promye-locytic leukemia, while its
+ application for treatment of systemic lupus erythematosus (SLE) is still
+ under evaluation. The high expression of INF-gamma (INF-gamma) is a primary
+ pathogenic factor in SLE. It is found that ATO can reduce INF-gamma
+ expression levels in lupus-prone mice, whereas it is not clear whether ATO
+ has the same effect on SLE patients. Therefore, this study was to investigate
+ the underlying mechanism of the effects of ATO on the expression of INF-gamma
+ in splenocytes of MRL/lpr mice and PBMCs of human lupus. The mRNA and protein
+ expression levels of INF-gamma were assessed by real-time RT-PCR and ELISA,
+ respectively. The histone acetylation status of the INF-gamma promoter and
+ the binding of RNA polymerase II (RNA Pol II) to the INF-gamma promoter were
+ detected using a chromatin immunoprecipitation (ChIP) technique. The mRNA and
+ protein expression levels of INF-gamma decreased in both splenocytes of
+ MRL/lpr mice and PBMCs of SLE patients with ATO treatment, which were
+ accompanied by reduced histone H4 and H3 acetylation in INF-gamma promoter
+ and decreased combination of RNA Pol II to the INF-gamma promoter. Therefore,
+ ATO may reduce the expression level of the INF-gamma by altering the levels
+ of INF-gamma promoter acetylation and the combination of RNA Pol II to the
+ INF-gamma promoter in splenocytes of MRL/lpr mice and PBMCs of SLE patients.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Arsenic Trioxide"
+      },
+      {
+        term "Arsenicals",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interferon-gamma",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Leukocytes, Mononuclear",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lupus Erythematosus, Systemic",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Mice, Inbred MRL lpr"
+      },
+      {
+        term "Oxides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Spleen",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Arsenicals"
+      },
+      {
+        type nameonly,
+        name "Oxides"
+      },
+      {
+        type cas,
+        cit "82115-62-6",
+        name "Interferon-gamma"
+      },
+      {
+        type cas,
+        cit "S7V92P67HO",
+        name "Arsenic Trioxide"
+      }
+    },
+    idnum {
+      "Y20090240/Major projects of Wenzhou science and technology project"
+    },
+    pmid 29159556,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

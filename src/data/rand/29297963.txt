@@ -1,0 +1,267 @@
+
+Pubmed-entry ::= {
+  pmid 29297963,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Matrix approach to the simultaneous detection of multiple potato
+ pathogens by real-time PCR."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nikitin MM",
+            affil str "GenBit LLC, Moscow, Russia."
+          },
+          {
+            name ml "Statsyuk NV",
+            affil str "All-Russian Research Institute of Phytopathology,
+ Bolshie Vyazemy, Russia."
+          },
+          {
+            name ml "Frantsuzov PA",
+            affil str "GenBit LLC, Moscow, Russia."
+          },
+          {
+            name ml "Dzhavakhiya VG",
+            affil str "All-Russian Research Institute of Phytopathology,
+ Bolshie Vyazemy, Russia."
+          },
+          {
+            name ml "Golikov AG",
+            affil str "GenBit LLC, Moscow, Russia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Appl. Microbiol.",
+          ml-jta "J Appl Microbiol",
+          issn "1365-2672",
+          name "Journal of applied microbiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "124",
+          issue "3",
+          pages "797-809",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29297963,
+        doi "10.1111/jam.13686",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jam.13686"
+        }
+      }
+    },
+    abstract "AIM: Create a method for highly sensitive, selective, rapid and
+ easy-to-use detection and identification of economically significant potato
+ pathogens, including viruses, bacteria and oomycetes, be it single pathogen,
+ or a range of various pathogens occurring simultaneously. METHODS AND
+ RESULTS: Test-systems for real-time PCR, operating in the unified
+ amplification regime, have been developed for Phytophthora infestans,
+ Pectobacterium atrosepticum, Dickeya dianthicola, Dickeya solani, Ralstonia
+ solanacearum, Pectobacterium carotovorum, Clavibacter michiganensis subsp.
+ sepedonicus, potato viruses Y (ordinary and necrotic forms as well as
+ indiscriminative test system, detecting all forms), A, X, S, M, potato leaf
+ roll virus, potato mop top virus and potato spindle tuber viroid. The
+ test-systems (including polymerase and revertase) were immobilized and
+ lyophilized in miniature microreactors (1.2 mul) on silicon DNA/RNA
+ microarrays (micromatrices) to be used with a mobile AriaDNA((R)) amplifier.
+ CONCLUSIONS: Preloaded 30-reaction micromatrices having shelf life of 3 and 6
+ months (for RNA- and DNA-based pathogens, respectively) at room temperature
+ with no special conditions were successfully tested on both reference and
+ field samples in comparison with traditional ELISA and microbiological
+ methods, showing perfect performance and sensitivity (1 pg). SIGNIFICANCE AND
+ IMPACT OF THE STUDY: The accurate, rapid and user-friendly diagnostic system
+ in a micromatrix format may significantly contribute to pathogen screening
+ and phytopathological studies.",
+    mesh {
+      {
+        term "DNA Primers",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Pectobacterium carotovorum",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Phytophthora infestans",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Plant Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "microbiology"
+          },
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Ralstonia solanacearum",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Solanum tuberosum",
+        qual {
+          {
+            subh "microbiology"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Viruses",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "DNA Primers"
+      }
+    },
+    pmid 29297963,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

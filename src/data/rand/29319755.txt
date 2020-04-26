@@ -1,0 +1,157 @@
+
+Pubmed-entry ::= {
+  pmid 29319755,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "First record of galls in the tree fern Cyathea phalerata
+ (Cyatheaceae) from a Tropical Rainforest in Brazil."
+      },
+      authors {
+        names std {
+          {
+            name ml "Farias RP",
+            affil str "Programa de Pos-graduacao em Biologia Vegetal,
+ Universidade Federal de Pernambuco -UFPE, Rua Prof. Nelson Chaves, s/n,
+ Cidade Universitaria, CEP 50670-420, Recife, PE, Brazil."
+          },
+          {
+            name ml "Arruda ECP",
+            affil str "Programa de Pos-graduacao em Biologia Vegetal,
+ Universidade Federal de Pernambuco -UFPE, Rua Prof. Nelson Chaves, s/n,
+ Cidade Universitaria, CEP 50670-420, Recife, PE, Brazil."
+          },
+          {
+            name ml "Santiago ACP",
+            affil str "Centro Academico de Vitoria, Universidade Federal de
+ Pernambuco - UFPE, Rua Alto do Reservatorio, s/n, Bela Vista, CEP 55608-680,
+ Vitoria de Santo Antao, PE, Brazil."
+          },
+          {
+            name ml "Almeida-Cortez JS",
+            affil str "Programa de Pos-graduacao em Biologia Vegetal,
+ Universidade Federal de Pernambuco -UFPE, Rua Prof. Nelson Chaves, s/n,
+ Cidade Universitaria, CEP 50670-420, Recife, PE, Brazil."
+          },
+          {
+            name ml "Carvalho-Fernandes SP",
+            affil str "Departamento de Entomologia, Museu Nacional,
+ Universidade Federal do Rio de Janeiro - UFRJ, Rua Quinta da Boa Vista, s/n,
+ Sao Cristovao, CEP 20940-040, Rio de Janeiro, RJ, Brazil."
+          },
+          {
+            name ml "Costa LEN",
+            affil str "Programa de Pos-graduacao em Biologia Vegetal,
+ Universidade Federal de Pernambuco -UFPE, Rua Prof. Nelson Chaves, s/n,
+ Cidade Universitaria, CEP 50670-420, Recife, PE, Brazil."
+          },
+          {
+            name ml "Barros ICL",
+            affil str "Programa de Pos-graduacao em Biologia Vegetal,
+ Universidade Federal de Pernambuco -UFPE, Rua Prof. Nelson Chaves, s/n,
+ Cidade Universitaria, CEP 50670-420, Recife, PE, Brazil."
+          },
+          {
+            name ml "Mehltreter K",
+            affil str "Instituto de Ecologia - INECOL, A.C., Red de Ecologia
+ Funcional, Carretera antigua Coatepec, 91070, Xalapa, Veracruz, Mexico."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Braz J Biol",
+          ml-jta "Braz J Biol",
+          issn "1678-4375",
+          name "Brazilian journal of biology = Revista brasleira de biologia"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "78",
+          issue "4",
+          pages "799-801",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29319755,
+        pii "S1519-69842018005001107",
+        doi "10.1590/1519-6984.174674",
+        other {
+          db "ELocationID pii",
+          tag str "S1519-69842018000400799"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/1519-6984.174674"
+        }
+      }
+    },
+    pmid 29319755,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

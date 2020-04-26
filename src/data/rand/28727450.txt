@@ -1,0 +1,132 @@
+
+Pubmed-entry ::= {
+  pmid 28727450,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Carbon Nanotube Reinforced Polymer-Stabilized Liquid Crystal
+ Device: Lowered and Thermally Invariant Threshold with Accelerated Dynamics."
+      },
+      authors {
+        names std {
+          {
+            name ml "Krishna Prasad S",
+            affil str "Centre for Nano and Soft Matter Sciences , Jalahalli,
+ Bengaluru 560013, India."
+          },
+          {
+            name ml "Baral M",
+            affil str "Centre for Nano and Soft Matter Sciences , Jalahalli,
+ Bengaluru 560013, India."
+          },
+          {
+            name ml "Murali A",
+            affil str "Polymer Science & Technology Division, Council of
+ Scientific and Industrial Research (CSIR)-Central Leather Research Institute
+ (CLRI) , Adyar, Chennai 600020, India."
+          },
+          {
+            name ml "Jaisankar SN",
+            affil str "Polymer Science & Technology Division, Council of
+ Scientific and Industrial Research (CSIR)-Central Leather Research Institute
+ (CLRI) , Adyar, Chennai 600020, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "ACS Appl Mater Interfaces",
+          ml-jta "ACS Appl Mater Interfaces",
+          issn "1944-8252",
+          name "ACS applied materials & interfaces"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8,
+            day 9
+          },
+          volume "9",
+          issue "31",
+          pages "26622-26629",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 7,
+                day 21,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28727450,
+        doi "10.1021/acsami.7b08825",
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acsami.7b08825"
+        }
+      }
+    },
+    abstract "Polymer-stabilized liquid crystal (PSLC) devices comprise a
+ polymer matrix in an otherwise continuous phase of liquid crystal. The
+ fibrils of the polymer provide, even in the bulk, virtual surfaces with
+ finite anchoring energy resulting in attractive electro-optic properties.
+ Here, we describe a novel variation of the PSLC device fabricated by
+ reinforcing the polymer matrix with polymer-capped single-walled carbon
+ nanotubes (CNTs). The most important outcome of this strengthening of the
+ polymer strands is that the threshold voltage associated with the
+ electro-optic switching becomes essentially temperature independent in marked
+ contrast to the significant thermal variation seen in the absence of the
+ nanotubes. The reinforcement reduces the magnitude of the threshold voltage,
+ and notably accelerates the switching dynamics and the effective splay
+ elasticity. Each of these attributes is quite attractive from the device
+ operation point of view, especially the circuit design of the required
+ drivers. The amelioration is caused by the polymer decorating CNTs being
+ structurally identical to that of the matrix. The resulting good
+ compatibility between CNTs and the matrix prevents the CNTs from drifting
+ away from the matrix polymer, a lacuna in previous attempts to have CNTs in
+ PSLC systems. The difference in the morphology, perhaps the primary cause for
+ the effects seen, is noted in the electron microscopy images of the films.",
+    pmid 28727450,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

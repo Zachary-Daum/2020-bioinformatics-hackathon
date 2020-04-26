@@ -1,0 +1,244 @@
+
+Pubmed-entry ::= {
+  pmid 27866686,
+  medent {
+    em std {
+      year 2016,
+      month 11,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Size, Loading Efficiency, and Cytotoxicity of Albumin-Loaded
+ Chitosan Nanoparticles: An Artificial Neural Networks Study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Baharifar H",
+            affil str "Department of Medical Nanotechnology, School of
+ Advanced Technologies in Medicine, Tehran University of Medical Sciences,
+ Tehran, Iran."
+          },
+          {
+            name ml "Amani A",
+            affil str "Department of Medical Nanotechnology, School of
+ Advanced Technologies in Medicine, Tehran University of Medical Sciences,
+ Tehran, Iran; Medical Biomaterials Research Center (MBRC), Tehran University
+ of Medical Sciences, Tehran, Iran. Electronic address: aamani@sina.tums.ac.ir."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Pharm Sci",
+          ml-jta "J Pharm Sci",
+          issn "1520-6017",
+          name "Journal of pharmaceutical sciences"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1
+          },
+          volume "106",
+          issue "1",
+          pages "411-417",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 7,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 10,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27866686,
+        pii "S0022-3549(16)41792-2",
+        doi "10.1016/j.xphs.2016.10.013",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-3549(16)41792-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.xphs.2016.10.013"
+        }
+      }
+    },
+    abstract "When designing nanoparticles for drug delivery, many variables
+ such as size, loading efficiency, and cytotoxicity should be considered.
+ Usually, smaller particles are preferred in drug delivery because of longer
+ blood circulation time and their ability to escape from immune system,
+ whereas smaller nanoparticles often show increased toxicity. Determination of
+ parameters which affect size of particles and factors such as loading
+ efficiency and cytotoxicity could be very helpful in designing drug delivery
+ systems. In this work, albumin (as a protein drug model)-loaded chitosan
+ nanoparticles were prepared by polyelectrolyte complexation method.
+ Simultaneously, effects of 4 independent variables including chitosan and
+ albumin concentrations, pH, and reaction time were determined on 3 dependent
+ variables (i.e., size, loading efficiency, and cytotoxicity) by artificial
+ neural networks. Results showed that concentrations of initial materials are
+ the most important factors which may affect the dependent variables. A drop
+ in the concentrations decreases the size directly, but they simultaneously
+ decrease loading efficiency and increase cytotoxicity. Therefore, an
+ optimization of the independent variables is required to obtain the most
+ useful preparation.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cattle"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chitosan",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Drug Carriers",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Models, Biological"
+      },
+      {
+        term "Nanoparticles",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Neural Networks, Computer"
+      },
+      {
+        term "Particle Size"
+      },
+      {
+        term "Serum Albumin, Bovine",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "toxicity"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drug Carriers"
+      },
+      {
+        type cas,
+        cit "27432CM55Q",
+        name "Serum Albumin, Bovine"
+      },
+      {
+        type cas,
+        cit "9012-76-4",
+        name "Chitosan"
+      }
+    },
+    pmid 27866686,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

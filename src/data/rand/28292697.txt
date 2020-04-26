@@ -1,0 +1,223 @@
+
+Pubmed-entry ::= {
+  pmid 28292697,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Excitation function and yield for the (103)Rh(d,2n)(103)Pd
+ nuclear reaction: Optimization of the production of palladium-103."
+      },
+      authors {
+        names std {
+          {
+            name ml "Manenti S",
+            affil str "LASA, Universita degli Studi di Milano and INFN-Milano,
+ via F.lli Cervi 201, I-20090 Segrate (MI), Italy. Electronic address:
+ simone.manenti@mi.infn.it."
+          },
+          {
+            name ml "Ali Santoro MDC",
+            affil str "Centro Atomico Ezeiza - Comision Nacional de Energia
+ Atomica, Presbitero Juan Gonzalez y Aragon Nro.15, Ezeiza, Buenos Aires,
+ Argentina."
+          },
+          {
+            name ml "Cotogno G",
+            affil str "Institute for Health and Consumer Protection, Joint
+ Research Centre, European Commission, TP 500, I-21020 Ispra (VA), Italy."
+          },
+          {
+            name ml "Duchemin C",
+            affil str "SUBATECH, Ecole des Mines de Nantes, Universite de
+ Nantes, CNRS/IN2P3, Nantes, France."
+          },
+          {
+            name ml "Haddad F",
+            affil str "SUBATECH, Ecole des Mines de Nantes, Universite de
+ Nantes, CNRS/IN2P3, Nantes, France; GIP Arronax, 1 rue Aronnax, 44817
+ Saint-Herblain, France."
+          },
+          {
+            name ml "Holzwarth U",
+            affil str "Institute for Health and Consumer Protection, Joint
+ Research Centre, European Commission, TP 500, I-21020 Ispra (VA), Italy."
+          },
+          {
+            name ml "Groppi F",
+            affil str "LASA, Universita degli Studi di Milano and INFN-Milano,
+ via F.lli Cervi 201, I-20090 Segrate (MI), Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nucl. Med. Biol.",
+          ml-jta "Nucl Med Biol",
+          issn "1872-9614",
+          name "Nuclear medicine and biology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "49",
+          pages "30-37",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 16
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 2,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 2,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28292697,
+        pii "S0969-8051(16)30429-2",
+        doi "10.1016/j.nucmedbio.2017.02.005",
+        other {
+          db "ELocationID pii",
+          tag str "S0969-8051(16)30429-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.nucmedbio.2017.02.005"
+        }
+      }
+    },
+    abstract "Deuteron-induced nuclear reactions for the generation of (103)Pd
+ were investigated using the stacked-foil activation technique on rhodium
+ targets at deuteron energies up to Ed=33MeV. The excitation functions of the
+ reactions (103)Rh(d,xn)(101,103)Pd, (103)Rh(d,x)(100g,cum,101m,g,102m,g)Rh
+ and (103)Rh(d,2p)(103)Ru have been measured, and the Thick-Target Yield for
+ (103)Pd has been calculated.",
+    mesh {
+      {
+        term "Gamma Rays"
+      },
+      {
+        term "Palladium",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Radiochemistry",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Radioisotopes",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Rhodium",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Radioisotopes"
+      },
+      {
+        type cas,
+        cit "5TWQ1V240M",
+        name "Palladium"
+      },
+      {
+        type cas,
+        cit "68QTV136DF",
+        name "Palladium-103"
+      },
+      {
+        type cas,
+        cit "DMK383DSAC",
+        name "Rhodium"
+      }
+    },
+    pmid 28292697,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

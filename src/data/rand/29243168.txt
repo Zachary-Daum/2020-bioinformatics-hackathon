@@ -1,0 +1,199 @@
+
+Pubmed-entry ::= {
+  pmid 29243168,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The views of patients with metastatic prostate cancer towards
+ physical activity: a qualitative exploration."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sheill G",
+            affil str "Discipline of Physiotherapy, School of Medicine,
+ Trinity College Centre for Health Sciences, James's Street, Dublin 8,
+ Ireland. sheillg@tcd.ie."
+          },
+          {
+            name ml "Guinan E",
+            affil str "School of Medicine, Trinity College Centre for Health
+ Sciences, James's Street, Dublin 8, Ireland."
+          },
+          {
+            name ml "Neill LO",
+            affil str "Discipline of Physiotherapy, School of Medicine,
+ Trinity College Centre for Health Sciences, James's Street, Dublin 8, Ireland."
+          },
+          {
+            name ml "Hevey D",
+            affil str "School of Psychology, Trinity College Dublin, College
+ Green, Dublin 2, Ireland."
+          },
+          {
+            name ml "Hussey J",
+            affil str "Discipline of Physiotherapy, School of Medicine,
+ Trinity College Centre for Health Sciences, James's Street, Dublin 8, Ireland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Support Care Cancer",
+          ml-jta "Support Care Cancer",
+          issn "1433-7339",
+          name "Supportive care in cancer : official journal of the
+ Multinational Association of Supportive Care in Cancer"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "26",
+          issue "6",
+          pages "1747-1754",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29243168,
+        doi "10.1007/s00520-017-4008-x",
+        pii "10.1007/s00520-017-4008-x",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00520-017-4008-x"
+        }
+      }
+    },
+    abstract "PURPOSE: Patients with metastatic cancer can experience
+ debilitating symptoms, which may influence attitudes towards and engagement
+ in physical activity. This study aimed to examine the attitudes of patients
+ living with metastatic prostate cancer towards physical activity. MATERIALS
+ AND METHODS: Semi-structured interviews were completed with male patients
+ living with metastatic prostate cancer. Interviews included eight questions
+ related to patients' attitudes towards physical activity. Content analysis
+ was conducted on the transcribed interview data. Twenty men with metastatic
+ prostate cancer (mean age 71 +/- 8.5 years; body mass index 30.19 +/- 5.37
+ kg/cm(2)) and associated bone metastases (55% with > 2 regions affected)
+ participated in the study. RESULTS: Men's views towards physical activity
+ were coded into the following major themes: (1) barriers to physical
+ activity, (2) benefits of physical activity, (3) a reduction in physical
+ activity levels post diagnosis and (4) social support for physical activity.
+ Symptoms of metastatic prostate cancer and treatment side effects including
+ pain and fatigue negatively influenced activity participation. In addition,
+ many generic barriers to physical activity were described such as bad weather
+ and a lack of suitable facilities for exercising in rural areas. CONCLUSION:
+ Men living with metastatic prostate cancer have unique needs regarding
+ physical activity related to symptoms of both their cancer and cancer
+ treatment. There is a need to increase prompts that encourage those with
+ metastatic prostate cancer to maintain/increase physical activity levels post
+ diagnosis. Given the individualised needs of this patient group, referral to
+ a cancer exercise specialist should be considered for prescription of
+ tailored physical activity programmes. TRIAL REGISTRATION: Clinicaltrials.gov
+ NLM Identifier: NCT02453139.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Exercise",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      }
+    },
+    xref {
+    },
+    idnum {
+      "12799/World Cancer Research Fund"
+    },
+    pmid 29243168,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

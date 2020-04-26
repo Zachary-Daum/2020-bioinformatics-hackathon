@@ -1,0 +1,307 @@
+
+Pubmed-entry ::= {
+  pmid 29220724,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Pharmacokinetics of a novel triazine ethanamizuril in rats and
+ broiler chickens."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cheng P",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Wang C",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China. Electronic address: wangchunmei@shvri.ac.cn."
+          },
+          {
+            name ml "Lin X",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Fei C",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Zhang K",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Zhao J",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Lei N",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Mu S",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Wang M",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Zheng W",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Guo C",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China."
+          },
+          {
+            name ml "Xue F",
+            affil str "Key Laboratory of Veterinary Chemical Drugs and
+ Pharmaceutics, Shanghai Veterinary Research Institute, Chinese Academy of
+ Agricultural Sciences, No. 518 Ziyue Road, Minhang District, Shanghai 200241,
+ PR China. Electronic address: fqxue@shvri.ac.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Res. Vet. Sci.",
+          ml-jta "Res Vet Sci",
+          issn "1532-2661",
+          name "Research in veterinary science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "117",
+          pages "99-103",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29220724,
+        pii "S0034-5288(17)30339-9",
+        doi "10.1016/j.rvsc.2017.11.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0034-5288(17)30339-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.rvsc.2017.11.001"
+        }
+      }
+    },
+    abstract "Ethanamizuril is a new triazine compound that displays potent
+ anticoccidial activity against chicken coccidiosis caused by Eimeria tenella.
+ We studied the pharmacokinetics of ethanamizuril in rats and chickens after
+ single oral doses of one, two and three times the minimum effective dose
+ Ethanamizuril was readily absorbed at all three doses and the plasma
+ concentration reached was maximal within 5h and progressively declined over
+ time. The mean peak plasma concentrations (Cmax) and the area under the
+ concentration-time curve (AUC) were both dose-dependent. These results
+ provide pharmacokinetic profiles of ethanamizuril for future preclinical
+ studies and clinical use.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Chickens"
+      },
+      {
+        term "Coccidiosis",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Coccidiostats",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        mp TRUE,
+        term "Eimeria tenella"
+      },
+      {
+        term "Poultry Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Triazines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacokinetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Coccidiostats"
+      },
+      {
+        type nameonly,
+        name "Triazines"
+      }
+    },
+    pmid 29220724,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

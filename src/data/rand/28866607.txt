@@ -1,0 +1,252 @@
+
+Pubmed-entry ::= {
+  pmid 28866607,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Formative student-authored question bank: perceptions, question
+ quality and association with summative performance."
+      },
+      authors {
+        names std {
+          {
+            name ml "Walsh JL",
+            affil str "Centre for Medical Education, Cardiff University,
+ Cardiff, UK."
+          },
+          {
+            name ml "Harris BHL",
+            affil str "Centre for Medical Education, Cardiff University,
+ Cardiff, UK."
+          },
+          {
+            name ml "Denny P",
+            affil str "Department of Computer Science, University of Auckland,
+ Auckland, New Zealand."
+          },
+          {
+            name ml "Smith P",
+            affil str "Centre for Medical Education, Cardiff University,
+ Cardiff, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Postgrad Med J",
+          ml-jta "Postgrad Med J",
+          issn "1469-0756",
+          name "Postgraduate medical journal"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "94",
+          issue "1108",
+          pages "97-103",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 31
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 31
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28866607,
+        pii "postgradmedj-2017-135018",
+        doi "10.1136/postgradmedj-2017-135018",
+        other {
+          db "pmc",
+          tag str "PMC5800328"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1136/postgradmedj-2017-135018"
+        }
+      }
+    },
+    abstract "PURPOSE OF THE STUDY: There are few studies on the value of
+ authoring questions as a study method, the quality of the questions produced
+ by students and student perceptions of student-authored question banks. Here
+ we evaluate PeerWise, a widely used and free online resource that allows
+ students to author, answer and discuss multiple-choice questions. STUDY
+ DESIGN: We introduced two undergraduate medical student cohorts to PeerWise
+ (n=603). We looked at their patterns of PeerWise usage; identified
+ associations between student engagement and summative exam performance; and
+ used focus groups to assess student perceptions of the value of PeerWise for
+ learning. We undertook item analysis to assess question difficulty and
+ quality. RESULTS: Over two academic years, the two cohorts wrote 4671
+ questions, answered questions 606 658 times and posted 7735 comments.
+ Question writing frequency correlated most strongly with summative
+ performance (Spearman's rank: 0.24, p=<0.001). Student focus groups found
+ that: (1) students valued curriculum specificity; and (2) students were
+ concerned about student-authored question quality. Only two questions of the
+ 300 'most-answered' questions analysed had an unacceptable discriminatory
+ value (point-biserial correlation <0.2). CONCLUSIONS: Item analysis suggested
+ acceptable question quality despite student concerns. Quantitative and
+ qualitative methods indicated that PeerWise is a valuable study tool.",
+    mesh {
+      {
+        term "Academic Performance",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Choice Behavior"
+      },
+      {
+        term "Clinical Competence",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Curriculum"
+      },
+      {
+        term "Education, Medical, Undergraduate",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          },
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Educational Measurement",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Focus Groups"
+      },
+      {
+        mp TRUE,
+        term "Formative Feedback"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Learning"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Peer Group"
+      },
+      {
+        term "Problem-Based Learning",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        mp TRUE,
+        term "Students, Medical"
+      },
+      {
+        term "Teaching",
+        qual {
+          {
+            subh "standards"
+          }
+        }
+      }
+    },
+    pmid 28866607,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

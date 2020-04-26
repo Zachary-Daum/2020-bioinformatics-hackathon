@@ -1,0 +1,154 @@
+
+Pubmed-entry ::= {
+  pmid 29328626,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Polystyrene-Core, Silica-Shell Scintillant Nanoparticles for
+ Low-Energy Radionuclide Quantification in Aqueous Media."
+      },
+      authors {
+        names std {
+          {
+            name ml "Janczak CM",
+            affil str "Department of Chemistry and Biochemistry, double
+ daggerBIO5 Institute, and  section signDepartment of Biomedical Engineering,
+ University of Arizona , Tucson, Arizona 85721, United States."
+          },
+          {
+            name ml "Calderon IAC",
+            affil str "Department of Chemistry and Biochemistry, double
+ daggerBIO5 Institute, and  section signDepartment of Biomedical Engineering,
+ University of Arizona , Tucson, Arizona 85721, United States."
+          },
+          {
+            name ml "Mokhtari Z",
+            affil str "Department of Chemistry and Biochemistry, double
+ daggerBIO5 Institute, and  section signDepartment of Biomedical Engineering,
+ University of Arizona , Tucson, Arizona 85721, United States."
+          },
+          {
+            name ml "Aspinwall CA",
+            affil str "Department of Chemistry and Biochemistry, double
+ daggerBIO5 Institute, and  section signDepartment of Biomedical Engineering,
+ University of Arizona , Tucson, Arizona 85721, United States."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "ACS Appl Mater Interfaces",
+          ml-jta "ACS Appl Mater Interfaces",
+          issn "1944-8252",
+          name "ACS applied materials & interfaces"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 7
+          },
+          volume "10",
+          issue "5",
+          pages "4953-4960",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29328626,
+        doi "10.1021/acsami.7b15943",
+        other {
+          db "pmc",
+          tag str "PMC5837805"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS946140"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acsami.7b15943"
+        }
+      }
+    },
+    abstract "beta-particle emitting radionuclides are useful molecular labels
+ due to their abundance in biomolecules. Detection of beta-emission from (3)H,
+ (35)S, and (33)P, important biological isotopes, is challenging due to the
+ low energies (Emax </= 300 keV) and short penetration depths (</=0.6 mm) in
+ aqueous media. The activity of biologically relevant beta-emitters is usually
+ measured in liquid scintillation cocktail (LSC), a mixture of
+ energy-absorbing organic solvents, surfactants, and scintillant fluorophores,
+ which places significant limitations on the ability to acquire time-resolved
+ measurements directly in aqueous biological systems. As an alternative to
+ LSC, we developed polystyrene-core, silica-shell nanoparticle scintillators
+ (referred to as nanoSCINT) for quantification of low-energy beta-particle
+ emitting radionuclides directly in aqueous solutions. The polystyrene acts as
+ an absorber for energy from emitted beta-particles and can be loaded with a
+ range of hydrophobic scintillant fluorophores, leading to photon emission at
+ visible wavelengths. The silica shell serves as a hydrophilic shield for the
+ polystyrene core, enabling dispersion in aqueous media and providing better
+ compatibility with water-soluble analytes. While polymer and inorganic
+ scintillating microparticles are commercially available, their large size
+ and/or high density complicates effective dispersion throughout the sample
+ volume. In this work, nanoSCINT nanoparticles were prepared and
+ characterized. nanoSCINT responds to (3)H, (35)S, and (33)P directly in
+ aqueous solutions, does not exhibit a change in scintillation response
+ between pH 3.0 and 9.5 or with 100 mM NaCl, and can be recovered and reused
+ for activity measurements in bulk aqueous samples, demonstrating the
+ potential for reduced production of LSC waste and reduced total waste volume
+ during radionuclide quantification. The limits of detection for 1 mg/mL
+ nanoSCINT are 130 nCi/mL for (3)H, 8 nCi/mL for (35)S, and <1 nCi/mL for
+ (33)P.",
+    idnum {
+      "R01 GM116946/GM/NIGMS NIH HHS",
+      "R21 EB019133/EB/NIBIB NIH HHS"
+    },
+    pmid 29328626,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

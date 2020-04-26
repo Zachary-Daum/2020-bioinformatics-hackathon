@@ -1,0 +1,354 @@
+
+Pubmed-entry ::= {
+  pmid 28924182,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An in vitro model of lissencephaly: expanding the role of DCX
+ during neurogenesis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shahsavani M",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Pronk RJ",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Falk R",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Lam M",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Moslem M",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Linker SB",
+            affil str "Laboratory of Genetics, Salk Institute for Biological
+ Studies, La Jolla, CA, USA."
+          },
+          {
+            name ml "Salma J",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Day K",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Schuster J",
+            affil str "Science for Life Laboratory, Department of Immunology,
+ Genetics and Pathology, Uppsala University, Uppsala, Sweden."
+          },
+          {
+            name ml "Anderlid BM",
+            affil str "Department of Clinical Genetics, Karolinska University
+ Hospital, Stockholm, Sweden."
+          },
+          {
+            name ml "Dahl N",
+            affil str "Science for Life Laboratory, Department of Immunology,
+ Genetics and Pathology, Uppsala University, Uppsala, Sweden."
+          },
+          {
+            name ml "Gage FH",
+            affil str "Laboratory of Genetics, Salk Institute for Biological
+ Studies, La Jolla, CA, USA."
+          },
+          {
+            name ml "Falk A",
+            affil str "Department of Neuroscience, Karolinska Institutet,
+ Stockholm, Sweden. Anna.falk@ki.se."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Psychiatry",
+          ml-jta "Mol Psychiatry",
+          issn "1476-5578",
+          name "Molecular psychiatry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "23",
+          issue "7",
+          pages "1674-1684",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28924182,
+        pii "10.1038/mp.2017.175",
+        doi "10.1038/mp.2017.175",
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/mp.2017.175"
+        }
+      }
+    },
+    abstract "Lissencephaly comprises a spectrum of brain malformations due to
+ impaired neuronal migration in the developing cerebral cortex. Classical
+ lissencephaly is characterized by smooth cerebral surface and cortical
+ thickening that result in seizures, severe neurological impairment and
+ developmental delay. Mutations in the X-chromosomal gene DCX, encoding
+ doublecortin, is the main cause of classical lissencephaly. Much of our
+ knowledge about DCX-associated lissencephaly comes from post-mortem analyses
+ of patient's brains, mainly since animal models with DCX mutations do not
+ mimic the disease. In the absence of relevant animal models and patient brain
+ specimens, we took advantage of induced pluripotent stem cell (iPSC)
+ technology to model the disease. We established human iPSCs from two males
+ with mutated DCX and classical lissencephaly including smooth brain and
+ abnormal cortical morphology. The disease was recapitulated by
+ differentiation of iPSC into neural cells followed by expression profiling
+ and dissection of DCX-associated functions. Here we show that neural stem
+ cells, with absent or reduced DCX protein expression, exhibit impaired
+ migration, delayed differentiation and deficient neurite formation. Hence,
+ the patient-derived iPSCs and neural stem cells provide a system to further
+ unravel the functions of DCX in normal development and disease.",
+    mesh {
+      {
+        term "Brain",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Cerebral Cortex",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Fibroblasts"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Induced Pluripotent Stem Cells",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Lissencephaly",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Microtubule-Associated Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Neural Stem Cells",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neurites",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Neurogenesis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neuropeptides",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Microtubule-Associated Proteins"
+      },
+      {
+        type nameonly,
+        name "Neuropeptides"
+      },
+      {
+        type nameonly,
+        name "doublecortin protein"
+      }
+    },
+    idnum {
+      "R01 MH095741/MH/NIMH NIH HHS",
+      "U19 MH106434/MH/NIMH NIH HHS"
+    },
+    pmid 28924182,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

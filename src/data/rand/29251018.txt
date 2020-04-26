@@ -1,0 +1,223 @@
+
+Pubmed-entry ::= {
+  pmid 29251018,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Cardiovascular outcomes with canagliflozin - is it on the CANVAS?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Doggrell SA",
+            affil str "a Faculty of Health , Queensland University of
+ Technology , Brisbane , Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Expert Opin Pharmacother",
+          ml-jta "Expert Opin Pharmacother",
+          issn "1744-7666",
+          name "Expert opinion on pharmacotherapy"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "19",
+          issue "2",
+          pages "163-166",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29251018,
+        doi "10.1080/14656566.2017.1418855",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/14656566.2017.1418855"
+        }
+      }
+    },
+    abstract "INTRODUCTION: Sodium-glucose cotransporter 2 (SGLT2) inhibitors
+ (the 'gliflozins') promote the excretion of glucose from the kidney to lower
+ HbA1c. Empagliflozin was the first gliflozin shown to improve cardiovascular
+ and renal outcomes in subjects with type 2 diabetes and cardiovascular
+ disease. Areas covered: In the Canagliflozin Cardiovascular Assessment Study
+ (CANVAS) Program, there were improvements in the primary cardiovascular and
+ exploratory renal outcomes with canagliflozin, compared to placebo. The
+ safety outcome finding, which was of most interest, was that there was a
+ higher risk of amputation of toes, feet, or legs with canagliflozin than in
+ the placebo group. This program is the subject of this evaluation. Expert
+ opinion: As canagliflozin has small beneficial effects in the treatment of
+ type 2 diabetes in subjects with cardiovascular disease, it is not on the
+ canvas. However, there are still several questions about canagliflozin that
+ need to be answered before it is widely used, especially in comparison with
+ other gliflozins; As amputations have only been reported with canagliflozin
+ in CANVAS, should other gliflozins be preferred? As canagliflozin has not
+ been shown to be beneficial in subjects not taking diuretics, should other
+ gliflozins be preferred in this population? Clarification is also needed as
+ to whether canagliflozin increases the risk of non-fatal stroke, or not.",
+    mesh {
+      {
+        term "Canagliflozin",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Cardiovascular Diseases",
+        qual {
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Diabetes Mellitus, Type 2",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Glycated Hemoglobin A",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypoglycemic Agents",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Kidney Diseases",
+        qual {
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Placebo Effect"
+      },
+      {
+        term "Sodium-Glucose Transporter 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sodium-Glucose Transporter 2 Inhibitors"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Glycated Hemoglobin A"
+      },
+      {
+        type nameonly,
+        name "Hypoglycemic Agents"
+      },
+      {
+        type nameonly,
+        name "SLC5A2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Sodium-Glucose Transporter 2"
+      },
+      {
+        type nameonly,
+        name "Sodium-Glucose Transporter 2 Inhibitors"
+      },
+      {
+        type nameonly,
+        name "hemoglobin A1c protein, human"
+      },
+      {
+        type cas,
+        cit "0SAC974Z85",
+        name "Canagliflozin"
+      }
+    },
+    pmid 29251018,
+    pub-type {
+      "Clinical Trial",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

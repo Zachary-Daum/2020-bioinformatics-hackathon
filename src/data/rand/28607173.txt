@@ -1,0 +1,266 @@
+
+Pubmed-entry ::= {
+  pmid 28607173,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tactile Defensiveness and Impaired Adaptation of Neuronal
+ Activity in the Fmr1 Knock-Out Mouse Model of Autism."
+      },
+      authors {
+        names std {
+          {
+            name ml "He CX",
+            affil str "Departments of Neurology and.; Neuroscience
+ Interdepartmental Program, and.; UCLA-Caltech Medical Scientist Training
+ Program, David Geffen School of Medicine, University of California, Los
+ Angeles, Los Angeles, California 90095."
+          },
+          {
+            name ml "Cantu DA",
+            affil str "Departments of Neurology and.; Neuroscience
+ Interdepartmental Program, and."
+          },
+          {
+            name ml "Mantri SS",
+            affil str "Departments of Neurology and."
+          },
+          {
+            name ml "Zeiger WA",
+            affil str "Departments of Neurology and."
+          },
+          {
+            name ml "Goel A",
+            affil str "Departments of Neurology and."
+          },
+          {
+            name ml "Portera-Cailliau C",
+            affil str "Departments of Neurology and
+ cpcailliau@mednet.ucla.edu.; Neurobiology.; UCLA-Caltech Medical Scientist
+ Training Program, David Geffen School of Medicine, University of California,
+ Los Angeles, Los Angeles, California 90095."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Neurosci.",
+          ml-jta "J Neurosci",
+          issn "1529-2401",
+          name "The Journal of neuroscience : the official journal of the
+ Society for Neuroscience"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 5
+          },
+          volume "37",
+          issue "27",
+          pages "6475-6487",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28607173,
+        pii "JNEUROSCI.0651-17.2017",
+        doi "10.1523/JNEUROSCI.0651-17.2017",
+        other {
+          db "pmc",
+          tag str "PMC5511879"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1523/JNEUROSCI.0651-17.2017"
+        }
+      }
+    },
+    abstract "Sensory hypersensitivity is a common symptom in autism spectrum
+ disorders (ASDs), including fragile X syndrome (FXS), and frequently leads to
+ tactile defensiveness. In mouse models of ASDs, there is mounting evidence of
+ neuronal and circuit hyperexcitability in several brain regions, which could
+ contribute to sensory hypersensitivity. However, it is not yet known whether
+ or how sensory stimulation might trigger abnormal sensory processing at the
+ circuit level or abnormal behavioral responses in ASD mouse models,
+ especially during an early developmental time when experience-dependent
+ plasticity shapes such circuits. Using a novel assay, we discovered
+ exaggerated motor responses to whisker stimulation in young Fmr1 knock-out
+ (KO) mice (postnatal days 14-16), a model of FXS. Adult Fmr1 KO mice actively
+ avoided a stimulus that was innocuous to wild-type controls, a sign of
+ tactile defensiveness. Using in vivo two-photon calcium imaging of layer 2/3
+ barrel cortex neurons expressing GCaMP6s, we found no differences between
+ wild-type and Fmr1 KO mice in overall whisker-evoked activity, though 45%
+ fewer neurons in young Fmr1 KO mice responded in a time-locked manner.
+ Notably, we identified a pronounced deficit in neuronal adaptation to
+ repetitive whisker stimulation in both young and adult Fmr1 KO mice. Thus,
+ impaired adaptation in cortical sensory circuits is a potential cause of
+ tactile defensiveness in autism.SIGNIFICANCE STATEMENT We use a novel
+ paradigm of repetitive whisker stimulation and in vivo calcium imaging to
+ assess tactile defensiveness and barrel cortex activity in young and adult
+ Fmr1 knock-out mice, the mouse model of fragile X syndrome (FXS). We describe
+ evidence of tactile defensiveness, as well as a lack of L2/3 neuronal
+ adaptation in barrel cortex, during whisker stimulation. We propose that a
+ defect in sensory adaptation within local neuronal networks, beginning at a
+ young age and continuing into adulthood, likely contributes to sensory
+ overreactivity in FXS and perhaps other ASDs.",
+    mesh {
+      {
+        term "Adaptation, Physiological"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Autistic Disorder",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Fragile X Mental Retardation Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Hyperalgesia",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Knockout"
+      },
+      {
+        term "Neuronal Plasticity"
+      },
+      {
+        mp TRUE,
+        term "Neurons"
+      },
+      {
+        mp TRUE,
+        term "Perceptual Defense"
+      },
+      {
+        mp TRUE,
+        term "Touch"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Fmr1 protein, mouse"
+      },
+      {
+        type cas,
+        cit "139135-51-6",
+        name "Fragile X Mental Retardation Protein"
+      }
+    },
+    idnum {
+      "F30 NS093719/NS/NINDS NIH HHS",
+      "R01 HD054453/HD/NICHD NIH HHS",
+      "T32 GM008042/GM/NIGMS NIH HHS",
+      "T32 NS058280/NS/NINDS NIH HHS"
+    },
+    pmid 28607173,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

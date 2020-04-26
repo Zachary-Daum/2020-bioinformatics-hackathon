@@ -1,0 +1,300 @@
+
+Pubmed-entry ::= {
+  pmid 29230820,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tree age affects physicochemical, functional quality and
+ storability of Amrapali mango (Mangifera indica L.) fruits."
+      },
+      authors {
+        names std {
+          {
+            name ml "Meena NK",
+            affil str "Division of Food Science and Postharvest Technology,
+ Indian Agricultural Research Institute, New Delhi, India."
+          },
+          {
+            name ml "Asrey R",
+            affil str "Division of Food Science and Postharvest Technology,
+ Indian Agricultural Research Institute, New Delhi, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Sci. Food Agric.",
+          ml-jta "J Sci Food Agric",
+          issn "1097-0010",
+          name "Journal of the science of food and agriculture"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "98",
+          issue "9",
+          pages "3255-3262",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 9
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29230820,
+        doi "10.1002/jsfa.8828",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jsfa.8828"
+        }
+      }
+    },
+    abstract "BACKGROUND: The effect of tree age on physicochemical quality
+ attributes and storage behaviour of Amrapali mango fruit was evaluated.
+ Physiologically mature fruits were harvested from 6-, 18- and 30-year-old
+ trees and kept for ripening under ambient conditions (temperature 35 +/- 3 
+ degrees C, relative humidity 60 +/- 5%). Observations were recorded at 3-day
+ intervals. RESULTS: Highest total soluble solids and total sugars were found
+ in the fruit sourced from 18-year-old trees. At the end of storage, least
+ titratable acidity (0.17%) and higher carotenoids (10.86 mg 100 g(-1) ) were
+ found in 30-year-old tree fruits during the last day of storage. Highest
+ total phenols (TP) (251.33 mug gallic acid g(-1) ), antioxidant capacity (AC)
+ (5.63 mumol Trolox g(-1) ) and ascorbic acid (AA) (31.13 mg 100 g(-1) ) were
+ reported in fruits from younger trees of 6 years old. Maximum respiratory and
+ ethylene evolution peak was observed in fruits obtained from oldest trees,
+ whereas least activities of pectin methyl esterase (0.31 mumol min(-1) g(-1)
+ fresh weight) and polygalacturonase (53.67 mug galacturonic acid g(-1) h(-1)
+ ) were observed in 6-year-old tree fruits at the end of the 9-day storage
+ period. CONCLUSION: Higher total soluble solids and total sugars were found
+ in fruit harvested from middle-age-group (18-year-old) trees during the
+ entire storage period of 9 days. Most of the functional parameters, such as
+ TP, AC and AA, were observed to be higher in fruits from younger (6-year-old)
+ trees. The obtained results revealed that produce from middle-age-group
+ (18-year-old) Amrapali mango orchards suit consumers' and processors'
+ requirements. (c) 2017 Society of Chemical Industry.",
+    mesh {
+      {
+        term "Antioxidants",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Ascorbic Acid",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Carboxylic Ester Hydrolases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Carotenoids",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Chemical Phenomena"
+      },
+      {
+        term "Ethylenes",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Food Preservation"
+      },
+      {
+        term "Fruit",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Mangifera",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Polygalacturonase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sugars",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Trees",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Ethylenes"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type nameonly,
+        name "Sugars"
+      },
+      {
+        type cas,
+        cit "36-88-4",
+        name "Carotenoids"
+      },
+      {
+        type cas,
+        cit "91GW059KN7",
+        name "ethylene"
+      },
+      {
+        type ec,
+        cit "3.1.1.-",
+        name "Carboxylic Ester Hydrolases"
+      },
+      {
+        type ec,
+        cit "3.1.1.11",
+        name "pectinesterase"
+      },
+      {
+        type ec,
+        cit "3.2.1.15",
+        name "Polygalacturonase"
+      },
+      {
+        type cas,
+        cit "PQ6CK8PD0R",
+        name "Ascorbic Acid"
+      }
+    },
+    pmid 29230820,
+    pub-type {
+      "Comparative Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

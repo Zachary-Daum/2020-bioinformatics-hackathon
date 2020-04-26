@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 29077217,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Spontaneous involution (regression) of a solitary cutaneous
+ myofibroma in an adult patient."
+      },
+      authors {
+        names std {
+          {
+            name ml "Heath M",
+            affil str "Department of Dermatology, Oregon Health and Science
+ University, Portland, Oregon."
+          },
+          {
+            name ml "Hajar T",
+            affil str "Department of Dermatology, Oregon Health and Science
+ University, Portland, Oregon."
+          },
+          {
+            name ml "Korcheva V",
+            affil str "Department of Dermatology, Oregon Health and Science
+ University, Portland, Oregon."
+          },
+          {
+            name ml "Leitenberger J",
+            affil str "Department of Dermatology, Oregon Health and Science
+ University, Portland, Oregon."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cutan. Pathol.",
+          ml-jta "J Cutan Pathol",
+          issn "1600-0560",
+          name "Journal of cutaneous pathology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "45",
+          issue "2",
+          pages "159-161",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29077217,
+        doi "10.1111/cup.13071",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/cup.13071"
+        }
+      }
+    },
+    abstract "Myofibromas are unusual benign tumors most commonly seen in
+ infant children. Clinical involution of the tumor often occurs within the
+ first few years of life. Solitary cutaneous myofibroma is the synonymous
+ adult counterpart of infantile myofibromatosis. Although solitary myofibromas
+ have been reported in patients of all ages, only the infantile variant is
+ believed to regress spontaneously. There are only a few case reports of
+ adolescent and young adult patients with regressing solitary lesions that
+ have been described in the literature to date. We report a 71-year-old male
+ with spontaneous regression of solitary cutaneous myofibroma. The residual
+ lesion was excised and to date has not recurred. This report describes the
+ historical, clinical and histopathological features of adult myofibromas and
+ a novel manifestation that may guide future clinical considerations when
+ approaching solitary tumors with regressive features.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Myofibroma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neoplasm Regression, Spontaneous",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Skin Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    pmid 29077217,
+    pub-type {
+      "Case Reports"
+    },
+    status medline
+  }
+}
+
+

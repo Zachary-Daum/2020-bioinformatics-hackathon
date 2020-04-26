@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 29246367,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A 12-Day Course of Imiquimod 5% for the Treatment of Actinic
+ Keratosis: Effectiveness and Local Reactions.",
+        trans "Tratamiento con imiquimod al 5% durante 12 dias para las
+ queratosis actinicas: estudio de la eficacia y la reaccion local."
+      },
+      authors {
+        names std {
+          {
+            name ml "Serra-Guillen C",
+            affil str "Servicio de Dermatologia, Instituto Valenciano de
+ Oncologia, Valencia, Espana; Departamento de Piel y Organos de los Sentidos,
+ Facultad de Medicina, Universidad CEU Cardenal Herrera, Valencia, Espana.
+ Electronic address: cserraguillen@gmail.com."
+          },
+          {
+            name ml "Nagore E",
+            affil str "Servicio de Dermatologia, Instituto Valenciano de
+ Oncologia, Valencia, Espana; Departamento de Dermatologia, Facultad de
+ Medicina, Universidad Catolica de Valencia, Valencia, Espana."
+          },
+          {
+            name ml "Llombart B",
+            affil str "Servicio de Dermatologia, Instituto Valenciano de
+ Oncologia, Valencia, Espana."
+          },
+          {
+            name ml "Sanmartin O",
+            affil str "Servicio de Dermatologia, Instituto Valenciano de
+ Oncologia, Valencia, Espana; Departamento de Dermatologia, Facultad de
+ Medicina, Universidad Catolica de Valencia, Valencia, Espana."
+          },
+          {
+            name ml "Requena C",
+            affil str "Servicio de Dermatologia, Instituto Valenciano de
+ Oncologia, Valencia, Espana."
+          },
+          {
+            name ml "Calomarde L",
+            affil str "Servicio de Dermatologia, Instituto Valenciano de
+ Oncologia, Valencia, Espana."
+          },
+          {
+            name ml "Guillen C",
+            affil str "Servicio de Dermatologia, Instituto Valenciano de
+ Oncologia, Valencia, Espana; Departamento de Piel y Organos de los Sentidos,
+ Facultad de Medicina, Universidad CEU Cardenal Herrera, Valencia, Espana."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Actas Dermosifiliogr",
+          ml-jta "Actas Dermosifiliogr",
+          issn "1578-2190",
+          name "Actas dermo-sifiliograficas"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "109",
+          issue "3",
+          pages "248-253",
+          language "eng,spa",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29246367,
+        pii "S0001-7310(17)30601-4",
+        doi "10.1016/j.ad.2017.10.008",
+        other {
+          db "ELocationID pii",
+          tag str "S0001-7310(17)30601-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ad.2017.10.008"
+        }
+      }
+    },
+    abstract "INTRODUCTION AND OBJECTIVES: Imiquimod is an excellent option
+ for patients with actinic keratosis, although its use may be limited by the
+ long course of treatment required (4 weeks) and the likelihood of local skin
+ reactions. The objectives of the present study were to demonstrate the
+ effectiveness of a 12-day course of imiquimod 5% for the treatment of actinic
+ keratosis and to examine the association between treatment effectiveness and
+ severity of local reactions. PATIENTS AND METHODS: We included patients with
+ at least 8 actinic keratoses treated with imiquimod 5% cream for 12
+ consecutive days. Local reactions were classified as mild, moderate, or
+ severe. The statistical analysis of the association between local reactions
+ and clinical response was based on the Pearson chi(2) test and the Spearman
+ rank correlation test. RESULTS: Sixty-five patients completed the study.
+ Complete response was recorded in 52.3% and partial response in 75.4%. We
+ found a statistically significant association between severity of the local
+ reaction and response to treatment in both the Pearson chi(2) test and the
+ Spearman rank correlation test. CONCLUSIONS: A 12-day course of imiquimod 5%
+ proved effective for the treatment of actinic keratosis. Severity of local
+ reactions during treatment was correlated with clinical response.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Imiquimod",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Interferon Inducers",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Keratosis, Actinic",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interferon Inducers"
+      },
+      {
+        type cas,
+        cit "P1QW714R7M",
+        name "Imiquimod"
+      }
+    },
+    pmid 29246367,
+    pub-type {
+      "Clinical Trial",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

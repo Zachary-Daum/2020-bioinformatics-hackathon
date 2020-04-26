@@ -1,0 +1,84 @@
+
+Pubmed-entry ::= {
+  pmid 29237227,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        trans "Im Gedenken an Dr. med. Gerd Eldering."
+      },
+      from journal {
+        title {
+          iso-jta "Z Geburtshilfe Neonatol",
+          ml-jta "Z Geburtshilfe Neonatol",
+          issn "1439-1651",
+          name "Zeitschrift fur Geburtshilfe und Neonatologie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "221",
+          issue "6",
+          pages "294",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29237227,
+        doi "10.1055/s-0043-122333",
+        other {
+          db "ELocationID doi",
+          tag str "10.1055/s-0043-122333"
+        }
+      }
+    },
+    pmid 29237227,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

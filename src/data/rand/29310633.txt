@@ -1,0 +1,211 @@
+
+Pubmed-entry ::= {
+  pmid 29310633,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Physicians' knowledge and practice on death certification in the
+ North West Bank, Palestine: across sectional study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qaddumi JAS",
+            affil str "Faculty of Medicine and Health Sciences, An-Najah
+ National University, PO box 7, Nablus, Palestine. jamal9877@najah.edu."
+          },
+          {
+            name ml "Nazzal Z",
+            affil str "Faculty of Medicine and Health Sciences, An-Najah
+ National University, PO box 7, Nablus, Palestine."
+          },
+          {
+            name ml "Yacoub A",
+            affil str "Department of anesthesia, An-Najah National University
+ Hospital, Nablus, Palestine."
+          },
+          {
+            name ml "Mansour M",
+            affil str "Department of general surgery, Palestine medical
+ complex, Ramallah, Palestine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Health Serv Res",
+          ml-jta "BMC Health Serv Res",
+          issn "1472-6963",
+          name "BMC health services research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 8
+          },
+          volume "18",
+          issue "1",
+          pages "8",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 4,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29310633,
+        doi "10.1186/s12913-017-2814-y",
+        pii "10.1186/s12913-017-2814-y",
+        other {
+          db "pmc",
+          tag str "PMC5759221"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12913-017-2814-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Mortality data are essential for many aspects of
+ everyday public health practices at both national and international levels.
+ Despite the current developments in various aspects of the medical field, the
+ apparent inability of physicians to complete death notification forms (DNF)
+ accurately is still worldwide concern. The aim of this study is to assess the
+ physicians' knowledge and practice on completing the DNF. METHODS: A
+ self-administered questionnaire was distributed to 200 physicians in
+ governmental and non-governmental hospitals in the North West-Bank in
+ Palestine. Furthermore, a case scenario was included in the questionnaire and
+ physicians were asked to fill the cause of death section. The percentage of
+ errors committed while completing the cause of death section were computed. A
+ Chi square test was used to assess the association between physicians'
+ characteristics and their responses. RESULTS: Only 40.6% of the participants
+ completed the cause of death section correctly. The immediate and underlying
+ causes of death were correctly identified by 48.7% and 71.3% of physicians,
+ respectively. Almost one-fifth (17.3%) of physicians wrote the mechanism of
+ death without reporting the underlying cause of death and 14.7% of them
+ reported the sequence of events leading to death incorrectly. CONCLUSIONS:
+ Physicians' knowledge and practice on completing the DNF is poor and
+ insufficient, which may seriously affect the accuracy of mortality data.
+ Complicated cases, problems in the current design of the DNFs and lack of
+ training were the most common factors contributing to inaccuracy in death
+ certification. We recommend offering periodical training workshops on
+ completing the DNF to all physicians, and developing a manual on completing
+ the DNFs with clear instructions and guidelines.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        mp TRUE,
+        term "Death Certificates"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Health Knowledge, Attitudes, Practice"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Middle East",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Physicians",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 29310633,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

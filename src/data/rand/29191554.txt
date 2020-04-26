@@ -1,0 +1,255 @@
+
+Pubmed-entry ::= {
+  pmid 29191554,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Structure-based design, synthesis, and binding mode analysis of
+ novel and potent chymase inhibitors."
+      },
+      authors {
+        names std {
+          {
+            name ml "Futamura-Takahashi J",
+            affil str "Asubio Pharma Co., Ltd, 6-4-3 Minatojima-Minamimachi,
+ Chuo-ku, Kobe 650-0047, Japan. Electronic address:
+ futamura.junko.b6@asubio.co.jp."
+          },
+          {
+            name ml "Tanaka T",
+            affil str "Asubio Pharma Co., Ltd, 6-4-3 Minatojima-Minamimachi,
+ Chuo-ku, Kobe 650-0047, Japan."
+          },
+          {
+            name ml "Sugawara H",
+            affil str "Asubio Pharma Co., Ltd, 6-4-3 Minatojima-Minamimachi,
+ Chuo-ku, Kobe 650-0047, Japan."
+          },
+          {
+            name ml "Iwashita S",
+            affil str "Asubio Pharma Co., Ltd, 6-4-3 Minatojima-Minamimachi,
+ Chuo-ku, Kobe 650-0047, Japan."
+          },
+          {
+            name ml "Imajo S",
+            affil str "Asubio Pharma Co., Ltd, 6-4-3 Minatojima-Minamimachi,
+ Chuo-ku, Kobe 650-0047, Japan."
+          },
+          {
+            name ml "Oyama Y",
+            affil str "Asubio Pharma Co., Ltd, 6-4-3 Minatojima-Minamimachi,
+ Chuo-ku, Kobe 650-0047, Japan."
+          },
+          {
+            name ml "Muto T",
+            affil str "Asubio Pharma Co., Ltd, 6-4-3 Minatojima-Minamimachi,
+ Chuo-ku, Kobe 650-0047, Japan. Electronic address:
+ muto.tsuyoshi.ba@asubio.co.jp."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Bioorg. Med. Chem. Lett.",
+          ml-jta "Bioorg Med Chem Lett",
+          issn "1464-3405",
+          name "Bioorganic & medicinal chemistry letters"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 15
+          },
+          volume "28",
+          issue "2",
+          pages "188-192",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29191554,
+        pii "S0960-894X(17)31118-6",
+        doi "10.1016/j.bmcl.2017.11.031",
+        other {
+          db "ELocationID pii",
+          tag str "S0960-894X(17)31118-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bmcl.2017.11.031"
+        }
+      }
+    },
+    abstract "Based on insight from the X-ray crystal structure of human
+ chymase in complex with compound 1, a lactam carbonyl of the diazepane core
+ was exchanged with O-substituted oxyimino group, leading to amidoxime
+ derivatives. This modification resulted in highly potent chymase inhibitors,
+ such as O-phenylamidoxime 5f. X-ray crystal structure analysis indicated that
+ compound 5f induced movement of the Leu99 and Tyr94 side chains at the S2
+ site, and the increase in inhibitory activity of O-phenyl amidoxime
+ derivatives suggested that the O-phenyl moiety interacted with the Tyr94
+ residue. Surface plasmon resonance experiments showed that compound 5f had
+ slower association and dissociation kinetics and the calculated residence
+ time of compound 5f to human chymase was extended compared to that of amide
+ compound 1.",
+    mesh {
+      {
+        term "Binding Sites",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chymases",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        mp TRUE,
+        term "Drug Design"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Molecular Structure"
+      },
+      {
+        term "Oximes",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Serine Proteinase Inhibitors",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Structure-Activity Relationship"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Oximes"
+      },
+      {
+        type nameonly,
+        name "Serine Proteinase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "amidoxime"
+      },
+      {
+        type ec,
+        cit "3.4.21.39",
+        name "Chymases"
+      }
+    },
+    pmid 29191554,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,309 @@
+
+Pubmed-entry ::= {
+  pmid 28651737,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Higher neutrophil counts and neutrophil-to-lymphocyte ratio
+ predict prognostic outcomes in patients after non-atrial fibrillation-caused
+ ischemic stroke."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fang YN",
+            affil str "Division of Cardiology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Tong MS",
+            affil str "Division of Cardiology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Sung PH",
+            affil str "Division of Cardiology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Chen YL",
+            affil str "Division of Cardiology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Chen CH",
+            affil str "Division of General Medicine, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Tsai NW",
+            affil str "Department of Neurology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Huang CJ",
+            affil str "Department of Neurology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Chang YT",
+            affil str "Department of Neurology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Chen SF",
+            affil str "Department of Neurology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Chang WN",
+            affil str "Department of Neurology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Lu CH",
+            affil str "Department of Neurology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Yip HK",
+            affil str "Division of Cardiology, Department of Internal
+ Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+ College of Medicine, Kaohsiung, Taiwan; Institute for Translational Research
+ in Biomedicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung
+ University College of Medicine, Kaohsiung, Taiwan; Center for Shockwave
+ Medicine and Tissue Engineering, Kaohsiung Chang Gung Memorial Hospital and
+ Chang Gung University College of Medicine, Kaohsiung, Taiwan; Department of
+ Medical Research, China Medical University Hospital, China Medical
+ University, Taichung, Taiwan; Department of Nursing, Asia University,
+ Taichung, Taiwan. Electronic address: han.gung@msa.hinet.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed J",
+          ml-jta "Biomed J",
+          issn "2320-2890",
+          name "Biomedical journal"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "40",
+          issue "3",
+          pages "154-162",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 16
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 2,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 2
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28651737,
+        pii "S2319-4170(16)30126-3",
+        doi "10.1016/j.bj.2017.03.002",
+        other {
+          db "pmc",
+          tag str "PMC6136280"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S2319-4170(16)30126-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bj.2017.03.002"
+        }
+      }
+    },
+    abstract "BACKGROUND: We aimed to determine whether higher neutrophil
+ counts (NC) and neutrophil-to-lymphocyte ratio (NLR) were independently
+ predictive of worse in-hospital outcome in patients after acute ischemic
+ stroke (IS). METHODS: A retrospective observational study with prospective
+ manner of IS registration. Between April 2012 and August 2014, a total number
+ of 1731 patients with post-IS were consecutively enrolled in the study. Blood
+ samples were drawn upon admission. Primary endpoint was in-hospital
+ mortality. Secondary endpoint was severe stroke (>/=16 NIHSS). RESULTS: The
+ NC progressively increased from mild (NIHSS </= 5) to moderate (NIHSS >/= 6 <
+ 16) and severe (NIHSS >/= 16) stroke (p = 0.006). NLR was independently
+ associated with in-hospital mortality (p = 0.002). Multiple stepwise linear
+ regression analysis showed that NC (p = 0.001) and NLR (p = 0.002) were
+ independently predictive of higher NIHSS. Multiple stepwise logistic
+ regression analysis showed that NC was independently associated with severe
+ stroke (p < 0.0001). The best discriminating factor for in-hospital mortality
+ with respect to NLR was >/=3.20 (sensitivity 62.7%, specificity 60.3%,
+ likelihood ratio: 12.2). Patients with NLR >/=3.20 had a 2.55-fold increased
+ risk for in-hospital mortality (OR = 1.49-4.37) compared to patients with NLR
+ <3.20. The best discriminating factor for severe stroke (>/=16 NIHSS) with
+ respect to NC was >/=74% (sensitivity 47.1%, specificity 74.0%, likelihood
+ ratio: 29.0). Patients with NC >74% had a 2.54-fold increased risk of severe
+ stroke (OR = 1.82-3.54) compared to patients with NC <74%. CONCLUSION: NLR
+ was independently associated with in-hospital mortality and higher NC was
+ independently predictive of severe stroke.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Brain Ischemia",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hospital Mortality"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Leukocyte Count"
+      },
+      {
+        term "Lymphocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neutrophils",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Predictive Value of Tests"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Stroke",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    pmid 28651737,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

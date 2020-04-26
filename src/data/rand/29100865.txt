@@ -1,0 +1,281 @@
+
+Pubmed-entry ::= {
+  pmid 29100865,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Clinical Phenotypes of Nasal Polyps and Comorbid Asthma Based on
+ Cluster Analysis of Disease History."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wu D",
+            affil str "The Department of Otorhinolaryngology, Beijing Anzhen
+ Hospital, Capital Medical University, Beijing, PR China."
+          },
+          {
+            name ml "Bleier BS",
+            affil str "The Department of Otolaryngology, Massachusetts Eye and
+ Ear Infirmary, Harvard Medical School, Boston, Mass."
+          },
+          {
+            name ml "Li L",
+            affil str "The Department of Respiratory Diseases, Peking Union
+ Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union
+ Medical College, Beijing, PR China."
+          },
+          {
+            name ml "Zhan X",
+            affil str "The Department of Otorhinolaryngology, Beijing Anzhen
+ Hospital, Capital Medical University, Beijing, PR China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "The Department of Otorhinolaryngology, Beijing Anzhen
+ Hospital, Capital Medical University, Beijing, PR China."
+          },
+          {
+            name ml "Lv Q",
+            affil str "The Department of Otorhinolaryngology, Beijing Anzhen
+ Hospital, Capital Medical University, Beijing, PR China."
+          },
+          {
+            name ml "Wang J",
+            affil str "The Department of Otorhinolaryngology, Beijing Chaoyang
+ Hospital, Capital Medical University, Beijing, PR China."
+          },
+          {
+            name ml "Wei Y",
+            affil str "The Department of Otorhinolaryngology, Beijing Anzhen
+ Hospital, Capital Medical University, Beijing, PR China. Electronic address:
+ yongxw67@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Allergy Clin Immunol Pract",
+          ml-jta "J Allergy Clin Immunol Pract",
+          issn "2213-2201",
+          name "The journal of allergy and clinical immunology. In practice"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "6",
+          issue "4",
+          pages "1297-1305.e1",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29100865,
+        pii "S2213-2198(17)30746-8",
+        doi "10.1016/j.jaip.2017.09.020",
+        other {
+          db "ELocationID pii",
+          tag str "S2213-2198(17)30746-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jaip.2017.09.020"
+        }
+      }
+    },
+    abstract "BACKGROUND: Nasal polyps and comorbid asthma (NPcA) is a common
+ united airway disease and is highly heterogeneous with respect to clinical,
+ physiologic, and pathologic parameters. The clinical phenotypes of NPcA are
+ poorly understood. OBJECTIVE: We sought to explore clinical phenotypes in
+ patients with NPcA. METHODS: Patients first diagnosed with NPcA were
+ recruited from Rhinological Clinics and Respiratory Clinics. We clustered
+ patients with NPcA based on parameters regarding natural courses and
+ demographic characteristics. Patients were also evaluated with respect to
+ clinical, functional, and inflammatory parameters in both upper and lower
+ airways. RESULTS: Clustering of 110 cases resulted in 3 clusters: cluster 1
+ (n = 16, 14.55%, atopic NPcA) was predominantly atopic patients with
+ child-onset airway symptoms, intermediate disease duration, history of family
+ asthma, better lung function, and less severe asthma; cluster 2 (n = 32,
+ 29.09%, smoking NPcA) was characterized by more smokers, short disease
+ duration, adult-onset airway symptoms, less atopy, nonsteroidal
+ anti-inflammatory drug sensitivity, prior sinus surgery history, eosinophilic
+ airway phenotypes, worse lung function, and severe computed tomography
+ appearance; and cluster 3 (n = 62, 56.36%, older NPcA) consisted mostly of
+ older patients with long disease duration, adult-onset airway symptoms, less
+ atopy, more noneosinophilic airway phenotypes, and prior sinus surgery
+ history. CONCLUSIONS: Patients with NPcA with 3 distinct natural courses had
+ different inflammatory status and disease severity. Determining the natural
+ course of a patient might help clinicians predict the clinical aspects of
+ NPcA and contribute to phenotype-guided management approaches in the future.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        mp TRUE,
+        term "Asthma",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Cluster Analysis"
+      },
+      {
+        term "Comorbidity"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Nasal Mucosa",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Nasal Polyps",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Paranasal Sinuses",
+        qual {
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Respiratory Function Tests"
+      },
+      {
+        term "Tomography, X-Ray Computed"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29100865,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

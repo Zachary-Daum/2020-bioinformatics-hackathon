@@ -1,0 +1,116 @@
+
+Pubmed-entry ::= {
+  pmid 28445353,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Discussion: Consensus Review of Optimal Perioperative Care in
+ Breast Reconstruction: Enhanced Recovery after Surgery (ERAS) Society
+ Recommendations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lin SJ",
+            affil str "Boston, Mass. From the Division of Plastic Surgery,
+ Beth Israel Deaconess Medical Center, Harvard Medical School."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Plast. Reconstr. Surg.",
+          ml-jta "Plast Reconstr Surg",
+          issn "1529-4242",
+          name "Plastic and reconstructive surgery"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "139",
+          issue "5",
+          pages "1072e-1073e",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28445353,
+        doi "10.1097/PRS.0000000000003292",
+        pii "00006534-201705000-00010",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/PRS.0000000000003292"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Consensus"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Length of Stay"
+      },
+      {
+        term "Mammaplasty"
+      },
+      {
+        mp TRUE,
+        term "Perioperative Care"
+      }
+    },
+    pmid 28445353,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,188 @@
+
+Pubmed-entry ::= {
+  pmid 28859019,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Age-Specific Antibiotic Prescribing and Adherence to Guidelines
+ in Pediatric Patients in Primary Care."
+      },
+      authors {
+        names ml {
+          "Ivanovska V",
+          "Hek K",
+          "Mantel-Teeuwisse AK",
+          "Leufkens HGM",
+          "van Dijk L"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pediatr. Infect. Dis. J.",
+          ml-jta "Pediatr Infect Dis J",
+          issn "1532-0987",
+          name "The Pediatric infectious disease journal"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "37",
+          issue "3",
+          pages "218-223",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28859019,
+        doi "10.1097/INF.0000000000001757",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/INF.0000000000001757"
+        }
+      }
+    },
+    abstract "BACKGROUND: Most antibiotics in children are used to treat viral
+ and self-limiting conditions. This study aims to compare physicians'
+ adherence to guidelines on antibiotic prescribing in fever and in ear and
+ respiratory infections to children in different age groups in the
+ Netherlands. METHODS: Data were used from the NIVEL Primary Care Database.
+ For all pediatric episodes of fever, acute otitis media (AOM), streptococcal
+ pharyngitis (strep throat), sinusitis, acute tonsillitis, acute
+ bronchitis/bronchiolitis and pneumonia in 2012, we determined whether
+ national guidelines were followed with regard to whether an antibiotic was
+ prescribed, and the type of antibiotic. RESULTS: For diagnoses that generally
+ do not require antibiotics, more prescriptions were found in adolescents'
+ episodes compared with children 0-4 and 5-11 years of age, respectively,
+ (bronchitis: 52.0% versus 42.4% and 42.7%, and fever: 16.8% versus 9.0% and
+ 14.2%). The same was true for diagnoses that require antibiotics (strep
+ throat: 76.5% versus 55.0% and 49.5%, pneumonia: 71.6% versus 60.2% and 69.8%
+ and tonsillitis: 57.8% versus 54.8% and 49.7%), except for AOM (43.9% versus
+ 52.4% and 39.6%). First-choice amoxicillin was prescribed more frequently in
+ children 0-4 years of age than in age groups 5-11 and 11-17 years (AOM: 88.0%
+ versus 83.2% and 81.8%, and pneumonia:74.7% versus 57.2% and 53.8%).
+ First-choice narrow-spectrum penicillins were prescribed more often in
+ adolescents than in age groups 0-4 and 5-11 years (strep throat: 72.0% versus
+ 63.6%, and 60.9% and tonsillitis: 67.9% versus 33.1 and 45.9%). CONCLUSIONS:
+ Concerning adherence patterns include high antibiotic rates for bronchitis,
+ particularly in adolescents, and underuse of narrow-spectrum penicillins in
+ the 0-4 years group.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Age Factors"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Antimicrobial Stewardship"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        mp TRUE,
+        term "Drug Prescriptions"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Guideline Adherence"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inappropriate Prescribing"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Practice Patterns, Physicians'"
+      },
+      {
+        mp TRUE,
+        term "Primary Health Care"
+      },
+      {
+        term "Public Health Surveillance"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      }
+    },
+    pmid 28859019,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

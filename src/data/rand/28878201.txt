@@ -1,0 +1,196 @@
+
+Pubmed-entry ::= {
+  pmid 28878201,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Protein Complexes Prediction Method Based on Core-Attachment
+ Structure and Functional Annotations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li B",
+            affil str "College of Computer Science and Electronic Engineering,
+ Hunan University, Changsha 410082, China. nonegenius@hnu.edu.cn."
+          },
+          {
+            name ml "Liao B",
+            affil str "College of Computer Science and Electronic Engineering,
+ Hunan University, Changsha 410082, China. dragonbw@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Mol Sci",
+          ml-jta "Int J Mol Sci",
+          issn "1422-0067",
+          name "International journal of molecular sciences"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9,
+            day 6
+          },
+          volume "18",
+          issue "9",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 8,
+                day 31
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28878201,
+        pii "ijms18091910",
+        doi "10.3390/ijms18091910",
+        other {
+          db "pmc",
+          tag str "PMC5618559"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E1910"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijms18091910"
+        }
+      }
+    },
+    abstract "Recent advances in high-throughput laboratory techniques
+ captured large-scale protein-protein interaction (PPI) data, making it
+ possible to create a detailed map of protein interaction networks, and thus
+ enable us to detect protein complexes from these PPI networks. However, most
+ of the current state-of-the-art studies still have some problems, for
+ instance, incapability of identifying overlapping clusters, without
+ considering the inherent organization within protein complexes, and
+ overlooking the biological meaning of complexes. Therefore, we present a
+ novel overlapping protein complexes prediction method based on
+ core-attachment structure and function annotations (CFOCM), which performs in
+ two stages: first, it detects protein complex cores with the maximum value of
+ our defined cluster closeness function, in which the proteins are also
+ closely related to at least one common function. Then it appends attach
+ proteins into these detected cores to form the returned complexes. For
+ performance evaluation, CFOCM and six classical methods have been used to
+ identify protein complexes on three different yeast PPI networks, and three
+ sets of real complexes including the Munich Information Center for Protein
+ Sequences (MIPS), the Saccharomyces Genome Database (SGD) and the Catalogues
+ of Yeast protein Complexes (CYC2008) are selected as benchmark sets, and the
+ results show that CFOCM is indeed effective and robust for achieving the
+ highest F-measure values in all tests.",
+    mesh {
+      {
+        mp TRUE,
+        term "Algorithms"
+      },
+      {
+        term "Cluster Analysis"
+      },
+      {
+        term "Computational Biology"
+      },
+      {
+        term "Databases, Protein"
+      },
+      {
+        term "Protein Interaction Mapping"
+      },
+      {
+        term "Protein Interaction Maps"
+      },
+      {
+        term "Saccharomyces cerevisiae",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Saccharomyces cerevisiae Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Saccharomyces cerevisiae Proteins"
+      }
+    },
+    pmid 28878201,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

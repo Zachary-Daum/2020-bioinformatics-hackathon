@@ -1,0 +1,97 @@
+
+Pubmed-entry ::= {
+  pmid 29206682,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Research Artifact-Real or Not? Only the Discussion Can Tell Us
+ for Sure."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hinds PS",
+            affil str "Executive Director, Department of Nursing Science,
+ Professional Practice, and Quality The William and Joanne Conway Nursing
+ Research Chair Professor, Department of Pediatrics, School of Medicine &
+ Health Sciences, The George Washington University, Washington, DC."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cancer Nurs",
+          ml-jta "Cancer Nurs",
+          issn "1538-9804",
+          name "Cancer nursing"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "41",
+          issue "1",
+          pages "1",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 6,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29206682,
+        doi "10.1097/NCC.0000000000000561",
+        pii "00002820-201801000-00001",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/NCC.0000000000000561"
+        }
+      }
+    },
+    pmid 29206682,
+    pub-type {
+      "Editorial"
+    },
+    status premedline
+  }
+}
+
+

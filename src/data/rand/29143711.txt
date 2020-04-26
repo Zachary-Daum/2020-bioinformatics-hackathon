@@ -1,0 +1,170 @@
+
+Pubmed-entry ::= {
+  pmid 29143711,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Defining the breeding goal for a sheep breed including
+ production and functional traits using market data."
+      },
+      authors {
+        names std {
+          {
+            name ml "Theodoridis A",
+            affil str "1School of Veterinary Medicine,Aristotle University of
+ Thessaloniki,54124,Thessaloniki,Greece."
+          },
+          {
+            name ml "Ragkos A",
+            affil str "2Agricultural Economics Research Institute,ELGO
+ Demeter,Terma Alkmanos Str. 11528,Athens,Greece."
+          },
+          {
+            name ml "Rose G",
+            affil str "1School of Veterinary Medicine,Aristotle University of
+ Thessaloniki,54124,Thessaloniki,Greece."
+          },
+          {
+            name ml "Roustemis D",
+            affil str "3Center of Animal Genetic Improvement,57011,Nea
+ Mesimvria,Greece."
+          },
+          {
+            name ml "Arsenos G",
+            affil str "1School of Veterinary Medicine,Aristotle University of
+ Thessaloniki,54124,Thessaloniki,Greece."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Animal",
+          ml-jta "Animal",
+          issn "1751-732X",
+          name "Animal : an international journal of animal bioscience"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "12",
+          issue "7",
+          pages "1508-1515",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29143711,
+        pii "S1751731117003007",
+        doi "10.1017/S1751731117003007",
+        other {
+          db "ELocationID doi",
+          tag str "10.1017/S1751731117003007"
+        }
+      }
+    },
+    abstract "In this study, the economic values for production and functional
+ traits of dairy sheep are estimated through the application of a profit
+ function model using farm-level technical and economic data. The traits
+ incorporated in the model were milk production, prolificacy, fertility,
+ milking speed, longevity and mastitis occurrence. The economic values for
+ these traits were derived as the approximate partial derivative of the
+ specified profit function. A sensitivity analysis was also conducted in order
+ to examine how potential changes in input and output prices would affect the
+ breeding goal. The estimated economic values of the traits revealed their
+ economic impact on the definition of the breeding goal for the specified
+ production system. Milk production and fertility had the highest economic
+ values (euro40.30 and euro20.28 per standard genetic deviation (SDa)), while,
+ mastitis only had a low negative value of -0.57 euro/SDa. Therefore, breeding
+ for clinical mastitis will have a minor impact on farm profitability because
+ it affects a small proportion of the flock and has low additive variance. The
+ production traits, which include milk production, prolificacy and milking
+ speed, contributed most to the breeding goal (70.0%), but functional traits
+ still had a considerable share (30.0%). The results of this study highlight
+ the importance of the knowledge of economic values of traits in the design of
+ a breeding program. It is also suggested that the production and functional
+ traits under consideration can be categorized as those which can be
+ efficiently treated through genetic improvement (e.g. milk production and
+ fertility) while others would be better dealt with through managerial
+ interventions (e.g. mastitis occurrence). Also, sub-clinical mastitis that
+ affects a higher proportion of flocks could have a higher contribution to
+ breeding goals.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Breeding"
+      },
+      {
+        mp TRUE,
+        term "Dairying"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Goals"
+      },
+      {
+        term "Milk"
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        mp TRUE,
+        term "Sheep"
+      }
+    },
+    pmid 29143711,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

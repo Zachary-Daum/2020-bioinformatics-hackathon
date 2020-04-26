@@ -1,0 +1,240 @@
+
+Pubmed-entry ::= {
+  pmid 29317076,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Environmental factors influencing the link between childhood
+ ADHD and risk of adult coronary artery disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fluegge K",
+            affil str "Institute of Health and Environmental Research,
+ Cleveland, OH 44118, USA. Electronic address: keithfluegge@gmail.com."
+          },
+          {
+            name ml "Fluegge K",
+            affil str "Institute of Health and Environmental Research,
+ Cleveland, OH 44118, USA; New York City Department of Health and Mental
+ Hygiene, New York 11101-4132 USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Med. Hypotheses",
+          ml-jta "Med Hypotheses",
+          issn "1532-2777",
+          name "Medical hypotheses"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "110",
+          pages "83-85",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 14
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29317076,
+        pii "S0306-9877(17)30839-3",
+        doi "10.1016/j.mehy.2017.11.007",
+        other {
+          db "ELocationID pii",
+          tag str "S0306-9877(17)30839-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.mehy.2017.11.007"
+        }
+      }
+    },
+    abstract "Yorbik et al. reported novel findings regarding a hypothesized
+ relationship between childhood attention-deficit hyperactivity disorder
+ (ADHD) and later risk for coronary heart disease in adulthood. The authors
+ found that mean platelet volume (MPV), a marker of platelet reactivity and a
+ presumable biomarker in patients with cardiovascular disease, was
+ significantly elevated in children with ADHD compared to healthy controls.
+ The mechanistic importance of this novel discovery remains unknown and
+ warrants clarification. We have made the novel proposition that environmental
+ exposure to the agricultural and combustion air pollutant, nitrous oxide
+ (N2O), may be an etiological contributor to neurodevelopmental disorders.
+ Clinical studies suggest that N2O may enhance platelet hyperaggregation,
+ possibly via its biphasic role as an MAO inhibitor especially at trace levels
+ of exposure or via the generation of oxidative stress. Therefore, this
+ correspondence briefly details the hypothesis that altered biochemical
+ profiles in neurodevelopmental disorders, derived from chronic environmental
+ exposure to the agricultural and combustion air pollutant, N2O, may promote
+ coronary artery disease in adulthood.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Air Pollutants",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Apelin",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Attention Deficit Disorder with Hyperactivity",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Coronary Artery Disease",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Environmental Exposure",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mean Platelet Volume"
+      },
+      {
+        term "Models, Biological"
+      },
+      {
+        term "Nitrous Oxide",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Platelet Aggregation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Risk Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "APLN protein, human"
+      },
+      {
+        type nameonly,
+        name "Air Pollutants"
+      },
+      {
+        type nameonly,
+        name "Apelin"
+      },
+      {
+        type cas,
+        cit "K50XQU1029",
+        name "Nitrous Oxide"
+      }
+    },
+    pmid 29317076,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

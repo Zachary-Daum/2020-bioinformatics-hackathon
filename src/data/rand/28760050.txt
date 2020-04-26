@@ -1,0 +1,197 @@
+
+Pubmed-entry ::= {
+  pmid 28760050,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Inside-out: the role of anger experience and expression in the
+ development of postpartum mood disorders."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bruno A",
+            affil str "a Psychiatry Unit, Department of Biomedical and Dental
+ Sciences and Morphofunctional Imaging , University of Messina , Messina ,
+ Italy."
+          },
+          {
+            name ml "Lagana AS",
+            affil str "b Unit of Gynecology and Obstetrics, Department of
+ Human Pathology in Adulthood and Childhood ""G. Barresi"" , University of
+ Messina , Messina , Italy."
+          },
+          {
+            name ml "Leonardi V",
+            affil str "a Psychiatry Unit, Department of Biomedical and Dental
+ Sciences and Morphofunctional Imaging , University of Messina , Messina ,
+ Italy."
+          },
+          {
+            name ml "Greco D",
+            affil str "a Psychiatry Unit, Department of Biomedical and Dental
+ Sciences and Morphofunctional Imaging , University of Messina , Messina ,
+ Italy."
+          },
+          {
+            name ml "Merlino M",
+            affil str "a Psychiatry Unit, Department of Biomedical and Dental
+ Sciences and Morphofunctional Imaging , University of Messina , Messina ,
+ Italy."
+          },
+          {
+            name ml "Vitale SG",
+            affil str "b Unit of Gynecology and Obstetrics, Department of
+ Human Pathology in Adulthood and Childhood ""G. Barresi"" , University of
+ Messina , Messina , Italy."
+          },
+          {
+            name ml "Triolo O",
+            affil str "b Unit of Gynecology and Obstetrics, Department of
+ Human Pathology in Adulthood and Childhood ""G. Barresi"" , University of
+ Messina , Messina , Italy."
+          },
+          {
+            name ml "Zoccali RA",
+            affil str "a Psychiatry Unit, Department of Biomedical and Dental
+ Sciences and Morphofunctional Imaging , University of Messina , Messina ,
+ Italy."
+          },
+          {
+            name ml "Muscatello MRA",
+            affil str "a Psychiatry Unit, Department of Biomedical and Dental
+ Sciences and Morphofunctional Imaging , University of Messina , Messina ,
+ Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Matern. Fetal. Neonatal. Med.",
+          ml-jta "J Matern Fetal Neonatal Med",
+          issn "1476-4954",
+          name "The journal of maternal-fetal & neonatal medicine : the
+ official journal of the European Association of Perinatal Medicine, the
+ Federation of Asia and Oceania Perinatal Societies, the International Society
+ of Perinatal Obstetricians"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "31",
+          issue "22",
+          pages "3033-3038",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28760050,
+        doi "10.1080/14767058.2017.1362554",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/14767058.2017.1362554"
+        }
+      }
+    },
+    abstract "PURPOSE: Among negative emotions, anger has not been studied in
+ as much depth in her connection to postpartum mood disorders. The study aimed
+ to investigate the role of anger as a potential vulnerability factor
+ increasing the risk of Maternity Blues (MB) and Postpartum Depression (PPD).
+ MATERIALS AND METHODS: Pregnant women in their third trimester of pregnancy
+ underwent the following tests: the State Trait Anger Expression Inventory 2 -
+ STAXI-2 (baseline visit), the Blues Questionnaire -BQ (3 and 5 days after
+ delivery), and the Edinburgh Postnatal Depression Scale (EPDS) (3 and 6
+ months following delivery). RESULTS: One hundred ten subjects were included
+ in this study. The prevalence rate of mothers with MB was about 35%, whereas
+ about 4% of women developed a PPD. Significant positive correlations were
+ found among State anger (SANG), Trait anger (TANG), anger expression out
+ (AXO) and in (AXI) and postpartum depressive disorders, as measured by blues
+ questionnaire (BQ) and EPDS. CONCLUSIONS: Anger experience and expression can
+ be considered as vulnerability factors for postpartum mood disorders onset.
+ Particularly, the expression of angry feelings toward other persons or
+ objects in the environment (AXO) predicts the onset of MB, whereas holding in
+ or suppressing angry feelings (AXI) could be a risk factor for subsequent PPD.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Anger"
+      },
+      {
+        term "Depression, Postpartum",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Psychometrics"
+      }
+    },
+    pmid 28760050,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

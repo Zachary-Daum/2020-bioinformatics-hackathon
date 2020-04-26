@@ -1,0 +1,272 @@
+
+Pubmed-entry ::= {
+  pmid 29248100,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Complex iliocaval endovascular recanalization combined with
+ thrombolysis for extensive acute deep venous thrombosis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Erben Y",
+            affil str "Section of Vascular and Endovascular Surgery, Yale
+ University, New Haven, Conn. Electronic address: young.erben@yale.edu."
+          },
+          {
+            name ml "Mojibian H",
+            affil str "Department of Radiology, Division of Interventional
+ Radiology, Yale University, New Haven, Conn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Vasc Surg Venous Lymphat Disord",
+          ml-jta "J Vasc Surg Venous Lymphat Disord",
+          issn "2213-3348",
+          name "Journal of vascular surgery. Venous and lymphatic disorders"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "6",
+          issue "1",
+          pages "107-108",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 31
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 13
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29248100,
+        pii "S2213-333X(17)30261-5",
+        doi "10.1016/j.jvsv.2017.05.018",
+        other {
+          db "ELocationID pii",
+          tag str "S2213-333X(17)30261-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jvsv.2017.05.018"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Acute Disease"
+      },
+      {
+        term "Administration, Oral"
+      },
+      {
+        mp TRUE,
+        term "Angioplasty, Balloon",
+        qual {
+          {
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Anticoagulants",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Combined Modality Therapy"
+      },
+      {
+        term "Computed Tomography Angiography"
+      },
+      {
+        term "Fibrinolytic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lower Extremity",
+        qual {
+          {
+            mp TRUE,
+            subh "blood supply"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Phlebography",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Stents"
+      },
+      {
+        term "Stockings, Compression"
+      },
+      {
+        mp TRUE,
+        term "Thrombolytic Therapy"
+      },
+      {
+        term "Tissue Plasminogen Activator",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Vascular Malformations",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Vascular Patency"
+      },
+      {
+        term "Vena Cava, Inferior",
+        qual {
+          {
+            mp TRUE,
+            subh "abnormalities"
+          },
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Venous Thrombosis",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anticoagulants"
+      },
+      {
+        type nameonly,
+        name "Fibrinolytic Agents"
+      },
+      {
+        type ec,
+        cit "3.4.21.68",
+        name "Tissue Plasminogen Activator"
+      }
+    },
+    pmid 29248100,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

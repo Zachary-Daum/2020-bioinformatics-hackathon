@@ -1,0 +1,257 @@
+
+Pubmed-entry ::= {
+  pmid 29331898,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Coadsorption and subsequent redox conversion behaviors of
+ As(III) and Cr(VI) on Al-containing ferrihydrite."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ding Z",
+            affil str "School of Environmental Science and Engineering and
+ Institute of Environmental Health and Pollution Control, Guangdong University
+ of Technology, Guangzhou 510006, China."
+          },
+          {
+            name ml "Fu F",
+            affil str "School of Environmental Science and Engineering and
+ Institute of Environmental Health and Pollution Control, Guangdong University
+ of Technology, Guangzhou 510006, China. Electronic address:
+ fufenglian2006@163.com."
+          },
+          {
+            name ml "Dionysiou DD",
+            affil str "Environmental Engineering and Science Program,
+ Department of Biomedical, Chemical and Environmental Engineering (DBCEE),
+ University of Cincinnati, OH 45221-0012, USA."
+          },
+          {
+            name ml "Tang B",
+            affil str "School of Environmental Science and Engineering and
+ Institute of Environmental Health and Pollution Control, Guangdong University
+ of Technology, Guangzhou 510006, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ. Pollut.",
+          ml-jta "Environ Pollut",
+          issn "1873-6424",
+          name "Environmental pollution (Barking, Essex : 1987)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "235",
+          pages "660-669",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29331898,
+        pii "S0269-7491(17)33833-2",
+        doi "10.1016/j.envpol.2017.12.118",
+        other {
+          db "ELocationID pii",
+          tag str "S0269-7491(17)33833-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.envpol.2017.12.118"
+        }
+      }
+    },
+    abstract "Naturally occurring ferrihydrite often contains various
+ impurities, and Al is one of the most prominent impurities. However, little
+ is known about how these impurities impact the physical and chemical
+ properties of ferrihydrite with respect to metal(loid) adsorption. In this
+ study, a series of Al-containing ferrihydrites were synthesized and exposed
+ to a mixed solution containing As(III) and Cr(VI). The results showed that
+ the two contaminants can be quickly adsorbed onto the surface of
+ Al-containing ferrihydrite under acidic and neutral conditions. With the
+ increase of Al molar percentage in ferrihydrites from 0 to 30, the adsorption
+ capacity of As(III) decreased, whereas it increased for Cr(VI). On the other
+ hand, with the increase of pH value from 3.0 to 11.0, the decreasing rate of
+ As(III) was accelerated first, then slowed down, whereas the Cr(VI)
+ decreasing rate slowed down dramatically. X-ray diffraction (XRD),
+ Brunauer-Emmett-Teller (BET) analysis method, transmission electron
+ microscopy (TEM) analysis, energy dispersive spectroscopy (EDS) mapping,
+ Attenuated Total Reflectance Fourier Transform Infrared Spectroscopy
+ (ATR-FTIR), and X-ray photoelectron spectroscopy (XPS) were employed to
+ characterize Al-containing ferrihydrite. Interestingly, it was found that the
+ redox transformation occurred between As(III) and Cr(VI) after the two
+ contaminants were coadsorbed onto the surface of Al-containing ferrihydrite.
+ The oxidation of As(III) to As(V) and reduction of Cr(VI) to Cr(III) would
+ greatly lower the environmental hazard of the As(III) and Cr(VI).",
+    mesh {
+      {
+        term "Adsorption"
+      },
+      {
+        term "Aluminum",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Arsenic",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Chromium",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Ferric Compounds",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Hydrogen-Ion Concentration"
+      },
+      {
+        term "Microscopy, Electron, Transmission"
+      },
+      {
+        term "Oxidation-Reduction"
+      },
+      {
+        term "Photoelectron Spectroscopy"
+      },
+      {
+        term "Spectrometry, X-Ray Emission"
+      },
+      {
+        term "Spectroscopy, Fourier Transform Infrared"
+      },
+      {
+        term "X-Ray Diffraction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ferric Compounds"
+      },
+      {
+        type cas,
+        cit "0R0008Q3JB",
+        name "Chromium"
+      },
+      {
+        type cas,
+        cit "18540-29-9",
+        name "chromium hexavalent ion"
+      },
+      {
+        type cas,
+        cit "87PZU03K0K",
+        name "ferric oxyhydroxide"
+      },
+      {
+        type cas,
+        cit "CPD4NFA903",
+        name "Aluminum"
+      },
+      {
+        type cas,
+        cit "N712M78A8G",
+        name "Arsenic"
+      }
+    },
+    pmid 29331898,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

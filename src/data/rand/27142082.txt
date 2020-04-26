@@ -1,0 +1,262 @@
+
+Pubmed-entry ::= {
+  pmid 27142082,
+  medent {
+    em std {
+      year 2016,
+      month 5,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Functional mobility and its contributing factors for older
+ adults in different cities in Taiwan."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lin SI",
+            affil str "Department of Physical Therapy, National Cheng Kung
+ University, Tainan, Taiwan."
+          },
+          {
+            name ml "Lee HC",
+            affil str "Department of Physical Therapy and Assistive
+ Technology, National Yang-Ming University, Taipei, Taiwan."
+          },
+          {
+            name ml "Chang KC",
+            affil str "Division of Cerebrovascular Diseases, Department of
+ Neurology, Chang Gung Memorial Hospital, Kaohsiung, Taiwan."
+          },
+          {
+            name ml "Yang YC",
+            affil str "Department of Family Medicine, National Cheng Kung
+ University, Tainan, Taiwan."
+          },
+          {
+            name ml "Tsauo JY",
+            affil str "School and Graduate Institute of Physical Therapy,
+ National Taiwan University, Taipei, Taiwan. Electronic address:
+ jytsauo@ntu.edu.tw."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Formos. Med. Assoc.",
+          ml-jta "J Formos Med Assoc",
+          issn "0929-6646",
+          name "Journal of the Formosan Medical Association = Taiwan yi zhi"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2
+          },
+          volume "116",
+          issue "2",
+          pages "72-79",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2013,
+                month 8,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 1,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 1,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 5,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 5,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27142082,
+        pii "S0929-6646(16)00052-8",
+        doi "10.1016/j.jfma.2016.01.011",
+        other {
+          db "ELocationID pii",
+          tag str "S0929-6646(16)00052-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jfma.2016.01.011"
+        }
+      }
+    },
+    abstract "BACKGROUND/PURPOSE: Impaired mobility is one of the primary
+ causes of declined functional capacity in old age. The timed up-and-go test
+ (TUG), a common mobility test, has been studied extensively in Western
+ countries. The purposes of this study were to compare and identify factors
+ associated with TUG performance in older adults with impaired mobility and
+ living in different cities in Taiwan. METHODS: Older adults living in Taipei,
+ Tainan, and Niaosong cities were screened for mobility impairments and then
+ recruited. A series of questionnaires and physical and functional tests were
+ used to obtain information and measurements for potential contributing
+ factors and TUG. Regression analysis was conducted to determine factors
+ contributing to TUG. RESULTS: A total of 413 older adults participated in the
+ study. The mean TUG was 14.3 seconds for participants across the three
+ cities, and was significantly shorter in Tainan. Age, number of medications,
+ fear of falling, depression, high intensity activity time, reaction time,
+ single leg stance time, and functional reach distance were found to have
+ significant contribution. These factors accounted for approximately half of
+ the variance in TUG. The regression equations were not equal for the
+ different cities, with depression being the only common determinant.
+ CONCLUSION: Taiwanese older adults with mobility problems living in different
+ cities performed differently in TUG and the contributing factors were also
+ different. These findings indicate a need of further studies examining older
+ adults in different environments.",
+    mesh {
+      {
+        term "Accidental Falls",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Activities of Daily Living"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Aging",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Chronic Disease",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Cities",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        mp TRUE,
+        term "Environment"
+      },
+      {
+        term "Fear",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Geriatric Assessment",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Mobility Limitation"
+      },
+      {
+        term "Regression Analysis"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Taiwan"
+      }
+    },
+    pmid 27142082,
+    pub-type {
+      "Comparative Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

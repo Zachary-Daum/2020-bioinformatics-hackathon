@@ -1,0 +1,202 @@
+
+Pubmed-entry ::= {
+  pmid 29393854,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Rare Cause of Paraplegia: Myeloid Sarcoma"
+      },
+      authors {
+        names std {
+          {
+            name ml "Arslantas E",
+            affil str "University of Health Sciences, Kanuni Sultan Suleyman
+ Traning and Research Hospital, Clinic of Pediatric Hematology and Oncology,
+ Istanbul, Turkey"
+          },
+          {
+            name ml "Bayram C",
+            affil str "University of Health Sciences, Kanuni Sultan Suleyman
+ Traning and Research Hospital, Clinic of Pediatric Hematology and Oncology,
+ Istanbul, Turkey"
+          },
+          {
+            name ml "Odaman Al I",
+            affil str "University of Health Sciences, Kanuni Sultan Suleyman
+ Traning and Research Hospital, Clinic of Pediatric Hematology and Oncology,
+ Istanbul, Turkey"
+          },
+          {
+            name ml "Uysalol E",
+            affil str "University of Health Sciences, Kanuni Sultan Suleyman
+ Traning and Research Hospital, Clinic of Pediatric Hematology and Oncology,
+ Istanbul, Turkey"
+          },
+          {
+            name ml "Iribas A",
+            affil str "Istanbul University Institute of Oncology, Department
+ of Radiation Oncology, Istanbul, Turkey"
+          },
+          {
+            name ml "Aki H",
+            affil str "Istanbul University Cerrahpasa Faculty of Medicine,
+ Department of Pathology, Istanbul, Turkey"
+          },
+          {
+            name ml "Adaletli I",
+            affil str "Istanbul University Cerrahpasa Faculty of Medicine,
+ Department of Radiology, Istanbul, Turkey"
+          },
+          {
+            name ml "Aycicek A",
+            affil str "University of Health Sciences, Kanuni Sultan Suleyman
+ Traning and Research Hospital, Clinic of Pediatric Hematology and Oncology,
+ Istanbul, Turkey"
+          },
+          {
+            name ml "Ozdemir N",
+            affil str "University of Health Sciences, Kanuni Sultan Suleyman
+ Traning and Research Hospital, Clinic of Pediatric Hematology and Oncology,
+ Istanbul, Turkey"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Turk J Haematol",
+          ml-jta "Turk J Haematol",
+          issn "1308-5263",
+          name "Turkish journal of haematology : official journal of Turkish
+ Society of Haematology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8,
+            day 3
+          },
+          volume "35",
+          issue "3",
+          pages "206-207",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29393854,
+        doi "10.4274/tjh.2017.0423",
+        other {
+          db "pmc",
+          tag str "PMC6110446"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.4274/tjh.2017.0423"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Combined Modality Therapy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Paraplegia",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Sarcoma, Myeloid",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Symptom Assessment"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29393854,
+    pub-type {
+      "Case Reports",
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

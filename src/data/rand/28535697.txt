@@ -1,0 +1,242 @@
+
+Pubmed-entry ::= {
+  pmid 28535697,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Identification of peptides present in sour milk whey that
+ ameliorate scopolamine-induced memory impairment in mice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ohsawa K",
+            affil str "a Research & Development Center , Asahi Group Holdings,
+ Ltd , Sagamihara , Kanagawa , Japan."
+          },
+          {
+            name ml "Uchida N",
+            affil str "a Research & Development Center , Asahi Group Holdings,
+ Ltd , Sagamihara , Kanagawa , Japan."
+          },
+          {
+            name ml "Ohki K",
+            affil str "b Research & Development Section , Asahi Group
+ Holdings, Ltd , Tokyo , Japan."
+          },
+          {
+            name ml "Yokogoshi H",
+            affil str "c Department of Food & Nutritional Sciences , College
+ of Bioscience and Biotechnology, Chubu University , Kasugai , Aichi , Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Food Sci Nutr",
+          ml-jta "Int J Food Sci Nutr",
+          issn "1465-3478",
+          name "International journal of food sciences and nutrition"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "69",
+          issue "1",
+          pages "33-45",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28535697,
+        doi "10.1080/09637486.2017.1324564",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/09637486.2017.1324564"
+        }
+      }
+    },
+    abstract "Cognitive impairment is treated with cholinesterase inhibitors
+ that slow cognitive decline but cause significant adverse effects. Functional
+ foods that improve memory without such effects would therefore be valuable.
+ We reported that unidentified components of sour milk whey produced by
+ fermentations using Lactobacillus helveticus and Saccharomyces cerevisiae
+ improved memory in a mouse model of scopolamine-induced memory impairment.
+ Here, we show that casein-derived peptides were the most active components of
+ orally administered fractions of this milk product. Of five peptides tested,
+ beta-casein (residues 73-91) was the most effective for ameliorating
+ scopolamine-induced cognitive deficits, as indicated by a significantly
+ higher percentage of alternations of mice orally administered 0.05 nmol/kg
+ peptide (58.0 +/- 9.3%) versus vehicle (51.0 +/- 5.8%). This orally active
+ peptide may improve cognitive function of patients with dementia.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Caseins",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cholinesterase Inhibitors",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Chromatography, High Pressure Liquid"
+      },
+      {
+        term "Cognition Disorders",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Fermentation"
+      },
+      {
+        term "Lactobacillus helveticus",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Memory Disorders",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Peptides",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Scopolamine",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Tandem Mass Spectrometry"
+      },
+      {
+        term "Whey",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Caseins"
+      },
+      {
+        type nameonly,
+        name "Cholinesterase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "Peptides"
+      },
+      {
+        type cas,
+        cit "DL48G20X8X",
+        name "Scopolamine"
+      }
+    },
+    pmid 28535697,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

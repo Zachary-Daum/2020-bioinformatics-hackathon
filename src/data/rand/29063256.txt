@@ -1,0 +1,278 @@
+
+Pubmed-entry ::= {
+  pmid 29063256,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sciatic neurosteatosis: Relationship with age, gender, obesity
+ and height."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ratner S",
+            affil str "Department of Radiology, UT Southwestern Medical
+ Center, Dallas, TX, USA."
+          },
+          {
+            name ml "Khwaja R",
+            affil str "Department of Radiology, UT Southwestern Medical
+ Center, Dallas, TX, USA."
+          },
+          {
+            name ml "Zhang L",
+            affil str "Department of Radiology, UT Southwestern Medical
+ Center, Dallas, TX, USA.; Radiology, Peking University Third Hospital,
+ Beijing, China."
+          },
+          {
+            name ml "Xi Y",
+            affil str "Department of Radiology, UT Southwestern Medical
+ Center, Dallas, TX, USA."
+          },
+          {
+            name ml "Dessouky R",
+            affil str "Department of Radiology, UT Southwestern Medical
+ Center, Dallas, TX, USA.; Radiology, Faculty of Medicine, Zagazig University,
+ Zagazig, Egypt."
+          },
+          {
+            name ml "Rubin C",
+            affil str "Geriatric division, Internal Medicine, UT Southwestern
+ Medical Center, Dallas, TX, USA."
+          },
+          {
+            name ml "Chhabra A",
+            affil str "Department of Radiology, UT Southwestern Medical
+ Center, Dallas, TX, USA. avneesh.chhabra@utsouthwestern.edu.; Departments of
+ Radiology and Orthopedic Surgery and Musculoskeletal Radiology, UT
+ Southwestern Medical Center, 5323 Harry Hines Blvd, Dallas, TX, 75390-9178,
+ USA. avneesh.chhabra@utsouthwestern.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur Radiol",
+          ml-jta "Eur Radiol",
+          issn "1432-1084",
+          name "European radiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "28",
+          issue "4",
+          pages "1673-1680",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 8,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29063256,
+        doi "10.1007/s00330-017-5087-2",
+        pii "10.1007/s00330-017-5087-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00330-017-5087-2"
+        }
+      }
+    },
+    abstract "AIM: To evaluate inter-reader performance for cross-sectional
+ area and fat quantification of bilateral sciatic nerves on MRI and assess
+ correlations with anthropometrics. METHODS: In this IRB-approved,
+ HIPPA-compliant study, three readers performed a cross-sectional analysis of
+ 3T lumbosacral plexus MRIs over an 18-month period. Image slices were
+ evaluated at two levels (A and B). The sciatic nerve was outlined using a
+ free hand region of interest tool on PACS. Proton-density fat fraction (FF)
+ and cross-sectional areas were recorded. Inter-reader agreement was assessed
+ using intra-class correlation coefficient (ICC). Spearman correlation
+ coefficients were used for correlations with age, BMI and height and Wilcoxon
+ rank sum test was used to assess gender differences. RESULTS: A total of 67
+ patients were included in this study with male to female ratio of 1:1.
+ Inter-reader agreement was good to excellent for FF measurements at both
+ levels (ICC=0.71-0.90) and poor for sciatic nerve areas (ICC=0.08-0.27).
+ Positive correlations of sciatic FF and area were seen with age (p
+ value<0.05). Males had significantly higher sciatic intraneural fat than
+ females (p<0.05). CONCLUSION: Fat quantification MRI is highly reproducible
+ with significant positive correlations of sciatic FF and area with age, which
+ may have implications for MRI diagnosis of sciatic neuropathy. KEY POINTS: *
+ MR proton density fat fraction is highly reproducible at multiple levels. *
+ Sciatic intraneural fat is positively correlated with increasing age (p <
+ 0.05). * Positive correlations exist between bilateral sciatic nerve areas
+ and age (p < 0.05). * Males had significantly higher sciatic intraneural fat
+ than females (p < 0.05).",
+    mesh {
+      {
+        term "Adipose Tissue",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Age Factors"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Body Height"
+      },
+      {
+        term "Body Mass Index"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Magnetic Resonance Imaging",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Obesity",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Protons"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Sciatic Nerve",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Sciatic Neuropathy",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Sex Factors"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Protons"
+      }
+    },
+    pmid 29063256,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

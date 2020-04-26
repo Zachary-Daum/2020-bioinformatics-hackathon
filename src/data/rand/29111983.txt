@@ -1,0 +1,281 @@
+
+Pubmed-entry ::= {
+  pmid 29111983,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Acute Flare of Bullous Pemphigus With Pembrolizumab Used for
+ Treatment of Metastatic Urothelial Cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Garje R",
+            affil str "Departments of Hematology and Oncology."
+          },
+          {
+            name ml "Chau JJ",
+            affil str "Internal Medicine."
+          },
+          {
+            name ml "Chung J",
+            affil str "Dermatology, University of Iowa Hospitals and Clinics,
+ Iowa City, IA."
+          },
+          {
+            name ml "Wanat K",
+            affil str "Dermatology, University of Iowa Hospitals and Clinics,
+ Iowa City, IA."
+          },
+          {
+            name ml "Zakharia Y",
+            affil str "Departments of Hematology and Oncology."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Immunother.",
+          ml-jta "J Immunother",
+          issn "1537-4513",
+          name "Journal of immunotherapy (Hagerstown, Md. : 1997)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "41",
+          issue "1",
+          pages "42-44",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29111983,
+        doi "10.1097/CJI.0000000000000191",
+        other {
+          db "pmc",
+          tag str "PMC6339565"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS1005068"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/CJI.0000000000000191"
+        }
+      }
+    },
+    abstract "In the past decade, the resurgence of immunotherapy has changed
+ the landscape of cancer therapy. Checkpoint inhibitors targeting cytotoxic
+ T-lymphocyte antigen-4, programmed death-1 on lymphocytes, and programmed
+ death ligand-1 on tumors cells are currently utilized in the management of
+ several cancers. These agents are double-edged sword with the positive effect
+ being robust antitumor response but on the other side they can throttle up
+ the normal immunologic homeostasis in a negative way, leading to adverse
+ autoimmune toxicities. These adverse toxicities are frequent if patients have
+ active autoimmune disorders. Here, we report a rare case of quiescent bullous
+ pemphigoid which flared after initiation of pembrolizumab, a programmed death
+ ligand-1 inhibitor.",
+    mesh {
+      {
+        term "Acute Disease"
+      },
+      {
+        term "Antibodies, Monoclonal, Humanized",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Antineoplastic Agents, Immunological",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Exanthema"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunotherapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Pemphigus",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Prednisone",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Programmed Cell Death 1 Receptor",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Skin Diseases, Vesiculobullous",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Urinary Bladder",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Urinary Bladder Neoplasms",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Urologic Neoplasms",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Withholding Treatment"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antibodies, Monoclonal, Humanized"
+      },
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Immunological"
+      },
+      {
+        type nameonly,
+        name "Programmed Cell Death 1 Receptor"
+      },
+      {
+        type cas,
+        cit "DPT0O3T46P",
+        name "pembrolizumab"
+      },
+      {
+        type cas,
+        cit "VB0R961HZT",
+        name "Prednisone"
+      }
+    },
+    idnum {
+      "P30 CA086862/CA/NCI NIH HHS"
+    },
+    pmid 29111983,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

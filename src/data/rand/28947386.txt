@@ -1,0 +1,273 @@
+
+Pubmed-entry ::= {
+  pmid 28947386,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Human melanocortin 1 receptor-mediated ubiquitination of
+ nonvisual arrestins. Role of Mahogunin Ring Finger 1 E3 ligase."
+      },
+      authors {
+        names std {
+          {
+            name ml "Abrisqueta M",
+            affil str "Department of Biochemistry and Molecular Biology,
+ School of Medicine, University of Murcia and Instituto Murciano de
+ Investigacion Biosanitaria (IMIB), El Palmar-30120 Murcia, Spain."
+          },
+          {
+            name ml "Olivares C",
+            affil str "Department of Biochemistry and Molecular Biology,
+ School of Medicine, University of Murcia and Instituto Murciano de
+ Investigacion Biosanitaria (IMIB), El Palmar-30120 Murcia, Spain."
+          },
+          {
+            name ml "Herraiz C",
+            affil str "Department of Biochemistry and Molecular Biology,
+ School of Medicine, University of Murcia and Instituto Murciano de
+ Investigacion Biosanitaria (IMIB), El Palmar-30120 Murcia, Spain."
+          },
+          {
+            name ml "Castejon-Grinan M",
+            affil str "Department of Biochemistry and Molecular Biology,
+ School of Medicine, University of Murcia and Instituto Murciano de
+ Investigacion Biosanitaria (IMIB), El Palmar-30120 Murcia, Spain."
+          },
+          {
+            name ml "Sires-Campos J",
+            affil str "Department of Biochemistry and Molecular Biology,
+ School of Medicine, University of Murcia and Instituto Murciano de
+ Investigacion Biosanitaria (IMIB), El Palmar-30120 Murcia, Spain."
+          },
+          {
+            name ml "Garcia-Borron JC",
+            affil str "Department of Biochemistry and Molecular Biology,
+ School of Medicine, University of Murcia and Instituto Murciano de
+ Investigacion Biosanitaria (IMIB), El Palmar-30120 Murcia, Spain."
+          },
+          {
+            name ml "Jimenez-Cervantes C",
+            affil str "Department of Biochemistry and Molecular Biology,
+ School of Medicine, University of Murcia and Instituto Murciano de
+ Investigacion Biosanitaria (IMIB), El Palmar-30120 Murcia, Spain. Electronic
+ address: celiajim@um.es."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biochim Biophys Acta Mol Cell Res",
+          ml-jta "Biochim Biophys Acta Mol Cell Res",
+          issn "0167-4889",
+          name "Biochimica et biophysica acta. Molecular cell research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "1865",
+          issue "1",
+          pages "76-94",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28947386,
+        pii "S0167-4889(17)30256-2",
+        doi "10.1016/j.bbamcr.2017.09.013",
+        other {
+          db "ELocationID pii",
+          tag str "S0167-4889(17)30256-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bbamcr.2017.09.013"
+        }
+      }
+    },
+    abstract "Signaling from the melanocortin 1 receptor (MC1R), a Gs
+ protein-coupled receptor (GPCR) crucial for melanocyte proliferation and
+ differentiation, is regulated by cytosolic beta-arrestins (ARRBs). MC1R
+ signaling is also negatively modulated by the E3-ubiquitin ligase Mahogunin
+ Ring Finger-1 (MGRN1), whose mutation causes hyperpigmentation, congenital
+ heart defects and neurodegeneration in mice. We showed previously that
+ although MC1R interacts stably with human ARRB1 or ARRB2, only ARRB2 mediates
+ receptor desensitization and internalization. We analyzed MC1R-dependent ARRB
+ ubiquitination, and the possible role of MGRN1. ARRB1 expressed in
+ heterologous cells or human melanoma cells migrated in SDS-PAGE as a 55kDa
+ protein whereas ARRB2 migrated as two major bands of apparent molecular
+ weight near 45 and 55kDa, with an intermediate mobility band occasionally
+ detected. These forms were related by post-translational modification rather
+ than by proteolysis. Presence of MC1R favored expression of the 45kDa
+ protein, the form that interacted preferentially with MC1R. MC1R also
+ mediated poly- or multimonoubiquitination of ARRB2. Ubiquitination was
+ agonist-independent, but required a native MC1R conformation and/or normal
+ receptor trafficking to the plasma membrane, as it was not observed for
+ loss-of-function MC1R variants. In a heterologous expression system,
+ MC1R-dependent ARRB ubiquitination was enhanced by overexpression of MGRN1
+ and was impaired by siRNA-mediated MGRN1 knockdown thus pointing to MGRN1 as
+ the responsible E3-ligase. Co-immunoprecipitation experiments demonstrated
+ interaction of MGRN1 and ARRBs in the presence of MC1R, suggesting a
+ scaffolding role for the GPCR that may determine the selectivity of
+ E3-ubiquitin ligase engagement and the functional outcome of ARRB
+ ubiquitination.",
+    mesh {
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Protein Processing, Post-Translational"
+      },
+      {
+        term "Receptor, Melanocortin, Type 1",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Ubiquitin-Protein Ligases",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Ubiquitination",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "beta-Arrestin 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "beta-Arrestins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Receptor, Melanocortin, Type 1"
+      },
+      {
+        type nameonly,
+        name "beta-Arrestin 1"
+      },
+      {
+        type nameonly,
+        name "beta-Arrestins"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "MGRN1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Ubiquitin-Protein Ligases"
+      }
+    },
+    pmid 28947386,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

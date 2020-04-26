@@ -1,0 +1,282 @@
+
+Pubmed-entry ::= {
+  pmid 29220594,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Modification of immunological features in human platelets during
+ sepsis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Raque VX",
+            affil str "a Department of Experimental Biomedicine, Medicine and
+ Surgery Faculty , Autonomous University ''Benito Juarez'' of Oaxaca , Oaxaca
+ City , Mexico.; d Department of Immunology , National School of Biological
+ Sciences, National Polytechnic Institute , Mexico City , Mexico."
+          },
+          {
+            name ml "Carlos SJ",
+            affil str "b Regional High Specialty Hospital of Oaxaca , Oaxaca
+ City , Mexico."
+          },
+          {
+            name ml "Eduardo RR",
+            affil str "b Regional High Specialty Hospital of Oaxaca , Oaxaca
+ City , Mexico."
+          },
+          {
+            name ml "Rafael BH",
+            affil str "a Department of Experimental Biomedicine, Medicine and
+ Surgery Faculty , Autonomous University ''Benito Juarez'' of Oaxaca , Oaxaca
+ City , Mexico."
+          },
+          {
+            name ml "Angeles RML",
+            affil str "a Department of Experimental Biomedicine, Medicine and
+ Surgery Faculty , Autonomous University ''Benito Juarez'' of Oaxaca , Oaxaca
+ City , Mexico."
+          },
+          {
+            name ml "Adriana RC",
+            affil str "a Department of Experimental Biomedicine, Medicine and
+ Surgery Faculty , Autonomous University ''Benito Juarez'' of Oaxaca , Oaxaca
+ City , Mexico."
+          },
+          {
+            name ml "Honorio TA",
+            affil str "a Department of Experimental Biomedicine, Medicine and
+ Surgery Faculty , Autonomous University ''Benito Juarez'' of Oaxaca , Oaxaca
+ City , Mexico.; c Chemical Sciences Faculty , Autonomous University ''Benito
+ Juarez'' , Oaxaca City , Mexico."
+          },
+          {
+            name ml "Jose BA",
+            affil str "e Laboratory of molecular biology and immunology of
+ arboviruses, Biomedicine Unit, School of Higher Studies-Iztacala , National
+ Autonomous University of Mexico , State of Mexico , Mexico."
+          },
+          {
+            name ml "Roberto AS",
+            affil str "a Department of Experimental Biomedicine, Medicine and
+ Surgery Faculty , Autonomous University ''Benito Juarez'' of Oaxaca , Oaxaca
+ City , Mexico."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Immunol. Invest.",
+          ml-jta "Immunol Invest",
+          issn "1532-4311",
+          name "Immunological investigations"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "47",
+          issue "2",
+          pages "196-211",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29220594,
+        doi "10.1080/08820139.2017.1413113",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/08820139.2017.1413113"
+        }
+      }
+    },
+    abstract "Sepsis is an organic dysfunction that puts at risk the life of
+ patients suffering this disorder due to an exacerbated immunological response
+ to the infection mediated by the host. Platelets have been largely researched
+ on sepsis owing to its role in Disseminated Intracellular Coagulation (DIC)
+ and because thrombocytopenia is an important clinical feature of these
+ patients. Nevertheless, a great number of evidence shows that platelets have
+ also an important role in immunological response since they have pattern
+ recognition receptors, chemokine receptors and granules with stored soluble
+ mediators. In this work, the immunological features of platelets in
+ individuals with sepsis are described. The results show that platelets of
+ these individuals have high levels of surfaces expression of TLR4, CD62P,
+ CD32 and thrombin receptor 1 (PAR-1), these platelets have also greater
+ capability to join Escherichia coli, and show a different profile of soluble
+ mediators (IL-1beta, CD40L and TNF-alpha). Platelets from patients with
+ sepsis form aggregates with neutrophils in circulation, but are unable to
+ induce the production of reactive oxygen species. This research describes
+ important features of platelets to help the understanding of the
+ immunological role of these cells in sepsis.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Blood Platelets",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Disseminated Intravascular Coagulation",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neutrophils",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "P-Selectin",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptor, PAR-1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, IgG",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sepsis",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Toll-Like Receptor 4",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "P-Selectin"
+      },
+      {
+        type nameonly,
+        name "Receptor, PAR-1"
+      },
+      {
+        type nameonly,
+        name "Receptors, IgG"
+      },
+      {
+        type nameonly,
+        name "TLR4 protein, human"
+      },
+      {
+        type nameonly,
+        name "Toll-Like Receptor 4"
+      }
+    },
+    pmid 29220594,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

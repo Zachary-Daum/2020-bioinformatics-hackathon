@@ -1,0 +1,182 @@
+
+Pubmed-entry ::= {
+  pmid 29349758,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Is DCIS Overrated?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Feinberg J",
+            affil str "Department of Surgery, Maimonides Breast Center,
+ Maimonides Medical Center, Research Fellow, Oxford University, Oxford,
+ England."
+          },
+          {
+            name ml "Wetstone R",
+            affil str "Department of Surgery, Maimonides Medical Center,
+ Brooklyn, NY, USA."
+          },
+          {
+            name ml "Greenstein D",
+            affil str "Department of Surgery, Maimonides Medical Center,
+ Brooklyn, NY, USA."
+          },
+          {
+            name ml "Borgen P",
+            affil str "Department of Surgery, Maimonides Medical Center,
+ Brooklyn, NY, USA. PBorgen@maimonidesmed.org."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cancer Treat. Res.",
+          ml-jta "Cancer Treat Res",
+          issn "0927-3042",
+          name "Cancer treatment and research"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "173",
+          pages "53-72",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29349758,
+        doi "10.1007/978-3-319-70197-4_5",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/978-3-319-70197-4_5"
+        }
+      }
+    },
+    abstract "Ductal carcinoma in situ (DCIS), the noninvasive form of breast
+ cancer (BC), comprises just over 20% of breast cancer cases diagnosed each
+ year in the USA. Most patients are treated with local excision of the disease
+ followed by whole breast radiation therapy. Total mastectomy is not an
+ uncommon approach, and total mastectomy with a contralateral risk-reducing
+ mastectomy has been on the rise in the past decade. In estrogen
+ receptor-positive disease, patients are often offered endocrine ablative
+ therapy with a selective estrogen receptor modulator or an aromatase
+ inhibitor as both treatment and prevention. Local regional treatment options
+ have no impact upon ultimate overall survival. Long-term survival rates are
+ higher in patients with DCIS than with any other form of the disease. Are
+ these strikingly high success rates a testament to effective treatment
+ strategies or is there a significant subset of DCIS that was unlikely to ever
+ progress to invasive ductal carcinoma? DCIS was not seen in the US prior to
+ the advent of screening mammography. When compared to other countries, the
+ USA has the highest utilization of screening mammography and the incidence
+ rate of DCIS. Other lines of evidence include autopsy series examining the
+ breast tissue of women who died of other causes, missed-diagnosis series and
+ current retrospective reviews of DCIS, all align in support of the concept of
+ DCIS as indolent in the majority of cases [3-14]. The evidence suggests that
+ both patient and physician misconceptions about DCIS have led to
+ overdiagnosis and over-treatment of DCIS. Recently, a gene expression
+ profiling tool (12 gene assay, Oncotype DCIS) has emerged that shows
+ considerable promise in predicting class in DCIS patients.",
+    mesh {
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Intraductal, Noninfiltrating",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neoplasm Invasiveness"
+      }
+    },
+    pmid 29349758,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

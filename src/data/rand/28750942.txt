@@ -1,0 +1,289 @@
+
+Pubmed-entry ::= {
+  pmid 28750942,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A standardized extract of the fruit of Hovenia dulcis alleviated
+ alcohol-induced hangover in healthy subjects with heterozygous ALDH2: A
+ randomized, controlled, crossover trial."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kim H",
+            affil str "Department of Nutritional Science and Food Management,
+ Ewha Womans University, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Kim YJ",
+            affil str "Department of Nutritional Science and Food Management,
+ Ewha Womans University, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Jeong HY",
+            affil str "Department of Nutritional Science and Food Management,
+ Ewha Womans University, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Kim JY",
+            affil str "Department of Food Science and Technology, Seoul
+ National University of Science and Technology, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Choi EK",
+            affil str "Clinical Trial Center for Functional Foods, Chonbuk
+ National University Hospital, Jeonju, Republic of Korea."
+          },
+          {
+            name ml "Chae SW",
+            affil str "Clinical Trial Center for Functional Foods, Chonbuk
+ National University Hospital, Jeonju, Republic of Korea. Electronic address:
+ soowan@jbnu.ac.kr."
+          },
+          {
+            name ml "Kwon O",
+            affil str "Department of Nutritional Science and Food Management,
+ Ewha Womans University, Seoul, Republic of Korea. Electronic address:
+ orank@ewha.ac.kr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Ethnopharmacol",
+          ml-jta "J Ethnopharmacol",
+          issn "1872-7573",
+          name "Journal of ethnopharmacology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9,
+            day 14
+          },
+          volume "209",
+          pages "167-174",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28750942,
+        pii "S0378-8741(16)32132-8",
+        doi "10.1016/j.jep.2017.07.028",
+        other {
+          db "ELocationID pii",
+          tag str "S0378-8741(16)32132-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jep.2017.07.028"
+        }
+      }
+    },
+    abstract "ETHNOPHARMACOLOGICAL RELEVANCE: Hovenia dulcis, known as the
+ oriental raisin tree, is mainly found in East Asia. It has long been used as
+ traditional folk remedies for alcohol intoxication. AIM OF THE STUDY: To
+ examine the anti-hangover effect of Hovenia dulcis Thunb. fruit extract (HDE)
+ in a randomized controlled crossover trial. MATERIALS AND METHODS: Twenty-six
+ eligible male adults with heterozygous ALDH2 (23.7+/-0.3 years old) consumed
+ 360mL of Korean Soju (50g alcohol) together with HDE (2460mg) or matched
+ placebo with subsequent crossover. The blood samples were taken at baseline
+ and 1, 4, and 12h post-treatment. RESULTS: Blood alcohol, acetaldehyde, and
+ total hangover scores were highest at 1h post-treatment with no difference
+ between groups, but declines in hangover symptom scores were significant in
+ the HDE group compared to the placebo group. Significant differences between
+ groups were also observed on interleukin (IL)-6, IL-10, IL-10/IL-6 ratio, and
+ aspartate aminotransferase levels, but not on endotoxins. Pearson correlation
+ analysis revealed a positive correlation between total hangover symptom
+ scores and IL-6 and IL-10 level. Further analyses by CYP2E1 polymorphism at
+ rs10776687, rs2031920, rs3813867, and rs4838767 alleles showed a reversed
+ association, suggesting that CYP2E1 polymorphism might be an effect modifier.
+ CONCLUSIONS: The results suggest that a favorable effect of HDE on alcohol
+ hangovers might be associated with enhancing homeostatic regulation of
+ inflammatory response. The magnitude of impact might be different in the
+ presence of CYP2E1 polymorphism.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Alcohol Drinking",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Aldehyde Dehydrogenase, Mitochondrial",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Biomarkers"
+      },
+      {
+        term "Cross-Over Studies"
+      },
+      {
+        term "Cytochrome P-450 CYP2E1",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Fruit",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Genetic Predisposition to Disease"
+      },
+      {
+        term "Heterozygote"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Rhamnaceae",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      },
+      {
+        type ec,
+        cit "1.14.13.-",
+        name "Cytochrome P-450 CYP2E1"
+      },
+      {
+        type ec,
+        cit "1.2.1.3",
+        name "ALDH2 protein, human"
+      },
+      {
+        type ec,
+        cit "1.2.1.3",
+        name "Aldehyde Dehydrogenase, Mitochondrial"
+      }
+    },
+    pmid 28750942,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

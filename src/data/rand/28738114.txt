@@ -1,0 +1,201 @@
+
+Pubmed-entry ::= {
+  pmid 28738114,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "I-SPY 2 Breast Cancer Trial as a Model for Innovation in
+ Alzheimer Disease Therapies."
+      },
+      authors {
+        names std {
+          {
+            name ml "Messmer MF",
+            affil str "Program for Regulatory Science & Medicine, Georgetown
+ University, Washington, DC.; VistaNova Consulting, Rye, New Hampshire."
+          },
+          {
+            name ml "Wilhelm EE",
+            affil str "Program for Regulatory Science & Medicine, Georgetown
+ University, Washington, DC.; Department of Neurology, Georgetown University,
+ Washington, DC."
+          },
+          {
+            name ml "Shoulson I",
+            affil str "Program for Regulatory Science & Medicine, Georgetown
+ University, Washington, DC.; Department of Neurology, Georgetown University,
+ Washington, DC."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "JAMA Neurol",
+          ml-jta "JAMA Neurol",
+          issn "2168-6157",
+          name "JAMA neurology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9,
+            day 1
+          },
+          volume "74",
+          issue "9",
+          pages "1027-1028",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28738114,
+        pii "2645748",
+        doi "10.1001/jamaneurol.2017.1528",
+        other {
+          db "ELocationID doi",
+          tag str "10.1001/jamaneurol.2017.1528"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "economics"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Antineoplastic Combined Chemotherapy Protocols",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "economics"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Clinical Trials as Topic",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Cost-Benefit Analysis",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Molecular Imaging",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Therapies, Investigational",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 28738114,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

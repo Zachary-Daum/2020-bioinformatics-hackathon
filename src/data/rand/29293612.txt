@@ -1,0 +1,278 @@
+
+Pubmed-entry ::= {
+  pmid 29293612,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Liver volume-based prediction model stratifies risks for
+ hepatocellular carcinoma in chronic hepatitis B patients on surveillance."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lee CS",
+            affil str "Department of Medicine, Seoul National University
+ Bundang Hospital, Seongnam, Republic of Korea."
+          },
+          {
+            name ml "Jung YJ",
+            affil str "Department of Internal Medicine, Seoul National
+ University College of Medicine, Seoul, Republic of Korea.; Department of
+ Internal Medicine, SMG-SNU Boramae Medical Center, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Kim SS",
+            affil str "Department of Gastroenterology, Ajou University School
+ of Medicine, Suwon, Republic of Korea."
+          },
+          {
+            name ml "Cheong JY",
+            affil str "Department of Gastroenterology, Ajou University School
+ of Medicine, Suwon, Republic of Korea."
+          },
+          {
+            name ml "Lee GR",
+            affil str "Department of Gastroenterology, Ajou University School
+ of Medicine, Suwon, Republic of Korea."
+          },
+          {
+            name ml "Kim HG",
+            affil str "Department of Gastroenterology, Ajou University School
+ of Medicine, Suwon, Republic of Korea."
+          },
+          {
+            name ml "Kim BH",
+            affil str "Department of Medicine, Seoul National University
+ Bundang Hospital, Seongnam, Republic of Korea."
+          },
+          {
+            name ml "Chung JW",
+            affil str "Department of Medicine, Seoul National University
+ Bundang Hospital, Seongnam, Republic of Korea."
+          },
+          {
+            name ml "Jang ES",
+            affil str "Department of Medicine, Seoul National University
+ Bundang Hospital, Seongnam, Republic of Korea."
+          },
+          {
+            name ml "Jeong SH",
+            affil str "Department of Medicine, Seoul National University
+ Bundang Hospital, Seongnam, Republic of Korea.; Department of Internal
+ Medicine, Seoul National University College of Medicine, Seoul, Republic of
+ Korea."
+          },
+          {
+            name ml "Lee KH",
+            affil str "Department of Radiology, Seoul National University
+ College of Medicine, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Kim JW",
+            affil str "Department of Medicine, Seoul National University
+ Bundang Hospital, Seongnam, Republic of Korea.; Department of Internal
+ Medicine, Seoul National University College of Medicine, Seoul, Republic of
+ Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 2
+          },
+          volume "13",
+          issue "1",
+          pages "e0190261",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29293612,
+        doi "10.1371/journal.pone.0190261",
+        pii "PONE-D-17-30729",
+        other {
+          db "pmc",
+          tag str "PMC5749771"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0190261"
+        }
+      }
+    },
+    abstract "BACKGROUND AND AIM: The aim of this study was to determine
+ whether dynamic computed tomography (CT)-measured liver volume predicts the
+ risk of hepatocellular carcinoma (HCC) when the CT scans do not reveal
+ evidence of HCC in chronic hepatitis B (CHB) patients on surveillance.
+ METHODS: This retrospective multicentre cohort study included 1,246 patients
+ who received entecavir and regular HCC surveillance in three tertiary
+ referral centres in South Korea. Liver volumes were measured on portal venous
+ phase CT images. A nomogram was developed based on Cox independent predictors
+ and externally validated. Time-dependent receiver operating characteristic
+ (ROC) analysis was performed for comparison with previous prediction models.
+ RESULTS: Patients who received dynamic CT studies during surveillance had
+ significantly higher risk for HCC compared to patients without CT studies
+ (hazard ratio [HR] = 3.1; p < 0.001). Expected/measured liver volume ratio
+ was an independent predictor of HCC (HR = 4.2; p = 0.002) in addition to age,
+ sex and cirrhosis. The nomogram based on the four predictors discriminated
+ risks for HCC (HR = 4.1 and 6.0 in derivation and validation cohort,
+ respectively, for volume score > 150; p < 0.001). Time-dependent ROC analysis
+ confirmed better performance of the volume score compared to HCC prediction
+ models with conventional predictors (integrated area under curve = 0.758 vs.
+ 0.661-0.712; p < 0.05). CONCLUSIONS: CT-measured liver volume is an
+ independent predictor of future HCC, and nomogram-based liver volume score
+ may stratify the risks of HCC in CHB patients who showed negative CT findings
+ for HCC during surveillance.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Carcinoma, Hepatocellular",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hepatitis B, Chronic",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Liver Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Models, Biological"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Tomography, X-Ray Computed"
+      }
+    },
+    pmid 29293612,
+    pub-type {
+      "Journal Article",
+      "Multicenter Study",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,226 @@
+
+Pubmed-entry ::= {
+  pmid 29374560,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Cellular and functional biomarkers of clinical transplant
+ tolerance."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mathew JM",
+            affil str "Department of Surgery - Comprehensive Transplant
+ Center, Northwestern University, Chicago, IL, USA; Department of
+ Microbiology-Immunology, Northwestern University, Chicago, IL, USA.
+ Electronic address: James-mathew@northwestern.edu."
+          },
+          {
+            name ml "Ansari MJ",
+            affil str "Department of Surgery - Comprehensive Transplant
+ Center, Northwestern University, Chicago, IL, USA; Department of
+ Medicine-Nephrology, Northwestern University, Chicago, IL, USA."
+          },
+          {
+            name ml "Gallon L",
+            affil str "Department of Surgery - Comprehensive Transplant
+ Center, Northwestern University, Chicago, IL, USA; Department of
+ Medicine-Nephrology, Northwestern University, Chicago, IL, USA."
+          },
+          {
+            name ml "Leventhal JR",
+            affil str "Department of Surgery - Comprehensive Transplant
+ Center, Northwestern University, Chicago, IL, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Hum. Immunol.",
+          ml-jta "Hum Immunol",
+          issn "1879-1166",
+          name "Human immunology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "79",
+          issue "5",
+          pages "322-333",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29374560,
+        pii "S0198-8859(18)30020-X",
+        doi "10.1016/j.humimm.2018.01.009",
+        other {
+          db "ELocationID pii",
+          tag str "S0198-8859(18)30020-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.humimm.2018.01.009"
+        }
+      }
+    },
+    abstract "Development of tolerance protocols requires assays or biomarkers
+ that distinguish tolerant recipients from non-tolerant ones to be
+ established. In addition, a thorough understanding of the plausible
+ mechanisms associated with clinical transplant tolerance is necessary to take
+ the field forward. Unlike the majority of molecular signature analyses
+ utilized by others, the emphasis of this article is on the cellular and
+ functional biomarkers of induced transplant tolerance. Immunity to an organ
+ transplant is very complex, comprised of two broad categories - innate and
+ acquired or adaptive immune responses. Innate immunity can be avoided by
+ eliminating or preventing ischemic injuries to the donor organ and tolerance
+ at the level of adaptive immunity can be induced by infusions of a number of
+ cellular products. Since adaptive immune response consists of inflammatory
+ hypersensitivity, cellular (cytotoxic and helper) and humoral aspects, all
+ these need to be measured, and the recipients who demonstrate donor-specific
+ unresponsiveness in all can be considered tolerant or candidates for
+ immunosuppression minimization and/or withdrawal. The mechanisms by which
+ these agents bring about transplant tolerance include regulation, anergy,
+ exhaustion, senescence and deletion of the recipient immune cells. Another
+ proven mechanism of tolerance is full or mixed donor chimerism. However, it
+ should be cautioned that non-deletional tolerance can be reversed.",
+    mesh {
+      {
+        term "Adaptive Immunity"
+      },
+      {
+        term "Biomarkers",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Flow Cytometry"
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        term "Graft Rejection",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunosuppression"
+      },
+      {
+        term "Lymphocyte Culture Test, Mixed"
+      },
+      {
+        term "Transplantation Chimera",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Transplantation Tolerance",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers"
+      }
+    },
+    pmid 29374560,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

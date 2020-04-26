@@ -1,0 +1,186 @@
+
+Pubmed-entry ::= {
+  pmid 29134739,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Phenotypic plasticity in response to environmental heterogeneity
+ contributes to fluctuating asymmetry in plants: first empirical evidence."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tucic B",
+            affil str "Department of Evolutionary Biology, Institute for
+ Biological Research ""Sinisa Stankovic"", University of Belgrade, Belgrade,
+ Serbia."
+          },
+          {
+            name ml "Budecevic S",
+            affil str "Department of Evolutionary Biology, Institute for
+ Biological Research ""Sinisa Stankovic"", University of Belgrade, Belgrade,
+ Serbia."
+          },
+          {
+            name ml "Manitasevic Jovanovic S",
+            affil str "Department of Evolutionary Biology, Institute for
+ Biological Research ""Sinisa Stankovic"", University of Belgrade, Belgrade,
+ Serbia."
+          },
+          {
+            name ml "Vuleta A",
+            affil str "Department of Evolutionary Biology, Institute for
+ Biological Research ""Sinisa Stankovic"", University of Belgrade, Belgrade,
+ Serbia."
+          },
+          {
+            name ml "Klingenberg CP",
+            affil str "School of Biological Sciences, University of
+ Manchester, Manchester, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Evol. Biol.",
+          ml-jta "J Evol Biol",
+          issn "1420-9101",
+          name "Journal of evolutionary biology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "31",
+          issue "2",
+          pages "197-210",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29134739,
+        doi "10.1111/jeb.13207",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jeb.13207"
+        }
+      }
+    },
+    abstract "Fluctuating asymmetry (FA) is widely used to quantify
+ developmental instability (DI) in ecological and evolutionary studies. It has
+ long been recognized that FA may not exclusively originate from DI for
+ sessile organisms such as plants, because phenotypic plasticity in response
+ to heterogeneities in the environment might also produce FA. This study
+ provides the first empirical evidence for this hypothesis. We reasoned that
+ solar irradiance, which is greater on the southern side than on the northern
+ side of plants growing in the temperate zone of the Northern Hemisphere,
+ would cause systematic morphological differences and asymmetry associated
+ with the orientation of plant parts. We used geometric morphometrics to
+ characterize the size and shape of flower parts in Iris pumila grown in a
+ common garden. The size of floral organs was not significantly affected by
+ orientation. Shape and particularly its asymmetric component differed
+ significantly according to orientation for three different floral parts.
+ Orientation accounted for 10.4% of the total shape asymmetry within flowers
+ in the falls, for 11.4% in the standards and for 2.2% in the style branches.
+ This indicates that phenotypic plasticity in response to a directed
+ environmental factor, most likely solar irradiance, contributes to FA of
+ flowers under natural conditions. That FA partly results from phenotypic
+ plasticity and not just from DI needs to be considered by studies of FA in
+ plants and other sessile organisms.",
+    mesh {
+      {
+        mp TRUE,
+        term "Adaptation, Physiological"
+      },
+      {
+        term "Flowers",
+        qual {
+          {
+            mp TRUE,
+            subh "growth & development"
+          }
+        }
+      },
+      {
+        term "Iris Plant",
+        qual {
+          {
+            mp TRUE,
+            subh "growth & development"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Sunlight"
+      }
+    },
+    xref {
+    },
+    pmid 29134739,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

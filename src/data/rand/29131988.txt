@@ -1,0 +1,375 @@
+
+Pubmed-entry ::= {
+  pmid 29131988,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Treatment adoption and relative effectiveness of aromatase
+ inhibitors compared to tamoxifen in early breast cancer: A
+ multi-institutional observational study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ferreira AR",
+            affil str "Hospital de Santa Maria, Centro Hospitalar de Lisboa
+ Norte, Av. Prof. Egas Moniz, 1649-035 Lisbon, Portugal; Instituto de Medicina
+ Molecular, Faculdade de Medicina, Universidade de Lisboa, Av. Prof. Egas
+ Moniz, 1649-035 Lisbon, Portugal."
+          },
+          {
+            name ml "Palha A",
+            affil str "Hospital de Santa Maria, Centro Hospitalar de Lisboa
+ Norte, Av. Prof. Egas Moniz, 1649-035 Lisbon, Portugal."
+          },
+          {
+            name ml "Correia L",
+            affil str "Hospital de Santa Maria, Centro Hospitalar de Lisboa
+ Norte, Av. Prof. Egas Moniz, 1649-035 Lisbon, Portugal."
+          },
+          {
+            name ml "Filipe P",
+            affil str "Hospital de Santa Maria, Centro Hospitalar de Lisboa
+ Norte, Av. Prof. Egas Moniz, 1649-035 Lisbon, Portugal."
+          },
+          {
+            name ml "Rodrigues V",
+            affil str "Hospital de Santa Maria, Centro Hospitalar de Lisboa
+ Norte, Av. Prof. Egas Moniz, 1649-035 Lisbon, Portugal."
+          },
+          {
+            name ml "Miranda A",
+            affil str "Registo Oncologico Regional do Sul, Instituto Portugues
+ de Oncologia F. G. de Lisboa, R. Prof. Lima Basto, 1099-023 Lisbon, Portugal."
+          },
+          {
+            name ml "Andre R",
+            affil str "Registo Oncologico Regional do Sul, Instituto Portugues
+ de Oncologia F. G. de Lisboa, R. Prof. Lima Basto, 1099-023 Lisbon, Portugal."
+          },
+          {
+            name ml "Fernandes J",
+            affil str "Hospitais CUF Lisboa, R. Mario Botas, 1998-018 Lisbon,
+ Portugal."
+          },
+          {
+            name ml "Gouveia J",
+            affil str "Hospitais CUF Lisboa, R. Mario Botas, 1998-018 Lisbon,
+ Portugal."
+          },
+          {
+            name ml "Passos-Coelho JL",
+            affil str "Hospital da Luz, Avenida Lusiada, 100, 1500-650 Lisbon,
+ Portugal."
+          },
+          {
+            name ml "Moreira A",
+            affil str "Instituto Portugues de Oncologia F. G. de Lisboa, R.
+ Prof. Lima Basto, 1099-023 Lisbon, Portugal."
+          },
+          {
+            name ml "Brito M",
+            affil str "Instituto Portugues de Oncologia F. G. de Lisboa, R.
+ Prof. Lima Basto, 1099-023 Lisbon, Portugal."
+          },
+          {
+            name ml "Ribeiro J",
+            affil str "Fundacao Champalimaud, Av. Brasilia, 1400-038 Lisbon,
+ Portugal."
+          },
+          {
+            name ml "Metzger-Filho O",
+            affil str "Dana-Farber Cancer Institute, 450 Brookline Ave,
+ Boston, MA 02215, USA."
+          },
+          {
+            name ml "Lin NU",
+            affil str "Dana-Farber Cancer Institute, 450 Brookline Ave,
+ Boston, MA 02215, USA."
+          },
+          {
+            name ml "Costa L",
+            affil str "Hospital de Santa Maria, Centro Hospitalar de Lisboa
+ Norte, Av. Prof. Egas Moniz, 1649-035 Lisbon, Portugal; Instituto de Medicina
+ Molecular, Faculdade de Medicina, Universidade de Lisboa, Av. Prof. Egas
+ Moniz, 1649-035 Lisbon, Portugal."
+          },
+          {
+            name ml "Vaz-Luis I",
+            affil str "Institut Gustave Roussy, Unit INSERM 981, 114 Rue
+ Edouard Vaillant, 94800 Villejuif, France; Dana-Farber Cancer Institute, 450
+ Brookline Ave, Boston, MA 02215, USA. Electronic address:
+ Ines-Maria.Vaz-Duarte-Luis@gustaveroussy.fr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Breast",
+          ml-jta "Breast",
+          issn "1532-3080",
+          name "Breast (Edinburgh, Scotland)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "37",
+          pages "107-113",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29131988,
+        pii "S0960-9776(17)30773-7",
+        doi "10.1016/j.breast.2017.11.003",
+        other {
+          db "ELocationID pii",
+          tag str "S0960-9776(17)30773-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.breast.2017.11.003"
+        }
+      }
+    },
+    abstract "BACKGROUND: Since 2005, aromatase inhibitors (AIs) have been the
+ adjuvant treatment of choice for postmenopausal women with early breast
+ cancer (BC). In this study we characterize the adoption of AIs in Portugal,
+ variables associated with treatment administration, and compare its
+ effectiveness (either in monotherapy or sequential therapy) to tamoxifen
+ monotherapy (TAM). PATIENTS AND METHODS: This was a retrospective cohort
+ study that included postmenopausal women with stage I-III hormone receptor
+ (HR) positive BC diagnosed from 2006 to 2008 and treated with adjuvant
+ endocrine therapy in four participating institutions. RESULTS: Of the 1283
+ eligible patients, 527 (41%) received an AI (16% as monotherapy, 25% as
+ sequential therapy) and 756 (59%) TAM. Patients treated with AI had less
+ differentiated tumors, with higher TNM stage, and were more frequently
+ HER2-positive. Use of AI also differed by center (use range from 33% to 75%,
+ p < 0.001). With a median follow-up of 6.3 years and controlling for
+ clinicopathological and treatment characteristics, treatment with AI had a
+ better overall survival (OS) when compared with TAM (adjusted-HR 0.55, 95% CI
+ 0.37-0.81). CONCLUSION: AIs were successfully introduced as adjuvant
+ treatment for HR-positive BC in Portuguese hospitals. Its use was influenced
+ by tumor and patient characteristics, but also center of care. In this large
+ cohort, AI use was associated with an OS benefit.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Antineoplastic Agents, Hormonal",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Antineoplastic Combined Chemotherapy Protocols",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Aromatase Inhibitors",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lymphatic Metastasis"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Grading"
+      },
+      {
+        term "Neoplasm Staging"
+      },
+      {
+        term "Portugal"
+      },
+      {
+        term "Receptor, ErbB-2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Estrogen",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Progesterone",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Survival Rate"
+      },
+      {
+        term "Tamoxifen",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Hormonal"
+      },
+      {
+        type nameonly,
+        name "Aromatase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "Receptors, Estrogen"
+      },
+      {
+        type nameonly,
+        name "Receptors, Progesterone"
+      },
+      {
+        type cas,
+        cit "094ZI81Y45",
+        name "Tamoxifen"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "ERBB2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "Receptor, ErbB-2"
+      }
+    },
+    pmid 29131988,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
+    },
+    status medline
+  }
+}
+
+

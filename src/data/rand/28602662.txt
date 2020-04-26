@@ -1,0 +1,180 @@
+
+Pubmed-entry ::= {
+  pmid 28602662,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Biomethanation macrodynamics of vegetable residues pretreated by
+ low-frequency microwave irradiation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Savoo S",
+            affil str "Department of Chemical and Environmental Engineering,
+ Faculty of Engineering, University of Mauritius, Reduit 80837, Mauritius."
+          },
+          {
+            name ml "Mudhoo A",
+            affil str "Department of Chemical and Environmental Engineering,
+ Faculty of Engineering, University of Mauritius, Reduit 80837, Mauritius.
+ Electronic address: a.mudhoo@uom.ac.mu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Bioresour. Technol.",
+          ml-jta "Bioresour Technol",
+          issn "1873-2976",
+          name "Bioresource technology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "248",
+          issue "Pt A",
+          pages "280-286",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 21
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28602662,
+        pii "S0960-8524(17)30875-1",
+        doi "10.1016/j.biortech.2017.05.200",
+        other {
+          db "ELocationID pii",
+          tag str "S0960-8524(17)30875-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biortech.2017.05.200"
+        }
+      }
+    },
+    abstract "The effects of microwave irradiation on the digestibility and
+ biogas production of cauliflower (Brassica oleracea var. botrytis) and
+ cabbage (Brassica oleracea var. capitata) leaves were investigated using
+ biochemical methane potential (BMP) assays. Cow dung was utilised as
+ inoculum. Different microwave powers (87.5, 175 and 350W) were applied in a
+ first set of runs for 15min. The second set consisted of 20, 25 and 30min
+ irradiation at 350W. Based on ANOVA analysis (alpha=0.05), biogas production
+ was significantly higher for the irradiated substrates compared to controls.
+ The peak biogas production was 700ml for 36days HRT for 350W/25min. Peak COD,
+ SCOD, volatile and total solids removals were 54.84%, 39.08%, 34.60% and
+ 71.96%, respectively. Phosphate and total nitrogen increased significantly.
+ Cumulative biogas production data fitted the modified Gompertz equation well.
+ The highest biogas yield was 0.271L/g VSremoved at a 350W microwave
+ irradiation for 30min.",
+    mesh {
+      {
+        term "Anaerobiosis"
+      },
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Biofuels"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Methane"
+      },
+      {
+        mp TRUE,
+        term "Microwaves"
+      },
+      {
+        mp TRUE,
+        term "Vegetables"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biofuels"
+      },
+      {
+        type cas,
+        cit "OP0UW79H66",
+        name "Methane"
+      }
+    },
+    pmid 28602662,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

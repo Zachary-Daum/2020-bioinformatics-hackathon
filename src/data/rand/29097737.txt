@@ -1,0 +1,146 @@
+
+Pubmed-entry ::= {
+  pmid 29097737,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Encapsulation of cathode in lithium-sulfur batteries with a
+ novel two-dimensional carbon allotrope: DHP-graphene."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cai Y",
+            affil str "Department of Physics, School of Science, Nanchang
+ University, Nanchang, 330031, China. yingxiangcai@ncu.edu.cn."
+          },
+          {
+            name ml "Guo Y",
+            affil str "Department of Physics, School of Science, Nanchang
+ University, Nanchang, 330031, China."
+          },
+          {
+            name ml "Jiang B",
+            affil str "Department of Physics, School of Science, Nanchang
+ University, Nanchang, 330031, China."
+          },
+          {
+            name ml "Lv Y",
+            affil str "Department of Physics, School of Science, Nanchang
+ University, Nanchang, 330031, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11,
+            day 2
+          },
+          volume "7",
+          issue "1",
+          pages "14948",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 4,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29097737,
+        doi "10.1038/s41598-017-15010-7",
+        pii "10.1038/s41598-017-15010-7",
+        other {
+          db "pmc",
+          tag str "PMC5668302"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-017-15010-7"
+        }
+      }
+    },
+    abstract "Sulfur cathodes in lithium-sulfur (Li-S) batteries still suffer
+ from their low electronic conductivity, undesired dissolution of lithium
+ polysulfide (Li2S n , 3 </= n </= 8) species into the electrolyte, and large
+ degree volume change during the cycle. To overcome these problems, an
+ effective encapsulation for the sulfur cathode is necessary. By means of
+ particle swarm optimization (PSO) and density functional theory (DFT), we
+ have predicted a stable metallic two-dimensional sp (2)-hybridized carbon
+ allotrope (DHP-graphene). This carbon sheet can prevent S atoms from cathode
+ entering electrolyte. However, Li-ions can shuttle freely due to the
+ increasing difference in Li-ions concentration between electrolyte and
+ cathode along with the potential difference between cathode and anode during
+ charge-discharge cycles. In addition, versatile electronic band structures
+ and linear dispersion are found in DHP-graphene nanoribbons but only metallic
+ band structure occurs for DHP-graphene nanotubes.",
+    pmid 29097737,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

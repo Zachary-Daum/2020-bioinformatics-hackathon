@@ -1,0 +1,161 @@
+
+Pubmed-entry ::= {
+  pmid 28645149,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Structural determinants of APOBEC3B non-catalytic domain for
+ molecular assembly and catalytic regulation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xiao X",
+            affil str "Genetic, Molecular and Cellular Biology Program, Keck
+ School of Medicine, University of Southern California, Los Angeles, CA 90089,
+ USA.; Molecular and Computational Biology, Departments of Biological Sciences
+ and Chemistry, University of Southern California, Los Angeles, CA 90089, USA."
+          },
+          {
+            name ml "Yang H",
+            affil str "Molecular and Computational Biology, Departments of
+ Biological Sciences and Chemistry, University of Southern California, Los
+ Angeles, CA 90089, USA."
+          },
+          {
+            name ml "Arutiunian V",
+            affil str "Molecular and Computational Biology, Departments of
+ Biological Sciences and Chemistry, University of Southern California, Los
+ Angeles, CA 90089, USA."
+          },
+          {
+            name ml "Fang Y",
+            affil str "Molecular and Computational Biology, Departments of
+ Biological Sciences and Chemistry, University of Southern California, Los
+ Angeles, CA 90089, USA.; Department of Clinical Microbiology and Immunology
+ of Southwest Hospital, Third Military Medical University, Chongqing 400038,
+ China.; 161 Hospital, Wuhan 430012, China."
+          },
+          {
+            name ml "Besse G",
+            affil str "Molecular and Computational Biology, Departments of
+ Biological Sciences and Chemistry, University of Southern California, Los
+ Angeles, CA 90089, USA.; Polytech' Clermont-Ferrand, Universite Blaise
+ Pascal, Clermont-Ferrand, France."
+          },
+          {
+            name ml "Morimoto C",
+            affil str "Molecular and Computational Biology, Departments of
+ Biological Sciences and Chemistry, University of Southern California, Los
+ Angeles, CA 90089, USA."
+          },
+          {
+            name ml "Zirkle B",
+            affil str "Genetic, Molecular and Cellular Biology Program, Keck
+ School of Medicine, University of Southern California, Los Angeles, CA 90089,
+ USA.; Molecular and Computational Biology, Departments of Biological Sciences
+ and Chemistry, University of Southern California, Los Angeles, CA 90089, USA."
+          },
+          {
+            name ml "Chen XS",
+            affil str "Genetic, Molecular and Cellular Biology Program, Keck
+ School of Medicine, University of Southern California, Los Angeles, CA 90089,
+ USA.; Molecular and Computational Biology, Departments of Biological Sciences
+ and Chemistry, University of Southern California, Los Angeles, CA 90089,
+ USA.; Center of Excellence in NanoBiophysics, University of Southern
+ California, Los Angeles, CA 90089, USA.; Norris Comprehensive Cancer Center,
+ University of Southern California, Los Angeles, CA 90089, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nucleic Acids Res.",
+          ml-jta "Nucleic Acids Res",
+          issn "1362-4962",
+          name "Nucleic acids research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 7
+          },
+          volume "45",
+          issue "12",
+          pages "7540",
+          language "eng",
+          retract {
+            type erratum,
+            exp "Nucleic Acids Res. 2017 Jul 7;45(12 ):7494-7506. PMID:
+ 28575276"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 25,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28645149,
+        pii "3883742",
+        doi "10.1093/nar/gkx564",
+        other {
+          db "pmc",
+          tag str "PMC5499557"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/nar/gkx564"
+        }
+      }
+    },
+    idnum {
+      "R01 GM087986/GM/NIGMS NIH HHS"
+    },
+    pmid 28645149,
+    pub-type {
+      "Journal Article",
+      "Published Erratum"
+    },
+    status premedline
+  }
+}
+
+

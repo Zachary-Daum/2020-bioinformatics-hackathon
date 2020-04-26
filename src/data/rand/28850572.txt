@@ -1,0 +1,209 @@
+
+Pubmed-entry ::= {
+  pmid 28850572,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Epibenthic communities associated with unintentional artificial
+ reefs (modern shipwrecks) under contrasting regimes of nutrients in the
+ Levantine Sea (Cyprus and Lebanon)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jimenez C",
+            affil str "Enalia Physis Environmental Research Centre (ENALIA),
+ Acropoleos 2, Aglanzia, Nicosia, Cyprus.; Energy, Environment and Water
+ Research Center (EEWRC) of The Cyprus Institute, Aglanzia, Nicosia, Cyprus."
+          },
+          {
+            name ml "Andreou V",
+            affil str "Enalia Physis Environmental Research Centre (ENALIA),
+ Acropoleos 2, Aglanzia, Nicosia, Cyprus."
+          },
+          {
+            name ml "Evriviadou M",
+            affil str "Energy, Environment and Water Research Center (EEWRC)
+ of The Cyprus Institute, Aglanzia, Nicosia, Cyprus."
+          },
+          {
+            name ml "Munkes B",
+            affil str "Helmholtz Centre for Ocean Research (GEOMAR),
+ Experimental Ecology Department, Dusternbrooker Weg 20, Kiel, Germany."
+          },
+          {
+            name ml "Hadjioannou L",
+            affil str "Enalia Physis Environmental Research Centre (ENALIA),
+ Acropoleos 2, Aglanzia, Nicosia, Cyprus."
+          },
+          {
+            name ml "Petrou A",
+            affil str "Enalia Physis Environmental Research Centre (ENALIA),
+ Acropoleos 2, Aglanzia, Nicosia, Cyprus."
+          },
+          {
+            name ml "Abu Alhaija R",
+            affil str "Enalia Physis Environmental Research Centre (ENALIA),
+ Acropoleos 2, Aglanzia, Nicosia, Cyprus.; Energy, Environment and Water
+ Research Center (EEWRC) of The Cyprus Institute, Aglanzia, Nicosia, Cyprus."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8,
+            day 29
+          },
+          volume "12",
+          issue "8",
+          pages "e0182486",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28850572,
+        doi "10.1371/journal.pone.0182486",
+        pii "PONE-D-16-44650",
+        other {
+          db "pmc",
+          tag str "PMC5574533"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0182486"
+        }
+      }
+    },
+    abstract "Artificial reefs, in the Eastern Mediterranean (Cyprus,) became
+ a popular and frequently used tool, in fisheries and biodiversity
+ conservation management. Even though evaluation studies about the efficacy of
+ artificial reefs are plentiful in the rest of the Mediterranean (Central and
+ Western), in the Eastern Basin they are largely absent. As the Eastern part
+ of the Mediterranean Sea is characterised by unique physical parameters, the
+ necessity to study artificial reefs under these contrasting regimes
+ increases. The epibenthic communities of two unintentional artificial reefs
+ (modern shipwrecks) in Cyprus (Zenobia) and Lebanon (Alice-B) were evaluated
+ in 2010. Both shipwrecks are at similar depth, type of sea bottom, made of
+ the same material (steel) and were sunk approximately the same period of
+ time. However, Alice-B shipwreck off the coast of Lebanon is constantly
+ exposed to higher levels of nutrients than Zenobia in Cyprus. Significant
+ dissimilarities were observed in the composition, percentage of benthic cover
+ of predominant taxonomic groups and development of the epibenthic
+ communities. Differences in physical and chemical parameters between sides
+ lay mainly in the nutrient and thermal regimes affecting the shipwrecks and
+ most likely bring about the differences in the observed community structure.
+ The results of this study suggest that epibenthic communities could be highly
+ impacted by eutrophication caused by anthropogenic activities, leading to
+ less biodiverse communities dominated by specific species that are favoured
+ by the eutrophic conditions.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anthozoa",
+        qual {
+          {
+            subh "growth & development"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Biodiversity"
+      },
+      {
+        mp TRUE,
+        term "Coral Reefs"
+      },
+      {
+        term "Cyprus"
+      },
+      {
+        mp TRUE,
+        term "Ecosystem"
+      },
+      {
+        mp TRUE,
+        term "Eutrophication"
+      },
+      {
+        term "Lebanon"
+      },
+      {
+        term "Mediterranean Sea"
+      }
+    },
+    pmid 28850572,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

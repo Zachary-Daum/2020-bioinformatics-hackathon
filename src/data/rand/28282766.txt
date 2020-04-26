@@ -1,0 +1,167 @@
+
+Pubmed-entry ::= {
+  pmid 28282766,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Risk factors for fatality in amniotic fluid embolism: a
+ systematic review and analysis of a data pool."
+      },
+      authors {
+        names std {
+          {
+            name ml "Indraccolo U",
+            affil str "a Complex Operative Unit of Obstetrics and Gynecology ,
+ ""Alto Tevere"" Hospital of Citta di Castello, ASL 1 Umbria , Citta di
+ Castello , Italy."
+          },
+          {
+            name ml "Battistoni C",
+            affil str "b Department of Gynecological, Obstetrical, and
+ Urological Sciences , ""Sapienza"" University of Rome , Rome , Italy."
+          },
+          {
+            name ml "Mastrantonio I",
+            affil str "b Department of Gynecological, Obstetrical, and
+ Urological Sciences , ""Sapienza"" University of Rome , Rome , Italy."
+          },
+          {
+            name ml "Di Iorio R",
+            affil str "c Department of Surgical and Clinical Sciences and
+ Translational Medicine , ""Sapienza"" University of Rome , Rome , Italy."
+          },
+          {
+            name ml "Greco P",
+            affil str "d Department of Morphology, Surgery and Experimental
+ Medicine , University of Ferrara , Ferrara , Italy."
+          },
+          {
+            name ml "Indraccolo SR",
+            affil str "b Department of Gynecological, Obstetrical, and
+ Urological Sciences , ""Sapienza"" University of Rome , Rome , Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Matern. Fetal. Neonatal. Med.",
+          ml-jta "J Matern Fetal Neonatal Med",
+          issn "1476-4954",
+          name "The journal of maternal-fetal & neonatal medicine : the
+ official journal of the European Association of Perinatal Medicine, the
+ Federation of Asia and Oceania Perinatal Societies, the International Society
+ of Perinatal Obstetricians"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "31",
+          issue "5",
+          pages "661-665",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28282766,
+        doi "10.1080/14767058.2017.1293034",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/14767058.2017.1293034"
+        }
+      }
+    },
+    abstract "PURPOSE: Investigating risk factors for amniotic fluid embolism
+ (AFE)-induced fatality. METHODS: A systematic review of cases of AFE
+ available on PubMed, Scielo, Scopus and AJOL databases that occurred from
+ 1990 to 2015 was carried out. After careful reading of titles, abstracts and
+ full texts, case reports of AFE were reviewed. Risk factors for AFE were
+ considered as independent variables in logistic regression models. The first
+ model was built on the whole data pool. The second model was built on typical
+ cases of AFE, according to the classical triad of symptoms (heart, lungs,
+ coagulopathy). The dependent variable was fatality in both models. RESULTS:
+ 177 cases of AFE were assessed in the first model, while 121 typical cases of
+ AFE were assessed in the second model. Among typical cases of AFE, only
+ oxytocin infusion during labour increases the likelihood of death (odds ratio
+ 2.890, 95% confidence interval 1.166-7.164, p = 0.022). No risk factors for
+ fatality were found in the whole data pool. CONCLUSIONS: Further research on
+ national registries should focus on the behaviour of oxytocin infusion during
+ labour in AFE cases.",
+    mesh {
+      {
+        term "Embolism, Amniotic Fluid",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Logistic Models"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Risk Factors"
+      }
+    },
+    pmid 28282766,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    },
+    status medline
+  }
+}
+
+

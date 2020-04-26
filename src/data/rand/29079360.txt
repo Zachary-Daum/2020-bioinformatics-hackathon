@@ -1,0 +1,376 @@
+
+Pubmed-entry ::= {
+  pmid 29079360,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PLGA nanoparticles loaded with beta-lactoglobulin-derived
+ peptides modulate mucosal immunity and may facilitate cow's milk allergy
+ prevention."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kostadinova AI",
+            affil str "Division of Pharmacology, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands; Department of Immunology, Nutricia Research,
+ Uppsalalaan 12, 3584CT Utrecht, The Netherlands. Electronic address:
+ a.i.kostadinova@uu.nl."
+          },
+          {
+            name ml "Middelburg J",
+            affil str "Division of Pharmacology, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands; Division of Pharmaceutics, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands."
+          },
+          {
+            name ml "Ciulla M",
+            affil str "Division of Pharmaceutics, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands."
+          },
+          {
+            name ml "Garssen J",
+            affil str "Division of Pharmacology, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands; Department of Immunology, Nutricia Research,
+ Uppsalalaan 12, 3584CT Utrecht, The Netherlands."
+          },
+          {
+            name ml "Hennink WE",
+            affil str "Division of Pharmaceutics, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands."
+          },
+          {
+            name ml "Knippels LMJ",
+            affil str "Division of Pharmacology, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands; Department of Immunology, Nutricia Research,
+ Uppsalalaan 12, 3584CT Utrecht, The Netherlands."
+          },
+          {
+            name ml "van Nostrum CF",
+            affil str "Division of Pharmaceutics, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands."
+          },
+          {
+            name ml "Willemsen LEM",
+            affil str "Division of Pharmacology, Utrecht Institute for
+ Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, 3584CG
+ Utrecht, The Netherlands."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Pharmacol.",
+          ml-jta "Eur J Pharmacol",
+          issn "1879-0712",
+          name "European journal of pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 5
+          },
+          volume "818",
+          pages "211-220",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29079360,
+        pii "S0014-2999(17)30710-0",
+        doi "10.1016/j.ejphar.2017.10.051",
+        other {
+          db "ELocationID pii",
+          tag str "S0014-2999(17)30710-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejphar.2017.10.051"
+        }
+      }
+    },
+    abstract "Beta-lactoglobulin (BLG)-derived peptides may facilitate oral
+ tolerance to whey and prevent cow's milk allergy (CMA). Loading of
+ BLG-peptides in poly(lactic-co-glycolic acid) (PLGA) nanoparticles (Pep-NP)
+ may improve this. Here we studied the uptake of NP and the capacity of NP and
+ Pep-NP to activate bone marrow dendritic cells (BMDC). Furthermore, CMA
+ prevention was evaluated by orally exposing three-week-old female C3H/HeOuJ
+ mice to Pep-NP, NP or free peptides (PepMix) for 6 days before oral
+ sensitization with whole whey protein and effects on the spleen and small
+ intestine lamina propria (SI-LP) were studied. In BMDC, NP and Pep-NP
+ enhanced CD40 expression and IL-6 and TNF-alpha secretion, while tended to
+ decrease CD80 expression and prevented PepMix-induced IL-12 secretion. In
+ vivo, oral exposure to Pep-NP, but not NP or PepMix, prior to whey
+ sensitization tended to partially prevent the acute allergic skin response to
+ whole whey protein. Splenocytes of NP-pre-exposed mice secreted increased
+ levels of whey-specific IL-6, but this was silenced in Pep-NP-pre-exposed
+ mice which also showed reduced TNF-alpha and IFN-gamma secretion. In the
+ SI-LP, Pep-NP pre-exposure reduced the CD4(+) T cell frequency in CMA mice
+ compared to PBS pre-exposure. In addition, while NP increased whey-specific
+ IL-6 secretion in the SI-LP, Pep-NP did not and maintained regulatory
+ TGF-beta secretion. This study presents a proof-of-concept that PLGA
+ nanoparticles facilitate the capacity of BLG peptides to suppress the
+ allergic response to whole whey protein. Hence, PLGA nanoparticles may be
+ further developed as an adjunct strategy for BLG-peptide-based oral tolerance
+ induction and CMA prevention.",
+    mesh {
+      {
+        term "Allergens",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Drug Carriers",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Immunity, Mucosal",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Lactic Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Lactoglobulins",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Milk Hypersensitivity",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Nanoparticles",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Peptide Fragments",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Polyglycolic Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Polylactic Acid-Polyglycolic Acid Copolymer"
+      },
+      {
+        term "Spleen",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "T-Lymphocytes, Regulatory",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Whey Proteins",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Allergens"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Drug Carriers"
+      },
+      {
+        type nameonly,
+        name "Lactoglobulins"
+      },
+      {
+        type nameonly,
+        name "Peptide Fragments"
+      },
+      {
+        type nameonly,
+        name "Whey Proteins"
+      },
+      {
+        type cas,
+        cit "1SIA8062RS",
+        name "Polylactic Acid-Polyglycolic Acid Copolymer"
+      },
+      {
+        type cas,
+        cit "26009-03-0",
+        name "Polyglycolic Acid"
+      },
+      {
+        type cas,
+        cit "33X04XA5AT",
+        name "Lactic Acid"
+      }
+    },
+    pmid 29079360,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

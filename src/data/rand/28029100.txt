@@ -1,0 +1,124 @@
+
+Pubmed-entry ::= {
+  pmid 28029100,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A novel fabrication methodology for sulfur-doped ZnO nanorods as
+ an active photoanode for improved water oxidation in visible-light regime."
+      },
+      authors {
+        names std {
+          {
+            name ml "Khan A",
+            affil str "Center of Excellence in Nanotechnology (CENT), King
+ Fahd University of Petroleum and Minerals, Dhahran 31261, Kingdom of Saudi
+ Arabia."
+          },
+          {
+            name ml "Ahmed MI"
+          },
+          {
+            name ml "Adam A"
+          },
+          {
+            name ml "Azad AM"
+          },
+          {
+            name ml "Qamar M"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nanotechnology",
+          ml-jta "Nanotechnology",
+          issn "1361-6528",
+          name "Nanotechnology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2,
+            day 3
+          },
+          volume "28",
+          issue "5",
+          pages "055602",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2016,
+                month 12,
+                day 29,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28029100,
+        doi "10.1088/1361-6528/aa51b6",
+        other {
+          db "ELocationID doi",
+          tag str "10.1088/1361-6528/aa51b6"
+        }
+      }
+    },
+    abstract "Incorporation of foreign moiety in the lattice of semiconductors
+ significantly alters their optoelectronic behavior and opens a plethora of
+ new applications. In this paper, we report the synthesis of sulfur-doped zinc
+ oxide (S-doped ZnO) nanorods by reacting ZnO nanorods with diammonium sulfide
+ in vapor phase. Microscopic investigation revealed that the morphological
+ features, such as, the length (2-4 mum) and width (100-250 nm) of the
+ original hexagonal ZnO nanorods remained intact post-sulfidation. X-ray
+ photoelectron spectroscopy analysis of the sulfide sample confirmed the
+ incorporation of sulfur into ZnO lattice. The optical measurements suggested
+ the extension of absorption threshold into visible region upon sulfidation.
+ Photoelectrochemical (PEC) activities of pure and S-doped ZnO nanorods were
+ compared for water oxidation in visible light (lambda > 420 nm), which showed
+ several-fold increment in the performance of S-doped ZnO sample; the observed
+ amelioration in the PEC activity was rationalized in terms of preferred
+ visible light absorption and low resistance of sulfide sample, as evidenced
+ by optical and electrochemical impedance spectroscopy.",
+    pmid 28029100,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

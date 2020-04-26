@@ -1,0 +1,228 @@
+
+Pubmed-entry ::= {
+  pmid 29364001,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Perceived personality change after traumatic brain injury II:
+ comparing participant and informant perspectives."
+      },
+      authors {
+        names std {
+          {
+            name ml "Weddell RA",
+            affil str "a Neuropsychology Department , Morriston Hospital ,
+ Swansea , UK.; b Brain Injury Research Group , Swansea University , Swansea ,
+ UK."
+          },
+          {
+            name ml "Wood RL",
+            affil str "b Brain Injury Research Group , Swansea University ,
+ Swansea , UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Brain Inj",
+          ml-jta "Brain Inj",
+          issn "1362-301X",
+          name "Brain injury"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "32",
+          issue "4",
+          pages "442-452",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29364001,
+        doi "10.1080/02699052.2018.1429657",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/02699052.2018.1429657"
+        }
+      }
+    },
+    abstract "OBJECTIVE: The objective of this paper was to correlate
+ informant personality change (PC) judgements following moderate-severe
+ traumatic brain injury with quantitative neurobehavioural measures and to
+ contrast the neurobehavioural correlates of informant and participant
+ judgements of PC. PARTICIPANTS: Informant-participant pairs were recruited
+ from a medico-legal clinic passing effort tests (N = 31) and a National
+ Health Service clinic (N = 40). MEASURES: Participants were assessed on
+ Wechsler tests of general ability, tests of executive functioning (Zoo Map
+ and Fluency) and emotional distress (Beck Depression Inventory-FastScreen,
+ Hospital Anxiety and Depression Scale and State-Trait Anger Expression
+ Inventory-II). Informants' expressed emotion towards participants was
+ assessed with the family questionnaire. Both completed the DEX, the Frontal
+ and Social Behavior Questionnaire and PC ratings. RESULTS: The correlates of
+ participant and informant ratings of participant PC partially overlapped. For
+ example, participant self-reported PC was associated with self-reported
+ dysexecutive symptoms and emotional distress. In contrast, informant report
+ of participant PC was associated with lower perceived emotional recognition
+ and empathy, informant report of dysexecutive symptoms and high informant
+ expressed emotion. CONCLUSIONS: It is argued that whilst researchers aim to
+ exhaustively quantify specific neurobehavioural changes and their clusters,
+ partially overlapping subsets of these changes evoke the PC judgements of
+ participants and informants. The clinical implications of this are briefly
+ considered.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Affective Symptoms",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Brain Injuries, Traumatic",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Cognition Disorders",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Family",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neuropsychological Tests"
+      },
+      {
+        term "Perception",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Personality Disorders",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Personality Inventory"
+      },
+      {
+        term "Psychiatric Status Rating Scales"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Self Report"
+      },
+      {
+        term "Social Behavior"
+      },
+      {
+        term "Statistics, Nonparametric"
+      },
+      {
+        term "Wechsler Scales"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29364001,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

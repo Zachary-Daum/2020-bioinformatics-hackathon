@@ -1,0 +1,217 @@
+
+Pubmed-entry ::= {
+  pmid 28791258,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prevention and Control Strategies to Counter Dengue Virus
+ Infection."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rather IA",
+            affil str "Department of Applied Microbiology and Biotechnology,
+ School of Biotechnology, Yeungnam UniversityGyeongsan, South Korea."
+          },
+          {
+            name ml "Parray HA",
+            affil str "Department of Biotechnology, Daegu UniversityGyungsan,
+ South Korea."
+          },
+          {
+            name ml "Lone JB",
+            affil str "Department of Biotechnology, Daegu UniversityGyungsan,
+ South Korea."
+          },
+          {
+            name ml "Paek WK",
+            affil str "National Science Museum, Ministry of Science, ICT and
+ Future PlanningDaejeon, South Korea."
+          },
+          {
+            name ml "Lim J",
+            affil str "National Science Museum, Ministry of Science, ICT and
+ Future PlanningDaejeon, South Korea."
+          },
+          {
+            name ml "Bajpai VK",
+            affil str "Department of Applied Microbiology and Biotechnology,
+ School of Biotechnology, Yeungnam UniversityGyeongsan, South Korea."
+          },
+          {
+            name ml "Park YH",
+            affil str "Department of Applied Microbiology and Biotechnology,
+ School of Biotechnology, Yeungnam UniversityGyeongsan, South Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Front Cell Infect Microbiol",
+          ml-jta "Front Cell Infect Microbiol",
+          issn "2235-2988",
+          name "Frontiers in cellular and infection microbiology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 25
+          },
+          volume "7",
+          pages "336",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 10
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28791258,
+        doi "10.3389/fcimb.2017.00336",
+        other {
+          db "pmc",
+          tag str "PMC5524668"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3389/fcimb.2017.00336"
+        }
+      }
+    },
+    abstract "Dengue is currently the highest and rapidly spreading
+ vector-borne viral disease, which can lead to mortality in its severe form.
+ The globally endemic dengue poses as a public health and economic challenge
+ that has been attempted to suppress though application of various prevention
+ and control techniques. Therefore, broad spectrum techniques, that are
+ efficient, cost-effective, and environmentally sustainable, are proposed and
+ practiced in dengue-endemic regions. The development of vaccines and
+ immunotherapies have introduced a new dimension for effective dengue control
+ and prevention. Thus, the present study focuses on the preventive and control
+ strategies that are currently employed to counter dengue. While traditional
+ control strategies bring temporary sustainability alone, implementation of
+ novel biotechnological interventions, such as sterile insect technique,
+ paratransgenesis, and production of genetically modified vectors, has
+ improved the efficacy of the traditional strategies. Although a large-scale
+ vector control strategy can be limited, innovative vaccine candidates have
+ provided evidence for promising dengue prevention measures. The use of
+ tetravalent dengue vaccine (CYD-TDV) has been the most effective so far in
+ treating dengue infections. Nonetheless, challenges and limitation hinder the
+ progress of developing integrated intervention methods and vaccines; while
+ the improvement in the latest techniques and vaccine formulation continues,
+ one can hope for a future without the threat of dengue virus.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Communicable Disease Control",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          },
+          {
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Culicidae"
+      },
+      {
+        term "Dengue",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Dengue Vaccines",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Humans"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Dengue Vaccines"
+      }
+    },
+    pmid 28791258,
+    pub-type {
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

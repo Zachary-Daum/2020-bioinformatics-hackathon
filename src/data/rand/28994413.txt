@@ -1,0 +1,236 @@
+
+Pubmed-entry ::= {
+  pmid 28994413,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "FlexED8: the first member of a fast and flexible sample-changer
+ family for macromolecular crystallography."
+      },
+      authors {
+        names std {
+          {
+            name ml "Papp G",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Felisaz F",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Sorez C",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Lopez-Marrero M",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Janocha R",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Manjasetty B",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Gobbo A",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Belrhali H",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Bowler MW",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          },
+          {
+            name ml "Cipriani F",
+            affil str "European Molecular Biology Laboratory, Grenoble
+ Outstation, 71 Avenue des Martyrs, CS 90181, 38042 Grenoble, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acta Crystallogr D Struct Biol",
+          ml-jta "Acta Crystallogr D Struct Biol",
+          issn "2059-7983",
+          name "Acta crystallographica. Section D, Structural biology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10,
+            day 1
+          },
+          volume "73",
+          issue "Pt 10",
+          pages "841-851",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28994413,
+        pii "S2059798317013596",
+        doi "10.1107/S2059798317013596",
+        other {
+          db "pmc",
+          tag str "PMC5633909"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1107/S2059798317013596"
+        }
+      }
+    },
+    abstract "Automated sample changers are now standard equipment for modern
+ macromolecular crystallography synchrotron beamlines. Nevertheless, most are
+ only compatible with a single type of sample holder and puck. Recent work
+ aimed at reducing sample-handling efforts and crystal-alignment times at
+ beamlines has resulted in a new generation of compact and precise sample
+ holders for cryocrystallography: miniSPINE and NewPin [see the companion
+ paper by Papp et al. (2017, Acta Cryst., D73, 829-840)]. With full data
+ collection now possible within seconds at most advanced beamlines, and future
+ fourth-generation synchrotron sources promising to extract data in a few tens
+ of milliseconds, the time taken to mount and centre a sample is
+ rate-limiting. In this context, a versatile and fast sample changer, FlexED8,
+ has been developed that is compatible with the highly successful SPINE sample
+ holder and with the miniSPINE and NewPin sample holders. Based on a six-axis
+ industrial robot, FlexED8 is equipped with a tool changer and includes a
+ novel open sample-storage dewar with a built-in ice-filtering system. With
+ seven versatile puck slots, it can hold up to 112 SPINE sample holders in
+ uni-pucks, or 252 miniSPINE or NewPin sample holders, with 36 samples per
+ puck. Additionally, a double gripper, compatible with the SPINE sample
+ holders and uni-pucks, allows a reduction in the sample-exchange time from 40
+ s, the typical time with a standard single gripper, to less than 5 s.
+ Computer vision-based sample-transfer monitoring, sophisticated error
+ handling and automatic error-recovery procedures ensure high reliability. The
+ FlexED8 sample changer has been successfully tested under real conditions on
+ a beamline.",
+    mesh {
+      {
+        term "Crystallography",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Equipment Design"
+      },
+      {
+        term "Proteins",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Robotics",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Specimen Handling"
+      },
+      {
+        term "Temperature"
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Proteins"
+      }
+    },
+    pmid 28994413,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

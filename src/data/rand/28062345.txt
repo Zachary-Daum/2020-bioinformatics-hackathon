@@ -1,0 +1,294 @@
+
+Pubmed-entry ::= {
+  pmid 28062345,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tumor Talk and Child Well-Being: Perceptions of ""Good"" and ""B
+ad"" News Among Parents of Children With Advanced Cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Feraco AM",
+            affil str "Dana-Farber Cancer Institute, Boston Children's
+ Hospital and Harvard Medical School, Boston, Massachusetts, USA; Ariadne
+ Labs, Brigham and Women's Hospital and Harvard T.H. Chan School of Public
+ Health, Boston, Massachusetts, USA. Electronic address:
+ Angela_Feraco@dfci.harvard.edu."
+          },
+          {
+            name ml "Dussel V",
+            affil str "Dana-Farber Cancer Institute, Boston Children's
+ Hospital and Harvard Medical School, Boston, Massachusetts, USA; Center for
+ Research and Implementation in Palliative Care, Institute for Clinical
+ Effectiveness and Health Policy, Buenos Aires, Argentina."
+          },
+          {
+            name ml "Orellana L",
+            affil str "Biostatistics Unit, Deakin University, Geelong,
+ Victoria, Australia."
+          },
+          {
+            name ml "Kang TI",
+            affil str "Children's Hospital of Philadelphia and University of
+ Pennsylvania, Philadelphia, Pennsylvania, USA; Texas Children's Hospital,
+ Baylor College of Medicine, Houston, Texas, USA."
+          },
+          {
+            name ml "Geyer JR",
+            affil str "Fred Hutchinson Cancer Research Center, Seattle
+ Children's Hospital and University of Washington, Seattle, Washington, USA."
+          },
+          {
+            name ml "Rosenberg AR",
+            affil str "Fred Hutchinson Cancer Research Center, Seattle
+ Children's Hospital and University of Washington, Seattle, Washington, USA."
+          },
+          {
+            name ml "Feudtner C",
+            affil str "Children's Hospital of Philadelphia and University of
+ Pennsylvania, Philadelphia, Pennsylvania, USA."
+          },
+          {
+            name ml "Wolfe J",
+            affil str "Dana-Farber Cancer Institute, Boston Children's
+ Hospital and Harvard Medical School, Boston, Massachusetts, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Pain Symptom Manage",
+          ml-jta "J Pain Symptom Manage",
+          issn "1873-6513",
+          name "Journal of pain and symptom management"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "53",
+          issue "5",
+          pages "833-841",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 11,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 11,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28062345,
+        pii "S0885-3924(16)31227-1",
+        doi "10.1016/j.jpainsymman.2016.11.013",
+        other {
+          db "pmc",
+          tag str "PMC5410177"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS840384"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0885-3924(16)31227-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jpainsymman.2016.11.013"
+        }
+      }
+    },
+    abstract "CONTEXT: Little is known about how parents of children with
+ advanced cancer classify news they receive about their child's medical
+ condition. OBJECTIVE: To develop concepts of ""good news"" and ""bad news""
+ in discussions of advanced childhood cancer from parent perspectives.
+ METHODS: Parents of children with advanced cancer cared for at three children
+'s hospitals were asked to share details of conversations in the preceding
+ three months that contained ""good news"" or ""bad news"" related to their
+ child's medical condition. We used mixed methods to evaluate parent responses
+ to both open-ended and fixed-response items. RESULTS: Of 104 enrolled
+ parents, 86 (83%) completed the survey. Six (7%) parents reported discussing
+ neither good nor bad news, 18 (21%) reported only bad news, 15 (17%) reported
+ only good news, and 46 (54%) reported both good and bad news (one missing
+ response). Seventy-six parents (88%) answered free-response items.
+ Descriptions of both good and bad news discussions consisted predominantly of
+ ""tumor talk"" or cancer control. Additional treatment options featured
+ prominently, particularly in discussions of bad news (42%). Child well-being,
+ an important good news theme, encompassed treatment tolerance, symptom
+ reduction, and quality of life. CONCLUSION: A majority of parents of children
+ with advanced cancer report discussing both good and bad news in the
+ preceding three months. Although news related primarily to cancer control,
+ parents also describe good news discussions related to their child's
+ well-being. Understanding how parents of children with advanced cancer
+ classify and describe the news they receive may enhance efforts to promote
+ family-centered communication.",
+    mesh {
+      {
+        term "Access to Information",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child Health",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Child Welfare",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Parent-Child Relations"
+      },
+      {
+        term "Parents",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Professional-Family Relations"
+      },
+      {
+        term "Quality of Life",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Truth Disclosure"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "K07 CA096746/CA/NCI NIH HHS",
+      "T32 HL007574/HL/NHLBI NIH HHS"
+    },
+    pmid 28062345,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

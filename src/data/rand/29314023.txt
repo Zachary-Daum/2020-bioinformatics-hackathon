@@ -1,0 +1,99 @@
+
+Pubmed-entry ::= {
+  pmid 29314023,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "JAP Editorial February 2018."
+      },
+      authors {
+        names ml {
+          "Meredith-Owen W"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Anal Psychol",
+          ml-jta "J Anal Psychol",
+          issn "1468-5922",
+          name "The Journal of analytical psychology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "63",
+          issue "1",
+          pages "3-5",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29314023,
+        doi "10.1111/1468-5922.12376",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/1468-5922.12376"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Psychoanalytic Theory"
+      }
+    },
+    pmid 29314023,
+    pub-type {
+      "Editorial",
+      "Introductory Journal Article"
+    },
+    status medline
+  }
+}
+
+

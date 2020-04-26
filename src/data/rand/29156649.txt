@@ -1,0 +1,263 @@
+
+Pubmed-entry ::= {
+  pmid 29156649,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Short-Term Choriocapillaris Changes in Patients with Central
+ Serous Chorioretinopathy after Half-Dose Photodynamic Therapy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nassisi M",
+            affil str "Department of Surgical Science, University of Torino,
+ 10126 Torino, Italy. m.nassisi@gmail.com."
+          },
+          {
+            name ml "Lavia C",
+            affil str "Department of Surgical Science, University of Torino,
+ 10126 Torino, Italy. carlo.lavia@googlemail.com."
+          },
+          {
+            name ml "Alovisi C",
+            affil str "Department of Surgical Science, University of Torino,
+ 10126 Torino, Italy. camillaalovisi@gmail.com."
+          },
+          {
+            name ml "Musso L",
+            affil str "Department of Surgical Science, University of Torino,
+ 10126 Torino, Italy. luk.musso@libero.it."
+          },
+          {
+            name ml "Eandi CM",
+            affil str "Department of Surgical Science, University of Torino,
+ 10126 Torino, Italy. chiara.eandi@unito.it."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Mol Sci",
+          ml-jta "Int J Mol Sci",
+          issn "1422-0067",
+          name "International journal of molecular sciences"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11,
+            day 20
+          },
+          volume "18",
+          issue "11",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 17
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29156649,
+        pii "ijms18112468",
+        doi "10.3390/ijms18112468",
+        other {
+          db "pmc",
+          tag str "PMC5713434"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E2468"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijms18112468"
+        }
+      }
+    },
+    abstract "BACKGROUND: Although photodynamic therapy (PDT) has become the
+ standard treatment for central serous chorioretinopathy (CSC), its mechanism
+ of action remains unclear. It is assumed that PDT induces short-term
+ choriocapillaris (CC) occlusion and long-term choroidal vascular remodeling.
+ In this paper, we describe the short-term CC changes induced by Half-Dose PDT
+ (HD-PDT) in chronic CSC using optical coherence tomography-angiography
+ (OCTA). METHODS: This is a prospective interventional case series. Chronic
+ CSC eyes underwent Spectral-Domain OCT, Fundus Autofluorescence, FA, ICGA
+ (Heidelberg Spectralis, Heidelberg, Germany) and OCTA (RTVue XR Avanti with
+ AngioVue; Optovue Inc., Fremont, CA, USA) before HD-PDT, with follow-up after
+ one hour, one week, and one month. Vascular changes after PDT were analyzed
+ within the CC layer. The CC vessel density was defined as the percentage of
+ an area occupied by flow pixels, using Image J software to obtain
+ measurements by applying a grey level threshold. All pixels with a grey level
+ above the threshold were considered as indicators of blood flow. RESULTS: 20
+ eyes of 19 patients were included. At baseline the mean CC vessel density was
+ 94.87 +/- 2.32%. It significantly differed from the density at 1 week and 1
+ month (92.79 +/- 3.16% and 95.55 +/- 2.05%, p < 0.001, respectively), but not
+ with values at 1 h (94.8 +/- 2.28%, p = 0.516). CONCLUSIONS: CC vessel
+ density was significantly reduced at 1 week as compared with baseline,
+ suggesting a possible short-term effect of PDT on CC perfusion. After 1 month
+ however, the CC vessel density was even higher than the baseline, probably
+ due to a CC recovery. OCTA seems to be useful in the visualization of CC
+ vessels and in confirming the mechanism of action of PDT treatment in eyes
+ with chronic CSC.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Blood Vessels",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Central Serous Chorioretinopathy",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Choroid",
+        qual {
+          {
+            subh "blood supply"
+          },
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Fluorescein Angiography"
+      },
+      {
+        term "Fundus Oculi"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Photochemotherapy",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Tomography, Optical Coherence"
+      },
+      {
+        term "Visual Acuity",
+        qual {
+          {
+            subh "radiation effects"
+          }
+        }
+      }
+    },
+    pmid 29156649,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

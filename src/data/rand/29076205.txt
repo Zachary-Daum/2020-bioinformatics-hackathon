@@ -1,0 +1,258 @@
+
+Pubmed-entry ::= {
+  pmid 29076205,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Inclusion complexes of yellow bell pepper pigments with
+ beta-cyclodextrin: preparation, characterisation and application as food
+ natural colorant."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lobo FAT",
+            affil str "Programa de Pos-Graduacao em Ciencias Aplicadas a
+ Produtos para Saude, Faculdade de Farmacia, Universidade Federal Fluminense,
+ Santa Rosa, Niteroi, Brazil."
+          },
+          {
+            name ml "Silva V",
+            affil str "Programa de Pos-Graduacao em Ciencias Aplicadas a
+ Produtos para Saude, Faculdade de Farmacia, Universidade Federal Fluminense,
+ Santa Rosa, Niteroi, Brazil."
+          },
+          {
+            name ml "Domingues J",
+            affil str "Programa de Pos-Graduacao em Ciencias Aplicadas a
+ Produtos para Saude, Faculdade de Farmacia, Universidade Federal Fluminense,
+ Santa Rosa, Niteroi, Brazil."
+          },
+          {
+            name ml "Rodrigues S",
+            affil str "Programa de Pos-Graduacao em Ciencias Aplicadas a
+ Produtos para Saude, Faculdade de Farmacia, Universidade Federal Fluminense,
+ Santa Rosa, Niteroi, Brazil."
+          },
+          {
+            name ml "Costa V",
+            affil str "Instituto Nacional de Tecnologia, Saude, Rio de
+ Janeiro, Brazil."
+          },
+          {
+            name ml "Falcao D",
+            affil str "Programa de Pos-Graduacao em Ciencias Aplicadas a
+ Produtos para Saude, Faculdade de Farmacia, Universidade Federal Fluminense,
+ Santa Rosa, Niteroi, Brazil."
+          },
+          {
+            name ml "de Lima Araujo KG",
+            affil str "Programa de Pos-Graduacao em Ciencias Aplicadas a
+ Produtos para Saude, Faculdade de Farmacia, Universidade Federal Fluminense,
+ Santa Rosa, Niteroi, Brazil."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Sci. Food Agric.",
+          ml-jta "J Sci Food Agric",
+          issn "1097-0010",
+          name "Journal of the science of food and agriculture"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "98",
+          issue "7",
+          pages "2665-2671",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29076205,
+        doi "10.1002/jsfa.8760",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jsfa.8760"
+        }
+      }
+    },
+    abstract "BACKGROUND: This work aimed to prepare inclusion complexes using
+ yellow bell pepper pigments and beta-cyclodextrin by two different procedures
+ (method A, ultrasonic homogenisation; method B, kneading), to characterise
+ them and evaluate their colour stability in an isotonic beverage model. The
+ extract/beta-cyclodextrin ratio was 1:2 for both inclusion methodologies
+ evaluated. The formed extract-beta-cyclodextrin complexes and a physical
+ mixture of extract and beta-cyclodextrin were evaluated by differential
+ scanning calorimetry (DSC) and Fourier transform infrared spectroscopy
+ (FTIR). RESULTS: Both methodologies resulted in good complex yield and
+ inclusion efficiency. The colour indices L* (lightness), a* (green/red) and
+ b* (blue/yellow) of isotonic drinks added with the complexes were measured
+ during storage under irradiance (1400 lx) and in the absence of light at
+ temperatures between 25 and 31  degrees C for 21 days. CONCLUSION: The
+ complex obtained by inclusion method B promoted better colour protection for
+ the beverage compared with the use of the crude extract, showing that the
+ molecular inclusion of yellow bell pepper carotenoids can provide good
+ results for that purpose. (c) 2017 Society of Chemical Industry.",
+    mesh {
+      {
+        term "Calorimetry, Differential Scanning"
+      },
+      {
+        term "Capsicum",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Food Coloring Agents",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Pigments, Biological",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Solid Phase Extraction",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Solubility"
+      },
+      {
+        term "Spectroscopy, Fourier Transform Infrared"
+      },
+      {
+        term "Ultrasonics",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "beta-Cyclodextrins",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Food Coloring Agents"
+      },
+      {
+        type nameonly,
+        name "Pigments, Biological"
+      },
+      {
+        type nameonly,
+        name "beta-Cyclodextrins"
+      }
+    },
+    pmid 29076205,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

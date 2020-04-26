@@ -1,0 +1,230 @@
+
+Pubmed-entry ::= {
+  pmid 29016826,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Emotion-regulation ability, role stress and teachers' mental
+ health."
+      },
+      authors {
+        names std {
+          {
+            name ml "Merida-Lopez S",
+            affil str "Department of Social Psychology, Faculty of Psychology,
+ University of Malaga, Malaga 29071, Spain."
+          },
+          {
+            name ml "Extremera N",
+            affil str "Department of Social Psychology, Faculty of Psychology,
+ University of Malaga, Malaga 29071, Spain."
+          },
+          {
+            name ml "Rey L",
+            affil str "Department of Personality Assessment and Psychological
+ Treatment, Faculty of Psychology, University of Malaga, Malaga 29071, Spain."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Occup Med (Lond)",
+          ml-jta "Occup Med (Lond)",
+          issn "1471-8405",
+          name "Occupational medicine (Oxford, England)"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10,
+            day 1
+          },
+          volume "67",
+          issue "7",
+          pages "540-545",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29016826,
+        pii "4085868",
+        doi "10.1093/occmed/kqx125",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/occmed/kqx125"
+        }
+      }
+    },
+    abstract "Background: Work-related stressors, including role ambiguity and
+ role conflict, are related to psychological maladjustment and mental
+ ill-health. However, to date, the role of personal resources such as
+ emotion-regulation ability (ERA) in the prediction of mental health
+ indicators has not been addressed. Aims: To examine whether ERA would
+ contribute to explaining teachers' depression, anxiety and stress symptoms
+ beyond role ambiguity and role conflict. Methods: We carried out a
+ cross-sectional questionnaire survey. We used a correlation matrix and
+ hierarchical regression models to analyse the data. Results: Three hundred
+ and thirty-six Spanish teachers (185 female) from several grade levels
+ completed the surveys (40% response rate). Role ambiguity and role conflict
+ were positively related to depression, anxiety and stress symptoms. ERA was
+ negatively related to teachers' scores on depressive, anxious and stress
+ symptoms, with predictive power above the main effects of role ambiguity and
+ role conflict. An interaction between role ambiguity and ERA was also
+ significant in predicting depression. Conclusions: Our study provides
+ preliminary evidence suggesting the development of integrative models
+ considering work-related stressors along with personal resources such as ERA
+ aiming to prevent teachers' mental ill-health. Future studies should examine
+ the influence of ERA on psychological symptoms using longitudinal designs.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Anxiety",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Depression",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Emotions"
+      },
+      {
+        term "Faculty",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Job Satisfaction"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mental Disorders",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Occupational Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Professional Role",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Spain",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 29016826,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

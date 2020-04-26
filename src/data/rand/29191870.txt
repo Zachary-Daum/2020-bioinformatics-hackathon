@@ -1,0 +1,280 @@
+
+Pubmed-entry ::= {
+  pmid 29191870,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reproducibility of Deep Gray Matter Atrophy Rate Measurement in
+ a Large Multicenter Dataset."
+      },
+      authors {
+        names std {
+          {
+            name ml "Meijerman A",
+            affil str "From the Departments of Radiology and Nuclear Medicine
+ (A.M., H.A., M.D.S., R.A.v.S., K.S.C., H.V.).; Epidemiology and Biostatistics
+ (A.M., M.A.J.), Vrije University Medical Center, Amsterdam, The Netherlands."
+          },
+          {
+            name ml "Amiri H",
+            affil str "From the Departments of Radiology and Nuclear Medicine
+ (A.M., H.A., M.D.S., R.A.v.S., K.S.C., H.V.) amiri.houshang@gmail.com.; the
+ Neuroscience Research Center, Institute of Neuropharmacology (H.A.), Kerman
+ University of Medical Sciences, Kerman, Iran."
+          },
+          {
+            name ml "Steenwijk MD",
+            affil str "From the Departments of Radiology and Nuclear Medicine
+ (A.M., H.A., M.D.S., R.A.v.S., K.S.C., H.V.)."
+          },
+          {
+            name ml "Jonker MA",
+            affil str "Epidemiology and Biostatistics (A.M., M.A.J.), Vrije
+ University Medical Center, Amsterdam, The Netherlands."
+          },
+          {
+            name ml "van Schijndel RA",
+            affil str "From the Departments of Radiology and Nuclear Medicine
+ (A.M., H.A., M.D.S., R.A.v.S., K.S.C., H.V.)."
+          },
+          {
+            name ml "Cover KS",
+            affil str "From the Departments of Radiology and Nuclear Medicine
+ (A.M., H.A., M.D.S., R.A.v.S., K.S.C., H.V.)."
+          },
+          {
+            name ml "Vrenken H",
+            affil str "From the Departments of Radiology and Nuclear Medicine
+ (A.M., H.A., M.D.S., R.A.v.S., K.S.C., H.V.)."
+          },
+          {
+            name consortium "Alzheimer's Disease Neuroimaging Initiative"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "AJNR Am J Neuroradiol",
+          ml-jta "AJNR Am J Neuroradiol",
+          issn "1936-959X",
+          name "AJNR. American journal of neuroradiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "39",
+          issue "1",
+          pages "46-53",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29191870,
+        pii "ajnr.A5459",
+        doi "10.3174/ajnr.A5459",
+        other {
+          db "ELocationID doi",
+          tag str "10.3174/ajnr.A5459"
+        }
+      }
+    },
+    abstract "BACKGROUND AND PURPOSE: Precise in vivo measurement of deep GM
+ volume change is a highly demanded prerequisite for an adequate evaluation of
+ disease progression and new treatments. However, quantitative data on the
+ reproducibility of deep GM structure volumetry are not yet available. In this
+ paper we aim to investigate this reproducibility using a large multicenter
+ dataset. MATERIALS AND METHODS: We have assessed the reproducibility of 2
+ automated segmentation software packages (FreeSurfer and the FMRIB Integrated
+ Registration and Segmentation Tool) by quantifying the volume changes of deep
+ GM structures by using back-to-back MR imaging scans from the Alzheimer
+ Disease Neuroimaging Initiative's multicenter dataset. Five hundred sixty-two
+ subjects with scans at baseline and 1 year were included. Reproducibility was
+ investigated in the bilateral caudate nucleus, putamen, amygdala, globus
+ pallidus, and thalamus by carrying out descriptives as well as multilevel and
+ variance component analysis. RESULTS: Median absolute back-to-back
+ differences varied between GM structures, ranging from 59.6-156.4 muL for
+ volume change, and 1.26%-8.63% for percentage volume change. FreeSurfer had a
+ better performance for the outcome of longitudinal volume change for the
+ bilateral amygdala, putamen, left caudate nucleus (P < .005), and right
+ thalamus (P < .001). For longitudinal percentage volume change, Freesurfer
+ performed better for the left amygdala, bilateral caudate nucleus, and left
+ putamen (P < .001). Smaller limits of agreement were found for FreeSurfer for
+ both outcomes for all GM structures except the globus pallidus. Our results
+ showed that back-to-back differences in 1-year percentage volume change were
+ approximately 1.5-3.5 times larger than the mean measured 1-year volume
+ change of those structures. CONCLUSIONS: Longitudinal deep GM atrophy
+ measures should be interpreted with caution. Furthermore, deep GM atrophy
+ measurement techniques require substantially improved reproducibility,
+ specifically when aiming for personalized medicine.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Atrophy",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Datasets as Topic"
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gray Matter",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Image Processing, Computer-Assisted",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Magnetic Resonance Imaging",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neuroimaging",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        term "Software"
+      }
+    },
+    idnum {
+      "U01 AG024904/AG/NIA NIH HHS"
+    },
+    pmid 29191870,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

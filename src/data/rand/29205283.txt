@@ -1,0 +1,210 @@
+
+Pubmed-entry ::= {
+  pmid 29205283,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Clinician factors associated with prescribing nicotine
+ replacement therapy in pregnancy: A cross-sectional survey of Australian
+ obstetricians and general practitioners."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bar-Zeev Y",
+            affil str "School of Medicine and Public Health, The University of
+ Newcastle, Callaghan, New South Wales, Australia."
+          },
+          {
+            name ml "Bonevski B",
+            affil str "School of Medicine and Public Health, The University of
+ Newcastle, Callaghan, New South Wales, Australia."
+          },
+          {
+            name ml "Gruppetta M",
+            affil str "Wollotuka Institute, The University of Newcastle,
+ Callaghan, New South Wales, Australia."
+          },
+          {
+            name ml "Twyman L",
+            affil str "School of Medicine and Public Health, The University of
+ Newcastle, Callaghan, New South Wales, Australia."
+          },
+          {
+            name ml "Atkins L",
+            affil str "Centre for Behaviour Change, University College London,
+ London, UK."
+          },
+          {
+            name ml "Palazzi K",
+            affil str "Hunter Medical Research Institute, Newcastle, New South
+ Wales, Australia."
+          },
+          {
+            name ml "Oldmeadow C",
+            affil str "School of Medicine and Public Health, The University of
+ Newcastle, Callaghan, New South Wales, Australia.; Hunter Medical Research
+ Institute, Newcastle, New South Wales, Australia."
+          },
+          {
+            name ml "Gould GS",
+            affil str "School of Medicine and Public Health, The University of
+ Newcastle, Callaghan, New South Wales, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Aust N Z J Obstet Gynaecol",
+          ml-jta "Aust N Z J Obstet Gynaecol",
+          issn "1479-828X",
+          name "The Australian & New Zealand journal of obstetrics &
+ gynaecology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "58",
+          issue "3",
+          pages "366-370",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29205283,
+        doi "10.1111/ajo.12751",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ajo.12751"
+        }
+      }
+    },
+    abstract "The use of nicotine replacement therapy in pregnancy has been
+ debated but evidence suggests that it is safer than smoking. A
+ cross-sectional survey was conducted with: (i) general practitioners and
+ obstetricians from a college database; and (ii) general practitioners with a
+ special interest in Indigenous health. General practitioners had higher odds
+ of prescribing compared to obstetricians. Reading guidelines, confidence,
+ viewing nicotine replacement therapy as safe, effective and with good
+ adherence, also significantly increased the odds of prescription. Clear
+ guidance regarding safety and efficacy, with practical clinical protocols,
+ are required in order to reduce variation in prescribing rates across these
+ clinicians.",
+    mesh {
+      {
+        term "Australia"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "General Practitioners"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Obstetrics"
+      },
+      {
+        term "Practice Patterns, Physicians'",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        mp TRUE,
+        term "Pregnancy Complications"
+      },
+      {
+        mp TRUE,
+        term "Prenatal Care"
+      },
+      {
+        mp TRUE,
+        term "Smoking Cessation"
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        mp TRUE,
+        term "Tobacco Use Cessation Devices"
+      }
+    },
+    pmid 29205283,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

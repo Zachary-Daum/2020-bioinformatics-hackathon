@@ -1,0 +1,227 @@
+
+Pubmed-entry ::= {
+  pmid 28748706,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Development of New Composite Metrics for the Comprehensive
+ Analytic and Visual Assessment of Hypoglycemia Using the Hypo-Triad."
+      },
+      authors {
+        names std {
+          {
+            name ml "Thomas A",
+            affil str "1 Medtronic GmbH, Pirna, Germany."
+          },
+          {
+            name ml "Shin J",
+            affil str "2 Medtronic Diabetes, Northridge, CA, USA."
+          },
+          {
+            name ml "Jiang B",
+            affil str "2 Medtronic Diabetes, Northridge, CA, USA."
+          },
+          {
+            name ml "McMahon C",
+            affil str "2 Medtronic Diabetes, Northridge, CA, USA."
+          },
+          {
+            name ml "Kolassa R",
+            affil str "3 Diabetologische Schwerpunktpraxis, Priamosstrasse,
+ Bergheim/Erft, Germany."
+          },
+          {
+            name ml "Vigersky RA",
+            affil str "2 Medtronic Diabetes, Northridge, CA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Diabetes Sci Technol",
+          ml-jta "J Diabetes Sci Technol",
+          issn "1932-2968",
+          name "Journal of diabetes science and technology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "12",
+          issue "1",
+          pages "69-75",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28748706,
+        doi "10.1177/1932296817721242",
+        other {
+          db "pmc",
+          tag str "PMC5761982"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1932296817721242"
+        }
+      }
+    },
+    abstract "BACKGROUND: Quantifying hypoglycemia has traditionally been
+ limited to using the frequency of hypoglycemic events during a given time
+ interval using data from blood glucose (BG) testing. However, continuous
+ glucose monitoring (CGM) captures three parameters-a Hypo-Triad-unavailable
+ with BG monitoring that can be used to better characterize hypoglycemia: area
+ under the curve (AUC), time (duration of hypoglycemia), and frequency of
+ daily episodes below a specified threshold. METHODS: We developed two new
+ analytic metrics to enhance the traditional Hypo-Triad of CGM-derived data to
+ more effectively capture the intensity of hypoglycemia (IntHypo) and overall
+ hypoglycemic environment called the ""hypoglycemia risk volume"" (HypoRV). We
+ reanalyzed the CGM data from the ASPIRE In-Home study, a randomized,
+ controlled trial of a sensor-integrated pump system with a low glucose
+ threshold suspend feature (SIP+TS), using these new metrics and compared them
+ to standard metrics of hypoglycemia. RESULTS: IntHypo and HypoRV provide
+ additional insights into the benefit of a SIP+TS system on glycemic exposure
+ when compared to the standard reporting methods. In addition, the visual
+ display of these parameters provides a unique and intuitive way to understand
+ the impact of a diabetes intervention on a cohort of subjects as well as on
+ individual patients. CONCLUSION: The IntHypo and HypoRV are new and enhanced
+ ways of analyzing CGM-derived data in diabetes intervention studies which
+ could lead to new insights in diabetes management. They require validation
+ using existing, ongoing, or planned studies to determine whether they are
+ superior to existing metrics.",
+    mesh {
+      {
+        term "Blood Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Blood Glucose Self-Monitoring",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Diabetes Mellitus",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypoglycemia",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Hypoglycemic Agents",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Insulin",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Blood Glucose"
+      },
+      {
+        type nameonly,
+        name "Hypoglycemic Agents"
+      },
+      {
+        type nameonly,
+        name "Insulin"
+      }
+    },
+    pmid 28748706,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

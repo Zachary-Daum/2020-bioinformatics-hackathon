@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 29378226,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Membrane-initiated estrogen signaling via Gq-coupled GPCR in the
+ central nervous system."
+      },
+      authors {
+        names std {
+          {
+            name ml "Vail G",
+            affil str "Department of Animal Sciences, School of Environmental
+ and Biological Sciences, Rutgers, The State University of New Jersey, New
+ Brunswick, NJ, United States; Joint Graduate Program in Toxicology, Rutgers,
+ The State University of New Jersey, New Brunswick, NJ, United States."
+          },
+          {
+            name ml "Roepke TA",
+            affil str "Department of Animal Sciences, School of Environmental
+ and Biological Sciences, Rutgers, The State University of New Jersey, New
+ Brunswick, NJ, United States; Joint Graduate Program in Toxicology, Rutgers,
+ The State University of New Jersey, New Brunswick, NJ, United States.
+ Electronic address: ta.roepke@rutgers.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Steroids",
+          ml-jta "Steroids",
+          issn "1878-5867",
+          name "Steroids"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "142",
+          pages "77-83",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29378226,
+        pii "S0039-128X(18)30018-7",
+        doi "10.1016/j.steroids.2018.01.010",
+        other {
+          db "pmc",
+          tag str "PMC6064680"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS938497"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0039-128X(18)30018-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.steroids.2018.01.010"
+        }
+      }
+    },
+    abstract "The last few decades have revealed increasing complexity and
+ depth to our knowledge of receptor-mediated estrogen signaling. Nuclear
+ estrogen receptors (ERs) ERalpha and ERbeta remain the fundamental dogma, but
+ recent research targeting membrane-bound ERs urges for a more expanded view
+ on ER signaling. ERalpha and ERbeta are also involved in membrane-delineated
+ signaling alongside membrane-specific G protein-coupled estrogen receptor 1
+ (GPER1), ER-X, and the Gq-coupled membrane ER (Gq-mER). Membrane ERs are
+ responsible for eliciting rapid responses to estrogen signaling, and their
+ importance has been increasingly indicated in central nervous system (CNS)
+ regulation of such functions as reproduction, energy homeostasis, and stress.
+ While the Gq-mER signaling pathway is well characterized, the receptor
+ structure and gene remains uncharacterized, although it is not similar to the
+ nuclear ERalpha/beta. This review will describe the current knowledge of this
+ putative membrane ER and its selective ligand, STX, from its initial
+ characterization in hypothalamic melanocortin circuitry to recent research
+ exploring its role in the CNS outside of the hypothalamus.",
+    mesh {
+      {
+        term "Cell Membrane",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Central Nervous System",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Estrogens",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Receptors, Estrogen",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, G-Protein-Coupled",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Signal Transduction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Estrogens"
+      },
+      {
+        type nameonly,
+        name "GPER1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Receptors, Estrogen"
+      },
+      {
+        type nameonly,
+        name "Receptors, G-Protein-Coupled"
+      }
+    },
+    idnum {
+      "P30 ES005022/ES/NIEHS NIH HHS",
+      "R00 DK083457/DK/NIDDK NIH HHS",
+      "R21 ES027119/ES/NIEHS NIH HHS",
+      "T32 ES007148/ES/NIEHS NIH HHS"
+    },
+    pmid 29378226,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

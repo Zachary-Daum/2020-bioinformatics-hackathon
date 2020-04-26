@@ -1,0 +1,229 @@
+
+Pubmed-entry ::= {
+  pmid 29182957,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ankle fracture - Correlation of Lauge-Hansen classification and
+ patient reported fracture mechanism."
+      },
+      authors {
+        names std {
+          {
+            name ml "Boszczyk A",
+            affil str "Department of Traumatology and Orthopaedics, Centre of
+ Postgraduate Medical Education, Prof. Adam Gruca Clinical Hospital,
+ Konarskiego Str. 13, 05-400 Otwock, Poland. Electronic address:
+ ortopeda@boszczyk.pl."
+          },
+          {
+            name ml "Fudalej M",
+            affil str "Forensic Medicine Department, Medical University of
+ Warsaw, Wojciecha Oczki Str. 1, 00-001 Warsaw, Poland. Electronic address:
+ marcin_zms@wp.pl."
+          },
+          {
+            name ml "Kwapisz S",
+            affil str "Department of Traumatology and Orthopaedics, Centre of
+ Postgraduate Medical Education, Prof. Adam Gruca Clinical Hospital,
+ Konarskiego Str. 13, 05-400 Otwock, Poland. Electronic address:
+ skwapisz@gmail.com."
+          },
+          {
+            name ml "Klimek U",
+            affil str "Department of Traumatology and Orthopaedics, Centre of
+ Postgraduate Medical Education, Prof. Adam Gruca Clinical Hospital,
+ Konarskiego Str. 13, 05-400 Otwock, Poland. Electronic address:
+ urszula.u.klimek@gmail.com."
+          },
+          {
+            name ml "Maksymowicz M",
+            affil str "Department of Traumatology and Orthopaedics, Centre of
+ Postgraduate Medical Education, Prof. Adam Gruca Clinical Hospital,
+ Konarskiego Str. 13, 05-400 Otwock, Poland. Electronic address:
+ maksymowicz.mm@gmail.com."
+          },
+          {
+            name ml "Kordasiewicz B",
+            affil str "Department of Traumatology and Orthopaedics, Centre of
+ Postgraduate Medical Education, Prof. Adam Gruca Clinical Hospital,
+ Konarskiego Str. 13, 05-400 Otwock, Poland. Electronic address:
+ bartekko@tlen.pl."
+          },
+          {
+            name ml "Rammelt S",
+            affil str "University Center for Orthopaedics & Traumatology,
+ University Hospital, Carl Gustav Carus at the TU Dresden, Fetscherstrasse 74,
+ Dresden 01307, Germany. Electronic address:
+ Stefan.rammelt@uniklinikum-dresden.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Forensic Sci. Int.",
+          ml-jta "Forensic Sci Int",
+          issn "1872-6283",
+          name "Forensic science international"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "282",
+          pages "94-100",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29182957,
+        pii "S0379-0738(17)30481-4",
+        doi "10.1016/j.forsciint.2017.11.023",
+        other {
+          db "ELocationID pii",
+          tag str "S0379-0738(17)30481-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.forsciint.2017.11.023"
+        }
+      }
+    },
+    abstract "INTRODUCTION: The genetic Lauge-Hansen classification is used
+ for reconstruction of the mechanism of ankle injury. In this study, we
+ addressed the question of agreement between the mechanism of the fracture as
+ postulated by the Lauge-Hansen classification and mechanism reported by the
+ patient in rotational ankle fractures. MATERIAL AND METHODS: Radiographs of
+ 78 patients with acute malleolar fractures were analyzed and compared with
+ fracture mechanisms reported by these patients. RESULTS: The patient reported
+ mechanisms were in concordance with the mechanism deducted from the X-rays in
+ 49% of cases. Only 17% of patients who recalled a pronation trauma actually
+ had radiographs classified as pronation fractures while 76% of patients who
+ recalled a supination trauma were also radiographically classified as having
+ sustained supination type fractures. CONCLUSION: The Lauge-Hansen
+ classification should be used with caution for determining the actual
+ mechanism of injury as it was able to predict the patient reported fracture
+ mechanism in less than 50% of cases. A substantial percentage of fractures
+ appearing radiographically as supination type injuries may have been actually
+ produced by a pronation fracture mechanism.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Ankle Fractures",
+        qual {
+          {
+            mp TRUE,
+            subh "classification"
+          },
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Pronation"
+      },
+      {
+        mp TRUE,
+        term "Supination"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29182957,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

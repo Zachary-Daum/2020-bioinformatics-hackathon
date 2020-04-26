@@ -1,0 +1,295 @@
+
+Pubmed-entry ::= {
+  pmid 29243106,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Quantitative validation of immunofluorescence and lectin
+ staining using reduced CLARITY acrylamide formulations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Krolewski DM",
+            affil str "Molecular and Behavioral Neuroscience Institute,
+ University of Michigan, 205 Zina Pitcher Place, Ann Arbor, MI, 48109, USA.
+ dkrolews@med.umich.edu."
+          },
+          {
+            name ml "Kumar V",
+            affil str "Molecular and Behavioral Neuroscience Institute,
+ University of Michigan, 205 Zina Pitcher Place, Ann Arbor, MI, 48109, USA."
+          },
+          {
+            name ml "Martin B",
+            affil str "Molecular and Behavioral Neuroscience Institute,
+ University of Michigan, 205 Zina Pitcher Place, Ann Arbor, MI, 48109, USA."
+          },
+          {
+            name ml "Tomer R",
+            affil str "Department of Biological Sciences, Columbia University,
+ New York, NY, USA."
+          },
+          {
+            name ml "Deisseroth K",
+            affil str "Department of Bioengineering, Stanford University,
+ Stanford, CA, USA."
+          },
+          {
+            name ml "Myers RM",
+            affil str "HudsonAlpha Institute for Biotechnology, Huntsville,
+ AL, USA."
+          },
+          {
+            name ml "Schatzberg AF",
+            affil str "Psychiatry and Behavioral Science, Stanford University,
+ Stanford, CA, USA."
+          },
+          {
+            name ml "Lee FS",
+            affil str "Psychiatry, Weill Cornell Medical College, Cornell
+ University, New York, NY, USA."
+          },
+          {
+            name ml "Barchas JD",
+            affil str "Psychiatry, Weill Cornell Medical College, Cornell
+ University, New York, NY, USA."
+          },
+          {
+            name ml "Bunney WE",
+            affil str "Department of Psychiatry, University of California,
+ Irvine, CA, USA."
+          },
+          {
+            name ml "Akil H",
+            affil str "Molecular and Behavioral Neuroscience Institute,
+ University of Michigan, 205 Zina Pitcher Place, Ann Arbor, MI, 48109, USA."
+          },
+          {
+            name ml "Watson SJ Jr",
+            affil str "Molecular and Behavioral Neuroscience Institute,
+ University of Michigan, 205 Zina Pitcher Place, Ann Arbor, MI, 48109, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Brain Struct Funct",
+          ml-jta "Brain Struct Funct",
+          issn "1863-2661",
+          name "Brain structure & function"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "223",
+          issue "2",
+          pages "987-999",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29243106,
+        doi "10.1007/s00429-017-1583-z",
+        pii "10.1007/s00429-017-1583-z",
+        other {
+          db "pmc",
+          tag str "PMC5828880"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS927780"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00429-017-1583-z"
+        }
+      }
+    },
+    abstract "The CLARITY technique enables three-dimensional visualization of
+ fluorescent-labeled biomolecules in clarified intact brain samples, affording
+ a unique view of molecular neuroanatomy and neurocircuitry. It is therefore,
+ essential to find the ideal combination for clearing tissue and detecting the
+ fluorescent-labeled signal. This method requires the formation of a
+ formaldehyde-acrylamide fixative-generated hydrogel mesh through which
+ cellular lipid is removed with sodium dodecyl sulfate. Several laboratories
+ have used differential acrylamide and detergent concentrations to achieve
+ better tissue clearing and antibody penetration, but the potential effects
+ upon fluorescent signal retention is largely unknown. In an effort to
+ optimize CLARITY processing procedures we performed quantitative parvalbumin
+ immunofluorescence and lectin-based vasculature staining using either 4 or 8%
+ sodium dodecyl sulfate detergent in combination with different acrylamide
+ formulas in mouse brain slices. Using both confocal and CLARITY-optimized
+ lightsheet microscope-acquired images, we demonstrate that 2% acrylamide
+ monomer combined with 0.0125% bis-acrylamide and cleared with 4% sodium
+ dodecyl sulfate generally provides the most optimal signal visualization
+ amongst various hydrogel monomer concentrations, lipid removal times, and
+ detergent concentrations.",
+    mesh {
+      {
+        term "Acrylamide",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "anatomy & histology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Fluorescent Antibody Technique",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Imaging, Three-Dimensional"
+      },
+      {
+        term "Lectins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Microscopy, Confocal"
+      },
+      {
+        term "Parvalbumins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Staining and Labeling",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lectins"
+      },
+      {
+        type nameonly,
+        name "Parvalbumins"
+      },
+      {
+        type cas,
+        cit "20R035KLCI",
+        name "Acrylamide"
+      }
+    },
+    idnum {
+      "R01 MH104261/MH/NIMH NIH HHS",
+      "R01MH104261/National Institute of Mental Health",
+      "N00014-12-1-0366/Office of Naval Research"
+    },
+    pmid 29243106,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

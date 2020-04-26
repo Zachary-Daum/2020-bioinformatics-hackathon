@@ -1,0 +1,394 @@
+
+Pubmed-entry ::= {
+  pmid 29290411,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CMPF, a Metabolite Formed Upon Prescription Omega-3-Acid Ethyl
+ Ester Supplementation, Prevents and Reverses Steatosis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Prentice KJ",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada."
+          },
+          {
+            name ml "Wendell SG",
+            affil str "Department of Pharmacology and Chemical Biology,
+ University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada."
+          },
+          {
+            name ml "Eversley JA",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada."
+          },
+          {
+            name ml "Salvatore SR",
+            affil str "Department of Pharmacology and Chemical Biology,
+ University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            name ml "Mohan H",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada."
+          },
+          {
+            name ml "Brandt SL",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada."
+          },
+          {
+            name ml "Adams AC",
+            affil str "Lilly Research Laboratories, Eli Lilly and Company,
+ Indianapolis, IN, USA."
+          },
+          {
+            name ml "Serena Wang X",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada."
+          },
+          {
+            name ml "Wei D",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada."
+          },
+          {
+            name ml "FitzGerald GA",
+            affil str "Department of Systems Pharmacology and Translational
+ Therapeutics, University of Pennsylvania, Philadelphia, PA, USA; Department
+ of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+          },
+          {
+            name ml "Durham TB",
+            affil str "Lilly Research Laboratories, Eli Lilly and Company,
+ Indianapolis, IN, USA."
+          },
+          {
+            name ml "Hammond CD",
+            affil str "Lilly Research Laboratories, Eli Lilly and Company,
+ Indianapolis, IN, USA."
+          },
+          {
+            name ml "Sloop KW",
+            affil str "Lilly Research Laboratories, Eli Lilly and Company,
+ Indianapolis, IN, USA."
+          },
+          {
+            name ml "Skarke C",
+            affil str "Department of Systems Pharmacology and Translational
+ Therapeutics, University of Pennsylvania, Philadelphia, PA, USA; Department
+ of Medicine, University of Pennsylvania, Philadelphia, PA, USA. Electronic
+ address: cskarke@pennmedicine.upenn.edu."
+          },
+          {
+            name ml "Schopfer FJ",
+            affil str "Department of Pharmacology and Chemical Biology,
+ University of Pittsburgh, Pittsburgh, PA, USA. Electronic address:
+ fjs2@pitt.edu."
+          },
+          {
+            name ml "Wheeler MB",
+            affil str "Department of Physiology, University of Toronto,
+ Toronto, Ontario M5S 1A8, Canada. Electronic address:
+ michael.wheeler@utoronto.ca."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "EBioMedicine",
+          ml-jta "EBioMedicine",
+          issn "2352-3964",
+          name "EBioMedicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "27",
+          pages "200-213",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29290411,
+        pii "S2352-3964(17)30501-7",
+        doi "10.1016/j.ebiom.2017.12.019",
+        other {
+          db "pmc",
+          tag str "PMC5828468"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S2352-3964(17)30501-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ebiom.2017.12.019"
+        }
+      }
+    },
+    abstract "Prescription omega-3 fatty acid ethyl ester supplements are
+ commonly used for the treatment of hypertriglyceridemia. However, the
+ metabolic profile and effect of the metabolites formed by these treatments
+ remain unknown. Here we utilized unbiased metabolomics to identify
+ 3-carboxy-4-methyl-5-propyl-2-furanpropanoic acid (CMPF) as a significant
+ metabolite of the omega-3-acid ethyl ester prescription Lovaza in humans.
+ Administration of CMPF to mice before or after high-fat diet feeding at
+ exposures equivalent to those observed in humans increased whole-body lipid
+ metabolism, improved insulin sensitivity, increased beta-oxidation, reduced
+ lipogenic gene expression, and ameliorated steatosis. Mechanistically, we
+ find that CMPF acutely inhibits ACC activity, and induces long-term loss of
+ SREBP1c and ACC1/2 expression. This corresponds to an induction of FGF21,
+ which is required for long-term steatosis protection, as FGF21KO mice are
+ refractory to the improved metabolic effects. Thus, CMPF treatment in mice
+ parallels the effects of human Lovaza supplementation, revealing that CMPF
+ may contribute to the improved metabolic effects observed with omega-3 fatty
+ acid prescriptions.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Diet, High-Fat"
+      },
+      {
+        mp TRUE,
+        term "Dietary Supplements"
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Esters",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Fatty Acids, Omega-3",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Fatty Liver",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Fibroblast Growth Factors",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Furans",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Insulin Resistance"
+      },
+      {
+        term "Lipid Metabolism"
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Metabolome"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Knockout"
+      },
+      {
+        term "Mice, Obese"
+      },
+      {
+        term "Propionates",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3-carboxy-4-methyl-5-propyl-2-furanpropanoic acid"
+      },
+      {
+        type nameonly,
+        name "Esters"
+      },
+      {
+        type nameonly,
+        name "Fatty Acids, Omega-3"
+      },
+      {
+        type nameonly,
+        name "Furans"
+      },
+      {
+        type nameonly,
+        name "Propionates"
+      },
+      {
+        type nameonly,
+        name "fibroblast growth factor 21"
+      },
+      {
+        type cas,
+        cit "62031-54-3",
+        name "Fibroblast Growth Factors"
+      }
+    },
+    idnum {
+      "P30 ES013508/ES/NIEHS NIH HHS",
+      "R01 AT006822/AT/NCCIH NIH HHS",
+      "UL1 RR024134/RR/NCRR NIH HHS",
+      "UL1 TR000003/TR/NCATS NIH HHS"
+    },
+    pmid 29290411,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

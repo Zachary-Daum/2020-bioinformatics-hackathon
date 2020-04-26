@@ -1,0 +1,132 @@
+
+Pubmed-entry ::= {
+  pmid 29258794,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Cogan's Syndrome and Spondyloarthritis: Case Report.",
+        trans "Sindrome de Cogan y espondiloartritis. Reporte de caso."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guasamucaro-Castillo MG",
+            affil str "Servicio de Reumatologia, Hospital Central
+ Universitario Dr. Antonio Maria Pineda, Barquisimeto, Venezuela. Electronic
+ address: gabyguasamucaro@hotmail.com."
+          },
+          {
+            name ml "Bonito-Torrealba FA",
+            affil str "Servicio de Reumatologia, Hospital Central
+ Universitario Dr. Antonio Maria Pineda, Barquisimeto, Venezuela; Universidad
+ Centroccidental Lisandro Alvarado, Barquisimeto, Venezuela."
+          },
+          {
+            name ml "Maldonado T",
+            affil str "Servicio de Reumatologia, Hospital Central
+ Universitario Dr. Antonio Maria Pineda, Barquisimeto, Venezuela."
+          },
+          {
+            name ml "Posadas-Escudero A",
+            affil str "Servicio de Reumatologia, Hospital Central
+ Universitario Dr. Antonio Maria Pineda, Barquisimeto, Venezuela."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Reumatol Clin",
+          ml-jta "Reumatol Clin",
+          issn "1885-1398",
+          name "Reumatologia clinica"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 11
+          },
+          volume "15",
+          issue "6",
+          pages "e170-e171",
+          language "eng,spa",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29258794,
+        pii "S1699-258X(17)30279-6",
+        doi "10.1016/j.reuma.2017.11.005",
+        other {
+          db "ELocationID pii",
+          tag str "S1699-258X(17)30279-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.reuma.2017.11.005"
+        }
+      }
+    },
+    pmid 29258794,
+    pub-type {
+      "Letter"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,223 @@
+
+Pubmed-entry ::= {
+  pmid 28063769,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Immunogenicity assay cut point determination using nonparametric
+ tolerance limit."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "MedImmune LLC, Gaithersburg, MD, United States."
+          },
+          {
+            name ml "Li W",
+            affil str "University of Maryland, College Park, MD, United States."
+          },
+          {
+            name ml "Roskos LK",
+            affil str "MedImmune LLC, Gaithersburg, MD, United States."
+          },
+          {
+            name ml "Yang H",
+            affil str "MedImmune LLC, Gaithersburg, MD, United States.
+ Electronic address: yangh@medimmune.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Immunol. Methods",
+          ml-jta "J Immunol Methods",
+          issn "1872-7905",
+          name "Journal of immunological methods"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "442",
+          pages "29-34",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 8,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 12,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28063769,
+        pii "S0022-1759(16)30157-0",
+        doi "10.1016/j.jim.2017.01.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-1759(16)30157-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jim.2017.01.001"
+        }
+      }
+    },
+    abstract "The newly released FDA guidance on immunogenicity assay
+ development and validation recommends use of a lower confidence limit of the
+ percentile of the negative subject population as the cut point in order to
+ guarantee a pre-specified false positive rate with high confidence. The limit
+ is, in essence, a lower tolerance limit. Although in literature several
+ methods are available for determining the tolerance limit, they either fail
+ to take into account the repeated measurement of the data from a typical
+ immunogenicity assay quantification/validation experiment or rely heavily on
+ normality assumption of the data, which is rarely correct. As a result, the
+ methods may result in biased estimates of the cut point, causing the false
+ positive rate to be either lower or higher than expected. To overcome this
+ drawback, we propose two non-parametric methods under repeated measure data
+ structure and without normal distribution assumption. Simulation studies were
+ carried to compare the performance of the two non-parametric approaches with
+ the current methods. The results of the simulation studies show that one of
+ the two nonparametric methods outperforms all the other methods and provides
+ a satisfactory coverage probability even with moderate sample sizes. In
+ addition, it is simple and straightforward to implement. Therefore, it is a
+ preferred method for immunogenicity assay cut point determination.",
+    mesh {
+      {
+        term "Antibodies",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Biological Products",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Computer Simulation"
+      },
+      {
+        term "Data Interpretation, Statistical"
+      },
+      {
+        term "False Positive Reactions"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunoassay",
+        qual {
+          {
+            subh "methods"
+          },
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Limit of Detection"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        term "Risk Assessment"
+      },
+      {
+        mp TRUE,
+        term "Statistics, Nonparametric"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antibodies"
+      },
+      {
+        type nameonly,
+        name "Biological Products"
+      }
+    },
+    pmid 28063769,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

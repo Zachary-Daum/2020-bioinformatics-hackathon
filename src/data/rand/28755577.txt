@@ -1,0 +1,235 @@
+
+Pubmed-entry ::= {
+  pmid 28755577,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Flavonoids from Carya cathayensis Sarg. leaves inhibit carotid
+ artery lesion formation induced by low blood flow."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bo J",
+            affil str "Zhejiang Chinese Medicine University, Hangzhou, 310053,
+ China."
+          },
+          {
+            name ml "Zhishan D",
+            affil str "Zhejiang Chinese Medicine University, Hangzhou, 310053,
+ China. Electronic address: zjtcmdzs@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Pharmacother.",
+          ml-jta "Biomed Pharmacother",
+          issn "1950-6007",
+          name "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "94",
+          pages "88-92",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28755577,
+        pii "S0753-3322(17)31902-9",
+        doi "10.1016/j.biopha.2017.07.076",
+        other {
+          db "ELocationID pii",
+          tag str "S0753-3322(17)31902-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopha.2017.07.076"
+        }
+      }
+    },
+    abstract "The aim of the present study was to investigate the protective
+ effect of the total flavonoids (TFs) from the leaves of Carya cathayensis
+ Sarg. against early development of atherosclerosis. An in vivo model of
+ carotid arterial partial ligation was established in mice, and the effects of
+ TFs were investigated by morphometric measurements, Cell proliferation
+ measurement and immunohistochemistry. The results showed that TFs could
+ reduce neointima area by 41%, and the adventitial thickening induced by
+ partial ligation was remarkable inhibited by TFs treatment. medial SMCs
+ proliferation was significantly inhibited in TFs treated group.
+ Immunohistochemistry analyses demonstrated that mice with TFs treatment have
+ significant less macrophages accumulation in adventitia. These findings
+ indicated that TFs have inhibitory effect in early atherosclerosis lesion
+ formation model and strong action on reduce the inflammation in vivo.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Carotid Arteries",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Carya",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Monocytes",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Myocytes, Smooth Muscle",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Plant Leaves",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Regional Blood Flow",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Flavonoids"
+      }
+    },
+    pmid 28755577,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

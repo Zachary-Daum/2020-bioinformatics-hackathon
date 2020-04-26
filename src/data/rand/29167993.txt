@@ -1,0 +1,231 @@
+
+Pubmed-entry ::= {
+  pmid 29167993,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Group 3 medulloblastoma in a patient with a GYS2 germline
+ mutation and glycogen storage disease 0a."
+      },
+      authors {
+        names std {
+          {
+            name ml "Holsten T",
+            affil str "Department of Pediatric Hematology and Oncology,
+ University Medical Center Hamburg-Eppendorf, Hamburg, Germany.; Institute of
+ Neuropathology, University Medical Center Hamburg-Eppendorf, Hamburg,
+ Germany.; Research Institute, Children's Cancer Center Hamburg, Hamburg,
+ Germany."
+          },
+          {
+            name ml "Tsiakas K",
+            affil str "Department of Pediatrics, University Medical Center
+ Hamburg-Eppendorf, Hamburg, Germany."
+          },
+          {
+            name ml "Kordes U",
+            affil str "Department of Pediatric Hematology and Oncology,
+ University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+          },
+          {
+            name ml "Bison B",
+            affil str "Institute of Neuroradiology, University of Wurzburg,
+ Wurzburg, Germany."
+          },
+          {
+            name ml "Pietsch T",
+            affil str "Institute of Neuropathology, University of Bonn, Bonn,
+ Germany."
+          },
+          {
+            name ml "Rutkowski S",
+            affil str "Department of Pediatric Hematology and Oncology,
+ University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+          },
+          {
+            name ml "Santer R",
+            affil str "Department of Pediatrics, University Medical Center
+ Hamburg-Eppendorf, Hamburg, Germany."
+          },
+          {
+            name ml "Schuller U",
+            affil str "Department of Pediatric Hematology and Oncology,
+ University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+ u.schueller@uke.de.; Institute of Neuropathology, University Medical Center
+ Hamburg-Eppendorf, Hamburg, Germany. u.schueller@uke.de.; Research Institute,
+ Children's Cancer Center Hamburg, Hamburg, Germany. u.schueller@uke.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Childs Nerv Syst",
+          ml-jta "Childs Nerv Syst",
+          issn "1433-0350",
+          name "Child's nervous system : ChNS : official journal of the
+ International Society for Pediatric Neurosurgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "34",
+          issue "3",
+          pages "581-584",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29167993,
+        doi "10.1007/s00381-017-3666-9",
+        pii "10.1007/s00381-017-3666-9",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00381-017-3666-9"
+        }
+      }
+    },
+    abstract "Glycogen storage disease (GSD) 0a is a rare congenital metabolic
+ disease with symptoms in infancy and childhood caused by biallelic GYS2
+ germline variants. A predisposition to cancer has not been described yet. We
+ report here a boy with GSD 0a, who developed a malignant brain tumor at the
+ age of 4.5 years. The tumor was classified as a group 3 medulloblastoma, and
+ the patient died from cancer 27 months after initial tumor diagnosis. This
+ case appears interesting as group 3 medulloblastoma is so far not known to
+ arise in hereditary syndromes and the biology of sporadic group 3
+ medulloblastoma is largely unknown.",
+    mesh {
+      {
+        term "Cerebellar Neoplasms",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Fatal Outcome"
+      },
+      {
+        mp TRUE,
+        term "Germ-Line Mutation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Glycogen Storage Disease",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Medulloblastoma",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    pmid 29167993,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

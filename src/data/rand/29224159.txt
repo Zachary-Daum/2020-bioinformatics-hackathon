@@ -1,0 +1,170 @@
+
+Pubmed-entry ::= {
+  pmid 29224159,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Quantitation of DNA Methylation by Quantitative Multiplex
+ Methylation-Specific PCR (QM-MSP) Assay."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fackler MJ",
+            affil str "Breast and Ovarian Cancer Program, Sidney Kimmel
+ Comprehensive Cancer Center, Johns Hopkins University School of Medicine,
+ 1650 Orleans St., CRB1, RM 143, Baltimore, MD, 21321, USA."
+          },
+          {
+            name ml "Sukumar S",
+            affil str "Breast and Ovarian Cancer Program, Sidney Kimmel
+ Comprehensive Cancer Center, Johns Hopkins University School of Medicine,
+ 1650 Orleans St., CRB1, RM 143, Baltimore, MD, 21321, USA. saras@jhmi.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Methods Mol. Biol.",
+          ml-jta "Methods Mol Biol",
+          issn "1940-6029",
+          name "Methods in molecular biology (Clifton, N.J.)"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "1708",
+          pages "473-496",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29224159,
+        doi "10.1007/978-1-4939-7481-8_24",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/978-1-4939-7481-8_24"
+        }
+      }
+    },
+    abstract "The defining feature of the Quantitative Multiplex
+ Methylation-Specific PCR (QM-MSP) method to sensitively quantify DNA
+ methylation is the two-step PCR approach for a multiplexed analysis of a
+ panel of up to 12 genes in clinical samples with minimal quantities of DNA.
+ In the first step, for up to 12 genes tested, one pair of gene-specific
+ primers (forward and reverse) amplifies the methylated and unmethylated
+ copies of the same gene simultaneously and in multiplex, in one PCR reaction.
+ This methylation-independent amplification step produces amplicons of up to
+ 10(9) copies per muL after 36 cycles of PCR. In the second step, the
+ amplicons of the first reaction (STEP 1) are quantified with a standard curve
+ using real-time PCR and two independent fluorophores to detect
+ methylated/unmethylated DNA of each gene in the same well (e.g., 6FAM and
+ VIC). One methylated copy is detectable in 100,000 reference gene copies.
+ Methylation is reported on a continuous scale. For the gene panel, the
+ highest level of normal DNA methylation above which a sample would be called
+ positive is derived by using Receiver Operating Characteristic (ROC),
+ maximizing assay specificity and sensitivity to distinguish between
+ normal/benign versus tumor DNA. QM-MSP can be applied to clinical samples of
+ fresh or fixed ductal cells, ductal fluid, nipple fluid, fine needle
+ aspirates, core biopsies, and tumor tissue sections.",
+    mesh {
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "DNA Methylation"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Multiplex Polymerase Chain Reaction",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Promoter Regions, Genetic"
+      },
+      {
+        term "ROC Curve"
+      },
+      {
+        term "Sample Size"
+      },
+      {
+        term "Sensitivity and Specificity"
+      }
+    },
+    idnum {
+      "P30 CA006973/CA/NCI NIH HHS"
+    },
+    pmid 29224159,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

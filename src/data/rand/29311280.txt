@@ -1,0 +1,245 @@
+
+Pubmed-entry ::= {
+  pmid 29311280,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An AlgU-Regulated Antisense Transcript Encoded within the
+ Pseudomonas syringae fleQ Gene Has a Positive Effect on Motility."
+      },
+      authors {
+        names std {
+          {
+            name ml "Markel E",
+            affil str "Emerging Pests and Pathogens Research Unit, Robert W.
+ Holley Center, United States Department of Agriculture-Agricultural Research
+ Service, Ithaca, New York, USA."
+          },
+          {
+            name ml "Dalenberg H",
+            affil str "Plant Pathology and Plant-Microbe Biology Section,
+ School of Integrative Plant Science, Cornell University, Ithaca, New York,
+ USA."
+          },
+          {
+            name ml "Monteil CL",
+            affil str "Laboratoire de Bioenergetique Cellulaire, Biosciences
+ and Biotechnology Institute Aix-Marseille, CEA, Saint-Paul-les-Durance,
+ France.; UMR 7265, CNRS, Saint-Paul-les-Durance, France.; Aix-Marseille
+ Universite, Marseille, France."
+          },
+          {
+            name ml "Vinatzer BA",
+            affil str "Department of Plant Pathology, Physiology, and Weed
+ Science, Virginia Polytechnic Institute and State University, Blacksburg,
+ Virginia, USA."
+          },
+          {
+            name ml "Swingle B",
+            affil str "Emerging Pests and Pathogens Research Unit, Robert W.
+ Holley Center, United States Department of Agriculture-Agricultural Research
+ Service, Ithaca, New York, USA Bryan.Swingle@ars.usda.gov.; Plant Pathology
+ and Plant-Microbe Biology Section, School of Integrative Plant Science,
+ Cornell University, Ithaca, New York, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Bacteriol.",
+          ml-jta "J Bacteriol",
+          issn "1098-5530",
+          name "Journal of bacteriology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 12
+          },
+          volume "200",
+          issue "7",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29311280,
+        pii "JB.00576-17",
+        doi "10.1128/JB.00576-17",
+        other {
+          db "pmc",
+          tag str "PMC5847652"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "e00576-17"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1128/JB.00576-17"
+        }
+      }
+    },
+    abstract "Production of bacterial flagella is controlled by a multitiered
+ regulatory system that coordinates the expression of 40 to 50 subunits and
+ ordered assembly of these elaborate structures. Flagellar expression is
+ environmentally controlled, presumably to optimize the benefits and
+ liabilities of having these organelles on cell growth and survival. We
+ recently reported a global survey of AlgU-dependent regulation and binding in
+ Pseudomonas syringae pv. tomato DC3000 that included evidence for strong
+ downregulation of many flagellar and chemotaxis motility genes. Here, we
+ returned to those data to look for other AlgU-dependent influences on the
+ flagellar regulatory network. We identified an AlgU-dependent antisense
+ transcript expressed from within the fleQ gene, the master regulator of
+ flagellar biosynthesis in Pseudomonas We tested whether expression of this
+ antisense RNA influenced bacterial behavior and found that it reduces
+ AlgU-dependent downregulation of motility. Importantly, this antisense
+ expression influenced motility only under conditions in which AlgU was
+ expressed. Comparative sequence analysis of the locus containing the
+ antisense transcript's AlgU-dependent promoter in over 300 Pseudomonas
+ genomes revealed sequence conservation in most strains that encode AlgU. This
+ suggests that the antisense transcript plays an important role that is
+ conserved across most of the genus Pseudomonas IMPORTANCE Pseudomonas
+ syringae is a globally distributed host-specific bacterial pathogen that
+ causes disease in a wide-range of plants. An elaborate gene expression
+ regulation network controls flagellum production, which is important for
+ proper flagellum assembly and a key aspect of certain lifestyle transitions.
+ P. syringae pv. tomato DC3000 uses flagellum-powered motility in the early
+ stages of host colonization and adopts a sessile lifestyle after entering
+ plant tissues, but the regulation of this transition is not understood. Our
+ work demonstrates a link between regulation of motility and global
+ transcriptional control that facilitates bacterial growth and disease in
+ plants. Additionally, sequence comparisons suggest that this regulation
+ mechanism is conserved in most members of the genus Pseudomonas.",
+    mesh {
+      {
+        mp TRUE,
+        term "Antisense Elements (Genetics)"
+      },
+      {
+        term "Bacterial Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Flagella",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Bacterial",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Movement"
+      },
+      {
+        term "Phylogeny"
+      },
+      {
+        term "Pseudomonas syringae",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antisense Elements (Genetics)"
+      },
+      {
+        type nameonly,
+        name "Bacterial Proteins"
+      }
+    },
+    idnum {
+      "T34 GM092711/GM/NIGMS NIH HHS"
+    },
+    pmid 29311280,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

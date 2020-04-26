@@ -1,0 +1,225 @@
+
+Pubmed-entry ::= {
+  pmid 28214640,
+  medent {
+    em std {
+      year 2017,
+      month 2,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Art of Mimicry: Anterior Clinoid Dural-Based Cavernous
+ Hemangioma Mistaken for a Meningioma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mansour TR",
+            affil str "Division of Neurological Surgery, Department of
+ Surgery, University of Toledo Medical Center, Toledo, Ohio, USA."
+          },
+          {
+            name ml "Medhkour Y",
+            affil str "Division of Neurological Surgery, Department of
+ Surgery, University of Toledo Medical Center, Toledo, Ohio, USA."
+          },
+          {
+            name ml "Entezami P",
+            affil str "Department of Neurosurgery, Albany Medical College,
+ Albany, New York, USA."
+          },
+          {
+            name ml "Mrak R",
+            affil str "Department of Pathology, University of Toledo Medical
+ Center, Toledo, Ohio, USA."
+          },
+          {
+            name ml "Schroeder J",
+            affil str "Division of Neurological Surgery, Department of
+ Surgery, University of Toledo Medical Center, Toledo, Ohio, USA."
+          },
+          {
+            name ml "Medhkour A",
+            affil str "Division of Neurological Surgery, Department of
+ Surgery, University of Toledo Medical Center, Toledo, Ohio, USA. Electronic
+ address: azedine.medhkour@utoledo.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "World Neurosurg",
+          ml-jta "World Neurosurg",
+          issn "1878-8769",
+          name "World neurosurgery"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 4
+          },
+          volume "100",
+          pages "708.e19-708.e22",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 3
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 2,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 2,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28214640,
+        pii "S1878-8750(17)30191-2",
+        doi "10.1016/j.wneu.2017.02.029",
+        other {
+          db "ELocationID pii",
+          tag str "S1878-8750(17)30191-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.wneu.2017.02.029"
+        }
+      }
+    },
+    abstract "BACKGROUND: Cavernous hemangiomas account for 5%-13% of central
+ nervous system vascular lesions. They are usually found intra-axially but
+ rarely involve extra-axial structures, most commonly the middle cranial
+ fossa. A cavernous hemangioma manifesting as a clinoid meningioma is
+ extremely rare. CASE DESCRIPTION: A 36-year-old man presented with an
+ asymptomatic intracranial mass found incidentally after a motor vehicle
+ accident. Preoperative magnetic resonance imaging revealed a well-defined
+ dural-based lesion arising from the right anterior clinoid process that was
+ nearly homogeneously enhancing. The radiologic diagnosis was meningioma. The
+ mass was resected via a right pterional craniotomy with microsurgical
+ technique. Complete resection of the mass was performed with no complications
+ and no significant bleeding. Contrasting with the radiologic and gross tumor
+ appearance, histopathologic examination revealed dilated vascular spaces,
+ sclerotic vessels without intervening neural tissue, and intravascular
+ thrombi suggesting slow blood flow-all consistent with cavernous hemangioma.
+ CONCLUSIONS: Anterior clinoid dural-based cavernous hemangiomas are extremely
+ rare. Although preoperative diagnosis is difficult using imaging, this
+ etiology should be considered for any dural-based middle fossa lesion, owing
+ to the tendency for these lesions to bleed heavily during resection in some
+ instances.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Diagnostic Errors"
+      },
+      {
+        term "Hemangioma, Cavernous, Central Nervous System",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Meningeal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Meningioma",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      }
+    },
+    pmid 28214640,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

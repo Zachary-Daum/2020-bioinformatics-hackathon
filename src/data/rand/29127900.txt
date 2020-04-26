@@ -1,0 +1,264 @@
+
+Pubmed-entry ::= {
+  pmid 29127900,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A reusable ratiometric electrochemical biosensor on the basis of
+ the binding of methylene blue to DNA with alternating AT base sequence for
+ sensitive detection of adenosine."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cui L",
+            affil str "College of Chemistry, Chemical Engineering and
+ Materials Science, Collaborative Innovation Center of Functionalized Probes
+ for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular
+ and Nano Probes, Ministry of Education, Shandong Provincial Key Laboratory of
+ Clean Production of Fine Chemicals, Shandong Normal University, Jinan 250014,
+ PR China."
+          },
+          {
+            name ml "Lu M",
+            affil str "College of Chemistry, Chemical Engineering and
+ Materials Science, Collaborative Innovation Center of Functionalized Probes
+ for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular
+ and Nano Probes, Ministry of Education, Shandong Provincial Key Laboratory of
+ Clean Production of Fine Chemicals, Shandong Normal University, Jinan 250014,
+ PR China."
+          },
+          {
+            name ml "Li Y",
+            affil str "School of Medicine, Health Science Center,Shenzhen
+ University, Shenzhen 518060, PR China."
+          },
+          {
+            name ml "Tang B",
+            affil str "College of Chemistry, Chemical Engineering and
+ Materials Science, Collaborative Innovation Center of Functionalized Probes
+ for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular
+ and Nano Probes, Ministry of Education, Shandong Provincial Key Laboratory of
+ Clean Production of Fine Chemicals, Shandong Normal University, Jinan 250014,
+ PR China. Electronic address: tangb@sdnu.edu.cn."
+          },
+          {
+            name ml "Zhang CY",
+            affil str "College of Chemistry, Chemical Engineering and
+ Materials Science, Collaborative Innovation Center of Functionalized Probes
+ for Chemical Imaging in Universities of Shandong, Key Laboratory of Molecular
+ and Nano Probes, Ministry of Education, Shandong Provincial Key Laboratory of
+ Clean Production of Fine Chemicals, Shandong Normal University, Jinan 250014,
+ PR China. Electronic address: cyzhang@sdnu.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biosens Bioelectron",
+          ml-jta "Biosens Bioelectron",
+          issn "1873-4235",
+          name "Biosensors & bioelectronics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 15
+          },
+          volume "102",
+          pages "87-93",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 6
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29127900,
+        pii "S0956-5663(17)30754-6",
+        doi "10.1016/j.bios.2017.11.025",
+        other {
+          db "ELocationID pii",
+          tag str "S0956-5663(17)30754-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bios.2017.11.025"
+        }
+      }
+    },
+    abstract "We develop a reusable ratiometric electrochemical biosensor on
+ the basis of the binding of methylene blue (MB) to DNA with alternating AT
+ base sequence for sensitive detection of adenosine. We design a strand 1 with
+ MB-modified thymine (T) base in the proximal 3' termini as the capture probe
+ for its immobilization on the gold electrode and a 3' termini ferrocene
+ (Fc)-modified aptamer for the recognition of adenosine. The hybridization of
+ strand 1 with the aptamer leads to the formation of a double-stranded DNA
+ (dsDNA) and consequently the away of MB from the electrode surface and the
+ close of Fc to the electrode surface, generating a small value of IMB/IFc
+ (IMB and IFc are the peak currents of MB and Fc, respectively). In the
+ presence of adenosine, its binding with the aptamer induces the release of Fc
+ from the electrode surface and the close of MB to the electrode surface,
+ generating a large value of IMB/IFc. As a result, adenosine may be accurately
+ quantified by the measurement of ratiometric signal (IMB/IFc). This
+ ratiometric electrochemical biosensor can be simply fabricated and exhibits
+ high sensitivity with a limit of detection of as low as 90.8pM and a large
+ dynamic range from 0.1nM to 100muM. Moreover, this biosensor demonstrates
+ good performance with excellent selectivity, regeneration capability, high
+ reliability and good reproducibility, and may become a universal platform for
+ the detection of various biomolecules which can be recognized by aptamers,
+ holding great potential for further applications in biomedical research and
+ clinical diagnosis.",
+    mesh {
+      {
+        term "Adenosine",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Aptamers, Nucleotide",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Biosensing Techniques",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Electrochemical Techniques",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Electrodes"
+      },
+      {
+        term "Methylene Blue",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Thymine",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Aptamers, Nucleotide"
+      },
+      {
+        type cas,
+        cit "K72T3FS567",
+        name "Adenosine"
+      },
+      {
+        type cas,
+        cit "QR26YLT7LT",
+        name "Thymine"
+      },
+      {
+        type cas,
+        cit "T42P99266K",
+        name "Methylene Blue"
+      }
+    },
+    pmid 29127900,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,91 @@
+
+Pubmed-entry ::= {
+  pmid 29301155,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        trans "Bogengangsdehiszenz: Verschlussoperationen mit niedriger
+ Komplikationsrate."
+      },
+      authors {
+        names ml {
+          "Volkenstein S"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Laryngorhinootologie",
+          ml-jta "Laryngorhinootologie",
+          issn "1438-8685",
+          name "Laryngo- rhino- otologie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "97",
+          issue "1",
+          pages "7-8",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 5,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29301155,
+        doi "10.1055/s-0043-121845",
+        other {
+          db "ELocationID doi",
+          tag str "10.1055/s-0043-121845"
+        }
+      }
+    },
+    pmid 29301155,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status premedline
+  }
+}
+
+

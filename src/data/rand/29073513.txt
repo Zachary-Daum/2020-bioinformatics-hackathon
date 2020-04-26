@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 29073513,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The socially evaluated handgrip test: Introduction of a novel,
+ time-efficient stress protocol."
+      },
+      authors {
+        names std {
+          {
+            name ml "Finke JB",
+            affil str "Institute of Psychobiology, Department of Clinical
+ Psychophysiology, University of Trier, Germany. Electronic address:
+ finke@uni-trier.de."
+          },
+          {
+            name ml "Kalinowski GI",
+            affil str "Sankt-Franziska-Stift, Hospital for Psychosomatic
+ Medicine, Bad Kreuznach, Germany."
+          },
+          {
+            name ml "Larra MF",
+            affil str "Institute of Psychobiology, Department of Clinical
+ Psychophysiology, University of Trier, Germany."
+          },
+          {
+            name ml "Schachinger H",
+            affil str "Institute of Psychobiology, Department of Clinical
+ Psychophysiology, University of Trier, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Psychoneuroendocrinology",
+          ml-jta "Psychoneuroendocrinology",
+          issn "1873-3360",
+          name "Psychoneuroendocrinology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "87",
+          pages "141-146",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 23
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29073513,
+        pii "S0306-4530(17)30603-0",
+        doi "10.1016/j.psyneuen.2017.10.013",
+        other {
+          db "ELocationID pii",
+          tag str "S0306-4530(17)30603-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.psyneuen.2017.10.013"
+        }
+      }
+    },
+    abstract "Most widely-used stress-induction procedures (such as the TSST
+ and the Cold Pressor Test) require considerable effort and overhead in terms
+ of preparation, logistics, and staff recruitment. Moreover, while known to
+ reliably induce HPA axis activation, especially when combined with social
+ self-threat, most conventional laboratory stressors cannot be flexibly
+ adapted to elicit either a mainly autonomic or an additional endocrine stress
+ response. Being a promising alternative approach, a new version of the
+ isometric handgrip test enriched by a social-evaluative component was
+ evaluated in the present study. On two consecutive sessions, forty
+ participants (20 women) performed a handgrip task at both 45% (stress) and
+ 10% (control) of maximum voluntary isometric contraction lasting for 3min.
+ During the stress test, continuous visual feedback on performance was given.
+ Participants in the social-evaluative condition (50%) were observed and
+ evaluated by a previously unknown person of the opposite sex, whereas in the
+ standard condition feedback was provided via a computer monitor.
+ Cardiovascular measures (heart rate, blood pressure) as well as additional
+ indices of autonomic reactivity (skin conductance, heart-rate variability)
+ were registered before, during, and after stress induction. Moreover, changes
+ in salivary cortisol and in subjective well-being were assessed. Relative to
+ control, significant increases in cardiovascular and sympathetic activity
+ were found, irrespective of experimental group. Importantly, however,
+ additional social evaluation resulted in elevated cortisol levels.
+ Furthermore, evidence for reduced vagal tone during sustained socially
+ evaluated handgrip emerged. In conclusion, the socially evaluated handgrip
+ test represents a versatile, time-efficient method to induce stress in small
+ laboratory settings.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Anxiety",
+        qual {
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Blood Pressure",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cardiovascular System",
+        qual {
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Exercise Test",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hand Strength",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Heart Rate",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrocortisone",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Hypothalamo-Hypophyseal System",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Pituitary-Adrenal System",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Saliva",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Stress, Physiological",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Stress, Psychological",
+        qual {
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Sympathetic Nervous System",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "WI4X0X7BPJ",
+        name "Hydrocortisone"
+      }
+    },
+    pmid 29073513,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

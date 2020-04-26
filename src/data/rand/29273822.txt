@@ -1,0 +1,227 @@
+
+Pubmed-entry ::= {
+  pmid 29273822,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Management of idiopathic spinal epidural lipomatosis: a case
+ report and review of the literature."
+      },
+      authors {
+        names std {
+          {
+            name ml "Papastefan ST",
+            affil str "Department of Neurosurgery (MC 799), University of
+ Illinois at Chicago, 912 S. Wood St. 451-N NPI, Chicago, IL, 60612, USA."
+          },
+          {
+            name ml "Bhimani AD",
+            affil str "Department of Neurosurgery (MC 799), University of
+ Illinois at Chicago, 912 S. Wood St. 451-N NPI, Chicago, IL, 60612, USA."
+          },
+          {
+            name ml "Denyer S",
+            affil str "Department of Neurosurgery (MC 799), University of
+ Illinois at Chicago, 912 S. Wood St. 451-N NPI, Chicago, IL, 60612, USA."
+          },
+          {
+            name ml "Khan SR",
+            affil str "Department of Neurosurgery (MC 799), University of
+ Illinois at Chicago, 912 S. Wood St. 451-N NPI, Chicago, IL, 60612, USA."
+          },
+          {
+            name ml "Esfahani DR",
+            affil str "Department of Neurosurgery (MC 799), University of
+ Illinois at Chicago, 912 S. Wood St. 451-N NPI, Chicago, IL, 60612, USA."
+          },
+          {
+            name ml "Nikas DC",
+            affil str "Department of Neurosurgery (MC 799), University of
+ Illinois at Chicago, 912 S. Wood St. 451-N NPI, Chicago, IL, 60612, USA."
+          },
+          {
+            name ml "Mehta AI",
+            affil str "Department of Neurosurgery (MC 799), University of
+ Illinois at Chicago, 912 S. Wood St. 451-N NPI, Chicago, IL, 60612, USA.
+ ankitm@uic.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Childs Nerv Syst",
+          ml-jta "Childs Nerv Syst",
+          issn "1433-0350",
+          name "Child's nervous system : ChNS : official journal of the
+ International Society for Pediatric Neurosurgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "34",
+          issue "4",
+          pages "757-763",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29273822,
+        doi "10.1007/s00381-017-3706-5",
+        pii "10.1007/s00381-017-3706-5",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00381-017-3706-5"
+        }
+      }
+    },
+    abstract "BACKGROUND: Spinal epidural lipomatosis (SEL) is a rare
+ pathologic growth of histologically normal unencapsulated adipose tissue in
+ the epidural space. Although rare, SEL can compress the spinal cord or nerve
+ roots causing myelopathy or radiculopathy. While SEL has been associated with
+ long-term exposure to endogenous or exogenous steroids and obesity,
+ idiopathic forms of SEL are much rarer. CASE REPORT: In this report, we
+ present the first case of SEL isolated to the cervical region compressing the
+ spinal cord in a healthy, non-obese, preadolescent patient. CONCLUSION:
+ Idiopathic SEL in the pediatric population is a rare entity. This is the
+ first case of epidural lipomatosis isolated to the cervical region in an
+ adult or child patient. In refractory, symptomatic cases of idiopathic SEL,
+ surgical decompression is often required.",
+    mesh {
+      {
+        term "Adipose Tissue",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        mp TRUE,
+        term "Disease Management"
+      },
+      {
+        term "Epidural Space",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Laminoplasty",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Lipomatosis",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Spinal Cord",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      }
+    },
+    pmid 29273822,
+    pub-type {
+      "Case Reports",
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

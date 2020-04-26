@@ -1,0 +1,240 @@
+
+Pubmed-entry ::= {
+  pmid 29110042,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Acne inversa/hidradenitis suppurativa: A challenge for the
+ future].",
+        trans "Acne inversa/Hidradenitis suppurativa: Eine Herausforderung fur
+ die Zukunft."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sabat R",
+            affil str "Interdisziplinare Gruppe Molekulare Immunpathologie,
+ Dermatologie/Med. Immunologie, Charite - Universitatsmedizin Berlin,
+ Chariteplatz 1, 10117, Berlin, Deutschland. robert.sabat@charite.de.;
+ Psoriasis Forschungs- und BehandlungsCentrum, Klinik fur Dermatologie,
+ Venerologie und Allergologie und Institut fur Medizinische Immunologie,
+ Charite - Universitatsmedizin Berlin, Chariteplatz 1, 10117, Berlin,
+ Deutschland. robert.sabat@charite.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Hautarzt",
+          ml-jta "Hautarzt",
+          issn "1432-1173",
+          name "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und
+ verwandte Gebiete"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "68",
+          issue "12",
+          pages "994-998",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29110042,
+        doi "10.1007/s00105-017-4079-0",
+        pii "10.1007/s00105-017-4079-0",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00105-017-4079-0"
+        }
+      }
+    },
+    abstract "Acne inversa (AI)/hidradenitis suppurativa is a chronic
+ recurrent inflammatory dermatosis with signs of a systemic disease. AI is
+ characterized by typical skin alterations in body areas bearing apocrine
+ glands. The care of the AI patients in Germany is still inadequate. This
+ situation might be significantly improved through the following efforts: (i)
+ shortening of the time between the disease onset and the diagnosis/start of
+ therapy; (ii) the in-depth investigation of AI pathogenesis with the aim of
+ identifying innovative therapeutic targets and blood biomarkers; (iii)
+ establishing a method for quantifying the severity of the disease, which
+ takes into account both the clinical assessment and objective laboratory
+ parameters and the self-assessment of the patient (e.g., Dermatology Life
+ Quality Index [DLQI]); (iv) the elaboration of a clear algorithm for the
+ interdisciplinary treatment of patients, which, in addition to the therapy of
+ skin lesions, also includes lifestyle-modification measures and takes into
+ consideration the systemic character of AI. This article describes the
+ current problems of medical care for AI patients and outlines how we can
+ achieve the predetermined goals.",
+    mesh {
+      {
+        term "Algorithms"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Biomarkers",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Hidradenitis Suppurativa",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Interdisciplinary Communication"
+      },
+      {
+        term "Interleukins",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Intersectoral Collaboration"
+      },
+      {
+        term "Metabolic Syndrome",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Quality of Life"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Spondylarthropathies",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Biomarkers"
+      },
+      {
+        type nameonly,
+        name "Interleukins"
+      },
+      {
+        type nameonly,
+        name "TNF protein, human"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "XEO71E2E45",
+        name "interleukin-22"
+      }
+    },
+    pmid 29110042,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

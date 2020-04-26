@@ -1,0 +1,213 @@
+
+Pubmed-entry ::= {
+  pmid 28881460,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Endogenous oxytocin is associated with the experience of
+ compassion and recalled upbringing in Borderline Personality Disorder."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ebert A",
+            affil str "Division of Cognitive Neuropsychiatry and Psychiatric
+ Preventive Medicine, Department of Psychiatry, Psychotherapy and Preventive
+ Medicine, LWL University Hospital, Ruhr-University Bochum, Bochum, Germany."
+          },
+          {
+            name ml "Edel MA",
+            affil str "Fliedner Klinik, Gevelsberg, Germany."
+          },
+          {
+            name ml "Gilbert P",
+            affil str "University of Derby, Derby, UK."
+          },
+          {
+            name ml "Brune M",
+            affil str "Division of Cognitive Neuropsychiatry and Psychiatric
+ Preventive Medicine, Department of Psychiatry, Psychotherapy and Preventive
+ Medicine, LWL University Hospital, Ruhr-University Bochum, Bochum, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Depress Anxiety",
+          ml-jta "Depress Anxiety",
+          issn "1520-6394",
+          name "Depression and anxiety"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "35",
+          issue "1",
+          pages "50-57",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 2
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28881460,
+        doi "10.1002/da.22683",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/da.22683"
+        }
+      }
+    },
+    abstract "BACKGROUND/OBJECTIVE: The role of the neuropeptide oxytocin (OT)
+ in Borderline Personality Disorder (BPD) is poorly understood. It is
+ particularly unknown how early experiences with caregivers moderate the
+ action of OT in BPD. Here, we examined the association of plasma OT levels in
+ BPD patients with the experience of compassion and recalled parental behavior
+ during childhood. METHODS: Fifty-seven BPD patients and 43 healthy controls
+ participated in the study. OT plasma levels were analyzed by
+ radioimmunoassay. Subjects additionally completed questionnaires focusing on
+ fears of compassion (FOC) and recalled upbringing (""Questionnaire of
+ Recalled Parental Rearing Behavior/Fragebogen zum erinnerten elterlichen
+ Erziehungsverhalten,"" FEE). RESULTS: BPD patients had significantly lower OT
+ plasma levels than healthy controls and differed significantly on all FOC and
+ FEE scales; BPD patients had higher FOC scores (indicating more aversion of
+ being compassionate to themselves and others and receiving compassion from
+ others). They also differed in recalled parenting. In the BPD group, scores
+ of the FOC scale ""fear of compassion from others"" were significantly
+ negatively correlated with OT levels. Moreover, recalled ""emotional warmth""
+ of their parents during childhood was positively correlated with OT plasma
+ levels of BPD subjects. No such correlations were found in the control group.
+ CONCLUSION: Our results corroborate findings from previous studies reporting
+ lower OT levels in patients with BPD. Moreover, peripheral OT seems to be
+ linked with the tolerance of compassionate feelings and early experiences
+ with caregivers. This is consistent with other findings that OT is an
+ important mediator of the experience of emotional warmth from others.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Borderline Personality Disorder",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Empathy",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Oxytocin",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Parent-Child Relations"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "50-56-6",
+        name "Oxytocin"
+      }
+    },
+    pmid 28881460,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

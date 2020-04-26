@@ -1,0 +1,212 @@
+
+Pubmed-entry ::= {
+  pmid 28801321,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Massive ascites, pelvic mass, elevated CA-125 and weight loss:
+ think outside the 'ovaries'."
+      },
+      authors {
+        names std {
+          {
+            name ml "Musleh JKM",
+            affil str "Department of Obstetrics and Gynaecology, Imam
+ Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+          },
+          {
+            name ml "Almulhem M",
+            affil str "Department of Obstetrics and Gynaecology, Imam
+ Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+          },
+          {
+            name ml "Al Qahtani NH",
+            affil str "Department of Obstetrics and Gynaecology, Imam
+ Abdulrahman Bin Faisal University, Dammam, Saudi Arabia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMJ Case Rep",
+          ml-jta "BMJ Case Rep",
+          issn "1757-790X",
+          name "BMJ case reports"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8,
+            day 11
+          },
+          volume "2017",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28801321,
+        pii "bcr-2016-217497",
+        doi "10.1136/bcr-2016-217497",
+        other {
+          db "pmc",
+          tag str "PMC5612005"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "bcr-2016-217497"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1136/bcr-2016-217497"
+        }
+      }
+    },
+    abstract "A 44-year-old woman presented with 3 months' history of painless
+ progressive abdominal distension and weight loss of more than 15 kg.
+ Clinically a pelviabdominal mass with ascites was detected. CT scan of the
+ pelvis and abdomen showed a subserosal leiomyoma with huge amount of ascites.
+ Cancer Antigen (CA)-125 was 546 kU/L. Exploratory laparotomy with myomectomy
+ was done and this was followed by dramatic improvement postoperatively.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Ascites",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "CA-125 Antigen",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Laparotomy"
+      },
+      {
+        term "Leiomyoma",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Meigs Syndrome",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Tomography, X-Ray Computed"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        mp TRUE,
+        term "Uterine Myomectomy"
+      },
+      {
+        term "Uterine Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Weight Loss"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "CA-125 Antigen"
+      }
+    },
+    pmid 28801321,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

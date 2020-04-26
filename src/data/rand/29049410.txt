@@ -1,0 +1,231 @@
+
+Pubmed-entry ::= {
+  pmid 29049410,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Metamorphopsia associated with central retinal vein occlusion."
+      },
+      authors {
+        names std {
+          {
+            name ml "Manabe K",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan."
+          },
+          {
+            name ml "Osaka R",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan."
+          },
+          {
+            name ml "Nakano Y",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan."
+          },
+          {
+            name ml "Takasago Y",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan."
+          },
+          {
+            name ml "Fujita T",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan."
+          },
+          {
+            name ml "Shiragami C",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan."
+          },
+          {
+            name ml "Hirooka K",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan."
+          },
+          {
+            name ml "Muraoka Y",
+            affil str "Department of Ophthalmology and Visual Sciences, Kyoto
+ University Graduate School of Medicine, Kyoto, Japan."
+          },
+          {
+            name ml "Tsujikawa A",
+            affil str "Department of Ophthalmology, Kagawa University Faculty
+ of Medicine, Miki, Japan.; Department of Ophthalmology and Visual Sciences,
+ Kyoto University Graduate School of Medicine, Kyoto, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10,
+            day 19
+          },
+          volume "12",
+          issue "10",
+          pages "e0186737",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 8
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29049410,
+        doi "10.1371/journal.pone.0186737",
+        pii "PONE-D-17-12907",
+        other {
+          db "pmc",
+          tag str "PMC5648234"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0186737"
+        }
+      }
+    },
+    abstract "This prospective study aimed to investigate metamorphopsia in
+ eyes with central retinal vein occlusion (CRVO) and included 28 eyes (28
+ patients) with unilateral CRVO that had macular edema (ME) in the acute
+ phase. The ME was treated with anti-vascular endothelial growth factor
+ agents. At baseline and at 1 and 6 months after initiation of treatment,
+ quantitative measurements of metamorphopsia were performed using M-CHARTS and
+ the retinal morphologic changes were examined by optical coherence
+ tomography. At baseline, metamorphopsia was detected on M-CHARTS in 14
+ (50.0%) eyes. The mean M-CHARTS score was 0.37 +/- 0.53. At 1 month and 6
+ months after initiation of treatment, there was substantial resolution of ME
+ and significant recovery of visual acuity. In contrast, metamorphopsia was
+ still detected in 16 eyes at 6 months; the mean M-CHARTS scores were 0.29 +/-
+ 0.37 at 1 month and 0.32 +/- 0.38 at 6 months, and had not significantly
+ improved from baseline (p = 0.580, and p = 0.604, respectively). Although the
+ M-CHARTS score at 6 months was associated with the baseline M-CHARTS score (p
+ = 0.004), it did not have any associations with morphologic parameters at
+ baseline. However, the M-CHARTS score at 6 months was significantly
+ associated with foveal photoreceptor status, height of serous detachment, and
+ parafoveal thickening at 1 month. Metamorphopsia associated with CRVO could
+ be quantified using M-CHARTS, and often persisted in contrast with the
+ recovery of visual acuity and resolution of ME after treatment with
+ anti-vascular endothelial growth factor agents.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Retinal Vein Occlusion",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Tomography, Optical Coherence"
+      },
+      {
+        term "Vision Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Visual Acuity"
+      }
+    },
+    pmid 29049410,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

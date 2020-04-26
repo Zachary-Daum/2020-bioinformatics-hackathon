@@ -1,0 +1,269 @@
+
+Pubmed-entry ::= {
+  pmid 29314621,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Building Up Functional Bionanocomposites from the Assembly of
+ Clays and Biopolymers."
+      },
+      authors {
+        names std {
+          {
+            name ml "Alcantara ACS",
+            affil str "Departamento de Quimica - PPGQuim, LIM-Bionanos,
+ Universidade Federal do Maranhao, 65080-805, Sao Luis, MA, Brazil."
+          },
+          {
+            name ml "Darder M",
+            affil str "Instituto de Ciencia de Materiales de Madrid, CSIC,
+ C/Sor Juana Ines de la Cruz 3, 28049, Madrid, Spain."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chem Rec",
+          ml-jta "Chem Rec",
+          issn "1528-0691",
+          name "Chemical record (New York, N.Y.)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "18",
+          issue "7-8",
+          pages "696-712",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29314621,
+        doi "10.1002/tcr.201700076",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/tcr.201700076"
+        }
+      }
+    },
+    abstract "Functional bionanocomposites are developed from the assembly of
+ naturally occurring polymers and inorganic solids that show at least one
+ dimension at the nanoscale. Our research group focused on the development of
+ bionanocomposites based on clay minerals, including smectites and fibrous
+ silicates, as well as layered double hydroxides. The resulting materials show
+ interesting properties regarding biocompatibility and biodegradability,
+ together with improved mechanical and thermal properties in comparison to the
+ pristine biopolymer. Besides these characteristics, they offer also other
+ interesting functional properties that allow their potential use in a wide
+ range of applications, including sensors, drug delivery and other health care
+ applications, bioplastics and environmental remediation. For these materials,
+ nature provides not only the components but also the inspiration to develop
+ new combinations that may give rise to nanostructured biomaterials with
+ exceptional features.",
+    mesh {
+      {
+        term "Aluminum Silicates",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Biocompatible Materials",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Biopolymers",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Biosensing Techniques",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Clay"
+      },
+      {
+        term "DNA",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Drug Delivery Systems",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Environmental Restoration and Remediation",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydroxides",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Nanocomposites",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Proteins",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Aluminum Silicates"
+      },
+      {
+        type nameonly,
+        name "Biocompatible Materials"
+      },
+      {
+        type nameonly,
+        name "Biopolymers"
+      },
+      {
+        type nameonly,
+        name "Hydroxides"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "Proteins"
+      },
+      {
+        type cas,
+        cit "9007-49-2",
+        name "DNA"
+      },
+      {
+        type cas,
+        cit "T1FAD4SS2M",
+        name "Clay"
+      }
+    },
+    pmid 29314621,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

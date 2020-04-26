@@ -1,0 +1,274 @@
+
+Pubmed-entry ::= {
+  pmid 29080044,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Metformin effect on TSH in subclinical hypothyroidism:
+ randomized, double-blind, placebo-controlled clinical trial."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dornelles Severo M",
+            affil str "Programa de Pos-Graduacao em Endocrinologia,
+ Universidade Federal do Rio Grande do Sul, Faculdade de Medicina, Rua Ramiro
+ Barcelos, 2400, 2 degrees  andar, Porto Alegre, RS, 90035-003, Brazil."
+          },
+          {
+            name ml "Sturmer Andrade T",
+            affil str "Programa de Pos-Graduacao em Endocrinologia,
+ Universidade Federal do Rio Grande do Sul, Faculdade de Medicina, Rua Ramiro
+ Barcelos, 2400, 2 degrees  andar, Porto Alegre, RS, 90035-003, Brazil."
+          },
+          {
+            name ml "Correa Junior V",
+            affil str "Programa de Pos-Graduacao em Cardiologia, Universidade
+ Federal do Rio Grande do Sul, Faculdade de Medicina, Rua Ramiro Barcelos,
+ 2400, 2 degrees  andar, Porto Alegre, RS, 90035-003, Brazil."
+          },
+          {
+            name ml "Antonio Naujorks A",
+            affil str "Universidade Federal de Santa Maria, Avenida Roraima,
+ 1000, Santa Maria, RS, 97105-900, Brazil."
+          },
+          {
+            name ml "Gus M",
+            affil str "Programa de Pos-Graduacao em Cardiologia, Universidade
+ Federal do Rio Grande do Sul, Faculdade de Medicina, Rua Ramiro Barcelos,
+ 2400, 2 degrees  andar, Porto Alegre, RS, 90035-003, Brazil."
+          },
+          {
+            name ml "Schaan BD",
+            affil str "Programa de Pos-Graduacao em Endocrinologia,
+ Universidade Federal do Rio Grande do Sul, Faculdade de Medicina, Rua Ramiro
+ Barcelos, 2400, 2 degrees  andar, Porto Alegre, RS, 90035-003, Brazil.
+ bschaan@hcpa.edu.br.; Hospital de Clinicas de Porto Alegre, Rua Ramiro
+ Barcelos, 2350, 2 degrees  andar, Porto Alegre, RS, 90035-903, Brazil.
+ bschaan@hcpa.edu.br."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Endocrine",
+          ml-jta "Endocrine",
+          issn "1559-0100",
+          name "Endocrine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "59",
+          issue "1",
+          pages "66-71",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29080044,
+        doi "10.1007/s12020-017-1462-7",
+        pii "10.1007/s12020-017-1462-7",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s12020-017-1462-7"
+        }
+      }
+    },
+    abstract "INTRODUCTION: Non-randomized trials suggest that metformin may
+ reduce TSH levels through unknown mechanisms. OBJECTIVE: To evaluate whether
+ metformin can reduce TSH levels in subjects with subclinical hypothyroidism.
+ PATIENTS AND METHODS: This is a randomized, double-blind, placebo controlled
+ clinical trial with 3 months duration that enrolled 48 individuals, between
+ 18 and 65 years, with subclinical hypothyroidism. The patients were
+ randomized to the use of metformin 850 mg or placebo twice a day for 3
+ months. The primary outcome was the absolute decrease in TSH levels.
+ Secondary outcomes were changes in the clinical and laboratory assessment, as
+ well as in blood pressure assessed by ambulatory blood pressure monitoring.
+ RESULTS: After 3 months, 93.75% of participants completed the follow-up. The
+ post treatment value of TSH in the metformin and placebo groups were 6.48 +/-
+ 3.11 and 7.02 +/- 3.28 mIU/L, respectively (p = 0.57). Patients who achieved
+ status of euthyroidism in the metformin and placebo groups were 21.7 and
+ 18.2%, respectively (p = 0.76). There was no significant reduction of TSH
+ within the groups [delta for TSH of 0.63 +/- 0.56 (p = 0.28) and 0.54 +/-
+ 0.60 mIU/L (p = 0.38), in metformin and placebo groups, respectively]. There
+ was a small increase in HDL cholesterol (1.62 +/- 0.45 vs. 1.34 +/- 0.39
+ mmol/L, p = 0.03) favoring the metformin group. CONCLUSION: Since the sample
+ size was small, the study was inconclusive and the results should be
+ considered preliminary data of a study that needs to enroll 1626 patients to
+ show a 0.5 mIU/L difference in TSH between the groups, with 90% power.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Asymptomatic Diseases"
+      },
+      {
+        term "Blood Pressure",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cholesterol, HDL",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Double-Blind Method"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypothyroidism",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Insulin Resistance"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Metformin",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Placebos"
+      },
+      {
+        term "Thyrotropin",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cholesterol, HDL"
+      },
+      {
+        type nameonly,
+        name "Placebos"
+      },
+      {
+        type cas,
+        cit "9002-71-5",
+        name "Thyrotropin"
+      },
+      {
+        type cas,
+        cit "9100L32L2N",
+        name "Metformin"
+      }
+    },
+    pmid 29080044,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

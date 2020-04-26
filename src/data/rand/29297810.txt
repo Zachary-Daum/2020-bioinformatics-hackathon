@@ -1,0 +1,153 @@
+
+Pubmed-entry ::= {
+  pmid 29297810,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "SARCOCYSTIS NEURONA-ASSOCIATED MENINGOENCEPHALITIS IN A PACIFIC
+ WALRUS ( ODOBENDUS ROSMARUS DIVERGENS)."
+      },
+      authors {
+        names ml {
+          "Krol L",
+          "Fravel V",
+          "Procter DG",
+          "Colegrove KM"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Zoo Wildl. Med.",
+          ml-jta "J Zoo Wildl Med",
+          issn "1042-7260",
+          name "Journal of zoo and wildlife medicine : official publication of
+ the American Association of Zoo Veterinarians"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "48",
+          issue "4",
+          pages "1219-1222",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29297810,
+        doi "10.1638/2017-0093.1",
+        other {
+          db "ELocationID doi",
+          tag str "10.1638/2017-0093.1"
+        }
+      }
+    },
+    abstract "A 21-yr-old intact male walrus ( Odobendus rosmarus divergens)
+ presented with acute onset of shifting lameness, initially associated with
+ breeding behaviors. Further clinical signs manifested, including muscle
+ tremors, anorexia, hematuria, and coughing. Diagnostics were limited, as the
+ animal would not offer behaviors for voluntary sample collection. Signs were
+ addressed with anti-inflammatories, anticonvulsants, and antibiotics. The
+ walrus developed cluster seizures and ultimately, respiratory and cardiac
+ arrest. Postmortem lesions included meningoencephalitis with intra- and
+ extracellular protozoal zoites and schizonts, as well as interstitial
+ pneumonia with intraendothelial protozoa. Immunolabeling of the protozoal
+ organisms revealed Sarcocystis neurona. Previous S. neurona infections in an
+ odobenid have not been reported. Protozoal infection should be considered in
+ all species of captive marine mammals with nonspecific orthopedic,
+ neurological, and respiratory clinical signs.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Fatal Outcome"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Sarcocystis",
+        qual {
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Sarcocystosis",
+        qual {
+          {
+            subh "parasitology"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Walruses",
+        qual {
+          {
+            mp TRUE,
+            subh "parasitology"
+          }
+        }
+      }
+    },
+    pmid 29297810,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

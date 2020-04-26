@@ -1,0 +1,235 @@
+
+Pubmed-entry ::= {
+  pmid 28953071,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Applying Machine Learning to Workers' Compensation Data to
+ Identify Industry-Specific Ergonomic and Safety Prevention Priorities: Ohio,
+ 2001 to 2011."
+      },
+      authors {
+        names std {
+          {
+            name ml "Meyers AR",
+            affil str "National Institute for Occupational Safety and Health,
+ Division of Surveillance, Hazard Evaluations, and Field Studies, Center for
+ Workers' Compensation Studies, Cincinnati, Ohio (Drs Meyers, Wurzelbacher, Ms
+ Tseng); Ohio Bureau of Workers' Compensation, Division of Safety and Hygiene,
+ Pickerington, Ohio (Dr Al-Tarawneh, Mr Lampl, Mr Robins); National Institute
+ for Occupational Safety and Health, Office of the Director, Economic Research
+ Support Office, Cincinnati, Ohio (Dr Bushnell); National Institute for
+ Occupational Safety and Health, Division of Safety Research, Morgantown, West
+ Virginia (Dr Bell); National Institute for Occupational Safety and Health,
+ Division of Surveillance, Hazard Evaluations, and Field Studies, Cincinnati,
+ Ohio (Dr Bertke, Ms Raudabaugh, Dr Schnorr); Taiwan Centers for Disease
+ Control, Taipei City, Taiwan (Dr Wei)."
+          },
+          {
+            name ml "Al-Tarawneh IS"
+          },
+          {
+            name ml "Wurzelbacher SJ"
+          },
+          {
+            name ml "Bushnell PT"
+          },
+          {
+            name ml "Lampl MP"
+          },
+          {
+            name ml "Bell JL"
+          },
+          {
+            name ml "Bertke SJ"
+          },
+          {
+            name ml "Robins DC"
+          },
+          {
+            name ml "Tseng CY"
+          },
+          {
+            name ml "Wei C"
+          },
+          {
+            name ml "Raudabaugh JA"
+          },
+          {
+            name ml "Schnorr TM"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Occup. Environ. Med.",
+          ml-jta "J Occup Environ Med",
+          issn "1536-5948",
+          name "Journal of occupational and environmental medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "60",
+          issue "1",
+          pages "55-73",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28953071,
+        doi "10.1097/JOM.0000000000001162",
+        other {
+          db "pmc",
+          tag str "PMC5868484"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS947747"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/JOM.0000000000001162"
+        }
+      }
+    },
+    abstract "OBJECTIVE: This study leveraged a state workers' compensation
+ claims database and machine learning techniques to target prevention efforts
+ by injury causation and industry. METHODS: Injury causation auto-coding
+ methods were developed to code more than 1.2 million Ohio Bureau of Workers'
+ Compensation claims for this study. Industry groups were ranked for
+ soft-tissue musculoskeletal claims that may have been preventable with
+ biomechanical ergonomic (ERGO) or slip/trip/fall (STF) interventions.
+ RESULTS: On the basis of the average of claim count and rate ranks for more
+ than 200 industry groups, Skilled Nursing Facilities (ERGO) and General
+ Freight Trucking (STF) were the highest risk for lost-time claims (>7 days).
+ CONCLUSION: This study created a third, major causation-specific U.S.
+ occupational injury surveillance system. These findings are being used to
+ focus prevention resources on specific occupational injury types in specific
+ industry groups, especially in Ohio. Other state bureaus or insurers may use
+ similar methods.",
+    mesh {
+      {
+        term "Ergonomics"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Industry"
+      },
+      {
+        mp TRUE,
+        term "Machine Learning"
+      },
+      {
+        term "Musculoskeletal Diseases",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Occupational Diseases",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Occupational Health"
+      },
+      {
+        term "Occupational Injuries",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Ohio"
+      },
+      {
+        mp TRUE,
+        term "Safety"
+      },
+      {
+        term "Workers' Compensation",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      }
+    },
+    idnum {
+      "CC999999/Intramural CDC HHS"
+    },
+    pmid 28953071,
+    pub-type {
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+    },
+    status medline
+  }
+}
+
+

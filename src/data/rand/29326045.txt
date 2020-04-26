@@ -1,0 +1,328 @@
+
+Pubmed-entry ::= {
+  pmid 29326045,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "ING5 inhibits cell proliferation and invasion in esophageal
+ squamous cell carcinoma through regulation of the Akt/NF-kappaB/MMP-9
+ signaling pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang GJ",
+            affil str "Department of Thoracic Surgery, Jining No. 1 People's
+ Hospital, Jining 272000, Shandong Province, China."
+          },
+          {
+            name ml "Zhao J",
+            affil str "Department of Traditional Chinese Medicine, Yidu
+ Central Hospital, Weifang 262500, Shandong Province, China."
+          },
+          {
+            name ml "Jiang ML",
+            affil str "Department of Cardiology, Jining No. 1 People's
+ Hospital, Jining 272000, Shandong Province, China."
+          },
+          {
+            name ml "Zhang LC",
+            affil str "Department of Thoracic Surgery, Jining No. 1 People's
+ Hospital, Jining 272000, Shandong Province, China. Electronic address:
+ zhanglc_sur@sina.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biochem. Biophys. Res. Commun.",
+          ml-jta "Biochem Biophys Res Commun",
+          issn "1090-2104",
+          name "Biochemical and biophysical research communications"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 5
+          },
+          volume "496",
+          issue "2",
+          pages "387-393",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29326045,
+        pii "S0006-291X(18)30051-2",
+        doi "10.1016/j.bbrc.2018.01.045",
+        other {
+          db "ELocationID pii",
+          tag str "S0006-291X(18)30051-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bbrc.2018.01.045"
+        }
+      }
+    },
+    abstract "The inhibitor of growth 5 (ING5) is a new candidate tumor
+ suppressor gene (TSG) of the ING family. So far, there have been many reports
+ about its functions related to cancer development. However, the biological
+ roles of ING5 in esophageal squamous cell carcinoma (ESCC) remain unclear. In
+ the present study, we demonstrated that ING5 was lowly expressed in ESCC
+ tissues and cell lines. Overexpression of ING5 inhibited ESCC cell
+ proliferation and invasion in vitro as well as suppressed tumor growth and
+ metastasis in vivo. We also found that overexpression of ING5 significantly
+ decreased the levels of p-AKT, NF-kappaB and MMP-9 in ECA109cells. Taken
+ together, these findings demonstrated that ING5 inhibited cell proliferation
+ and invasion in ESCC through regulation of the Akt/NF-kappaB/MMP-9 signaling
+ pathway. Thus, ING5 might be considered a promising target for ESCC treatment.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Carcinoma, Squamous Cell",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Esophageal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Esophageal Squamous Cell Carcinoma"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "secondary"
+          }
+        }
+      },
+      {
+        term "Matrix Metalloproteinase 9",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Mice, Nude"
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Neoplasm Transplantation"
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Suppressor Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "ING5 protein, human"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "Tumor Suppressor Proteins"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      },
+      {
+        type ec,
+        cit "3.4.24.35",
+        name "MMP9 protein, human"
+      },
+      {
+        type ec,
+        cit "3.4.24.35",
+        name "Matrix Metalloproteinase 9"
+      }
+    },
+    pmid 29326045,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

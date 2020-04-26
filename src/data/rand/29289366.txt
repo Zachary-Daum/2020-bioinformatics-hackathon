@@ -1,0 +1,240 @@
+
+Pubmed-entry ::= {
+  pmid 29289366,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Comparison of Endoaortic and Transthoracic Aortic Clamping in
+ Less-Invasive Mitral Valve Surgery."
+      },
+      authors {
+        names std {
+          {
+            name ml "Barbero C",
+            affil str "Department of Cardiovascular and Thoracic Surgery,
+ Citta della Salute e della Scienza - San Giovanni Battista Hospital ""Molinet
+te"", Turin, Italy. Electronic address: cristina.barbero@unito.it."
+          },
+          {
+            name ml "Krakor R",
+            affil str "Department of Cardiac Surgery, Klinikum Dortmund,
+ Dortmund, Germany."
+          },
+          {
+            name ml "Bentala M",
+            affil str "Department of Cardiothoracic Surgery, Amphia Hospital,
+ Breda, The Netherlands."
+          },
+          {
+            name ml "Casselman F",
+            affil str "Department of Cardiovascular and Thoracic Surgery, OLV,
+ Aalst, Belgium."
+          },
+          {
+            name ml "Candolfi P",
+            affil str "Department of Biostatistics, Edwards Lifesciences,
+ Nyon, Switzerland."
+          },
+          {
+            name ml "Goldstein J",
+            affil str "Department of Clinical Outcomes, Edwards Lifesciences,
+ Dilbeek, Belgium."
+          },
+          {
+            name ml "Rinaldi M",
+            affil str "Department of Cardiovascular and Thoracic Surgery,
+ Citta della Salute e della Scienza - San Giovanni Battista Hospital ""Molinet
+te"", Turin, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ann. Thorac. Surg.",
+          ml-jta "Ann Thorac Surg",
+          issn "1552-6259",
+          name "The Annals of thoracic surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "105",
+          issue "3",
+          pages "794-798",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29289366,
+        pii "S0003-4975(17)31341-3",
+        doi "10.1016/j.athoracsur.2017.09.054",
+        other {
+          db "ELocationID pii",
+          tag str "S0003-4975(17)31341-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.athoracsur.2017.09.054"
+        }
+      }
+    },
+    abstract "BACKGROUND: Less-invasive mitral valve surgery has become a
+ widespread procedure in recent years, although mode of perfusion and aortic
+ clamping are still debated questions. The aim of this study was to compare
+ the results between transthoracic aortic clamping (TTC) and endoaortic
+ clamping (EAC) in a multicenter, retrospective study. METHODS: Data from 3
+ centers experienced in both TTC and EAC were retrospectively analyzed. Five
+ hundred consecutive patients undergoing less-invasive mitral valve surgery
+ received either TTC (n = 250) or EAC (n = 250). Age, sex, logistic EuroSCORE,
+ ejection fraction, associated procedures, and mitral valve repair rate were
+ similar. A higher incidence of previous cardiac operations was observed in
+ the EAC group (TTC 8.8% versus EAC 16.8%, p = 0.001). RESULTS: Clamping and
+ cardiopulmonary bypass times were comparable between the 2 groups.
+ Reoperation for bleeding (TTC 11.2% versus EAC 3.2%, p < 0.001), conversion
+ to full sternotomy (6 cases in the TTC group), and hospital length of stay
+ (TTC 9 days versus EAC 8 days, p = 0.01) were higher in the TTC group. No
+ differences were found in respiratory failure, renal failure, major vascular
+ complication, stroke, and in-hospital mortality rate. CONCLUSIONS: Despite
+ recent concerns arising about EAC, this large multicenter study shows
+ equivalence in terms of safety and effectiveness of this technique compared
+ with TTC. Reduction in postoperative bleeding was observed in the EAC group
+ despite the higher rate of complex redo cases.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aorta, Thoracic",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cardiac Surgical Procedures"
+      },
+      {
+        term "Cardiopulmonary Bypass"
+      },
+      {
+        mp TRUE,
+        term "Endovascular Procedures"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Heart Valve Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Length of Stay"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Minimally Invasive Surgical Procedures"
+      },
+      {
+        mp TRUE,
+        term "Mitral Valve"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29289366,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Multicenter Study"
+    },
+    status medline
+  }
+}
+
+

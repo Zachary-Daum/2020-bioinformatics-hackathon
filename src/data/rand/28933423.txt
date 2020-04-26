@@ -1,0 +1,269 @@
+
+Pubmed-entry ::= {
+  pmid 28933423,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Omega-3 PUFA ameliorates hyperhomocysteinemia-induced hepatic
+ steatosis in mice by inhibiting hepatic ceramide synthesis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dong YQ",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          },
+          {
+            name ml "Zhang XZ",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          },
+          {
+            name ml "Sun LL",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          },
+          {
+            name ml "Zhang SY",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          },
+          {
+            name ml "Liu B",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          },
+          {
+            name ml "Liu HY",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          },
+          {
+            name ml "Wang X",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          },
+          {
+            name ml "Jiang CT",
+            affil str "Department of Physiology and Pathophysiology, School of
+ Basic Medical Sciences, Peking University, Key Laboratory of Molecular
+ Cardiovascular Science, Ministry of Education and Beijing Key Laboratory of
+ Cardiovascular Receptors Research, Beijing 100191, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acta Pharmacol. Sin.",
+          ml-jta "Acta Pharmacol Sin",
+          issn "1745-7254",
+          name "Acta pharmacologica Sinica"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "38",
+          issue "12",
+          pages "1601-1610",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28933423,
+        pii "aps2017127",
+        doi "10.1038/aps.2017.127",
+        other {
+          db "pmc",
+          tag str "PMC5719150"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/aps.2017.127"
+        }
+      }
+    },
+    abstract "Hyperhomocysteinemia (HHcy) is a key risk factor in hepatic
+ steatosis. In this study, we applied a metabolomic approach to investigate
+ the changes in the metabolite profile due to HHcy-induced hepatic steatosis
+ and the effects of omega-3 PUFA (polyunsaturated fatty acid) supplementation
+ in mice. HHcy was induced in mice by giving DL-Hcy (1.8 g/L) in drinking
+ water for 6 weeks, then the mice were sacrificed, and the metabolic profiles
+ of the liver and plasma were analyzed through UPLC-ESI-QTOFMS-based
+ lipidomics. Hepatic triglycerides and cholesterol were further assayed. The
+ expression of ceramide metabolism-related genes was measured by quantitative
+ PCR. Compared with control mice, HHcy mice exhibited hepatic steatosis with a
+ notable increase in ceramide-related metabolites and subsequent upregulation
+ of ceramide synthesis genes such as Sptlc3, Degs2, Cer4 and Smpd4. Omega-3
+ PUFA was simultaneously administered in HHcy mice through chow diet
+ containing 3.3% omega-3 PUFA supplement for 6 weeks, which significantly
+ ameliorated Hcy-induced hepatic steatosis. The decrease in hepatic lipid
+ accumulation was mainly due to reduced hepatic levels of ceramides, which was
+ partly the result of the lower expression of ceramide synthesis genes, Sptlc3
+ and Degs2. Similar beneficial effects of DHA were observed in Hcy-stimulated
+ primary hepatocytes in vitro. In summary, Hcy-induced ceramide elevation in
+ hepatocytes might contribute to the development of hepatic steatosis.
+ Furthermore, downregulation of ceramide levels through omega-3 PUFA
+ supplementation ameliorates hepatic lipid accumulation. Thus, ceramide is a
+ potential therapeutic target for the treatment of hepatic steatosis.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Ceramides",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Fatty Acids, Omega-3",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Fatty Liver",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Hepatocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hyperhomocysteinemia",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ceramides"
+      },
+      {
+        type nameonly,
+        name "Fatty Acids, Omega-3"
+      }
+    },
+    pmid 28933423,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

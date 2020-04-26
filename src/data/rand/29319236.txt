@@ -1,0 +1,308 @@
+
+Pubmed-entry ::= {
+  pmid 29319236,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Neoadjuvant chemotherapy followed by minimally invasive
+ esophagectomy is safe and feasible for treatment of esophageal squamous cell
+ carcinoma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma S",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Yan T",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Liu D",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Wang K",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Wang J",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Song J",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Wang T",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "He W",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Bai J",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Jin L",
+            affil str "Department of Thoracic Surgery, Peking University Third
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Cancer Research Program, Julius L. Chambers Biomedical
+ Biotechnology Research Institute, North Carolina Central University, Durham,
+ North Carolina, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Thorac Cancer",
+          ml-jta "Thorac Cancer",
+          issn "1759-7714",
+          name "Thoracic cancer"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "9",
+          issue "2",
+          pages "310-315",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29319236,
+        doi "10.1111/1759-7714.12590",
+        other {
+          db "pmc",
+          tag str "PMC5792721"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/1759-7714.12590"
+        }
+      }
+    },
+    abstract "BACKGROUND: The advantage of neoadjuvant chemotherapy (NAC)
+ followed by open esophagectomy for treatment of esophageal squamous cell
+ carcinoma has been widely recognized. However, the safety and feasibility of
+ NAC for patients receiving minimally invasive esophagectomy (MIE) remain
+ controversial. The purpose of this study was to evaluate the potential impact
+ of prior neoadjuvant chemotherapy on the clinical outcome of MIE by comparing
+ two groups of patients, MIE alone and NAC plus MIE. METHODS: From May 2013 to
+ July 2017, 124 patients with esophageal squamous cell carcinoma underwent MIE
+ in our department, with 57 cases receiving NAC plus MIE and 67 cases
+ receiving MIE alone. Perioperative parameters and short-term postoperative
+ survival were compared between these two groups to evaluate the safety and
+ feasibility of NAC given before MIE. RESULTS: The group with NAC plus MIE had
+ slightly longer operating time, more blood loss, higher morbidity, increased
+ chance of surgical intensive care unit stay, and longer surgical intensive
+ care unit stay time than the group with MIE alone. However, there was no
+ statistically significant difference between these two groups (P > 0.05). The
+ number of lymph nodes harvested was similar in the two groups without
+ significant difference (P > 0.05). The overall survival was not significantly
+ different between these two groups either (P > 0.05), although before surgery
+ the clinical stage of the group with NAC plus MIE was more advanced than the
+ group with MIE alone. CONCLUSIONS: NAC followed by MIE is safe and feasible
+ for treatment of esophageal squamous cell carcinoma. NAC does not negatively
+ impact the therapeutic outcome of MIE.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Blood Loss, Surgical",
+        qual {
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Squamous Cell",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Esophageal Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Esophageal Squamous Cell Carcinoma"
+      },
+      {
+        term "Esophagectomy",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lymph Node Excision",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Lymph Nodes",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Minimally Invasive Surgical Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Neoadjuvant Therapy"
+      },
+      {
+        term "Postoperative Complications",
+        qual {
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29319236,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

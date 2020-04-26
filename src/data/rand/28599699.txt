@@ -1,0 +1,199 @@
+
+Pubmed-entry ::= {
+  pmid 28599699,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Application of Functional Impression Technique and Use of
+ Silicone as Bulb for Maxillary Obturator."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rahman AM",
+            affil str "Maxillofacial Prosthetic Service, School of Dental
+ Sciences, Universiti Sains Malaysia, Malaysia."
+          },
+          {
+            name ml "Nizami MMUI",
+            affil str "Maxillofacial Prosthetic Service, School of Dental
+ Sciences, Universiti Sains Malaysia, Malaysia."
+          },
+          {
+            name ml "Jamayet NB",
+            affil str "Maxillofacial Prosthetic Service, School of Dental
+ Sciences, Universiti Sains Malaysia, Malaysia."
+          },
+          {
+            name ml "Husein A",
+            affil str "Maxillofacial Prosthetic Service, School of Dental
+ Sciences, Universiti Sains Malaysia, Malaysia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Coll Physicians Surg Pak",
+          ml-jta "J Coll Physicians Surg Pak",
+          issn "1681-7168",
+          name "Journal of the College of Physicians and Surgeons--Pakistan :
+ JCPSP"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "27",
+          issue "5",
+          pages "319-320",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 15
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28599699,
+        pii "040579197",
+        doi "2623",
+        other {
+          db "ELocationID doi",
+          tag str "2623"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Carcinoma, Squamous Cell",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Dental Impression Materials",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Dental Impression Technique"
+      },
+      {
+        term "Dental Prosthesis Design"
+      },
+      {
+        mp TRUE,
+        term "Denture, Partial, Removable"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Maxilla",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Maxillary Sinus Neoplasms",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Palatal Obturators"
+      },
+      {
+        mp TRUE,
+        term "Silicones",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Dental Impression Materials"
+      },
+      {
+        type nameonly,
+        name "Silicones"
+      }
+    },
+    pmid 28599699,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

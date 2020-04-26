@@ -1,0 +1,227 @@
+
+Pubmed-entry ::= {
+  pmid 28687495,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Extracellular vesicles: Novel promising delivery systems for
+ therapy of brain diseases."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rufino-Ramos D",
+            affil str "CNC - Center for Neuroscience and Cell Biology,
+ University of Coimbra, Portugal; Faculty of Pharmacy, University of Coimbra,
+ Portugal."
+          },
+          {
+            name ml "Albuquerque PR",
+            affil str "CNC - Center for Neuroscience and Cell Biology,
+ University of Coimbra, Portugal; Faculty of Pharmacy, University of Coimbra,
+ Portugal."
+          },
+          {
+            name ml "Carmona V",
+            affil str "CNC - Center for Neuroscience and Cell Biology,
+ University of Coimbra, Portugal; Faculty of Pharmacy, University of Coimbra,
+ Portugal."
+          },
+          {
+            name ml "Perfeito R",
+            affil str "CNC - Center for Neuroscience and Cell Biology,
+ University of Coimbra, Portugal; Institute for Interdisciplinary Research,
+ University of Coimbra, Portugal."
+          },
+          {
+            name ml "Nobre RJ",
+            affil str "CNC - Center for Neuroscience and Cell Biology,
+ University of Coimbra, Portugal; Institute for Interdisciplinary Research,
+ University of Coimbra, Portugal."
+          },
+          {
+            name ml "Pereira de Almeida L",
+            affil str "CNC - Center for Neuroscience and Cell Biology,
+ University of Coimbra, Portugal; Faculty of Pharmacy, University of Coimbra,
+ Portugal. Electronic address: luispa@cnc.uc.pt."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Control Release",
+          ml-jta "J Control Release",
+          issn "1873-4995",
+          name "Journal of controlled release : official journal of the
+ Controlled Release Society"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9,
+            day 28
+          },
+          volume "262",
+          pages "247-258",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 23
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28687495,
+        pii "S0168-3659(17)30697-1",
+        doi "10.1016/j.jconrel.2017.07.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0168-3659(17)30697-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jconrel.2017.07.001"
+        }
+      }
+    },
+    abstract "Extracellular vesicles (EVs) are cell-derived membrane vesicles
+ virtually secreted by all cells, including brain cells. EVs are a major term
+ that includes apoptotic bodies, microvesicles and exosomes. The release of
+ EVs has been recognized as an important modulator in cross-talking between
+ neurons, astrocytes, microglia and oligodendrocytes, not only in central
+ nervous system (CNS) physiology but also in neurodegenerative and
+ neuroinflammatory disease states as well as in brain tumors, such as glioma.
+ EVs are able to cross the blood brain barrier (BBB), spread to body fluids
+ and reach distant tissues. This prominent spreading ability has suggested
+ that EVs can be exploited into several different clinical applications
+ ranging from biomarkers to therapeutic carriers. Exosomes, the well-studied
+ group of EVs, have been emerging as a promising tool for therapeutic delivery
+ strategies due to their intrinsic features, such as the stability,
+ biocompatibility and stealth capacity when circulating in bloodstream, the
+ ability to overcome natural barriers and inherent targeting properties. Over
+ the last years, it became apparent that EVs can be loaded with specific
+ cargoes directly in isolated EVs or by modulation of producer cells. In
+ addition, the engineering of its membrane for targeting purposes is expected
+ to allow generating carriers with unprecedented abilities for delivery in
+ specific organs or tissues. Nevertheless, some challenges remain regarding
+ the loading and targeting of EVs for which more research is necessary, and
+ will be discussed in this review. Recently-emerged promising derivations are
+ also discussed, such as exosome associated with adeno-associated virus (AAV)
+ vectors (vexosomes), enveloped protein nanocages (EPNs) and exosome-mimetic
+ nanovesicles. This article provides an updated review of this
+ fast-progressing field of EVs and their role in brain diseases, particularly
+ focusing in their therapeutic applications.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Brain Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Drug Delivery Systems"
+      },
+      {
+        mp TRUE,
+        term "Extracellular Vesicles"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Nanoparticles",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    pmid 28687495,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

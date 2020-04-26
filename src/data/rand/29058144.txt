@@ -1,0 +1,345 @@
+
+Pubmed-entry ::= {
+  pmid 29058144,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Rectal Gastrointestinal Stromal Tumor (GIST) in the Era of
+ Imatinib: Organ Preservation and Improved Oncologic Outcome."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cavnar MJ",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA.; Department of Surgery, University of Kentucky,
+ Lexington, KY, USA."
+          },
+          {
+            name ml "Wang L",
+            affil str "Department of Gastrointestinal Surgery, Peking
+ University Cancer Hospital and Institute, Key Laboratory of Carcinogenesis
+ and Translational Research (Ministry of Education), Beijing, China."
+          },
+          {
+            name ml "Balachandran VP",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Antonescu CR",
+            affil str "Department of Pathology, Memorial Sloan Kettering
+ Cancer Center, New York, NY, USA."
+          },
+          {
+            name ml "Tap WD",
+            affil str "Department of Medicine, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Keohan M",
+            affil str "Department of Medicine, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Singer S",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Temple L",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Nash GM",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Weiser MR",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Guillem JG",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Aguilar JG",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "DeMatteo RP",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA."
+          },
+          {
+            name ml "Paty PB",
+            affil str "Department of Surgery, Memorial Sloan Kettering Cancer
+ Center, New York, NY, USA. patyp@mskcc.org."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ann. Surg. Oncol.",
+          ml-jta "Ann Surg Oncol",
+          issn "1534-4681",
+          name "Annals of surgical oncology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "24",
+          issue "13",
+          pages "3972-3980",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29058144,
+        doi "10.1245/s10434-017-6087-9",
+        pii "10.1245/s10434-017-6087-9",
+        other {
+          db "pmc",
+          tag str "PMC5720861"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS915603"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1245/s10434-017-6087-9"
+        }
+      }
+    },
+    abstract "BACKGROUND: Approximately 5% of gastrointestinal stromal tumors
+ (GISTs) originate in the rectum, and historically, radical resection was
+ commonly performed. Little is known about the outcome for rectal GIST in the
+ era of imatinib. METHODS: Using a prospectively maintained database, this
+ study retrospectively analyzed 47 localized primary rectal GISTs treated at
+ our center from 1982 to 2016, stratified by when imatinib became available in
+ 2000. Overall survival (OS), disease-specific survival (DSS), and
+ recurrence-free survival (RFS) were analyzed by the Kaplan-Meier method.
+ RESULTS: Rectal GISTs represented 7.1% of 663 primary GISTs. The findings
+ showed 17 patients in the pre-imatinib era and 30 patients in the imatinib
+ era. The two groups had similar follow-up evaluation, age, gender, Miettinen
+ risk, and distance to the anal verge. In the imatinib era, tumors were
+ smaller at diagnosis (median 4 vs. 5 cm; p = 0.029), and 24 of the 30
+ patients received perioperative imatinib. In the high-risk patients, organ
+ preservation and negative margins were more common among the 13 patients
+ treated with neoadjuvant imatinib than among the 21 patients treated directly
+ with surgery. High-risk patients who received perioperative imatinib (n = 15)
+ had greater (or nearly significantly greater) 5-year OS, DSS, local RFS, and
+ distant RFS than those who did not (n = 19) (91, 100, 100, and 71% vs. 47,
+ 65, 74, and 41%; p = 0.049, 0.052, 0.077, 0.051, respectively). In the
+ imatinib era, no patient has had a local recurrence or death due to GIST.
+ CONCLUSIONS: The use of imatinib is associated with organ preservation and
+ improved oncologic outcome for patients with rectal GIST.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Gastrointestinal Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Gastrointestinal Stromal Tumors",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Imatinib Mesylate",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Medical Oncology"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoadjuvant Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Neoplasm Recurrence, Local",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Organ Preservation"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Rectal Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Survival Rate"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type cas,
+        cit "8A1O1M485B",
+        name "Imatinib Mesylate"
+      }
+    },
+    idnum {
+      "P30 CA008748/CA/NCI NIH HHS"
+    },
+    pmid 29058144,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,191 @@
+
+Pubmed-entry ::= {
+  pmid 28763982,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Microbial cell-free extracts affect the biochemical
+ characteristics and sensorial quality of sourdough bread."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cavallo N",
+            affil str "Department of Soil, Plant and Food Science, University
+ of Bari Aldo Moro, via G. Amendola 165/a, 70126 Bari, Bari, Italy."
+          },
+          {
+            name ml "De Angelis M",
+            affil str "Department of Soil, Plant and Food Science, University
+ of Bari Aldo Moro, via G. Amendola 165/a, 70126 Bari, Bari, Italy. Electronic
+ address: maria.deangelis@uniba.it."
+          },
+          {
+            name ml "Calasso M",
+            affil str "Department of Soil, Plant and Food Science, University
+ of Bari Aldo Moro, via G. Amendola 165/a, 70126 Bari, Bari, Italy."
+          },
+          {
+            name ml "Quinto M",
+            affil str "Department of Science of Agriculture, Food and
+ Environment, University of Foggia, via Napoli 25, 71122 Foggia, Italy."
+          },
+          {
+            name ml "Mentana A",
+            affil str "Department of Science of Agriculture, Food and
+ Environment, University of Foggia, via Napoli 25, 71122 Foggia, Italy."
+          },
+          {
+            name ml "Minervini F",
+            affil str "Department of Soil, Plant and Food Science, University
+ of Bari Aldo Moro, via G. Amendola 165/a, 70126 Bari, Bari, Italy."
+          },
+          {
+            name ml "Cappelle S",
+            affil str "Puratos NV - Worldwide, Groot-Bijgaarden, Belgium."
+          },
+          {
+            name ml "Gobbetti M",
+            affil str "Faculty of Science and Technology, Free University of
+ Bozen, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Food Chem",
+          ml-jta "Food Chem",
+          issn "1873-7072",
+          name "Food chemistry"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12,
+            day 15
+          },
+          volume "237",
+          pages "159-168",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 4,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 17
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28763982,
+        pii "S0308-8146(17)30880-4",
+        doi "10.1016/j.foodchem.2017.05.089",
+        other {
+          db "ELocationID pii",
+          tag str "S0308-8146(17)30880-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.foodchem.2017.05.089"
+        }
+      }
+    },
+    abstract "This study aimed to improve the sensorial quality of sourdough
+ wheat bread by the addition of cell-free enzyme extracts (CFEs) from
+ Lactobacillus sanfranciscensis (SF), Hafnia alvei (HF) and Debaryomyces
+ hansenii (DH). CFEs were suitable sources of peptidases, glutamate
+ dehydrogenase and cystathionine gamma-lyase. The concentration of free amino
+ acids (FAA) in the sourdoughs containing CFEs was higher than the control
+ sourdough, produced without addition of CFEs. The community-level catabolic
+ profiles showed that the highest number of carbohydrates, polymers and
+ carboxylic acids were consumed in the SF sourdough. Breads produced with CFEs
+ were characterized by higher specific volume than the control. The use of
+ CFEs impacted on the profile of volatile organic compounds. Overall, positive
+ correlations were found between some key-aroma compounds and enzyme
+ activities/precursor FAA. The SF bread, characterized by highest level of
+ alcohols, received the highest score for aroma and sweetness in the sensory
+ analysis.",
+    mesh {
+      {
+        mp TRUE,
+        term "Bread"
+      },
+      {
+        term "Cell-Free System"
+      },
+      {
+        term "Lactobacillus"
+      },
+      {
+        term "Taste"
+      },
+      {
+        term "Triticum"
+      }
+    },
+    pmid 28763982,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

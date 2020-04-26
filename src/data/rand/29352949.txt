@@ -1,0 +1,119 @@
+
+Pubmed-entry ::= {
+  pmid 29352949,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Editorial Comment."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zlotta AR",
+            affil str "Department of Surgery (Urology), Mount Sinai Hospital,
+ Division of Urology, Department of Surgical Oncology, Princess Margaret
+ Cancer Centre, University Health Network, Lunenfeld-Tanenbaum Research
+ Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Urol.",
+          ml-jta "J Urol",
+          issn "1527-3792",
+          name "The Journal of urology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "199",
+          issue "4",
+          pages "967",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29352949,
+        pii "S0022-5347(18)30060-0",
+        doi "10.1016/j.juro.2017.10.067",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-5347(18)30060-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.juro.2017.10.067"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Biopsy"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neoplasm Grading"
+      },
+      {
+        mp TRUE,
+        term "Prostatic Neoplasms"
+      }
+    },
+    pmid 29352949,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

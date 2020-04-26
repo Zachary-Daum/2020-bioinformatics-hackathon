@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 29065365,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Consolidating new words from repetitive versus multiple stories:
+ Prior knowledge matters."
+      },
+      authors {
+        names std {
+          {
+            name ml "Henderson LM",
+            affil str "Department of Psychology, University of York, York YO10
+ 5DD, UK. Electronic address: lisa-marie.henderson@york.ac.uk."
+          },
+          {
+            name ml "James E",
+            affil str "Department of Psychology, University of York, York YO10
+ 5DD, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Exp Child Psychol",
+          ml-jta "J Exp Child Psychol",
+          issn "1096-0457",
+          name "Journal of experimental child psychology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "166",
+          pages "465-484",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 8,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29065365,
+        pii "S0022-0965(17)30332-6",
+        doi "10.1016/j.jecp.2017.09.017",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-0965(17)30332-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jecp.2017.09.017"
+        }
+      }
+    },
+    abstract "Prior knowledge is proposed to support the consolidation of
+ newly acquired material. The current study examined whether children with
+ superior vocabulary knowledge show enhanced overnight consolidation,
+ particularly when new words are encountered in varying stories. Children aged
+ 10 and 11years (N=42) were exposed to two sets of eight spoken novel words
+ (e.g., ""crocodol""), with one set embedded in the same story presented twice
+ and the other presented in two different stories. Children with superior
+ vocabulary knowledge showed larger overnight gains in explicit phonological
+ and semantic knowledge when novel words had been encountered in multiple
+ stories. However, when novel words had been encountered in repetitive
+ stories, existing knowledge exerted no influence on the consolidation of
+ explicit phonological knowledge and had a negative impact on the
+ consolidation of semantic knowledge. One full day (24h) after story exposure,
+ only very weak evidence of lexical integration (i.e., slower animacy
+ decisions toward the basewords [e.g., ""crocodile""] than toward the control
+ words) was observed for novel words learned via repetitive (but not multiple)
+ stories. These data suggest that although the consolidation of explicit new
+ word knowledge learned through multiple contexts is supported by prior
+ knowledge, lexical integration might benefit more from repetition.",
+    mesh {
+      {
+        term "Child"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Knowledge"
+      },
+      {
+        term "Linguistics"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Memory"
+      },
+      {
+        term "Semantics"
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        mp TRUE,
+        term "Verbal Learning"
+      },
+      {
+        term "Vocabulary"
+      }
+    },
+    pmid 29065365,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

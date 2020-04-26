@@ -1,0 +1,94 @@
+
+Pubmed-entry ::= {
+  pmid 29226753,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Balint under the microscope: What really happens in Balint
+ groups?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Salinsky J",
+            affil str "1 Whittington General Practice Education and Training,
+ Health Education England, London, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Psychiatry Med",
+          ml-jta "Int J Psychiatry Med",
+          issn "1541-3527",
+          name "International journal of psychiatry in medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "53",
+          issue "1-2",
+          pages "7-14",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29226753,
+        doi "10.1177/0091217417745287",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0091217417745287"
+        }
+      }
+    },
+    pmid 29226753,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

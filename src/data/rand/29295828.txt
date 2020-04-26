@@ -1,0 +1,123 @@
+
+Pubmed-entry ::= {
+  pmid 29295828,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Why Nomenclature for Pharmacist-Led Interventions Matters:
+ Conquering the State of Confusion."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pai AB",
+            affil str "Department of Clinical Pharmacy, College of Pharmacy,
+ University of Michigan, Ann Arbor, Michigan amypai@med.umich.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin J Am Soc Nephrol",
+          ml-jta "Clin J Am Soc Nephrol",
+          issn "1555-905X",
+          name "Clinical journal of the American Society of Nephrology : CJASN"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 7
+          },
+          volume "13",
+          issue "2",
+          pages "198-200",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29295828,
+        pii "CJN.13601217",
+        doi "10.2215/CJN.13601217",
+        other {
+          db "pmc",
+          tag str "PMC5967440"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.2215/CJN.13601217"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Hospitalization"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Medication Therapy Management"
+      },
+      {
+        term "Pharmacists"
+      },
+      {
+        term "Polypharmacy"
+      },
+      {
+        mp TRUE,
+        term "Renal Insufficiency, Chronic"
+      }
+    },
+    pmid 29295828,
+    pub-type {
+      "Editorial",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,167 @@
+
+Pubmed-entry ::= {
+  pmid 28940683,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Western herbal medicine is a useful adjunct to traditional
+ dermatological practice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kentley J",
+            affil str "Department of Dermatology, Whipps Cross University
+ Hospital, Whipps Cross Road, London, E11 1NR, UK."
+          },
+          {
+            name ml "Brock C",
+            affil str "Department of Life Sciences Research, School of Life
+ Sciences, University of Westminster, London, UK."
+          },
+          {
+            name ml "Ramamurthy K",
+            affil str "Department of Dermatology, Whipps Cross University
+ Hospital, Whipps Cross Road, London, E11 1NR, UK."
+          },
+          {
+            name ml "Laird A",
+            affil str "Department of Dermatology, Whipps Cross University
+ Hospital, Whipps Cross Road, London, E11 1NR, UK."
+          },
+          {
+            name ml "Linhares B",
+            affil str "Department of Dermatology, Whipps Cross University
+ Hospital, Whipps Cross Road, London, E11 1NR, UK."
+          },
+          {
+            name ml "Bewley A",
+            affil str "Department of Dermatology, Whipps Cross University
+ Hospital, Whipps Cross Road, London, E11 1NR, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin. Exp. Dermatol.",
+          ml-jta "Clin Exp Dermatol",
+          issn "1365-2230",
+          name "Clinical and experimental dermatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "43",
+          issue "1",
+          pages "58-60",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28940683,
+        doi "10.1111/ced.13229",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ced.13229"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Dermatology",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Herbal Medicine",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Phytotherapy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Skin Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      }
+    },
+    pmid 28940683,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

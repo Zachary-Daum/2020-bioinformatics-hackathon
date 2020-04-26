@@ -1,0 +1,214 @@
+
+Pubmed-entry ::= {
+  pmid 28756311,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Neurogenesis impairment: An early developmental defect in Down
+ syndrome."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stagni F",
+            affil str "Department of Biomedical and Neuromotor Sciences,
+ University of Bologna, Bologna, Italy."
+          },
+          {
+            name ml "Giacomini A",
+            affil str "Department of Biomedical and Neuromotor Sciences,
+ University of Bologna, Bologna, Italy."
+          },
+          {
+            name ml "Emili M",
+            affil str "Department of Biomedical and Neuromotor Sciences,
+ University of Bologna, Bologna, Italy."
+          },
+          {
+            name ml "Guidi S",
+            affil str "Department of Biomedical and Neuromotor Sciences,
+ University of Bologna, Bologna, Italy."
+          },
+          {
+            name ml "Bartesaghi R",
+            affil str "Department of Biomedical and Neuromotor Sciences,
+ University of Bologna, Bologna, Italy. Electronic address:
+ renata.bartesaghi@unibo.it."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Free Radic. Biol. Med.",
+          ml-jta "Free Radic Biol Med",
+          issn "1873-4596",
+          name "Free radical biology & medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "114",
+          pages "15-32",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28756311,
+        pii "S0891-5849(17)30710-4",
+        doi "10.1016/j.freeradbiomed.2017.07.026",
+        other {
+          db "ELocationID pii",
+          tag str "S0891-5849(17)30710-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.freeradbiomed.2017.07.026"
+        }
+      }
+    },
+    abstract "Down syndrome (DS) is characterized by brain hypotrophy and
+ intellectual disability starting from early life stages. Accumulating
+ evidence shows that the phenotypic features of the DS brain can be traced
+ back to the fetal period since the DS brain exhibits proliferation potency
+ reduction starting from the critical time window of fetal neurogenesis. This
+ defect is worsened by the fact that neural progenitor cells exhibit reduced
+ acquisition of a neuronal phenotype and an increase in the acquisition of an
+ astrocytic phenotype. Consequently, the DS brain has fewer neurons in
+ comparison with the typical brain. Although apoptotic cell death may be
+ increased in DS, this does not seem to be the major cause of brain
+ hypocellularity. Evidence obtained in brains of individuals with DS,
+ DS-derived induced pluripotent stem cells (iPSCs), and DS mouse models has
+ provided some insight into the mechanisms underlying the developmental
+ defects due to the trisomic condition. Although many triplicated genes may be
+ involved, in the light of the studies reviewed here, DYRK1A, APP, RCAN1 and
+ OLIG1/2 appear to be particularly important determinants of many
+ neurodevelopmental alterations that characterize DS because their
+ triplication affects both the proliferation and fate of neural precursor
+ cells as well as apoptotic cell death. Based on the evidence reviewed here,
+ pathways downstream to these genes may represent strategic targets, for the
+ design of possible interventions.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Down Syndrome",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Nervous System Malformations",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neural Stem Cells",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Neurogenesis"
+      }
+    },
+    pmid 28756311,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

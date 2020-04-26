@@ -1,0 +1,250 @@
+
+Pubmed-entry ::= {
+  pmid 28856723,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sources of influence on pregnant women's preferred mode of
+ delivery in Buenos Aires, Argentina."
+      },
+      authors {
+        names std {
+          {
+            name ml "Amyx M",
+            affil str "Department of Epidemiology, Tulane University School of
+ Public Health and Tropical Medicine, New Orleans, LA, USA."
+          },
+          {
+            name ml "Gibbons L",
+            affil str "Mother and Child's Health Research Department,
+ Institute for Clinical Effectiveness and Health Policy (IECS-CONICET), Buenos
+ Aires, Argentina."
+          },
+          {
+            name ml "Xiong X",
+            affil str "Department of Epidemiology, Tulane University School of
+ Public Health and Tropical Medicine, New Orleans, LA, USA."
+          },
+          {
+            name ml "Mazzoni A",
+            affil str "Mother and Child's Health Research Department,
+ Institute for Clinical Effectiveness and Health Policy (IECS-CONICET), Buenos
+ Aires, Argentina."
+          },
+          {
+            name ml "Althabe F",
+            affil str "Mother and Child's Health Research Department,
+ Institute for Clinical Effectiveness and Health Policy (IECS-CONICET), Buenos
+ Aires, Argentina."
+          },
+          {
+            name ml "Buekens P",
+            affil str "Department of Epidemiology, Tulane University School of
+ Public Health and Tropical Medicine, New Orleans, LA, USA."
+          },
+          {
+            name ml "Belizan JM",
+            affil str "Mother and Child's Health Research Department,
+ Institute for Clinical Effectiveness and Health Policy (IECS-CONICET), Buenos
+ Aires, Argentina."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Birth",
+          ml-jta "Birth",
+          issn "1523-536X",
+          name "Birth (Berkeley, Calif.)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "45",
+          issue "1",
+          pages "71-78",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 3
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28856723,
+        doi "10.1111/birt.12307",
+        other {
+          db "pmc",
+          tag str "PMC5814339"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS895257"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/birt.12307"
+        }
+      }
+    },
+    abstract "BACKGROUND: Understanding influences on women's preferred
+ delivery mode is vital for planning interventions to reduce cesarean rates
+ and for ensuring that women receive correct information. Our objectives were
+ to: determine if sources of information influencing a pregnant woman's
+ preferred delivery mode and knowledge of cesarean indications differ by
+ sociodemographic characteristics; to conduct a factor analysis of items
+ related to information sources influencing this preference; and to determine
+ if knowledge differs by information sources influencing this preference or
+ their underlying latent constructs. METHODS: Data from a prospective cohort
+ study conducted in Buenos Aires was analyzed. Healthy nulliparous women aged
+ 18-35, at >32 weeks of gestation and with live, singleton pregnancies
+ participated. The primary research questions were evaluated using Chi-square
+ tests, factor analysis, logistic regression, and generalized estimating
+ equations. RESULTS: A total of 382 women participated in the study. Women of
+ lower socioeconomic status were more influenced by people, magazines and
+ TV/movies in their mode of delivery preferences, and had poorer knowledge of
+ cesarean indications. Sources of influence for preferred delivery mode and
+ factors derived in factor analysis were not associated with knowledge level
+ when considered individually or together, or when adjusted for
+ sociodemographic characteristics, or when accounting for clustering by the
+ hospital sector (public or private). CONCLUSIONS: Higher socioeconomic status
+ is associated with being less influenced by people and with better knowledge
+ of indications for cesarean delivery. Knowledge of cesarean indications was
+ not associated with the source of information about mode of delivery
+ preferences.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Argentina"
+      },
+      {
+        term "Cesarean Section",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Knowledge, Attitudes, Practice"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Logistic Models"
+      },
+      {
+        term "Patient Preference",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        mp TRUE,
+        term "Social Class"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "R24 TW007988/TW/FIC NIH HHS",
+      "R25 TW009340/TW/FIC NIH HHS",
+      "T32 HD057780/HD/NICHD NIH HHS"
+    },
+    pmid 28856723,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, P.H.S."
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,127 @@
+
+Pubmed-entry ::= {
+  pmid 28695991,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Suprascapular artery pseudoaneurysm."
+      },
+      authors {
+        names std {
+          {
+            name ml "Falconer R",
+            affil str "Department of Vascular Surgery, Aberdeen Royal
+ Infirmary, Aberdeen, UK."
+          },
+          {
+            name ml "Munro EN",
+            affil str "Department of Vascular Surgery, Aberdeen Royal
+ Infirmary, Aberdeen, UK."
+          },
+          {
+            name ml "Jamieson RW",
+            affil str "Department of Vascular Surgery, Aberdeen Royal
+ Infirmary, Aberdeen, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "ANZ J Surg",
+          ml-jta "ANZ J Surg",
+          issn "1445-2197",
+          name "ANZ journal of surgery"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 4
+          },
+          volume "89",
+          issue "4",
+          pages "425-426",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 4,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 4,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28695991,
+        doi "10.1111/ans.14102",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ans.14102"
+        }
+      }
+    },
+    pmid 28695991,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

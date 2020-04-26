@@ -1,0 +1,167 @@
+
+Pubmed-entry ::= {
+  pmid 29152886,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Contrast-Based Computational Model of Surprise and Its
+ Applications."
+      },
+      authors {
+        names std {
+          {
+            name ml "Macedo L",
+            affil str "CISUC, Department of Informatics Engineering,
+ University of Coimbra."
+          },
+          {
+            name ml "Cardoso A",
+            affil str "CISUC, Department of Informatics Engineering,
+ University of Coimbra."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Top Cogn Sci",
+          ml-jta "Top Cogn Sci",
+          issn "1756-8765",
+          name "Topics in cognitive science"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "11",
+          issue "1",
+          pages "88-102",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29152886,
+        doi "10.1111/tops.12310",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/tops.12310"
+        }
+      }
+    },
+    abstract "We review our work on a contrast-based computational model of
+ surprise and its applications. The review is contextualized within related
+ research from psychology, philosophy, and particularly artificial
+ intelligence. Influenced by psychological theories of surprise, the model
+ assumes that surprise-eliciting events initiate a series of cognitive
+ processes that begin with the appraisal of the event as unexpected, continue
+ with the interruption of ongoing activity and the focusing of attention on
+ the unexpected event, and culminate in the analysis and evaluation of the
+ event and the revision of beliefs. It is assumed that the intensity of
+ surprise elicited by an event is a nonlinear function of the difference or
+ contrast between the subjective probability of the event and that of the most
+ probable alternative event (which is usually the expected event); and that
+ the agent's behavior is partly controlled by actual and anticipated surprise.
+ We describe applications of artificial agents that incorporate the proposed
+ surprise model in three domains: the exploration of unknown environments,
+ creativity, and intelligent transportation systems. These applications
+ demonstrate the importance of surprise for decision making, active learning,
+ creative reasoning, and selective attention.",
+    mesh {
+      {
+        mp TRUE,
+        term "Attention"
+      },
+      {
+        mp TRUE,
+        term "Creativity"
+      },
+      {
+        mp TRUE,
+        term "Decision Making"
+      },
+      {
+        mp TRUE,
+        term "Emotions"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Models, Theoretical"
+      }
+    },
+    pmid 29152886,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

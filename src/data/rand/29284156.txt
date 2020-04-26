@@ -1,0 +1,233 @@
+
+Pubmed-entry ::= {
+  pmid 29284156,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Vancomycin dosing in chronic high-flux haemodialysis: a
+ systematic review."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hui K",
+            affil str "Centre for Medicine Use and Safety, Monash University,
+ 381 Royal Parade, Parkville, VIC 3052, Australia."
+          },
+          {
+            name ml "Upjohn L",
+            affil str "Victorian Infectious Diseases Service, Royal Melbourne
+ Hospital, 300 Grattan Street, Parkville, VIC 3050, Australia; Department of
+ Medicine, University of Melbourne, Grattan Street, Melbourne, VIC 3010,
+ Australia."
+          },
+          {
+            name ml "Nalder M",
+            affil str "Department of Pharmacy, Royal Melbourne Hospital, 300
+ Grattan Street, Parkville, VIC 3050, Australia."
+          },
+          {
+            name ml "Buising K",
+            affil str "Victorian Infectious Diseases Service, Royal Melbourne
+ Hospital, 300 Grattan Street, Parkville, VIC 3050, Australia; Department of
+ Medicine, University of Melbourne, Grattan Street, Melbourne, VIC 3010,
+ Australia."
+          },
+          {
+            name ml "Pedagogos E",
+            affil str "Department of Nephrology, Royal Melbourne Hospital, 300
+ Grattan Street, Parkville, VIC 3050, Australia."
+          },
+          {
+            name ml "Nelson C",
+            affil str "Department of Nephrology, Western Health, 176 Furlong
+ Road, St Albans, VIC 3021, Australia; Western Health Chronic Disease
+ Alliance, Western Centre for Health Research and Education, Western Health,
+ 176 Furlong Road, St Albans, VIC 3021, Australia; Department of Medicine,
+ Western Health, University of Melbourne, 176 Furlong Rd, St Albans, VIC 3021,
+ Australia."
+          },
+          {
+            name ml "Kirkpatrick CMJ",
+            affil str "Centre for Medicine Use and Safety, Monash University,
+ 381 Royal Parade, Parkville, VIC 3052, Australia."
+          },
+          {
+            name ml "Kong DCM",
+            affil str "Centre for Medicine Use and Safety, Monash University,
+ 381 Royal Parade, Parkville, VIC 3052, Australia. Electronic address:
+ david.kong@monash.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. J. Antimicrob. Agents",
+          ml-jta "Int J Antimicrob Agents",
+          issn "1872-7913",
+          name "International journal of antimicrobial agents"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "51",
+          issue "5",
+          pages "678-686",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29284156,
+        pii "S0924-8579(17)30451-X",
+        doi "10.1016/j.ijantimicag.2017.12.017",
+        other {
+          db "ELocationID pii",
+          tag str "S0924-8579(17)30451-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ijantimicag.2017.12.017"
+        }
+      }
+    },
+    abstract "The aim of this study was to systematically evaluate whether
+ non-weight-based dosing (non-WBD) or weight-based dosing (WBD) of vancomycin
+ leads to a higher proportion of patients achieving the
+ pharmacokinetic/pharmacodynamic target. Studies from January 1985 to February
+ 2017 were identified through Cochrane, MEDLINE and Embase databases. Those
+ conducted in adults with end-stage renal disease receiving high-flux
+ haemodialysis (HD) and intravenous vancomycin were included. The primary
+ outcome was the proportion of patients with a pre-HD vancomycin concentration
+ of 15-20 mg/L and/or an area under the concentration-time curve/minimum
+ inhibitory concentration (AUC/MIC) ratio >/=400. Of the 3948 studies
+ screened, 5 met the inclusion criteria. The proportion of patients with
+ pre-HD concentrations between 15-20 mg/L were 35% (non-WBD) and 13% (WBD)
+ post-loading dose. During maintenance dosing, the proportion of patients with
+ pre-HD concentrations between 15-20 mg/L were 37% (non-WBD) and 50-67% (WBD).
+ The proportion of pre-HD concentrations <15 mg/L was greater in the non-WBD
+ group post-loading dose but was similar between the non-WBD and WBD group
+ during maintenance dosing. One study reported that all patients had an
+ AUC/MIC >/= 400 for micro-organisms with an MIC </= 1 mg/L for weight-based
+ maintenance dosing. The limited data suggest that WBD may be preferential as
+ there was a smaller proportion of pre-HD concentrations falling below 15
+ mg/L. However, larger well-designed studies of higher quality are required to
+ provide guidance for vancomycin dosing in the high-flux HD setting. Future
+ research should focus on reporting AUC/MIC ratios and exploring clinical
+ outcomes in this patient population.",
+    mesh {
+      {
+        term "Area Under Curve"
+      },
+      {
+        term "Body Weight"
+      },
+      {
+        term "Drug Monitoring"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Microbial Sensitivity Tests"
+      },
+      {
+        mp TRUE,
+        term "Renal Dialysis"
+      },
+      {
+        term "Vancomycin",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacokinetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "6Q205EH1VU",
+        name "Vancomycin"
+      }
+    },
+    pmid 29284156,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    },
+    status medline
+  }
+}
+
+

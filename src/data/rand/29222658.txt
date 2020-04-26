@@ -1,0 +1,309 @@
+
+Pubmed-entry ::= {
+  pmid 29222658,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Phytotoxic effects of silver nanoparticles in tobacco plants."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cvjetko P",
+            affil str "Department of Biology, Faculty of Science, University
+ of Zagreb, Horvatovac 102a, HR-10000, Zagreb, Croatia."
+          },
+          {
+            name ml "Zovko M",
+            affil str "Department of Biology, Faculty of Science, University
+ of Zagreb, Horvatovac 102a, HR-10000, Zagreb, Croatia.; Environmental
+ Documents Department, Croatian Agency for the Environment and Nature,
+ Radnicka cesta 80, 10000, Zagreb, Croatia."
+          },
+          {
+            name ml "Stefanic PP",
+            affil str "Department of Biology, Faculty of Science, University
+ of Zagreb, Horvatovac 102a, HR-10000, Zagreb, Croatia."
+          },
+          {
+            name ml "Biba R",
+            affil str "Department of Biology, Faculty of Science, University
+ of Zagreb, Horvatovac 102a, HR-10000, Zagreb, Croatia."
+          },
+          {
+            name ml "Tkalec M",
+            affil str "Department of Biology, Faculty of Science, University
+ of Zagreb, Horvatovac 102a, HR-10000, Zagreb, Croatia."
+          },
+          {
+            name ml "Domijan AM",
+            affil str "Department of Pharmaceutical Botany, Faculty of
+ Pharmacy and Biochemistry, University of Zagreb, Ante Kovacica 1, 10000,
+ Zagreb, Croatia."
+          },
+          {
+            name ml "Vrcek IV",
+            affil str "Institute for Medical Research and Occupational Health,
+ Ksaverska cesta 2, 10000, Zagreb, Croatia."
+          },
+          {
+            name ml "Letofsky-Papst I",
+            affil str "Institute of Electron Microscopy and Nanoanalysis
+ (FELMI), Graz Centre for Electron Microscopy (ZFE), Austrian Cooperative
+ Research (ACR), Graz University of Technology, Steyrergasse 17, 8010, Graz,
+ Austria."
+          },
+          {
+            name ml "Sikic S",
+            affil str "Department of Ecology, Institute of Public Health ""Dr.
+ Andrija Stampar"", Mirogojska cesta 16, 10000, Zagreb, Croatia."
+          },
+          {
+            name ml "Balen B",
+            affil str "Department of Biology, Faculty of Science, University
+ of Zagreb, Horvatovac 102a, HR-10000, Zagreb, Croatia. bbalen@biol.pmf.hr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ Sci Pollut Res Int",
+          ml-jta "Environ Sci Pollut Res Int",
+          issn "1614-7499",
+          name "Environmental science and pollution research international"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "25",
+          issue "6",
+          pages "5590-5602",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29222658,
+        doi "10.1007/s11356-017-0928-8",
+        pii "10.1007/s11356-017-0928-8",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11356-017-0928-8"
+        }
+      }
+    },
+    abstract "The small size of nanoparticles (NPs), with dimensions between 1
+ and 100 nm, results in unique chemical and physical characteristics, which is
+ why they are implemented in various consumer products. Therefore, an
+ important concern is the potential detrimental impact of NPs on the
+ environment. As plants are a vital part of ecosystem, investigation of the
+ phytotoxic effects of NPs is particularly interesting. This study
+ investigated the potential phytotoxicity of silver nanoparticles (AgNPs) on
+ tobacco (Nicotiana tabacum) plants and compared it with the effects of the
+ same AgNO3 concentrations. Accumulation of silver in roots and leaves was
+ equally efficient after both AgNP and AgNO3 treatment, with predominant Ag
+ levels found in the roots. Exposure to AgNPs did not result in elevated
+ values of oxidative stress parameters either in roots or in leaves, while
+ AgNO3 induced oxidative stress in both plant tissues. In the presence of both
+ AgNPs and AgNO3, root meristem cells became highly vacuolated, which
+ indicates that vacuoles might be the primary storage target for accumulated
+ Ag. Direct AgNP uptake by root cells was confirmed. Leaf ultrastructural
+ studies revealed changes mainly in the size of chloroplasts of AgNP-treated
+ and AgNO3-treated plants. All of these findings indicate that nano form of
+ silver is less toxic to tobacco plants than silver ions.",
+    mesh {
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Environmental Pollutants",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Ions"
+      },
+      {
+        term "Meristem",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Metal Nanoparticles",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Particle Size"
+      },
+      {
+        term "Plant Leaves",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Silver",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Silver Nitrate",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Surface Properties"
+      },
+      {
+        term "Tobacco",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Environmental Pollutants"
+      },
+      {
+        type nameonly,
+        name "Ions"
+      },
+      {
+        type cas,
+        cit "3M4G523W1G",
+        name "Silver"
+      },
+      {
+        type cas,
+        cit "95IT3W8JZE",
+        name "Silver Nitrate"
+      }
+    },
+    idnum {
+      "IP-2014-09-6488/Hrvatska Zaklada za Znanost (HR)",
+      "20281222/University of Zagreb",
+      "Grant Agreement 312483 - ESTEEM2/European Union Seventh Framework
+ Programme",
+      "HR.3.2.01-0095/European Social Fund"
+    },
+    pmid 29222658,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

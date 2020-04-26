@@ -1,0 +1,355 @@
+
+Pubmed-entry ::= {
+  pmid 29102763,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A reactive oxygen species activation mechanism contributes to
+ Sophoridine-induced apoptosis in rat liver BRL-3A cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Qiu M",
+            affil str "College of Veterinary Medicine, Northwest A&F
+ University, Yangling, Shaanxi 712100, China; Institute of Poisonous Plants in
+ Western China, Northwest A&F University, Yangling, Shaanxi 712100, China."
+          },
+          {
+            name ml "Shi F",
+            affil str "College of Veterinary Medicine, Northwest A&F
+ University, Yangling, Shaanxi 712100, China; Institute of Poisonous Plants in
+ Western China, Northwest A&F University, Yangling, Shaanxi 712100, China."
+          },
+          {
+            name ml "Dai F",
+            affil str "College of Veterinary Medicine, Northwest A&F
+ University, Yangling, Shaanxi 712100, China; Institute of Poisonous Plants in
+ Western China, Northwest A&F University, Yangling, Shaanxi 712100, China."
+          },
+          {
+            name ml "Song R",
+            affil str "College of Veterinary Medicine, Northwest A&F
+ University, Yangling, Shaanxi 712100, China; Institute of Poisonous Plants in
+ Western China, Northwest A&F University, Yangling, Shaanxi 712100, China."
+          },
+          {
+            name ml "Wang S",
+            affil str "College of Veterinary Medicine, Northwest A&F
+ University, Yangling, Shaanxi 712100, China; Institute of Poisonous Plants in
+ Western China, Northwest A&F University, Yangling, Shaanxi 712100, China."
+          },
+          {
+            name ml "You Y",
+            affil str "College of Veterinary Medicine, Northwest A&F
+ University, Yangling, Shaanxi 712100, China; Institute of Poisonous Plants in
+ Western China, Northwest A&F University, Yangling, Shaanxi 712100, China."
+          },
+          {
+            name ml "Zhao B",
+            affil str "College of Veterinary Medicine, Northwest A&F
+ University, Yangling, Shaanxi 712100, China; Institute of Poisonous Plants in
+ Western China, Northwest A&F University, Yangling, Shaanxi 712100, China.
+ Electronic address: zhby668@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Ethnopharmacol",
+          ml-jta "J Ethnopharmacol",
+          issn "1872-7573",
+          name "Journal of ethnopharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 1
+          },
+          volume "213",
+          pages "376-383",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 26
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29102763,
+        pii "S0378-8741(17)32811-8",
+        doi "10.1016/j.jep.2017.10.030",
+        other {
+          db "ELocationID pii",
+          tag str "S0378-8741(17)32811-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jep.2017.10.030"
+        }
+      }
+    },
+    abstract "ETHNOPHARMACOLOGICAL RELEVANCE: Sophora alopecuroides L., a
+ traditional Chinese herb, has been widely used to treat numerous diseases
+ throughout China. Quinolizidine alkaloids were identified as active
+ components in Sophora alopecuroides L., and Sophoridine (SRI) is the major
+ component in the Quinolizidine alkaloids. AIM OF THE STUDY: To investigate
+ the toxic effects of SRI in rat liver BRL-3A cells and to explore potential
+ ROS-related mechanisms. MATERIALS AND METHODS: Cell viability, cytotoxicity,
+ apoptosis, intracellular generation of ROS, GSH/GSSG ratio and levels of
+ proteins in mitochondria apoptosis pathway were analyzed. RESULTS: Our data
+ indicated that SRI could suppress BRL-3A cells viability in a concentration-
+ and time-dependent manner and increase cytotoxicity, ROS accumulation and
+ cell apoptosis in a concentration-dependent manner. Expressions and
+ activities of apoptotic related proteins were upregulated, whereas expression
+ of Bcl-2 was downregulated after treatment. Furthermore, level of H2O2 was
+ increased, whereas level of Superoxide was not changed after treatment.
+ Moreover, the antioxidant N-acetylcysteine reversed SRI-induced apoptosis and
+ ROS accumulation. CONCLUSION: Our data suggest that SRI promotes rat liver
+ BRL-3A cells apoptosis by increasing intracellular ROS accumulation.",
+    mesh {
+      {
+        term "Acetylcysteine",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Alkaloids",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Apoptosis Regulatory Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Cell Count"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Glutathione",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitochondria",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Quinolizines",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "bcl-2-Associated X Protein",
+        qual {
+          {
+            subh "biosynthesis"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Alkaloids"
+      },
+      {
+        type nameonly,
+        name "Apoptosis Regulatory Proteins"
+      },
+      {
+        type nameonly,
+        name "Quinolizines"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "bcl-2-Associated X Protein"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      },
+      {
+        type cas,
+        cit "GAN16C9B8O",
+        name "Glutathione"
+      },
+      {
+        type cas,
+        cit "N390W430AC",
+        name "matrine"
+      },
+      {
+        type cas,
+        cit "WYQ7N0BPYC",
+        name "Acetylcysteine"
+      }
+    },
+    pmid 29102763,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

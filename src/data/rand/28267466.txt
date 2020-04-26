@@ -1,0 +1,270 @@
+
+Pubmed-entry ::= {
+  pmid 28267466,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Rehabilitation Therapy in Older Acute Heart Failure Patients
+ (REHAB-HF) trial: Design and rationale."
+      },
+      authors {
+        names std {
+          {
+            name ml "Reeves GR",
+            affil str "Sidney Kimmel Medical College, Philadelphia, PA.
+ Electronic address: gordon.reeves@jefferson.edu."
+          },
+          {
+            name ml "Whellan DJ",
+            affil str "Sidney Kimmel Medical College, Philadelphia, PA."
+          },
+          {
+            name ml "Duncan P",
+            affil str "Wake Forest School of Medicine, Winston-Salem, NC."
+          },
+          {
+            name ml "O'Connor CM",
+            affil str "Inova Heart and Vascular Institute, Falls Church, VA."
+          },
+          {
+            name ml "Pastva AM",
+            affil str "Duke University School of Medicine, Durham, NC."
+          },
+          {
+            name ml "Eggebeen JD",
+            affil str "Emory Univeristy, Atlanta, GA."
+          },
+          {
+            name ml "Hewston LA",
+            affil str "Thomas Jefferson University School of Health
+ Professions, Philadelphia, PA."
+          },
+          {
+            name ml "Morgan TM",
+            affil str "Wake Forest School of Medicine, Winston-Salem, NC."
+          },
+          {
+            name ml "Reed SD",
+            affil str "Duke University School of Medicine, Durham, NC."
+          },
+          {
+            name ml "Rejeski WJ",
+            affil str "Department of Health and Exercise Science, Wake Forest
+ University, Winston-Salem, NC."
+          },
+          {
+            name ml "Mentz RJ",
+            affil str "Duke University School of Medicine, Durham, NC."
+          },
+          {
+            name ml "Rosenberg PB",
+            affil str "Duke University School of Medicine, Durham, NC."
+          },
+          {
+            name ml "Kitzman DW",
+            affil str "Wake Forest School of Medicine, Winston-Salem, NC."
+          },
+          {
+            name consortium "REHAB-HF Trial Investigators"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. Heart J.",
+          ml-jta "Am Heart J",
+          issn "1097-6744",
+          name "American heart journal"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "185",
+          pages "130-139",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 7,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 12,
+                day 23
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28267466,
+        pii "S0002-8703(16)30293-9",
+        doi "10.1016/j.ahj.2016.12.012",
+        other {
+          db "pmc",
+          tag str "PMC5341700"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS843428"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0002-8703(16)30293-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ahj.2016.12.012"
+        }
+      }
+    },
+    abstract "BACKGROUND: Acute decompensated heart failure (ADHF) is a
+ leading cause of hospitalization in older persons in the United States.
+ Reduced physical function and frailty are major determinants of adverse
+ outcomes in older patients with hospitalized ADHF. However, these are not
+ addressed by current heart failure (HF) management strategies and there has
+ been little study of exercise training in older, frail HF patients with
+ recent ADHF. HYPOTHESIS: Targeting physical frailty with a multi-domain
+ structured physical rehabilitation intervention will improve physical
+ function and reduce adverse outcomes among older patients experiencing a HF
+ hospitalization. STUDY DESIGN: REHAB-HF is a multi-center clinical trial in
+ which 360 patients >/=60 years hospitalized with ADHF will be randomized
+ either to a novel 12-week multi-domain physical rehabilitation intervention
+ or to attention control. The goal of the intervention is to improve balance,
+ mobility, strength and endurance utilizing reproducible, targeted exercises
+ administered by a multi-disciplinary team with specific milestones for
+ progression. The primary study aim is to assess the efficacy of the REHAB-HF
+ intervention on physical function measured by total Short Physical
+ Performance Battery score. The secondary outcome is 6-month all-cause
+ rehospitalization. Additional outcome measures include quality of life and
+ costs. CONCLUSIONS: REHAB-HF is the first randomized trial of a physical
+ function intervention in older patients with hospitalized ADHF designed to
+ determine if addressing deficits in balance, mobility, strength and endurance
+ improves physical function and reduces rehospitalizations. It will address
+ key evidence gaps concerning the role of physical rehabilitation in the care
+ of older patients, those with ADHF, frailty, and multiple comorbidities.",
+    mesh {
+      {
+        mp TRUE,
+        term "Activities of Daily Living"
+      },
+      {
+        term "Acute Disease"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Exercise Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Frail Elderly"
+      },
+      {
+        term "Heart Failure",
+        qual {
+          {
+            mp TRUE,
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Muscle Strength"
+      },
+      {
+        mp TRUE,
+        term "Physical Endurance"
+      },
+      {
+        term "Physical Therapy Modalities"
+      },
+      {
+        mp TRUE,
+        term "Postural Balance"
+      },
+      {
+        term "Walk Test"
+      }
+    },
+    idnum {
+      "R01 AG018915/AG/NIA NIH HHS",
+      "U10 HL110312/HL/NHLBI NIH HHS",
+      "UL1 TR001420/TR/NCATS NIH HHS",
+      "R01 AG045551/AG/NIA NIH HHS",
+      "P30 AG028716/AG/NIA NIH HHS",
+      "P30 AG021332/AG/NIA NIH HHS"
+    },
+    pmid 28267466,
+    pub-type {
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

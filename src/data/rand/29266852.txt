@@ -1,0 +1,258 @@
+
+Pubmed-entry ::= {
+  pmid 29266852,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Mediterranean Tomato-Based Sofrito Sauce Improves Fibroblast
+ Growth Factor 21 (FGF21) Signaling in White Adipose Tissue of Obese ZUCKER
+ Rats."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sandoval V",
+            affil str "Department of Nutrition, Food Sciences and Gastronomy,
+ School of Pharmacy and Food Sciences, Food and Nutrition Torribera Campus,
+ University of Barcelona, Santa Coloma de Gramenet, Spain.; Insitute of
+ Nutrition and Food Safety of the University of Barcelona (INSA-UB)."
+          },
+          {
+            name ml "Rodriguez-Rodriguez R",
+            affil str "Basic Sciences Department, Faculty of Medicine and
+ Health Sciences, Universitat Internacional de Catalunya, Sant Cugat del
+ Valles, Spain."
+          },
+          {
+            name ml "Martinez-Garza U",
+            affil str "Department of Nutrition, Food Sciences and Gastronomy,
+ School of Pharmacy and Food Sciences, Food and Nutrition Torribera Campus,
+ University of Barcelona, Santa Coloma de Gramenet, Spain.; Insitute of
+ Nutrition and Food Safety of the University of Barcelona (INSA-UB)."
+          },
+          {
+            name ml "Rosell-Cardona C",
+            affil str "Department of Nutrition, Food Sciences and Gastronomy,
+ School of Pharmacy and Food Sciences, Food and Nutrition Torribera Campus,
+ University of Barcelona, Santa Coloma de Gramenet, Spain."
+          },
+          {
+            name ml "Lamuela-Raventos RM",
+            affil str "Department of Nutrition, Food Sciences and Gastronomy,
+ School of Pharmacy and Food Sciences, Food and Nutrition Torribera Campus,
+ University of Barcelona, Santa Coloma de Gramenet, Spain.; Insitute of
+ Nutrition and Food Safety of the University of Barcelona (INSA-UB).;
+ CIBEROBN, Instituto de Salud Carlos III, Madrid, Spain."
+          },
+          {
+            name ml "Marrero PF",
+            affil str "Department of Nutrition, Food Sciences and Gastronomy,
+ School of Pharmacy and Food Sciences, Food and Nutrition Torribera Campus,
+ University of Barcelona, Santa Coloma de Gramenet, Spain.; Institute of
+ Biomedicine of the University of Barcelona (IBUB), Barcelona, Spain."
+          },
+          {
+            name ml "Haro D",
+            affil str "Department of Nutrition, Food Sciences and Gastronomy,
+ School of Pharmacy and Food Sciences, Food and Nutrition Torribera Campus,
+ University of Barcelona, Santa Coloma de Gramenet, Spain.; Institute of
+ Biomedicine of the University of Barcelona (IBUB), Barcelona, Spain."
+          },
+          {
+            name ml "Relat J",
+            affil str "Department of Nutrition, Food Sciences and Gastronomy,
+ School of Pharmacy and Food Sciences, Food and Nutrition Torribera Campus,
+ University of Barcelona, Santa Coloma de Gramenet, Spain.; Insitute of
+ Nutrition and Food Safety of the University of Barcelona (INSA-UB)."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol Nutr Food Res",
+          ml-jta "Mol Nutr Food Res",
+          issn "1613-4133",
+          name "Molecular nutrition & food research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "62",
+          issue "4",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29266852,
+        doi "10.1002/mnfr.201700606",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/mnfr.201700606"
+        }
+      }
+    },
+    abstract "SCOPE: Obesity is a fibroblast growth factor 21
+ (FGF21)-resistant state. Since FGF21 production and signaling are regulated
+ by some bioactive dietary compounds, we analyze the impact of Mediterranean
+ tomato-based sofrito sauce on: (i) the FGF21 expression and signaling in
+ visceral white adipose tissue (vWAT), and (ii) the insulin sensitivity of
+ obese Zucker rats (OZR). METHODS AND RESULTS: OZR are fed with a
+ sofrito-supplemented diet or control diet. Insulin sensitivity and FGF21
+ signaling are determined. We observed that sofrito is able to improve the
+ responsiveness to both hormones in obese rats. Sofrito-supplemented diet
+ increases FGF21 signaling in vWAT by inducing the expression of the FGF
+ receptors (FGFR1 and FGFR4) that promotes the expression of canonical target
+ genes, like Egr-1, c-Fos and uncoupling protein 1 (Ucp1). CONCLUSIONS: A
+ sofrito-supplemented diet improves insulin and FGF21 sensitivity in OZR,
+ explaining part of sofrito's healthy effects on glucose metabolism. In
+ addition, induction of UCP1 and the unchanged body weight despite the
+ hyperphagic behavior of the sofrito-fed rats suggests that the increase in
+ FGF21 signaling correlates with an increase in energy expenditure (EE).
+ Further studies in humans may help to understand whether sofrito consumption
+ increases the EE in obese individuals.",
+    mesh {
+      {
+        term "Adipose Tissue, White",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Diet, Mediterranean"
+      },
+      {
+        term "Energy Metabolism"
+      },
+      {
+        term "Fibroblast Growth Factors",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Insulin Resistance"
+      },
+      {
+        mp TRUE,
+        term "Lycopersicon esculentum"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Obesity",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Zucker"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "fibroblast growth factor 21"
+      },
+      {
+        type cas,
+        cit "62031-54-3",
+        name "Fibroblast Growth Factors"
+      }
+    },
+    pmid 29266852,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

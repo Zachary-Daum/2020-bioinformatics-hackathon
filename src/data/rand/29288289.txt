@@ -1,0 +1,258 @@
+
+Pubmed-entry ::= {
+  pmid 29288289,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Anterolateral Thigh Flap Combined with Reconstruction Plate
+ Versus Double Free Flaps for Composite Mandibular Reconstruction: A
+ Propensity Score-Matched Study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Offodile AC 2nd",
+            affil str "Department of Plastic Surgery, MD Anderson Cancer
+ Center, Houston, TX, USA."
+          },
+          {
+            name ml "Lin JA",
+            affil str "Department of Plastic and Reconstructive Surgery, Chang
+ Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan,
+ Taiwan."
+          },
+          {
+            name ml "Chang KP",
+            affil str "Department of Otolaryngology-Head & Neck Surgery, Chang
+ Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan,
+ Taiwan."
+          },
+          {
+            name ml "Abdelrahman M",
+            affil str "Department of Surgery, Faculty of Medicine, University
+ of Khartoum, Khartoum, Sudan."
+          },
+          {
+            name ml "Kou HW",
+            affil str "Department of Plastic and Reconstructive Surgery, Chang
+ Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan,
+ Taiwan."
+          },
+          {
+            name ml "Loh CYY",
+            affil str "Department of Plastic and Reconstructive Surgery, Chang
+ Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan,
+ Taiwan."
+          },
+          {
+            name ml "Aycart MA",
+            affil str "Department of Surgery, Brigham and Women's Hospital,
+ Boston, MA, USA."
+          },
+          {
+            name ml "Kao HK",
+            affil str "Department of Plastic and Reconstructive Surgery, Chang
+ Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan,
+ Taiwan. kai3488@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ann. Surg. Oncol.",
+          ml-jta "Ann Surg Oncol",
+          issn "1534-4681",
+          name "Annals of surgical oncology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "25",
+          issue "3",
+          pages "829-836",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29288289,
+        doi "10.1245/s10434-017-6309-1",
+        pii "10.1245/s10434-017-6309-1",
+        other {
+          db "ELocationID doi",
+          tag str "10.1245/s10434-017-6309-1"
+        }
+      }
+    },
+    abstract "OBJECTIVE: This study was designed to examine the comparative
+ effectiveness of oromandibular defect reconstruction via anterolateral thigh
+ flap and bridging plate (ALT only) versus simultaneous soft tissue and
+ vascularized bone flap (DFF), with regards to long-term plate exposure and
+ complications. METHODS: A propensity score-matched analysis of patients with
+ an oncologic head and neck defect who underwent microvascular reconstruction
+ was performed. Two surgical groups, i.e., ALT only and DFF, were created.
+ Incidence and subsequent management strategies for postoperative plate
+ exposure were evaluated along with complications, overall survival, and
+ postoperative quality of life (QoL). RESULTS: Sixty-two patients were 1:1
+ propensity matched (31 per group). The DFF group had a significantly larger
+ soft tissue and bone defect than the single-flap group. The 5-year
+ probability of not having a plate exposure was 45.5 and 47.4% for the
+ double-flaps and single-flap groups, respectively (p = 0.186). The ALT-only
+ group had a significantly higher rate of wound infections (38.7% vs. 12.9%, p
+ = 0.02). The incidence of flap loss, reexploration, inpatient mortality,
+ plate fracture, medical complications, and overall survival were not
+ significantly different. Although mean score for pain was significantly worse
+ in the ALT-only group (75.2 vs. 88.5, p < 0.001), the remainder of our QoL
+ assessments (cosmesis, swallow, employment, and speech) were comparable.
+ CONCLUSIONS: The utilization of an ALT with plate strategy is associated with
+ competitive rates of plate exposure and overall survival relative to DFF but
+ higher wound infections and long-term pain. These results have considerable
+ salience for patient-counseling regarding expectations for functional and
+ clinical outcomes.",
+    mesh {
+      {
+        term "Bone Plates"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        mp TRUE,
+        term "Free Tissue Flaps"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mandibular Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Mandibular Reconstruction",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Mouth Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Postoperative Complications"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        mp TRUE,
+        term "Propensity Score"
+      },
+      {
+        term "Quality of Life"
+      },
+      {
+        term "Reconstructive Surgical Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Surgical Flaps"
+      },
+      {
+        term "Thigh",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      }
+    },
+    pmid 29288289,
+    pub-type {
+      "Comparative Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

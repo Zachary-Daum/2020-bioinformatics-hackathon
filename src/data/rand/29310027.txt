@@ -1,0 +1,309 @@
+
+Pubmed-entry ::= {
+  pmid 29310027,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Identification and development of benzoxazole derivatives as
+ novel bacterial glutamate racemase inhibitors."
+      },
+      authors {
+        names std {
+          {
+            name ml "Malapati P",
+            affil str "Department of Pharmacy, Birla Institute of Technology &
+ Science-Pilani, Hyderabad Campus, Shameerpet, Jawaharnagar, RangaReddy
+ District, Hyderabad 500 078, India."
+          },
+          {
+            name ml "Krishna VS",
+            affil str "Department of Pharmacy, Birla Institute of Technology &
+ Science-Pilani, Hyderabad Campus, Shameerpet, Jawaharnagar, RangaReddy
+ District, Hyderabad 500 078, India."
+          },
+          {
+            name ml "Nallangi R",
+            affil str "Department of Pharmacy, Birla Institute of Technology &
+ Science-Pilani, Hyderabad Campus, Shameerpet, Jawaharnagar, RangaReddy
+ District, Hyderabad 500 078, India."
+          },
+          {
+            name ml "Srilakshmi RR",
+            affil str "Department of Pharmacy, Birla Institute of Technology &
+ Science-Pilani, Hyderabad Campus, Shameerpet, Jawaharnagar, RangaReddy
+ District, Hyderabad 500 078, India."
+          },
+          {
+            name ml "Sriram D",
+            affil str "Department of Pharmacy, Birla Institute of Technology &
+ Science-Pilani, Hyderabad Campus, Shameerpet, Jawaharnagar, RangaReddy
+ District, Hyderabad 500 078, India. Electronic address:
+ dsriram@hyderabad.bits-pilani.ac.in."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur J Med Chem",
+          ml-jta "Eur J Med Chem",
+          issn "1768-3254",
+          name "European journal of medicinal chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 10
+          },
+          volume "145",
+          pages "23-34",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29310027,
+        pii "S0223-5234(17)31119-4",
+        doi "10.1016/j.ejmech.2017.12.088",
+        other {
+          db "ELocationID pii",
+          tag str "S0223-5234(17)31119-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejmech.2017.12.088"
+        }
+      }
+    },
+    abstract "In the present study, we attempted to develop novel class of
+ Mycobacterium tuberculosis (Mtb) inhibitors by exploring the pharmaceutically
+ underexploited enzyme targets which are majorly involved in cell wall
+ biosynthesis of mycobacteria. For this purpose glutamate racemase was
+ selected which racemizes d-glutamate from l-glutamate, a key step in
+ peptidoglycan synthesis. Furthermore, enzyme is neither expressed nor its
+ product, d-glutamate is produced in mammals, and hence inhibiting this enzyme
+ will have no vulnerable effect in host organism. A library of our in-house
+ compounds were screened against glutamate racemase using a biophysical
+ technique; thermal shift assay and further by enzyme inhibition assay to
+ identify Lead 1 molecule. Lead 1 optimization and expansion resulted in
+ twenty four compounds. Among the synthesized compounds twelve compounds shown
+ good enzyme inhibition than Lead 1 (IC50 20.07+/-0.29muM). Among all the
+ compounds; compound 22 (IC50 1.1+/-0.52muM) showed potent non-competitive
+ mode of inhibition in enzyme assay. Further showed good susceptibility (in
+ replicating bacteria) of MIC 8.72muM and bactericidal time dependant kill on
+ dormant culture. It also exhibited significant activity in Mtb nutrient
+ starvation model (2.5) and Mtb biofilm model (2.4) and in vivo M. marinum
+ infected Zebra fish model studies (3.6) reduction at logarithmic scale.",
+    mesh {
+      {
+        term "Amino Acid Isomerases",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Benzoxazoles",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Biofilms",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Enzyme Inhibitors",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Kinetics"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Microbial Sensitivity Tests"
+      },
+      {
+        term "Molecular Docking Simulation"
+      },
+      {
+        term "Molecular Structure"
+      },
+      {
+        term "Mycobacterium",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "enzymology"
+          }
+        }
+      },
+      {
+        term "RAW 264.7 Cells"
+      },
+      {
+        term "Structure-Activity Relationship"
+      },
+      {
+        term "Zebrafish"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Benzoxazoles"
+      },
+      {
+        type nameonly,
+        name "Enzyme Inhibitors"
+      },
+      {
+        type ec,
+        cit "5.1.1.-",
+        name "Amino Acid Isomerases"
+      },
+      {
+        type ec,
+        cit "5.1.1.3",
+        name "glutamate racemase"
+      }
+    },
+    pmid 29310027,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

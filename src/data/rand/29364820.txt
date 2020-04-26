@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 29364820,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Air Pollution and Performance-Based Physical Functioning in
+ Dutch Older Adults."
+      },
+      authors {
+        names std {
+          {
+            name ml "de Zwart F",
+            affil str "Department of Environmental Health, Communal Health
+ Service for the Province of Utrecht, Zeist, Netherlands."
+          },
+          {
+            name ml "Brunekreef B",
+            affil str "Institute for Risk Assessment Sciences, Utrecht
+ University, Utrecht, Netherlands.; Julius Center for Health Sciences and
+ Primary Care, University Medical Center Utrecht, Utrecht, Netherlands."
+          },
+          {
+            name ml "Timmermans E",
+            affil str "Department of Epidemiology and Biostatistics, Amsterdam
+ Public Health Research Institute, VU University Medical Centre, Amsterdam,
+ Netherlands.; Academic Medical Center, University of Amsterdam, Amsterdam,
+ Netherlands.; Department of Public Health, Amsterdam Public Health Research
+ Institute, Amsterdam, Netherlands."
+          },
+          {
+            name ml "Deeg D",
+            affil str "Department of Epidemiology and Biostatistics, Amsterdam
+ Public Health Research Institute, VU University Medical Centre, Amsterdam,
+ Netherlands."
+          },
+          {
+            name ml "Gehring U",
+            affil str "Institute for Risk Assessment Sciences, Utrecht
+ University, Utrecht, Netherlands."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ. Health Perspect.",
+          ml-jta "Environ Health Perspect",
+          issn "1552-9924",
+          name "Environmental health perspectives"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 19
+          },
+          volume "126",
+          issue "1",
+          pages "017009",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 23
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29364820,
+        doi "10.1289/EHP2239",
+        pii "EHP2239",
+        other {
+          db "pmc",
+          tag str "PMC6014703"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1289/EHP2239"
+        }
+      }
+    },
+    abstract "BACKGROUND: Functional limitations are a major cause for needing
+ care and institutionalization among older adults. Exposure to air pollution
+ has been suggested to be associated with increased functional limitations in
+ older people. OBJECTIVE: Our objective was to assess the association between
+ air pollution and physical functioning in Dutch older adults. METHODS: We
+ analyzed data on performance-based (walking speed, ability to rise from a
+ chair, putting on and taking off a cardigan, balance test) and self-reported
+ physical functioning for 1,762 participants of the Longitudinal Aging Study
+ Amsterdam, who participated in measurement cycles performed in 2005/2006,
+ 2008/2009, and 2011/2012. Annual average outdoor air pollution concentrations
+ [nitrogen dioxide (NO2), nitrogen oxides (NOx), particulate matter with
+ diameters </=2.5mum (PM2.5), </=10mum (PM10), and 2.5-10mum (PMcoarse), and
+ PM2.5 absorbance] at the home address at the start of the first measurement
+ cycle were estimated using land-use regression models. Analyses were
+ performed using mixed models with random participant intercepts adjusting for
+ potential confounders. RESULTS: Exposure to most air pollutants was
+ associated with reduced performance-based physical functioning; for example,
+ an interquartile range increase in NO2 exposure was associated with a 0.22
+ (95% confidence interval: 0.03, 0.42) lower performance test score in fully
+ adjusted models, equivalent to the difference in performance score between
+ participants who differed by 9 mo in age. Exposure to air pollution was
+ generally not statistically significantly associated with self-reported
+ functional limitations, and not associated with a faster decline in
+ performance-based physical functioning over the study period. CONCLUSION:
+ This study suggests that exposure to air pollution may adversely affect
+ physical performance of older adults in the Netherlands.
+ https://doi.org/10.1289/EHP2239.",
+    mesh {
+      {
+        term "Activities of Daily Living"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Air Pollutants",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          },
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Air Pollution",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          },
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Environmental Exposure",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Environmental Monitoring",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Netherlands"
+      },
+      {
+        term "Nitrogen Dioxide",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Nitrogen Oxides",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Particulate Matter",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          },
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Prospective Studies"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Air Pollutants"
+      },
+      {
+        type nameonly,
+        name "Nitrogen Oxides"
+      },
+      {
+        type nameonly,
+        name "Particulate Matter"
+      },
+      {
+        type cas,
+        cit "S7G510RUBH",
+        name "Nitrogen Dioxide"
+      }
+    },
+    pmid 29364820,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,140 @@
+
+Pubmed-entry ::= {
+  pmid 28618600,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Relation between the porosity and tortuosity of a membrane
+ formed by disconnected irregular pores and the spatial diffusion coefficient
+ of the Fick-Jacobs model."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ledesma-Duran A",
+            affil str "Unidad Multidiscliplinaria de Docencia e
+ Investigacion-Juriquilla, Facultad de Ciencias, Universidad Nacional Autonoma
+ de Mexico, CP 76230, Juriquilla, Queretaro, Mexico."
+          },
+          {
+            name ml "Hernandez SI",
+            affil str "Unidad Multidiscliplinaria de Docencia e
+ Investigacion-Juriquilla, Facultad de Ciencias, Universidad Nacional Autonoma
+ de Mexico, CP 76230, Juriquilla, Queretaro, Mexico."
+          },
+          {
+            name ml "Santamaria-Holek I",
+            affil str "Unidad Multidiscliplinaria de Docencia e
+ Investigacion-Juriquilla, Facultad de Ciencias, Universidad Nacional Autonoma
+ de Mexico, CP 76230, Juriquilla, Queretaro, Mexico."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phys Rev E",
+          ml-jta "Phys Rev E",
+          issn "2470-0053",
+          name "Physical review. E"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "95",
+          issue "5-1",
+          pages "052804",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 6
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 18,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28618600,
+        doi "10.1103/PhysRevE.95.052804",
+        other {
+          db "ELocationID doi",
+          tag str "10.1103/PhysRevE.95.052804"
+        }
+      }
+    },
+    abstract "In this work, we provide a theoretical relationship between the
+ spatial-dependent diffusion coefficient derived in the Fick-Jacobs (FJ)
+ approximation and the macroscopic diffusion coefficient of a membrane that
+ depends on the porosity, tortuosity, and the constriction factors. Based on
+ simple mass conservation arguments under equilibrium as well as in
+ nonequilibrium conditions, we generalize previous expressions for the
+ effective diffusion coefficient of an irregular pore, originally obtained by
+ Festa and d'Agliano for horizontal and periodic pores, and then extended by
+ Bradley for tortuous periodic pores, to the case of pores with arbitrary
+ geometry. Through a formal definition of the constrictivity factor in terms
+ of the geometry of the pore, our results provide very clear physical
+ interpretation of experimental measurements since they link the local
+ properties of the flow with macroscopic quantities of experimental relevance
+ in the design and optimization of porous materials. The macroscopic diffusion
+ coefficient as well as the spatiotemporal evolution of the concentration
+ profiles inside a pore have been recently measured by using pulse field
+ gradient NMR techniques. The advantage of using the FJ approach is that the
+ spatiotemporal concentration profile inside a pore of irregular geometry is
+ directly related to the pore's shape and, therefore, that the macroscopic
+ diffusion coefficient can be obtained by comparing the spatiotemporal
+ concentration profiles from such experiments with those of the theoretical
+ model. Hence, the present study is relevant for the understanding of the
+ transport properties of porous materials where the shape and arrangement of
+ pores can be controlled at will.",
+    pmid 28618600,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

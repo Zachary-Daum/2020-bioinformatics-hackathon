@@ -1,0 +1,133 @@
+
+Pubmed-entry ::= {
+  pmid 28632321,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Is Aggregatibacter actinomycetemcomitans the missing link
+ between periodontitis and rheumatoid arthritis?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Polak D",
+            affil str "Department of Periodontology, Hadassah-Hebrew
+ University Medical Center, Jerusalem, Israel."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oral Dis",
+          ml-jta "Oral Dis",
+          issn "1601-0825",
+          name "Oral diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "24",
+          issue "7",
+          pages "1148-1149",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28632321,
+        doi "10.1111/odi.12701",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/odi.12701"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Aggregatibacter actinomycetemcomitans"
+      },
+      {
+        term "Arthritis, Rheumatoid"
+      },
+      {
+        term "Chronic Periodontitis"
+      },
+      {
+        term "Dental Plaque"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Periodontitis"
+      }
+    },
+    pmid 28632321,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

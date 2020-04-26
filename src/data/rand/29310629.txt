@@ -1,0 +1,227 @@
+
+Pubmed-entry ::= {
+  pmid 29310629,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Canadian Urban Environmental Health Research Consortium - a
+ protocol for building a national environmental exposure data platform for
+ integrated analyses of urban form and health."
+      },
+      authors {
+        names std {
+          {
+            name ml "Brook JR",
+            affil str "Processes Research Section, Air Quality Research
+ Division, Environment and Climate Change Canada, Toronto, ON, Canada.
+ Jeff.Brook@canue.ca.; Dalla Lana School of Public Health, University of
+ Toronto, Toronto, Canada. Jeff.Brook@canue.ca."
+          },
+          {
+            name ml "Setton EM",
+            affil str "Geography Department, University of Victoria, Victoria,
+ Canada."
+          },
+          {
+            name ml "Seed E",
+            affil str "Dalla Lana School of Public Health, University of
+ Toronto, Toronto, Canada."
+          },
+          {
+            name ml "Shooshtari M",
+            affil str "Geography Department, University of Victoria, Victoria,
+ Canada."
+          },
+          {
+            name ml "Doiron D",
+            affil str "Research Institute of McGill University Health Centre,
+ Montreal, Canada."
+          },
+          {
+            name consortium "CANUE - The Canadian Urban Environmental Health
+ Research Consortium"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Public Health",
+          ml-jta "BMC Public Health",
+          issn "1471-2458",
+          name "BMC public health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 8
+          },
+          volume "18",
+          issue "1",
+          pages "114",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29310629,
+        doi "10.1186/s12889-017-5001-5",
+        pii "10.1186/s12889-017-5001-5",
+        other {
+          db "pmc",
+          tag str "PMC5759244"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12889-017-5001-5"
+        }
+      }
+    },
+    abstract "BACKGROUND: Multiple external environmental exposures related to
+ residential location and urban form including, air pollutants, noise,
+ greenness, and walkability have been linked to health impacts or benefits.
+ The Canadian Urban Environmental Health Research Consortium (CANUE) was
+ established to facilitate the linkage of extensive geospatial exposure data
+ to existing Canadian cohorts and administrative health data holdings. We
+ hypothesize that this linkage will enable investigators to test a variety of
+ their own hypotheses related to the interdependent associations of built
+ environment features with diverse health outcomes encompassed by the cohorts
+ and administrative data. METHODS: We developed a protocol for compiling
+ measures of built environment features that quantify exposure; vary spatially
+ on the urban and suburban scale; and can be modified through changes in
+ policy or individual behaviour to benefit health. These measures fall into
+ six domains: air quality, noise, greenness, weather/climate, and
+ transportation and neighbourhood factors; and will be indexed to six-digit
+ postal codes to facilitate merging with health databases. Initial efforts
+ focus on existing data and include estimates of air pollutants, greenness,
+ temperature extremes, and neighbourhood walkability and socioeconomic
+ characteristics. Key gaps will be addressed for noise exposure, with a new
+ national model being developed, and for transportation-related exposures,
+ with detailed estimates of truck volumes and diesel emissions now underway in
+ selected cities. Improvements to existing exposure estimates are planned,
+ primarily by increasing temporal and/or spatial resolution given new
+ satellite-based sensors and more detailed national air quality modelling.
+ Novel metrics are also planned for walkability and food environments, green
+ space access and function and life-long climate-related exposures based on
+ local climate zones. Critical challenges exist, for example, the quantity and
+ quality of input data to many of the models and metrics has changed over
+ time, making it difficult to develop and validate historical exposures.
+ DISCUSSION: CANUE represents a unique effort to coordinate and leverage
+ substantial research investments and will enable a more focused effort on
+ filling gaps in exposure information, improving the range of exposures
+ quantified, their precision and mechanistic relevance to health.
+ Epidemiological studies may be better able to explore the common theme of
+ urban form and health in an integrated manner, ultimately contributing new
+ knowledge informing policies that enhance healthy urban living.",
+    mesh {
+      {
+        term "Air Pollution"
+      },
+      {
+        mp TRUE,
+        term "Biomedical Research"
+      },
+      {
+        term "Canada"
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Environment Design"
+      },
+      {
+        term "Environmental Exposure"
+      },
+      {
+        mp TRUE,
+        term "Environmental Health"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Information Storage and Retrieval",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Noise"
+      },
+      {
+        mp TRUE,
+        term "Urban Health"
+      }
+    },
+    idnum {
+      "147101/CIHR"
+    },
+    pmid 29310629,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

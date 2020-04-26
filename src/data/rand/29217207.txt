@@ -1,0 +1,251 @@
+
+Pubmed-entry ::= {
+  pmid 29217207,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "More Platon And Less Prozac: The Arrival Of ASTHMA-ZUMAB.",
+        trans "Mas Platon y menos Prozac((R)): llega el ASMA-ZUMAB."
+      },
+      authors {
+        names std {
+          {
+            name ml "Casan P",
+            affil str "Area del Pulmon, Hospital Universitario Central de
+ Asturias, Facultad de Medicina, Universidad de Oviedo, Oviedo, Asturias,
+ Espana. Electronic address: pcasan@ins.es."
+          },
+          {
+            name ml "Fernandez Tena A",
+            affil str "Area del Pulmon, Hospital Universitario Central de
+ Asturias, Facultad de Medicina, Universidad de Oviedo, Oviedo, Asturias,
+ Espana."
+          },
+          {
+            name ml "Martinez C",
+            affil str "Area del Pulmon, Hospital Universitario Central de
+ Asturias, Facultad de Medicina, Universidad de Oviedo, Oviedo, Asturias,
+ Espana."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arch. Bronconeumol.",
+          ml-jta "Arch Bronconeumol",
+          issn "1579-2129",
+          name "Archivos de bronconeumologia"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "54",
+          issue "4",
+          pages "181-182",
+          language "eng,spa",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29217207,
+        pii "S0300-2896(17)30411-8",
+        doi "10.1016/j.arbres.2017.10.018",
+        other {
+          db "ELocationID pii",
+          tag str "S0300-2896(17)30411-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.arbres.2017.10.018"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adrenal Cortex Hormones",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Anti-Asthmatic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Antibodies, Monoclonal",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Asthma",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Attitude of Health Personnel"
+      },
+      {
+        mp TRUE,
+        term "Attitude to Health"
+      },
+      {
+        term "Depressive Disorder",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Fluoxetine",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Philosophy, Medical"
+      },
+      {
+        mp TRUE,
+        term "Physician-Patient Relations"
+      },
+      {
+        mp TRUE,
+        term "Precision Medicine"
+      },
+      {
+        term "Serotonin Uptake Inhibitors",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adrenal Cortex Hormones"
+      },
+      {
+        type nameonly,
+        name "Anti-Asthmatic Agents"
+      },
+      {
+        type nameonly,
+        name "Antibodies, Monoclonal"
+      },
+      {
+        type nameonly,
+        name "Serotonin Uptake Inhibitors"
+      },
+      {
+        type cas,
+        cit "01K63SUP8D",
+        name "Fluoxetine"
+      }
+    },
+    pmid 29217207,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

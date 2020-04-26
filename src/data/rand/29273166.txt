@@ -1,0 +1,134 @@
+
+Pubmed-entry ::= {
+  pmid 29273166,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Access to diabetes technology: the role of clinician attitudes."
+      },
+      authors {
+        names ml {
+          "Farrington C"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lancet Diabetes Endocrinol",
+          ml-jta "Lancet Diabetes Endocrinol",
+          issn "2213-8595",
+          name "The lancet. Diabetes & endocrinology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "6",
+          issue "1",
+          pages "15",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29273166,
+        pii "S2213-8587(17)30411-4",
+        doi "10.1016/S2213-8587(17)30411-4",
+        other {
+          db "ELocationID pii",
+          tag str "S2213-8587(17)30411-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/S2213-8587(17)30411-4"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Attitude of Health Personnel"
+      },
+      {
+        term "Diabetes Mellitus",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Health Knowledge, Attitudes, Practice"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Physicians",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Practice Patterns, Physicians'",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      }
+    },
+    pmid 29273166,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

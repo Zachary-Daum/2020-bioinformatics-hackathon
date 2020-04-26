@@ -1,0 +1,249 @@
+
+Pubmed-entry ::= {
+  pmid 28688360,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Microbial functional diversity responses to 2 years since
+ biochar application in silt-loam soils on the Loess Plateau."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhu LX",
+            affil str "State Key Laboratory of Soil Erosion and Dryland
+ Farming on the Loess Plateau, Northwest A&F University, Yangling 712100,
+ China; College of Natural Resources and Environment, Northwest A&F
+ University, Yangling 712100, China. Electronic address: justin2118@163.com."
+          },
+          {
+            name ml "Xiao Q",
+            affil str "State Key Laboratory of Soil Erosion and Dryland
+ Farming on the Loess Plateau, Northwest A&F University, Yangling 712100,
+ China; College of Forestry, Northwest A&F University, Yangling 712100, China."
+          },
+          {
+            name ml "Shen YF",
+            affil str "State Key Laboratory of Soil Erosion and Dryland
+ Farming on the Loess Plateau, Northwest A&F University, Yangling 712100,
+ China. Electronic address: shenyufang@nwsuaf.edu.cn."
+          },
+          {
+            name ml "Li SQ",
+            affil str "State Key Laboratory of Soil Erosion and Dryland
+ Farming on the Loess Plateau, Northwest A&F University, Yangling 712100,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ecotoxicol. Environ. Saf.",
+          ml-jta "Ecotoxicol Environ Saf",
+          issn "1090-2414",
+          name "Ecotoxicology and environmental safety"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "144",
+          pages "578-584",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28688360,
+        pii "S0147-6513(17)30409-8",
+        doi "10.1016/j.ecoenv.2017.06.075",
+        other {
+          db "ELocationID pii",
+          tag str "S0147-6513(17)30409-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ecoenv.2017.06.075"
+        }
+      }
+    },
+    abstract "The structure and function of soil microbial communities have
+ been widely used as indicators of soil quality and fertility. The effect of
+ biochar application on carbon sequestration has been studied, but the effect
+ on soil microbial functional diversity has received little attention. We
+ evaluated effects of biochar application on the functional diversities of
+ microbes in a loam soil. The effects of biochar on microbial activities and
+ related processes in the 0-10 and 10-20cm soil layers were determined in a
+ two-year experiment in maize field on the Loess Plateau in China.
+ Low-pyrolysis biochar produced from maize straw was applied into soils at
+ rates of 0 (BC0), 10 (BC10) and 30 (BC30)tha(-1). Chemical analysis indicated
+ that the biochar did not change the pH, significantly increased the amounts
+ of organic carbon and nitrogen, and decreased the amount of mineral nitrogen
+ and the microbial quotient. The biochar significantly decreased average well
+ colour development (AWCD) values in Biolog EcoPlates for both layers,
+ particularly for the rate of 10tha(-1). Biochar addition significantly
+ decreased substrate richness (S) except for BC30 in the 0-10cm layer. Effects
+ of biochar on the Shannon-Wiener index (H) and Simpson's dominance (D) were
+ not significant, except for a significant increase in evenness index (E) in
+ BC10 in the 10-20cm layer. A principal component analysis clearly
+ differentiated the treatments, and microbial use of six categories of
+ substrates significantly decreased in both layers after biochar addition,
+ although the use of amines and amides did not differ amongst the three
+ treatments in the deeper layer. Maize above ground dry biomass and height did
+ not differ significantly amongst the treatments, and biochar had no
+ significant effect on nitrogen uptake by maize seedlings. H was positively
+ correlated with AWCD, and negatively with pH. AWCD was positively correlated
+ with mineral N and negatively with pH. Our results indicated that shifts in
+ soil microbial functional diversity affected by biochar were not effective
+ indicators of soil quality in earlier maize growth periods in this region.",
+    mesh {
+      {
+        term "Biomass"
+      },
+      {
+        term "Charcoal",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "China"
+      },
+      {
+        term "Nitrogen",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Principal Component Analysis"
+      },
+      {
+        term "Soil",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Soil Microbiology",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Zea mays",
+        qual {
+          {
+            mp TRUE,
+            subh "growth & development"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Soil"
+      },
+      {
+        type nameonly,
+        name "biochar"
+      },
+      {
+        type cas,
+        cit "16291-96-6",
+        name "Charcoal"
+      },
+      {
+        type cas,
+        cit "N762921K75",
+        name "Nitrogen"
+      }
+    },
+    pmid 28688360,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

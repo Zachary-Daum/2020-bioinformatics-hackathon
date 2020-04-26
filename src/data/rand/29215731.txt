@@ -1,0 +1,326 @@
+
+Pubmed-entry ::= {
+  pmid 29215731,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Eucalyptol protects lungs against bacterial invasion through
+ attenuating ciliated cell damage and suppressing MUC5AC expression."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu N",
+            affil str "Department of Respiratory Medicine, Institute of
+ Respiratory Disease, The First Hospital of China Medical University,
+ Shenyang, Liaoning, China."
+          },
+          {
+            name ml "Sun YT",
+            affil str "Department of Respiratory Medicine, Affiliated Hospital
+ of Xuzhou Medical University, Xuzhou, Jiangsu, China."
+          },
+          {
+            name ml "Su XM",
+            affil str "Department of Respiratory Medicine, Institute of
+ Respiratory Disease, The First Hospital of China Medical University,
+ Shenyang, Liaoning, China."
+          },
+          {
+            name ml "He M",
+            affil str "Environment and Health Research Center, China Medical
+ University, Shenyang, Liaoning, China."
+          },
+          {
+            name ml "Dai B",
+            affil str "Department of Respiratory Medicine, Institute of
+ Respiratory Disease, The First Hospital of China Medical University,
+ Shenyang, Liaoning, China."
+          },
+          {
+            name ml "Kang J",
+            affil str "Department of Respiratory Medicine, Institute of
+ Respiratory Disease, The First Hospital of China Medical University,
+ Shenyang, Liaoning, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Cell. Physiol.",
+          ml-jta "J Cell Physiol",
+          issn "1097-4652",
+          name "Journal of cellular physiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 5
+          },
+          volume "234",
+          issue "5",
+          pages "5842-5850",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29215731,
+        doi "10.1002/jcp.26359",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcp.26359"
+        }
+      }
+    },
+    abstract "This study was conducted to investigate whether eucalyptol plays
+ a role in influencing bacterial growth in cigarette smoke-exposed lungs. Rats
+ were exposed to air (control) and cigarette smoke (smoking) in the presence
+ and absence of eucalyptol (260 mg/day). Morphological analysis of lung
+ structures and status of airway mucous production were observed under
+ microscope. Pathological changes of ciliated columnar epithelium in airways
+ were examined using transmission electron microscopy. MUC5AC protein and
+ messenger RNA (mRNA) expression in bronchoalveolar lavage fluid (BALF) and
+ lungs were determined. Application of eucalyptol reduced pulmonary bullae
+ formation and airway mucus overproduction in the smoke-exposed lungs.
+ Treatment with eucalyptol attenuated ciliated cell damage in cigarette
+ smoke-exposed lungs. Bacterial colonies of lungs were obviously lower in the
+ eucalyptol-treated rats than that in the smoking rats (p < 0.01). Treatment
+ with eucalyptol reduced the counts of bacterial colonization residing in the
+ challenged lungs (p < 0.01). Application of eucalyptol not only decreased
+ MUC5AC protein expression in BALF and tobacco-exposed lungs but also
+ suppressed its mRNA expression in the lungs (all p < 0.05). Intervention of
+ eucalyptol benefits elimination of bacterial organisms from tobacco-exposed
+ lungs through attenuating ciliated cell damage and suppressing MUC5AC
+ expression in the lungs.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Bacteria",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "growth & development"
+          }
+        }
+      },
+      {
+        term "Bacterial Load"
+      },
+      {
+        term "Cilia",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "microbiology"
+          },
+          {
+            subh "ultrastructure"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Epithelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "microbiology"
+          },
+          {
+            subh "ultrastructure"
+          }
+        }
+      },
+      {
+        term "Eucalyptol",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Host-Pathogen Interactions"
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "microbiology"
+          },
+          {
+            subh "ultrastructure"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mucin 5AC",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pulmonary Disease, Chronic Obstructive",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "microbiology"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Smoke"
+      },
+      {
+        term "Tobacco Products"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Muc5ac protein, rat"
+      },
+      {
+        type nameonly,
+        name "Mucin 5AC"
+      },
+      {
+        type nameonly,
+        name "Smoke"
+      },
+      {
+        type cas,
+        cit "RV6J6604TK",
+        name "Eucalyptol"
+      }
+    },
+    pmid 29215731,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

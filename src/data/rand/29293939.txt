@@ -1,0 +1,250 @@
+
+Pubmed-entry ::= {
+  pmid 29293939,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Anti-Mullerian hormone is a survival factor and promotes the
+ growth of rhesus macaque preantral follicles during matrix-free culture."
+      },
+      authors {
+        names std {
+          {
+            name ml "Xu J",
+            affil str "Division of Reproductive & Developmental Sciences,
+ Oregon National Primate Research Center, Oregon Health & Science University,
+ Beaverton, Oregon, USA.; Division of Reproductive Endocrinology, Department
+ of Obstetrics & Gynecology, School of Medicine, Oregon Health & Science
+ University, Portland, Oregon, USA."
+          },
+          {
+            name ml "Xu F",
+            affil str "Division of Reproductive Endocrinology, Department of
+ Obstetrics & Gynecology, School of Medicine, Oregon Health & Science
+ University, Portland, Oregon, USA."
+          },
+          {
+            name ml "Lawson MS",
+            affil str "Division of Reproductive & Developmental Sciences,
+ Oregon National Primate Research Center, Oregon Health & Science University,
+ Beaverton, Oregon, USA."
+          },
+          {
+            name ml "Tkachenko OY",
+            affil str "Division of Reproductive & Developmental Sciences,
+ Oregon National Primate Research Center, Oregon Health & Science University,
+ Beaverton, Oregon, USA."
+          },
+          {
+            name ml "Ting AY",
+            affil str "Division of Reproductive & Developmental Sciences,
+ Oregon National Primate Research Center, Oregon Health & Science University,
+ Beaverton, Oregon, USA."
+          },
+          {
+            name ml "Kahl CA",
+            affil str "Molecular Virology Support Core, Oregon National
+ Primate Research Center, Oregon Health & Science University, Beaverton,
+ Oregon, USA."
+          },
+          {
+            name ml "Park BS",
+            affil str "Oregon Health & Science University-Portland State
+ University School of Public Health, Oregon Health & Science University,
+ Portland, Oregon, USA."
+          },
+          {
+            name ml "Stouffer RR",
+            affil str "Division of Reproductive & Developmental Sciences,
+ Oregon National Primate Research Center, Oregon Health & Science University,
+ Beaverton, Oregon, USA."
+          },
+          {
+            name ml "Bishop CV",
+            affil str "Division of Reproductive & Developmental Sciences,
+ Oregon National Primate Research Center, Oregon Health & Science University,
+ Beaverton, Oregon, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biol. Reprod.",
+          ml-jta "Biol Reprod",
+          issn "1529-7268",
+          name "Biology of reproduction"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 1
+          },
+          volume "98",
+          issue "2",
+          pages "197-207",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29293939,
+        pii "4780268",
+        doi "10.1093/biolre/iox181",
+        other {
+          db "pmc",
+          tag str "PMC6248587"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/biolre/iox181"
+        }
+      }
+    },
+    abstract "Anti-Mullerian hormone (AMH) plays a key role during ovarian
+ follicular development, with local actions associated with a dynamic
+ secretion profile by growing follicles. While results for AMH effects on
+ antral follicle growth and function are consistent among studies in various
+ species, any effects on preantral follicle development remain controversial.
+ Therefore, experiments were conducted to investigate the direct actions and
+ role of AMH during follicle development at the preantral stage.
+ Macaque-specific short-hairpin RNAs (shRNAs) targeting AMH mRNA were
+ incorporated into adenoviral vectors to decrease AMH gene expression in
+ rhesus macaque follicles. Secondary follicles were isolated from adult
+ macaque ovaries and cultured individually in the ultra-low-attachment dish
+ containing defined medium supplemented with follicle-stimulating hormone and
+ insulin for 5 weeks. Follicles were randomly assigned to treatment groups:
+ (a) control, (b) nontargeting control shRNA-vector, (c) AMH shRNA-vector, (d)
+ AMH shRNA-vector + recombinant human AMH, and (e) recombinant human AMH.
+ Follicle survival and growth were assessed. Culture media were analyzed for
+ steroid hormone and paracrine factor concentrations. For in vivo study, the
+ nontargeting control shRNA-vector and AMH shRNA-vector were injected into
+ macaque ovaries. Ovaries were collected 9 days postinjection for morphology
+ and immunohistochemistry assessment. Decreased AMH expression reduced
+ preantral follicle survival and growth in nonhuman primates. Supplemental AMH
+ treatment in the culture media promoted preantral follicle growth to the
+ small antral stage in vitro with increased steroid hormone and paracrine
+ factor production, as well as oocyte maturation. These data demonstrate that
+ AMH is a critical follicular paracrine/autocrine factor positively impacting
+ preantral follicle survival and growth in primates.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Mullerian Hormone",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "In Vitro Oocyte Maturation Techniques",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Macaca mulatta"
+      },
+      {
+        term "Ovarian Follicle",
+        qual {
+          {
+            mp TRUE,
+            subh "growth & development"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "80497-65-0",
+        name "Anti-Mullerian Hormone"
+      }
+    },
+    idnum {
+      "P50 HD071836/HD/NICHD NIH HHS",
+      "P51 OD011092/OD/NIH HHS",
+      "R01 HD082208/HD/NICHD NIH HHS",
+      "K12 HD043488/HD/NICHD NIH HHS"
+    },
+    pmid 29293939,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

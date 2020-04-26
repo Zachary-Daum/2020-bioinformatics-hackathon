@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 29330034,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Successful treatment of a penicillin-intermediate and
+ ceftriaxone-resistant Granulicatella adiacens presumed prosthetic valve
+ endocarditis with vancomycin."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jones BM",
+            affil str "St. Joseph's/Candler Health System, Inc., 5353 Reynolds
+ Street, Savannah, GA 31405. Electronic address: jonesbru@sjchs.org."
+          },
+          {
+            name ml "Hersey RM",
+            affil str "St. Joseph's/Candler Health System, Inc., 5353 Reynolds
+ Street, Savannah, GA 31405."
+          },
+          {
+            name ml "Trestman IJ",
+            affil str "St. Joseph's/Candler Health System, Inc., 5353 Reynolds
+ Street, Savannah, GA 31405."
+          },
+          {
+            name ml "Bland CM",
+            affil str "University of Georgia College of Pharmacy, St. Joseph
+'s/Candler Health System, Inc., Savannah, GA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. J. Antimicrob. Agents",
+          ml-jta "Int J Antimicrob Agents",
+          issn "1872-7913",
+          name "International journal of antimicrobial agents"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "51",
+          issue "3",
+          pages "508-510",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 31
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29330034,
+        pii "S0924-8579(18)30002-5",
+        doi "10.1016/j.ijantimicag.2017.12.031",
+        other {
+          db "ELocationID pii",
+          tag str "S0924-8579(18)30002-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ijantimicag.2017.12.031"
+        }
+      }
+    },
+    abstract "Advancements in rapid diagnostics have helped to identify
+ nutritionally variant streptococci (NVS) as an increasing cause of infective
+ endocarditis (IE). This case report highlights the challenges in
+ susceptibility testing and the importance of appropriate empiric treatment
+ for Granulicatella adiacens, and provides considerations for future practice
+ guideline recommendations. Guidelines for treatment of IE caused by NVS are
+ currently limited to patients with native valve disease. We present a patient
+ with presumed prosthetic valve endocarditis caused by G. adiacens, with
+ clinically relevant resistance to recommended first-line agents (penicillin
+ and ceftriaxone), who was successfully treated with 8 weeks of intravenous
+ (IV) vancomycin. Vancomycin is currently recommended as an alternate therapy
+ for patients intolerant of penicillins, but we believe vancomycin should be
+ considered a first-line empiric treatment option for IE when the identified
+ organism is G. adiacens and susceptibility testing is not readily available.",
+    mesh {
+      {
+        term "Administration, Intravenous"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Carnobacteriaceae",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Ceftriaxone",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Endocarditis, Bacterial",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Gram-Positive Bacterial Infections",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Penicillins",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Prosthesis-Related Infections",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Vancomycin",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "beta-Lactam Resistance"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Penicillins"
+      },
+      {
+        type cas,
+        cit "6Q205EH1VU",
+        name "Vancomycin"
+      },
+      {
+        type cas,
+        cit "75J73V1629",
+        name "Ceftriaxone"
+      }
+    },
+    pmid 29330034,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

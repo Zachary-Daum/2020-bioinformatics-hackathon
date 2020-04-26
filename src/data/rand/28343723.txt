@@ -1,0 +1,234 @@
+
+Pubmed-entry ::= {
+  pmid 28343723,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[The search for electrophysiological predictors of visual
+ comfort after presbyopia correction with contact lenses].",
+        trans "Recherche d'indices electrophysiologiques de confort visuel
+ apres correction de la presbytie par lentilles de contact."
+      },
+      authors {
+        names std {
+          {
+            name ml "El Ameen A",
+            affil str "Service d'ophtalmologie, CHRU Bretonneau de Tours, 2,
+ boulevard Tonnelle, 37000 Tours, France. Electronic address:
+ ammar_elameen@yahoo.fr."
+          },
+          {
+            name ml "Majzoub S",
+            affil str "Service d'ophtalmologie, CHRU Bretonneau de Tours, 2,
+ boulevard Tonnelle, 37000 Tours, France."
+          },
+          {
+            name ml "Pisella PJ",
+            affil str "Service d'ophtalmologie, CHRU Bretonneau de Tours, 2,
+ boulevard Tonnelle, 37000 Tours, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Fr Ophtalmol",
+          ml-jta "J Fr Ophtalmol",
+          issn "1773-0597",
+          name "Journal francais d'ophtalmologie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 4
+          },
+          volume "40",
+          issue "4",
+          pages "257-263",
+          language "fre",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 10,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 10,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28343723,
+        pii "S0181-5512(17)30074-8",
+        doi "10.1016/j.jfo.2016.10.014",
+        other {
+          db "ELocationID pii",
+          tag str "S0181-5512(17)30074-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jfo.2016.10.014"
+        }
+      }
+    },
+    abstract "Starting at 40 years of age, prespyopia affects a quarter of the
+ world population. Many techniques of presbyopia surgery have emerged in
+ recent years. The purpose of this study was to compare monovision and
+ multifocality and to identify clinical and electrophysiological predictive
+ markers of visual comfort for each correction available in clinical practice.
+ Ten presbyopic patients participated in this study. Patients received
+ monovision and multifocal correction using contact lenses for three weeks
+ each in a random order. A clinical evaluation (visual acuity, TNO test,
+ binocular contrast sensitivity and quality of vision questionnaires) and an
+ electrophysiological evaluation (monocular and binocular pattern VEP with
+ multiple spatial frequencies: 60, 30 and 15') were performed before and after
+ each correction modality. The P100 was significantly wider and slightly
+ earlier after binocular compared to monocular stimulation at T0. The TNO
+ stereopsis score decreased significantly after correction. No other
+ significant differences, either on clinical or electrophysiological criteria,
+ were found between the two modes of correction. Several significant
+ correlations were found between the stereoacuity difference depending upon
+ correction and evoked potentials by binocular pattern at T0. The larger the
+ stereoacuity difference (better stereoacuity with multifocal compensation),
+ the longer the latency of the P100 using 60' checks (R=0.82; P=0.004) and the
+ greater the amplitude of the N75 using 30' (R=0.652; P=0.04). Our study found
+ no differences between the 2 types of correction, but it highlights a benefit
+ of VEP used in current practice and measurement of the P100 wave, the best
+ indicator of stereopsis and the most consistent, to predict visual comfort
+ after compensation presbyopia.",
+    mesh {
+      {
+        mp TRUE,
+        term "Contact Lenses",
+        qual {
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Electrophysiological Phenomena"
+      },
+      {
+        term "Equipment Design"
+      },
+      {
+        term "Equipment Failure"
+      },
+      {
+        term "Evoked Potentials, Visual",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Health Status Indicators"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Presbyopia",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Vision, Binocular",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    pmid 28343723,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

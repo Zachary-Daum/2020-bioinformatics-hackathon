@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 28910213,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Challenge of Transforming the Diagnostic System of
+ Personality Disorders."
+      },
+      authors {
+        names std {
+          {
+            name ml "Herpertz SC",
+            affil str "Department of General Psychiatry, University of
+ Heidelberg, Germany."
+          },
+          {
+            name ml "Huprich SK",
+            affil str "Department of Psychology, University of Detroit Mercy,
+ Michigan."
+          },
+          {
+            name ml "Bohus M",
+            affil str "Institute of Psychiataric and Psychosomatic
+ Psychotherapy, Central Institute of Mental Health, Mannheim, Germany."
+          },
+          {
+            name ml "Chanen A",
+            affil str "Orygen, The National Centre of Excellence in Youth
+ Mental Health, Parkville, Victoria, Australia."
+          },
+          {
+            name ml "Goodman M",
+            affil str "The Mount Sinai Hospital, Bronx, New York."
+          },
+          {
+            name ml "Mehlum L",
+            affil str "National Centre for Suicide Research and Prevention,
+ Oslo, Norway."
+          },
+          {
+            name ml "Moran P",
+            affil str "Centre for Academic Mental Health, School of Social and
+ Community Medicine, University of Bristol, United Kingdom."
+          },
+          {
+            name ml "Newton-Howes G",
+            affil str "University of Otago, Wellington, New Zealand."
+          },
+          {
+            name ml "Scott L",
+            affil str "University of Pittsburgh, Pennsylvania."
+          },
+          {
+            name ml "Sharp C",
+            affil str "Department of Psychology, University of Houston, Texas."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Pers. Disord.",
+          ml-jta "J Pers Disord",
+          issn "1943-2763",
+          name "Journal of personality disorders"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "31",
+          issue "5",
+          pages "577-589",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28910213,
+        doi "10.1521/pedi_2017_31_338",
+        other {
+          db "pmc",
+          tag str "PMC5735999"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS920917"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1521/pedi_2017_31_338"
+        }
+      }
+    },
+    abstract "While the DSM-5 alternative model of personality disorder (PD)
+ diagnosis allows the field to systematically compare categorical and
+ dimensional classifications, the ICD-11 proposal suggests a radical change by
+ restricting the classification of PDs to one category, deleting all specific
+ types, basing clinical service provision exclusively upon a severity
+ dimension, and restricting trait domains to secondary qualifiers without
+ defining cutoff points. This article reflects broad international agreement
+ about the state of PD diagnosis. It is argued that diagnosis according to the
+ ICD-11 proposal is based on broad, potentially stigmatizing descriptions of
+ impaired functioning and ignores much of the impressive body of research and
+ treatment guidelines that have advanced the care of adults and adolescents
+ with borderline and other PDs. Before radically changing classification,
+ which highly impacts the provision of health care, head-to-head field trials
+ coupled with the views of patients as well as thorough debate among
+ scientists are urgently needed.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Diagnostic and Statistical Manual of Mental Disorders"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Personality Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      }
+    },
+    idnum {
+      "K01 MH101289/MH/NIMH NIH HHS",
+      "L30 MH098303/MH/NIMH NIH HHS"
+    },
+    pmid 28910213,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

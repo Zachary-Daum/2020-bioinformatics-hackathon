@@ -1,0 +1,153 @@
+
+Pubmed-entry ::= {
+  pmid 28057197,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Contraindication of live vaccines in immunocompromised patients:
+ an estimate of the number of affected people in the USA and the UK."
+      },
+      authors {
+        names std {
+          {
+            name ml "Varghese L",
+            affil str "GSK Vaccines, Singapore. Electronic address:
+ lijoy.x.varghese@gsk.com."
+          },
+          {
+            name ml "Curran D",
+            affil str "GSK Vaccines, Wavre, Belgium."
+          },
+          {
+            name ml "Bunge E",
+            affil str "Pallas Health Research and Consultancy, Rotterdam,
+ Netherlands."
+          },
+          {
+            name ml "Vroling H",
+            affil str "Pallas Health Research and Consultancy, Rotterdam,
+ Netherlands."
+          },
+          {
+            name ml "van Kessel F",
+            affil str "Pallas Health Research and Consultancy, Rotterdam,
+ Netherlands."
+          },
+          {
+            name ml "Guignard A",
+            affil str "GSK Vaccines, Wavre, Belgium."
+          },
+          {
+            name ml "Casabona G",
+            affil str "GSK Vaccines, Wavre, Belgium."
+          },
+          {
+            name ml "Olivieri A",
+            affil str "GSK Vaccines, Wavre, Belgium."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Public Health",
+          ml-jta "Public Health",
+          issn "1476-5616",
+          name "Public health"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1
+          },
+          volume "142",
+          pages "46-49",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 1,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 7,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 10,
+                day 13
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 1,
+                day 7,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28057197,
+        pii "S0033-3506(16)30315-8",
+        doi "10.1016/j.puhe.2016.10.013",
+        other {
+          db "ELocationID pii",
+          tag str "S0033-3506(16)30315-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.puhe.2016.10.013"
+        }
+      }
+    },
+    pmid 28057197,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

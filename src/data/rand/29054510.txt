@@ -1,0 +1,231 @@
+
+Pubmed-entry ::= {
+  pmid 29054510,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Safety and Efficiency in a Canadian Outpatient Gynaecological
+ Surgical Centre."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lee CE",
+            affil str "Department of Obstetrics and Gynecology, University of
+ Saskatchewan, Saskatoon, SK."
+          },
+          {
+            name ml "Epp A",
+            affil str "Department of Obstetrics and Gynecology, University of
+ Saskatchewan, Saskatoon, SK. Electronic address: annetteepp@sasktel.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Obstet Gynaecol Can",
+          ml-jta "J Obstet Gynaecol Can",
+          issn "1701-2163",
+          name "Journal of obstetrics and gynaecology Canada : JOGC = Journal
+ d'obstetrique et gynecologie du Canada : JOGC"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "40",
+          issue "4",
+          pages "426-431",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29054510,
+        pii "S1701-2163(17)30681-3",
+        doi "10.1016/j.jogc.2017.07.027",
+        other {
+          db "ELocationID pii",
+          tag str "S1701-2163(17)30681-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jogc.2017.07.027"
+        }
+      }
+    },
+    abstract "OBJECTIVE: This study sought to describe safety and efficiency
+ outcomes for patients undergoing procedures at the Women's Health Centre, an
+ outpatient gynaecological surgical centre in Saskatoon, SK. METHODS: A
+ retrospective chart review of surgical outpatient health records was
+ conducted for the period of July 2014 to June 2015. Data were abstracted
+ using a standardized data form for patient admissions during the study
+ period. Primary outcomes of interest included procedure time, lead time
+ (registration to discharge), complication rates, readmission rates, and
+ reoperation rates. Descriptive statistics were calculated using Microsoft
+ Excel and were summarized using frequencies and percentages. The
+ Kruskal-Wallis test was performed for lead time and procedural time by using
+ IBM SPSS Statistics 24 software (IBM, Armonk, NY). RESULTS: During the study
+ period, 1720 patients were seen by 21 providers. The mean number of patients
+ seen per month was 144. The main services provided include hysteroscopic
+ sterilization, non-resectoscopic endometrial ablation, loop electrosurgical
+ excision procedure, hysteroscopy, and therapeutic abortion. Pain management
+ was administered by local anaesthetic and/or conscious sedation. The mean
+ procedure time was 10 +/- 6 minutes, whereas the lead time was 171 +/- 43
+ minutes. Immediate complications occurred in 3.9% of patients, the most
+ common being vaginal bleeding (1.3%). The long-term complication rate was
+ 5.1%, with the most common complication being reoperation in the main
+ operating room, at 2.9%. CONCLUSION: Currently, many gynaecological
+ procedures in Canada occur in a formal operating theatre setting. Our study
+ demonstrates the safety and efficiency of an alternate setting where
+ gynaecological procedures are performed on an outpatient basis by using local
+ anaesthetic and conscious sedation.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Ambulatory Surgical Procedures",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gynecologic Surgical Procedures",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Health Facilities"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Postoperative Complications",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Saskatchewan",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29054510,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

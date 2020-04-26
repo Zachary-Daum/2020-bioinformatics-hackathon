@@ -1,0 +1,305 @@
+
+Pubmed-entry ::= {
+  pmid 28095300,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Knockdown of CXCL14 disrupts neurovascular patterning during
+ ocular development."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ojeda AF",
+            affil str "BioSciences, Rice University, 6100 Main Street,
+ Houston, TX, United States; Universidad Santo Tomas, sede Puerto Montt,
+ Buenavecindad #91, Decima region de los Lagos, Chile."
+          },
+          {
+            name ml "Munjaal RP",
+            affil str "BioSciences, Rice University, 6100 Main Street,
+ Houston, TX, United States."
+          },
+          {
+            name ml "Lwigale PY",
+            affil str "BioSciences, Rice University, 6100 Main Street,
+ Houston, TX, United States. Electronic address: lwigale@rice.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Dev. Biol.",
+          ml-jta "Dev Biol",
+          issn "1095-564X",
+          name "Developmental biology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3,
+            day 1
+          },
+          volume "423",
+          issue "1",
+          pages "77-91",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 12,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28095300,
+        pii "S0012-1606(16)30565-6",
+        doi "10.1016/j.ydbio.2017.01.008",
+        other {
+          db "pmc",
+          tag str "PMC5334790"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS847693"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0012-1606(16)30565-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ydbio.2017.01.008"
+        }
+      }
+    },
+    abstract "The C-X-C motif ligand 14 (CXCL14) is a recently discovered
+ chemokine that is highly conserved in vertebrates and expressed in various
+ embryonic and adult tissues. CXCL14 signaling has been implicated to function
+ as an antiangiogenic and anticancer agent in adults. However, its function
+ during development is unknown. We previously identified novel expression of
+ CXCL14 mRNA in various ocular tissues during development. Here, we show that
+ CXCL14 protein is expressed in the anterior eye at a critical time during
+ neurovascular development and in the retina during neurogenesis. We report
+ that RCAS-mediated knockdown of CXCL14 causes severe neural defects in the
+ eye including precocious and excessive innervation of the cornea and iris.
+ Absence of CXCL14 results in the malformation of the neural retina and
+ misprojection of the retinal ganglion neurons. The ocular neural defects may
+ be due to loss of CXCL12 modulation since recombinant CXCL14 diminishes
+ CXCL12-induced axon growth in vitro. Furthermore, we show that knockdown of
+ CXCL14 causes neovascularization of the cornea. Altogether, our results show
+ for the first time that CXCL14 plays a critical role in modulating
+ neurogenesis and inhibiting ectopic vascularization of the cornea during
+ ocular development.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Body Patterning",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chemokines, CXC",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Chickens"
+      },
+      {
+        term "Cornea",
+        qual {
+          {
+            subh "innervation"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Corneal Stroma",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Epithelium, Corneal",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Eye",
+        qual {
+          {
+            mp TRUE,
+            subh "embryology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Developmental"
+      },
+      {
+        mp TRUE,
+        term "Gene Knockdown Techniques"
+      },
+      {
+        term "Iris",
+        qual {
+          {
+            subh "embryology"
+          },
+          {
+            subh "innervation"
+          }
+        }
+      },
+      {
+        term "Models, Biological"
+      },
+      {
+        term "Nervous System",
+        qual {
+          {
+            mp TRUE,
+            subh "blood supply"
+          },
+          {
+            mp TRUE,
+            subh "embryology"
+          }
+        }
+      },
+      {
+        term "Quail"
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Retina",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Trigeminal Nerve",
+        qual {
+          {
+            subh "embryology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Chemokines, CXC"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      }
+    },
+    idnum {
+      "R01 EY022158/EY/NEI NIH HHS"
+    },
+    pmid 28095300,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

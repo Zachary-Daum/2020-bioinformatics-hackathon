@@ -1,0 +1,199 @@
+
+Pubmed-entry ::= {
+  pmid 29065031,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "EQual, a Novel Rubric to Evaluate Entrustable Professional
+ Activities for Quality and Structure."
+      },
+      authors {
+        names std {
+          {
+            name ml "Taylor DR",
+            affil str "D.R. Taylor is associate professor, Department of
+ Medicine, Queen's University School of Medicine, Kingston, Ontario, Canada.
+ Y.S. Park is assistant professor, Department of Medical Education, University
+ of Illinois at Chicago, Chicago, Illinois. R. Egan is assistant professor and
+ director, Office of Health Science Education, Queen's University School of
+ Medicine, Kingston, Ontario, Canada. M.-K. Chan is associate professor,
+ Department of Pediatrics and Child Health, University of Manitoba, Winnipeg,
+ Manitoba, Canada, and clinician educator, Royal College of Physicians and
+ Surgeons of Canada, Ottawa, Ontario, Canada. J. Karpinski is associate
+ professor, Department of Medicine, University of Ottawa, Ottawa, Ontario,
+ Canada, and associate director, Specialties Unit, Royal College of Physicians
+ and Surgeons of Canada, Ottawa, Ontario, Canada. C. Touchie is associate
+ professor, Department of Medicine, University of Ottawa, Ottawa, Ontario,
+ Canada, and chief medical education advisor, Medical Council of Canada,
+ Ottawa, Ontario, Canada. L.S. Snell is professor, Department of Medicine,
+ McGill University, Montreal, Quebec, Canada, and senior clinician educator,
+ Royal College of Physicians and Surgeons of Canada, Ottawa, Ontario, Canada.
+ A. Tekian is professor, Department of Medical Education, University of
+ Illinois at Chicago, Chicago, Illinois."
+          },
+          {
+            name ml "Park YS"
+          },
+          {
+            name ml "Egan R"
+          },
+          {
+            name ml "Chan MK"
+          },
+          {
+            name ml "Karpinski J"
+          },
+          {
+            name ml "Touchie C"
+          },
+          {
+            name ml "Snell LS"
+          },
+          {
+            name ml "Tekian A"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acad Med",
+          ml-jta "Acad Med",
+          issn "1938-808X",
+          name "Academic medicine : journal of the Association of American
+ Medical Colleges"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "92",
+          issue "11S Association of American Medical Colleges Learn Serve
+ Lead: Proceedings of the 56th Annual Research in Medical Education Sessions",
+          pages "S110-S117",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29065031,
+        doi "10.1097/ACM.0000000000001908",
+        pii "00001888-201711001-00017",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/ACM.0000000000001908"
+        }
+      }
+    },
+    abstract "PURPOSE: Entrustable professional activities (EPAs) have become
+ a cornerstone of assessment in competency-based medical education (CBME).
+ Increasingly, EPAs are being adopted that do not conform to EPA standards.
+ This study aimed to develop and validate a scoring rubric to evaluate EPAs
+ for alignment with their purpose, and to identify substandard EPAs. METHOD:
+ The EQual rubric was developed and revised by a team of education scholars
+ with expertise in EPAs. It was then applied by four residency program
+ directors/CBME leads (PDs) and four nonclinician support staff to 31
+ stage-specific EPAs developed for internal medicine in the Royal College of
+ Physicians and Surgeons of Canada's Competency by Design framework. Results
+ were analyzed using a generalizability study to evaluate overall reliability,
+ with the EPAs as the object of measurement. Item-level analysis was performed
+ to determine reliability and discrimination value for each item. Scores from
+ the PDs were also compared with decisions about revisions made independently
+ by the education scholars group. RESULTS: The EQual rubric demonstrated high
+ reliability in the G-study with a phi-coefficient of 0.84 when applied by the
+ PDs, and moderate reliability when applied by the support staff at 0.67.
+ Item-level analysis identified three items that performed poorly with low
+ item discrimination and low interrater reliability indices. Scores from
+ support staff only moderately correlated with PDs. Using the preestablished
+ cut score, PDs identified 9 of 10 EPAs deemed to require major revision.
+ CONCLUSIONS: EQual rubric scores reliably measured alignment of EPAs with
+ literature-described standards. Further, its application accurately
+ identified EPAs requiring major revisions.",
+    mesh {
+      {
+        term "Canada"
+      },
+      {
+        mp TRUE,
+        term "Clinical Competence"
+      },
+      {
+        mp TRUE,
+        term "Competency-Based Education"
+      },
+      {
+        term "Curriculum"
+      },
+      {
+        mp TRUE,
+        term "Education, Medical, Graduate"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Internal Medicine",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Internship and Residency"
+      },
+      {
+        term "Reproducibility of Results"
+      }
+    },
+    pmid 29065031,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

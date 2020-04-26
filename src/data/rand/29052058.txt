@@ -1,0 +1,223 @@
+
+Pubmed-entry ::= {
+  pmid 29052058,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Complete genome sequence of maize yellow striate virus, a new
+ cytorhabdovirus infecting maize and wheat crops in Argentina."
+      },
+      authors {
+        names std {
+          {
+            name ml "Maurino F",
+            affil str "Instituto de Patologia Vegetal (IPAVE-CIAP-INTA), Av.
+ 11 de Septiembre 4755 (X5020ICA), Cordoba, Argentina.
+ maurino.fernanda@inta.gob.ar.; Consejo Nacional de Investigaciones
+ Cientificas y Tecnicas (CONICET), Godoy Cruz 2290 (1425 FBQ) CABA, Buenos
+ Aires, Argentina. maurino.fernanda@inta.gob.ar."
+          },
+          {
+            name ml "Dumon AD",
+            affil str "Instituto de Patologia Vegetal (IPAVE-CIAP-INTA), Av.
+ 11 de Septiembre 4755 (X5020ICA), Cordoba, Argentina."
+          },
+          {
+            name ml "Llauger G",
+            affil str "Instituto de Biotecnologia (IB), CICVyA-INTA de los
+ Reseros y Nicolas Repetto s/n (1686), Hurlingham, Buenos Aires, Argentina."
+          },
+          {
+            name ml "Alemandri V",
+            affil str "Instituto de Patologia Vegetal (IPAVE-CIAP-INTA), Av.
+ 11 de Septiembre 4755 (X5020ICA), Cordoba, Argentina."
+          },
+          {
+            name ml "de Haro LA",
+            affil str "Consejo Nacional de Investigaciones Cientificas y
+ Tecnicas (CONICET), Godoy Cruz 2290 (1425 FBQ) CABA, Buenos Aires,
+ Argentina.; Instituto de Biotecnologia (IB), CICVyA-INTA de los Reseros y
+ Nicolas Repetto s/n (1686), Hurlingham, Buenos Aires, Argentina."
+          },
+          {
+            name ml "Mattio MF",
+            affil str "Instituto de Patologia Vegetal (IPAVE-CIAP-INTA), Av.
+ 11 de Septiembre 4755 (X5020ICA), Cordoba, Argentina."
+          },
+          {
+            name ml "Del Vas M",
+            affil str "Consejo Nacional de Investigaciones Cientificas y
+ Tecnicas (CONICET), Godoy Cruz 2290 (1425 FBQ) CABA, Buenos Aires,
+ Argentina.; Instituto de Biotecnologia (IB), CICVyA-INTA de los Reseros y
+ Nicolas Repetto s/n (1686), Hurlingham, Buenos Aires, Argentina."
+          },
+          {
+            name ml "Laguna IG",
+            affil str "Instituto de Patologia Vegetal (IPAVE-CIAP-INTA), Av.
+ 11 de Septiembre 4755 (X5020ICA), Cordoba, Argentina.; Consejo Nacional de
+ Investigaciones Cientificas y Tecnicas (CONICET), Godoy Cruz 2290 (1425 FBQ)
+ CABA, Buenos Aires, Argentina."
+          },
+          {
+            name ml "Gimenez Pecci MP",
+            affil str "Instituto de Patologia Vegetal (IPAVE-CIAP-INTA), Av.
+ 11 de Septiembre 4755 (X5020ICA), Cordoba, Argentina."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arch. Virol.",
+          ml-jta "Arch Virol",
+          issn "1432-8798",
+          name "Archives of virology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "163",
+          issue "1",
+          pages "291-295",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29052058,
+        doi "10.1007/s00705-017-3579-7",
+        pii "10.1007/s00705-017-3579-7",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00705-017-3579-7"
+        }
+      }
+    },
+    abstract "A rhabdovirus infecting maize and wheat crops in Argentina was
+ molecularly characterized. Through next-generation sequencing (NGS) of
+ symptomatic leaf samples, the complete genome was obtained of two isolates of
+ maize yellow striate virus (MYSV), a putative new rhabdovirus, differing by
+ only 0.4% at the nucleotide level. The MYSV genome consists of 12,654
+ nucleotides for maize and wheat virus isolates, and shares 71% nucleotide
+ sequence identity with the complete genome of barley yellow striate mosaic
+ virus (BYSMV, NC028244). Ten open reading frames (ORFs) were predicted in the
+ MYSV genome from the antigenomic strand and were compared with their BYSMV
+ counterparts. The highest amino acid sequence identity of the MYSV and BYSMV
+ proteins was 80% between the L proteins, and the lowest was 37% between the
+ proteins 4. Phylogenetic analysis suggested that the MYSV isolates are new
+ members of the genus Cytorhabdovirus, family Rhabdoviridae. Yellow striate,
+ affecting maize and wheat crops in Argentina, is an emergent disease that
+ presents a potential economic risk for these widely distributed crops.",
+    mesh {
+      {
+        term "Argentina"
+      },
+      {
+        mp TRUE,
+        term "Genome, Viral"
+      },
+      {
+        term "Phylogeny"
+      },
+      {
+        term "Plant Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Rhabdoviridae",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Triticum",
+        qual {
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Zea mays",
+        qual {
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      }
+    },
+    pmid 29052058,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

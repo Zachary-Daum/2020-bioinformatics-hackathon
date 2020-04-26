@@ -1,0 +1,248 @@
+
+Pubmed-entry ::= {
+  pmid 29016985,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The effect of various adhesives, enamel etching, and base
+ treatment on the failure frequency of customized lingual brackets: a
+ randomized clinical trial."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mavreas D",
+            affil str "CHIR- Unit Dentistry - ORHE, department of
+ Orthodontics, Faculty of Medicine and Pharmacy, Vrije Universiteit Brussel,
+ Laarbeeklaan, Brussel, Belgium."
+          },
+          {
+            name ml "Cuzin JF",
+            affil str "CHIR- Unit Dentistry - ORHE, department of
+ Orthodontics, Faculty of Medicine and Pharmacy, Vrije Universiteit Brussel,
+ Laarbeeklaan, Brussel, Belgium."
+          },
+          {
+            name ml "Boonen G",
+            affil str "CHIR- Unit Dentistry - ORHE, department of
+ Orthodontics, Faculty of Medicine and Pharmacy, Vrije Universiteit Brussel,
+ Laarbeeklaan, Brussel, Belgium."
+          },
+          {
+            name ml "Vande Vannet B",
+            affil str "CHIR- Unit Dentistry - ORHE, department of
+ Orthodontics, Faculty of Medicine and Pharmacy, Vrije Universiteit Brussel,
+ Laarbeeklaan, Brussel, Belgium."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur J Orthod",
+          ml-jta "Eur J Orthod",
+          issn "1460-2210",
+          name "European journal of orthodontics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 25
+          },
+          volume "40",
+          issue "3",
+          pages "249-253",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29016985,
+        pii "3950379",
+        doi "10.1093/ejo/cjx055",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/ejo/cjx055"
+        }
+      }
+    },
+    abstract "Objectives: The aim of this paper was to compare failure
+ differences in precious metal customized lingual brackets bonded with three
+ adhesive systems. Also, differences in failure of non-precious metal brackets
+ with and without a silicatized base layer bonded with the same adhesive, as
+ well as the influence of enamel etching prior to using a self-etching dual
+ cure resin were explored. Materials/methods: Five different groups were
+ defined in a semi-randomized approach. Group 1 (IME): Maxcem Elite with 378
+ Incognito brackets and etched teeth, Group 2 (IMNE): Maxcem Elite with 193
+ Incognito brackets on non-etched teeth, Group 3 (INE): Nexus+Excite with 385
+ Incognito brackets, Group 4 (IRE): Relyx with 162 Incognito brackets, Group 5
+ (HRME) and Group 6 (HNRME): Maxcem Elite with 182 Harmony brackets with
+ silicatized and non-slicatized bases respectively. Bracket failures were
+ recorded over a 12-month period. Results: The number of failures during the
+ observation period was small in the various adhesives types of groups, as
+ well as in HRME and HNRME groups, and the comparisons among those groups were
+ non-significant (P > 0.05). A statistically significant difference (P < 0.05)
+ was found between the IME and IMNE groups. Conclusions: 1. During the first
+ year of treatment customized lingual brackets failure frequencies (rates) are
+ not different for the three adhesive materials tested. 2. Eliminating the
+ etching stage when using self-etch/self-adhesive adhesives, may lead to a
+ dramatic increase in the failure rates. 3. Silicoating of stainless steel
+ customized lingual brackets does not seem to influence the failure of the
+ bonds.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Dental Bonding",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Dental Cements",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Dental Enamel"
+      },
+      {
+        term "Dental Etching",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Equipment Failure"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Materials Testing",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Orthodontic Brackets"
+      },
+      {
+        term "Resin Cements"
+      },
+      {
+        term "Stainless Steel",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Surface Properties"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Dental Cements"
+      },
+      {
+        type nameonly,
+        name "Maxcem"
+      },
+      {
+        type nameonly,
+        name "Nexus"
+      },
+      {
+        type nameonly,
+        name "Resin Cements"
+      },
+      {
+        type cas,
+        cit "12597-68-1",
+        name "Stainless Steel"
+      }
+    },
+    pmid 29016985,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

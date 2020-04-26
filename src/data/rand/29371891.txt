@@ -1,0 +1,157 @@
+
+Pubmed-entry ::= {
+  pmid 29371891,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Characterization of a functional insertion sequence ISSau2 from
+ Staphylococcus aureus."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang L",
+            affil str "1College of Animal Science and Technology, Northwest
+ A&F University, No.3 Taicheng Road, Yangling, 712100 Shaanxi Province People
+'s Republic of China.; 2School of Pharmaceutical Sciences, Tsinghua
+ University, Beijing, People's Republic of China.; 3Tsinghua University-Peking
+ University Joint Center for Life Sciences, Beijing, People's Republic of
+ China."
+          },
+          {
+            name ml "Si W",
+            affil str "1College of Animal Science and Technology, Northwest
+ A&F University, No.3 Taicheng Road, Yangling, 712100 Shaanxi Province People
+'s Republic of China."
+          },
+          {
+            name ml "Xue H",
+            affil str "1College of Animal Science and Technology, Northwest
+ A&F University, No.3 Taicheng Road, Yangling, 712100 Shaanxi Province People
+'s Republic of China."
+          },
+          {
+            name ml "Zhao X",
+            affil str "1College of Animal Science and Technology, Northwest
+ A&F University, No.3 Taicheng Road, Yangling, 712100 Shaanxi Province People
+'s Republic of China.; 4Department of Animal Science, McGill University,
+ Quebec, Canada."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mob DNA",
+          ml-jta "Mob DNA",
+          issn "1759-8753",
+          name "Mobile DNA"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 16
+          },
+          volume "9",
+          pages "3",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 27,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29371891,
+        doi "10.1186/s13100-018-0108-5",
+        pii "108",
+        other {
+          db "pmc",
+          tag str "PMC5771124"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s13100-018-0108-5"
+        }
+      }
+    },
+    abstract "Background: ISSau2 has been suggested as a member of the IS150 f
+ subgroup in the IS3 family. It encodes a fusion transposase OrfAB produced by
+ programmed - 1 translational frameshifting with two overlapping reading
+ frames orfA and orfB. To better characterize ISSau2, the binding and cleaving
+ activities of the ISSau2 transposase and its transposition frequency were
+ studied. Results: The purified ISSau2 transposase OrfAB was a functional
+ protein in vitro since it bound specifically to ISSau2 terminal inverted
+ repeat sequences (IRs) and cleaved the transposon ends at the artificial
+ mini-transposon pUC19-IRL-gfp-IRR. In addition, the transposition frequency
+ of ISSau2 in vivo was approximately 1.76 +/- 0.13 x 10(- 3), based on a GFP
+ hop-on assay. Furthermore, OrfB cleaved IRs with the similar catalytic
+ activity of OrfAB, while OrfA had no catalytic activity. Finally, either OrfA
+ or OrfB significantly reduced the transposition of ISSau2 induced by OrfAB.
+ Conclusion: We have confirmed that ISSau2 is a member of IS150/IS3 family.
+ The ISSau2 transposase OrfAB could bind to and cleave the specific fragments
+ containing the terminal inverted repeat sequences and induce the
+ transposition, suggesting that ISSau2 is at least partially functional.
+ Meanwhile, both OrfA and OrfB inhibited the transposition by ISSau2. Our
+ results will help understand biological roles of ISSau2 in its host S. aureus.",
+    pmid 29371891,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

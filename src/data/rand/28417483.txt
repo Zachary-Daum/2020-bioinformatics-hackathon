@@ -1,0 +1,253 @@
+
+Pubmed-entry ::= {
+  pmid 28417483,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Primary repair of complete sternal cleft associated with absent
+ anterior pericardium."
+      },
+      authors {
+        names std {
+          {
+            name ml "Arafat AA",
+            affil str "Department of Cardiothoracic Surgery, Faculty of
+ Medicine, Tanta University, Tanta, Egypt."
+          },
+          {
+            name ml "Sallam AA",
+            affil str "Department of Cardiothoracic Surgery, Faculty of
+ Medicine, Tanta University, Tanta, Egypt."
+          },
+          {
+            name ml "Abdelwahab AA",
+            affil str "Department of Cardiothoracic Surgery, Faculty of
+ Medicine, Tanta University, Tanta, Egypt."
+          },
+          {
+            name ml "Taha AM",
+            affil str "Department of Cardiothoracic Surgery, Faculty of
+ Medicine, Tanta University, Tanta, Egypt."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Card Surg",
+          ml-jta "J Card Surg",
+          issn "1540-8191",
+          name "Journal of cardiac surgery"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "32",
+          issue "5",
+          pages "316-317",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28417483,
+        doi "10.1111/jocs.13132",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jocs.13132"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Abnormalities, Multiple",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Aortic Coarctation",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Cardiac Surgical Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Echocardiography"
+      },
+      {
+        term "Eye Abnormalities",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Heart Defects, Congenital",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Musculoskeletal Abnormalities",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Neurocutaneous Syndromes",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Pericardium",
+        qual {
+          {
+            mp TRUE,
+            subh "abnormalities"
+          },
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Radiography, Thoracic"
+      },
+      {
+        term "Sternum",
+        qual {
+          {
+            mp TRUE,
+            subh "abnormalities"
+          },
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Thoracic Surgical Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Tomography, X-Ray Computed"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 28417483,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

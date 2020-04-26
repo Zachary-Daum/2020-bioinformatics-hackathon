@@ -1,0 +1,156 @@
+
+Pubmed-entry ::= {
+  pmid 29050047,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Cooperation of the German Society of Orthopaedics and Trauma
+ (DGOU) and the Orthopaedic Research Society (ORS)].",
+        trans "Kooperation der Deutschen Gesellschaft fur Orthopadie und
+ Unfallchirurgie (DGOU) und der Orthopaedic Research Society (ORS)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hildebrand F",
+            affil str "Klinik fur Unfall- und Wiederherstellungschirurgie,
+ Universitatsklinikum Aachen."
+          },
+          {
+            name ml "Grassel S",
+            affil str "Klinik fur Orthopadie, Abteilung fur Experimentelle
+ Orthopadie, Universitatsklinikum Regensburg."
+          },
+          {
+            name ml "Marzi I",
+            affil str "Klinik fur Unfall-, Hand- u.
+ Wiederherstellungschirurgie, Universitatsklinikum Frankfurt/Main."
+          },
+          {
+            name ml "Meurer A",
+            affil str "Orthopadische Universitatsklinik Friedrichsheim gGmbH,
+ Frankfurt am Main."
+          },
+          {
+            name ml "Nerlich M",
+            affil str "Abteilung fur Unfallchirurgie, Universitatsklinikum
+ Regensburg."
+          },
+          {
+            name ml "Loibl M",
+            affil str "Abteilung fur Unfallchirurgie, Universitatsklinikum
+ Regensburg."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Z Orthop Unfall",
+          ml-jta "Z Orthop Unfall",
+          issn "1864-6743",
+          name "Zeitschrift fur Orthopadie und Unfallchirurgie"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "155",
+          issue "5",
+          pages "515-516",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29050047,
+        doi "10.1055/s-0043-116849",
+        other {
+          db "ELocationID doi",
+          tag str "10.1055/s-0043-116849"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Awards and Prizes"
+      },
+      {
+        mp TRUE,
+        term "Biomedical Research"
+      },
+      {
+        term "Germany"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Interdisciplinary Communication"
+      },
+      {
+        mp TRUE,
+        term "Intersectoral Collaboration"
+      },
+      {
+        mp TRUE,
+        term "Orthopedics"
+      },
+      {
+        mp TRUE,
+        term "Societies, Medical"
+      },
+      {
+        mp TRUE,
+        term "Traumatology"
+      }
+    },
+    pmid 29050047,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,305 @@
+
+Pubmed-entry ::= {
+  pmid 28464411,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "C-Glycosyl Flavonoids from Beta vulgaris Cicla and Betalains
+ from Beta vulgaris rubra: Antioxidant, Anticancer and Antiinflammatory
+ Activities-A Review."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ninfali P",
+            affil str "Department of Biomolecular Sciences, University of
+ Urbino 'Carlo Bo', via Saffi, 2, 61029, Urbino, PU, Italy."
+          },
+          {
+            name ml "Antonini E",
+            affil str "Department of Biomolecular Sciences, University of
+ Urbino 'Carlo Bo', via Saffi, 2, 61029, Urbino, PU, Italy."
+          },
+          {
+            name ml "Frati A",
+            affil str "Department of Biomolecular Sciences, University of
+ Urbino 'Carlo Bo', via Saffi, 2, 61029, Urbino, PU, Italy."
+          },
+          {
+            name ml "Scarpa ES",
+            affil str "Department of Biomolecular Sciences, University of
+ Urbino 'Carlo Bo', via Saffi, 2, 61029, Urbino, PU, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phytother Res",
+          ml-jta "Phytother Res",
+          issn "1099-1573",
+          name "Phytotherapy research : PTR"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "31",
+          issue "6",
+          pages "871-884",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 16
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 3,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28464411,
+        doi "10.1002/ptr.5819",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ptr.5819"
+        }
+      }
+    },
+    abstract "The green beet (Beta vulgaris var. cicla L.) and red beetroot
+ (B. vulgaris var. rubra L.) contain phytochemicals that have beneficial
+ effects on human health. Specifically, the green beet contains apigenin,
+ vitexin, vitexin-2-O-xyloside and vitexin-2-O-rhamnoside, while the red
+ beetroot is a source of betaxanthins and betacyanins. These phytochemicals
+ show considerable antioxidant activity, as well as antiinflammatory and
+ antiproliferative activities. Vitexin-2-O-xyloside, in combination with
+ betaxanthins and betacyanins, exerts antiproliferative activity in breast,
+ liver, colon and bladder cancer cell lines, through the induction of both
+ intrinsic and extrinsic apoptotic pathways. A significant body of evidence
+ also points to the role of these phytochemicals in the downregulation of the
+ pro-survival genes, baculoviral inhibitor of apoptosis repeat-containing 5
+ and catenin beta-1, as well as the genes controlling angiogenesis, hypoxia
+ inducible factor 1A and vascular endothelial growth factor A. The
+ multi-target action of these phytochemicals enhances their anticancer
+ activity. Vitexin-2-O-xyloside, betaxanthins and betacyanins can be used in
+ combination with conventional anticancer drugs to reduce their toxicity and
+ overcome the multidrug resistance of cancer cells. In this review, we
+ describe the molecular mechanisms that enable these dietary phytochemicals to
+ block the proliferation of tumor cells and inhibit their pro-survival
+ pathways. Copyright (c) 2017 John Wiley & Sons, Ltd.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Antineoplastic Agents, Phytogenic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apigenin"
+      },
+      {
+        term "Beta vulgaris",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Betacyanins"
+      },
+      {
+        term "Betalains",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Glycosides"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Phytochemicals",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Phytogenic"
+      },
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Betacyanins"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "Glycosides"
+      },
+      {
+        type nameonly,
+        name "Phytochemicals"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      },
+      {
+        type nameonly,
+        name "vitexin-2-O-rhamnoside"
+      },
+      {
+        type nameonly,
+        name "vitexin-2-O-xyloside"
+      },
+      {
+        type cas,
+        cit "32426-34-9",
+        name "vitexin rhamnoside"
+      },
+      {
+        type cas,
+        cit "37279-84-8",
+        name "Betalains"
+      },
+      {
+        type cas,
+        cit "7V515PI7F6",
+        name "Apigenin"
+      },
+      {
+        type cas,
+        cit "9VP70K75OK",
+        name "vitexin"
+      }
+    },
+    pmid 28464411,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

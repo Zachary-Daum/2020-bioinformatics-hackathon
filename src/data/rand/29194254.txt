@@ -1,0 +1,187 @@
+
+Pubmed-entry ::= {
+  pmid 29194254,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Anterior Skull Base Tumors: The Role of Transfacial Approaches
+ in the Endoscopic Era."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dini LI",
+            affil str "Department of Neurosurgery, Hospital Centenario de Sao
+ Leopoldo."
+          },
+          {
+            name ml "Isolan GR",
+            affil str "Department of Neurosurgery, Hospital Centenario de Sao
+ Leopoldo."
+          },
+          {
+            name ml "Flores E",
+            affil str "Department of Neurosurgery, Hospital Centenario de Sao
+ Leopoldo."
+          },
+          {
+            name ml "Lombardo EM",
+            affil str "Department of Oral and Maxillofacial surgery, Hospital
+ Sao Lucas de Porto Alegre."
+          },
+          {
+            name ml "Heitz C",
+            affil str "Department of Oral and Maxillofacial surgery, Hospital
+ Cristo Redentor de Porto Alegre, Rio Grande do Sul, Brazil."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Craniofac Surg",
+          ml-jta "J Craniofac Surg",
+          issn "1536-3732",
+          name "The Journal of craniofacial surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "29",
+          issue "1",
+          pages "226-232",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29194254,
+        doi "10.1097/SCS.0000000000004183",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/SCS.0000000000004183"
+        }
+      }
+    },
+    abstract "The basis of craniofacial tumor surgery is complete surgical
+ extirpation, preferably en bloc or with free borders. Craniofacial techniques
+ are the gold standard and primary strategies in the treatment of anterior
+ skull base tumors. In the last decade, the reports favoring results of
+ endoscopic techniques have increased. One could conclude that the classical
+ transfacial approaches might become useless, but, in fact, there is little
+ research comparing these techniques.In this article, the authors present
+ their experience with combined craniofacial resection of anterior
+ craniofacial skull base tumors in 9 consecutive patients between January 2013
+ and July 2015. This article aims to review some of the traditional
+ transfacial approaches, illustrating them with this series of surgical
+ patients. Benefits and drawbacks of these approaches are discussed.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Endoscopy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Face",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neurosurgical Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Skull Base Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29194254,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

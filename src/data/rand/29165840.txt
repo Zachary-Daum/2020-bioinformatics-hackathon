@@ -1,0 +1,182 @@
+
+Pubmed-entry ::= {
+  pmid 29165840,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "How Important Is Vitamin D for Calcium Homeostasis During
+ Pregnancy and Lactation?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Carmeliet G",
+            affil str "Laboratory of Clinical and Experimental Endocrinology,
+ Department of Chronic Diseases, Metabolism and Ageing, Katholieke
+ Universiteit Leuven (KU Leuven), Leuven, Belgium."
+          },
+          {
+            name ml "Bouillon R",
+            affil str "Laboratory of Clinical and Experimental Endocrinology,
+ Department of Chronic Diseases, Metabolism and Ageing, Katholieke
+ Universiteit Leuven (KU Leuven), Leuven, Belgium."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Bone Miner. Res.",
+          ml-jta "J Bone Miner Res",
+          issn "1523-4681",
+          name "Journal of bone and mineral research : the official journal of
+ the American Society for Bone and Mineral Research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "33",
+          issue "1",
+          pages "13-15",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29165840,
+        doi "10.1002/jbmr.3344",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jbmr.3344"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Calcitriol"
+      },
+      {
+        term "Calcium"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Homeostasis"
+      },
+      {
+        term "Lactation"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Milk"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        mp TRUE,
+        term "Vitamin D"
+      },
+      {
+        mp TRUE,
+        term "Vitamin D Deficiency"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "1406-16-2",
+        name "Vitamin D"
+      },
+      {
+        type cas,
+        cit "FXC9231JVH",
+        name "Calcitriol"
+      },
+      {
+        type cas,
+        cit "SY7Q814VUP",
+        name "Calcium"
+      }
+    },
+    pmid 29165840,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

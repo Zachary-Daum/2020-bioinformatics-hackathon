@@ -1,0 +1,301 @@
+
+Pubmed-entry ::= {
+  pmid 29035553,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Construction of Antithrombotic Tissue-Engineered Blood Vessel
+ via Reduced Graphene Oxide Based Dual-Enzyme Biomimetic Cascade."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huo D",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Liu G",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Li Y",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Guan G",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Yang M",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Wei K",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Yang J",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Zeng L",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Li G",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Zeng W",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          },
+          {
+            name ml "Zhu C",
+            affil str "Department of Anatomy, State Key Laboratory of Trauma,
+ Burns, and Combined Injury, National and Regional Engineering Laboratory of
+ Tissue Engineering, State and Local Joint Engineering Laboratory for Vascular
+ Implants, Key Lab for Biomechanics and Tissue Engineering of Chongqing, Third
+ Military Medical University , Chongqing 400038, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "ACS Nano",
+          ml-jta "ACS Nano",
+          issn "1936-086X",
+          name "ACS nano"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11,
+            day 28
+          },
+          volume "11",
+          issue "11",
+          pages "10964-10973",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29035553,
+        doi "10.1021/acsnano.7b04836",
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acsnano.7b04836"
+        }
+      }
+    },
+    abstract "Thrombosis is one of the biggest obstacles in the clinical
+ application of small-diameter tissue-engineered blood vessels (TEBVs). The
+ implantation of an unmodified TEBV will lead to platelet aggregation and
+ further activation of the coagulation cascade, in which the high
+ concentration of adenosine diphosphate (ADP) that is released by platelets
+ plays an important role. Inspired by the phenomenon that endothelial cells
+ continuously generate endogenous antiplatelet substances via enzymatic
+ reactions, we designed a reduced graphene oxide (RGO) based dual-enzyme
+ biomimetic cascade to successively convert ADP into adenosine monophosphate
+ (AMP) and AMP into adenosine. We used RGO as a support and bound apyrase and
+ 5'-nucleotidase (5'-NT) on the surface of RGO through covalent bonds, and
+ then, we modified the surface of the collagen-coated decellularized vascular
+ matrix with the RGO-enzyme complexes, in which RGO functions as a platform
+ with a large open surface area and minimal diffusion barriers for
+ substrates/products to integrate two catalytic systems for cascading
+ reactions. The experimental results demonstrate that the two enzymes can
+ synergistically catalyze procoagulant ADP into anticoagulant AMP and
+ adenosine successively under physiological conditions, thus reducing the
+ concentration of ADP. AMP and adenosine can weaken or even reverse the
+ platelet aggregation induced by ADP, thereby inhibiting thrombosis. Adenosine
+ can also accelerate the endothelialization of TEBVs by regulating cellular
+ energy metabolism and optimizing the microenvironment, thus ensuring the
+ antithrombotic function and patency of TEBVs even after the RGO-enzyme
+ complex loses its activity.",
+    mesh {
+      {
+        term "Biomimetics"
+      },
+      {
+        term "Blood Platelets",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Blood Vessels",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "growth & development"
+          },
+          {
+            subh "transplantation"
+          }
+        }
+      },
+      {
+        term "Fibrinolytic Agents",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Graphite",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Platelet Aggregation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Thrombosis",
+        qual {
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Tissue Engineering"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Fibrinolytic Agents"
+      },
+      {
+        type nameonly,
+        name "graphene oxide"
+      },
+      {
+        type cas,
+        cit "7782-42-5",
+        name "Graphite"
+      }
+    },
+    pmid 29035553,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

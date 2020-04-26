@@ -1,0 +1,286 @@
+
+Pubmed-entry ::= {
+  pmid 29235243,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A waiting time of 7 min is sufficient to reduce bleeding in
+ oculoplastic surgery following the administration of epinephrine together
+ with local anaesthesia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hult J",
+            affil str "Department of Clinical Sciences, Lund, Ophthalmology,
+ Skane University Hospital, Lund University, Lund, Sweden."
+          },
+          {
+            name ml "Sheikh R",
+            affil str "Department of Clinical Sciences, Lund, Ophthalmology,
+ Skane University Hospital, Lund University, Lund, Sweden."
+          },
+          {
+            name ml "Nguyen CD",
+            affil str "Department of Clinical Sciences, Lund, Ophthalmology,
+ Skane University Hospital, Lund University, Lund, Sweden."
+          },
+          {
+            name ml "Tenland K",
+            affil str "Department of Clinical Sciences, Lund, Ophthalmology,
+ Skane University Hospital, Lund University, Lund, Sweden."
+          },
+          {
+            name ml "Dahlstrand U",
+            affil str "Department of Clinical Sciences, Lund, Ophthalmology,
+ Skane University Hospital, Lund University, Lund, Sweden."
+          },
+          {
+            name ml "Malmsjo M",
+            affil str "Department of Clinical Sciences, Lund, Ophthalmology,
+ Skane University Hospital, Lund University, Lund, Sweden."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acta Ophthalmol",
+          ml-jta "Acta Ophthalmol",
+          issn "1755-3768",
+          name "Acta ophthalmologica"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "96",
+          issue "5",
+          pages "499-502",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29235243,
+        doi "10.1111/aos.13616",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/aos.13616"
+        }
+      }
+    },
+    abstract "OBJECTIVE: The time taken to reach maximal haemostatic effect
+ following local anaesthesia with epinephrine is generally believed to be <10
+ min. This is based on clinical experience and indirect measurements of
+ perfusion using methods such as laser Doppler flowmetry and oxygen
+ spectroscopy. However, the only study in which bleeding has been measured
+ quantitatively in an intra-operative setting in humans showed that the full
+ haemostatic effect was not achieved until 30 min after anaesthesia. The aim
+ of this study was to determine the time taken to reach maximum haemostatic
+ effect when using epinephrine for local anaesthesia in oculoplastic surgery.
+ METHODS: Intra-operative bleeding following infiltration anaesthesia with
+ either lidocaine 20 mg/ml (2%) or lidocaine + epinephrine 12.5 mug/ml (1:80
+ 000) was measured after 7, 15 and 30 min in the eyelids of 16 patients
+ undergoing upper eyelid blepharoplasty. RESULTS: Bleeding was decreased by
+ 74.6% (with 95% CI, 6.16-87.6%) 7 min after the injection of lidocaine +
+ epinephrine (p = 0.0048) compared with lidocaine without epinephrine. There
+ was no further decrease in bleeding after 15 or 30 min (p = n.s.).
+ CONCLUSION: The optimal time for skin incision in eyelid surgery is within 7
+ min of injection of lidocaine with epinephrine. Waiting longer does not lead
+ to a further decrease in bleeding.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Anesthesia, Local",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Anesthetics, Local",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Blepharoplasty",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Blood Loss, Surgical",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Drug Therapy, Combination"
+      },
+      {
+        term "Epinephrine",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Eyelids",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Injections"
+      },
+      {
+        term "Lidocaine",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Vasoconstrictor Agents",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anesthetics, Local"
+      },
+      {
+        type nameonly,
+        name "Vasoconstrictor Agents"
+      },
+      {
+        type cas,
+        cit "98PI200987",
+        name "Lidocaine"
+      },
+      {
+        type cas,
+        cit "YKH834O4BH",
+        name "Epinephrine"
+      }
+    },
+    idnum {
+      "Swedish Government Grant for Clinical Research (ALF)",
+      "Skane University Hospital (SUS) Research Grants",
+      "Crown Princess Margaret's Foundation (KMA)",
+      "Visually Impaired in the County of Malmohus",
+      "Nordmark Foundation for Eye Diseases at Skane University Hospital",
+      "Diabetes Society of South-West Skane",
+      "Swedish Eye Foundation"
+    },
+    pmid 29235243,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

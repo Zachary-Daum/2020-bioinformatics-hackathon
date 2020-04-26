@@ -1,0 +1,137 @@
+
+Pubmed-entry ::= {
+  pmid 29164678,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Speckled acral hypopigmentation in an adolescent."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rutt VL",
+            affil str "Dermatology Residency Program, Lehigh Valley Health
+ Network, Allentown, PA, USA."
+          },
+          {
+            name ml "Quinn KB",
+            affil str "Dermatology Residency Program, Lehigh Valley Health
+ Network, Allentown, PA, USA."
+          },
+          {
+            name ml "Zaenglein A",
+            affil str "Department of Dermatology, Pennsylvania State
+ University, Hershey, PA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pediatr Dermatol",
+          ml-jta "Pediatr Dermatol",
+          issn "1525-1470",
+          name "Pediatric dermatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "35",
+          issue "1",
+          pages "e57-e58",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29164678,
+        doi "10.1111/pde.13341",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/pde.13341"
+        }
+      }
+    },
+    abstract "We report a case of speckled acral hypopigmentation in a
+ 12-year-old girl. She presented with asymptomatic hypopigmented macules on
+ the hands and feet. This rare entity is a proposed variant of reticulate
+ acropigmentation and of unknown etiology.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Foot"
+      },
+      {
+        term "Hand"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Pigmentation Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      }
+    },
+    pmid 29164678,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

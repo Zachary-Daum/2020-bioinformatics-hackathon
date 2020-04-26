@@ -1,0 +1,213 @@
+
+Pubmed-entry ::= {
+  pmid 29183528,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Conditional Survival-Based ""Abbreviated"" Routine Cancer
+ Surveillance for Pathologic Stage IB Melanoma."
+      },
+      authors {
+        names ml {
+          "Kukar M",
+          "Gabriel E",
+          "May R",
+          "Cho E",
+          "Lichtenthal M",
+          "Groman A",
+          "Skitzki J",
+          "Francescutti V",
+          "Kane JM 3rd"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am Surg",
+          ml-jta "Am Surg",
+          issn "1555-9823",
+          name "The American surgeon"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11,
+            day 1
+          },
+          volume "83",
+          issue "11",
+          pages "1256-1262",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29183528
+      }
+    },
+    abstract "A negative sentinel lymph node biopsy (SLNB) for stage IB
+ (T1b/T2a N0) melanoma would predict an excellent long-term prognosis.
+ Combined with the concept of conditional survival, an ""abbreviated"" cancer
+ surveillance strategy was implemented to reduce the number of visits and
+ total length of follow-up. Retrospective review of all pathologic stage IB
+ melanoma patients (negative SLNB) at a single institution between 2006 and
+ 2008 after implementation of an ""abbreviated"" cancer surveillance; clinic
+ visits every six months for five years followed by one annual visit (total
+ follow-up six years). Patient demographics, tumor characteristics, and
+ information regarding recurrences were obtained. Recurrence-free,
+ disease-specific, and overall survival were calculated. Eighty-seven patients
+ underwent the ""abbreviated"" cancer surveillance. Median age was 55.4 years
+ and 50.6 per cent were male. Median Breslow thickness was 1.1 mm (range
+ 0.5-2.0 mm) and 1.1 per cent were ulcerated. Primary tumor site was 49 per
+ cent extremities, 39 per cent trunk, and 12 per cent head/neck. Median
+ follow-up was 68.6 months. Five-year recurrence-free, disease-specific, and
+ overall survivals were 89, 95, and 88 per cent, respectively. During
+ surveillance, 10 patients had concerning symptoms or physical findings
+ prompting subsequent workup, all of which were negative for
+ recurrence/metastases. There were only three true melanoma recurrences; all
+ were distant metastases and presented symptomatically between scheduled
+ follow-up visits. In light of the excellent prognosis for pathologic (SLNB
+ negative) stage IB melanoma, an ""abbreviated"" cancer surveillance schedule
+ based on conditional survival would reduce both direct and indirect costs in
+ this cohort. The few recurrences were symptomatic and unlikely to have
+ changed with more intensive surveillance.",
+    mesh {
+      {
+        term "Disease-Free Survival"
+      },
+      {
+        term "Early Detection of Cancer",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Extremities"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Head and Neck Neoplasms",
+        qual {
+          {
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lymphatic Metastasis"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Melanoma",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Recurrence, Local",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neoplasm Staging"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Sentinel Lymph Node Biopsy"
+      },
+      {
+        term "Skin Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Tertiary Care Centers"
+      },
+      {
+        term "Thorax"
+      }
+    },
+    pmid 29183528,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

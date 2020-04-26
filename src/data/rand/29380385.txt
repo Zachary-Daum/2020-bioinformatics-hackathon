@@ -1,0 +1,350 @@
+
+Pubmed-entry ::= {
+  pmid 29380385,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Role of l-arginine/SNAP/NO/cGMP/KATP channel signalling pathway
+ in antinociceptive effect of alpha-terpineol in mice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Safaripour S",
+            affil str "Department of Pharmacology, School of Medicine, Shahid
+ Beheshti University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Nemati Y",
+            affil str "Department of Pharmacology, School of Medicine, Shahid
+ Beheshti University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Parvardeh S",
+            affil str "Department of Pharmacology, School of Medicine, Shahid
+ Beheshti University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Ghafghazi S",
+            affil str "Department of Pharmacology, School of Medicine, Shahid
+ Beheshti University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Fouladzadeh A",
+            affil str "Department of Pharmacology, School of Medicine, Shahid
+ Beheshti University of Medical Sciences, Tehran, Iran."
+          },
+          {
+            name ml "Moghimi M",
+            affil str "Department of Pharmacology, School of Medicine, Shahid
+ Beheshti University of Medical Sciences, Tehran, Iran."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Pharm. Pharmacol.",
+          ml-jta "J Pharm Pharmacol",
+          issn "2042-7158",
+          name "The Journal of pharmacy and pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "70",
+          issue "4",
+          pages "507-515",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29380385,
+        doi "10.1111/jphp.12864",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jphp.12864"
+        }
+      }
+    },
+    abstract "OBJECTIVES: The main purpose of this study was to assess the
+ role of l-arginine/SNAP/NO/cGMP/KATP channel pathway in analgesic effects of
+ alpha-terpineol in mice. METHODS: Male NMRI mice were pretreated
+ intraperitoneally with NO precursor (l-arginine, 100 mg/kg), NO synthase
+ inhibitor (l-NAME, 30 mg/kg), NO donor (SNAP, 1 mg/kg), guanylyl cyclase
+ inhibitor (methylene blue, 20 mg/kg), PDE inhibitor (sildenafil, 0.5 mg/kg),
+ KATP channel blocker (glibenclamide, 10 mg/kg) and naloxone (2 mg/kg) 20 min
+ before the administration of alpha-terpineol. The formalin test was performed
+ 20 min after the administration of alpha-terpineol, and nociceptive responses
+ of mice were recorded during 30 min. KEY FINDINGS: A significant and
+ dose-dependent antinociception was produced by alpha-terpineol (40 and 80
+ mg/kg) in both the phases of formalin test. The antinociceptive effect of
+ alpha-terpineol was significantly potentiated by l-arginine in the second
+ phase while significantly antagonized by l-NAME in both phases of formalin
+ test. Also, SNAP and sildenafil non-significantly enhanced-while methylene
+ blue significantly diminished-the antinociceptive effect of alpha-terpineol
+ in both phases of formalin test. Glibenclamide significantly reversed the
+ alpha-terpineol-induced antinociception, indicating the involvement of KATP
+ channels in antinociceptive effect of alpha-terpineol. CONCLUSIONS: These
+ results indicate that the antinociceptive effect of alpha-terpineol is
+ mediated through l-arginine/SNAP/NO/cGMP/KATP channel pathway.",
+    mesh {
+      {
+        term "Analgesics",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Arginine",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cyclic GMP",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cyclohexane Monoterpenes"
+      },
+      {
+        term "Cyclohexenes",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "KATP Channels",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Monoterpenes",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "NG-Nitroarginine Methyl Ester",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Pain",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Pain Measurement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "S-Nitroso-N-Acetylpenicillamine",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Analgesics"
+      },
+      {
+        type nameonly,
+        name "Cyclohexane Monoterpenes"
+      },
+      {
+        type nameonly,
+        name "Cyclohexenes"
+      },
+      {
+        type nameonly,
+        name "KATP Channels"
+      },
+      {
+        type nameonly,
+        name "Monoterpenes"
+      },
+      {
+        type cas,
+        cit "21334LVV8W",
+        name "alpha-terpineol"
+      },
+      {
+        type cas,
+        cit "31C4KY9ESH",
+        name "Nitric Oxide"
+      },
+      {
+        type cas,
+        cit "79032-48-7",
+        name "S-Nitroso-N-Acetylpenicillamine"
+      },
+      {
+        type cas,
+        cit "94ZLA3W45F",
+        name "Arginine"
+      },
+      {
+        type cas,
+        cit "H2D2X058MU",
+        name "Cyclic GMP"
+      },
+      {
+        type cas,
+        cit "V55S2QJN2X",
+        name "NG-Nitroarginine Methyl Ester"
+      }
+    },
+    pmid 29380385,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,232 @@
+
+Pubmed-entry ::= {
+  pmid 29311565,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Spontaneous and training-induced cortical plasticity in MD
+ patients: Hints from lateral masking."
+      },
+      authors {
+        names std {
+          {
+            name ml "Maniglia M",
+            affil str "UC Riverside, Riverside, California, USA.
+ marcello.maniglia@ucr.edu.; Universite de Toulouse-UPS, Centre de Recherche
+ Cerveau et Cognition, Toulouse, France. marcello.maniglia@ucr.edu.; Centre
+ National de la Recherche Scientifique, Toulouse, Cedex, France.
+ marcello.maniglia@ucr.edu."
+          },
+          {
+            name ml "Soler V",
+            affil str "Unite de retine, consultation d'ophtalmologie, hopital
+ Pierre-Paul-Riquet, CHU de Toulouse, place Baylac, 31059, Toulouse, cedex,
+ France."
+          },
+          {
+            name ml "Cottereau B",
+            affil str "Universite de Toulouse-UPS, Centre de Recherche Cerveau
+ et Cognition, Toulouse, France.; Centre National de la Recherche
+ Scientifique, Toulouse, Cedex, France."
+          },
+          {
+            name ml "Trotter Y",
+            affil str "Universite de Toulouse-UPS, Centre de Recherche Cerveau
+ et Cognition, Toulouse, France.; Centre National de la Recherche
+ Scientifique, Toulouse, Cedex, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 8
+          },
+          volume "8",
+          issue "1",
+          pages "90",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 4
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29311565,
+        doi "10.1038/s41598-017-18261-6",
+        pii "10.1038/s41598-017-18261-6",
+        other {
+          db "pmc",
+          tag str "PMC5758612"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-017-18261-6"
+        }
+      }
+    },
+    abstract "Macular degeneration (MD) affects central vision and represents
+ the leading cause of visual diseases in elderly population worldwide. As a
+ consequence of central vision loss, MD patients develop a preferred retinal
+ locus (PRL), an eccentric fixation point that replaces the fovea. Here, our
+ aim was to determine whether and to what extent spontaneous plasticity takes
+ place in the cortical regions formerly responding to central vision and
+ whether a visual training based on perceptual learning (PL) can boost this
+ plasticity within the PRL area. Spontaneous and PL-induced cortical
+ plasticity were characterized by using lateral masking, a contrast
+ sensitivity modulation induced by collinear flankers. This configuration is
+ known to be sensitive to neural plasticity and underlies several
+ rehabilitation trainings. Results in a group of 4 MD patients showed that
+ collinear facilitation was similar to what observed in age- and
+ eccentricity-matched controls. However, MD patients exhibited significantly
+ reduced collinear inhibition, a sign of neural plasticity, consistent with
+ the hypothesis of partial cortical reorganization. Three AMD patients from
+ the same group showed a further reduction of inhibition after training, but
+ not controls. This result suggests that PL might further boost neural
+ plasticity, opening promising perspectives for the development of
+ rehabilitation protocols for MD patients.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Contrast Sensitivity"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Learning"
+      },
+      {
+        term "Macular Degeneration",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Neuronal Plasticity"
+      },
+      {
+        term "Scotoma",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Tomography, Optical Coherence"
+      },
+      {
+        term "Visual Cortex",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Visual Fields"
+      },
+      {
+        term "Visual Perception"
+      }
+    },
+    pmid 29311565,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,242 @@
+
+Pubmed-entry ::= {
+  pmid 29217371,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reconstitution of the activity of RND efflux pumps: a ""bottom-u
+p"" approach."
+      },
+      authors {
+        names std {
+          {
+            name ml "Puvanendran D",
+            affil str "Laboratoire de Biologie Physico-Chimique des Proteines
+ Membranaires, CNRS UMR 7099, Institut de Biologie Physico-Chimique (IBPC),
+ Universite Paris Diderot, Sorbonne Paris Cite, PSL Research University,
+ Paris, France. Electronic address: dhenesh.puvanendran@ibpc.fr."
+          },
+          {
+            name ml "Cece Q",
+            affil str "Laboratoire de Biologie Physico-Chimique des Proteines
+ Membranaires, CNRS UMR 7099, Institut de Biologie Physico-Chimique (IBPC),
+ Universite Paris Diderot, Sorbonne Paris Cite, PSL Research University,
+ Paris, France. Electronic address: quentin.cece@ibpc.fr."
+          },
+          {
+            name ml "Picard M",
+            affil str "Laboratoire de Biologie Physico-Chimique des Proteines
+ Membranaires, CNRS UMR 7099, Institut de Biologie Physico-Chimique (IBPC),
+ Universite Paris Diderot, Sorbonne Paris Cite, PSL Research University,
+ Paris, France. Electronic address: martin.picard@ibpc.fr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Res. Microbiol.",
+          ml-jta "Res Microbiol",
+          issn "1769-7123",
+          name "Research in microbiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "169",
+          issue "7-8",
+          pages "442-449",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29217371,
+        pii "S0923-2508(17)30196-1",
+        doi "10.1016/j.resmic.2017.11.004",
+        other {
+          db "ELocationID pii",
+          tag str "S0923-2508(17)30196-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.resmic.2017.11.004"
+        }
+      }
+    },
+    abstract "Efflux pumps are systems devoted to the extrusion of noxious
+ compounds. In this review, we discuss the various strategies that have thus
+ far been undertaken for the investigation of efflux pumps after
+ reconstitution into liposomes. It is challenging to uncover mechanisms and
+ dynamics of efflux pumps due to a number of characteristics: their function
+ depends on the correct assembly of three components and they span two
+ adjacent membranes whose lipid compositions are very different. In addition,
+ efflux pumps are active transporters that need energy to work. We present
+ possible lines of improvement for the study of such systems and provide
+ insights into future goals and challenges of efflux pump reconstitution and
+ transport.",
+    mesh {
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Bacterial Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Biological Transport"
+      },
+      {
+        term "Gram-Negative Bacteria",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Liposomes",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Membrane Transport Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Multigene Family"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Bacterial Proteins"
+      },
+      {
+        type nameonly,
+        name "Liposomes"
+      },
+      {
+        type nameonly,
+        name "Membrane Transport Proteins"
+      }
+    },
+    pmid 29217371,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

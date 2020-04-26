@@ -1,0 +1,195 @@
+
+Pubmed-entry ::= {
+  pmid 28742158,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Human Tamm-Horsfall protein, a renal specific protein, serves as
+ a cofactor in complement 3b degradation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rhodes DCJ",
+            affil str "Department of Anatomy, Pacific Northwest University of
+ Health Sciences, Yakima, Washington, United States of America."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 24
+          },
+          volume "12",
+          issue "7",
+          pages "e0181857",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28742158,
+        doi "10.1371/journal.pone.0181857",
+        pii "PONE-D-16-51559",
+        other {
+          db "pmc",
+          tag str "PMC5524369"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0181857"
+        }
+      }
+    },
+    abstract "Tamm-Horsfall protein (THP) is an abundant urinary protein of
+ renal origin. We hypothesize that THP can act as an inhibitor of complement
+ since THP binds complement 1q (C1q) of the classical complement pathway,
+ inhibits activation of this pathway, and is important in decreasing renal
+ ischemia-reperfusion injury (a complement-mediated condition). In this study,
+ we began to investigate whether THP interacted with the alternate complement
+ pathway via complement factor H (CFH). THP was shown to bind CFH using ligand
+ blots and in an ELISA (KD of 1 x 10-6 M). Next, the ability of THP to alter
+ CFH's normal action as it functioned as a cofactor in complement factor I
+ (CFI)-mediated complement 3b (C3b) degradation was investigated.
+ Unexpectedly, control experiments in these in vitro assays suggested that
+ THP, without added CFH, could act as a cofactor in CFI-mediated C3b
+ degradation. This cofactor activity was present equally in THP isolated from
+ 10 different individuals. While an ELISA demonstrated small amounts of CFH
+ contaminating THP samples, these CFH amounts were insufficient to explain the
+ degree of cofactor activity present in THP. An ELISA demonstrated that THP
+ directly bound C3b (KD ~ 5 x 10-8 m), a prerequisite for a protein acting as
+ a C3b degradation cofactor. The cofactor activity of THP likely resides in
+ the protein portion of THP since partially deglycosylated THP still retained
+ cofactor activity. In conclusion, THP appears to participate directly in
+ complement inactivation by its ability to act as a cofactor for C3b
+ degradation, thus adding support to the hypothesis that THP might act as an
+ endogenous urinary tract inhibitor of complement.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Complement C3b",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Enzyme-Linked Immunosorbent Assay"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Protein Binding"
+      },
+      {
+        term "Proteolysis"
+      },
+      {
+        term "Uromodulin",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "UMOD protein, human"
+      },
+      {
+        type nameonly,
+        name "Uromodulin"
+      },
+      {
+        type cas,
+        cit "80295-43-8",
+        name "Complement C3b"
+      }
+    },
+    pmid 28742158,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,187 @@
+
+Pubmed-entry ::= {
+  pmid 28369935,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Phase 2 of CATALISE: a multinational and multidisciplinary
+ Delphi consensus study of problems with language development: Terminology."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bishop DVM",
+            affil str "Department of Experimental Psychology, University of
+ Oxford, Oxford, UK."
+          },
+          {
+            name ml "Snowling MJ",
+            affil str "Department of Experimental Psychology, University of
+ Oxford, Oxford, UK."
+          },
+          {
+            name ml "Thompson PA",
+            affil str "Department of Experimental Psychology, University of
+ Oxford, Oxford, UK."
+          },
+          {
+            name ml "Greenhalgh T",
+            affil str "Nuffield Department of Primary Care Health Sciences,
+ University of Oxford, Oxford, UK."
+          },
+          {
+            name consortium "and the CATALISE-2 consortium"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Child Psychol Psychiatry",
+          ml-jta "J Child Psychol Psychiatry",
+          issn "1469-7610",
+          name "Journal of child psychology and psychiatry, and allied
+ disciplines"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "58",
+          issue "10",
+          pages "1068-1080",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 2,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28369935,
+        doi "10.1111/jcpp.12721",
+        other {
+          db "pmc",
+          tag str "PMC5638113"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jcpp.12721"
+        }
+      }
+    },
+    abstract "BACKGROUND: Lack of agreement about criteria and terminology for
+ children's language problems affects access to services as well as hindering
+ research and practice. We report the second phase of a study using an online
+ Delphi method to address these issues. In the first phase, we focused on
+ criteria for language disorder. Here we consider terminology. METHODS: The
+ Delphi method is an iterative process in which an initial set of statements
+ is rated by a panel of experts, who then have the opportunity to view
+ anonymised ratings from other panel members. On this basis they can either
+ revise their views or make a case for their position. The statements are then
+ revised based on panel feedback, and again rated by and commented on by the
+ panel. In this study, feedback from a second round was used to prepare a
+ final set of statements in narrative form. The panel included 57 individuals
+ representing a range of professions and nationalities. RESULTS: We achieved
+ at least 78% agreement for 19 of 21 statements within two rounds of ratings.
+ These were collapsed into 12 statements for the final consensus reported
+ here. The term 'Language Disorder' is recommended to refer to a profile of
+ difficulties that causes functional impairment in everyday life and is
+ associated with poor prognosis. The term, 'Developmental Language Disorder'
+ (DLD) was endorsed for use when the language disorder was not associated with
+ a known biomedical aetiology. It was also agreed that (a) presence of risk
+ factors (neurobiological or environmental) does not preclude a diagnosis of
+ DLD, (b) DLD can co-occur with other neurodevelopmental disorders (e.g. ADHD)
+ and (c) DLD does not require a mismatch between verbal and nonverbal ability.
+ CONCLUSIONS: This Delphi exercise highlights reasons for disagreements about
+ terminology for language disorders and proposes standard definitions and
+ nomenclature.",
+    mesh {
+      {
+        mp TRUE,
+        term "Consensus"
+      },
+      {
+        mp TRUE,
+        term "Delphi Technique"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Language Development Disorders",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Terminology as Topic"
+      }
+    },
+    idnum {
+      "Wellcome Trust"
+    },
+    pmid 28369935,
+    pub-type {
+      "Journal Article",
+      "Multicenter Study"
+    },
+    status medline
+  }
+}
+
+

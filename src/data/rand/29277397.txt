@@ -1,0 +1,209 @@
+
+Pubmed-entry ::= {
+  pmid 29277397,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Corrigendum to ""Humanization of JAA-F11, a Highly Specific
+ Anti-Thomsen-Friedenreich Pancarcinoma Antibody and In Vitro Efficacy
+ Analysis"" [Neoplasia 19.9 (2017) 716-733]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tati S",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Fisk JC",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Abdullah J",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY; For-Robin, Inc., Buffalo, NY;
+ Department of Microbiology and Immunology, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Karacosta L",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Chrisikos T",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY; For-Robin, Inc., Buffalo, NY."
+          },
+          {
+            name ml "Philbin P",
+            affil str "For-Robin, Inc., Buffalo, NY."
+          },
+          {
+            name ml "Morey S",
+            affil str "For-Robin, Inc., Buffalo, NY."
+          },
+          {
+            name ml "Ghazal D",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Zalzala F",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Jessee J",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Quataert S",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Koury S",
+            affil str "For-Robin, Inc., Buffalo, NY."
+          },
+          {
+            name ml "Moreno D",
+            affil str "For-Robin, Inc., Buffalo, NY."
+          },
+          {
+            name ml "Eng JY",
+            affil str "For-Robin, Inc., Buffalo, NY."
+          },
+          {
+            name ml "Glinsky VV",
+            affil str "Research Service, Harry S. Truman Memorial Veterans
+ Hospital, Columbia, MO; Department of Pathology and Anatomical Sciences,
+ University of Missouri, Columbia, MO."
+          },
+          {
+            name ml "Glinskii OV",
+            affil str "Research Service, Harry S. Truman Memorial Veterans
+ Hospital, Columbia, MO; Department of Medical Pharmacology and Physiology,
+ University of Missouri, Columbia, MO."
+          },
+          {
+            name ml "Sesay M",
+            affil str "Goodwin Biotechnology, Inc., Plantation, FL."
+          },
+          {
+            name ml "Gebhard AW",
+            affil str "Goodwin Biotechnology, Inc., Plantation, FL."
+          },
+          {
+            name ml "Birthare K",
+            affil str "Goodwin Biotechnology, Inc., Plantation, FL."
+          },
+          {
+            name ml "Olson JR",
+            affil str "Department of Pharmacology and Toxicology, University
+ at Buffalo, Buffalo, NY."
+          },
+          {
+            name ml "Rittenhouse-Olson K",
+            affil str "Department of Biotechnical and Clinical Laboratory
+ Sciences, University at Buffalo, Buffalo, NY; For-Robin, Inc., Buffalo, NY.
+ Electronic address: krolson@buffalo.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neoplasia",
+          ml-jta "Neoplasia",
+          issn "1476-5586",
+          name "Neoplasia (New York, N.Y.)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "20",
+          issue "1",
+          pages "118",
+          language "eng",
+          retract {
+            type erratum,
+            exp "Neoplasia. 2017 Sep;19(9):716-733. PMID: 28830009"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 27,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29277397,
+        pii "S1476-5586(17)30460-8",
+        doi "10.1016/j.neo.2017.10.001",
+        other {
+          db "pmc",
+          tag str "PMC5747515"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S1476-5586(17)30460-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.neo.2017.10.001"
+        }
+      }
+    },
+    idnum {
+      "R41 CA176951/CA/NCI NIH HHS",
+      "R42 CA176951/CA/NCI NIH HHS"
+    },
+    pmid 29277397,
+    pub-type {
+      "Journal Article",
+      "Published Erratum"
+    },
+    status premedline
+  }
+}
+
+

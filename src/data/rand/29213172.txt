@@ -1,0 +1,108 @@
+
+Pubmed-entry ::= {
+  pmid 29213172,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Spontaneous splenic rupture in typhomalaria: A case report with
+ review of literature."
+      },
+      authors {
+        names std {
+          {
+            name ml "Malik S",
+            affil str "Department of Pediatrics, Subharti medical college,
+ Meerut, UP, India."
+          },
+          {
+            name ml "Saran S",
+            affil str "Department of Radiology, Subharti medical college,
+ Meerut, UP, India.; Corresponding author."
+          },
+          {
+            name ml "Kanwar SS",
+            affil str "Department of Radiology, Subharti medical college,
+ Meerut, UP, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sudan J Paediatr",
+          ml-jta "Sudan J Paediatr",
+          issn "0256-4408",
+          name "Sudanese journal of paediatrics"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "17",
+          issue "1",
+          pages "52-56",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 8,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29213172,
+        other {
+          db "pmc",
+          tag str "PMC5621861"
+        }
+      }
+    },
+    abstract "Plasmodium vivax, which was previously considered 'benign', has
+ come out with unusual severe symptoms. We, here present an unusual case of
+ Plasmodium vivax malaria presenting with spontaneous splenic rupture with
+ hemoperitoneum, renal and pulmonary dysfunction. Following conservative
+ management, there was an uneventful recovery, and the patient was discharged
+ in a good general condition.",
+    pmid 29213172,
+    pub-type {
+      "Case Reports"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,117 @@
+
+Pubmed-entry ::= {
+  pmid 29313603,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Person of the year.",
+        trans "Arets navn."
+      },
+      authors {
+        names ml {
+          "Orstavik R"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Tidsskr. Nor. Laegeforen.",
+          ml-jta "Tidsskr Nor Laegeforen",
+          issn "0807-7096",
+          name "Tidsskrift for den Norske laegeforening : tidsskrift for
+ praktisk medicin, ny raekke"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12,
+            day 21
+          },
+          volume "137",
+          issue "1",
+          language "eng,nor",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29313603,
+        pii "17-1101",
+        doi "10.4045/tidsskr.17.1101",
+        other {
+          db "ELocationID doi",
+          tag str "10.4045/tidsskr.17.1101"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        term "Periodicals as Topic"
+      },
+      {
+        term "Physicians, Women"
+      },
+      {
+        term "Power, Psychological"
+      },
+      {
+        mp TRUE,
+        term "Sexual Harassment"
+      },
+      {
+        term "Social Media"
+      },
+      {
+        mp TRUE,
+        term "Women's Rights"
+      }
+    },
+    pmid 29313603,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

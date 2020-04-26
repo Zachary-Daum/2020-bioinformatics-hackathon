@@ -1,0 +1,230 @@
+
+Pubmed-entry ::= {
+  pmid 29146341,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Oxidation and nitrosation of meat proteins under
+ gastro-intestinal conditions: Consequences in terms of nutritional and health
+ values of meat."
+      },
+      authors {
+        names std {
+          {
+            name ml "de La Pomelie D",
+            affil str "INRA, UR370 Qualite des Produits Animaux, F-63122 Saint
+ Genes-Champanelle, France."
+          },
+          {
+            name ml "Sante-Lhoutellier V",
+            affil str "INRA, UR370 Qualite des Produits Animaux, F-63122 Saint
+ Genes-Champanelle, France."
+          },
+          {
+            name ml "Sayd T",
+            affil str "INRA, UR370 Qualite des Produits Animaux, F-63122 Saint
+ Genes-Champanelle, France."
+          },
+          {
+            name ml "Gatellier P",
+            affil str "INRA, UR370 Qualite des Produits Animaux, F-63122 Saint
+ Genes-Champanelle, France. Electronic address: philippe.gatellier@inra.fr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Food Chem",
+          ml-jta "Food Chem",
+          issn "1873-7072",
+          name "Food chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 15
+          },
+          volume "243",
+          pages "295-304",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 26
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29146341,
+        pii "S0308-8146(17)31611-4",
+        doi "10.1016/j.foodchem.2017.09.135",
+        other {
+          db "ELocationID pii",
+          tag str "S0308-8146(17)31611-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.foodchem.2017.09.135"
+        }
+      }
+    },
+    abstract "The chemical changes (oxidation/nitrosation) of meat proteins
+ during digestion lead to a decrease in their nutritional value. Moreover,
+ oxidized and nitrosated amino acids are suspected to promote various human
+ pathologies. To investigate the mechanisms and the kinetics of these
+ endogenous protein modifications, we used a dynamic artificial digestive
+ system (DIDGI(R)) that mimics the physicochemical conditions of digestion.
+ The combined effect of meat cooking and endogenous addition of ascorbate and
+ nitrite was evaluated on protein oxidation (by measuring carbonyl groups),
+ protein nitrosation (by measuring nitrosamines), and proteolysis.
+ Considerable carbonylation was observed in the digestive tract, especially
+ under the acidic conditions of the stomach. Nitrosamines, caused by ammonia
+ oxidation, were formed in conditions in which no nitrite was added, although
+ the addition of nitrite in the model significantly increased their levels.
+ Meat cooking and nitrite addition significantly decreased protein digestion.
+ The interactions between all the changes affecting the proteins are discussed.",
+    mesh {
+      {
+        term "Cooking"
+      },
+      {
+        term "Dietary Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        term "Digestion"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kinetics"
+      },
+      {
+        term "Nitrites",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Nitrosamines",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Nitrosation"
+      },
+      {
+        mp TRUE,
+        term "Nutritive Value"
+      },
+      {
+        term "Oxidation-Reduction"
+      },
+      {
+        term "Protein Carbonylation"
+      },
+      {
+        term "Proteolysis"
+      },
+      {
+        mp TRUE,
+        term "Red Meat"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Dietary Proteins"
+      },
+      {
+        type nameonly,
+        name "Nitrites"
+      },
+      {
+        type nameonly,
+        name "Nitrosamines"
+      }
+    },
+    pmid 29146341,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

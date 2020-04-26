@@ -1,0 +1,269 @@
+
+Pubmed-entry ::= {
+  pmid 28078525,
+  medent {
+    em std {
+      year 2017,
+      month 1,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Chitosan-ceramide coating on gold nanorod to improve its
+ physiological stability and reduce the lipid surface-related toxicity."
+      },
+      authors {
+        names std {
+          {
+            name ml "Battogtokh G",
+            affil str "College of Pharmacy and Gachon Institute of
+ Pharmaceutical Sciences, Gachon University, 191 Hambakmoe-ro, Yeonsu-gu,
+ Incheon, 406-799, South Korea."
+          },
+          {
+            name ml "Gotov O",
+            affil str "College of Pharmacy and Gachon Institute of
+ Pharmaceutical Sciences, Gachon University, 191 Hambakmoe-ro, Yeonsu-gu,
+ Incheon, 406-799, South Korea."
+          },
+          {
+            name ml "Ko YT",
+            affil str "College of Pharmacy and Gachon Institute of
+ Pharmaceutical Sciences, Gachon University, 191 Hambakmoe-ro, Yeonsu-gu,
+ Incheon, 406-799, South Korea. youngtakko@gachon.ac.kr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arch. Pharm. Res.",
+          ml-jta "Arch Pharm Res",
+          issn "0253-6269",
+          name "Archives of pharmacal research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "40",
+          issue "3",
+          pages "356-363",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28078525,
+        doi "10.1007/s12272-017-0888-z",
+        pii "10.1007/s12272-017-0888-z",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s12272-017-0888-z"
+        }
+      }
+    },
+    abstract "Gold nanoparticles are promising materials for many applications
+ that include imaging, drug delivery, and photothermal therapy. However, AuNPs
+ can be unstable and/or toxic. We purposed to improve the stability and reduce
+ toxicity of gold nanorods (AuNR) upon coating with biocompatible polymer,
+ chitosan-ceramide (CS-CE), without replacing the original layer, CTAB.
+ CS-CE-coated AuNR was prepared by simple mixing for 24 h and purified by
+ centrifugation. The coating was confirmed by UV-Vis absorption analysis and
+ surface charge and size measurement. We prepared nanorods with CS or CS-CE
+ coating at two different concentrations (5 and 10% AuNR), the resulting in
+ larger nanorods with a more positive surface-charge than that of AuNR. We
+ investigated the UV-absorption and protein adsorption of the polymer coated
+ nanorods. Based on the protein adsorption, AuNR-CS-CE was found to be more
+ stable under physiological conditions than AuNR-CS. The cell internalization
+ assay revealed that Hela cells internalized higher amounts of AuNR-CS-CE than
+ that of AuNR-CS. Cytotoxicity study revealed that AuNR-CS-CE has lower
+ toxicity than AuNR against HeLa cells. The CS-CE coating improved the
+ stability of AuNR under physiological conditions via the hydrophobic
+ interactions between the AuNR lipid surface and the ceramide anchor in the CS
+ backbone as well as.",
+    mesh {
+      {
+        term "Biocompatible Materials",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Ceramides",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Chitosan",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Colloids",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Gold",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "HeLa Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipids",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Nanotubes",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Protein Binding"
+      },
+      {
+        term "Spectrophotometry, Ultraviolet"
+      },
+      {
+        term "Surface Properties"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biocompatible Materials"
+      },
+      {
+        type nameonly,
+        name "Ceramides"
+      },
+      {
+        type nameonly,
+        name "Colloids"
+      },
+      {
+        type nameonly,
+        name "Lipids"
+      },
+      {
+        type cas,
+        cit "7440-57-5",
+        name "Gold"
+      },
+      {
+        type cas,
+        cit "9012-76-4",
+        name "Chitosan"
+      }
+    },
+    pmid 28078525,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

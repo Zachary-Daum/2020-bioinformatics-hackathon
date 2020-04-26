@@ -1,0 +1,188 @@
+
+Pubmed-entry ::= {
+  pmid 29164300,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "(177)Lu-PSMA-617 radioligand therapy in mCRPC: ready for phase
+ III trial?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Rahbar K",
+            affil str "Department of Nuclear Medicine, University Hospital
+ Muenster, 48149, Munster, Germany. rahbar@uni-muenster.de."
+          },
+          {
+            name ml "Ahmadzadehfar H",
+            affil str "Department of Nuclear Medicine, University Hospital
+ Bonn, Bonn, Germany."
+          },
+          {
+            name ml "Boegemann M",
+            affil str "Department of Urology, University Hospital Muenster,
+ Munster, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Nucl. Med. Mol. Imaging",
+          ml-jta "Eur J Nucl Med Mol Imaging",
+          issn "1619-7089",
+          name "European journal of nuclear medicine and molecular imaging"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "45",
+          issue "3",
+          pages "513-514",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29164300,
+        doi "10.1007/s00259-017-3892-0",
+        pii "10.1007/s00259-017-3892-0",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00259-017-3892-0"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Clinical Trials, Phase III as Topic"
+      },
+      {
+        term "Dipeptides",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Heterocyclic Compounds, 1-Ring",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ligands"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Prostatic Neoplasms, Castration-Resistant",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "radiotherapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "177Lu-PSMA-617"
+      },
+      {
+        type nameonly,
+        name "Dipeptides"
+      },
+      {
+        type nameonly,
+        name "Heterocyclic Compounds, 1-Ring"
+      },
+      {
+        type nameonly,
+        name "Ligands"
+      }
+    },
+    pmid 29164300,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

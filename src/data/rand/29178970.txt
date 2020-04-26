@@ -1,0 +1,110 @@
+
+Pubmed-entry ::= {
+  pmid 29178970,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reply."
+      },
+      authors {
+        names std {
+          {
+            name ml "Koshiol J",
+            affil str "Infections and Immunoepidemiology Branch, Division of
+ Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda,
+ Maryland."
+          },
+          {
+            name ml "Andersen JB",
+            affil str "Biotech Research & Innovation Centre, Department of
+ Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          },
+          {
+            name ml "Ferreccio C",
+            affil str "Pontificia Universidad Catolica, Fondap Advanced Center
+ for Chronic Diseases, Santiago, Chile."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Gastroenterology",
+          ml-jta "Gastroenterology",
+          issn "1528-0012",
+          name "Gastroenterology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "154",
+          issue "1",
+          pages "260-261",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29178970,
+        pii "S0016-5085(17)36384-9",
+        doi "10.1053/j.gastro.2017.11.026",
+        other {
+          db "ELocationID pii",
+          tag str "S0016-5085(17)36384-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1053/j.gastro.2017.11.026"
+        }
+      }
+    },
+    pmid 29178970,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status premedline
+  }
+}
+
+

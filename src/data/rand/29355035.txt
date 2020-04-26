@@ -1,0 +1,308 @@
+
+Pubmed-entry ::= {
+  pmid 29355035,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Simultaneous targeting therapy for lung metastasis and breast
+ tumor by blocking the NF-kappaB signaling pathway using Celastrol-loaded
+ micelles."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao Y",
+            affil str "a Ocean College , Zhejiang University , Zhoushan ,
+ China."
+          },
+          {
+            name ml "Tan Y",
+            affil str "a Ocean College , Zhejiang University , Zhoushan ,
+ China."
+          },
+          {
+            name ml "Meng T",
+            affil str "b College of Pharmaceutical Science , Zhejiang
+ University , Hangzhou , China."
+          },
+          {
+            name ml "Liu X",
+            affil str "b College of Pharmaceutical Science , Zhejiang
+ University , Hangzhou , China."
+          },
+          {
+            name ml "Zhu Y",
+            affil str "a Ocean College , Zhejiang University , Zhoushan ,
+ China."
+          },
+          {
+            name ml "Hong Y",
+            affil str "c The First Affiliated Hospital, College of
+ Pharmaceutical Medicine , Zhejiang University , Hangzhou , China."
+          },
+          {
+            name ml "Yang X",
+            affil str "b College of Pharmaceutical Science , Zhejiang
+ University , Hangzhou , China."
+          },
+          {
+            name ml "Yuan H",
+            affil str "b College of Pharmaceutical Science , Zhejiang
+ University , Hangzhou , China."
+          },
+          {
+            name ml "Huang X",
+            affil str "d Department of Pharmacy, School of Medicine Science ,
+ Jiaxing University , Zhejiang , China."
+          },
+          {
+            name ml "Hu F",
+            affil str "a Ocean College , Zhejiang University , Zhoushan ,
+ China.; b College of Pharmaceutical Science , Zhejiang University , Hangzhou
+ , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Drug Deliv",
+          ml-jta "Drug Deliv",
+          issn "1521-0464",
+          name "Drug delivery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "25",
+          issue "1",
+          pages "341-352",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29355035,
+        doi "10.1080/10717544.2018.1425778",
+        other {
+          db "pmc",
+          tag str "PMC6058533"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/10717544.2018.1425778"
+        }
+      }
+    },
+    abstract "Metastasis is one of the major obstacles for successful therapy
+ of breast tumor. To inhibit the metastasis and growth of breast tumor
+ simultaneously, a Celastrol (Cela) loaded glucolipid-like conjugates
+ (CSOSA/Cela) with alphavbeta3-ligand Tetraiodothyroacetic acid (TET)
+ modification (TET-CSOSA/Cela) were established to block nuclear factor-kappa
+ B (NF-kappaB) signaling pathway. The distribution of TET-CSOSA was remarkably
+ increased in lung metastasis and primary tumor of 4T1 tumor-bearing mice by
+ means of alphavbeta3 receptor-mediated interaction. The results demonstrated
+ that TET-CSOSA/Cela significantly suppressed Bcl-2 activation of lung
+ metastatic cells and reduced MMP-9 expression of 4T1 breast tumor cells by
+ blocking NF-kappaB. The inhibitory rates of TET-CSOSA/Cela against lung
+ metastasis and primary tumor were raised to 90.72 and 81.15%, compared to
+ those of Celastrol (72.15 and 46.40%), respectively. All results demonstrated
+ the alphavbeta3 receptor targeted TET-CSOSA/Cela micelles exhibited great
+ potential in treating lung metastasis and primary tumor simultaneously via
+ blocking NF-kappaB signaling pathway.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Integrin alphaVbeta3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Micelles"
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neoplasm Metastasis",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Thyroxine",
+        qual {
+          {
+            subh "analogs & derivatives"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Triterpenes",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Integrin alphaVbeta3"
+      },
+      {
+        type nameonly,
+        name "Micelles"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Triterpenes"
+      },
+      {
+        type cas,
+        cit "L8GG98663L",
+        name "tripterine"
+      },
+      {
+        type cas,
+        cit "PA7UX1FFYQ",
+        name "tetraiodothyroacetic acid"
+      },
+      {
+        type cas,
+        cit "Q51BO43MG4",
+        name "Thyroxine"
+      }
+    },
+    pmid 29355035,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

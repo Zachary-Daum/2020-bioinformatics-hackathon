@@ -1,0 +1,230 @@
+
+Pubmed-entry ::= {
+  pmid 29177993,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Classification of hospital admissions into emergency and
+ elective care: a machine learning approach."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kramer J",
+            affil str "Hamburg Center for Health Economics, Universitat
+ Hamburg, Esplanade 36, 20354, Hamburg, Germany."
+          },
+          {
+            name ml "Schreyogg J",
+            affil str "Hamburg Center for Health Economics, Universitat
+ Hamburg, Esplanade 36, 20354, Hamburg, Germany.
+ jonas.schreyoegg@wiso.uni-hamburg.de."
+          },
+          {
+            name ml "Busse R",
+            affil str "Department of Healthcare Management, Technische
+ Universitat Berlin, 10623, Berlin, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Health Care Manag Sci",
+          ml-jta "Health Care Manag Sci",
+          issn "1386-9620",
+          name "Health care management science"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3
+          },
+          volume "22",
+          issue "1",
+          pages "85-105",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29177993,
+        doi "10.1007/s10729-017-9423-5",
+        pii "10.1007/s10729-017-9423-5",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10729-017-9423-5"
+        }
+      }
+    },
+    abstract "Rising admissions from emergency departments (EDs) to hospitals
+ are a primary concern for many healthcare systems. The issue of how to
+ differentiate urgent admissions from non-urgent or even elective admissions
+ is crucial. We aim to develop a model for classifying inpatient admissions
+ based on a patient's primary diagnosis as either emergency care or elective
+ care and predicting urgency as a numerical value. We use supervised machine
+ learning techniques and train the model with physician-expert judgments. Our
+ model is accurate (96%) and has a high area under the ROC curve (>.99). We
+ provide the first comprehensive classification and urgency categorization for
+ inpatient emergency and elective care. This model assigns urgency values to
+ every relevant diagnosis in the ICD catalog, and these values are easily
+ applicable to existing hospital data. Our findings may provide a basis for
+ policy makers to create incentives for hospitals to reduce the number of
+ inappropriate ED admissions.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Age Factors"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Algorithms"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Elective Surgical Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "classification"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Emergency Medical Services",
+        qual {
+          {
+            mp TRUE,
+            subh "classification"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Emergency Service, Hospital",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Hospitalization",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        mp TRUE,
+        term "Machine Learning"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Patient Admission",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29177993,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

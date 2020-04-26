@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 28457044,
+  medent {
+    em std {
+      year 2017,
+      month 5,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Paraneoplastic Dermatomyositis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Moses IC",
+            affil str "Professor of Medicine."
+          },
+          {
+            name ml "Muruganandham VU",
+            affil str "Assistant Professor."
+          },
+          {
+            name ml "Manshur PS",
+            affil str "Assistant Professor."
+          },
+          {
+            name ml "Sreeraj P",
+            affil str "Postgraduate, Department of General Medicine,
+ Coimbatore Medical College Hospital, Coimbatore, Tamil Nadu."
+          },
+          {
+            name ml "Anandaraj J",
+            affil str "Postgraduate, Department of General Medicine,
+ Coimbatore Medical College Hospital, Coimbatore, Tamil Nadu."
+          },
+          {
+            name ml "Ananthi M",
+            affil str "Postgraduate, Department of General Medicine,
+ Coimbatore Medical College Hospital, Coimbatore, Tamil Nadu."
+          },
+          {
+            name ml "Jagadeesan",
+            affil str "Postgraduate, Department of General Medicine,
+ Coimbatore Medical College Hospital, Coimbatore, Tamil Nadu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Assoc Physicians India",
+          ml-jta "J Assoc Physicians India",
+          issn "0004-5772",
+          name "The Journal of the Association of Physicians of India"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2
+          },
+          volume "65",
+          issue "2",
+          pages "89-90",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 5,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 5,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28457044
+      }
+    },
+    abstract "Dermatomyositis and its association with malignancy is well
+ known. Though many tumors like breast, ovary, lung carcinomas are reported to
+ be associated with it, cervical carcinoma is a very rare one. Tumors in these
+ patients are usually unmasked by abnormal findings in the medical history and
+ physical examination. Here we report case of a postmenopausal female who
+ presented with subacute onset of weakness of all four limbs. Treatment of the
+ underlying tumor relieved the symptoms of dermatomyositis in our patient.",
+    mesh {
+      {
+        term "Carcinoma, Squamous Cell",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Dermatomyositis",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Muscle Weakness",
+        qual {
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Paraneoplastic Syndromes",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Uterine Cervical Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnosis"
+          }
+        }
+      }
+    },
+    pmid 28457044,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

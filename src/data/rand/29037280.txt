@@ -1,0 +1,196 @@
+
+Pubmed-entry ::= {
+  pmid 29037280,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Screening of Chemical Dyes in Traditional Chinese Medicine by
+ HPTLC-MS."
+      },
+      authors {
+        names std {
+          {
+            name ml "He F",
+            affil str "National Institutes for Food and Drug Control, Beijing
+ 100050, China."
+          },
+          {
+            name ml "He Y",
+            affil str "National Institutes for Food and Drug Control, Beijing
+ 100050, China."
+          },
+          {
+            name ml "Zheng X",
+            affil str "National Institutes for Food and Drug Control, Beijing
+ 100050, China."
+          },
+          {
+            name ml "Wang R",
+            affil str "National Institutes for Food and Drug Control, Beijing
+ 100050, China; Shanxi University of Chinese Medicine, Taiyuan 030619, China."
+          },
+          {
+            name ml "Lu J",
+            affil str "National Institutes for Food and Drug Control, Beijing
+ 100050, China."
+          },
+          {
+            name ml "Dai Z",
+            affil str "National Institutes for Food and Drug Control, Beijing
+ 100050, China."
+          },
+          {
+            name ml "Ma S",
+            affil str "National Institutes for Food and Drug Control, Beijing
+ 100050, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J AOAC Int",
+          ml-jta "J AOAC Int",
+          issn "1944-7922",
+          name "Journal of AOAC International"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 1
+          },
+          volume "101",
+          issue "3",
+          pages "686-694",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29037280,
+        doi "10.5740/jaoacint.17-0298",
+        other {
+          db "ELocationID doi",
+          tag str "10.5740/jaoacint.17-0298"
+        }
+      }
+    },
+    abstract "It has been uncovered that chemical dyes are illegally used in
+ traditional Chinese medicines to brighten color and cover up inferiority,
+ which threaten the safety of patients. In the present study, an HPTLC-MS
+ method was developed for the effective screening of 11 chemical dyes (Sudan
+ I, II, III, and IV; 808 Scarlet; Sudan Red 7B; malachite green; Basic Orange
+ 2; auramine; Orange II; and erythrosine) in traditional Chinese medicine
+ (TCM) raw materials and Chinese patent medicines. Firstly, unwashed HPTLC
+ plates were chosen by comparing the background signals of the TLC plates used
+ directly and prewashed with analytical grade and HPLC grade solvents. Twice
+ developments were conducted to isolate chemical dyes of different polarity.
+ Possible adulterants were preliminarily identified by comparing Rf values and
+ in situ UV-Vis spectra with those of the references. Further confirmation was
+ conducted by tandem MS analysis via an elution head-based TLC-MS interface.
+ Sudan I and IV, 808 Scarlet, and Orange II were successfully detected in
+ eight batches of TCM. The proposed method could be applied as a reliable
+ technology for the screening of chemical dyes in TCM.",
+    mesh {
+      {
+        term "Chromatography, Thin Layer",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Drug Contamination"
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Fluorescent Dyes",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Limit of Detection"
+      },
+      {
+        term "Mass Spectrometry",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "Fluorescent Dyes"
+      }
+    },
+    pmid 29037280,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

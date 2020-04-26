@@ -1,0 +1,185 @@
+
+Pubmed-entry ::= {
+  pmid 29325237,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Neuroleptic Malignant Syndrome: Diagnosis and Management."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ware MR",
+            affil str "Department of Psychiatry, University of Florida,
+ Gainesville, Florida, USA.; Department of Community Health and Family
+ Medicine, University of Florida, Gainesville, Florida, USA."
+          },
+          {
+            name ml "Feller DB",
+            affil str "Department of Community Health and Family Medicine,
+ University of Florida, Gainesville, Florida, USA."
+          },
+          {
+            name ml "Hall KL",
+            affil str "Department of Community Health and Family Medicine,
+ 1707 N Main St, Gainesville, FL 32609. hall@ufl.edu.; Department of Community
+ Health and Family Medicine, University of Florida, Gainesville, Florida, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Prim Care Companion CNS Disord",
+          ml-jta "Prim Care Companion CNS Disord",
+          issn "2155-7780",
+          name "The primary care companion for CNS disorders"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 4
+          },
+          volume "20",
+          issue "1",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 10
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29325237,
+        doi "10.4088/PCC.17r02185",
+        other {
+          db "ELocationID doi",
+          tag str "10.4088/PCC.17r02185"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "17r02185"
+        }
+      }
+    },
+    abstract "Objective: To provide an overview of neuroleptic malignant
+ syndrome (NMS) for the general practitioner with the most up-to-date
+ information on etiology, workup, and management. Data Sources: The search
+ using PubMed included articles with the key words neuroleptic malignant
+ syndrome, antipsychotics, neuroleptics, diagnosis, and treatment of
+ neuroleptic malignant syndrome published in English from January 2000 to
+ 2017. Single-case reports and articles dealing with the pediatric patient
+ population were excluded. Study Selection: Over 4,000 articles met the search
+ criteria. After eliminating single-case reports, pediatric cases, reports in
+ pregnant patients, and duplicates, 87 articles underwent screening. Forty-two
+ articles were included in this review. Results: The literature is rich with
+ cases of NMS associated with the use of neuroleptics and various medications
+ with neuroleptic-like effects. Questions remain with regard to
+ pathophysiology and optimal treatment. NMS is a rare but potentially lethal
+ consequence of the use of antipsychotic medications that requires familiarity
+ with the condition in order to rapidly recognize its onset and appropriately
+ intervene. Conclusions: NMS mortality rates have declined over the past 30
+ years, most likely due to early recognition of the syndrome and appropriate
+ intervention. Nonetheless, clinicians, especially primary care clinicians who
+ are using this class of drugs more often for adjunctive treatments, must be
+ cognizant of this syndrome and the implications of their use..",
+    mesh {
+      {
+        term "Dopamine Agents",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neuroleptic Malignant Syndrome",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Dopamine Agents"
+      }
+    },
+    pmid 29325237,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

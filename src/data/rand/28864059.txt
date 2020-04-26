@@ -1,0 +1,324 @@
+
+Pubmed-entry ::= {
+  pmid 28864059,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Role of omentin 1 and IL-6 in type 2 diabetes mellitus patients
+ with diabetic nephropathy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Senthilkumar GP",
+            affil str "Department of Biochemistry, Jawaharlal Institute of
+ Postgraduate Medical Education and Research, Puducherry-605006, India.
+ Electronic address: biosenthilkumar@gmail.com."
+          },
+          {
+            name ml "Anithalekshmi MS",
+            affil str "Department of Biochemistry, Jawaharlal Institute of
+ Postgraduate Medical Education and Research, Puducherry-605006, India."
+          },
+          {
+            name ml "Yasir M",
+            affil str "Department of Biochemistry, Jawaharlal Institute of
+ Postgraduate Medical Education and Research, Puducherry-605006, India."
+          },
+          {
+            name ml "Parameswaran S",
+            affil str "Department of Nephrology, Jawaharlal Institute of
+ Postgraduate Medical Education and Research, Puducherry-605006, India."
+          },
+          {
+            name ml "Packirisamy RM",
+            affil str "Department of Biochemistry, Jawaharlal Institute of
+ Postgraduate Medical Education and Research, Puducherry-605006, India."
+          },
+          {
+            name ml "Bobby Z",
+            affil str "Department of Biochemistry, Jawaharlal Institute of
+ Postgraduate Medical Education and Research, Puducherry-605006, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Diabetes Metab Syndr",
+          ml-jta "Diabetes Metab Syndr",
+          issn "1878-0334",
+          name "Diabetes & metabolic syndrome"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "12",
+          issue "1",
+          pages "23-26",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28864059,
+        pii "S1871-4021(17)30270-9",
+        doi "10.1016/j.dsx.2017.08.005",
+        other {
+          db "ELocationID pii",
+          tag str "S1871-4021(17)30270-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.dsx.2017.08.005"
+        }
+      }
+    },
+    abstract "AIMS: Diabetic nephropathy (DN) is one of the major chronic
+ vascular complication of T2DM and leading cause of end-stage renal disease.
+ Inflammation is one of the proposed pathway which explains microvascular
+ complications in T2DM but exact mechanism is still unclear. Omentin-1 is an
+ anti-in fl ammatory adipokine which promotes insulin signaling. IL-6 is a
+ multifunctional cytokine having role in immune and inflammatory responses.
+ The present study was conducted to elucidate the role of omentin-1 and IL-6
+ in the pathogenesis of DN and its association with insulin resistance. We
+ aimed to assess and compare the serum levels of omentin-1 and IL-6 in T2DM
+ patients with and without DN. MATERIALS & METHODS: Our study comprised of 2
+ groups of 41 each. Group A (controls) included T2DM without nephropathy
+ patients and group B (cases) included T2DM nephropathy patients. Parameters
+ studied were serum omentin-1, insulin, IL-6, fasting blood glucose, urea,
+ creatinine, lipid profile, HOMA-IR, eGFR and BMI. RESULTS & CONCLUSION:
+ Omentin-1 (p=0.03) was significantly decreased; concomitantly, significant
+ increase in levels of insulin (p=0.004), IL-6 (p=0.023) and HOMA-IR
+ (p=0.0004) were found in cases compared to controls. Bivariate analysis
+ showed eGFR correlating positively with omentin-1 and negatively with insulin
+ in the study population. Our study results, based on serum omentin-1 and IL-6
+ data suggest important role played by inflammatory mechanism and insulin
+ resistance in the pathogenesis of diabetic nephropathy in type 2 diabetes
+ mellitus patients.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Biomarkers",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Blood Glucose",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Diabetes Mellitus, Type 2",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Diabetic Nephropathies",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "GPI-Linked Proteins",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Glomerular Filtration Rate"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Insulin",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Insulin Resistance"
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Lectins",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers"
+      },
+      {
+        type nameonly,
+        name "Blood Glucose"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "GPI-Linked Proteins"
+      },
+      {
+        type nameonly,
+        name "IL6 protein, human"
+      },
+      {
+        type nameonly,
+        name "ITLN1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Insulin"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lectins"
+      }
+    },
+    pmid 28864059,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

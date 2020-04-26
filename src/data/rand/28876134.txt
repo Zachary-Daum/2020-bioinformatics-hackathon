@@ -1,0 +1,170 @@
+
+Pubmed-entry ::= {
+  pmid 28876134,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Investigating predictive power of agency and communion for
+ interprofessional learner outcomes: A before-after study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kerry MJ",
+            affil str "a Department of Management , Technology, &
+ Economics-ETH Zurich , Zurich , Switzerland."
+          },
+          {
+            name ml "Heimberg E",
+            affil str "b Department of Paediatric Cardiology, Pulmonology and
+ Paediatric Intensive Medicine , Tubingen University Children's Hospital ,
+ Tubingen , Germany."
+          },
+          {
+            name ml "Schmutz JB",
+            affil str "a Department of Management , Technology, &
+ Economics-ETH Zurich , Zurich , Switzerland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Interprof Care",
+          ml-jta "J Interprof Care",
+          issn "1469-9567",
+          name "Journal of interprofessional care"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "31",
+          issue "6",
+          pages "789-792",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28876134,
+        doi "10.1080/13561820.2017.1325352",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/13561820.2017.1325352"
+        }
+      }
+    },
+    abstract "As interprofessional education (IPE) continues to be instituted,
+ much attention has been paid to training-intervention effectiveness. Less
+ attention has been paid to the selection side of the IPE model; however,
+ efficient delivery is necessary to sustain the development of IPE. This short
+ report investigates the ""two big social cognitions"" (agency and communion)
+ as individual-difference predictors of attitude change and knowledge
+ acquisition. A 3-week before-after observational design with survey
+ methodology was conducted in a pre-licensure IPE setting (n = 82). Results
+ indicated significant interactions of agency and communion in predicting
+ learner outcomes. Our findings should stimulate future IPE researchers to
+ identify additional, selection-relevant design factors (e.g., individual
+ differences) that may enhance comparative-effectiveness of IPE.",
+    mesh {
+      {
+        term "Attitude of Health Personnel"
+      },
+      {
+        term "Controlled Before-After Studies"
+      },
+      {
+        mp TRUE,
+        term "Cooperative Behavior"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Interprofessional Relations"
+      },
+      {
+        term "Knowledge"
+      },
+      {
+        term "Learning"
+      },
+      {
+        term "Models, Educational"
+      },
+      {
+        mp TRUE,
+        term "Models, Psychological"
+      },
+      {
+        term "Patient Care Team"
+      },
+      {
+        term "Students, Medical",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Students, Nursing",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      }
+    },
+    pmid 28876134,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

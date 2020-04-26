@@ -1,0 +1,270 @@
+
+Pubmed-entry ::= {
+  pmid 29346571,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Natural Course of Human T-Cell Leukemia Virus Type 1 Proviral
+ DNA Levels in Carriers During Pregnancy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fuchi N",
+            affil str "Department of Obstetrics and Gynecology, Nagasaki
+ University Graduate School of Biomedical Sciences."
+          },
+          {
+            name ml "Miura K",
+            affil str "Department of Obstetrics and Gynecology, Nagasaki
+ University Graduate School of Biomedical Sciences."
+          },
+          {
+            name ml "Tsukiyama T",
+            affil str "Department of Obstetrics and Gynecology, Nagasaki
+ University Graduate School of Biomedical Sciences."
+          },
+          {
+            name ml "Sasaki D",
+            affil str "Department of Laboratory Medicine, Nagasaki University
+ Hospital, Japan."
+          },
+          {
+            name ml "Ishihara K",
+            affil str "Department of Laboratory Medicine, Nagasaki University
+ Hospital, Japan."
+          },
+          {
+            name ml "Tsuruda K",
+            affil str "Department of Laboratory Medicine, Nagasaki University
+ Hospital, Japan."
+          },
+          {
+            name ml "Hasegawa H",
+            affil str "Department of Laboratory Medicine, Nagasaki University
+ Hospital, Japan."
+          },
+          {
+            name ml "Miura S",
+            affil str "Department of Obstetrics and Gynecology, Nagasaki
+ University Graduate School of Biomedical Sciences."
+          },
+          {
+            name ml "Yanagihara K",
+            affil str "Department of Laboratory Medicine, Nagasaki University
+ Hospital, Japan."
+          },
+          {
+            name ml "Masuzaki H",
+            affil str "Department of Obstetrics and Gynecology, Nagasaki
+ University Graduate School of Biomedical Sciences."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Infect. Dis.",
+          ml-jta "J Infect Dis",
+          issn "1537-6613",
+          name "The Journal of infectious diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 11
+          },
+          volume "217",
+          issue "9",
+          pages "1383-1389",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29346571,
+        pii "4810734",
+        doi "10.1093/infdis/jiy017",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/infdis/jiy017"
+        }
+      }
+    },
+    abstract "The measurement of human T-cell leukemia virus type 1 (HTLV-1)
+ proviral DNA levels by using polymerase chain reaction has been beneficial
+ for confirming HTLV-1 infection during pregnancy. However, the influence of
+ pregnancy on HTLV-1 infection and proviral DNA levels among pregnant women
+ with HTLV-1 has not been clarified. We prospectively gathered blood samples
+ from 36 pregnant women in whom HTLV-1 carriage was previously diagnosed and
+ sequentially measured their proviral DNA levels. The HTLV-1 proviral DNA
+ levels remained at a plateau during pregnancy but were elevated after
+ delivery. Moreover, flow cytometry and serological analyses revealed that the
+ regulatory T-cell population and soluble interleukin 2 receptor levels were
+ similarly elevated after birth in comparison with those in control pregnant
+ women. This study is the first to provide data on sequential changes in
+ HTLV-1 proviral DNA levels during and after pregnancy. These findings will
+ guide the establishment of a better program to prevent mother-to-child
+ transmission of HTLV-1.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Carrier State",
+        qual {
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "DNA, Viral",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "HTLV-I Infections",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Human T-lymphotropic virus 1",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infectious Disease Transmission, Vertical"
+      },
+      {
+        term "Parturition"
+      },
+      {
+        term "Polymerase Chain Reaction"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Pregnancy Complications, Infectious",
+        qual {
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Proviruses",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Viral Load"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "DNA, Viral"
+      }
+    },
+    pmid 29346571,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

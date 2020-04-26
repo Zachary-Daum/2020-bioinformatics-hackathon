@@ -1,0 +1,243 @@
+
+Pubmed-entry ::= {
+  pmid 29377901,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long-term effects of pancreas transplant alone on nephropathy in
+ type 1 diabetic patients with optimal renal function."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shin S",
+            affil str "Division of Kidney and Pancreas Transplantation,
+ Department of Surgery, Asan Medical Center, University of Ulsan College of
+ Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Jung CH",
+            affil str "Asan Diabetes Center, University of Ulsan College of
+ Medicine, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Choi JY",
+            affil str "Division of Kidney and Pancreas Transplantation,
+ Department of Surgery, Asan Medical Center, University of Ulsan College of
+ Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Kwon HW",
+            affil str "Division of Kidney and Pancreas Transplantation,
+ Department of Surgery, Asan Medical Center, University of Ulsan College of
+ Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Jung JH",
+            affil str "Division of Kidney and Pancreas Transplantation,
+ Department of Surgery, Asan Medical Center, University of Ulsan College of
+ Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Kim YH",
+            affil str "Division of Kidney and Pancreas Transplantation,
+ Department of Surgery, Asan Medical Center, University of Ulsan College of
+ Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Han DJ",
+            affil str "Division of Kidney and Pancreas Transplantation,
+ Department of Surgery, Asan Medical Center, University of Ulsan College of
+ Medicine, Seoul, Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 29
+          },
+          volume "13",
+          issue "1",
+          pages "e0191421",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 4
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29377901,
+        doi "10.1371/journal.pone.0191421",
+        pii "PONE-D-17-27451",
+        other {
+          db "pmc",
+          tag str "PMC5788334"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0191421"
+        }
+      }
+    },
+    abstract "BACKGROUND: Limited data are available regarding optimal
+ selection criteria for pancreas transplant alone (PTA) to minimize
+ aggravation of diabetic nephropathy. METHODS: A total of 87 type 1 diabetic
+ patients were evaluated before and after PTA at a single center from January,
+ 1999 to December, 2015, together with 87 matched non-transplanted type 1
+ diabetic subjects who were candidates for PTA to compare deterioration of
+ native kidney function. A total of 163 patients (79 in the transplanted group
+ and 84 in the nontransplanted group) were finally enrolled after excluding
+ nine patients with estimated glomerular filtration rate less than 60
+ mL/min/1.73 m2 and two patients with moderate proteinuria (>/= 1.5 g/day).
+ RESULTS: A total of seven recipients (8.9%) had end-stage renal disease
+ post-transplant whereas only one patient (1.2%) developed end-stage renal
+ disease in the nontransplanted group during their follow-up period (median
+ 12.0, range 6-96 months) (p = 0.03). Furthermore, a composite of severe renal
+ dysfunction and end-stage renal disease (31.6% vs 2.4%) was significantly
+ higher in the transplanted group (p < 0.001). Multivariate Cox regression
+ analysis revealed that a higher level of tacrolimus at six months
+ post-transplant (HR = 1.648, CI = 1.140-2.385, p = 0.008) was the only
+ significant factor associated with end-stage renal disease. CONCLUSIONS:
+ There is a considerable risk for deterioration of renal function in PTA
+ recipients post-transplant compared with non-transplant diabetic patients.
+ With rather strict selection criteria such as preoperative proteinuria and
+ estimated glomerular filtration rate, PTA should be considered in diabetic
+ patients to minimize post-transplant aggravation of diabetic nephropathy.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Diabetes Mellitus, Type 1",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Diabetic Nephropathies",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kidney",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Pancreas Transplantation"
+      },
+      {
+        term "Proteinuria",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    pmid 29377901,
+    pub-type {
+      "Journal Article",
+      "Observational Study"
+    },
+    status medline
+  }
+}
+
+

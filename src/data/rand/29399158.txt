@@ -1,0 +1,195 @@
+
+Pubmed-entry ::= {
+  pmid 29399158,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA-1 inhibits tumorigenicity of esophageal squamous cell
+ carcinoma and enhances sensitivity to gefitinib."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu Q",
+            affil str "Department of Oncology, First Affiliated Hospital of
+ Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "Department of Oncology, First Affiliated Hospital of
+ Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Wen C",
+            affil str "Department of Rehabilitation, Huai'an Second People's
+ Hospital and The Affiliated Huai'an Hospital of Xuzhou Medical University,
+ Huai'an, Jiangsu 223002, P.R. China."
+          },
+          {
+            name ml "Zhao Y",
+            affil str "Department of Oncology, First Affiliated Hospital of
+ Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Jin S",
+            affil str "Department of Oncology, First Affiliated Hospital of
+ Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Hu Y",
+            affil str "Department of Oncology, First Affiliated Hospital of
+ Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Wang F",
+            affil str "Department of Oncology, First Affiliated Hospital of
+ Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Chen L",
+            affil str "Department of Cardiothoracic Surgery, First Affiliated
+ Hospital of Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Zhang B",
+            affil str "Department of Cardiothoracic Surgery, First Affiliated
+ Hospital of Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Wang W",
+            affil str "Department of Cardiothoracic Surgery, First Affiliated
+ Hospital of Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Zhu Q",
+            affil str "Department of Cardiothoracic Surgery, First Affiliated
+ Hospital of Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          },
+          {
+            name ml "Guo R",
+            affil str "Department of Oncology, First Affiliated Hospital of
+ Nanjing Medical University, Nanjing, Jiangsu 210029, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncol Lett",
+          ml-jta "Oncol Lett",
+          issn "1792-1074",
+          name "Oncology letters"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "15",
+          issue "1",
+          pages "963-971",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 4,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 6,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29399158,
+        doi "10.3892/ol.2017.7378",
+        pii "OL-0-0-7378",
+        other {
+          db "pmc",
+          tag str "PMC5772756"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3892/ol.2017.7378"
+        }
+      }
+    },
+    abstract "Dysregulation of microRNAs in various types of human cancer
+ promote or suppress oncogenesis. MicroRNA (miR)-1 was previously revealed to
+ function as a tumor suppressor in prostate cancer cells, and its expression
+ was associated with reduced metastatic potential in lung cancer. The present
+ study investigated the role of miR-1 and its association with
+ phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+ (PIK3CA) in the pathophysiology of esophageal squamous cell carcinoma (ESCC),
+ and analyzed the effects of miR-1 inhibitor or mimics on sensitivity to
+ epidermal growth factor receptor-tyrosine kinase inhibitors, the alterations
+ of cell cycle distribution and apoptosis in ESCC cells. Compared with normal
+ tissues, the level of miR-1 expression was significantly lower and PIK3CA
+ expression was higher in ESCC tissues. The level of miR-1 expression was also
+ inversely associated with the level of PIK3CA mRNA expression. Low miR-1 and
+ high PIK3CA expression levels were strongly associated with lymph node
+ metastasis, and the level of miR-1 expression was negatively associated with
+ clinical Tumor-Node-Metastasis stage. Furthermore, exogenous expression of
+ miR-1 inhibited growth, arrested cell cycle in the G1 phase and increased
+ apoptosis in ESCC cells, whereas it decreased PIK3CA protein expression
+ levels. Furthermore, overexpression of miR-1 increased the sensitivity of
+ ESCC cells to the anticancer drug, gefitinib. A possible mechanism for this
+ increased sensitivity to gefitinib may be inactivation of the PIK3CA
+ signaling pathway. To the best of our knowledge, this is the first time that
+ the results of the present study demonstrated that miR-1 upregulation may be
+ a potential strategy for the treatment of human ESCC.",
+    pmid 29399158,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

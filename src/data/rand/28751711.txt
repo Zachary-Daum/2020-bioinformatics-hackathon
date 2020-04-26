@@ -1,0 +1,275 @@
+
+Pubmed-entry ::= {
+  pmid 28751711,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Evidence linking microRNA suppression of essential prosurvival
+ genes with hippocampal cell death after traumatic brain injury."
+      },
+      authors {
+        names std {
+          {
+            name ml "Boone DK",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Weisz HA",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Bi M",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Falduto MT",
+            affil str "Genus Biosystems, Inc., Northbrook, Illinois, USA."
+          },
+          {
+            name ml "Torres KEO",
+            affil str "Genus Biosystems, Inc., Northbrook, Illinois, USA."
+          },
+          {
+            name ml "Willey HE",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Volsko CM",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Kumar AM",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Micci MA",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Dewitt DS",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Prough DS",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA."
+          },
+          {
+            name ml "Hellmich HL",
+            affil str "Department of Anesthesiology, University of Texas
+ Medical Branch, Galveston, Texas, USA. hhellmic@utmb.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 27
+          },
+          volume "7",
+          issue "1",
+          pages "6645",
+          language "eng",
+          retract {
+            type in-error,
+            exp "Sci Rep. 2018 Oct 8;8(1):14994. PMID: 30297835"
+          },
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 13
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28751711,
+        doi "10.1038/s41598-017-06341-6",
+        pii "10.1038/s41598-017-06341-6",
+        other {
+          db "pmc",
+          tag str "PMC5532254"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-017-06341-6"
+        }
+      }
+    },
+    abstract "The underlying molecular mechanisms of how dysregulated
+ microRNAs (miRNAs) cause neurodegeneration after traumatic brain injury (TBI)
+ remain elusive. Here we analyzed the biological roles of approximately 600
+ genes - we previously found these dysregulated in dying and surviving rat
+ hippocampal neurons - that are targeted by ten TBI-altered miRNAs.
+ Bioinformatic analysis suggests that neurodegeneration results from a global
+ miRNA-mediated suppression of genes essential for maintaining proteostasis;
+ many are hub genes - involved in RNA processing, cytoskeletal metabolism,
+ intracellular trafficking, cell cycle progression, repair/maintenance,
+ bioenergetics and cell-cell signaling - whose disrupted expression is linked
+ to human disease. Notably, dysregulation of these essential genes would
+ significantly impair synaptic function and functional brain connectivity. In
+ surviving neurons, upregulated miRNA target genes are co-regulated members of
+ prosurvival pathways associated with cellular regeneration, neural
+ plasticity, and development. This study captures the diversity of
+ miRNA-regulated genes that may be essential for cell repair and survival
+ responses after TBI.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Brain Injuries, Traumatic",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cell Death"
+      },
+      {
+        term "Cell Survival"
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Hippocampus",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neurodegenerative Diseases",
+        qual {
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Neuronal Plasticity"
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Proteostasis Deficiencies",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      }
+    },
+    idnum {
+      "R01 NS052532/NS/NINDS NIH HHS"
+    },
+    pmid 28751711,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

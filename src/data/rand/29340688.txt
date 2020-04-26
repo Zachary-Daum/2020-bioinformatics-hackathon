@@ -1,0 +1,120 @@
+
+Pubmed-entry ::= {
+  pmid 29340688,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Counting Calories as an Approach to Achieve Weight Control."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guth E",
+            affil str "Jesse Brown Veterans Affairs Medical Center, Chicago,
+ Illinois."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "JAMA",
+          ml-jta "JAMA",
+          issn "1538-3598",
+          name "JAMA"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 16
+          },
+          volume "319",
+          issue "3",
+          pages "225-226",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29340688,
+        pii "2669738",
+        doi "10.1001/jama.2017.21355",
+        other {
+          db "ELocationID doi",
+          tag str "10.1001/jama.2017.21355"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Diet, Reducing"
+      },
+      {
+        mp TRUE,
+        term "Energy Intake"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Nutritive Value"
+      },
+      {
+        term "Overweight",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      }
+    },
+    pmid 29340688,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

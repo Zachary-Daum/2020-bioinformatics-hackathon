@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 29286486,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Whole-body PET/MRI of Pediatric Patients: The Details That
+ Matter."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pareek A",
+            affil str "Department of Radiology, Pediatric Molecular Imaging
+ Program at Stanford (PEDS-MIPS), Stanford University."
+          },
+          {
+            name ml "Muehe AM",
+            affil str "Department of Radiology, Pediatric Molecular Imaging
+ Program at Stanford (PEDS-MIPS), Stanford University."
+          },
+          {
+            name ml "Theruvath AJ",
+            affil str "Department of Radiology, Pediatric Molecular Imaging
+ Program at Stanford (PEDS-MIPS), Stanford University."
+          },
+          {
+            name ml "Gulaka PK",
+            affil str "Department of Radiology, Pediatric Molecular Imaging
+ Program at Stanford (PEDS-MIPS), Stanford University."
+          },
+          {
+            name ml "Spunt SL",
+            affil str "Department of Pediatrics, Stanford University."
+          },
+          {
+            name ml "Daldrup-Link HE",
+            affil str "Department of Radiology, Pediatric Molecular Imaging
+ Program at Stanford (PEDS-MIPS), Stanford University; heiked@stanford.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Vis Exp",
+          ml-jta "J Vis Exp",
+          issn "1940-087X",
+          name "Journal of visualized experiments : JoVE"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12,
+            day 19
+          },
+          issue "130",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29286486,
+        doi "10.3791/57128",
+        other {
+          db "pmc",
+          tag str "PMC5755621"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS935154"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3791/57128"
+        }
+      }
+    },
+    abstract "Integrated PET/MRI is a hybrid imaging technique enabling
+ clinicians to acquire diagnostic images for tumor assessment and treatment
+ monitoring with both high soft tissue contrast and added metabolic
+ information. Integrated PET/MRI has shown to be valuable in the clinical
+ setting and has many promising future applications. The protocol presented
+ here will provide step-by-step instructions for the acquisition of whole-body
+ 2-deoxy-2-((18)F)fluoro-D-glucose ((18)F-FDG) PET/MRI data in children with
+ cancer. It also provides instructions on how to combine a whole-body staging
+ scan with a local tumor scan for evaluation of the primary tumor. The focus
+ of this protocol is to be both comprehensive and time-efficient, which are
+ two ubiquitous needs for clinical applications. This protocol was originally
+ developed for children above 6 years, or old enough to comply with
+ breath-hold instructions, but can also be applied to patients under general
+ anesthesia. Similarly, this protocol can be modified to fit institutional
+ preferences in terms of choice of MRI pulse sequences for both the whole-body
+ scan and local tumor assessment.",
+    mesh {
+      {
+        term "Child"
+      },
+      {
+        term "Fluorodeoxyglucose F18"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Magnetic Resonance Imaging",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Multimodal Imaging",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Positron-Emission Tomography",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Radiopharmaceuticals"
+      },
+      {
+        term "Sarcoma",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Tumor Stem Cell Assay"
+      },
+      {
+        term "Whole Body Imaging",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Radiopharmaceuticals"
+      },
+      {
+        type cas,
+        cit "0Z5B2CJX4D",
+        name "Fluorodeoxyglucose F18"
+      }
+    },
+    idnum {
+      "R01 HD081123/HD/NICHD NIH HHS"
+    },
+    pmid 29286486,
+    pub-type {
+      "Case Reports",
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Video-Audio Media"
+    },
+    status medline
+  }
+}
+
+

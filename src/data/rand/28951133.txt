@@ -1,0 +1,185 @@
+
+Pubmed-entry ::= {
+  pmid 28951133,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Nitrous oxide from integrated fixed-film activated sludge
+ membrane bioreactor: Assessing the influence of operational variables."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mannina G",
+            affil str "Dipartimento di Ingegneria Civile, Ambientale,
+ Aerospaziale, dei Materiali, Universita di Palermo, Viale delle Scienze, Ed.
+ 8, 90100 Palermo, Italy."
+          },
+          {
+            name ml "Capodici M",
+            affil str "Dipartimento di Ingegneria Civile, Ambientale,
+ Aerospaziale, dei Materiali, Universita di Palermo, Viale delle Scienze, Ed.
+ 8, 90100 Palermo, Italy."
+          },
+          {
+            name ml "Cosenza A",
+            affil str "Dipartimento di Ingegneria Civile, Ambientale,
+ Aerospaziale, dei Materiali, Universita di Palermo, Viale delle Scienze, Ed.
+ 8, 90100 Palermo, Italy."
+          },
+          {
+            name ml "Di Trapani D",
+            affil str "Dipartimento di Ingegneria Civile, Ambientale,
+ Aerospaziale, dei Materiali, Universita di Palermo, Viale delle Scienze, Ed.
+ 8, 90100 Palermo, Italy. Electronic address: daniele.ditrapani@unipa.it."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Bioresour. Technol.",
+          ml-jta "Bioresour Technol",
+          issn "1873-2976",
+          name "Bioresource technology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "247",
+          pages "1221-1227",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28951133,
+        pii "S0960-8524(17)31648-6",
+        doi "10.1016/j.biortech.2017.09.083",
+        other {
+          db "ELocationID pii",
+          tag str "S0960-8524(17)31648-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biortech.2017.09.083"
+        }
+      }
+    },
+    abstract "The influence of the main operational variables on N2O emissions
+ from an Integrated Fixed Film Activated Sludge University of Cape Town
+ membrane Bioreactor pilot plant was studied. Nine operational cycles (total
+ duration: 340days) were investigated by varying the value of the mixed liquor
+ sludge retention time (SRT) (Cycles 1-3), the feeding ratio between carbon
+ and nitrogen (C/N) (Cycles 4-6) and simultaneously the hydraulic retention
+ time (HRT) and the SRT (Cycles 7-9). Results show a huge variability of the
+ N2O concentration in liquid and off-gas samples (ranged from
+ 10(-1)mugN2O-NL(-1) to 10(3)mugN2O-NL(-1)). The maximum N2O concentration
+ (1228mugN2O-NL(-1)) in the off-gas samples occurred in the anoxic reactor at
+ the lowest C/N value confirming that unbalanced C/N promotes the N2O emission
+ during denitrification. The aerated reactors (aerobic and MBR) have been the
+ major N2O emitters during all the three Phases.",
+    mesh {
+      {
+        mp TRUE,
+        term "Bioreactors"
+      },
+      {
+        term "Denitrification"
+      },
+      {
+        mp TRUE,
+        term "Nitrous Oxide"
+      },
+      {
+        mp TRUE,
+        term "Sewage"
+      },
+      {
+        term "Waste Disposal, Fluid"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Sewage"
+      },
+      {
+        type cas,
+        cit "K50XQU1029",
+        name "Nitrous Oxide"
+      }
+    },
+    pmid 28951133,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

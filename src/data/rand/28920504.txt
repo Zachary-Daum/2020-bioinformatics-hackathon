@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 28920504,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Outpatient cervical ripening in a district general hospital: a
+ five-year retrospective cohort study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Barnfield L",
+            affil str "a Department of Obstetrics and Gynaecology , South
+ Wing, Bedford Hospital NHS Trust , Bedfordshire , UK."
+          },
+          {
+            name ml "Neale E",
+            affil str "a Department of Obstetrics and Gynaecology , South
+ Wing, Bedford Hospital NHS Trust , Bedfordshire , UK."
+          },
+          {
+            name ml "Reynolds S",
+            affil str "a Department of Obstetrics and Gynaecology , South
+ Wing, Bedford Hospital NHS Trust , Bedfordshire , UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Obstet Gynaecol",
+          ml-jta "J Obstet Gynaecol",
+          issn "1364-6893",
+          name "Journal of obstetrics and gynaecology : the journal of the
+ Institute of Obstetrics and Gynaecology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "38",
+          issue "3",
+          pages "301-304",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28920504,
+        doi "10.1080/01443615.2017.1346594",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/01443615.2017.1346594"
+        }
+      }
+    },
+    abstract "The number of women undergoing induction of labour has risen
+ steadily in recent years. Outpatient induction is becoming more common in the
+ UK in response to the required increase in resources, although evidence
+ supporting its safety is lacking. We reviewed the notes of low-risk women
+ presenting for outpatient cervical ripening using prostaglandins over a
+ five-year period, and compared our neonatal and maternal outcomes to local
+ and national data. Of the 502 eligible women, 400 underwent outpatient
+ treatment. Most women returned early, in labour. There were no foetal,
+ neonatal or maternal deaths, and our neonatal morbidity compared favourably
+ with local rates. Mode of delivery and major maternal complication rates were
+ comparable to national maternity indicators. We conclude that outpatient
+ cervical ripening following careful case selection does not appear to
+ increase neonatal or maternal mortality or morbidity. It offers patients an
+ alternative to traditional inpatient induction and may improve allocation of
+ hospital resources. Impact statement We present a retrospective cohort study
+ of neonatal and maternal outcomes in 502 women selected for outpatient
+ cervical ripening for postmaturity at Bedford Hospital over the five-year
+ period from 2010 to 2015. This study was conceived following a previous
+ publication in this journal from Bedford Hospital in 2002 by Neale et al.,
+ which described the outcomes of 100 women who underwent outpatient cervical
+ ripening. Our conclusions compare the results from the two studies. Out of
+ our combined sample of 602 women, 491 were discharged home following
+ administration of prostaglandins. This represents the largest sample size in
+ the published literature on outpatient induction of labour, which was first
+ undertaken in our unit in 1998 and is now widely practiced within the UK.
+ Several publications, including the 2013 Cochrane review by Kelly et al. and
+ a recent large survey of practice (Sharp et al. 2016 ) have highlighted the
+ paucity of available data regarding the safety of this procedure as an
+ outpatient. We therefore hope that the results of our study will be of
+ interest to many maternity units who currently undertake or are considering
+ to provide the facility for outpatient cervical ripening as a prelude to
+ induction of labour.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Cervical Ripening",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Delivery, Obstetric",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Dinoprostone",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hospitals, District"
+      },
+      {
+        term "Hospitals, General"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Infant Mortality"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Labor, Induced",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Outpatients"
+      },
+      {
+        term "Oxytocics",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Pregnancy Complications",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Pregnancy Outcome"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Oxytocics"
+      },
+      {
+        type cas,
+        cit "K7Q1JQR04M",
+        name "Dinoprostone"
+      }
+    },
+    pmid 28920504,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

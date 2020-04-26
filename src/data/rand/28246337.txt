@@ -1,0 +1,287 @@
+
+Pubmed-entry ::= {
+  pmid 28246337,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Diacylglycerol kinase epsilon deficiency preserves glucose
+ tolerance and modulates lipid metabolism in obese mice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Manneras-Holm L",
+            affil str "Section of Integrative Physiology, Department of
+ Molecular Medicine and Surgery and Department of Physiology and Pharmacology,
+ Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Schonke M",
+            affil str "Section of Integrative Physiology, Department of
+ Molecular Medicine and Surgery and Department of Physiology and Pharmacology,
+ Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Brozinick JT",
+            affil str "Lilly Research Laboratories, Eli Lilly and Company,
+ Indianapolis, IN."
+          },
+          {
+            name ml "Vetterli L",
+            affil str "Section of Integrative Physiology, Department of
+ Molecular Medicine and Surgery and Department of Physiology and Pharmacology,
+ Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Bui HH",
+            affil str "Lilly Research Laboratories, Eli Lilly and Company,
+ Indianapolis, IN."
+          },
+          {
+            name ml "Sanders P",
+            affil str "Lilly Research Laboratories, Eli Lilly and Company,
+ Indianapolis, IN."
+          },
+          {
+            name ml "Nascimento EBM",
+            affil str "Section of Integrative Physiology, Department of
+ Molecular Medicine and Surgery and Department of Physiology and Pharmacology,
+ Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Bjornholm M",
+            affil str "Section of Integrative Physiology, Department of
+ Molecular Medicine and Surgery and Department of Physiology and Pharmacology,
+ Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Chibalin AV",
+            affil str "Section of Integrative Physiology, Department of
+ Molecular Medicine and Surgery and Department of Physiology and Pharmacology,
+ Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Zierath JR",
+            affil str "Section of Integrative Physiology, Department of
+ Molecular Medicine and Surgery and Department of Physiology and Pharmacology,
+ Karolinska Institutet, Stockholm, Sweden Juleen.zierath@ki.se."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Lipid Res.",
+          ml-jta "J Lipid Res",
+          issn "1539-7262",
+          name "Journal of lipid research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "58",
+          issue "5",
+          pages "907-915",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 21
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 2,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28246337,
+        pii "jlr.M074443",
+        doi "10.1194/jlr.M074443",
+        other {
+          db "pmc",
+          tag str "PMC5408609"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1194/jlr.M074443"
+        }
+      }
+    },
+    abstract "Diacylglycerol kinases (DGKs) catalyze the phosphorylation and
+ conversion of diacylglycerol (DAG) into phosphatidic acid. DGK isozymes have
+ unique primary structures, expression patterns, subcellular localizations,
+ regulatory mechanisms, and DAG preferences. DGKepsilon has a hydrophobic
+ segment that promotes its attachment to membranes and shows substrate
+ specificity for DAG with an arachidonoyl acyl chain in the sn-2 position of
+ the substrate. We determined the role of DGKepsilon in the regulation of
+ energy and glucose homeostasis in relation to diet-induced insulin resistance
+ and obesity using DGKepsilon-KO and wild-type mice. Lipidomic analysis
+ revealed elevated unsaturated and saturated DAG species in skeletal muscle of
+ DGKepsilon KO mice, which was paradoxically associated with increased glucose
+ tolerance. Although skeletal muscle insulin sensitivity was unaltered,
+ whole-body respiratory exchange ratio was reduced, and abundance of
+ mitochondrial markers was increased, indicating a greater reliance on fat
+ oxidation and intracellular lipid metabolism in DGKepsilon KO mice. Thus, the
+ increased intracellular lipids in skeletal muscle from DGKepsilon KO mice may
+ undergo rapid turnover because of increased mitochondrial function and lipid
+ oxidation, rather than storage, which in turn may preserve insulin
+ sensitivity. In conclusion, DGKepsilon plays a role in glucose and energy
+ homeostasis by modulating lipid metabolism in skeletal muscle.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Body Composition"
+      },
+      {
+        term "Diacylglycerol Kinase",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Energy Metabolism"
+      },
+      {
+        term "Gene Knockout Techniques"
+      },
+      {
+        term "Glucose",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glucose Tolerance Test"
+      },
+      {
+        term "Homeostasis"
+      },
+      {
+        mp TRUE,
+        term "Lipid Metabolism"
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Obese"
+      },
+      {
+        term "Mitochondria",
+        qual {
+          {
+            subh "enzymology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Muscle, Skeletal",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxidation-Reduction"
+      }
+    },
+    substance {
+      {
+        type ec,
+        cit "2.7.1.107",
+        name "Diacylglycerol Kinase"
+      },
+      {
+        type cas,
+        cit "IY9XDZ35W2",
+        name "Glucose"
+      }
+    },
+    pmid 28246337,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,198 @@
+
+Pubmed-entry ::= {
+  pmid 27706477,
+  medent {
+    em std {
+      year 2016,
+      month 10,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Black and Hispanic Caregivers' Behaviors, Motivations, and
+ Barriers to Sun Protection in Children Aged 4 to 12 Years in Miami, Florida."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shah VV",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami Miller School of Medicine, Miami, Florida."
+          },
+          {
+            name ml "Jacobsen AA",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami Miller School of Medicine, Miami, Florida."
+          },
+          {
+            name ml "Mlacker S",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami Miller School of Medicine, Miami, Florida."
+          },
+          {
+            name ml "Aldahan AS",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami Miller School of Medicine, Miami, Florida."
+          },
+          {
+            name ml "Carcioppolo N",
+            affil str "Department of Communication Studies, University of
+ Miami, Coral Gables, Florida."
+          },
+          {
+            name ml "Bray FN",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami Miller School of Medicine, Miami, Florida."
+          },
+          {
+            name ml "Nouri K",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami Miller School of Medicine, Miami, Florida."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "JAMA Dermatol",
+          ml-jta "JAMA Dermatol",
+          issn "2168-6084",
+          name "JAMA dermatology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 1,
+            day 1
+          },
+          volume "153",
+          issue "1",
+          pages "97-99",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27706477,
+        pii "2565591",
+        doi "10.1001/jamadermatol.2016.3505",
+        other {
+          db "ELocationID doi",
+          tag str "10.1001/jamadermatol.2016.3505"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "African Americans"
+      },
+      {
+        term "Caregivers",
+        qual {
+          {
+            subh "psychology"
+          },
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Florida"
+      },
+      {
+        mp TRUE,
+        term "Health Knowledge, Attitudes, Practice"
+      },
+      {
+        mp TRUE,
+        term "Hispanic Americans"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Motivation"
+      },
+      {
+        term "Sunburn",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Sunscreening Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Sunscreening Agents"
+      }
+    },
+    pmid 27706477,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

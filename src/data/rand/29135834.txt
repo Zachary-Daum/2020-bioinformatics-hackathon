@@ -1,0 +1,175 @@
+
+Pubmed-entry ::= {
+  pmid 29135834,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Associations Between Fixed-Term Employment and Health and
+ Behaviors: What are the Mechanisms?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Zolnierczyk-Zreda D",
+            affil str "Department of Ergonomics, Central Institute for Labour
+ Protection - National Research Institute (Dr Zolnierczyk-Zreda); Institute of
+ Psychology, University of Social Sciences and Humanities (Dr Bedynska),
+ Warsaw, Poland."
+          },
+          {
+            name ml "Bedynska S"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Occup. Environ. Med.",
+          ml-jta "J Occup Environ Med",
+          issn "1536-5948",
+          name "Journal of occupational and environmental medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "60",
+          issue "3",
+          pages "273-278",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29135834,
+        doi "10.1097/JOM.0000000000001226",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/JOM.0000000000001226"
+        }
+      }
+    },
+    abstract "OBJECTIVE: To analyze the associations between fixed-term
+ employment and health (work ability and mental health) and behaviors
+ (engagement and performance). Psychological contract fulfilment (PCF) and
+ breach (PCB) are investigated as potential mediators of these associations.
+ METHODS: Seven hundred workers employed on fixed-term contracts from a broad
+ range of organizations participated in the study. The Structural Equation
+ Model was performed to analyze the data. RESULTS: Mediation analyses revealed
+ that good physical and mental health and productivity are more likely to be
+ achieved by those workers who perform non-manual work and (to some extent)
+ accept their contracts because they experience high levels of PCF and low
+ levels of PCB. CONCLUSIONS: Apart from the lack of physical workload,
+ psychological contract fulfilment has been revealed as yet another
+ significant mediator between a higher socioeconomic position and good health
+ and productivity of fixed-term workers.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Contracts"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Efficiency"
+      },
+      {
+        term "Employment",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Health Status"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Latent Class Analysis"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Mental Health"
+      },
+      {
+        term "Self Report"
+      },
+      {
+        term "Volition"
+      },
+      {
+        mp TRUE,
+        term "Work Engagement"
+      },
+      {
+        mp TRUE,
+        term "Work Performance"
+      }
+    },
+    pmid 29135834,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

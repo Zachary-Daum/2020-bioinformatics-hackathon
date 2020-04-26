@@ -1,0 +1,165 @@
+
+Pubmed-entry ::= {
+  pmid 28600862,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Augmentation of Water Resources Potential and Cropping
+ Intensification Through Watershed Programs."
+      },
+      authors {
+        names ml {
+          "Mondal B",
+          "Singh A",
+          "Singh SD",
+          "Kalra BS",
+          "Samal P",
+          "Sinha MK",
+          "Ramajayam D",
+          "Kumar S"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Water Environ. Res.",
+          ml-jta "Water Environ Res",
+          issn "1061-4303",
+          name "Water environment research : a research publication of the
+ Water Environment Federation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 1
+          },
+          volume "90",
+          issue "2",
+          pages "101-109",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28600862,
+        doi "10.2175/106143017X14902968254700",
+        other {
+          db "ELocationID doi",
+          tag str "10.2175/106143017X14902968254700"
+        }
+      }
+    },
+    abstract "  This paper presents the biophysical impact of various
+ interventions made under watershed development programs, in terms of the
+ creation of additional water resources, and resultant changes in land use and
+ cropping patterns in the Bundelkhand region of Madhya Pradesh State, India.
+ Both primary and secondary data gathered from randomly selected watersheds
+ and their corresponding control villages were used in this study. Analysis
+ revealed that emphasis was given primarily to the creation of water resources
+ potential during implementation of the programs, which led to augmentation of
+ surface and groundwater availability for both irrigation and non-agricultural
+ purposes. In addition, other land based interventions for soil and moisture
+ conservation, plantation activities, and so forth, were taken up on both
+ arable and nonarable land, which helped to improve land slope and land use,
+ cropping pattern, agricultural productivity, and vegetation cover.",
+    mesh {
+      {
+        term "Agriculture",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Conservation of Natural Resources",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "India"
+      },
+      {
+        term "Soil"
+      },
+      {
+        term "Water Resources",
+        qual {
+          {
+            mp TRUE,
+            subh "supply & distribution"
+          }
+        }
+      },
+      {
+        term "Water Supply",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Soil"
+      }
+    },
+    pmid 28600862,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

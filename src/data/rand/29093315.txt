@@ -1,0 +1,209 @@
+
+Pubmed-entry ::= {
+  pmid 29093315,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Detection and Serotyping of Dengue Viruses in Aedes aegypti and
+ Aedes albopictus (Diptera: Culicidae) Collected in Surabaya, Indonesia from
+ 2008 to 2015."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mulyatno KC",
+            affil str "Indonesia-Japan Collaborative Research Center for
+ Emerging and Re-emerging Infectious Diseases, Institute of Tropical Disease,
+ Airlangga University.; Institute of Tropical Disease, Airlangga University."
+          },
+          {
+            name ml "Kotaki T",
+            affil str "Indonesia-Japan Collaborative Research Center for
+ Emerging and Re-emerging Infectious Diseases, Institute of Tropical Disease,
+ Airlangga University.; Center of Infectious Diseases, Kobe University
+ Graduate School of Medicine.; Department of International Health, Kobe
+ University Graduate School of Health Sciences."
+          },
+          {
+            name ml "Yotopranoto S",
+            affil str "Institute of Tropical Disease, Airlangga University.;
+ Faculty of Medicine, Airlangga University."
+          },
+          {
+            name ml "Rohmah EA",
+            affil str "Institute of Tropical Disease, Airlangga University."
+          },
+          {
+            name ml "Churotin S",
+            affil str "Indonesia-Japan Collaborative Research Center for
+ Emerging and Re-emerging Infectious Diseases, Institute of Tropical Disease,
+ Airlangga University.; Institute of Tropical Disease, Airlangga University."
+          },
+          {
+            name ml "Sucipto TH",
+            affil str "Indonesia-Japan Collaborative Research Center for
+ Emerging and Re-emerging Infectious Diseases, Institute of Tropical Disease,
+ Airlangga University.; Institute of Tropical Disease, Airlangga University."
+          },
+          {
+            name ml "Amarullah IH",
+            affil str "Institute of Tropical Disease, Airlangga University."
+          },
+          {
+            name ml "Wardhani P",
+            affil str "Institute of Tropical Disease, Airlangga University.;
+ Faculty of Medicine, Airlangga University."
+          },
+          {
+            name ml "Soegijanto S",
+            affil str "Institute of Tropical Disease, Airlangga University.;
+ Faculty of Medicine, Airlangga University."
+          },
+          {
+            name ml "Kameoka M",
+            affil str "Indonesia-Japan Collaborative Research Center for
+ Emerging and Re-emerging Infectious Diseases, Institute of Tropical Disease,
+ Airlangga University.; Center of Infectious Diseases, Kobe University
+ Graduate School of Medicine.; Department of International Health, Kobe
+ University Graduate School of Health Sciences."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Jpn. J. Infect. Dis.",
+          ml-jta "Jpn J Infect Dis",
+          issn "1884-2836",
+          name "Japanese journal of infectious diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 23
+          },
+          volume "71",
+          issue "1",
+          pages "58-61",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29093315,
+        doi "10.7883/yoken.JJID.2017.117",
+        other {
+          db "ELocationID doi",
+          tag str "10.7883/yoken.JJID.2017.117"
+        }
+      }
+    },
+    abstract "Aedes aegypti and Aedes albopictus are the primary and secondary
+ vectors, respectively, of dengue, the most important arboviral disease in the
+ world. The aim of this study was to detect and serotype dengue viruses (DENV)
+ in the vectors Ae. aegypti and Ae. albopictus in Surabaya, Indonesia. Between
+ 2008 and 2015, 16,605 Aedes mosquitoes were collected in 15 sub-districts of
+ Surabaya. Ae. aegypti was dominant (90.9%), whereas few Ae. albopictus were
+ collected (9.1%). A total of 330 pools of adult Aedes mosquitoes were
+ subjected to the serotyping of DENV by RT-PCR. DENV-1 (52.3%) was the most
+ frequently detected serotype, followed by DENV-2 (40.3%), DENV-4 (4.6%), and
+ DENV-3 (2.8%). The average minimum infection rate for Ae. aegypti in various
+ sub-districts of Surabaya was 7.2 per 1,000 mosquitoes, while that for Ae.
+ albopictus was 0.7 per 1,000 mosquitoes. The results showed that the
+ predominantly circulating DENV serotype in mosquitoes continuously shifted
+ from DENV-2 (2008) to DENV-1 (2009-2012), to DENV-2 again (2013-2014), and
+ then back to DENV-1 (2015). The circulating DENV serotypes in mosquitoes were
+ generally consistent with those in humans. Therefore, the surveillance of
+ infected mosquitoes with DENV might provide an early warning sign for the
+ risk of future dengue outbreaks.",
+    mesh {
+      {
+        term "Aedes",
+        qual {
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Dengue Virus",
+        qual {
+          {
+            mp TRUE,
+            subh "classification"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Indonesia"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mosquito Vectors",
+        qual {
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Serotyping"
+      }
+    },
+    pmid 29093315,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

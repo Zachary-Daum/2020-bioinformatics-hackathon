@@ -1,0 +1,231 @@
+
+Pubmed-entry ::= {
+  pmid 28848095,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Attitudes to Ageing and Change in Frailty Status: The English
+ Longitudinal Study of Ageing."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gale CR",
+            affil str "MRC Lifecourse Epidemiology Unit, University of
+ Southampton, Southampton, UK."
+          },
+          {
+            name ml "Cooper C"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Gerontology",
+          ml-jta "Gerontology",
+          issn "1423-0003",
+          name "Gerontology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "64",
+          issue "1",
+          pages "58-66",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28848095,
+        pii "000477169",
+        doi "10.1159/000477169",
+        other {
+          db "pmc",
+          tag str "PMC5872555"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000477169"
+        }
+      }
+    },
+    abstract "BACKGROUND: Older people with more negative attitudes to ageing
+ are at increased risk of several adverse outcomes, including decline in
+ physical function and increased difficulties with activities of daily living.
+ OBJECTIVE: We investigated whether negative attitudes to ageing increase the
+ risk of the onset or progression of frailty. METHOD: Participants were 3,505
+ men and women aged 60 years and over from the English Longitudinal Study of
+ Ageing. They completed a 12-item questionnaire on attitudes to ageing.
+ Exploratory factor analysis was used to examine the structure of these items,
+ and a single factor was derived which we labelled ""physical and
+ psychological loss."" Frailty was assessed by the Fried phenotype of physical
+ frailty at waves 2 and 4, and by a frailty index at waves 2-5. RESULTS:
+ Having a more positive attitude to ageing as regards ""physical and
+ psychological loss"" was associated with a decreased risk of becoming
+ physically frail or pre-frail at follow-up. For a standard deviation
+ increment in score, the relative risk ratios (95% confidence interval),
+ adjusted for age, sex and baseline level of physical frailty, were 0.86
+ (0.79, 0.94) for pre-frailty and 0.72 (0.63, 0.83) for frailty. Further
+ adjustment for other potential confounding variables had only slight
+ attenuating effects on these associations: multivariable-adjusted relative
+ risk ratios were 0.89 (0.81, 0.98) for pre-frailty and 0.78 (0.68, 0.91) for
+ frailty. Attitude to ageing was not associated with change in the frailty
+ index over time after adjustment for potential confounding variables.
+ CONCLUSION: Older people who have a more positive attitude to ageing are at
+ reduced risk of becoming physically frail or pre-frail. Future research needs
+ to replicate this finding and discover the underlying mechanisms. Attitude to
+ ageing was not a risk factor for change in the more broadly defined frailty
+ index.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Aging",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Attitude to Health"
+      },
+      {
+        term "England"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Frail Elderly",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Frailty",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Multivariate Analysis"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    idnum {
+      "MC_UP_A620_1015/Medical Research Council",
+      "MC_U147585827/Medical Research Council",
+      "MC_UU_12011/2/Medical Research Council",
+      "MC_U147585819/Medical Research Council",
+      "MR/K026992/1/Medical Research Council",
+      "MC_UP_A620_1014/Medical Research Council",
+      "MC_UU_12011/1/Medical Research Council",
+      "G0400491/Medical Research Council",
+      "MC_U147585824/Medical Research Council"
+    },
+    pmid 28848095,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

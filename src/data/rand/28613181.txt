@@ -1,0 +1,112 @@
+
+Pubmed-entry ::= {
+  pmid 28613181,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Event-Triggered Distributed Approximate Optimal State and Output
+ Control of Affine Nonlinear Interconnected Systems."
+      },
+      authors {
+        names ml {
+          "Narayanan V",
+          "Jagannathan S"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "IEEE Trans Neural Netw Learn Syst",
+          ml-jta "IEEE Trans Neural Netw Learn Syst",
+          issn "2162-2388",
+          name "IEEE transactions on neural networks and learning systems"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "29",
+          issue "7",
+          pages "2846-2856",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 15,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28613181,
+        doi "10.1109/TNNLS.2017.2693205",
+        other {
+          db "ELocationID doi",
+          tag str "10.1109/TNNLS.2017.2693205"
+        }
+      }
+    },
+    abstract "This paper presents an approximate optimal distributed control
+ scheme for a known interconnected system composed of input affine nonlinear
+ subsystems using event-triggered state and output feedback via a novel hybrid
+ learning scheme. First, the cost function for the overall system is redefined
+ as the sum of cost functions of individual subsystems. A distributed optimal
+ control policy for the interconnected system is developed using the optimal
+ value function of each subsystem. To generate the optimal control policy,
+ forward-in-time, neural networks are employed to reconstruct the unknown
+ optimal value function at each subsystem online. In order to retain the
+ advantages of event-triggered feedback for an adaptive optimal controller, a
+ novel hybrid learning scheme is proposed to reduce the convergence time for
+ the learning algorithm. The development is based on the observation that, in
+ the event-triggered feedback, the sampling instants are dynamic and results
+ in variable interevent time. To relax the requirement of entire state
+ measurements, an extended nonlinear observer is designed at each subsystem to
+ recover the system internal states from the measurable feedback. Using a
+ Lyapunov-based analysis, it is demonstrated that the system states and the
+ observer errors remain locally uniformly ultimately bounded and the control
+ policy converges to a neighborhood of the optimal policy. Simulation results
+ are presented to demonstrate the performance of the developed controller.",
+    pmid 28613181,
+    pub-type {
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status premedline
+  }
+}
+
+

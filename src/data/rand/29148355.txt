@@ -1,0 +1,181 @@
+
+Pubmed-entry ::= {
+  pmid 29148355,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Vertical Integration of Hospitals and Physicians: Economic
+ Theory and Empirical Evidence on Spending and Quality."
+      },
+      authors {
+        names std {
+          {
+            name ml "Post B",
+            affil str "1 University of Michigan, Ann Arbor, MI, USA."
+          },
+          {
+            name ml "Buchmueller T",
+            affil str "1 University of Michigan, Ann Arbor, MI, USA."
+          },
+          {
+            name ml "Ryan AM",
+            affil str "1 University of Michigan, Ann Arbor, MI, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Med Care Res Rev",
+          ml-jta "Med Care Res Rev",
+          issn "1552-6801",
+          name "Medical care research and review : MCRR"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "75",
+          issue "4",
+          pages "399-433",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29148355,
+        doi "10.1177/1077558717727834",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1077558717727834"
+        }
+      }
+    },
+    abstract "Hospital-physician vertical integration is on the rise. While
+ increased efficiencies may be possible, emerging research raises concerns
+ about anticompetitive behavior, spending increases, and uncertain effects on
+ quality. In this review, we bring together several of the key theories of
+ vertical integration that exist in the neoclassical and institutional
+ economics literatures and apply these theories to the hospital-physician
+ relationship. We also conduct a literature review of the effects of vertical
+ integration on prices, spending, and quality in the growing body of evidence
+ ( n = 15) to evaluate which of these frameworks have the strongest empirical
+ support. We find some support for vertical foreclosure as a framework for
+ explaining the observed results. We suggest a conceptual model and identify
+ directions for future research. Based on our analysis, we conclude that
+ vertical integration poses a threat to the affordability of health services
+ and merits special attention from policymakers and antitrust authorities.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Delivery of Health Care, Integrated",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Economics, Hospital",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Efficiency, Organizational",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Intersectoral Collaboration"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Physicians",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      }
+    },
+    pmid 29148355,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

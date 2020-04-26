@@ -1,0 +1,238 @@
+
+Pubmed-entry ::= {
+  pmid 29055760,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Giant Coronary Artery Pseudoaneurysm Formed After Septal Artery
+ Perforation During Retrograde Percutaneous Coronary Intervention: A
+ Conservative Strategy With Serial Cardiac Computed Tomographic Imaging."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kaneko U",
+            affil str "Department of Cardiovascular Medicine, Sapporo Cardio
+ Vascular Clinic, Sapporo Heart Center, Sapporo, Japan. Electronic address:
+ uk434471@gmail.com."
+          },
+          {
+            name ml "Kashima Y",
+            affil str "Department of Cardiovascular Medicine, Sapporo Cardio
+ Vascular Clinic, Sapporo Heart Center, Sapporo, Japan."
+          },
+          {
+            name ml "Kanno D",
+            affil str "Department of Cardiovascular Medicine, Sapporo Cardio
+ Vascular Clinic, Sapporo Heart Center, Sapporo, Japan."
+          },
+          {
+            name ml "Fujita T",
+            affil str "Department of Cardiovascular Medicine, Sapporo Cardio
+ Vascular Clinic, Sapporo Heart Center, Sapporo, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "JACC Cardiovasc Interv",
+          ml-jta "JACC Cardiovasc Interv",
+          issn "1876-7605",
+          name "JACC. Cardiovascular interventions"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 12
+          },
+          volume "11",
+          issue "3",
+          pages "e23-e24",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29055760,
+        pii "S1936-8798(17)31816-2",
+        doi "10.1016/j.jcin.2017.08.049",
+        other {
+          db "ELocationID pii",
+          tag str "S1936-8798(17)31816-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jcin.2017.08.049"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aneurysm, False",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Angioplasty, Balloon, Coronary",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Computed Tomography Angiography"
+      },
+      {
+        mp TRUE,
+        term "Conservative Treatment"
+      },
+      {
+        term "Coronary Aneurysm",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Coronary Angiography",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Coronary Vessels",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "injuries"
+          }
+        }
+      },
+      {
+        term "Heart Injuries",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Predictive Value of Tests"
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29055760,
+    pub-type {
+      "Case Reports",
+      "Journal Article",
+      "Video-Audio Media"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,286 @@
+
+Pubmed-entry ::= {
+  pmid 29180534,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tobacco control in California compared with the rest of the USA:
+ trends in adult per capita cigarette consumption."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pierce JP",
+            affil str "Cancer Prevention Program, Moores Cancer Center,
+ University of California, San Diego, La Jolla, California, USA.; Department
+ of Family Medicine and Public Health, University of California, San Diego, La
+ Jolla, California, USA."
+          },
+          {
+            name ml "Shi Y",
+            affil str "Department of Family Medicine and Public Health,
+ University of California, San Diego, La Jolla, California, USA."
+          },
+          {
+            name ml "Hendrickson EM",
+            affil str "Department of Family Medicine and Public Health,
+ University of California, San Diego, La Jolla, California, USA."
+          },
+          {
+            name ml "White MM",
+            affil str "Cancer Prevention Program, Moores Cancer Center,
+ University of California, San Diego, La Jolla, California, USA."
+          },
+          {
+            name ml "Noble ML",
+            affil str "Cancer Prevention Program, Moores Cancer Center,
+ University of California, San Diego, La Jolla, California, USA.; Department
+ of Family Medicine and Public Health, University of California, San Diego, La
+ Jolla, California, USA."
+          },
+          {
+            name ml "Kealey S",
+            affil str "Cancer Prevention Program, Moores Cancer Center,
+ University of California, San Diego, La Jolla, California, USA."
+          },
+          {
+            name ml "Strong DR",
+            affil str "Cancer Prevention Program, Moores Cancer Center,
+ University of California, San Diego, La Jolla, California, USA.; Department
+ of Family Medicine and Public Health, University of California, San Diego, La
+ Jolla, California, USA."
+          },
+          {
+            name ml "Trinidad DR",
+            affil str "Cancer Prevention Program, Moores Cancer Center,
+ University of California, San Diego, La Jolla, California, USA.; Department
+ of Family Medicine and Public Health, University of California, San Diego, La
+ Jolla, California, USA."
+          },
+          {
+            name ml "Hartman AM",
+            affil str "Tobacco Control Research Branch, Behavioral Research
+ Program, Division of Cancer Control and Population Sciences, National Cancer
+ Institute, National Institutes of Health, Bethesda, Maryland, USA."
+          },
+          {
+            name ml "Messer K",
+            affil str "Cancer Prevention Program, Moores Cancer Center,
+ University of California, San Diego, La Jolla, California, USA.; Department
+ of Family Medicine and Public Health, University of California, San Diego, La
+ Jolla, California, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Tob Control",
+          ml-jta "Tob Control",
+          issn "1468-3318",
+          name "Tobacco control"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "27",
+          issue "e2",
+          pages "e112-e117",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 9
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29180534,
+        pii "tobaccocontrol-2017-053895",
+        doi "10.1136/tobaccocontrol-2017-053895",
+        other {
+          db "ELocationID doi",
+          tag str "10.1136/tobaccocontrol-2017-053895"
+        }
+      }
+    },
+    abstract "BACKGROUND: In the 1990s, California led the USA in state-level
+ tobacco control strategies. However, after 2000, California lost ground on
+ cigarette taxes, although it maintained higher levels of smoke-free homes
+ among smokers. METHODS: Trends in per capita cigarette consumption were
+ assessed through taxed sales data and from self-report in repeated national
+ cross-sectional surveys. Linear regressions identified changes in trends
+ after year 2000 separately for California and the rest of the USA. Using data
+ from each state, a linear regression tested the association between different
+ tobacco control strategies and per capita consumption. Change in
+ self-reported per capita consumption was partitioned into contributions
+ associated with initiation, quitting and reduction in cigarette consumption
+ level. RESULTS: Both taxed cigarette sales and per capita consumption
+ declined rapidly in the USA from 1985 to 2015. Declines were particularly
+ fast in California before 2000 but slowed thereafter. In 2014, per capita
+ consumption in California was 29.4 packs/adult/year, but 90% higher in the
+ rest of the USA. Modelling state-level data, every $1 increase in cigarette
+ taxes reduced consumption by 4.8 (95% CI 2.9 to 6.8) packs/adult/year. Every
+ 5% increase in the proportion of smokers with smoke-free homes reduced
+ consumption by 8.0 (95% CI 7.0 to 8.9) packs/adult/year. The different
+ patterns in California and the rest of the USA are at least partially
+ explained by these two variables. The slow down in per capita consumption in
+ California can be attributed to changes in initiation, quitting and
+ especially smokers reducing their consumption level. CONCLUSIONS: Tobacco
+ control strategies need to be continually updated to maintain momentum
+ towards a smoke-free society.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "California",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Cigarette Smoking",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "legislation & jurisprudence"
+          },
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Surveys",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Smoking Prevention",
+        qual {
+          {
+            subh "legislation & jurisprudence"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Taxes"
+      },
+      {
+        term "United States",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29180534,
+    pub-type {
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

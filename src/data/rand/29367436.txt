@@ -1,0 +1,197 @@
+
+Pubmed-entry ::= {
+  pmid 29367436,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Differential equation methods for simulation of GFP kinetics in
+ non-steady state experiments."
+      },
+      authors {
+        names std {
+          {
+            name ml "Phair RD",
+            affil str "Integrative Bioinformatics Inc., Mountain View, CA
+ 94041 rphair@integrativebioinformatics.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Biol. Cell",
+          ml-jta "Mol Biol Cell",
+          issn "1939-4586",
+          name "Molecular biology of the cell"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 15
+          },
+          volume "29",
+          issue "6",
+          pages "763-771",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 16
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29367436,
+        pii "mbc.E17-06-0396",
+        doi "10.1091/mbc.E17-06-0396",
+        other {
+          db "pmc",
+          tag str "PMC6003217"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1091/mbc.E17-06-0396"
+        }
+      }
+    },
+    abstract "Genetically encoded fluorescent proteins, combined with
+ fluorescence microscopy, are widely used in cell biology to collect kinetic
+ data on intracellular trafficking. Methods for extraction of quantitative
+ information from these data are based on the mathematics of diffusion and
+ tracer kinetics. Current methods, although useful and powerful, depend on the
+ assumption that the cellular system being studied is in a steady state, that
+ is, the assumption that all the molecular concentrations and fluxes are
+ constant for the duration of the experiment. Here, we derive new tracer
+ kinetic analytical methods for non-steady state biological systems by
+ constructing mechanistic nonlinear differential equation models of the
+ underlying cell biological processes and linking them to a separate set of
+ differential equations governing the kinetics of the fluorescent tracer.
+ Linking the two sets of equations is based on a new application of the
+ fundamental tracer principle of indistinguishability and, unlike current
+ methods, supports correct dependence of tracer kinetics on cellular dynamics.
+ This approach thus provides a general mathematical framework for applications
+ of GFP fluorescence microscopy (including photobleaching [FRAP, FLIP] and
+ photoactivation to frequently encountered experimental protocols involving
+ physiological or pharmacological perturbations (e.g., growth factors,
+ neurotransmitters, acute knockouts, inhibitors, hormones, cytokines, and
+ metabolites) that initiate mechanistically informative intracellular
+ transients. When a new steady state is achieved, these methods automatically
+ reduce to classical steady state tracer kinetic analysis.",
+    mesh {
+      {
+        term "Fluorescent Antibody Technique",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Fluorescent Dyes",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Green Fluorescent Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Kinetics"
+      },
+      {
+        term "Models, Molecular"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Fluorescent Dyes"
+      },
+      {
+        type cas,
+        cit "147336-22-9",
+        name "Green Fluorescent Proteins"
+      }
+    },
+    idnum {
+      "R01 GM079305/GM/NIGMS NIH HHS",
+      "R44 GM066611/GM/NIGMS NIH HHS"
+    },
+    pmid 29367436,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

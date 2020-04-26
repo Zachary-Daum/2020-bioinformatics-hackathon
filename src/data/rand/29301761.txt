@@ -1,0 +1,366 @@
+
+Pubmed-entry ::= {
+  pmid 29301761,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Uremic Advanced Glycation End Products and Protein-Bound Solutes
+ Induce Endothelial Dysfunction Through Suppression of Kruppel-Like Factor 2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Saum K",
+            affil str "University of Cincinnati Medical Scientist Training
+ Program, The University of Cincinnati College of Medicine, Cincinnati, OH.;
+ Division of Nephrology and Hypertension, The University of Cincinnati College
+ of Medicine, Cincinnati, OH."
+          },
+          {
+            name ml "Campos B",
+            affil str "Division of Nephrology and Hypertension, The University
+ of Cincinnati College of Medicine, Cincinnati, OH."
+          },
+          {
+            name ml "Celdran-Bonafonte D",
+            affil str "Division of Nephrology, University of Arizona College
+ of Medicine and Banner University Medical Centers-Tucson and South and
+ Southern Arizona Veterans Affairs Healthcare System, Tucson, AZ."
+          },
+          {
+            name ml "Nayak L",
+            affil str "Division of Hematology and Oncology, University
+ Hospitals Cleveland Medical Center, Case Western Reserve University School of
+ Medicine, Cleveland, OH."
+          },
+          {
+            name ml "Sangwung P",
+            affil str "Department of Physiology and Biophysics, Department of
+ Medicine, Cardiovascular Research Institute, Case Western Reserve University
+ School of Medicine, Cleveland, OH."
+          },
+          {
+            name ml "Thakar C",
+            affil str "Division of Nephrology and Hypertension, The University
+ of Cincinnati College of Medicine, Cincinnati, OH."
+          },
+          {
+            name ml "Roy-Chaudhury P",
+            affil str "Division of Nephrology and Hypertension, The University
+ of Cincinnati College of Medicine, Cincinnati, OH.; Division of Nephrology,
+ University of Arizona College of Medicine and Banner University Medical
+ Centers-Tucson and South and Southern Arizona Veterans Affairs Healthcare
+ System, Tucson, AZ."
+          },
+          {
+            name ml "Owens AP Iii PhD",
+            affil str "Division of Cardiovascular Health and Disease, The
+ University of Cincinnati College of Medicine, Cincinnati, OH
+ phillip.owens@uc.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Am Heart Assoc",
+          ml-jta "J Am Heart Assoc",
+          issn "2047-9980",
+          name "Journal of the American Heart Association"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 4
+          },
+          volume "7",
+          issue "1",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29301761,
+        pii "JAHA.117.007566",
+        doi "10.1161/JAHA.117.007566",
+        other {
+          db "pmc",
+          tag str "PMC5778969"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "e007566"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1161/JAHA.117.007566"
+        }
+      }
+    },
+    abstract "BACKGROUND: Cardiovascular disease is the leading cause of
+ morbidity and mortality in patients with end-stage renal disease. The
+ accumulation of uremic solutes in this patient population is associated with
+ endothelial dysfunction and accelerated cardiovascular disease. In this
+ study, we examined the impact of the uremic milieu on the endothelial
+ transcription factor, Kruppel-like factor 2 (KLF2), a key regulator of
+ endothelial function and activation. METHODS AND RESULTS: Using serum from
+ uremic pigs with chronic renal insufficiency, our results show that KLF2
+ expression is suppressed by the uremic milieu and individual uremic solutes
+ in vitro. Specifically, KLF2 expression is significantly decreased in human
+ umbilical vein endothelial cells after treatment with uremic porcine serum or
+ carboxymethyllysine-modified albumin, an advanced glycation end product (AGE)
+ known to induce endothelial dysfunction. AGE-mediated suppression of KLF2 is
+ dependent on activation of the receptor for AGE, as measured by small
+ interfering RNA knockdown of the receptor for AGE. Furthermore, KLF2
+ suppression promotes endothelial dysfunction, because adenoviral
+ overexpression of KLF2 inhibits reactive oxygen species production and
+ leukocyte adhesion in human umbilical vein endothelial cells. In addition,
+ the application of hemodynamic shear stress, prolonged serum dialysis, or
+ treatment with the receptor for AGE antagonist azeliragon (TTP488) is
+ sufficient to prevent KLF2 suppression in vitro. To decipher the mechanism by
+ which uremic AGEs suppress KLF2 expression, we assessed the role of the
+ receptor for AGE in activation of nuclear factor-kappaB signaling, a hallmark
+ of endothelial cell activation. Using a constitutively active form of
+ IkappaBalpha, we show that translocation of p65 to the nucleus is necessary
+ for KLF2 suppression after treatment with uremic AGEs. CONCLUSIONS: These
+ data identify KLF2 suppression as a consequence of the uremic milieu, which
+ may exacerbate endothelial dysfunction and resultant cardiovascular disease.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Blood Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Glycation End Products, Advanced",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Human Umbilical Vein Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kruppel-Like Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein Binding"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptor for Advanced Glycation End Products",
+        qual {
+          {
+            subh "agonists"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Renal Dialysis"
+      },
+      {
+        term "Renal Insufficiency, Chronic",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Serum Albumin, Bovine",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Sus scrofa"
+      },
+      {
+        term "Transcription Factor RelA",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Uremia",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "AGER protein, human"
+      },
+      {
+        type nameonly,
+        name "Blood Proteins"
+      },
+      {
+        type nameonly,
+        name "Glycation End Products, Advanced"
+      },
+      {
+        type nameonly,
+        name "KLF2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Kruppel-Like Transcription Factors"
+      },
+      {
+        type nameonly,
+        name "RELA protein, human"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "Receptor for Advanced Glycation End Products"
+      },
+      {
+        type nameonly,
+        name "Transcription Factor RelA"
+      },
+      {
+        type nameonly,
+        name "advanced glycation end products-bovine serum albumin"
+      },
+      {
+        type cas,
+        cit "27432CM55Q",
+        name "Serum Albumin, Bovine"
+      }
+    },
+    idnum {
+      "K08 HL121131/HL/NHLBI NIH HHS",
+      "R00 HL116786/HL/NHLBI NIH HHS",
+      "T32 GM063483/GM/NIGMS NIH HHS"
+    },
+    pmid 29301761,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,218 @@
+
+Pubmed-entry ::= {
+  pmid 29086587,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Evaluating the Impact of a Clinical Decision Support Tool to
+ Reduce Chronic Opioid Dose and Decrease Risk Classification in a Veteran
+ Population."
+      },
+      authors {
+        names std {
+          {
+            name ml "Patel S",
+            affil str "1 VHA Sierra Pacific Network (VISN 21), Reno, NV, USA."
+          },
+          {
+            name ml "Carmichael JM",
+            affil str "1 VHA Sierra Pacific Network (VISN 21), Reno, NV, USA."
+          },
+          {
+            name ml "Taylor JM",
+            affil str "1 VHA Sierra Pacific Network (VISN 21), Reno, NV, USA."
+          },
+          {
+            name ml "Bounthavong M",
+            affil str "2 VHA Pharmacy Benefits Management, San Diego, CA, USA."
+          },
+          {
+            name ml "Higgins DT",
+            affil str "1 VHA Sierra Pacific Network (VISN 21), Reno, NV, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ann Pharmacother",
+          ml-jta "Ann Pharmacother",
+          issn "1542-6270",
+          name "The Annals of pharmacotherapy"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "52",
+          issue "4",
+          pages "325-331",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29086587,
+        doi "10.1177/1060028017739388",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1060028017739388"
+        }
+      }
+    },
+    abstract "BACKGROUND: Chronic opioid therapy-clinical reminder (COT-CR) is
+ a decision support tool to prompt providers to carefully assess patients
+ prescribed chronic opioids. This tool was developed to address inappropriate
+ opioid prescribing. OBJECTIVE: To determine COT-CR's impact on reducing
+ morphine equivalent monthly dose (MEMD) and risk index for overdose or
+ serious prescription opioid-induced respiratory depression (RIOSORD) values
+ in veterans receiving chronic opioids. METHODS: This retrospective cohort
+ review matched patients with a complete COT-CR to patients with an incomplete
+ COT-CR using propensity scores. In the primary aim, an interrupted time
+ series design evaluated for changes in MEMD 12 months before and 6 months
+ after the index date. The index date was the first pain or primary care
+ provider visit post COT-CR installation. In the secondary aims, a
+ retrospective cohort design was used to evaluate the changes in RIOSORD index
+ score and risk class 6 months after the index date. RESULTS: After matching,
+ 3801 patients were included in the complete and incomplete COT-CR groups,
+ respectively. Greater average reduction in MEMD (-11.6 MEMD; 95% CI = -0.97
+ to -22.25 MEMD; P = 0.032) and RIOSORD index score (-0.53 RIOSORD index
+ score; 95% CI = -1.00, -0.05 RIOSORD index score; P = 0.030) was observed in
+ patients with a complete COT-CR compared to patients with an incomplete
+ COT-CR. Differences in RIOSORD risk class were insignificant. CONCLUSION:
+ Completing the COT-CR was associated with reduced MEMD and RIOSORD values.
+ This suggests that active monitoring can change prescribing patterns,
+ thereby, reducing the overall risk of opioid overdose in at-risk veterans.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Analgesics, Opioid",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Decision Support Systems, Clinical"
+      },
+      {
+        term "Drug Overdose",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inappropriate Prescribing",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Pain",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Practice Patterns, Physicians'"
+      },
+      {
+        term "Propensity Score"
+      },
+      {
+        term "Respiratory Insufficiency",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Veterans"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Analgesics, Opioid"
+      }
+    },
+    pmid 29086587,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

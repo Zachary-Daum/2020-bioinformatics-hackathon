@@ -1,0 +1,239 @@
+
+Pubmed-entry ::= {
+  pmid 29308938,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Soya bean meal increases litter moisture and foot pad dermatitis
+ in maize and wheat based diets for turkeys but maize and non-soya diets lower
+ body weight."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hocking PM",
+            affil str "a The Roslin Institute and Royal (Dick) School of
+ Veterinary Studies , University of Edinburgh , Midlothian , UK."
+          },
+          {
+            name ml "Vinco LJ",
+            affil str "b National Reference Centre for Animal Welfare ,
+ Istituto Zooprofilattico della Lombardia e dell'Emilia Romagna , Brescia ,
+ Italy."
+          },
+          {
+            name ml "Veldkamp T",
+            affil str "c Department of Animal Nutrition , Wageningen Livestock
+ Research , Wageningen , The Netherlands."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br. Poult. Sci.",
+          ml-jta "Br Poult Sci",
+          issn "1466-1799",
+          name "British poultry science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "59",
+          issue "2",
+          pages "227-231",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29308938,
+        doi "10.1080/00071668.2018.1423675",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/00071668.2018.1423675"
+        }
+      }
+    },
+    abstract "1. A 2 x 2 factorial experiment was conducted to compare the
+ effects of wheat or maize based diets differing in dietary electrolyte
+ balance (DEB) on litter moisture and foot pad dermatitis (FPD) at 4, 8 and 12
+ weeks of age in heavy-medium turkeys. A second objective was to investigate
+ the effects on foot pad dermatitis of the interaction between dietary
+ composition and artificially increasing litter moisture by adding water to
+ the litter. 2. High DEB diets contained soya as the main protein source
+ whereas low DEB diets did not contain soya bean meal. Diets were formulated
+ to be iso-caloric and iso-nitrogenous in each of 3 successive 4-week phases
+ following recommended dietary compositions. DEB concentrations were 330, 290
+ and 250 mEq/kg in high DEB diets and 230, 200 and 180 mEq/kg in low DEB
+ diets. 3. Litter moisture and mean FPD score were higher in turkeys fed on
+ high DEB diets compared with low DEB diets whereas there was no difference
+ between maize and wheat. 4. Food intake was similar and body weight was lower
+ after litter moisture was artificially raised in the wet compared with the
+ dry litter treatment and there was no interaction with dietary composition.
+ 5. Mean body weight and feed intake were higher in turkeys fed on wheat
+ compared with maize and in high DEB compared with low DEB diets at 12 weeks
+ of age. 6. Lowering dietary DEB for turkeys may improve litter moisture and
+ lower the prevalence of FPD in commercial turkey flocks.",
+    mesh {
+      {
+        term "Animal Feed",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Diet",
+        qual {
+          {
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Digital Dermatitis",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Feces",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Floors and Floorcoverings"
+      },
+      {
+        term "Foot Diseases",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Poultry Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Random Allocation"
+      },
+      {
+        term "Soybeans",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Triticum",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Turkeys"
+      },
+      {
+        mp TRUE,
+        term "Water-Electrolyte Balance"
+      },
+      {
+        term "Zea mays",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    pmid 29308938,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

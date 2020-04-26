@@ -1,0 +1,114 @@
+
+Pubmed-entry ::= {
+  pmid 29239420,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ligand substitution and conformational effects on the ultrafast
+ luminescent decay of [Re(CO)3(phen)(L)](+) (L = imidazole, pyridine):
+ non-adiabatic quantum dynamics."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fumanal M",
+            affil str "Laboratoire de Chimie Quantique, Institut de Chimie
+ Strasbourg UMR-7177 CNRS/Universite de Strasbourg 1 Rue Blaise Pascal BP
+ 296/R8, F-67008 Strasbourg, France. c.daniel@unistra.fr."
+          },
+          {
+            name ml "Gindensperger E"
+          },
+          {
+            name ml "Daniel C"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phys Chem Chem Phys",
+          ml-jta "Phys Chem Chem Phys",
+          issn "1463-9084",
+          name "Physical chemistry chemical physics : PCCP"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 3
+          },
+          volume "20",
+          issue "2",
+          pages "1134-1141",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 15,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29239420,
+        doi "10.1039/c7cp07540e",
+        other {
+          db "ELocationID doi",
+          tag str "10.1039/c7cp07540e"
+        }
+      }
+    },
+    abstract "The effects of ligand substitution and conformational
+ flexibility on the ultrafast luminescent decay of [Re(CO)3(phen)(L)](+) (L =
+ imidazole, pyridine) complexes are investigated by means of density
+ functional theory (DFT/time-dependent DFT (TD-DFT)) electronic structure
+ calculations and non-adiabatic quantum dynamics based on the linear vibronic
+ coupling (LVC) approach including spin-orbit coupling (SOC) applied to the Cs
+ conformers. The optical, luminescent and structural properties are not
+ drastically affected either by the ligand substitution, or by the ligand
+ rotation. However, the occurrence of two conformers, as investigated in
+ detail for the pyridine substituted complex, significantly modifies the early
+ time dynamics below 100 fs and the associated spin-vibronic mechanism.",
+    pmid 29239420,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

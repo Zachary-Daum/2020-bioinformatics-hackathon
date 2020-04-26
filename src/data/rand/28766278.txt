@@ -1,0 +1,235 @@
+
+Pubmed-entry ::= {
+  pmid 28766278,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "OCT angiography demonstrates retinal angiomatous proliferation
+ and chorioretinal anastomosis of type 3 neovascularization."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bansal R",
+            affil str "Advanced Eye Centre, Post Graduate Institute of Medical
+ Education and Research, Chandigarh, India. drreemab@rediffmail.com."
+          },
+          {
+            name ml "Hemanth V",
+            affil str "Advanced Eye Centre, Post Graduate Institute of Medical
+ Education and Research, Chandigarh, India."
+          },
+          {
+            name ml "Mulkutkar S",
+            affil str "Advanced Eye Centre, Post Graduate Institute of Medical
+ Education and Research, Chandigarh, India."
+          },
+          {
+            name ml "Singh R",
+            affil str "Advanced Eye Centre, Post Graduate Institute of Medical
+ Education and Research, Chandigarh, India."
+          },
+          {
+            name ml "Gupta V",
+            affil str "Advanced Eye Centre, Post Graduate Institute of Medical
+ Education and Research, Chandigarh, India."
+          },
+          {
+            name ml "Dogra MR",
+            affil str "Advanced Eye Centre, Post Graduate Institute of Medical
+ Education and Research, Chandigarh, India."
+          },
+          {
+            name ml "Gupta A",
+            affil str "Advanced Eye Centre, Post Graduate Institute of Medical
+ Education and Research, Chandigarh, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int Ophthalmol",
+          ml-jta "Int Ophthalmol",
+          issn "1573-2630",
+          name "International ophthalmology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "38",
+          issue "5",
+          pages "2149-2151",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28766278,
+        doi "10.1007/s10792-017-0664-6",
+        pii "10.1007/s10792-017-0664-6",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10792-017-0664-6"
+        }
+      }
+    },
+    abstract "PURPOSE: To report the OCT angiography findings of type 3
+ neovascularization. METHODS: Two cases (one each with retinal angiomatous
+ proliferation and chorioretinal anastomosis) are reported, in which the
+ conventional fundus fluorescein angiography and spectral-domain optical
+ coherence tomography findings were inconclusive. RESULTS: OCT angiography
+ demonstrated flow within the abnormal anastomotic network and delineated the
+ extent of the lesion with respect to the retinal layers. CONCLUSION: OCT
+ angiography enables a quick diagnosis of type 3 neovascularization by
+ demonstrating a supranormal flow within the lesion and delineates the lesion
+ within different retinal layers.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Choroid",
+        qual {
+          {
+            subh "blood supply"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Choroidal Neovascularization",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Fluorescein Angiography",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Fundus Oculi"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Retinal Neovascularization",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Retinal Pigment Epithelium",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Retinal Vessels",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Tomography, Optical Coherence",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 28766278,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

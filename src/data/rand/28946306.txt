@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 28946306,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "(1)H HR-MAS NMR-based metabolomics analysis for dry-fermented
+ sausage characterization."
+      },
+      authors {
+        names std {
+          {
+            name ml "Garcia-Garcia AB",
+            affil str "Departamento de Nutricion, Bromatologia y Tecnologia de
+ los Alimentos, Facultad de Veterinaria, Universidad Complutense de Madrid,
+ 28040 Madrid, Spain."
+          },
+          {
+            name ml "Lamichhane S",
+            affil str "Department of Food Science, Aarhus University, Research
+ Centre Aarslev, Kirstinebjergvej 10, DK-5792 Arslev, Denmark."
+          },
+          {
+            name ml "Castejon D",
+            affil str "CAI de Resonancia Magnetica Nuclear y Espin
+ Electronico, Universidad Complutense de Madrid, 28040 Madrid, Spain."
+          },
+          {
+            name ml "Cambero MI",
+            affil str "Departamento de Nutricion, Bromatologia y Tecnologia de
+ los Alimentos, Facultad de Veterinaria, Universidad Complutense de Madrid,
+ 28040 Madrid, Spain."
+          },
+          {
+            name ml "Bertram HC",
+            affil str "Department of Food Science, Aarhus University, Research
+ Centre Aarslev, Kirstinebjergvej 10, DK-5792 Arslev, Denmark. Electronic
+ address: HanneC.Bertram@food.au.dk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Food Chem",
+          ml-jta "Food Chem",
+          issn "1873-7072",
+          name "Food chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 1
+          },
+          volume "240",
+          pages "514-523",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 27
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 11,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28946306,
+        pii "S0308-8146(17)31304-3",
+        doi "10.1016/j.foodchem.2017.07.150",
+        other {
+          db "ELocationID pii",
+          tag str "S0308-8146(17)31304-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.foodchem.2017.07.150"
+        }
+      }
+    },
+    abstract "Proton high-resolution magic angle spinning ((1)H HR-MAS)
+ nuclear magnetic resonance (NMR) spectroscopy in combination with principal
+ component analysis (PCA) was employed to characterize dry-fermented sausages
+ salchichon type throughout the manufacturing process. (1)H HR-MAS NMR
+ metabolite profiling was achieved from a small sample of intact sausage after
+ 0, 2, 4, 7, 11 and 14days of drying. Intriguingly, the obtained results
+ enabled the identification of the three main stages in the traditional
+ production of salchichon. Formulation, fermentation and drying-ripening
+ periods showed distinct and characteristic metabolomic profiles.
+ Compositional changes related to microbial activity, as well as proteolytic
+ and lipolytic phenomena, decisive steps in such a ripening process, could be
+ monitored through the NMR spectra. This study shows the potential of (1)H
+ HR-MAS as a rapid method for probing metabolomic profiles and compositional
+ changes during sausages processing.",
+    mesh {
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Magnetic Resonance Spectroscopy"
+      },
+      {
+        mp TRUE,
+        term "Meat Products"
+      },
+      {
+        term "Metabolomics"
+      },
+      {
+        term "Protons"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Protons"
+      }
+    },
+    pmid 28946306,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

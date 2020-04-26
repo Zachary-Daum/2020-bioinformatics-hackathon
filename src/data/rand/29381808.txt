@@ -1,0 +1,224 @@
+
+Pubmed-entry ::= {
+  pmid 29381808,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Pre-drill Groundwater Geochemistry in the Karoo Basin, South
+ Africa."
+      },
+      authors {
+        names std {
+          {
+            name ml "Harkness JS",
+            affil str "School of Earth Sciences, The Ohio State University,
+ 275 Mendenhall Laboratory, 125 South Oval Mall, Columbus, OH 43210.; Division
+ of Earth and Ocean Sciences, Nicholas School of the Environment, Duke
+ University, Durham, NC 27708."
+          },
+          {
+            name ml "Swana K",
+            affil str "Department of Earth Sciences, Stellenbosch University,
+ Private Bag XI, Matieland 7602, South Africa."
+          },
+          {
+            name ml "Eymold WK",
+            affil str "School of Earth Sciences, The Ohio State University,
+ 275 Mendenhall Laboratory, 125 South Oval Mall, Columbus, OH 43210."
+          },
+          {
+            name ml "Miller J",
+            affil str "Department of Earth Sciences, Stellenbosch University,
+ Private Bag XI, Matieland 7602, South Africa."
+          },
+          {
+            name ml "Murray R",
+            affil str "Groundwater Africa, 54 Irene Road, Somerset West 7130,
+ South Africa."
+          },
+          {
+            name ml "Talma S",
+            affil str "Natural Resources and the Environment, CSIR Pretoria,
+ P.O. Box 395, Pretoria 0001, South Africa."
+          },
+          {
+            name ml "Whyte CJ",
+            affil str "School of Earth Sciences, The Ohio State University,
+ 275 Mendenhall Laboratory, 125 South Oval Mall, Columbus, OH 43210."
+          },
+          {
+            name ml "Moore MT",
+            affil str "School of Earth Sciences, The Ohio State University,
+ 275 Mendenhall Laboratory, 125 South Oval Mall, Columbus, OH 43210."
+          },
+          {
+            name ml "Maletic EL",
+            affil str "School of Earth Sciences, The Ohio State University,
+ 275 Mendenhall Laboratory, 125 South Oval Mall, Columbus, OH 43210."
+          },
+          {
+            name ml "Vengosh A",
+            affil str "Division of Earth and Ocean Sciences, Nicholas School
+ of the Environment, Duke University, Durham, NC 27708."
+          },
+          {
+            name ml "Darrah TH"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ground Water",
+          ml-jta "Ground Water",
+          issn "1745-6584",
+          name "Ground water"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "56",
+          issue "2",
+          pages "187-203",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29381808,
+        doi "10.1111/gwat.12635",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/gwat.12635"
+        }
+      }
+    },
+    abstract "Enhanced production of unconventional hydrocarbons in the United
+ States has driven interest in natural gas development globally, but
+ simultaneously raised concerns regarding water quantity and quality impacts
+ associated with hydrocarbon extraction. We conducted a pre-development
+ assessment of groundwater geochemistry in the critically water-restricted
+ Karoo Basin, South Africa. Twenty-two springs and groundwater samples were
+ analyzed for major dissolved ions, trace elements, water stable isotopes,
+ strontium and boron isotopes, hydrocarbons and helium composition. The data
+ revealed three end-members: a deep, saline groundwater with a sodium-chloride
+ composition, an old, deep freshwater with a sodium-bicarbonate-chloride
+ composition and a shallow, calcium-bicarbonate freshwater. In a few cases, we
+ identified direct mixing of the deep saline water and shallow groundwater.
+ Stable water isotopes indicate that the shallow groundwater was controlled by
+ evaporation in arid conditions, while the saline waters were diluted by
+ apparently fossil meteoric water originated under wetter climatic conditions.
+ These geochemical and isotopic data, in combination with elevated helium
+ levels, suggest that exogenous fluids are the source of the saline
+ groundwater and originated from remnant seawater prior to dilution by old
+ meteoric water combined with further modification by water-rock interactions.
+ Samples with elevated methane concentrations (>14 ccSTP/kg) were strongly
+ associated with the sodium-chloride water located near dolerite intrusions,
+ which likely provide a preferential pathway for vertical migration of deeply
+ sourced hydrocarbon-rich saline waters to the surface. This pre-drill
+ evaluation indicates that the natural migration of methane- and salt-rich
+ waters provides a source of geogenic contamination to shallow aquifers prior
+ to shale gas development in the Karoo Basin.",
+    mesh {
+      {
+        mp TRUE,
+        term "Environmental Monitoring"
+      },
+      {
+        term "Fresh Water"
+      },
+      {
+        term "Groundwater",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Natural Gas"
+      },
+      {
+        term "South Africa"
+      },
+      {
+        term "Water Pollutants, Chemical"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Natural Gas"
+      },
+      {
+        type nameonly,
+        name "Water Pollutants, Chemical"
+      }
+    },
+    pmid 29381808,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

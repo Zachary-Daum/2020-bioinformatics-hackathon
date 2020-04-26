@@ -1,0 +1,328 @@
+
+Pubmed-entry ::= {
+  pmid 28740238,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The resident pathobiont Staphylococcus xylosus in
+ Nfkbiz-deficient skin accelerates spontaneous skin inflammation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kim Y",
+            affil str "Mucosal Immunology Laboratory, Department of
+ Convergence Medicine, University of Ulsan College of Medicine/Asan Medical
+ Center, Seoul, Korea."
+          },
+          {
+            name ml "Lee YS",
+            affil str "Mucosal Immunology Laboratory, Department of
+ Convergence Medicine, University of Ulsan College of Medicine/Asan Medical
+ Center, Seoul, Korea."
+          },
+          {
+            name ml "Yang JY",
+            affil str "Mucosal Immunology Laboratory, Department of
+ Convergence Medicine, University of Ulsan College of Medicine/Asan Medical
+ Center, Seoul, Korea."
+          },
+          {
+            name ml "Lee SH",
+            affil str "Mucosal Immunology Laboratory, Department of
+ Convergence Medicine, University of Ulsan College of Medicine/Asan Medical
+ Center, Seoul, Korea."
+          },
+          {
+            name ml "Park YY",
+            affil str "ASAN Institute for Life Science, Asan Medical Center,
+ Seoul, Korea."
+          },
+          {
+            name ml "Kweon MN",
+            affil str "Mucosal Immunology Laboratory, Department of
+ Convergence Medicine, University of Ulsan College of Medicine/Asan Medical
+ Center, Seoul, Korea. mnkweon@amc.seoul.kr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 24
+          },
+          volume "7",
+          issue "1",
+          pages "6348",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28740238,
+        doi "10.1038/s41598-017-05740-z",
+        pii "10.1038/s41598-017-05740-z",
+        other {
+          db "pmc",
+          tag str "PMC5524713"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-017-05740-z"
+        }
+      }
+    },
+    abstract "IkappaBzeta, which is encoded by the Nfkbiz gene, is a member of
+ the nuclear IkappaB family of proteins that act as transcriptional regulators
+ via association with NF-kappaB. Nfkbiz-deficient (Nfkbiz (-/-)) mice develop
+ spontaneous dermatitis; however, the underlying mechanism has yet to be
+ elucidated. In our study, we found higher skin pathology scores and more
+ serum IgE antibodies and trans-epidermal water loss in Nfkbiz (-/-) than in
+ Nfkbiz-sufficient (Nfkbiz (+/-)) mice. There was also greater expansion of
+ IFN-gamma-, IL-17A-, and IL-22-secreting CD4(+) T cells and of
+ IL-17A-secreting gammadelta(+) T cells in the skin of Nfkbiz (-/-) mice than
+ in with Nfkbiz (+/-) mice. Pyrosequencing analysis showed decreased diversity
+ of resident bacteria and markedly expanded Staphylococcus (S.) xylosus in the
+ skin of Nfkbiz (-/-) mice. Oral administration of antibiotics including
+ cephalexin and enrofloxacin ameliorated skin inflammation. Topical
+ application of S. xylosus also resulted in the expansion of IL-17A-secreting
+ CD4(+) T cells along with high levels of pro-inflammatory cytokines and
+ chemokines in the skin of Nfkbiz (-/-) mice. The expansion of commensal S.
+ xylosus may be one cause of skin dysbiosis in Nfkbiz (-/-) mice and suggests
+ that the Nfkbiz gene may play a regulatory role in the microbiota-skin
+ immunity axis.",
+    mesh {
+      {
+        term "Adaptor Proteins, Signal Transducing",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "CD4-Positive T-Lymphocytes",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cephalexin",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Dermatitis",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "microbiology"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Enrofloxacin",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunoglobulin E",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Nuclear Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "Sequence Analysis, DNA"
+      },
+      {
+        term "Skin",
+        qual {
+          {
+            subh "microbiology"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Staphylococcal Infections",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Staphylococcus",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          },
+          {
+            subh "pathogenicity"
+          }
+        }
+      },
+      {
+        term "Symbiosis"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adaptor Proteins, Signal Transducing"
+      },
+      {
+        type nameonly,
+        name "Nfkbiz protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Nuclear Proteins"
+      },
+      {
+        type cas,
+        cit "37341-29-0",
+        name "Immunoglobulin E"
+      },
+      {
+        type cas,
+        cit "3DX3XEK1BN",
+        name "Enrofloxacin"
+      },
+      {
+        type cas,
+        cit "OBN7UDS42Y",
+        name "Cephalexin"
+      }
+    },
+    pmid 28740238,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

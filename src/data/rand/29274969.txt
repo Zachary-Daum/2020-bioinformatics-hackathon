@@ -1,0 +1,256 @@
+
+Pubmed-entry ::= {
+  pmid 29274969,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effect of 17beta-estradiol on milk production, hormone
+ secretion, and mammary gland gene expression in dairy cows."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tong JJ",
+            affil str "Department of Clinical Veterinary Medicine, College of
+ Veterinary Medicine, Northeast Agricultural University, Harbin, Heilongjiang
+ Province, P. R. China 150030; Sherbrooke Research and Development Centre,
+ Agriculture and Agri-Food Canada, Sherbrooke, Quebec, Canada J1M 0C8."
+          },
+          {
+            name ml "Thompson IM",
+            affil str "Sherbrooke Research and Development Centre, Agriculture
+ and Agri-Food Canada, Sherbrooke, Quebec, Canada J1M 0C8."
+          },
+          {
+            name ml "Zhao X",
+            affil str "Department of Animal Science, McGill University,
+ Sainte-Anne-de-Bellevue, Quebec, Canada H9X 3V9."
+          },
+          {
+            name ml "Lacasse P",
+            affil str "Sherbrooke Research and Development Centre, Agriculture
+ and Agri-Food Canada, Sherbrooke, Quebec, Canada J1M 0C8. Electronic address:
+ Pierre.Lacasse@agr.gc.ca."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Dairy Sci.",
+          ml-jta "J Dairy Sci",
+          issn "1525-3198",
+          name "Journal of dairy science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "101",
+          issue "3",
+          pages "2588-2601",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29274969,
+        pii "S0022-0302(17)31174-8",
+        doi "10.3168/jds.2017-13353",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-0302(17)31174-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3168/jds.2017-13353"
+        }
+      }
+    },
+    abstract "Estradiol inhibits milk production in dairy cows. The present
+ study evaluated the effect of 17beta-estradiol (E2) injections on prolactin
+ (PRL) secretion and the mammary gland response to this hormone. Eight
+ mid-lactation cows were used in a crossover design. During each experimental
+ period, the cows were injected daily with either E2 (2.5 mg) or soy oil (2.5
+ mL; control) for 7 d. For each period, blood and milk samples were collected
+ from d -4 to 14 (relative to the first injection) to measure PRL,
+ insulin-like growth factor-1, and cortisol concentrations. In addition, blood
+ samples were collected during morning milking on d -4, 2, and 7 to determine
+ the milking-induced PRL release. Mammary gland biopsies were collected on the
+ last day of injections. Milk fat samples were collected from d 1 to 7 and on
+ d 14. The mRNA levels of genes encoding proteins related to mammary activity
+ (alpha-lactalbumin, beta-casein, and acetyl-coenzyme A carboxylase),
+ apoptosis (Bax, Bcl2, and caspase-3), PRL receptors (PRLR; long and short
+ forms), signal transducer and activator of transcription 5 (STAT5A and
+ STAT5B), and suppressors of cytokine signaling (SOCS2 and SOCS3) were
+ evaluated by real-time reverse transcription PCR using RNA extracted from
+ milk fat and mammary biopsies. Milk production was decreased moderately
+ (about 9%) by E2 injections during the treatment period. Estradiol injections
+ increased basal PRL levels in serum and milk but did not affect
+ milking-induced PRL release. Estradiol injections increased the plasma
+ concentration of insulin-like growth factor-1 but did not affect cortisol
+ concentration during the treatment period. In mammary tissue, the expression
+ of Bcl2 was downregulated, whereas that of STAT5A and B and the Bax:Bcl2 mRNA
+ ratio was higher during E2 injections. The total STAT5 protein content in
+ mammary tissue was elevated by E2 injections. We found no significant
+ difference observed for the other genes in mammary tissue or milk fat. The
+ present data do not support the contention that E2 injections inhibit milk
+ production by interfering with PRL signaling, but enhanced basal PRL
+ concentration and STAT5 gene expression in mammary tissue.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cattle"
+      },
+      {
+        term "Estradiol",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Estrogens",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Lactation"
+      },
+      {
+        term "Mammary Glands, Animal",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Milk",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Prolactin",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Estrogens"
+      },
+      {
+        type cas,
+        cit "4TI98Z838E",
+        name "Estradiol"
+      },
+      {
+        type cas,
+        cit "9002-62-4",
+        name "Prolactin"
+      }
+    },
+    pmid 29274969,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

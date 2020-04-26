@@ -1,0 +1,329 @@
+
+Pubmed-entry ::= {
+  pmid 29304864,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Hypercapnia induces IL-1beta overproduction via activation of
+ NLRP3 inflammasome: implication in cognitive impairment in hypoxemic adult
+ rats."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ding HG",
+            affil str "Southern Medical University, 1838 North Guangzhou
+ Avenue, Guangzhou, 510515, China.; Department of Emergency and Critical Care
+ Medicine, Guangdong General Hospital and Guangdong Academy of Medical
+ Sciences, 106 ZhongshanEr Road, Guangzhou, 510080, China.; Department of
+ Emergency, Dongguan Third People's Hospital, Dongguan, Guangdong, China."
+          },
+          {
+            name ml "Deng YY",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Yang RQ",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Wang QS",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Jiang WQ",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Han YL",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Huang LQ",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Wen MY",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Zhong WH",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Li XS",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Yang F",
+            affil str "Department of Emergency and Critical Care Medicine,
+ Guangdong General Hospital and Guangdong Academy of Medical Sciences, 106
+ ZhongshanEr Road, Guangzhou, 510080, China."
+          },
+          {
+            name ml "Zeng HK",
+            affil str "Southern Medical University, 1838 North Guangzhou
+ Avenue, Guangzhou, 510515, China. zenghongke@vip.163.com.; Department of
+ Emergency and Critical Care Medicine, Guangdong General Hospital and
+ Guangdong Academy of Medical Sciences, 106 ZhongshanEr Road, Guangzhou,
+ 510080, China. zenghongke@vip.163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Neuroinflammation",
+          ml-jta "J Neuroinflammation",
+          issn "1742-2094",
+          name "Journal of neuroinflammation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 5
+          },
+          volume "15",
+          issue "1",
+          pages "4",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29304864,
+        doi "10.1186/s12974-017-1051-y",
+        pii "10.1186/s12974-017-1051-y",
+        other {
+          db "pmc",
+          tag str "PMC5755461"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12974-017-1051-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Cognitive impairment is one of common complications
+ of acute respiratory distress syndrome (ARDS). Increasing evidence suggests
+ that interleukin-1 beta (IL-1beta) plays a role in inducing neuronal
+ apoptosis in cognitive dysfunction. The lung protective ventilatory
+ strategies, which serve to reduce pulmonary morbidity for ARDS patients,
+ almost always lead to hypercapnia. Some studies have reported that
+ hypercapnia contributes to the risk of cognitive impairment and IL-1beta
+ secretion outside the central nervous system (CNS). However, the underlying
+ mechanism of hypercapnia aggravating cognitive impairment under hypoxia has
+ remained uncertain. This study was aimed to explore whether hypercapnia would
+ partake in increasing IL-1beta secretion via activating the NLRP3 (NLR
+ family, pyrin domain-containing 3) inflammasome in the hypoxic CNS and in
+ aggravating cognitive impairment. METHODS: The Sprague-Dawley (SD) rats that
+ underwent hypercapnia/hypoxemia were used for assessment of NLRP3, caspase-1,
+ IL-1beta, Bcl-2, Bax, and caspase-3 expression by Western blotting or double
+ immunofluorescence, and the model was also used for Morris water maze test.
+ In addition, Z-YVAD-FMK, a caspase-1 inhibitor, was used to treat BV-2
+ microglia to determine whether activation of NLRP3 inflammasome was required
+ for the enhancing effect of hypercapnia on expressing IL-1beta by Western
+ blotting or double immunofluorescence. The interaction effects were analyzed
+ by factorial ANOVA. Simple effects analyses were performed when an
+ interaction was observed. RESULTS: There were interaction effects on
+ cognitive impairment, apoptosis of hippocampal neurons, activation of NLRP3
+ inflammasome, and upregulation of IL-1beta between hypercapnia treatment and
+ hypoxia treatment. Hypercapnia + hypoxia treatment caused more serious damage
+ to the learning and memory of rats than those subjected to hypoxia treatment
+ alone. Expression levels of Bcl-2 were reduced, while that of Bax and
+ caspase-3 were increased by hypercapnia in hypoxic hippocampus. Hypercapnia
+ markedly increased the expression of NLRP3, caspase-1, and IL-1beta in
+ hypoxia-activated microglia both in vivo and in vitro. Pharmacological
+ inhibition of NLRP3 inflammasome activation and release of IL-1beta might
+ ameliorate apoptosis of neurons. CONCLUSIONS: The present results suggest
+ that hypercapnia-induced IL-1beta overproduction via activating the NLRP3
+ inflammasome by hypoxia-activated microglia may augment neuroinflammation,
+ increase neuronal cell death, and contribute to the pathogenesis of cognitive
+ impairments.",
+    mesh {
+      {
+        term "Age Factors"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Cognitive Dysfunction",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Hypercapnia",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Hypoxia",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Maze Learning",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "NLR Family, Pyrin Domain-Containing 3 Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "IL1B protein, rat"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "NLR Family, Pyrin Domain-Containing 3 Protein"
+      },
+      {
+        type nameonly,
+        name "Nlrp3 protein, rat"
+      }
+    },
+    idnum {
+      "2016A030311043; 2017A030313691/Natural Science Foundation of Guangdong
+ Province",
+      "201508020005/Pilot project of Guangzhou Clinical Medical Research and
+ Translational Medicine Center",
+      "155700027/Science and technology project of Guangzhou",
+      "2012-649/the National Clinical Key Specialty Construction Project Funds"
+    },
+    pmid 29304864,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,207 @@
+
+Pubmed-entry ::= {
+  pmid 28720215,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Autoimmune meningitis and encephalitis in adult-onset still
+ disease - Case report."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bozek M",
+            affil str "1st Department of Neurology, Institute of Psychiatry
+ and Neurology, Warsaw, Poland."
+          },
+          {
+            name ml "Konopko M",
+            affil str "1st Department of Neurology, Institute of Psychiatry
+ and Neurology, Warsaw, Poland."
+          },
+          {
+            name ml "Wierzba-Bobrowicz T",
+            affil str "Department of Neuropathology, Institute of Psychiatry
+ and Neurology, Warsaw, Poland."
+          },
+          {
+            name ml "Witkowski G",
+            affil str "1st Department of Neurology, Institute of Psychiatry
+ and Neurology, Warsaw, Poland."
+          },
+          {
+            name ml "Makowicz G",
+            affil str "Department of Neuroradiology, Institute of Psychiatry
+ and Neurology, Warsaw, Poland."
+          },
+          {
+            name ml "Sienkiewicz-Jarosz H",
+            affil str "1st Department of Neurology, Institute of Psychiatry
+ and Neurology, Warsaw, Poland. Electronic address: jarosz@ipin.edu.pl."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neurol. Neurochir. Pol.",
+          ml-jta "Neurol Neurochir Pol",
+          issn "0028-3843",
+          name "Neurologia i neurochirurgia polska"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9
+          },
+          volume "51",
+          issue "5",
+          pages "421-426",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 3
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 6,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28720215,
+        pii "S0028-3843(17)30137-8",
+        doi "10.1016/j.pjnns.2017.06.006",
+        other {
+          db "ELocationID pii",
+          tag str "S0028-3843(17)30137-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.pjnns.2017.06.006"
+        }
+      }
+    },
+    abstract "INTRODUCTION: Adult-onset Still disease (AOSD) is a rare
+ systemic inflammatory disease of unknown cause. Its symptoms usually include
+ persistent fever, fugitive salmon-colored rash, arthritis, sore throat (not
+ specific), but it may also lead to internal organs' involvement, which
+ presents with enlargement of the liver and spleen, swollen lymph nodes,
+ carditis or pleuritis - potentially life-threatening complications. In rare
+ cases, AOSD can cause aseptic meningitis or/and encephalitis. CASE
+ PRESENTATION: We report a case of 31-year-old male patient, who was referred
+ to neurological department for extending diagnostics of frontal lobes lesions
+ with involvement of adjacent meninges. Abnormalities have been revealed in
+ brain MRI, which was performed due to persistent headaches, visual
+ disturbances, fever, fatigue and cognitive decline. Wide differential
+ diagnosis was performed including laboratory findings, contrast enhanced MRI,
+ MR spectroscopy, flow cytometry and finally brain biopsy to exclude
+ neoplastic or infectious origin. Final diagnosis of autoimmune
+ meningoencephalitis in adult-onset Still disease has been made. CONCLUSION:
+ Adult-onset Still disease is a rare cause of inflammatory changes in central
+ nervous system, which if diagnosed, may be treated successfully with steroids
+ (commonly available agent), intravenous immunoglobulins or more specific
+ immunomodulating regiments.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Autoimmune Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Meningitis",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Still's Disease, Adult-Onset",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      }
+    },
+    pmid 28720215,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

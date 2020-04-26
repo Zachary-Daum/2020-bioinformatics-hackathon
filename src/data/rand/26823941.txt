@@ -1,0 +1,190 @@
+
+Pubmed-entry ::= {
+  pmid 26823941,
+  medent {
+    em std {
+      year 2016,
+      month 1,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Frozen Funding on Firearm Research: ""Doing Nothing Is No Longer
+ an Acceptable Solution""."
+      },
+      authors {
+        names std {
+          {
+            name ml "Betz ME",
+            affil str "University of Colorado School of Medicine, Department
+ of Emergency Medicine, Denver, Colorado."
+          },
+          {
+            name ml "Ranney ML",
+            affil str "Rhode Island Hospital/Alpert Medical School, Brown
+ University, Department of Emergency Medicine, Providence, Rhode Island."
+          },
+          {
+            name ml "Wintemute GJ",
+            affil str "University of California, Davis, Violence Prevention
+ Research Program, Department of Emergency Medicine; Sacramento, California."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "West J Emerg Med",
+          ml-jta "West J Emerg Med",
+          issn "1936-9018",
+          name "The western journal of emergency medicine"
+        },
+        imp {
+          date std {
+            year 2016,
+            month 1
+          },
+          volume "17",
+          issue "1",
+          pages "91-93",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 1,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 1,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 1,
+                day 14
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 1,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2016,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 26823941,
+        doi "10.5811/westjem.2016.1.29767",
+        pii "wjem-17-91",
+        other {
+          db "pmc",
+          tag str "PMC4729430"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.5811/westjem.2016.1.29767"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Firearms",
+        qual {
+          {
+            mp TRUE,
+            subh "legislation & jurisprudence"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ownership",
+        qual {
+          {
+            mp TRUE,
+            subh "legislation & jurisprudence"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Politics"
+      },
+      {
+        term "Public Health",
+        qual {
+          {
+            mp TRUE,
+            subh "legislation & jurisprudence"
+          }
+        }
+      },
+      {
+        term "Research Support as Topic",
+        qual {
+          {
+            mp TRUE,
+            subh "legislation & jurisprudence"
+          }
+        }
+      },
+      {
+        term "United States"
+      },
+      {
+        term "Wounds, Gunshot",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      }
+    },
+    pmid 26823941,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

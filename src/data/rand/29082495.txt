@@ -1,0 +1,240 @@
+
+Pubmed-entry ::= {
+  pmid 29082495,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "High Content Positional Biosensor Assay to Screen for Compounds
+ that Prevent or Disrupt Androgen Receptor and Transcription Intermediary
+ Factor 2 Protein-Protein Interactions."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hua Y",
+            affil str "Department of Pharmaceutical Sciences, School of
+ Pharmacy, University of Pittsburgh, Room 586 Salk Hall, 3501 Terrace Street,
+ Pittsburgh, PA, 15261, USA."
+          },
+          {
+            name ml "Camarco DP",
+            affil str "Department of Pharmaceutical Sciences, School of
+ Pharmacy, University of Pittsburgh, Room 586 Salk Hall, 3501 Terrace Street,
+ Pittsburgh, PA, 15261, USA."
+          },
+          {
+            name ml "Strock CJ",
+            affil str "Cyprotex US, 313 Pleasant Street, Watertown, MA, 02472,
+ USA."
+          },
+          {
+            name ml "Johnston PA",
+            affil str "Department of Pharmaceutical Sciences, School of
+ Pharmacy, University of Pittsburgh, Room 586 Salk Hall, 3501 Terrace Street,
+ Pittsburgh, PA, 15261, USA. paj18@pitt.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Methods Mol. Biol.",
+          ml-jta "Methods Mol Biol",
+          issn "1940-6029",
+          name "Methods in molecular biology (Clifton, N.J.)"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "1683",
+          pages "211-227",
+          language "eng",
+          retract {
+            type in-error,
+            exp "Methods Mol Biol. 2018;1683:E1. PMID: 29256175"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29082495,
+        doi "10.1007/978-1-4939-7357-6_13",
+        other {
+          db "pmc",
+          tag str "PMC6753931"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS1049377"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/978-1-4939-7357-6_13"
+        }
+      }
+    },
+    abstract "Transcriptional Intermediary Factor 2 (TIF2) is a key Androgen
+ receptor (AR) coactivator that has been implicated in the development and
+ progression of castration resistant prostate cancer (CRPC). This chapter
+ describes the implementation of an AR-TIF2 protein-protein interaction (PPI)
+ biosensor assay to screen for small molecules that can induce AR-TIF2 PPIs,
+ inhibit the DHT-induced formation of AR-TIF2 PPIs, or disrupt pre-existing
+ AR-TIF2 PPIs. The biosensor assay employs high content imaging and analysis
+ to quantify AR-TIF2 PPIs and integrates physiologically relevant cell-based
+ assays with the specificity of binding assays by incorporating structural
+ information from AR and TIF2 functional domains along with intracellular
+ targeting sequences using fluorescent protein reporters. Expression of the
+ AR-Red Fluorescent Protein (RFP) ""prey"" and TIF2-Green Fluorescent Protein
+ (GFP) ""bait"" components of the biosensor is directed by recombinant
+ adenovirus (rAV) expression constructs that facilitated a simple co-infection
+ protocol to produce homogeneous expression of both biosensors that is
+ scalable for screening. In untreated cells, AR-RFP expression is localized
+ predominantly to the cytoplasm and TIF2-GFP expression is localized only in
+ the nucleoli of the nucleus. Exposure to DHT induces the co-localization of
+ AR-RFP within the TIF2-GFP positive nucleoli of the nucleus. The AR-TIF2
+ biosensor assay therefore recapitulates the ligand-induced translocation of
+ latent AR from the cytoplasm to the nucleus, and the PPIs between AR and TIF2
+ result in the colocalization of AR-RFP within TIF2-GFP expressing nucleoli.
+ The AR-TIF2 PPI biosensor approach offers significant promise for identifying
+ molecules with potential to modulate AR transcriptional activity in a
+ cell-specific manner that may overcome the development of resistance and
+ progression to CRPC.",
+    mesh {
+      {
+        mp TRUE,
+        term "Biosensing Techniques"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        mp TRUE,
+        term "Drug Discovery",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "High-Throughput Screening Assays"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Image Processing, Computer-Assisted"
+      },
+      {
+        term "Molecular Imaging",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Nuclear Receptor Coactivator 2",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein Binding",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protein Interaction Mapping",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Receptors, Androgen",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Nuclear Receptor Coactivator 2"
+      },
+      {
+        type nameonly,
+        name "Receptors, Androgen"
+      }
+    },
+    idnum {
+      "R01 CA160423/CA/NCI NIH HHS",
+      "R01 CA183882/CA/NCI NIH HHS",
+      "R21 NS073889/NS/NINDS NIH HHS"
+    },
+    pmid 29082495,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

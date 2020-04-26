@@ -1,0 +1,260 @@
+
+Pubmed-entry ::= {
+  pmid 29161237,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "BILATERAL VISUAL FIELD DEFECTS IN A PATIENT TREATED WITH THE MEK
+ AND BRAF INHIBITORS TRAMETINIB AND DABRAFENIB FOR MELANOMA OF UNKNOWN ORIGIN."
+      },
+      authors {
+        names std {
+          {
+            name ml "Siedlecki J",
+            affil str "Departments of Ophthalmology, and."
+          },
+          {
+            name ml "Mackert M",
+            affil str "Departments of Ophthalmology, and."
+          },
+          {
+            name ml "Wolf A",
+            affil str "Departments of Ophthalmology, and."
+          },
+          {
+            name ml "Berking C",
+            affil str "Dermatology and Allergology,
+ Ludwig-Maximilians-University, Munich, Germany."
+          },
+          {
+            name ml "Priglinger SG",
+            affil str "Departments of Ophthalmology, and."
+          },
+          {
+            name ml "Eibl-Lindner K",
+            affil str "Departments of Ophthalmology, and."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Retin Cases Brief Rep",
+          ml-jta "Retin Cases Brief Rep",
+          issn "1937-1578",
+          name "Retinal cases & brief reports"
+        },
+        imp {
+          date std {
+            year 2019
+          },
+          volume "13",
+          issue "3",
+          pages "215-219",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29161237,
+        doi "10.1097/ICB.0000000000000585",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/ICB.0000000000000585"
+        }
+      }
+    },
+    abstract "INTRODUCTION: Although the introduction of BRAF and MEK
+ inhibitors has greatly enhanced treatment possibilities in advanced
+ BRAFV600-mutated melanoma, class-related toxicities are rather frequent and
+ often involve the eye. Ophthalmologic side effects most commonly include
+ central/diffuse serous retinopathy and retinal vein occlusion. Affection of
+ the optic nerve head however has not been described clinically. CASE REPORT:
+ A 29-year-old man presented in our eye clinic with bilateral blurred vision.
+ Seventeen days earlier, he had been started on trametinib and dabrafenib
+ combination therapy for metastasized melanoma of unknown origin. Visual field
+ testing revealed diffuse bilateral defects, which regressed spontaneously on
+ pause of MEK and BRAF inhibitor treatment. DISCUSSION: In addition to the
+ widely known class-related retinal toxicity, MEK and BRAF
+ inhibitor-associated adverse events may also involve the optic nerve head,
+ causing visual field defects probably regressing spontaneously after
+ discontinuation of targeted oncologic therapy. In such cases, repeat brain
+ imaging and exclusion of melanoma-associated retinopathy is recommended.
+ Reinitiation of treatment and subsequent dose escalation seem to be feasible,
+ but should be monitored by an ophthalmologist.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Brain Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "secondary"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Imidazoles",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Melanoma",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "secondary"
+          }
+        }
+      },
+      {
+        term "Oximes",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Protein Kinase Inhibitors",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Pyridones",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Pyrimidinones",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Vision Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          }
+        }
+      },
+      {
+        term "Visual Fields",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Imidazoles"
+      },
+      {
+        type nameonly,
+        name "Oximes"
+      },
+      {
+        type nameonly,
+        name "Protein Kinase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "Pyridones"
+      },
+      {
+        type nameonly,
+        name "Pyrimidinones"
+      },
+      {
+        type cas,
+        cit "33E86K87QN",
+        name "trametinib"
+      },
+      {
+        type cas,
+        cit "QGP4HA4G1B",
+        name "dabrafenib"
+      }
+    },
+    pmid 29161237,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,247 @@
+
+Pubmed-entry ::= {
+  pmid 29058014,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Quantitative Rapid Assessment of Leukoaraiosis in CT :
+ Comparison to Gold Standard MRI."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hanning U",
+            affil str "Department of Diagnostic and Interventional
+ Neuroradiology, Universal Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+ u.hanning@uke.de.; Department of Clinical Radiology, University Hospital of
+ Munster, Munster, Germany. u.hanning@uke.de.; Department of Epidemiology and
+ Social Medicine, University of Munster, Munster, Germany. u.hanning@uke.de."
+          },
+          {
+            name ml "Sporns PB",
+            affil str "Department of Clinical Radiology, University Hospital
+ of Munster, Munster, Germany."
+          },
+          {
+            name ml "Schmidt R",
+            affil str "Institute of Biostatistics and Clinical Research,
+ University of Munster, Munster, Germany."
+          },
+          {
+            name ml "Niederstadt T",
+            affil str "Department of Clinical Radiology, University Hospital
+ of Munster, Munster, Germany."
+          },
+          {
+            name ml "Minnerup J",
+            affil str "Department of Neurology, University Hospital of
+ Munster, Munster, Germany."
+          },
+          {
+            name ml "Bier G",
+            affil str "Department of Diagnostic and Interventional
+ Neuroradiology, Eberhard Karls University Tubingen, Tubingen, Germany."
+          },
+          {
+            name ml "Knecht S",
+            affil str "Department of Neurology, Mauritius Hospital and
+ University Hospital of Dusseldorf, Dusseldorf, Germany."
+          },
+          {
+            name ml "Kemmling A",
+            affil str "Institute of Neuroradiology, University Hospital of
+ Lubeck, Lubeck, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Neuroradiol",
+          ml-jta "Clin Neuroradiol",
+          issn "1869-1447",
+          name "Clinical neuroradiology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 3
+          },
+          volume "29",
+          issue "1",
+          pages "109-115",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29058014,
+        doi "10.1007/s00062-017-0636-2",
+        pii "10.1007/s00062-017-0636-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00062-017-0636-2"
+        }
+      }
+    },
+    abstract "PURPOSE: The severity of white matter lesions (WML) is a risk
+ factor of hemorrhage and predictor of clinical outcome after ischemic stroke;
+ however, in contrast to magnetic resonance imaging (MRI) reliable
+ quantification for this surrogate marker is limited for computed tomography
+ (CT), the leading stroke imaging technique. We aimed to present and evaluate
+ a CT-based automated rater-independent method for quantification of
+ microangiopathic white matter changes. METHODS: Patients with suspected minor
+ stroke (National Institutes of Health Stroke scale, NIHSS < 4) were screened
+ for the analysis of non-contrast computerized tomography (NCCT) at admission
+ and compared to follow-up MRI. The MRI-based WML volume and visual Fazekas
+ scores were assessed as the gold standard reference. We employed a recently
+ published probabilistic brain segmentation algorithm for CT images to
+ determine the tissue-specific density of WM space. All voxel-wise densities
+ were quantified in WM space and weighted according to partial probabilistic
+ WM content. The resulting mean weighted density of WM space in NCCT, the
+ surrogate of WML, was correlated with reference to MRI-based WML parameters.
+ RESULTS: The process of CT-based tissue-specific segmentation was reliable in
+ 79 cases with varying severity of microangiopathy. Voxel-wise weighted
+ density within WM spaces showed a noticeable correlation (r = -0.65) with
+ MRI-based WML volume. Particularly in patients with moderate or severe lesion
+ load according to the visual Fazekas score the algorithm provided reliable
+ prediction of MRI-based WML volume. CONCLUSION: Automated
+ observer-independent quantification of voxel-wise WM density in CT
+ significantly correlates with microangiopathic WM disease in gold standard
+ MRI. This rapid surrogate of white matter lesion load in CT may support
+ objective WML assessment and therapeutic decision-making during acute stroke
+ triage.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Algorithms"
+      },
+      {
+        term "Cerebral Small Vessel Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Leukoaraiosis",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Reference Standards"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Stroke",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Tomography, X-Ray Computed"
+      },
+      {
+        term "White Matter",
+        qual {
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      }
+    },
+    pmid 29058014,
+    pub-type {
+      "Comparative Study",
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

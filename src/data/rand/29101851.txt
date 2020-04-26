@@ -1,0 +1,288 @@
+
+Pubmed-entry ::= {
+  pmid 29101851,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Structure, antioxidative potency and potential scavenging of OH
+ and OOH of phenylethyl-3,4-dihydroxyhydrocinnamate in protic and aprotic
+ media: DFT study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Holtomo O",
+            affil str "Department of Physics, Faculty of Science, University
+ of Bamenda, Bambili P. O. Box 39, Cameroon; Laboratory of Fundamental
+ Physics, Faculty of Science,University of Douala, Douala P. O. Box 24157,
+ Cameroon. Electronic address: holtomoo@gmail.com."
+          },
+          {
+            name ml "Nsangou M",
+            affil str "Department of Physics, Higher Teacher's Training
+ College, University of Maroua, Maroua P. O. Box 46, Cameroon; Department of
+ Physics, Faculty of Science, University of Ngaoundere, Ngaoundere P. O. Box
+ 454, Cameroon."
+          },
+          {
+            name ml "Fifen JJ",
+            affil str "Department of Physics, Faculty of Science, University
+ of Ngaoundere, Ngaoundere P. O. Box 454, Cameroon."
+          },
+          {
+            name ml "Motapon O",
+            affil str "Laboratory of Fundamental Physics, Faculty of
+ Science,University of Douala, Douala P. O. Box 24157, Cameroon."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Mol. Graph. Model.",
+          ml-jta "J Mol Graph Model",
+          issn "1873-4243",
+          name "Journal of molecular graphics & modelling"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "78",
+          pages "221-233",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29101851,
+        pii "S1093-3263(17)30688-5",
+        doi "10.1016/j.jmgm.2017.10.014",
+        other {
+          db "ELocationID pii",
+          tag str "S1093-3263(17)30688-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jmgm.2017.10.014"
+        }
+      }
+    },
+    abstract "DFT methods including B3LYP, B3PW91 and M05-2x associated to
+ 6-31+G(d,p) were used for the structural and antioxidant potency studies of
+ phenylethyl-3,4-dihydroxy-hydrocinnamate (PDH). Solvents were employed
+ according to their protric and aprotic character. So, calculated structures
+ agree with the experimental data. O4H4 is propitious to scavenge radicals
+ whatever the medium except in water where O3H3 and O4H4 are competitive. The
+ explicit solvents of dichloromethane (DCM) and water present a disparity of
+ OH bond dissociation enthalpy and free energy (BDE and BDFE). These
+ parameters are low in continuum except in water. The ionization potentials
+ (IP) and potential affinities (PA) are low in solvents. BDE, IP and PA are
+ each, approximatively constant in mixed solvent treatment in water using
+ n-H2O (n=3,5,8). Elsewhere, H-atom transfer (HAT) mechanism is favoured in
+ vacuum and DCM, whereas sequential proton loss electron transfer (SPLET) is
+ likely in protic solvents. A discord between HAT and SPLET in benzene is
+ observed. The PDH compound is more antioxidant and resistant to oxidation
+ than caffeic acid phenethyl ester (CAPE). The potential of scavenging of OH
+ and OOH whatever the reaction channel shows that they decay rapidly in any
+ media through HAT. PDH is easily deprotonated in the protic solvents and the
+ resulting product is the most antioxidant and the least resistant to
+ oxidation.",
+    mesh {
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Caffeic Acids",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Hydrogen",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Hydroxides",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Hydroxyl Radical",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Oxidation-Reduction"
+      },
+      {
+        term "Phenylethyl Alcohol",
+        qual {
+          {
+            subh "analogs & derivatives"
+          },
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Solvents",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Thermodynamics"
+      },
+      {
+        term "Water",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Caffeic Acids"
+      },
+      {
+        type nameonly,
+        name "Hydroxides"
+      },
+      {
+        type nameonly,
+        name "Solvents"
+      },
+      {
+        type cas,
+        cit "059QF0KO0R",
+        name "Water"
+      },
+      {
+        type cas,
+        cit "3352-57-6",
+        name "Hydroxyl Radical"
+      },
+      {
+        type cas,
+        cit "7YNJ3PO35Z",
+        name "Hydrogen"
+      },
+      {
+        type cas,
+        cit "G960R9S5SK",
+        name "caffeic acid phenethyl ester"
+      },
+      {
+        type cas,
+        cit "ML9LGA7468",
+        name "Phenylethyl Alcohol"
+      }
+    },
+    pmid 29101851,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

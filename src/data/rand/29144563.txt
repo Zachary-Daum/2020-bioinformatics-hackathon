@@ -1,0 +1,140 @@
+
+Pubmed-entry ::= {
+  pmid 29144563,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reply to Letter to the Editor regarding ""Systematic review and
+ meta-analysis of venous thromboembolism in otolaryngology-head and neck
+ surgery""."
+      },
+      authors {
+        names std {
+          {
+            name ml "Moubayed SP",
+            affil str "University of Montreal."
+          },
+          {
+            name ml "Eskander A",
+            affil str "University of Toronto."
+          },
+          {
+            name ml "Mourad MW",
+            affil str "New York Eye and Ear Infirmary of Mount Sinai."
+          },
+          {
+            name ml "Most SP",
+            affil str "Stanford University School of Medicine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Head Neck",
+          ml-jta "Head Neck",
+          issn "1097-0347",
+          name "Head & neck"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "40",
+          issue "2",
+          pages "449",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29144563,
+        doi "10.1002/hed.25015",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/hed.25015"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Otolaryngology"
+      },
+      {
+        mp TRUE,
+        term "Pulmonary Embolism"
+      },
+      {
+        mp TRUE,
+        term "Venous Thromboembolism"
+      }
+    },
+    pmid 29144563,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

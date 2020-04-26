@@ -1,0 +1,283 @@
+
+Pubmed-entry ::= {
+  pmid 28592435,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sex differences in renin-angiotensin-aldosterone system affect
+ extracellular volume in healthy subjects."
+      },
+      authors {
+        names std {
+          {
+            name ml "Toering TJ",
+            affil str "Division of Nephrology, Department of Internal
+ Medicine, University of Groningen, University Medical Center Groningen ,
+ Groningen , The Netherlands."
+          },
+          {
+            name ml "Gant CM",
+            affil str "Division of Nephrology, Department of Internal
+ Medicine, University of Groningen, University Medical Center Groningen ,
+ Groningen , The Netherlands.; Department of Internal Medicine-Nephrology,
+ Ziekenhuisgroep Twente Almelo, Almelo, The Netherlands."
+          },
+          {
+            name ml "Visser FW",
+            affil str "Department of Internal Medicine-Nephrology,
+ Ziekenhuisgroep Twente Almelo, Almelo, The Netherlands."
+          },
+          {
+            name ml "van der Graaf AM",
+            affil str "Division of Medical Biology, Department of Pathology
+ and Medical Biology, University of Groningen, University Medical Center
+ Groningen , Groningen , The Netherlands."
+          },
+          {
+            name ml "Laverman GD",
+            affil str "Department of Internal Medicine-Nephrology,
+ Ziekenhuisgroep Twente Almelo, Almelo, The Netherlands."
+          },
+          {
+            name ml "Danser AHJ",
+            affil str "Division of Pharmacology and Vascular Medicine,
+ Department of Internal Medicine, Erasmus University Medical Center ,
+ Rotterdam , The Netherlands."
+          },
+          {
+            name ml "Faas MM",
+            affil str "Division of Medical Biology, Department of Pathology
+ and Medical Biology, University of Groningen, University Medical Center
+ Groningen , Groningen , The Netherlands.; Department of Obstetrics and
+ Gynecology, University of Groningen, University Medical Center Groningen ,
+ Groningen , The Netherlands."
+          },
+          {
+            name ml "Navis G",
+            affil str "Division of Nephrology, Department of Internal
+ Medicine, University of Groningen, University Medical Center Groningen ,
+ Groningen , The Netherlands."
+          },
+          {
+            name ml "Lely AT",
+            affil str "Department of Obstetrics and Gynecology, University of
+ Utrecht, University Medical Center Utrecht , Utrecht , The Netherlands."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Physiol. Renal Physiol.",
+          ml-jta "Am J Physiol Renal Physiol",
+          issn "1522-1466",
+          name "American journal of physiology. Renal physiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 1
+          },
+          volume "314",
+          issue "5",
+          pages "F873-F878",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28592435,
+        pii "ajprenal.00109.2017",
+        doi "10.1152/ajprenal.00109.2017",
+        other {
+          db "ELocationID doi",
+          tag str "10.1152/ajprenal.00109.2017"
+        }
+      }
+    },
+    abstract "Several studies reported sex differences in aldosterone. It is
+ unknown whether these differences are associated with differences in volume
+ regulation. Therefore we studied both aldosterone and extracellular volume in
+ men and women on different sodium intakes. In healthy normotensive men ( n =
+ 18) and premenopausal women ( n = 18) we investigated plasma aldosterone,
+ blood pressure, and extracellular volume ((125)I-iothalamate), during both
+ low (target intake 50 mmol Na(+)/day) and high sodium intake (target intake
+ 200 mmol Na(+)/day) in a crossover setup. Furthermore, we studied the adrenal
+ response to angiotensin II infusion (0.3, 1.0, and 3.0 ng.kg(-1).min(-1) for
+ 1 h) on both sodium intakes. Men had a significantly higher plasma
+ aldosterone, extracellular volume, and systolic blood pressure than women
+ during high sodium intake ( P < 0.05). During low sodium intake,
+ extracellular volume and blood pressure were higher in men as well ( P <
+ 0.05), whereas the difference in plasma aldosterone was no longer significant
+ ( P = 0.252). The adrenal response to exogenous angiotensin II was
+ significantly lower in men than in women on both sodium intakes. Constitutive
+ sex differences in the regulation of aldosterone, characterized by a higher
+ aldosterone and a lower adrenal response to exogenous angiotensin II infusion
+ in men, are associated with a higher extracellular volume and blood pressure
+ in men. These findings suggest that sex differences in the regulation of
+ aldosterone contribute to differences in volume regulation between men and
+ women.",
+    mesh {
+      {
+        term "Adrenal Glands",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aldosterone",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Angiotensin II",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Blood Pressure"
+      },
+      {
+        term "Body Water",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cross-Over Studies"
+      },
+      {
+        term "Diet, Sodium-Restricted"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Fluid Shifts"
+      },
+      {
+        term "Healthy Volunteers"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infusions, Intravenous"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Random Allocation"
+      },
+      {
+        mp TRUE,
+        term "Renin-Angiotensin System"
+      },
+      {
+        term "Sex Factors"
+      },
+      {
+        term "Sodium, Dietary",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Water-Electrolyte Balance"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Sodium, Dietary"
+      },
+      {
+        type cas,
+        cit "11128-99-7",
+        name "Angiotensin II"
+      },
+      {
+        type cas,
+        cit "4964P6T9RB",
+        name "Aldosterone"
+      }
+    },
+    pmid 28592435,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

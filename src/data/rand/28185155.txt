@@ -1,0 +1,300 @@
+
+Pubmed-entry ::= {
+  pmid 28185155,
+  medent {
+    em std {
+      year 2017,
+      month 2,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Perfluoroalkyl acids (PFAAs) in water and sediment from the
+ coastal regions of Shandong peninsula, China."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wan Y",
+            affil str "School of Geography and Tourism, Qufu Normal
+ University, Rizhao, 276826, China."
+          },
+          {
+            name ml "Wang S",
+            affil str "School of Geography and Tourism, Qufu Normal
+ University, Rizhao, 276826, China. sdqfsf@163.com."
+          },
+          {
+            name ml "Cao X",
+            affil str "School of Geography and Tourism, Qufu Normal
+ University, Rizhao, 276826, China."
+          },
+          {
+            name ml "Cao Y",
+            affil str "School of Geography and Tourism, Qufu Normal
+ University, Rizhao, 276826, China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "School of Geography and Tourism, Qufu Normal
+ University, Rizhao, 276826, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "State Key Joint Laboratory on Environmental Simulation
+ and Pollution Control, School of Environment, Tsinghua University, Beijing,
+ 100084, China."
+          },
+          {
+            name ml "Liu J",
+            affil str "School of Life Science, Qufu Normal University, Qufu,
+ 273165, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ Monit Assess",
+          ml-jta "Environ Monit Assess",
+          issn "1573-2959",
+          name "Environmental monitoring and assessment"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "189",
+          issue "3",
+          pages "100",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 3,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 1,
+                day 25
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 2,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 2,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28185155,
+        doi "10.1007/s10661-017-5807-8",
+        pii "10.1007/s10661-017-5807-8",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10661-017-5807-8"
+        }
+      }
+    },
+    abstract "Perfluoroalkyl acids (PFAAs) have been observed in various
+ environmental matrices globally in recent years. In this study, the levels,
+ spatial distribution tendencies, and partitioning characteristics of the
+ target 12 PFAAs were investigated in water and sediment from the coastal
+ regions of Shandong peninsula in China, and two sediment core samples were
+ also collected to study the vertical and historical variation of PFAAs. The
+ ranges (means) of total PFAA concentrations were 23.69-148.48 ng/L (76.11
+ ng/L) in the water and 1.30-11.17 ng/g (5.93 ng/g) in the surface sediment,
+ respectively. Among the target 12 PFAAs, perfluorooctanoic acid (PFOA) was
+ the dominant component in water, followed by perfluorooctane sulfonate (PFOS)
+ and perfluorohexanoic acid (PFHxA). PFOS, perfluoroundecanoic acid, and PFOA
+ were the dominant components in sediment. For their spatial distribution,
+ higher levels of PFAAs were found at the locations close to much developed
+ cities. The PFAA concentrations showed an overall decreasing tendency with
+ depth increase in the two sediment cores, which indicates that the extent of
+ PFAAs pollution is aggravating trend in recent years. Results of the
+ partition coefficient (K d ) show that the compounds with longer carbon
+ chains (C >/= 7) generally had higher K d values, which suggest that
+ long-chain PFAAs are prone to be adsorbed by sediment. In addition, the Log K
+ d of PFHxA, PFOA, and PFOS were significantly and positively correlated to
+ the salinity of the water. The results of risk assessment suggest appreciable
+ risk of PFAAs to the local ecosystem.",
+    mesh {
+      {
+        term "Adsorption"
+      },
+      {
+        term "Alkanesulfonic Acids",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Caproates",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Caprylates",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "China"
+      },
+      {
+        term "Cities"
+      },
+      {
+        term "Environmental Monitoring",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Fatty Acids",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Fluorocarbons",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Geologic Sediments",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Water"
+      },
+      {
+        term "Water Pollutants, Chemical",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Alkanesulfonic Acids"
+      },
+      {
+        type nameonly,
+        name "Caproates"
+      },
+      {
+        type nameonly,
+        name "Caprylates"
+      },
+      {
+        type nameonly,
+        name "Fatty Acids"
+      },
+      {
+        type nameonly,
+        name "Fluorocarbons"
+      },
+      {
+        type nameonly,
+        name "Water Pollutants, Chemical"
+      },
+      {
+        type nameonly,
+        name "perfluoroundecanoic acid"
+      },
+      {
+        type cas,
+        cit "059QF0KO0R",
+        name "Water"
+      },
+      {
+        type cas,
+        cit "947VD76D3L",
+        name "perfluorooctanoic acid"
+      },
+      {
+        type cas,
+        cit "9H2MAI21CL",
+        name "perfluorooctane sulfonic acid"
+      },
+      {
+        type cas,
+        cit "ZP34Q2220R",
+        name "perfluorohexanoic acid"
+      }
+    },
+    pmid 28185155,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

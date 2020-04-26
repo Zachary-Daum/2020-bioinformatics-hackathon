@@ -1,0 +1,112 @@
+
+Pubmed-entry ::= {
+  pmid 28915753,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Non-renewal statistics for electron transport in a molecular
+ junction with electron-vibration interaction."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kosov DS",
+            affil str "College of Science and Engineering, James Cook
+ University, Townsville, QLD 4811, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Chem Phys",
+          ml-jta "J Chem Phys",
+          issn "1089-7690",
+          name "The Journal of chemical physics"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9,
+            day 14
+          },
+          volume "147",
+          issue "10",
+          pages "104109",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 17,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28915753,
+        doi "10.1063/1.4991038",
+        other {
+          db "ELocationID doi",
+          tag str "10.1063/1.4991038"
+        }
+      }
+    },
+    abstract "Quantum transport of electrons through a molecule is a series of
+ individual electron tunneling events separated by stochastic waiting time
+ intervals. We study the emergence of temporal correlations between successive
+ waiting times for the electron transport in a vibrating molecular junction.
+ Using the master equation approach, we compute the joint probability
+ distribution for waiting times of two successive tunneling events. We show
+ that the probability distribution is completely reset after each tunneling
+ event if molecular vibrations are thermally equilibrated. If we treat
+ vibrational dynamics exactly without imposing the equilibration constraint,
+ the statistics of electron tunneling events become non-renewal. Non-renewal
+ statistics between two waiting times tau1 and tau2 means that the density
+ matrix of the molecule is not fully renewed after time tau1 and the
+ probability of observing waiting time tau2 for the second electron transfer
+ depends on the previous electron waiting time tau1. The strong
+ electron-vibration coupling is required for the emergence of the non-renewal
+ statistics. We show that in the Franck-Condon blockade regime, extremely rare
+ tunneling events become positively correlated.",
+    pmid 28915753,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

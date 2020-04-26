@@ -1,0 +1,206 @@
+
+Pubmed-entry ::= {
+  pmid 28372513,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Economic evaluation of telephone-based concussion management for
+ combat-related mild traumatic brain injury."
+      },
+      authors {
+        names std {
+          {
+            name ml "Richardson JS",
+            affil str "1 Department of Health Management and Policy,
+ University of Michigan, Ann Arbor, MI, USA."
+          },
+          {
+            name ml "Guzauskas GF",
+            affil str "2 Department of Pharmacy, University of Washington,
+ Seattle, WA, USA."
+          },
+          {
+            name ml "Fann JR",
+            affil str "3 Department of Psychiatry and Behavioral Sciences,
+ University of Washington, Seattle, WA, USA.; 4 Department of Rehabilitation
+ Medicine, University of Washington, Seattle, WA, USA."
+          },
+          {
+            name ml "Temkin NR",
+            affil str "5 Department of Neurological Surgery, University of
+ Washington, Seattle, WA, USA.; 6 Department of Biostatistics, University of
+ Washington, Seattle, WA, USA."
+          },
+          {
+            name ml "Bush NE",
+            affil str "7 National Center for Telehealth and Technology, Joint
+ Base Lewis-McChord, WA, USA."
+          },
+          {
+            name ml "Bell KR",
+            affil str "8 Department of Physical Medicine and Rehabilitation,
+ University of Texas Southwestern Medical Center, Dallas, TX, USA."
+          },
+          {
+            name ml "Gahm GA",
+            affil str "7 National Center for Telehealth and Technology, Joint
+ Base Lewis-McChord, WA, USA."
+          },
+          {
+            name ml "Smolenski DJ",
+            affil str "7 National Center for Telehealth and Technology, Joint
+ Base Lewis-McChord, WA, USA."
+          },
+          {
+            name ml "Brockway JA",
+            affil str "4 Department of Rehabilitation Medicine, University of
+ Washington, Seattle, WA, USA."
+          },
+          {
+            name ml "Hansen RN",
+            affil str "2 Department of Pharmacy, University of Washington,
+ Seattle, WA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Telemed Telecare",
+          ml-jta "J Telemed Telecare",
+          issn "1758-1109",
+          name "Journal of telemedicine and telecare"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "24",
+          issue "4",
+          pages "282-289",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28372513,
+        doi "10.1177/1357633X17696586",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1357633X17696586"
+        }
+      }
+    },
+    abstract "Introduction Mild traumatic brain injury (mTBI) is an
+ unfortunately common repercussion of military service in a combat zone. The
+ CONTACT study tested an individualized telephone support intervention
+ employing problem solving therapy (PST) for mTBI in soldiers recently
+ returned from deployment. We sought to determine the cost effectiveness of
+ this intervention from a military healthcare system perspective. Methods We
+ conducted an intent-to-treat post-hoc analysis by building a decision
+ analytic model that evaluated the choice between using PST or education only
+ (EO). The model included cost-minimization and cost-effectiveness analyses.
+ The incremental cost-effectiveness ratios (ICERs) were calculated as the
+ differences in costs of PST versus EO relative to the differences in the
+ outcomes of participants. Results The PST intervention resulted in an annual
+ per-enrolee cost of $1027 (95% CI: $836 to $1248), while EO costs were $32
+ (95% CI: $25 to $39), resulting in a net incremental cost of $996 per enrolee
+ (95% CI: $806 to $1,217). The ICERs were $68,658/QALY based on EQ-5D (95% CI:
+ -$463,535 to $596,661) and $49,284/QALY based on SF-6D (95% CI: $26,971 to
+ $159,309). Estimates of treatment costs in a real-world setting were
+ accompanied by substantially lower ICERs that are within accepted thresholds
+ for willingness-to-pay. Discussion Although the intervention had short-term
+ benefits sufficient to yield acceptable ICERs, there was no long-term effect
+ of PST over EO observed in the study. Consequently, we suggest that future
+ studies examine the use of low-cost approaches, such as booster
+ relapse-prevention calls, that may lead to a sustained treatment benefit for
+ this population.",
+    mesh {
+      {
+        term "Brain Concussion",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Cost-Benefit Analysis"
+      },
+      {
+        term "Decision Making"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Military Personnel"
+      },
+      {
+        mp TRUE,
+        term "Problem Solving"
+      },
+      {
+        term "Quality-Adjusted Life Years"
+      },
+      {
+        mp TRUE,
+        term "Telephone"
+      },
+      {
+        term "War Exposure"
+      }
+    },
+    pmid 28372513,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

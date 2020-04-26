@@ -1,0 +1,212 @@
+
+Pubmed-entry ::= {
+  pmid 29235657,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Electric double layer electrostatics of
+ lipid-bilayer-encapsulated nanoparticles: Toward a better understanding of
+ protocell electrostatics."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jing H",
+            affil str "Department of Mechanical Engineering, University of
+ Maryland, College Park, MD, 20742, USA."
+          },
+          {
+            name ml "Das S",
+            affil str "Department of Mechanical Engineering, University of
+ Maryland, College Park, MD, 20742, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Electrophoresis",
+          ml-jta "Electrophoresis",
+          issn "1522-2683",
+          name "Electrophoresis"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "39",
+          issue "5-6",
+          pages "752-759",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29235657,
+        doi "10.1002/elps.201700286",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/elps.201700286"
+        }
+      }
+    },
+    abstract "Lipid-bilayer-encapsulated nanoparticles (LBLENPs) or
+ NP-supported LBL systems, such as protocells (which are lipid bilayer
+ encapsulated mesoporous silica nanoparticles or MSNPs) have received
+ extensive attention for applications like targeted drug and gene deliveries,
+ multimodal diagnostics, characterization of membrane-geometry sensitive
+ molecules, etc. Very often electrostatic-mediated interactions have been
+ hypothesized to play key roles in the functioning of these LBLENPs. Despite
+ that, very little has been done to theoretically quantify the fundamental
+ electric double layer (EDL) electrostatics of such LBLENPs. In this study, we
+ develop an EDL theory to describe the electrostatics of such LBLENPs. We show
+ that the electrostatics is a manifestation of the charged/dielectric nature
+ of the NP, LBL structure and charging, and the ionic environment in which the
+ LBLENPs are present. We also establish that for certain conditions of
+ charging of the NP one witnesses a most remarkable charge inversion like
+ electrostatics within the LBL membrane or the NP itself. We anticipate that
+ our findings will provide an extremely useful platform for better
+ understanding the fabrication and functioning of such LBLENPs and discuss
+ examples where our theory can be useful.",
+    mesh {
+      {
+        term "Artificial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Drug Delivery Systems",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Gene Transfer Techniques"
+      },
+      {
+        term "Lipid Bilayers",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Models, Theoretical"
+      },
+      {
+        term "Nanoparticles",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Porosity"
+      },
+      {
+        term "Silicon Dioxide",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Static Electricity"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipid Bilayers"
+      },
+      {
+        type cas,
+        cit "7631-86-9",
+        name "Silicon Dioxide"
+      }
+    },
+    pmid 29235657,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

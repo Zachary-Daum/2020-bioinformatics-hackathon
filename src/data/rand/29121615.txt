@@ -1,0 +1,280 @@
+
+Pubmed-entry ::= {
+  pmid 29121615,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Restructuration kinetics of amphiphilic intraocular lenses
+ during aging."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tortolano L",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France; Hopital Universitaire Henri
+ Mondor, AP-HP, Departement de Pharmacie, Creteil F-94010, France. Electronic
+ address: lionel.tortolano@u-psud.fr."
+          },
+          {
+            name ml "Saunier J",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France."
+          },
+          {
+            name ml "Hammami S",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France."
+          },
+          {
+            name ml "Manerlax K",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France."
+          },
+          {
+            name ml "Matmati H",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France."
+          },
+          {
+            name ml "Do B",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France; Hopital Universitaire Henri
+ Mondor, AP-HP, Departement de Pharmacie, Creteil F-94010, France."
+          },
+          {
+            name ml "Jubeli E",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France."
+          },
+          {
+            name ml "Fattal E",
+            affil str "UMR CNRS8612, Institut Galien Paris-Sud, Universite
+ Paris-Sud, UFR Pharmacie, Chatenay-Malabry F-92290, France."
+          },
+          {
+            name ml "Yagoubi N",
+            affil str "EA 401: Materiaux et sante, Universite Paris-Sud, UFR
+ Pharmacie, Chatenay-Malabry F-92290, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Colloids Surf B Biointerfaces",
+          ml-jta "Colloids Surf B Biointerfaces",
+          issn "1873-4367",
+          name "Colloids and surfaces. B, Biointerfaces"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 1
+          },
+          volume "161",
+          pages "420-432",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29121615,
+        pii "S0927-7765(17)30744-0",
+        doi "10.1016/j.colsurfb.2017.11.007",
+        other {
+          db "ELocationID pii",
+          tag str "S0927-7765(17)30744-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.colsurfb.2017.11.007"
+        }
+      }
+    },
+    abstract "Photooxidation and hydrolysis are the two primary aging factors
+ of intraocular lenses. Opacifications, dislocations, glistening and yellowing
+ of the implanted acrylic lenses, which are due to chain scissions and
+ depolymerization, are the consequences of aging from the clinical
+ perspective. The purpose of this study was to examine the consequence of the
+ aging of intraocular lenses on chemical and surface properties. Acrylic
+ lenses made of poly acrylic-co-polystyrene polymer were artificially aged by
+ photooxidation and hydrolysis from 2 to 20 years. Degradation products were
+ observed by Reverse-phase High-Performance Liquid Chromatography RP-HPLC and
+ thermogravimetric analysis (TGA). The surface, which was analyzed by atomic
+ force microscopy (AFM) and fibronectin adhesion kinetics, was chosen as an
+ indicator of intraocular biocompatibility. Low-molecular-weight degradation
+ products (LMWP) result from chain scission under both hydrolysis and
+ photooxidation. The osmotic effects of water enable degradation products to
+ migrate through the polymer. A portion of the degradation products exudate in
+ the surrounding center, whereas a portion link with lateral chains of the
+ polymer. At the same time, the surface roughness evolves to externalize the
+ most hydrophilic chains. As a result, the fibronectin adhesion level decrease
+ with time, which indicates the existence of a biocompatible kinetic for
+ implanted intraocular lenses.",
+    mesh {
+      {
+        term "Acrylates",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Chromatography, High Pressure Liquid",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Chromatography, Reverse-Phase",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrolysis"
+      },
+      {
+        term "Hydrophobic and Hydrophilic Interactions"
+      },
+      {
+        term "Kinetics"
+      },
+      {
+        term "Lens, Crystalline",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Lenses, Intraocular"
+      },
+      {
+        term "Light"
+      },
+      {
+        term "Microscopy, Atomic Force"
+      },
+      {
+        term "Oxidation-Reduction",
+        qual {
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        term "Polystyrenes",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Surface Properties"
+      },
+      {
+        term "Thermogravimetry"
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Acrylates"
+      },
+      {
+        type nameonly,
+        name "Polystyrenes"
+      }
+    },
+    pmid 29121615,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

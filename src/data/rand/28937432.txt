@@ -1,0 +1,145 @@
+
+Pubmed-entry ::= {
+  pmid 28937432,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Whole Slide Imaging."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fertig RM",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami, Miller School of Medicine, Miami, FL."
+          },
+          {
+            name ml "Sangueza O",
+            affil str "Department of Pathology, Wake Forest School of
+ Medicine, Winston-Salem, NC."
+          },
+          {
+            name ml "Gaudi S",
+            affil str "Pathology and Laboratory Medicine Service, James A
+ Haley VA Hospital, Tampa, FL."
+          },
+          {
+            name ml "Gamret AC",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami, Miller School of Medicine, Miami, FL."
+          },
+          {
+            name ml "Cervantes J",
+            affil str "Department of Dermatology and Cutaneous Surgery,
+ University of Miami, Miller School of Medicine, Miami, FL."
+          },
+          {
+            name ml "Jukic DM",
+            affil str "Pathology and Laboratory Medicine Service, James A
+ Haley VA Hospital, Tampa, FL.; Georgia Dermatopathology, Savannah, GA.;
+ Department of Dermatology, University of Florida, Gainesville, FL."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dermatopathol",
+          ml-jta "Am J Dermatopathol",
+          issn "1533-0311",
+          name "The American Journal of dermatopathology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "40",
+          issue "12",
+          pages "938-939",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28937432,
+        doi "10.1097/DAD.0000000000001008",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/DAD.0000000000001008"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        term "Image Interpretation, Computer-Assisted",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Pathology, Clinical",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Software"
+      }
+    },
+    pmid 28937432,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

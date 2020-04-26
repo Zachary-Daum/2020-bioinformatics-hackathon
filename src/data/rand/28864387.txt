@@ -1,0 +1,249 @@
+
+Pubmed-entry ::= {
+  pmid 28864387,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tenosynovial Giant Cell Tumor in the Midfoot Treated With
+ Femoral Head Allograft Reconstruction."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fuchs DJ",
+            affil str "Orthoapedic Foot and Ankle Surgery Fellow, Department
+ of Orthopaedic Surgery, Baylor University Medical Center, Dallas, TX.
+ Electronic address: dfuchs0011@gmail.com."
+          },
+          {
+            name ml "Switaj PJ",
+            affil str "Orthopaedic Surgeon, OrthoVirginia, Reston, VA."
+          },
+          {
+            name ml "Peabody TD",
+            affil str "Professor of Orthopaedic Surgery, Department of
+ Orthopaedic Surgery, Northwestern University, Chicago, IL."
+          },
+          {
+            name ml "Kadakia AR",
+            affil str "Associate Professor of Orthopaedic Surgery, Department
+ of Orthopaedic Surgery, Northwestern University, Chicago, IL."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Foot Ankle Surg",
+          ml-jta "J Foot Ankle Surg",
+          issn "1542-2224",
+          name "The Journal of foot and ankle surgery : official publication
+ of the American College of Foot and Ankle Surgeons"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "57",
+          issue "1",
+          pages "172-178",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28864387,
+        pii "S1067-2516(17)30457-X",
+        doi "10.1053/j.jfas.2017.07.010",
+        other {
+          db "ELocationID pii",
+          tag str "S1067-2516(17)30457-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1053/j.jfas.2017.07.010"
+        }
+      }
+    },
+    abstract "Tenosynovial giant cell tumor (also known as giant cell tumor of
+ tendon sheath or pigmented villonodular synovitis) is a rare soft tissue
+ tumor that arises from the tenosynovium of a tendon sheath or the synovium of
+ a diarthrodial joint. This disease process occurs infrequently in the foot
+ and ankle but can result in significant bone erosion and destructive changes
+ of affected joints. These cases are challenging to treat, because the tumor
+ most commonly presents in young, active patients and can be associated with
+ extensive bone loss. We review a case of tenosynovial giant cell tumor of
+ tendon sheath of the midfoot, which was treated with mass resection,
+ structural femoral head allograft bone grafting, and internal fixation with
+ dorsal plating. The patient had achieved successful bony fusion and
+ acceptable functional outcomes at the final follow-up visit 40 months
+ postoperatively.",
+    mesh {
+      {
+        term "Allografts"
+      },
+      {
+        term "Biopsy, Needle"
+      },
+      {
+        term "Bone Transplantation",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Femur Head",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Giant Cell Tumor of Tendon Sheath",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunohistochemistry"
+      },
+      {
+        term "Magnetic Resonance Imaging",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Metatarsal Bones",
+        qual {
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Orthopedic Procedures",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Reconstructive Surgical Procedures",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Risk Assessment"
+      },
+      {
+        term "Tarsal Bones",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 28864387,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

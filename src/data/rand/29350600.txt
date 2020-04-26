@@ -1,0 +1,210 @@
+
+Pubmed-entry ::= {
+  pmid 29350600,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long-term outcome of pallidal stimulation for Meige syndrome."
+      },
+      authors {
+        names std {
+          {
+            name ml "Horisawa S",
+            affil str "1Department of Neurosurgery, Neurological Institute,
+ Tokyo Women's Medical University, Tokyo."
+          },
+          {
+            name ml "Ochiai T",
+            affil str "2Ochiai Brain Clinic, Saitama; and."
+          },
+          {
+            name ml "Goto S",
+            affil str "1Department of Neurosurgery, Neurological Institute,
+ Tokyo Women's Medical University, Tokyo."
+          },
+          {
+            name ml "Nakajima T",
+            affil str "3Department of Neurosurgery, Jichi Medical University,
+ Tochigi, Japan."
+          },
+          {
+            name ml "Takeda N",
+            affil str "1Department of Neurosurgery, Neurological Institute,
+ Tokyo Women's Medical University, Tokyo."
+          },
+          {
+            name ml "Kawamata T",
+            affil str "1Department of Neurosurgery, Neurological Institute,
+ Tokyo Women's Medical University, Tokyo."
+          },
+          {
+            name ml "Taira T",
+            affil str "1Department of Neurosurgery, Neurological Institute,
+ Tokyo Women's Medical University, Tokyo."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Neurosurg.",
+          ml-jta "J Neurosurg",
+          issn "1933-0693",
+          name "Journal of neurosurgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 19
+          },
+          volume "130",
+          issue "1",
+          pages "84-89",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29350600,
+        pii "2017.7.JNS17323",
+        doi "10.3171/2017.7.JNS17323",
+        other {
+          db "ELocationID doi",
+          tag str "10.3171/2017.7.JNS17323"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "2017.7.JNS17323"
+        }
+      }
+    },
+    abstract "OBJECTIVE Meige syndrome is characterized by blepharospasm and
+ varied subphenotypes of craniocervical dystonia. Current literature on
+ pallidal surgery for Meige syndrome is limited to case reports and a few
+ small-scale studies. The authors investigated the clinical outcomes of deep
+ brain stimulation (DBS) of the globus pallidus internus (GPi) in patients
+ with Meige syndrome. METHODS Sixteen patients who underwent GPi DBS at the
+ Tokyo Women's Medical University Hospital between 2002 and 2015 were included
+ in this study. Burke-Fahn-Marsden Dystonia Rating Scale (BFMDRS) movement
+ subscale (BFMDRS-M) scores (range 0-120) obtained at the following 3 time
+ points were included in this analysis: before surgery, 3 months after
+ surgery, and at the most recent follow-up evaluation. RESULTS The patients'
+ mean age (+/- SD) at symptom onset was 46.7 +/- 10.1 years, and the mean
+ disease duration at the time of the authors' initial evaluation was 5.9 +/-
+ 4.1 years. In 12 patients, the initial symptom was blepharospasm, and the
+ other 4 patients presented with cervical dystonia. The mean postoperative
+ follow-up period was 66.6 +/- 40.7 months (range 13-150 months). The mean
+ total BFMDRS-M scores at the 3 time points were 16.3 +/- 5.5, 5.5 +/- 5.6
+ (66.3% improvement, p < 0.001), and 6.7 +/- 7.3 (58.9% improvement, p <
+ 0.001). CONCLUSIONS The results indicate long-term efficacy for GPi DBS for
+ the majority of patients with Meige syndrome.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Deep Brain Stimulation"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        mp TRUE,
+        term "Globus Pallidus"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Meige Syndrome",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29350600,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,219 @@
+
+Pubmed-entry ::= {
+  pmid 29143199,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Cone-beam CT in paediatric dentistry: DIMITRA project position
+ statement."
+      },
+      authors {
+        names std {
+          {
+            name ml "Oenning AC",
+            affil str "EA2496, Orofacial Pathologies, Imaging and
+ Biotherapies, Dental School Paris Descartes University, Sorbonne Paris Cite,
+ Montrouge, France.; Department of Odontology, AP-HP, Nord Val de Seine
+ Hospital (Bretonneau), Paris, France.; Department of Oral Diagnosis, Division
+ of Oral Radiology, Piracicaba Dental School, University of Campinas
+ (UNICAMP), Piracicaba, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Jacobs R",
+            affil str "OMFS IMPATH Research Group, Department of Imaging and
+ Pathology, Faculty of Medicine, University of Leuven and Oral & Maxillofacial
+ Surgery, University Hospitals Leuven, Leuven, Belgium.; Department of Dental
+ Medicine, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Pauwels R",
+            affil str "OMFS IMPATH Research Group, Department of Imaging and
+ Pathology, Faculty of Medicine, University of Leuven and Oral & Maxillofacial
+ Surgery, University Hospitals Leuven, Leuven, Belgium.; Department of
+ Radiology, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
+          },
+          {
+            name ml "Stratis A",
+            affil str "OMFS IMPATH Research Group, Department of Imaging and
+ Pathology, Faculty of Medicine, University of Leuven and Oral & Maxillofacial
+ Surgery, University Hospitals Leuven, Leuven, Belgium."
+          },
+          {
+            name ml "Hedesiu M",
+            affil str "Department of Oral Radiology, Faculty of Dentistry,
+ Iuliu Hatieganu University of Medicine and Pharmacy, Cluj-Napoca, Romania."
+          },
+          {
+            name ml "Salmon B",
+            affil str "EA2496, Orofacial Pathologies, Imaging and
+ Biotherapies, Dental School Paris Descartes University, Sorbonne Paris Cite,
+ Montrouge, France. benjamin.salmon@parisdescartes.fr.; Department of
+ Odontology, AP-HP, Nord Val de Seine Hospital (Bretonneau), Paris, France.
+ benjamin.salmon@parisdescartes.fr.; Faculte de Chirurgie Dentaire, Universite
+ Paris Descartes, 1, Rue Maurice Arnoux, 92120, Montrouge, France.
+ benjamin.salmon@parisdescartes.fr."
+          },
+          {
+            name consortium "DIMITRA Research Group, http://www.dimitra.be"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pediatr Radiol",
+          ml-jta "Pediatr Radiol",
+          issn "1432-1998",
+          name "Pediatric radiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "48",
+          issue "3",
+          pages "308-316",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29143199,
+        doi "10.1007/s00247-017-4012-9",
+        pii "10.1007/s00247-017-4012-9",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00247-017-4012-9"
+        }
+      }
+    },
+    abstract "DIMITRA (dentomaxillofacial paediatric imaging: an investigation
+ towards low-dose radiation induced risks) is a European multicenter and
+ multidisciplinary project focused on optimizing cone-beam CT exposures for
+ children and adolescents. With increasing use of cone-beam CT for
+ dentomaxillofacial diagnostics, concern arises regarding radiation risks
+ associated with this imaging modality, especially for children. Research
+ evidence concerning cone-beam CT indications in children remains limited,
+ while reports mention inconsistent recommendations for dose reduction.
+ Furthermore, there is no paper using the combined and integrated information
+ on the required indication-oriented image quality and the related patient
+ dose levels. In this paper, therefore, the authors initiate an integrated
+ approach based on current evidence regarding image quality and dose, together
+ with the expertise of DIMITRA's members searching for a state of the art. The
+ aim of this DIMITRA position statement is to provide indication-oriented and
+ patient-specific recommendations regarding the main cone-beam CT applications
+ in the pediatric field. The authors will review this position statement
+ document when results regarding multidisciplinary approaches evolve, in a
+ period of 5 years or earlier.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Cone-Beam Computed Tomography",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Europe"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Pediatric Dentistry"
+      },
+      {
+        term "Practice Guidelines as Topic"
+      },
+      {
+        term "Radiation Dosage"
+      },
+      {
+        term "Radiation Protection"
+      }
+    },
+    idnum {
+      "604984/European Atomic Energy Community"
+    },
+    pmid 29143199,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

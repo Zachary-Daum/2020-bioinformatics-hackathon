@@ -1,0 +1,306 @@
+
+Pubmed-entry ::= {
+  pmid 29104982,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the toxicity and transport mechanisms of cisplatin in kidney
+ tissues in comparison to a gold-based cytotoxic agent."
+      },
+      authors {
+        names std {
+          {
+            name ml "Spreckelmeyer S",
+            affil str "Dept. Pharmacokinetics, Toxicology and Targeting,
+ Groningen Research Institute of Pharmacy, University of Groningen, A.
+ Deusinglaan 1, 9713AV Groningen, The Netherlands and Medicinal Inorganic
+ Chemistry Group, Department of Chemistry, University of British Columbia,
+ 2036 Main Mall, Vancouver, British Columbia V6T 1Z1, Canada."
+          },
+          {
+            name ml "Estrada-Ortiz N",
+            affil str "Dept. Pharmacokinetics, Toxicology and Targeting,
+ Groningen Research Institute of Pharmacy, University of Groningen, A.
+ Deusinglaan 1, 9713AV Groningen, The Netherlands."
+          },
+          {
+            name ml "Prins GGH",
+            affil str "Dept. Pharmacokinetics, Toxicology and Targeting,
+ Groningen Research Institute of Pharmacy, University of Groningen, A.
+ Deusinglaan 1, 9713AV Groningen, The Netherlands."
+          },
+          {
+            name ml "van der Zee M",
+            affil str "Dept. Pharmacokinetics, Toxicology and Targeting,
+ Groningen Research Institute of Pharmacy, University of Groningen, A.
+ Deusinglaan 1, 9713AV Groningen, The Netherlands."
+          },
+          {
+            name ml "Gammelgaard B",
+            affil str "Dept. of Pharmacy, University of Copenhagen,
+ Universitetsparken 2, 2100 Copenhagen, Denmark."
+          },
+          {
+            name ml "Sturup S",
+            affil str "Dept. of Pharmacy, University of Copenhagen,
+ Universitetsparken 2, 2100 Copenhagen, Denmark."
+          },
+          {
+            name ml "de Graaf IAM",
+            affil str "Dept. Pharmacokinetics, Toxicology and Targeting,
+ Groningen Research Institute of Pharmacy, University of Groningen, A.
+ Deusinglaan 1, 9713AV Groningen, The Netherlands."
+          },
+          {
+            name ml "Groothuis GMM",
+            affil str "Dept. Pharmacokinetics, Toxicology and Targeting,
+ Groningen Research Institute of Pharmacy, University of Groningen, A.
+ Deusinglaan 1, 9713AV Groningen, The Netherlands."
+          },
+          {
+            name ml "Casini A",
+            affil str "Dept. Pharmacokinetics, Toxicology and Targeting,
+ Groningen Research Institute of Pharmacy, University of Groningen, A.
+ Deusinglaan 1, 9713AV Groningen, The Netherlands and School of Chemistry,
+ Cardiff University, Main Building, Park Place, CF103AT Cardiff, UK.
+ casinia@cardiff.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Metallomics",
+          ml-jta "Metallomics",
+          issn "1756-591X",
+          name "Metallomics : integrated biometal science"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12,
+            day 1
+          },
+          volume "9",
+          issue "12",
+          pages "1786-1795",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29104982,
+        doi "10.1039/c7mt00271h",
+        other {
+          db "ELocationID doi",
+          tag str "10.1039/c7mt00271h"
+        }
+      }
+    },
+    abstract "Mechanisms of toxicity and cellular transport of anticancer
+ metallodrugs, including platinum-based agents, have not yet been fully
+ elucidated. Here, we studied the toxic effects and accumulation mechanisms of
+ cisplatin in healthy rat kidneys ex vivo, using the Precision Cut Tissue
+ Slices (PCTS) method. In addition, for the first time, we investigated the
+ nephrotoxic effects of an experimental anticancer cyclometallated complex
+ [Au(py(b)-H)(PTA)Cl]PF6 (PTA = 1,3,5-triazaphosphaadamantane). The viability
+ of the kidney slices after metallodrug treatment was evaluated by ATP content
+ determination and histomorphology analysis. A concentration dependent
+ decrease in viability of PCKS was observed after exposure to cisplatin or the
+ Au(iii) complex, which correlated with the increase in slice content of Pt
+ and Au, respectively. Metal accumulation in kidney slices was analysed by
+ ICP-MS. The involvement of OCTs and MATE transporters in the accumulation of
+ both metal compounds in kidneys was evaluated co-incubating the tissues with
+ cimitedine, inhibitor of OCT and MATE. Studies of mRNA expression of the
+ markers KIM-1, villin, p53 and Bax showed that cisplatin damages proximal
+ tubules, whereas the Au(iii) complex preferentially affects the distal
+ tubules. However, no effect of cimetidine on the toxicity or accumulation of
+ cisplatin and the Au(iii) complex was observed. The effect of temperature on
+ metallodrug accumulation in kidneys suggests the involvement of a
+ carrier-mediated uptake process, other than OCT2, for cisplatin; while
+ carrier-mediated excretion was suggested in the cases of the Au(iii) complex.",
+    mesh {
+      {
+        term "Adenosine Triphosphate",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Antiporters",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cisplatin",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Cytotoxins",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Gold",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Kidney",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Organic Cation Transport Proteins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Organic Cation Transporter 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Wistar"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Antiporters"
+      },
+      {
+        type nameonly,
+        name "Cytotoxins"
+      },
+      {
+        type nameonly,
+        name "Organic Cation Transport Proteins"
+      },
+      {
+        type nameonly,
+        name "Organic Cation Transporter 2"
+      },
+      {
+        type nameonly,
+        name "Slc47a1 protein, rat"
+      },
+      {
+        type cas,
+        cit "7440-57-5",
+        name "Gold"
+      },
+      {
+        type cas,
+        cit "8L70Q75FXE",
+        name "Adenosine Triphosphate"
+      },
+      {
+        type cas,
+        cit "Q20Q21Q62J",
+        name "Cisplatin"
+      }
+    },
+    pmid 29104982,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

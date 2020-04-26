@@ -1,0 +1,328 @@
+
+Pubmed-entry ::= {
+  pmid 28799288,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Neuroprotective activity of cannabinoid receptor-2 against
+ oxidative stress and apoptosis in rat pups having experimentally-induced
+ congenital hypothyroidism."
+      },
+      authors {
+        names std {
+          {
+            name ml "Alcigir ME",
+            affil str "Department of Pathology, Faculty of Veterinary
+ Medicine, Ankara University, Diskapi-Ankara, 06110, Turkey."
+          },
+          {
+            name ml "Dogan HO",
+            affil str "Department of Biochemistry, Faculty of Medicine,
+ Cumhuriyet University, Sivas, 58140, Turkey."
+          },
+          {
+            name ml "Atalay Vural S",
+            affil str "Department of Pathology, Faculty of Veterinary
+ Medicine, Ankara University, Diskapi-Ankara, 06110, Turkey."
+          },
+          {
+            name ml "Yilmaz FM",
+            affil str "Department of Biochemistry, Faculty of Medicine,
+ Yildirim Bayezit University, Ankara, 06800, Turkey."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Dev Neurobiol",
+          ml-jta "Dev Neurobiol",
+          issn "1932-846X",
+          name "Developmental neurobiology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "77",
+          issue "11",
+          pages "1334-1347",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 21
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28799288,
+        doi "10.1002/dneu.22516",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/dneu.22516"
+        }
+      }
+    },
+    abstract "In this study, it was aimed to show the cannabinoid receptor-2
+ (CB2) role, which is a part of neuroprotective endocannabinoidal system,
+ against increasing nitric oxide synthetase (iNOS, eNOS) levels and the
+ apoptotic activity (caspase-3, caspase-9, and DNA in situ fragmentation)
+ within the postnatal critical period in pups of pregnant rats with
+ artificially induced maternal thyroid hormone (TH) deficiency. Each of the
+ three groups established comprised one male and two female rats, and they
+ were coupled. Their pups were used. In the first two groups, the mothers were
+ treated with 0.025% MMI during the critical period of the pregnancy. In the
+ third group, as the control group, the mothers and pups were not treated.
+ Euthanasia was applied to the pups in Group I on Day 10, and to the pups in
+ Groups II and III on Day 21. In the biochemical analyses, total T4 levels of
+ both mothers and pups in Group I and II were found to be lower than those of
+ the control group. Histopathologically, karyopyknosis in migrating neurons
+ and demyelinization were observed in both groups. Caspase-3 and -9
+ expressions and TUNEL reactions showed parallelism to these findings. eNOS
+ and iNOS activities were also increased in Groups I and II. CB2 receptor
+ activity was observed in the fore and mid brain in Group I, and in the whole
+ brain in Group II. In conclusion, apoptosis was triggered via oxidative
+ stress in hypothyroid pups. Accordingly, neuroprotective activity of CB2
+ receptors were motivated spontaneously to resist to CNS lesions during the
+ first 3 weeks of postnatal period. (c) 2017 Wiley Periodicals, Inc. Develop
+ Neurobiol 77: 1334-1347, 2017.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Animals, Newborn"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 9",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Congenital Hypothyroidism",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neuroprotective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide Synthase",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide Synthase Type II",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide Synthase Type III",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Wistar"
+      },
+      {
+        term "Receptor, Cannabinoid, CB2",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reflex",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Thyroid Hormones",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Neuroprotective Agents"
+      },
+      {
+        type nameonly,
+        name "Receptor, Cannabinoid, CB2"
+      },
+      {
+        type nameonly,
+        name "Thyroid Hormones"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nitric Oxide Synthase"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nitric Oxide Synthase Type II"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nitric Oxide Synthase Type III"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 9"
+      }
+    },
+    pmid 28799288,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

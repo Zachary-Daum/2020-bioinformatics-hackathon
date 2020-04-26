@@ -1,0 +1,358 @@
+
+Pubmed-entry ::= {
+  pmid 29133514,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "First Prospective Multicenter Italian Study on the Impact of the
+ 21-Gene Recurrence Score in Adjuvant Clinical Decisions for Patients with ER
+ Positive/HER2 Negative Breast Cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dieci MV",
+            affil str "Department of Surgery, Oncology, and Gastroenterology,
+ University of Padova, Padova, Italy.; Medical Oncology 2, Istituto Oncologico
+ Veneto - IRCCS, Padova, Italy."
+          },
+          {
+            name ml "Guarneri V",
+            affil str "Department of Surgery, Oncology, and Gastroenterology,
+ University of Padova, Padova, Italy.; Medical Oncology 2, Istituto Oncologico
+ Veneto - IRCCS, Padova, Italy."
+          },
+          {
+            name ml "Giarratano T",
+            affil str "Department of Surgery, Oncology, and Gastroenterology,
+ University of Padova, Padova, Italy."
+          },
+          {
+            name ml "Mion M",
+            affil str "Medical Oncology, Ospedale Civile, Camposampiero, Italy."
+          },
+          {
+            name ml "Tortora G",
+            affil str "Department of Medical Oncology, Azienda Ospedaliera
+ Universitaria Integrata, Verona, Italy."
+          },
+          {
+            name ml "De Rossi C",
+            affil str "Medical Oncology Department, Angelo General Hospital,
+ Mestre and SS Giovanni e Paolo General Hospital, Venezia, Italy."
+          },
+          {
+            name ml "Gori S",
+            affil str "Oncology Unit, Ospedale Sacro Cuore-don Calabria,
+ Negrar, Italy."
+          },
+          {
+            name ml "Oliani C",
+            affil str "Oncology Unit, AULSS8 Berica Distretto Ovest, Vicenza,
+ Italy."
+          },
+          {
+            name ml "Merlini L",
+            affil str "Department of Medical Oncology, Ospedale Civile S
+ Bortolo, Vicenza, Italy."
+          },
+          {
+            name ml "Pasini F",
+            affil str "Department of Oncology, Ospedale Civile, Rovigo, Italy."
+          },
+          {
+            name ml "Bonciarelli G",
+            affil str "Medical Oncology, Azienda Euganea 6, Padova Sud,
+ Monselice, Italy."
+          },
+          {
+            name ml "Griguolo G",
+            affil str "Department of Surgery, Oncology, and Gastroenterology,
+ University of Padova, Padova, Italy."
+          },
+          {
+            name ml "Orvieto E",
+            affil str "Department of Pathology, Azienda Ospedaliera di Padova,
+ Padova, Italy."
+          },
+          {
+            name ml "Michieletto S",
+            affil str "Breast Surgery Unit, Istituto Oncologico Veneto -
+ IRCCS, Padova, Italy."
+          },
+          {
+            name ml "Saibene T",
+            affil str "Breast Surgery Unit, Istituto Oncologico Veneto -
+ IRCCS, Padova, Italy."
+          },
+          {
+            name ml "Del Bianco P",
+            affil str "Clinical Trials and Biostatistics Unit, Istituto
+ Oncologico Veneto - IRCCS, Padova, Italy."
+          },
+          {
+            name ml "De Salvo GL",
+            affil str "Clinical Trials and Biostatistics Unit, Istituto
+ Oncologico Veneto - IRCCS, Padova, Italy."
+          },
+          {
+            name ml "Conte P",
+            affil str "Department of Surgery, Oncology, and Gastroenterology,
+ University of Padova, Padova, Italy pierfranco.conte@unipd.it.; Medical
+ Oncology 2, Istituto Oncologico Veneto - IRCCS, Padova, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncologist",
+          ml-jta "Oncologist",
+          issn "1549-490X",
+          name "The oncologist"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "23",
+          issue "3",
+          pages "297-305",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 2
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29133514,
+        pii "theoncologist.2017-0322",
+        doi "10.1634/theoncologist.2017-0322",
+        other {
+          db "pmc",
+          tag str "PMC5905682"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1634/theoncologist.2017-0322"
+        }
+      }
+    },
+    abstract "BACKGROUND: The Breast DX Italy prospective study evaluated the
+ impact of the 21-gene recurrence score (RS) result on adjuvant treatment
+ decisions for patients with early breast cancer. MATERIALS AND METHODS: Nine
+ centers (two Hub and seven Spoke centers of the Veneto Oncology Network)
+ participated. Consecutive patients with estrogen receptor positive, human
+ epidermal growth receptor negative, T1-T3, N0-N1 early breast cancer were
+ prospectively registered; only those meeting protocol-defined
+ clinicopathological ""intermediate risk"" criteria were eligible for the RS
+ test. Pre-RS and post-RS physicians' treatment recommendations and treatment
+ actually received were collected. RESULTS: A total of n = 124 N0 and n = 126
+ N1 patients underwent the RS assay. The majority had Grade 2 tumors (71%);
+ median age was 55 years, median tumor size was 16 mm, and median Ki67
+ expression was 20%. Patients enrolled at Hub centers presented higher-risk
+ features. The distribution of RS results was <18 (60.8%), 18-30 (32.4%), and
+ >30 (6.8%). The indication before RS was hormonal therapy (HT) alone in 52%
+ of cases. An indication before RS of chemotherapy (CT)+HT was more frequent
+ for patients with N1 versus N0 tumors (57% vs. 39%, p = .0035) and for
+ patients enrolled at Hub versus Spoke centers (54% vs. 36%, p = .007).The
+ overall rate of change in treatment decision was 16% (n = 40), mostly from
+ CT+HT to HT (n = 30). According to nodal status, rate of change in treatment
+ decision was 12% for the N0 cohort and 20% for the N1 cohort. The proportion
+ of patients recommended to CT+HT was significantly reduced from before to
+ after RS (48% to 40%, p < .0016), especially in the N1 cohort (57% to 45%, p
+ = .0027) and at Hub centers (54% to 44%, p = .001). CONCLUSION: Despite
+ frequent indication of HT before RS, the use of the RS assay further
+ contributed to sparing CT, especially for patients with N1 tumors and at Hub
+ centers. IMPLICATIONS FOR PRACTICE: This study shows that, although a high
+ proportion of patients were recommended to receive endocrine treatment alone
+ before knowing the recurrence score (RS) assay, the RS test further
+ contributed in sparing chemotherapy for some of these patients, especially in
+ case of the N1 stage or for patients enrolled at referral centers. These data
+ highlight the need for further work in collaboration with health authorities
+ and companies in order to define strategies for the implementation of the use
+ of RS testing in clinical practice in the Italian setting.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Antineoplastic Agents, Hormonal",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Chemotherapy, Adjuvant"
+      },
+      {
+        term "Clinical Decision-Making",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Italy"
+      },
+      {
+        term "Lymphatic Metastasis",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Metastasis",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Recurrence, Local",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Receptors, Estrogen",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Hormonal"
+      },
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type nameonly,
+        name "Receptors, Estrogen"
+      }
+    },
+    pmid 29133514,
+    pub-type {
+      "Journal Article",
+      "Multicenter Study",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

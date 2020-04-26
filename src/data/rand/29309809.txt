@@ -1,0 +1,200 @@
+
+Pubmed-entry ::= {
+  pmid 29309809,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An evaluation of the fixed concentration procedure for
+ assessment of acute inhalation toxicity."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sewell F",
+            affil str "National Centre for the Replacement, Refinement &
+ Reduction of Animals in Research (NC3Rs), UK. Electronic address:
+ Fiona.Sewell@nc3rs.org.uk."
+          },
+          {
+            name ml "Ragan I",
+            affil str "Board Member, NC3Rs, UK."
+          },
+          {
+            name ml "Indans I",
+            affil str "Health and Safety Executive, UK."
+          },
+          {
+            name ml "Marczylo T",
+            affil str "Public Heath England, UK."
+          },
+          {
+            name ml "Stallard N",
+            affil str "University of Warwick, UK."
+          },
+          {
+            name ml "Griffiths D",
+            affil str "Envigo, UK."
+          },
+          {
+            name ml "Holmes T",
+            affil str "Exponent International Ltd., UK."
+          },
+          {
+            name ml "Smith P",
+            affil str "Charles River Laboratories Edinburgh Ltd., UK."
+          },
+          {
+            name ml "Horgan G",
+            affil str "Biomathematics & Statistics Scotland (BioSS), UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Regul. Toxicol. Pharmacol.",
+          ml-jta "Regul Toxicol Pharmacol",
+          issn "1096-0295",
+          name "Regulatory toxicology and pharmacology : RTP"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "94",
+          pages "22-32",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29309809,
+        pii "S0273-2300(18)30001-1",
+        doi "10.1016/j.yrtph.2018.01.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0273-2300(18)30001-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.yrtph.2018.01.001"
+        }
+      }
+    },
+    abstract "Acute inhalation studies are conducted in animals as part of
+ chemical hazard identification and for classification and labelling. Current
+ methods employ death as an endpoint (Organisation for Economic Co-operation
+ and Development (OECD) test guideline (TG) 403 and TG436) while the recently
+ approved fixed concentration procedure (FCP) (OECD TG433) uses fewer animals
+ and replaces lethality as an endpoint with evident toxicity. Evident toxicity
+ is the presence of clinical signs that predict that exposure to the next
+ highest concentration will cause severe toxicity or death in most animals.
+ Approval of TG433 was the result of an international initiative, led by the
+ National Centre for the Replacement, Refinement & Reduction of Animals in
+ Research (NC3Rs), which collected data from six laboratories on clinical
+ signs recorded for inhalation studies on 172 substances. This paper
+ summarises previously published data and describes the additional analyses of
+ the dataset that were essential for approval of the TG.",
+    mesh {
+      {
+        term "Administration, Inhalation"
+      },
+      {
+        term "Animal Use Alternatives",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Toxicity Tests, Acute",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 29309809,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

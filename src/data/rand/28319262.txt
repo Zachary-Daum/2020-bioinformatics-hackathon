@@ -1,0 +1,210 @@
+
+Pubmed-entry ::= {
+  pmid 28319262,
+  medent {
+    em std {
+      year 2017,
+      month 3,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ethnic, Familial, and Religious Identity of Roma Adolescents in
+ Bulgaria, Czech Republic, Kosovo, and Romania in Relation to Their Level of
+ Well-Being."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dimitrova R",
+            affil str "Stockholm University."
+          },
+          {
+            name ml "van de Vijver FJR",
+            affil str "Tilburg University.; North-West University.; University
+ of Queensland and Higher School of Economics."
+          },
+          {
+            name ml "Tausova J",
+            affil str "Palacky University."
+          },
+          {
+            name ml "Chasiotis A",
+            affil str "Tilburg University."
+          },
+          {
+            name ml "Bender M",
+            affil str "Tilburg University."
+          },
+          {
+            name ml "Buzea C",
+            affil str "Transylvania University of Brasov."
+          },
+          {
+            name ml "Uka F",
+            affil str "European Center for Vocational Education."
+          },
+          {
+            name ml "Tair E",
+            affil str "Bulgarian Academy of Sciences."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Child Dev",
+          ml-jta "Child Dev",
+          issn "1467-8624",
+          name "Child development"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 5
+          },
+          volume "88",
+          issue "3",
+          pages "693-709",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28319262,
+        doi "10.1111/cdev.12786",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/cdev.12786"
+        }
+      }
+    },
+    abstract "This study examines ethnic, national, familial, and religious
+ identity and well-being of 632 Roma minority and 589 majority adolescents
+ (age: M = 15.98 years, SD = 1.34) in Bulgaria, the Czech Republic, Kosovo,
+ and Romania. Results indicated that Roma showed lower endorsement of national
+ identity but stronger religious identity than their majority counterparts.
+ Path models showed positive associations of familial and religious identities
+ with well-being, whereas Roma identity was negatively associated with
+ well-being, particularly for Roma in Bulgaria and Kosovo (countries with a
+ less active policy toward improving conditions of Roma). In the latter
+ countries, Roma ethnic identity is less relevant and weakly associated with
+ psychological well-being of youth.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Bulgaria",
+        qual {
+          {
+            subh "ethnology"
+          }
+        }
+      },
+      {
+        term "Czech Republic",
+        qual {
+          {
+            subh "ethnology"
+          }
+        }
+      },
+      {
+        term "Family",
+        qual {
+          {
+            mp TRUE,
+            subh "ethnology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kosovo",
+        qual {
+          {
+            subh "ethnology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Minority Groups"
+      },
+      {
+        mp TRUE,
+        term "Religion and Psychology"
+      },
+      {
+        term "Roma",
+        qual {
+          {
+            mp TRUE,
+            subh "ethnology"
+          }
+        }
+      },
+      {
+        term "Romania",
+        qual {
+          {
+            subh "ethnology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Social Identification"
+      }
+    },
+    pmid 28319262,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

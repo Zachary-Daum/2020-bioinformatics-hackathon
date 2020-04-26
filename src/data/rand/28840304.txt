@@ -1,0 +1,228 @@
+
+Pubmed-entry ::= {
+  pmid 28840304,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MybA, a new player driving survival of the conidium of the human
+ pathogen Aspergillus fumigatus."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sarikaya Bayram O",
+            affil str "Biology Department, Maynooth University, Maynooth, Co.
+ Kildare, Ireland."
+          },
+          {
+            name ml "Latge JP",
+            affil str "Unite des Aspergillus, Institut Pasteur, 75015, Paris,
+ France."
+          },
+          {
+            name ml "Bayram O",
+            affil str "Biology Department, Maynooth University, Maynooth, Co.
+ Kildare, Ireland. ozgur.bayram@mu.ie."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Curr. Genet.",
+          ml-jta "Curr Genet",
+          issn "1432-0983",
+          name "Current genetics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "64",
+          issue "1",
+          pages "141-146",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 8,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28840304,
+        doi "10.1007/s00294-017-0740-5",
+        pii "10.1007/s00294-017-0740-5",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00294-017-0740-5"
+        }
+      }
+    },
+    abstract "Aspergillus fumigatus is an opportunistic human pathogen that
+ causes various complications in patients with a weakened immune system
+ functions. Asexual spores of A. fumigatus are responsible for initiation of
+ aspergillosis. Long-term viability and proper germination of dormant conidia
+ depend on trehalose accumulation, which protect the spores against thermal
+ and oxidative stress. A putative Myb transcription factor, MybA has been
+ recently found to be responsible for a variety of physiological and molecular
+ roles ranging from conidiation, spore viability, trehalose accumulation, cell
+ wall integrity and protection against reactive oxygen species. In this
+ perspective review, we discuss the recent findings of MybA and its
+ overlapping functions with the other regulators of conidia viability and
+ trehalose accumulation. Therefore, the aim of this perspective is to raise
+ interesting and stimulating questions on the molecular functions of MybA in
+ conidiation and trehalose biogenesis and to question its genetic and physical
+ interactions with the other regulators of conidial viability.",
+    mesh {
+      {
+        term "Aspergillus fumigatus",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Environment"
+      },
+      {
+        term "Fungal Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene-Environment Interaction"
+      },
+      {
+        term "Host-Pathogen Interactions"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Microbial Viability",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Spores, Fungal",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Fungal Proteins"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      }
+    },
+    idnum {
+      "13/CDA/2142/Science Foundation Ireland",
+      "GOIPD/2014/178/Irish Research Council for Science, Engineering and
+ Technology"
+    },
+    pmid 28840304,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

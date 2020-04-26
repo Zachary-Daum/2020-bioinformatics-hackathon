@@ -1,0 +1,321 @@
+
+Pubmed-entry ::= {
+  pmid 29279522,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Comparison of Direct Oral Anticoagulants and Warfarin in the
+ Treatment of Deep Venous Thrombosis in the Chronic Phase."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wakakura S",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          },
+          {
+            name ml "Hara F",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          },
+          {
+            name ml "Fujino T",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          },
+          {
+            name ml "Hamai A",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          },
+          {
+            name ml "Ohara H",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          },
+          {
+            name ml "Kabuki T",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          },
+          {
+            name ml "Harada M",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          },
+          {
+            name ml "Ikeda T",
+            affil str "Department of Cardiovascular Medicine, Toho University
+ Faculty of Medicine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int Heart J",
+          ml-jta "Int Heart J",
+          issn "1349-3299",
+          name "International heart journal"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 27
+          },
+          volume "59",
+          issue "1",
+          pages "126-135",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29279522,
+        doi "10.1536/ihj.16-482",
+        other {
+          db "ELocationID doi",
+          tag str "10.1536/ihj.16-482"
+        }
+      }
+    },
+    abstract "We assessed the efficacy and safety of direct oral
+ anticoagulants (DOACs) for the treatment of deep venous thrombosis (DVT) in
+ the chronic phase through comparison with conventional warfarin therapy.A
+ total of 807 consecutive patients who were diagnosed with having DVT in the
+ chronic phase were included (484 patients to warfarin therapy and 323
+ patients to DOAC therapy). The condition of leg veins was assessed 3 to 6
+ months after starting the therapies by ultrasound examination. Major bleeding
+ and mortality during the therapies were followed-up.There was no significant
+ difference between the two groups in the thrombosis improvement rate (DOAC
+ group: 91.2% versus warfarin group: 88.9%). There was no significant
+ difference between the two groups in major bleeding (DOAC group: 1.8% versus
+ warfarin group: 1.8%). In patients with active cancer, the DOAC group had a
+ borderline higher thrombosis improvement rate than the warfarin group (92.1%
+ versus 80.0%, P = 0.05). The proportion of major bleeding in the patients
+ with active cancer was slightly higher in the warfarin group than in the DOAC
+ group (4.3% versus 2.8%; P = 0.71). Active cancer was not an independent risk
+ factor for major bleeding and recurrence in the DOAC group (OR 2.68, 95% CI
+ 0.51-14.1; P = 0.24 and OR 0.65, 95% CI 0.20-2.07; P = 0.47).In treatment
+ using oral anticoagulants for DVT in the chronic phase, DOACs exhibited equal
+ efficacy and safety as warfarin did. Particularly DOACs appear to be an
+ attractive therapeutic option for cancer-associated DVT in chronic phase,
+ with relatively low anticipated rates of recurrence and major bleeding.",
+    mesh {
+      {
+        term "Administration, Oral"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Anticoagulants",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Antithrombins",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Chronic Disease"
+      },
+      {
+        term "Dabigatran",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Factor Xa Inhibitors"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Pyrazoles",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Pyridines",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Pyridones",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Recurrence"
+      },
+      {
+        term "Thiazoles",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Ultrasonography"
+      },
+      {
+        term "Venous Thrombosis",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Warfarin",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anticoagulants"
+      },
+      {
+        type nameonly,
+        name "Antithrombins"
+      },
+      {
+        type nameonly,
+        name "Factor Xa Inhibitors"
+      },
+      {
+        type nameonly,
+        name "Pyrazoles"
+      },
+      {
+        type nameonly,
+        name "Pyridines"
+      },
+      {
+        type nameonly,
+        name "Pyridones"
+      },
+      {
+        type nameonly,
+        name "Thiazoles"
+      },
+      {
+        type cas,
+        cit "3Z9Y7UWC1J",
+        name "apixaban"
+      },
+      {
+        type cas,
+        cit "5Q7ZVV76EI",
+        name "Warfarin"
+      },
+      {
+        type cas,
+        cit "I0VM4M70GC",
+        name "Dabigatran"
+      },
+      {
+        type cas,
+        cit "NDU3J18APO",
+        name "edoxaban"
+      }
+    },
+    pmid 29279522,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Observational Study"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,120 @@
+
+Pubmed-entry ::= {
+  pmid 28825071,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Enhanced cancer therapy by the marriage of metabolic alteration
+ and mitochondrial-targeted photodynamic therapy using cyclometalated Ir(iii)
+ complexes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu J",
+            affil str "MOE Key Laboratory of Bioinorganic and Synthetic
+ Chemistry, School of Chemistry, Sun Yat-Sen University, Guangzhou, 510275, P.
+ R. China. ceschh@mail.sysu.edu.cn."
+          },
+          {
+            name ml "Jin C"
+          },
+          {
+            name ml "Yuan B"
+          },
+          {
+            name ml "Chen Y"
+          },
+          {
+            name ml "Liu X"
+          },
+          {
+            name ml "Ji L"
+          },
+          {
+            name ml "Chao H"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chem. Commun. (Camb.)",
+          ml-jta "Chem Commun (Camb)",
+          issn "1364-548X",
+          name "Chemical communications (Cambridge, England)"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8,
+            day 31
+          },
+          volume "53",
+          issue "71",
+          pages "9878-9881",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 8,
+                day 22,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28825071,
+        doi "10.1039/c7cc05518h",
+        other {
+          db "ELocationID doi",
+          tag str "10.1039/c7cc05518h"
+        }
+      }
+    },
+    abstract "Herein we present a series of DCA-Ir(iii) co-drug complexes that
+ preferentially accumulate in mitochondria and selectively cause cancer cell
+ metabolic alterations and were found to act in synergy by sensitizing cancer
+ cells for PDT to achieve cancer-specific enhanced two-photon PDT in the
+ hypoxic environment of multicellular tumor spheroids.",
+    pmid 28825071,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

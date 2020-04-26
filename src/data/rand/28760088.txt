@@ -1,0 +1,165 @@
+
+Pubmed-entry ::= {
+  pmid 28760088,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Race and Victim Age Matter: Sexual Behaviors and Experiences
+ Among Confined African American and European American Youth With Sexual and
+ Nonsexual Offenses."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fix RL",
+            affil str "1 Johns Hopkins University, MD, USA."
+          },
+          {
+            name ml "Falligant JM",
+            affil str "2 Auburn University, AL, USA."
+          },
+          {
+            name ml "Alexander AA",
+            affil str "3 University of Denver, CO, USA."
+          },
+          {
+            name ml "Burkhart BR",
+            affil str "2 Auburn University, AL, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sex Abuse",
+          ml-jta "Sex Abuse",
+          issn "1573-286X",
+          name "Sexual abuse : a journal of research and treatment"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "31",
+          issue "1",
+          pages "50-72",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28760088,
+        doi "10.1177/1079063217720926",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1079063217720926"
+        }
+      }
+    },
+    abstract "Previous research has found differences in sexual behavior and
+ types of sexual offending by offense category and racial/ethnic group. The
+ present study examined effects of offense category, victim age, and
+ race/ethnicity on sexual behavior. Data from 561 confined adolescents
+ adjudicated for illegal sexual behavior (AISBs) and adolescents adjudicated
+ for illegal nonsexual behavior (AINBs) were included in the present study. A
+ hierarchical multinomial logistic regression was run to test whether sexual
+ experiences and behaviors differentially predicted AINBs, AISBs with child
+ victims, and AISBs with peer/adult victims. Results supported the utility of
+ distinguishing AISBs by victim age. Comparisons between AISBs and AINBs
+ indicated AISBs had more sexual abuse and were more sexually restricted,
+ whereas AINBs reported more sexual behavior, reflecting a finding potentially
+ mirroring sexual development, sexual experiences, and caregiver approaches to
+ discussing sexuality. Over 60% of AINBs and 30% of AISBs reported behaviors
+ that could be classified as distribution of child pornography. Within the
+ group of AISBs, select racial/ethnic group differences emerged such that
+ European American participants were more likely to have had intrafamilial
+ sexual experiences and were far less likely to have had vaginal intercourse
+ than African American AISBs. Future directions and implications regarding
+ policies related to sexual education and sexting are discussed.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "African Continental Ancestry Group"
+      },
+      {
+        term "Age Factors"
+      },
+      {
+        mp TRUE,
+        term "Criminals"
+      },
+      {
+        mp TRUE,
+        term "Erotica"
+      },
+      {
+        term "European Continental Ancestry Group"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Sex Offenses"
+      },
+      {
+        mp TRUE,
+        term "Sexual Behavior"
+      },
+      {
+        term "United States"
+      }
+    },
+    pmid 28760088,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

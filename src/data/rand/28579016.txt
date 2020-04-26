@@ -1,0 +1,253 @@
+
+Pubmed-entry ::= {
+  pmid 28579016,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Executive summary of the GESIDA/National AIDS Plan Consensus
+ Document on Antiretroviral Therapy in Adults Infected by the Human
+ Immunodeficiency Virus (Updated January 2017)."
+      },
+      authors {
+        names std {
+          {
+            name consortium "AIDS Study Group (GESIDA) of the Spanish Society
+ of Infectious Diseases and Clinical Microbiology and the National AIDS Plan"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Enferm. Infecc. Microbiol. Clin.",
+          ml-jta "Enferm Infecc Microbiol Clin",
+          issn "1578-1852",
+          name "Enfermedades infecciosas y microbiologia clinica"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "36",
+          issue "7",
+          pages "435-445",
+          language "eng,spa",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 21
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 4,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 4,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28579016,
+        pii "S0213-005X(17)30131-3",
+        doi "10.1016/j.eimc.2017.04.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0213-005X(17)30131-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.eimc.2017.04.001"
+        }
+      }
+    },
+    abstract "Antiretroviral therapy (ART) is recommended for all patients
+ infected by HIV-1. The objective of ART is to achieve an undetectable plasma
+ viral load (PVL). Initial ART should be based on a combination of 3 drugs,
+ including 2 nucleoside reverse transcriptase inhibitors (tenofovir in either
+ of its two formulations plus emtricitabine or abacavir plus lamivudine) and
+ another drug from a different family. Four of the recommended regimens, all
+ of which have an integrase inhibitor as the third drug (dolutegravir,
+ elvitegravir boosted with cobicistat or raltegravir), are considered
+ preferential, whereas a further 3 regimens (based on elvitegravir/cobicistat,
+ rilpivirine, or darunavir boosted with cobicistat or ritonavir) are
+ considered alternatives. We present the reasons and criteria for switching
+ ART in patients with an undetectable PVL and in those who present virological
+ failure, in which case salvage ART should include 3 (or at least 2) drugs
+ that are fully active against HIV. We also update the criteria for ART in
+ specific situations (acute infection, HIV-2 infection, pregnancy) and
+ comorbidities (tuberculosis or other opportunistic infections, kidney
+ disease, liver disease and cancer).",
+    mesh {
+      {
+        term "AIDS-Related Opportunistic Infections",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Anti-HIV Agents",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Antiretroviral Therapy, Highly Active"
+      },
+      {
+        term "CD4 Lymphocyte Count"
+      },
+      {
+        term "Comorbidity"
+      },
+      {
+        term "Drug Monitoring"
+      },
+      {
+        term "Drug Resistance, Viral"
+      },
+      {
+        term "Drug Substitution"
+      },
+      {
+        term "Drug Therapy, Combination"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "HIV Infections",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "HIV-1",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "HIV-2",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Pregnancy Complications, Infectious",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Viral Load"
+      },
+      {
+        term "Viremia",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-HIV Agents"
+      }
+    },
+    pmid 28579016,
+    pub-type {
+      "Consensus Development Conference",
+      "Journal Article",
+      "Practice Guideline"
+    },
+    status medline
+  }
+}
+
+

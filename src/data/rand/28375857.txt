@@ -1,0 +1,103 @@
+
+Pubmed-entry ::= {
+  pmid 28375857,
+  medent {
+    em std {
+      year 2017,
+      month 4,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A 56-Year-Old Woman With Multiple Subcutaneous Painful Nodules
+ in the Absence of Renal Disease: Challenge."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pruitt LG",
+            affil str "Division of Dermatology, East Carolina University,
+ Greenville, NC."
+          },
+          {
+            name ml "Kidd LL",
+            affil str "Departments of Dermatology, and."
+          },
+          {
+            name ml "Gru AA",
+            affil str "Pathology and Dermatology, University of Virginia,
+ Charlottesville, VA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Dermatopathol",
+          ml-jta "Am J Dermatopathol",
+          issn "1533-0311",
+          name "The American Journal of dermatopathology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "41",
+          issue "1",
+          pages "e5-e6",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 4,
+                day 5,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28375857,
+        doi "10.1097/DAD.0000000000000893",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/DAD.0000000000000893"
+        }
+      }
+    },
+    pmid 28375857,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

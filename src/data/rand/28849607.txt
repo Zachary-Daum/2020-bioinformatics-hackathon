@@ -1,0 +1,212 @@
+
+Pubmed-entry ::= {
+  pmid 28849607,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prevalence and long-term prognostic impact of malignancy in
+ patients with Takotsubo syndrome."
+      },
+      authors {
+        names std {
+          {
+            name ml "Moller C",
+            affil str "Department of Cardiology, Angiology and Intensive Care
+ Medicine, Medical Clinic II, University Heart Center Lubeck, Lubeck,
+ Germany.; German Center for Cardiovascular Research (DZHK), Partner Site
+ Hamburg/Kiel/Lubeck, Lubeck, Germany."
+          },
+          {
+            name ml "Stiermaier T",
+            affil str "Department of Cardiology, Angiology and Intensive Care
+ Medicine, Medical Clinic II, University Heart Center Lubeck, Lubeck,
+ Germany.; German Center for Cardiovascular Research (DZHK), Partner Site
+ Hamburg/Kiel/Lubeck, Lubeck, Germany."
+          },
+          {
+            name ml "Graf T",
+            affil str "Department of Cardiology, Angiology and Intensive Care
+ Medicine, Medical Clinic II, University Heart Center Lubeck, Lubeck,
+ Germany.; German Center for Cardiovascular Research (DZHK), Partner Site
+ Hamburg/Kiel/Lubeck, Lubeck, Germany."
+          },
+          {
+            name ml "Eitel C",
+            affil str "Department of Cardiology, Angiology and Intensive Care
+ Medicine, Medical Clinic II, University Heart Center Lubeck, Lubeck,
+ Germany.; German Center for Cardiovascular Research (DZHK), Partner Site
+ Hamburg/Kiel/Lubeck, Lubeck, Germany."
+          },
+          {
+            name ml "Thiele H",
+            affil str "Department of Cardiology, Angiology and Intensive Care
+ Medicine, Medical Clinic II, University Heart Center Lubeck, Lubeck,
+ Germany.; German Center for Cardiovascular Research (DZHK), Partner Site
+ Hamburg/Kiel/Lubeck, Lubeck, Germany."
+          },
+          {
+            name ml "Burgdorf C",
+            affil str "Department of Cardiology, Cardiovascular Centre Bad
+ Bevensen, Bad Bevensen, Germany."
+          },
+          {
+            name ml "Eitel I",
+            affil str "Department of Cardiology, Angiology and Intensive Care
+ Medicine, Medical Clinic II, University Heart Center Lubeck, Lubeck,
+ Germany.; German Center for Cardiovascular Research (DZHK), Partner Site
+ Hamburg/Kiel/Lubeck, Lubeck, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Heart Fail.",
+          ml-jta "Eur J Heart Fail",
+          issn "1879-0844",
+          name "European journal of heart failure"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "20",
+          issue "4",
+          pages "816-818",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 16
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 3,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 4,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28849607,
+        doi "10.1002/ejhf.868",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ejhf.868"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Germany",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Takotsubo Cardiomyopathy",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      }
+    },
+    pmid 28849607,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

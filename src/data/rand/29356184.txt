@@ -1,0 +1,242 @@
+
+Pubmed-entry ::= {
+  pmid 29356184,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Estimation of the radiation dose for pediatric CBCT indications:
+ a prospective study on ProMax3D."
+      },
+      authors {
+        names std {
+          {
+            name ml "Marcu M",
+            affil str "Department of Oral Radiology, Faculty of Dentistry, 
+'Iuliu Hatieganu' University of Medicine and Pharmacy, Cluj-Napoca, Romania."
+          },
+          {
+            name ml "Hedesiu M",
+            affil str "Department of Oral Radiology, Faculty of Dentistry, 
+'Iuliu Hatieganu' University of Medicine and Pharmacy, Cluj-Napoca, Romania."
+          },
+          {
+            name ml "Salmon B",
+            affil str "EA 2496-Orofacial Pathologies, Imaging and Biotherapies
+ Lab and Dental Medicine Department, Bretonneau Hospital, HUPNVS, AP-HP, Paris
+ Descartes University - Sorbonne Paris Cite, Paris, France."
+          },
+          {
+            name ml "Pauwels R",
+            affil str "OMFS-IMPATH Research Group, Department of Imaging and
+ Pathology, Faculty of Medicine, Catholic University of Leuven and Oral and
+ Maxillofacial Surgery, University Hospitals Leuven, Leuven, Belgium.;
+ Department of Radiology, Faculty of Dentistry, Chulalongkorn University,
+ Bangkok, Thailand."
+          },
+          {
+            name ml "Stratis A",
+            affil str "OMFS-IMPATH Research Group, Department of Imaging and
+ Pathology, Faculty of Medicine, Catholic University of Leuven and Oral and
+ Maxillofacial Surgery, University Hospitals Leuven, Leuven, Belgium."
+          },
+          {
+            name ml "Oenning ACC",
+            affil str "EA 2496-Orofacial Pathologies, Imaging and Biotherapies
+ Lab and Dental Medicine Department, Bretonneau Hospital, HUPNVS, AP-HP, Paris
+ Descartes University - Sorbonne Paris Cite, Paris, France.; Department of
+ Oral Diagnosis, Division of Oral Radiology, Piracicaba Dental School,
+ University of Campinas (Unicamp), Piracicaba, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Cohen ME",
+            affil str "OMFS-IMPATH Research Group, Department of Imaging and
+ Pathology, Faculty of Medicine, Catholic University of Leuven and Oral and
+ Maxillofacial Surgery, University Hospitals Leuven, Leuven, Belgium."
+          },
+          {
+            name ml "Jacobs R",
+            affil str "OMFS-IMPATH Research Group, Department of Imaging and
+ Pathology, Faculty of Medicine, Catholic University of Leuven and Oral and
+ Maxillofacial Surgery, University Hospitals Leuven, Leuven, Belgium.;
+ Department of Dental Medicine, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            name ml "Baciut M",
+            affil str "Department of Maxillofacial Surgery, Faculty of
+ Dentistry, 'Iuliu Hatieganu' University of Medicine and Pharmacy,
+ Cluj-Napoca, Romania."
+          },
+          {
+            name ml "Roman R",
+            affil str "Department of Oral Radiology, Faculty of Dentistry, 
+'Iuliu Hatieganu' University of Medicine and Pharmacy, Cluj-Napoca, Romania."
+          },
+          {
+            name ml "Dinu C",
+            affil str "Department of Maxillofacial Surgery, Faculty of
+ Dentistry, 'Iuliu Hatieganu' University of Medicine and Pharmacy,
+ Cluj-Napoca, Romania."
+          },
+          {
+            name ml "Rotaru H",
+            affil str "Department of Maxillofacial Surgery, Faculty of
+ Dentistry, 'Iuliu Hatieganu' University of Medicine and Pharmacy,
+ Cluj-Napoca, Romania."
+          },
+          {
+            name ml "Barbur I",
+            affil str "Department of Maxillofacial Surgery, Faculty of
+ Dentistry, 'Iuliu Hatieganu' University of Medicine and Pharmacy,
+ Cluj-Napoca, Romania."
+          },
+          {
+            name consortium "DIMITRA Research Group"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Paediatr Dent",
+          ml-jta "Int J Paediatr Dent",
+          issn "1365-263X",
+          name "International journal of paediatric dentistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "28",
+          issue "3",
+          pages "300-309",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29356184,
+        doi "10.1111/ipd.12355",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ipd.12355"
+        }
+      }
+    },
+    abstract "BACKGROUND: An increasing number of CBCT units and a wide
+ variability of radiation doses have been reported in dentistry lately. AIM:
+ To estimate the effective, cumulative, and organ absorbed doses in children
+ exposed to CBCT over 2 years. DESIGN: A prospective study was conducted in
+ children who underwent CBCT diagnostic imaging with the ProMax3D machine.
+ Organ and effective doses were calculated by Monte Carlo simulation using 5-
+ and 8-year-old pediatric voxel phantoms. Extrapolation procedures were
+ applied to estimate doses for other ages and CBCT protocols used in clinical
+ conditions. RESULTS: The median effective dose was 137.9 muSv, and the median
+ cumulative dose was 231.4 muSv. Statistically significant differences in the
+ effective doses and cumulative doses were found for various indications of
+ CBCT in children (P < 0.001). The median absorbed organ dose for brain and
+ thyroid was significantly higher for the clinical condition that required
+ large FOVs (2.5 mGy and 1.05 mGy, respectively) compared to medium (0.19 and
+ 0.51 mGy) and small FOVs (0.07 and 0.24 mGy; P < 0.05). The radiation dose of
+ salivary glands did not vary significantly with FOV. CONCLUSION: The results
+ revealed the variation of CBCT doses and the influence of FOV size in
+ pediatric exposure.",
+    mesh {
+      {
+        term "Brain",
+        qual {
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        mp TRUE,
+        term "Cone-Beam Computed Tomography",
+        qual {
+          {
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Monte Carlo Method"
+      },
+      {
+        term "Phantoms, Imaging"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        mp TRUE,
+        term "Radiation Dosage"
+      },
+      {
+        mp TRUE,
+        term "Radiography, Dental"
+      }
+    },
+    pmid 29356184,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

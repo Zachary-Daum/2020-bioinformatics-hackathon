@@ -1,0 +1,231 @@
+
+Pubmed-entry ::= {
+  pmid 29360871,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Dealing with taste and smell alterations-A qualitative interview
+ study of people treated for lung cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Belqaid K",
+            affil str "Medical Management Centre, Department of Learning,
+ Informatics, Management and Ethics, Karolinska Institutet, Stockholm,
+ Sweden.; Function Area Clinical Nutrition, Karolinska University Hospital,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Tishelman C",
+            affil str "Medical Management Centre, Department of Learning,
+ Informatics, Management and Ethics, Karolinska Institutet, Stockholm,
+ Sweden.; Centre for Innovation, Karolinska University Hospital, Stockholm,
+ Sweden."
+          },
+          {
+            name ml "Orrevall Y",
+            affil str "Medical Management Centre, Department of Learning,
+ Informatics, Management and Ethics, Karolinska Institutet, Stockholm,
+ Sweden.; Function Area Clinical Nutrition, Karolinska University Hospital,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Mansson-Brahme E",
+            affil str "Cancer Theme, Karolinska University Hospital,
+ Stockholm, Sweden.; Department of Oncology-Pathology, Karolinska Institutet,
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Bernhardson BM",
+            affil str "Medical Management Centre, Department of Learning,
+ Informatics, Management and Ethics, Karolinska Institutet, Stockholm,
+ Sweden.; Centre for Innovation, Karolinska University Hospital, Stockholm,
+ Sweden."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 23
+          },
+          volume "13",
+          issue "1",
+          pages "e0191117",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 28
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29360871,
+        doi "10.1371/journal.pone.0191117",
+        pii "PONE-D-17-21910",
+        other {
+          db "pmc",
+          tag str "PMC5779655"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0191117"
+        }
+      }
+    },
+    abstract "Taste and smell alterations have been recognized as common
+ symptoms in relation to various cancers. However, previous research suggests
+ that patients do not receive sufficient support in managing taste and smell
+ alterations. Therefore, the objective of this study is to investigate how
+ persons with experience from lung cancer-related taste and smell alterations
+ reason about resources and strategies offered and used to manage these
+ symptoms. Data from semi-structured individual interviews with 13 women and
+ four men were analyzed with qualitative content analysis. We used Kleinman's
+ now classic medical anthropological model of local health care systems,
+ consisting of the personal, professional, and folk sector, to interpret and
+ understand how people respond to sickness experiences in their daily lives.
+ By presenting the findings using this model, we demonstrate that most
+ strategies for dealing with taste and smell alterations were undertaken in
+ the personal sector, i.e. in participants' daily lives, on an individual
+ level and in interaction with family, social networks and communities. Taste
+ and smell alterations implied two overarching challenges: 1) adjusting to no
+ longer being able to trust information provided by one's own senses of taste
+ and/or smell, and 2) coming to terms with taste and smell alterations as a
+ part of having lung cancer. Health care professionals' involvement was
+ described as limited, but appeared to fulfil most participants' expectations.
+ However, through provision of normalizing information, practical advice, and
+ to some extent, emotional support, health care professionals had potential to
+ influence strategies and resources used for dealing with taste and smell
+ alterations. With this study, we further the understanding of how people deal
+ with lung cancer-related taste and smell alterations and discuss the role of
+ health care professionals for this process.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interviews as Topic"
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Olfaction Disorders",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Qualitative Research"
+      },
+      {
+        term "Taste Disorders",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      }
+    },
+    pmid 29360871,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

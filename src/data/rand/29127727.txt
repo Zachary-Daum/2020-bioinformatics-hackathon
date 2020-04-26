@@ -1,0 +1,226 @@
+
+Pubmed-entry ::= {
+  pmid 29127727,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Diversity in peptide recognition by the SH2 domain of SH2B1."
+      },
+      authors {
+        names std {
+          {
+            name ml "McKercher MA",
+            affil str "Department of Chemistry and Biochemistry, University of
+ Colorado, Boulder, Colorado."
+          },
+          {
+            name ml "Guan X",
+            affil str "Department of Chemistry and Biochemistry, BioFrontiers
+ Institute, University of Colorado, Boulder, Colorado."
+          },
+          {
+            name ml "Tan Z",
+            affil str "Department of Chemistry and Biochemistry, BioFrontiers
+ Institute, University of Colorado, Boulder, Colorado."
+          },
+          {
+            name ml "Wuttke DS",
+            affil str "Department of Chemistry and Biochemistry, University of
+ Colorado, Boulder, Colorado."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Proteins",
+          ml-jta "Proteins",
+          issn "1097-0134",
+          name "Proteins"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "86",
+          issue "2",
+          pages "164-176",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29127727,
+        doi "10.1002/prot.25420",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/prot.25420"
+        }
+      }
+    },
+    abstract "SH2B1 is a multidomain protein that serves as a key adaptor to
+ regulate numerous cellular events, such as insulin, leptin, and growth
+ hormone signaling pathways. Many of these protein-protein interactions are
+ mediated by the SH2 domain of SH2B1, which recognizes ligands containing a
+ phosphorylated tyrosine (pY), including peptides derived from janus kinase 2,
+ insulin receptor, and insulin receptor substrate-1 and -2. Specificity for
+ the SH2 domain of SH2B1 is conferred in these ligands either by a hydrophobic
+ or an acidic side chain at the +3 position C-terminal to the pY. This
+ specificity for chemically disparate species suggests that SH2B1 relies on
+ distinct thermodynamic or structural mechanisms to bind to peptides. Using
+ binding and structural strategies, we have identified unique thermodynamic
+ signatures for each peptide binding mode, and several SH2B1 residues,
+ including K575 and R578, that play distinct roles in peptide binding. The
+ high-resolution structure of the SH2 domain of SH2B1 further reveals
+ conformationally plastic protein loops that may contribute to the ability of
+ the protein to recognize dissimilar ligands. Together, numerous hydrophobic
+ and electrostatic interactions, in addition to backbone conformational
+ flexibility, permit the recognition of diverse peptides by SH2B1. An
+ understanding of this expanded peptide recognition will allow for the
+ identification of novel physiologically relevant SH2B1/peptide interactions,
+ which can contribute to the design of obesity and diabetes pharmaceuticals to
+ target the ligand-binding interface of SH2B1 with high specificity.",
+    mesh {
+      {
+        term "Adaptor Proteins, Signal Transducing",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Crystallography, X-Ray"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrophobic and Hydrophilic Interactions"
+      },
+      {
+        term "Models, Molecular"
+      },
+      {
+        term "Peptides",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein Binding"
+      },
+      {
+        term "Protein Conformation"
+      },
+      {
+        term "Protein Interaction Maps"
+      },
+      {
+        term "Static Electricity"
+      },
+      {
+        term "Thermodynamics"
+      },
+      {
+        mp TRUE,
+        term "src Homology Domains"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adaptor Proteins, Signal Transducing"
+      },
+      {
+        type nameonly,
+        name "Peptides"
+      },
+      {
+        type nameonly,
+        name "SH2B1 protein, human"
+      }
+    },
+    pmid 29127727,
+    pub-type {
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

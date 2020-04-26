@@ -1,0 +1,149 @@
+
+Pubmed-entry ::= {
+  pmid 29056951,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Clopidogrel induced arthritis and fever."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cao CF",
+            affil str "Department of Cardiology, Peking University People's
+ Hospital, Beijing, China.; Beijing Key Laboratory of Early Prediction and
+ Intervention of Acute Myocardial Infarction, Peking University People's
+ Hospital, Beijing, China.; Center for Cardiovascular Translational Research,
+ Peking University People's Hospital, Beijing, China."
+          },
+          {
+            name ml "Zhang F",
+            affil str "Department of Cardiology, Peking University People's
+ Hospital, Beijing, China.; Beijing Key Laboratory of Early Prediction and
+ Intervention of Acute Myocardial Infarction, Peking University People's
+ Hospital, Beijing, China.; Center for Cardiovascular Translational Research,
+ Peking University People's Hospital, Beijing, China."
+          },
+          {
+            name ml "Chen H",
+            affil str "Department of Cardiology, Peking University People's
+ Hospital, Beijing, China.; Beijing Key Laboratory of Early Prediction and
+ Intervention of Acute Myocardial Infarction, Peking University People's
+ Hospital, Beijing, China.; Center for Cardiovascular Translational Research,
+ Peking University People's Hospital, Beijing, China."
+          },
+          {
+            name ml "Song JX",
+            affil str "Department of Cardiology, Peking University People's
+ Hospital, Beijing, China.; Beijing Key Laboratory of Early Prediction and
+ Intervention of Acute Myocardial Infarction, Peking University People's
+ Hospital, Beijing, China.; Center for Cardiovascular Translational Research,
+ Peking University People's Hospital, Beijing, China."
+          },
+          {
+            name ml "Liu CF",
+            affil str "Department of Cardiology, Peking University People's
+ Hospital, Beijing, China.; Beijing Key Laboratory of Early Prediction and
+ Intervention of Acute Myocardial Infarction, Peking University People's
+ Hospital, Beijing, China.; Center for Cardiovascular Translational Research,
+ Peking University People's Hospital, Beijing, China."
+          },
+          {
+            name ml "Li SF",
+            affil str "Department of Cardiology, Peking University People's
+ Hospital, Beijing, China.; Beijing Key Laboratory of Early Prediction and
+ Intervention of Acute Myocardial Infarction, Peking University People's
+ Hospital, Beijing, China.; Center for Cardiovascular Translational Research,
+ Peking University People's Hospital, Beijing, China."
+          },
+          {
+            name ml "Lee CY",
+            affil str "Department of Cardiology, Peking University People's
+ Hospital, Beijing, China.; Beijing Key Laboratory of Early Prediction and
+ Intervention of Acute Myocardial Infarction, Peking University People's
+ Hospital, Beijing, China.; Center for Cardiovascular Translational Research,
+ Peking University People's Hospital, Beijing, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Geriatr Cardiol",
+          ml-jta "J Geriatr Cardiol",
+          issn "1671-5411",
+          name "Journal of geriatric cardiology : JGC"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "14",
+          issue "6",
+          pages "420",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 24,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29056951,
+        doi "10.11909/j.issn.1671-5411.2017.06.002",
+        pii "jgc-14-06-420",
+        other {
+          db "pmc",
+          tag str "PMC5540876"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.11909/j.issn.1671-5411.2017.06.002"
+        }
+      }
+    },
+    pmid 29056951,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,178 @@
+
+Pubmed-entry ::= {
+  pmid 28930519,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Divergent impact of gender in advancement of liver injuries,
+ diseases, and carcinogenesis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Biswas S",
+            affil str "Department of Molecular and Cellular Medicine,
+ Institute of Liver and Biliary Sciences, New Delhi, India, and Amity
+ Institute of Molecular Medicine and Stem Cell Research, AUUP, Noida, India,
+ subhrajit.biswas9@gmail.com."
+          },
+          {
+            name ml "Ghose S",
+            affil str "Department of Medical Oncology, All India Institute of
+ Medical Sciences, New Delhi, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Front Biosci (Schol Ed)",
+          ml-jta "Front Biosci (Schol Ed)",
+          issn "1945-0524",
+          name "Frontiers in bioscience (Scholar edition)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 1
+          },
+          volume "10",
+          pages "65-100",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28930519,
+        pii "501",
+        doi "10.2741/s501"
+      }
+    },
+    abstract "Several investigations have revealed that liver diseases exhibit
+ gender biases, but identifying the root causes of such biases has been
+ challenging. Evidence of gender differences in liver function is present from
+ the early stage of embryonic development. The differences in access to care
+ and treatment as well as diagnostic deliberation may affect gender-specific
+ differences in liver disease progression. Apart from the pathogenesis,
+ xenobiotic metabolism, immune responses, gene expressions, mitochondrial
+ function, lipid composition, and enzyme activities also differ in this
+ sexually dimorphic organ. Differences in a social environment and lifestyle
+ of men and women may also be involved in the basic mechanisms underlying the
+ sex-associated differences and protective or aggravating effects of sex
+ hormones during viral infections, alcoholic and non-alcoholic chronic and/or
+ acute mode of liver injuries, carcinogenesis, autoimmune responses, and liver
+ transplantation outcome. We summarized here the recent findings regarding the
+ influence of sex hormones on immune responses underlying the pathology of the
+ liver diseases in humans and animal models.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Carcinogenesis"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gonadal Steroid Hormones",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          },
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Liver Neoplasms",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Sex Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Gonadal Steroid Hormones"
+      }
+    },
+    pmid 28930519,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

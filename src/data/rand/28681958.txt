@@ -1,0 +1,350 @@
+
+Pubmed-entry ::= {
+  pmid 28681958,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "BJ-2266 ameliorates experimental autoimmune encephalomyelitis
+ through down-regulation of the JAK/STAT signaling pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "You Z",
+            affil str "College of Pharmacy, Yeungnam University, Gyeongsan,
+ Republic of Korea."
+          },
+          {
+            name ml "Timilshina M",
+            affil str "College of Pharmacy, Yeungnam University, Gyeongsan,
+ Republic of Korea."
+          },
+          {
+            name ml "Jeong BS",
+            affil str "College of Pharmacy, Yeungnam University, Gyeongsan,
+ Republic of Korea."
+          },
+          {
+            name ml "Chang JH",
+            affil str "College of Pharmacy, Yeungnam University, Gyeongsan,
+ Republic of Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Immunol.",
+          ml-jta "Eur J Immunol",
+          issn "1521-4141",
+          name "European journal of immunology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 9
+          },
+          volume "47",
+          issue "9",
+          pages "1488-1500",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28681958,
+        doi "10.1002/eji.201646860",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/eji.201646860"
+        }
+      }
+    },
+    abstract "CD4(+) T cells differentiate into distinct effector subsets upon
+ antigenic stimulation. Cytokines, and micro-environmental factors present
+ during T-cell priming, direct differentiation of naive CD4(+) T cells into
+ pro-inflammatory Th1 and Th17 cells. From extensive screening of
+ 2,4,5-trimethylpyridin-3-ol derivatives with various functional groups at
+ C(6)-position, BJ-2266, a 6-thioureido-derivative, showed potent inhibitory
+ activity on in vitro T helper (Th)-cell differentiation. This compound
+ inhibited IFN-gamma and IL-17 production from polyclonal CD4(+) T cells and
+ ovalbumin (OVA)-specific CD4(+) T cells that were activated by T-cell
+ receptor (TCR) engagement. We assessed the inhibitory effect of BJ-2266 in
+ experimental autoimmune encephalomyelitis (EAE). Our results suggest that
+ BJ-2266 treatment significantly suppresses EAE disease progression with
+ reduced generation of Th1 and Th17 cells. Notably, Th-cell differentiation
+ was significantly suppressed by BJ-2266 treatment with no effect on
+ apoptosis, activation and proliferation of activated T cells. Furthermore,
+ adoptive transfer of BJ-2266 treated MOG-reactive Th1 and Th17 cells led to a
+ lower EAE disease score and better clinical recovery from EAE. The underlying
+ mechanism of BJ-2266 effect involved the inhibition of JAK/STAT
+ phosphorylation that is critical for Th-cell differentiation. We conclude
+ that BJ-2266 regulates the JAK/STAT pathway in response to cytokine signals
+ and subsequently suppresses the differentiation of Th-cell responses.",
+    mesh {
+      {
+        term "Aminopyridines",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Benzamides",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Encephalomyelitis, Autoimmune, Experimental",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interferon-gamma",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-17",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Janus Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lymphocyte Activation"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Multiple Sclerosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "STAT Transcription Factors",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Th1 Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Th17 Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Thiourea",
+        qual {
+          {
+            mp TRUE,
+            subh "analogs & derivatives"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Uric Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "analogs & derivatives"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Aminopyridines"
+      },
+      {
+        type nameonly,
+        name "BJ-2266"
+      },
+      {
+        type nameonly,
+        name "Benzamides"
+      },
+      {
+        type nameonly,
+        name "Interleukin-17"
+      },
+      {
+        type nameonly,
+        name "STAT Transcription Factors"
+      },
+      {
+        type cas,
+        cit "268B43MJ25",
+        name "Uric Acid"
+      },
+      {
+        type cas,
+        cit "7F23ZQP3EM",
+        name "6-thiouric acid"
+      },
+      {
+        type cas,
+        cit "82115-62-6",
+        name "Interferon-gamma"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Janus Kinases"
+      },
+      {
+        type cas,
+        cit "GYV9AM2QAG",
+        name "Thiourea"
+      }
+    },
+    pmid 28681958,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

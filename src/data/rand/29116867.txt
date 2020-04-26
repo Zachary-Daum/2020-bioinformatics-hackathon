@@ -1,0 +1,200 @@
+
+Pubmed-entry ::= {
+  pmid 29116867,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Effects of Smoking Abstinence on Incentivized Spatial
+ Working Memory."
+      },
+      authors {
+        names std {
+          {
+            name ml "Geier C",
+            affil str "a Pennsylvania State University , Human Development and
+ Family Studies , University Park , Pennsylvania , USA."
+          },
+          {
+            name ml "Roberts N",
+            affil str "a Pennsylvania State University , Human Development and
+ Family Studies , University Park , Pennsylvania , USA."
+          },
+          {
+            name ml "Lydon-Staley D",
+            affil str "a Pennsylvania State University , Human Development and
+ Family Studies , University Park , Pennsylvania , USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Subst Use Misuse",
+          ml-jta "Subst Use Misuse",
+          issn "1532-2491",
+          name "Substance use & misuse"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 2
+          },
+          volume "53",
+          issue "1",
+          pages "86-93",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29116867,
+        doi "10.1080/10826084.2017.1325374",
+        other {
+          db "pmc",
+          tag str "PMC5812258"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS940469"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/10826084.2017.1325374"
+        }
+      }
+    },
+    abstract "BACKGROUND AND OBJECTIVE: Reward processing and working memory
+ (WM) underlie value-based decision-making; consequently, joint examination of
+ these systems may further our understanding of why smokers choose to smoke
+ again following a quit attempt (relapse). While previous studies have
+ demonstrated altered reward and WM function associated with nicotine
+ exposure, little is known about the effects of abstinence on the joint
+ function of these systems. The current study aims to address this gap.
+ METHOD: Eighteen daily smokers were tested on a monetarily incentivized
+ memory guided saccade (MGS) task on two separate, counterbalanced occasions,
+ an abstinent and a non-abstinent session. The MGS task is a widely used
+ metric of spatial working memory and enables precise quantification of the
+ effects of rewards and nicotine exposure on behavior. RESULTS: During the
+ non-abstinent session, participants showed increased accuracy of the initial
+ saccade towards the remembered target location on reward vs. neutral trials.
+ Participants also showed increased accuracy of the final saccade towards the
+ target, across incentive types, only during the non-abstinent condition.
+ DISCUSSION AND CONCLUSIONS: Our observation that rewards improve the accuracy
+ of the initial memory guided saccade during the non-abstinent but not
+ abstinent condition extends a growing literature indicating reduced
+ motivation towards monetary rewards during abstinence. Further, differences
+ in the accuracy of the final corrective saccade during the non-abstinent but
+ not the abstinent condition suggests smoking abstinence-related effects on WM
+ precision beyond those related to incentive motivation (e.g., sustained
+ attention). SIGNIFICANCE: This work extends our fundamental understanding of
+ smoking's effects on core affective and cognitive processes.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Memory, Short-Term",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Photic Stimulation"
+      },
+      {
+        mp TRUE,
+        term "Reward"
+      },
+      {
+        term "Saccades",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Smoking Cessation",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "T32 DA017629/DA/NIDA NIH HHS"
+    },
+    pmid 29116867,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

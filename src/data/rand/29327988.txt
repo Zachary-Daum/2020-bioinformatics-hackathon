@@ -1,0 +1,129 @@
+
+Pubmed-entry ::= {
+  pmid 29327988,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Alexa, Siri, Cortana, and More: An Introduction to Voice
+ Assistants."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hoy MB",
+            affil str "a Mayo Clinic Libraries , Mayo Clinic, Rochester ,
+ Minnesota , USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Med Ref Serv Q",
+          ml-jta "Med Ref Serv Q",
+          issn "1540-9597",
+          name "Medical reference services quarterly"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "37",
+          issue "1",
+          pages "81-88",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29327988,
+        doi "10.1080/02763869.2018.1404391",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/02763869.2018.1404391"
+        }
+      }
+    },
+    abstract "Voice assistants are software agents that can interpret human
+ speech and respond via synthesized voices. Apple's Siri, Amazon's Alexa,
+ Microsoft's Cortana, and Google's Assistant are the most popular voice
+ assistants and are embedded in smartphones or dedicated home speakers. Users
+ can ask their assistants questions, control home automation devices and media
+ playback via voice, and manage other basic tasks such as email, to-do lists,
+ and calendars with verbal commands. This column will explore the basic
+ workings and common features of today's voice assistants. It will also
+ discuss some of the privacy and security issues inherent to voice assistants
+ and some potential future uses for these devices. As voice assistants become
+ more widely used, librarians will want to be familiar with their operation
+ and perhaps consider them as a means to deliver library services and
+ materials.",
+    mesh {
+      {
+        term "Computer Security"
+      },
+      {
+        mp TRUE,
+        term "Internet"
+      },
+      {
+        term "Libraries"
+      },
+      {
+        term "Privacy"
+      },
+      {
+        mp TRUE,
+        term "Speech Recognition Software"
+      },
+      {
+        term "User-Computer Interface"
+      }
+    },
+    pmid 29327988,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

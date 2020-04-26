@@ -1,0 +1,268 @@
+
+Pubmed-entry ::= {
+  pmid 29218397,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Can we better predict the biologic behavior of incidental IPMN?
+ A comprehensive analysis of molecular diagnostics and biomarkers in
+ intraductal papillary mucinous neoplasms of the pancreas."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tulla KA",
+            affil str "Department of Surgery, Division of Surgical Oncology,
+ University of Illinois at Chicago, Chicago, IL, USA."
+          },
+          {
+            name ml "Maker AV",
+            affil str "Department of Surgery, Division of Surgical Oncology,
+ University of Illinois at Chicago, Chicago, IL, USA. amaker@uic.edu.;
+ Department of Microbiology and Immunology, University of Illinois at Chicago,
+ 835 S. Wolcott Ave. M/C 790, Chicago, IL, 60612, USA. amaker@uic.edu.;
+ Creticos Cancer Center at AIMMC, Chicago, IL, USA. amaker@uic.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Langenbecks Arch Surg",
+          ml-jta "Langenbecks Arch Surg",
+          issn "1435-2451",
+          name "Langenbeck's archives of surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "403",
+          issue "2",
+          pages "151-194",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29218397,
+        doi "10.1007/s00423-017-1644-z",
+        pii "10.1007/s00423-017-1644-z",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00423-017-1644-z"
+        }
+      }
+    },
+    abstract "PURPOSE: Predicting the biologic behavior of intraductal
+ papillary mucinous neoplasm (IPMN) remains challenging. Current guidelines
+ utilize patient symptoms and imaging characteristics to determine appropriate
+ surgical candidates. However, the majority of resected cysts remain low-risk
+ lesions, many of which may be feasible to have under surveillance. We herein
+ characterize the most promising and up-to-date molecular diagnostics in order
+ to identify optimal components of a molecular signature to distinguish levels
+ of IPMN dysplasia. METHODS: A comprehensive systematic review of pertinent
+ literature, including our own experience, was conducted based on the PRISMA
+ guidelines. RESULTS: Molecular diagnostics in IPMN patient tissue, duodenal
+ secretions, cyst fluid, saliva, and serum were evaluated and organized into
+ the following categories: oncogenes, tumor suppressor genes, glycoproteins,
+ markers of the immune response, proteomics, DNA/RNA mutations, and
+ next-generation sequencing/microRNA. Specific targets in each of these
+ categories, and in aggregate, were identified by their ability to both
+ characterize a cyst as an IPMN and determine the level of cyst dysplasia.
+ CONCLUSIONS: Combining molecular signatures with clinical and imaging
+ features in this era of next-generation sequencing and advanced computational
+ analysis will enable enhanced sensitivity and specificity of current models
+ to predict the biologic behavior of IPMN.",
+    mesh {
+      {
+        term "Adenocarcinoma, Mucinous",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Biopsy, Needle"
+      },
+      {
+        term "Carcinoma, Pancreatic Ductal",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunohistochemistry"
+      },
+      {
+        term "Incidental Findings"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Needs Assessment"
+      },
+      {
+        term "Pancreatic Neoplasms",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Pathology, Molecular",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Practice Guidelines as Topic"
+      },
+      {
+        term "Predictive Value of Tests"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Risk Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      }
+    },
+    idnum {
+      "K08CA190855/National Cancer Institute"
+    },
+    pmid 29218397,
+    pub-type {
+      "Journal Article",
+      "Review",
+      "Systematic Review"
+    },
+    status medline
+  }
+}
+
+

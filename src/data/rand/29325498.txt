@@ -1,0 +1,158 @@
+
+Pubmed-entry ::= {
+  pmid 29325498,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The structure of the General Health Questionnaire (GHQ-12): two
+ meta-analytic factor analyses."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gnambs T",
+            affil str "a Leibniz Institute for Educational Trajectories ,
+ Bamberg , Germany."
+          },
+          {
+            name ml "Staufenbiel T",
+            affil str "b Institute of Psychology , Osnabruck University ,
+ Osnabruck , Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Health Psychol Rev",
+          ml-jta "Health Psychol Rev",
+          issn "1743-7202",
+          name "Health psychology review"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "12",
+          issue "2",
+          pages "179-194",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29325498,
+        doi "10.1080/17437199.2018.1426484",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/17437199.2018.1426484"
+        }
+      }
+    },
+    abstract "The General Health Questionnaire (GHQ-12) is a popular measure
+ of psychological distress. Despite its widespread use, an ongoing controversy
+ pertains to its internal structure. Although the GHQ-12 was originally
+ constructed to capture a unitary construct, empirical studies identified
+ different factor structures. Therefore, this study examined the
+ dimensionality of the GHQ-12 in two independent meta-analyses. The first
+ meta-analysis used summary data published in 38 primary studies (total N =
+ 76,473). Meta-analytic exploratory factor analyses identified two factors
+ formed by negatively and positively worded items. The second meta-analysis
+ included individual responses of 410,640 participants from 84 independent
+ samples. Meta-analytic confirmatory factor analyses corroborated the
+ two-dimensional structure of the GHQ-12. However, bifactor modelling showed
+ that most of the variance was explained by a general factor. Therefore,
+ subscale scores reflected rather limited unique variance. Overall, the two
+ meta-analyses demonstrated that the GHQ-12 is essentially unidimensional. It
+ is not recommended to use and interpret subscale scores because they
+ primarily reflect general mental health rather than distinct constructs.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Factor Analysis, Statistical"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Surveys",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Psychometrics"
+      },
+      {
+        term "Sensitivity and Specificity"
+      },
+      {
+        term "Stress, Psychological",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      }
+    },
+    pmid 29325498,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis"
+    },
+    status medline
+  }
+}
+
+

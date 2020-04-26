@@ -1,0 +1,311 @@
+
+Pubmed-entry ::= {
+  pmid 29193574,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Norcantharidin induce apoptosis in human nasopharyngeal
+ carcinoma through caspase and mitochondrial pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chen AW",
+            affil str "Department of Otorhinolaryngology, Head and Neck
+ Surgery, Changhua Christian Hospital, Taiwan."
+          },
+          {
+            name ml "Tseng YS",
+            affil str "Department of Dermatology, Changhua Christian Hospital,
+ Taiwan."
+          },
+          {
+            name ml "Lin CC",
+            affil str "Cancer Research Center, Changhua Christian Hospital,
+ Taiwan."
+          },
+          {
+            name ml "Hsi YT",
+            affil str "Cancer Research Center, Changhua Christian Hospital,
+ Taiwan."
+          },
+          {
+            name ml "Lo YS",
+            affil str "Cancer Research Center, Changhua Christian Hospital,
+ Taiwan."
+          },
+          {
+            name ml "Chuang YC",
+            affil str "Cancer Research Center, Changhua Christian Hospital,
+ Taiwan."
+          },
+          {
+            name ml "Lin SH",
+            affil str "Department of Surgical Pathology, Changhua Christian
+ Hospital, Taiwan."
+          },
+          {
+            name ml "Yu CY",
+            affil str "Senior High School, Mingdao High School, Taichung,
+ Taiwan."
+          },
+          {
+            name ml "Hsieh MJ",
+            affil str "Cancer Research Center, Changhua Christian Hospital,
+ Taiwan.; Graduate Institute of Biomedical Sciences, China Medical University,
+ Taichung, Taiwan."
+          },
+          {
+            name ml "Chen MK",
+            affil str "Department of Otorhinolaryngology, Head and Neck
+ Surgery, Changhua Christian Hospital, Taiwan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ. Toxicol.",
+          ml-jta "Environ Toxicol",
+          issn "1522-7278",
+          name "Environmental toxicology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "33",
+          issue "3",
+          pages "343-350",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 25
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29193574,
+        doi "10.1002/tox.22521",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/tox.22521"
+        }
+      }
+    },
+    abstract "While Nasopharyngeal carcinoma (NPC) is uncommon in western
+ countries, it is endemic in Southeast Asia and Southern China. Previous study
+ of norcantharidin (NCTD), isolated from blister beetles, has proved its
+ anticancer effect on various tumors. However, the effect of NCTD in NPC has
+ never been studied. The purpose of this study is to inspect the suppression
+ activity of NCTD on NPC, along with the underlying mechanism. NPC cell line
+ NPC-BM was treated with NCTD. NCTD remarkably inhibited proliferation and
+ induce apoptosis in NPC-BM cell. Activation of caspase-3, -8, -9 was observed
+ through western blotting. The expression of antiapoptotic protein Bcl-XL was
+ significantly reduced, but expression of proapoptotic protein Bak was
+ increased after treatment of NCTD. The cytotoxic effect of NCTD on NPC-BM
+ cell is mainly due to apoptosis, mediated by caspase and mitochondrial
+ pathway. These results suggested that NCTD could be a potential anticancer
+ agent for NPC.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Bridged Bicyclo Compounds, Heterocyclic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Carcinoma"
+      },
+      {
+        term "Caspase 3",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 8",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Caspase 9",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Enzyme Activation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mitochondria",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nasopharyngeal Carcinoma"
+      },
+      {
+        term "Nasopharyngeal Neoplasms"
+      },
+      {
+        term "bcl-X Protein",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Bridged Bicyclo Compounds, Heterocyclic"
+      },
+      {
+        type nameonly,
+        name "bcl-X Protein"
+      },
+      {
+        type cas,
+        cit "8452E71EO7",
+        name "norcantharidin"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "CASP3 protein, human"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 3"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 8"
+      },
+      {
+        type ec,
+        cit "3.4.22.-",
+        name "Caspase 9"
+      }
+    },
+    pmid 29193574,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

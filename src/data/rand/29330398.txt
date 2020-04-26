@@ -1,0 +1,296 @@
+
+Pubmed-entry ::= {
+  pmid 29330398,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Management of important adverse events associated with
+ inotuzumab ozogamicin: expert panel review."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kebriaei P",
+            affil str "University of Texas MD Anderson Cancer Center, Houston,
+ TX, USA. pkebriae@mdanderson.org."
+          },
+          {
+            name ml "Cutler C",
+            affil str "Dana Farber Cancer Center, Boston, MA, USA."
+          },
+          {
+            name ml "de Lima M",
+            affil str "UH Cleveland Medical Center and Case Western Reserve
+ University, Cleveland, OH, USA."
+          },
+          {
+            name ml "Giralt S",
+            affil str "Memorial Sloan Kettering, New York, NY, USA."
+          },
+          {
+            name ml "Lee SJ",
+            affil str "Fred Hutchinson Cancer Research Center, Seattle, WA,
+ USA."
+          },
+          {
+            name ml "Marks D",
+            affil str "University Hospitals Bristol, Bristol, UK."
+          },
+          {
+            name ml "Merchant A",
+            affil str "University of Southern California, Los Angeles, CA, USA."
+          },
+          {
+            name ml "Stock W",
+            affil str "University of Chicago, Chicago, IL, USA."
+          },
+          {
+            name ml "van Besien K",
+            affil str "Weill Cornell Medical College, New York, NY, USA."
+          },
+          {
+            name ml "Stelljes M",
+            affil str "Universitatsklinikum Munster, Munster, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Bone Marrow Transplant.",
+          ml-jta "Bone Marrow Transplant",
+          issn "1476-5365",
+          name "Bone marrow transplantation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "53",
+          issue "4",
+          pages "449-456",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29330398,
+        doi "10.1038/s41409-017-0019-y",
+        pii "10.1038/s41409-017-0019-y",
+        other {
+          db "pmc",
+          tag str "PMC5897380"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41409-017-0019-y"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Antibodies, Monoclonal, Humanized",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Clinical Trials as Topic"
+      },
+      {
+        term "Disease Management"
+      },
+      {
+        term "Febrile Neutropenia",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "prevention & control"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Hepatic Veno-Occlusive Disease",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "prevention & control"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inotuzumab Ozogamicin"
+      },
+      {
+        term "Practice Guidelines as Topic"
+      },
+      {
+        term "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Salvage Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Tumor Lysis Syndrome",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            subh "prevention & control"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Vascular Diseases",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "prevention & control"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antibodies, Monoclonal, Humanized"
+      },
+      {
+        type cas,
+        cit "P93RUU11P7",
+        name "Inotuzumab Ozogamicin"
+      }
+    },
+    xref {
+    },
+    pmid 29330398,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

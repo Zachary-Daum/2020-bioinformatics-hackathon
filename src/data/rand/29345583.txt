@@ -1,0 +1,216 @@
+
+Pubmed-entry ::= {
+  pmid 29345583,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Controversies in the Cath Lab: Navigating Contemporary
+ Conundrums Before, During and After Intervention."
+      },
+      authors {
+        names std {
+          {
+            name ml "Geisler T",
+            affil str "Medizinische Klinik III, Department Cardiology and
+ Cardiovascular Disease German Heart Competence Centre University Hospital
+ Tubingen Tubingen, Germany."
+          },
+          {
+            name ml "Gorog DA",
+            affil str "Postgraduate Medical School University of
+ Hertfordshire, Hertfordshire, United Kingdom."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Curr Vasc Pharmacol",
+          ml-jta "Curr Vasc Pharmacol",
+          issn "1875-6212",
+          name "Current vascular pharmacology"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "16",
+          issue "5",
+          pages "416-417",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29345583,
+        pii "CVP-EPUB-88005",
+        doi "10.2174/1570161116666180117144355",
+        other {
+          db "ELocationID doi",
+          tag str "10.2174/1570161116666180117144355"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Clinical Decision-Making"
+      },
+      {
+        term "Coronary Restenosis",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Coronary Thrombosis",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Fibrinolytic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Hemorrhage",
+        qual {
+          {
+            subh "chemically induced"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Operating Rooms"
+      },
+      {
+        term "Patient Selection"
+      },
+      {
+        mp TRUE,
+        term "Percutaneous Coronary Intervention"
+      },
+      {
+        term "Platelet Aggregation Inhibitors",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Risk Assessment"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Fibrinolytic Agents"
+      },
+      {
+        type nameonly,
+        name "Platelet Aggregation Inhibitors"
+      }
+    },
+    pmid 29345583,
+    pub-type {
+      "Editorial",
+      "Introductory Journal Article"
+    },
+    status medline
+  }
+}
+
+

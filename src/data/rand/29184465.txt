@@ -1,0 +1,129 @@
+
+Pubmed-entry ::= {
+  pmid 29184465,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "How Should Imaging Direct/Orient Management of Rectal Cancer?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Bhoday J",
+            affil str "Department of Radiology, The Royal Marsden NHS
+ Foundation Trust NIHR BRC and Imperial College London, Sutton, Surrey, United
+ Kingdom."
+          },
+          {
+            name ml "Balyasnikova S",
+            affil str "Department of Radiology, The Royal Marsden NHS
+ Foundation Trust NIHR BRC and Imperial College London, Sutton, Surrey, United
+ Kingdom."
+          },
+          {
+            name ml "Wale A",
+            affil str "Department of Radiology, The Royal Marsden NHS
+ Foundation Trust NIHR BRC and Imperial College London, Sutton, Surrey, United
+ Kingdom."
+          },
+          {
+            name ml "Brown G",
+            affil str "Department of Radiology, The Royal Marsden NHS
+ Foundation Trust NIHR BRC and Imperial College London, Sutton, Surrey, United
+ Kingdom."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Colon Rectal Surg",
+          ml-jta "Clin Colon Rectal Surg",
+          issn "1531-0043",
+          name "Clinics in colon and rectal surgery"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "30",
+          issue "5",
+          pages "297-312",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 1,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29184465,
+        doi "10.1055/s-0037-1606107",
+        pii "00839",
+        other {
+          db "pmc",
+          tag str "PMC5703668"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1055/s-0037-1606107"
+        }
+      }
+    },
+    abstract "Modern rectal cancer management is dependent on preoperative
+ staging, and radiological assessment is a crucial part of this process.
+ Imaging must provide sufficient information to guide preoperative
+ decision-making that is reliable and reproducible. Different methods have
+ been used for local staging; however, magnetic resonance imaging (MRI) has
+ shown to be the most reliable tool for this purpose. MRI offers prognostic
+ information about the patients and guides the decision between neoadjuvant
+ treatment and total mesorectal excision alone. Also, not only the initial
+ staging but also restaging by MRI can provide significant information
+ regarding tumor response that is essential when considering alternative
+ approaches.",
+    pmid 29184465,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+

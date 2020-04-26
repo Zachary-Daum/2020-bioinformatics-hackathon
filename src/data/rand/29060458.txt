@@ -1,0 +1,153 @@
+
+Pubmed-entry ::= {
+  pmid 29060458,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Improved microRNA biomarkers for pathological stages in lung
+ adenocarcinoma via clustering of dysregulated microRNA-target associations."
+      },
+      authors {
+        names ml {
+          "Nhat Tran",
+          "Alipourfard B",
+          "Abhyankar V",
+          "Nguyen K",
+          "Weidanz J",
+          "Gao J"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Conf Proc IEEE Eng Med Biol Soc",
+          ml-jta "Conf Proc IEEE Eng Med Biol Soc",
+          issn "1557-170X",
+          name "Conference proceedings : ... Annual International Conference
+ of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in
+ Medicine and Biology Society. Annual Conference"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7
+          },
+          volume "2017",
+          pages "2708-2711",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29060458,
+        doi "10.1109/EMBC.2017.8037416",
+        other {
+          db "ELocationID doi",
+          tag str "10.1109/EMBC.2017.8037416"
+        }
+      }
+    },
+    abstract "Most of cancer-related deaths are due to lung cancer, and there
+ is a need for reliable prognosis biomarkers to predict stages in lung
+ adenocarcinoma cases. Recently, microRNAs are found to have potential as both
+ biomarkers and therapeutic targets for lung cancer. As evidence suggests
+ microRNA dysregulations are implicated in many cancer malignancies, it is
+ important to consider the changes in miRNA-target associations among
+ different lung cancer biological states. We proposed a novel clustering
+ strategy to identify groups of miRNAs with similar dysregulated targets.
+ Then, we incorporated the learned clusters of miRNA as prior knowledge to a
+ Sparse Group Lasso classifier to improve classification results, thereby
+ leading to more relevant selection of microRNA biomarkers. We apply the
+ method to the TCGA Lung Adenocarcinoma dataset. In cross-validation tests,
+ the AUC rate for each stages is 1.0, 0.71, 0.68, 0.64, and 0.90 for normal,
+ Stage I, Stage II, Stage III, and Stage IV, respectively. Among the candidate
+ miRNAs selected in the model, 87% are reported to be related to Lung
+ Adenocarcinoma. Further result demonstrates that clustering miRNAs by
+ considering the dysregulation between miRNAs and mRNA targets leads to
+ biomarkers with higher precision and recall rate to known lung adenocarcinoma
+ miRNAs.",
+    mesh {
+      {
+        mp TRUE,
+        term "Adenocarcinoma"
+      },
+      {
+        term "Adenocarcinoma of Lung"
+      },
+      {
+        term "Biomarkers, Tumor"
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Lung Neoplasms"
+      },
+      {
+        term "MicroRNAs"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      }
+    },
+    pmid 29060458,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,347 @@
+
+Pubmed-entry ::= {
+  pmid 28925793,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sequential administration of MVA-based vaccines and
+ PD-1/PD-L1-blocking antibodies confers measurable benefits on tumor growth
+ and survival: Preclinical studies with MVA-betaGal and MVA-MUC1 (TG4010) in a
+ murine tumor model."
+      },
+      authors {
+        names std {
+          {
+            name ml "Remy-Ziller C",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Thioudellet C",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Hortelano J",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Gantzer M",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Nourtier V",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Claudepierre MC",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Sansas B",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Preville X",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Bendjama K",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Quemeneur E",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          },
+          {
+            name ml "Rittner K",
+            affil str "a Department of Oncoimmunology , Transgene S.A. , Parc
+ d'Innovation, Illkirch-Graffenstaden , Cedex , France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Hum Vaccin Immunother",
+          ml-jta "Hum Vaccin Immunother",
+          issn "2164-554X",
+          name "Human vaccines & immunotherapeutics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 2
+          },
+          volume "14",
+          issue "1",
+          pages "140-145",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28925793,
+        doi "10.1080/21645515.2017.1373921",
+        other {
+          db "pmc",
+          tag str "PMC5791558"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/21645515.2017.1373921"
+        }
+      }
+    },
+    abstract "TG4010, a Modified Vaccinia virus Ankara (MVA) expressing human
+ mucin1 (MUC1) has demonstrated clinical benefit for patients suffering from
+ advanced non-small cell lung cancer (NSCLC) in combination with chemotherapy.
+ To support its development, preclinical experiments were performed with
+ either TG4010 or beta-galactosidase-encoding MVA vector (MVA-betagal) in mice
+ presenting tumors in the lung. Tumor growth was obtained after intravenous
+ injection of CT26 murine colon cancer cells, engineered to express either
+ MUC1 or betagal. Mice showed increased survival rates after repeated
+ intravenous injections of TG4010 or MVA-betagal, compared to an empty MVA
+ control vector. Treatment with MVA vectors led to the accumulation of
+ CD3(dim)CD8(dim) T cells, with two subpopulations characterized as
+ KLRG1(+)CD127(-) short-lived effector cells (SLECs), and KLRG1(-)CD127(-)
+ early effector cells (EECs) comprising cells releasing IFNgamma, Granzyme B
+ and CD107a upon antigen-specific peptide stimulation. EECs were characterized
+ by an up-regulation of PD-1. Tumor growth in the diseased lung correlated
+ with the appearance of PD1(+) Treg cells that partially disappeared after
+ TG4010 treatment. At late stage of tumor development in the lung, PD-L1 was
+ detected on CD45(-) tumor cells, on CD4(+) cells, including Treg cells, on
+ CD3(+)CD8(+) and CD3(dim)CD8(dim) T lymphocytes, on NK cells, on MDSCs and on
+ alveolar macrophages. We demonstrated that targeting the PD-1/PD-L1 pathway
+ with blocking monoclonal antibodies several days after TG4010 treatment, at
+ late stage of tumor development, enhanced the therapeutic protection induced
+ by the vaccine, supporting the ongoing clinical evaluation of TG4010
+ immunotherapy in combination with Nivolumab.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents, Immunological",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "B7-H1 Antigen",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cancer Vaccines",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Carcinoma, Non-Small-Cell Lung",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Combined Modality Therapy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Immunotherapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Injections, Intravenous"
+      },
+      {
+        term "Membrane Glycoproteins",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Mucin-1",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Nivolumab",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Programmed Cell Death 1 Receptor",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "immunology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Vaccinia virus",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Xenograft Model Antitumor Assays"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Immunological"
+      },
+      {
+        type nameonly,
+        name "B7-H1 Antigen"
+      },
+      {
+        type nameonly,
+        name "Cancer Vaccines"
+      },
+      {
+        type nameonly,
+        name "MUC1 protein, human"
+      },
+      {
+        type nameonly,
+        name "Membrane Glycoproteins"
+      },
+      {
+        type nameonly,
+        name "Mucin-1"
+      },
+      {
+        type nameonly,
+        name "Programmed Cell Death 1 Receptor"
+      },
+      {
+        type nameonly,
+        name "TG4010"
+      },
+      {
+        type cas,
+        cit "31YO63LBSN",
+        name "Nivolumab"
+      }
+    },
+    pmid 28925793,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

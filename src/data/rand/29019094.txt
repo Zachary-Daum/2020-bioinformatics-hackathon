@@ -1,0 +1,298 @@
+
+Pubmed-entry ::= {
+  pmid 29019094,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lipid droplet-associated gene expression and chromatin
+ remodelling in LIPASE 5'-upstream region from beginning- to mid-endodormant
+ bud in 'Fuji' apple."
+      },
+      authors {
+        names std {
+          {
+            name ml "Saito T",
+            affil str "Graduate School of Horticulture, Chiba University,
+ Matsudo, 271-8510, Japan."
+          },
+          {
+            name ml "Wang S",
+            affil str "Graduate School of Horticulture, Chiba University,
+ Matsudo, 271-8510, Japan."
+          },
+          {
+            name ml "Ohkawa K",
+            affil str "Graduate School of Horticulture, Chiba University,
+ Matsudo, 271-8510, Japan."
+          },
+          {
+            name ml "Ohara H",
+            affil str "Graduate School of Horticulture, Chiba University,
+ Matsudo, 271-8510, Japan.; Center for Environment, Health and Field Sciences,
+ Chiba University, Kashiwa-no-ha, 277-0882, Japan."
+          },
+          {
+            name ml "Ikeura H",
+            affil str "Organization for the Strategic Coordination of Research
+ and Intellectual Properties, Meiji University, Kawasaki, 214-8571, Japan."
+          },
+          {
+            name ml "Ogawa Y",
+            affil str "Graduate School of Horticulture, Chiba University,
+ Matsudo, 271-8510, Japan."
+          },
+          {
+            name ml "Kondo S",
+            affil str "Graduate School of Horticulture, Chiba University,
+ Matsudo, 271-8510, Japan. s-kondo@faculty.chiba-u.jp."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Plant Mol. Biol.",
+          ml-jta "Plant Mol Biol",
+          issn "1573-5028",
+          name "Plant molecular biology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 11
+          },
+          volume "95",
+          issue "4-5",
+          pages "441-449",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29019094,
+        doi "10.1007/s11103-017-0662-0",
+        pii "10.1007/s11103-017-0662-0",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11103-017-0662-0"
+        }
+      }
+    },
+    abstract "KEY MESSAGE: We found that lipid accumulation in the meristem
+ region and the expression of MdLIP2A, which appears to be regulated by
+ chromatin remodeling, coincided with endodormancy induction in the 'Fuji'
+ apple. In deciduous trees, including apples (Malus x domestica Borkh.), lipid
+ accumulation in the meristem region towards endodormancy induction has been
+ thought to be an important process for the acquisition of cold tolerance. In
+ this study, we conducted histological staining of crude lipids in the
+ meristem region of 'Fuji' apples and found that lipid accumulation coincided
+ with endodormancy induction. Since a major component of lipid bodies
+ (triacylglycerol) is esterified fatty acids, we analysed fatty acid-derived
+ volatile compounds and genes encoding fatty acid-modifying enzymes (MdLOX1A
+ and MdHPL2A); the reduction of lipid breakdown also coincided with
+ endodormancy induction. We then characterised the expression patterns of
+ lipid body-regulatory genes MdOLE1 and MdLIP2A during endodormancy induction
+ and found that the expression of MdLIP2A correlated well with lipid
+ accumulation towards endodormancy induction. Based on these results, we
+ conducted chromatin remodelling studies and localized the cis-element in the
+ 5'-upstream region of MdLIP2A to clarify its regulatory mechanism. Finally,
+ we revealed that chromatin was concentrated - 764 to - 862 bp of the 5
+'-upstream region of MdLIP2A, which harbours the GARE [gibberellin responsive
+ MYB transcription factor binding site] and CArG [MADS-box transcription
+ factor binding site] motifs-meristem development-related protein-binding
+ sites.",
+    mesh {
+      {
+        mp TRUE,
+        term "Chromatin Assembly and Disassembly"
+      },
+      {
+        term "Fatty Acids",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation, Plant"
+      },
+      {
+        term "Gibberellins",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipase",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipid Droplets",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipid Metabolism"
+      },
+      {
+        term "Malus",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Meristem",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Plant Growth Regulators",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plant Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Triglycerides",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Fatty Acids"
+      },
+      {
+        type nameonly,
+        name "Gibberellins"
+      },
+      {
+        type nameonly,
+        name "Plant Growth Regulators"
+      },
+      {
+        type nameonly,
+        name "Plant Proteins"
+      },
+      {
+        type nameonly,
+        name "Triglycerides"
+      },
+      {
+        type ec,
+        cit "3.1.1.3",
+        name "Lipase"
+      }
+    },
+    pmid 29019094,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

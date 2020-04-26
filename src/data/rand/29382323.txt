@@ -1,0 +1,293 @@
+
+Pubmed-entry ::= {
+  pmid 29382323,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prevalence of high-risk HPV genotypes, categorised by their
+ quadrivalent and nine-valent HPV vaccination coverage, and the genotype
+ association with high-grade lesions."
+      },
+      authors {
+        names std {
+          {
+            name ml "Paz-Zulueta M",
+            affil str "Faculty of Nursing, University of Cantabria, Avda
+ Valdecilla s/n. C.P.: 39008, Cantabria, Spain. maria.paz@unican.es."
+          },
+          {
+            name ml "Alvarez-Paredes L",
+            affil str "Department of Microbiology and Parasitology, University
+ Hospital of Burgos, C/ Islas Baleares, 3 - C.P.: 09006, Burgos, Spain."
+          },
+          {
+            name ml "Rodriguez Diaz JC",
+            affil str "Department of Microbiology, University General Hospital
+ of Alicante. Pintor Baeza, 11- C.P.: 03010, Alicante, Spain."
+          },
+          {
+            name ml "Paras-Bravo P",
+            affil str "Faculty of Nursing, University of Cantabria, Avda
+ Valdecilla s/n. C.P.: 39008, Cantabria, Spain."
+          },
+          {
+            name ml "Andrada Becerra ME",
+            affil str "Department of Pathological Anatomy, University General
+ Hospital of Elche. Cami de l'Almazara, 11 - C.P.: 03203, Alicante, Spain."
+          },
+          {
+            name ml "Rodriguez Ingelmo JM",
+            affil str "Department of Gynecology, University General Hospital
+ of Elche. Cami de l'Almazara, 11 - C.P.: 03203, Alicante, Spain."
+          },
+          {
+            name ml "Ruiz Garcia MM",
+            affil str "Department of Microbiology, University General Hospital
+ of Elche. Cami de l'Almazara, 11 - C.P.: 03203, Alicante, Spain."
+          },
+          {
+            name ml "Portilla J",
+            affil str "Department of Infectious Diseases, University Hospital
+ of Alicante. Pintor Baeza, 11- C.P.: 03010, Alicante, Spain."
+          },
+          {
+            name ml "Santibanez M",
+            affil str "Faculty of Nursing, University of Cantabria, Avda
+ Valdecilla s/n. C.P.: 39008, Cantabria, Spain."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Cancer",
+          ml-jta "BMC Cancer",
+          issn "1471-2407",
+          name "BMC cancer"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 30
+          },
+          volume "18",
+          issue "1",
+          pages "112",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 23
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29382323,
+        doi "10.1186/s12885-018-4033-2",
+        pii "10.1186/s12885-018-4033-2",
+        other {
+          db "pmc",
+          tag str "PMC5791190"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12885-018-4033-2"
+        }
+      }
+    },
+    abstract "BACKGROUND: The new nine-valent vaccine against human
+ papillomavirus (HPV) includes the four HPV genotypes (6, 11, 16, and 18) that
+ are targeted by the older quadrivalent HPV vaccine, plus five additional
+ oncogenic types (31, 33, 45, 52, and 58) remain significantly associated with
+ high grade lesions. We aimed to determine the prevalence of high-risk HPV
+ genotypes in unvaccinated subjects and the association of these genotypes
+ with the incidence of high-grade lesions. We also assessed which, if either,
+ of these two HPV vaccines could have prevented these cases. METHODS: This
+ cross-sectional study, conducted from 4 January 2010 to 30 December 2011, was
+ composed of 595 women attending the Hospital General Universitario de Elche
+ (Spain) gynaecology department who were positively screened for opportunistic
+ cervical cancer by pap smears and HPV detection during a routine
+ gynaecological health check. The pap smear results were classified using the
+ Bethesda system. HPV genotyping was performed with the Linear Array HPV
+ genotyping test, and viruses were classified by the International Agency for
+ Research on Cancer assessment of HPV carcinogenicity. Odds ratios (ORs) with
+ their 95% confidence intervals (95% CI) were estimated by logistic
+ regression, adjusting for age and immigrant status. The prevented fraction
+ among those exposed (PFe-adjusted) was determined as a measure of impact.
+ RESULTS: At least one of the additional five high-risk HPV genotypes present
+ in the nine-valent HPV vaccine was detected in 20.5% of subjects. After
+ excluding women with genotype 16 and/or 18 co-infection, high-risk genotypes
+ (31, 33, 45, 52, and 58) were associated with a higher risk of
+ intraepithelial lesion or malignancy: adjusted OR = 3.51 (95% CI, 1.29-9.56),
+ PFe-adjusted = 0.72 (95% CI, 0.22-0.90). Genotypes that are still
+ non-vaccine-targeted were detected in 17.98% of the women, but these were not
+ significantly associated with high-grade lesions. CONCLUSION: The greater
+ protection of the nine-valent HPV vaccine is likely to have a positive impact
+ because, in the absence of genotype 16 or 18 infection, these five genotypes
+ on their own remained significantly associated with high-grade lesions.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Genotype"
+      },
+      {
+        term "Human papillomavirus 16",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathogenicity"
+          }
+        }
+      },
+      {
+        term "Human papillomavirus 18",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathogenicity"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Papillomavirus Infections",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Papillomavirus Vaccines",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Spain",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Uterine Cervical Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Vaccination Coverage"
+      },
+      {
+        term "Vaginal Smears"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Papillomavirus Vaccines"
+      }
+    },
+    pmid 29382323,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

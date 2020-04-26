@@ -1,0 +1,186 @@
+
+Pubmed-entry ::= {
+  pmid 29117092,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Development and Validation of a Concise Instrument for
+ Formative Assessment of Team Leader Performance During Simulated Pediatric
+ Resuscitations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nadkarni LD",
+            affil str "From the Sidney Kimmel Medical College at Thomas
+ Jefferson University (L.D.N.), Philadelphia, PA; Department of Pediatrics
+ (C.G.R., D.O.K.), Division of Pediatric Emergency Medicine, Morgan Stanley
+ Children's Hospital of NY Presbyterian, Columbia University Medical Center,
+ New York, NY; Department of Pediatrics (M.A.A.), Division of Pediatric
+ Emergency Medicine, Yale University School of Medicine, New Haven, CT;
+ Department of Pediatrics (A.W.C.), Division of Pediatric Critical Care,
+ University of Louisville School of Medicine, Louisville, KY; and Department
+ of Pediatrics (M.D.A.), Division of Pediatric Emergency Medicine,
+ Northwestern University Feinberg School of Medicine, Ann & Robert H. Lurie
+ Children's Hospital of Chicago, Chicago, IL."
+          },
+          {
+            name ml "Roskind CG"
+          },
+          {
+            name ml "Auerbach MA"
+          },
+          {
+            name ml "Calhoun AW"
+          },
+          {
+            name ml "Adler MD"
+          },
+          {
+            name ml "Kessler DO"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Simul Healthc",
+          ml-jta "Simul Healthc",
+          issn "1559-713X",
+          name "Simulation in healthcare : journal of the Society for
+ Simulation in Healthcare"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "13",
+          issue "2",
+          pages "77-82",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29117092,
+        doi "10.1097/SIH.0000000000000267",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/SIH.0000000000000267"
+        }
+      }
+    },
+    abstract "AIM: The aim of this study was to assess the validity of a
+ formative feedback instrument for leaders of simulated resuscitations.
+ METHODS: This is a prospective validation study with a fully crossed (person
+ x scenario x rater) study design. The Concise Assessment of Leader Management
+ (CALM) instrument was designed by pediatric emergency medicine and graduate
+ medical education experts to be used off the shelf to evaluate and provide
+ formative feedback to resuscitation leaders. Four experts reviewed 16 videos
+ of in situ simulated pediatric resuscitations and scored resuscitation leader
+ performance using the CALM instrument. The videos consisted of 4 pediatric
+ emergency department resuscitation teams each performing in 4 pediatric
+ resuscitation scenarios (cardiac arrest, respiratory arrest, seizure, and
+ sepsis). We report on content and internal structure (reliability) validity
+ of the CALM instrument. RESULTS: Content validity was supported by the
+ instrument development process that involved professional experience, expert
+ consensus, focused literature review, and pilot testing. Internal structure
+ validity (reliability) was supported by the generalizability analysis. The
+ main component that contributed to score variability was the person (33%),
+ meaning that individual leaders performed differently. The rater component
+ had almost zero (0%) contribution to variance, which implies that raters were
+ in agreement and argues for high interrater reliability. CONCLUSIONS: These
+ results provide initial evidence to support the validity of the CALM
+ instrument as a reliable assessment instrument that can facilitate formative
+ feedback to leaders of pediatric simulated resuscitations.",
+    mesh {
+      {
+        term "Checklist",
+        qual {
+          {
+            mp TRUE,
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Emergency Medical Services"
+      },
+      {
+        mp TRUE,
+        term "Formative Feedback"
+      },
+      {
+        mp TRUE,
+        term "Leadership"
+      },
+      {
+        term "Pediatrics",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        mp TRUE,
+        term "Resuscitation"
+      },
+      {
+        mp TRUE,
+        term "Simulation Training"
+      }
+    },
+    pmid 29117092,
+    pub-type {
+      "Journal Article",
+      "Validation Study"
+    },
+    status medline
+  }
+}
+
+

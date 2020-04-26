@@ -1,0 +1,168 @@
+
+Pubmed-entry ::= {
+  pmid 28612128,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Vascular diagnostics in peripheral arteries].",
+        trans "Gefassdiagnostik an peripheren Arterien."
+      },
+      authors {
+        names std {
+          {
+            name ml "Espinola-Klein C",
+            affil str "Abteilung fur Angiologie, Zentrum fur
+ Kardiologie/Kardiologie I, Universitatsmedizin der Johannes
+ Gutenberg-Universitat Mainz, Langenbeckstr. 1, 55131, Mainz, Deutschland.
+ espinola@uni-mainz.de."
+          },
+          {
+            name ml "Weisser G",
+            affil str "Abteilung fur Angiologie, Zentrum fur
+ Kardiologie/Kardiologie I, Universitatsmedizin der Johannes
+ Gutenberg-Universitat Mainz, Langenbeckstr. 1, 55131, Mainz, Deutschland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Internist (Berl)",
+          ml-jta "Internist (Berl)",
+          issn "1432-1289",
+          name "Der Internist"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8
+          },
+          volume "58",
+          issue "8",
+          pages "787-795",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28612128,
+        doi "10.1007/s00108-017-0272-6",
+        pii "10.1007/s00108-017-0272-6",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00108-017-0272-6"
+        }
+      }
+    },
+    abstract "Peripheral artery disease (PAD) is the most frequent cause for
+ reduced perfusion in peripheral arteries. Patients with PAD have often
+ manifestations of atherosclerosis in other vascular territories. Typical
+ symptoms are intermittent claudication or rest pain and acral lesions in
+ patients with critical limb ischemia. The majority of PAD patients are
+ clinically asymptomatic; therefore, it makes sense to screen for PAD in
+ patients with cardiovascular risk factors. The ankle brachial index (ABI) is
+ regarded as an easy and cost-effective method for baseline diagnostics. If
+ ABI measurement confirms the suspected PAD, a detailed diagnostic pathway
+ should follow in which duplex sonography plays a central role. In some cases,
+ additional radiologic imaging preferably by magnet resonance imaging is
+ necessary to complete the diagnostic workup or to plan therapeutic procedures.",
+    mesh {
+      {
+        mp TRUE,
+        term "Ankle Brachial Index"
+      },
+      {
+        term "Atherosclerosis",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intermittent Claudication",
+        qual {
+          {
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Peripheral Arterial Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Radiography"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Ultrasonography"
+      }
+    },
+    pmid 28612128,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

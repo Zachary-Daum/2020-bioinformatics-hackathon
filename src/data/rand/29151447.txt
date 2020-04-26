@@ -1,0 +1,219 @@
+
+Pubmed-entry ::= {
+  pmid 29151447,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ergonomic considerations for designing truck drivers' seats: The
+ case of Bangladesh."
+      },
+      authors {
+        names std {
+          {
+            name ml "Halder P",
+            affil str "Chemical and Environmental Engineering, School of
+ Engineering, RMIT University.; Department of Industrial and Production
+ Engineering, Jessore University of Science and Technology."
+          },
+          {
+            name ml "Mahmud T",
+            affil str "Department of Industrial and Production Engineering,
+ Jessore University of Science and Technology."
+          },
+          {
+            name ml "Sarker E",
+            affil str "Hajee Mohammad Danesh Science & Technology University."
+          },
+          {
+            name ml "Karmaker C",
+            affil str "Department of Industrial and Production Engineering,
+ Jessore University of Science and Technology."
+          },
+          {
+            name ml "Kundu S",
+            affil str "Chemical and Environmental Engineering, School of
+ Engineering, RMIT University."
+          },
+          {
+            name ml "Patel S",
+            affil str "Chemical and Environmental Engineering, School of
+ Engineering, RMIT University."
+          },
+          {
+            name ml "Setiawan A",
+            affil str "Department of Mechanical Engineering, Faculty of
+ Engineering, Universitas Malikussaleh."
+          },
+          {
+            name ml "Shah K",
+            affil str "Chemical and Environmental Engineering, School of
+ Engineering, RMIT University."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Occup Health",
+          ml-jta "J Occup Health",
+          issn "1348-9585",
+          name "Journal of occupational health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 25
+          },
+          volume "60",
+          issue "1",
+          pages "64-73",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29151447,
+        doi "10.1539/joh.16-0163-OA",
+        other {
+          db "pmc",
+          tag str "PMC5799102"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1539/joh.16-0163-OA"
+        }
+      }
+    },
+    abstract "OBJECTIVES: The purpose of this work was to investigate the
+ fitness of the existing truck seats for Bangladeshi truck drivers and suggest
+ a guideline for drivers' seats based on their anthropometry. METHODOLOGY: In
+ this study, eight anthropometric measurements of 120 Bangladeshi truck
+ drivers and seven seat dimensions of ninety trucks of three brands namely,
+ TATA, ASHOK LEYLAND, and ISUZU were considered for investigating the
+ considerable mismatch between seat dimensions and drivers' anthropometry. The
+ data were analyzed using two-sample t-tests to identify the relationship
+ between existing seat dimensions and drivers' anthropometry. RESULTS: The
+ results showed a mismatch in seat dimensions and anthropometric measurements
+ for nearly all truck brands and the existing seat dimensions were found to be
+ inappropriate for Bangladeshi drivers. For all the truck brands, the
+ percentage mismatch of seat height, seat depth, seat width, backrest height,
+ and steering wheel clearance varied between 71% and 98%, 23% and 79%, 33% and
+ 84%, 28% and 65%, and 53% and 100% respectively. Subsequently, an attempt was
+ made to provide ergonomically correct seat dimensions for Bangladeshi truck
+ drivers. Further, generalized equations to design the appropriate seat
+ dimensions were developed using the least square regression technique. The
+ recommended seat height, depth and width, backrest height, and steering wheel
+ clearance were found to be appropriate for 82%, 79%, 76%, 98%, and 100% of
+ drivers respectively. CONCLUSION: The analysis and results of this study can
+ be useful in developing guidelines for design and manufacture of truck driver
+ seats in Bangladesh.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Anthropometry",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Bangladesh"
+      },
+      {
+        term "Equipment Design",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Ergonomics"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Motor Vehicles"
+      },
+      {
+        term "Musculoskeletal Diseases",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Occupational Diseases",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      }
+    },
+    pmid 29151447,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,332 @@
+
+Pubmed-entry ::= {
+  pmid 29386629,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Molecular interaction of 1-aminocyclopropane-1-carboxylate
+ deaminase (ACCD)-producing endophytic Streptomyces sp. GMKU 336 towards
+ salt-stress resistance of Oryza sativa L. cv. KDML105."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jaemsaeng R",
+            affil str "Department of Genetics, Faculty of Science, Kasetsart
+ University, Bangkok, 10900, Thailand.; Center for Advanced Studies in
+ Tropical Natural Resources, National Research University-Kasetsart University
+ (CASTNAR, NRU-KU), Bangkok, 10900, Thailand."
+          },
+          {
+            name ml "Jantasuriyarat C",
+            affil str "Department of Genetics, Faculty of Science, Kasetsart
+ University, Bangkok, 10900, Thailand."
+          },
+          {
+            name ml "Thamchaipenet A",
+            affil str "Department of Genetics, Faculty of Science, Kasetsart
+ University, Bangkok, 10900, Thailand. arinthip.t@ku.ac.th.; Center for
+ Advanced Studies in Tropical Natural Resources, National Research
+ University-Kasetsart University (CASTNAR, NRU-KU), Bangkok, 10900, Thailand.
+ arinthip.t@ku.ac.th."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 31
+          },
+          volume "8",
+          issue "1",
+          pages "1950",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29386629,
+        doi "10.1038/s41598-018-19799-9",
+        pii "10.1038/s41598-018-19799-9",
+        other {
+          db "pmc",
+          tag str "PMC5792428"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-19799-9"
+        }
+      }
+    },
+    abstract "1-aminocyclopropane-1-carboxylate deaminase (ACCD)-producing
+ endophytic Streptomyces sp. GMKU 336 and its ACCD-deficient mutant were
+ inoculated into Thai jasmine rice Khao Dok Mali 105 cultivar (Oryza sativa L.
+ cv. KDML105) under salt stress (150 mM NaCl) conditions. The results clearly
+ indicated that Streptomyces sp. GMKU 336 significantly increased plant
+ growth, chlorophyll, proline, K(+), Ca(+), and water contents; but decreased
+ ethylene, reactive oxygen species (ROS), Na(+), and Na(+)/K(+) ratio when
+ compared to plants not inoculated and those inoculated with the
+ ACCD-deficient mutant. Expression profiles of stress responsive genes in rice
+ in association with strain GMKU 336 were correlated to plant physiological
+ characteristics. Genes involved in the ethylene pathway, ACO1 and EREBP1,
+ were significantly down-regulated; while acdS encoding ACCD in Streptomyces
+ sp. GMKU 336 was up-regulated in vivo. Furthermore, genes involved in osmotic
+ balance (BADH1), Na(+) transporters (NHX1 and SOS1), calmodulin (Cam1-1), and
+ antioxidant enzymes (CuZn-SOD1 and CATb) were up-regulated; whereas, a gene
+ implicated in a signaling cascade, MAPK5, was down-regulated. This work
+ demonstrates the first time that ACCD-producing Streptomyces sp. GMKU 336
+ enhances growth of rice and increases salt tolerance by reduction of ethylene
+ via the action of ACCD and further assists plants to scavenge ROS, balance
+ ion content and osmotic pressure.",
+    mesh {
+      {
+        term "Carbon-Carbon Lyases",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "deficiency"
+          }
+        }
+      },
+      {
+        term "Endophytes",
+        qual {
+          {
+            mp TRUE,
+            subh "enzymology"
+          }
+        }
+      },
+      {
+        term "Ethylenes",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        term "Gene Expression Regulation, Plant",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Ions",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Models, Biological"
+      },
+      {
+        term "Mutation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oryza",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "growth & development"
+          },
+          {
+            mp TRUE,
+            subh "microbiology"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Plant Shoots",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Salt Tolerance",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sodium Chloride",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Streptomyces",
+        qual {
+          {
+            mp TRUE,
+            subh "enzymology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Stress, Physiological",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transcription, Genetic",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ethylenes"
+      },
+      {
+        type nameonly,
+        name "Ions"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "451W47IQ8X",
+        name "Sodium Chloride"
+      },
+      {
+        type cas,
+        cit "91GW059KN7",
+        name "ethylene"
+      },
+      {
+        type ec,
+        cit "3.5.99.7",
+        name "1-aminocyclopropane-1-carboxylate deaminase"
+      },
+      {
+        type ec,
+        cit "4.1.-",
+        name "Carbon-Carbon Lyases"
+      }
+    },
+    pmid 29386629,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

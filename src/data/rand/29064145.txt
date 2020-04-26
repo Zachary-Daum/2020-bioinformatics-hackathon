@@ -1,0 +1,170 @@
+
+Pubmed-entry ::= {
+  pmid 29064145,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The roles of adult siblings in the lives of people with severe
+ intellectual and developmental disabilities."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hall SA",
+            affil str "Department of Inclusive Services and Exceptional
+ Learners, Ashland University, Columbus, OH, USA."
+          },
+          {
+            name ml "Rossetti Z",
+            affil str "Special Education Program, Boston University, Boston,
+ MA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Appl Res Intellect Disabil",
+          ml-jta "J Appl Res Intellect Disabil",
+          issn "1468-3148",
+          name "Journal of applied research in intellectual disabilities :
+ JARID"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "31",
+          issue "3",
+          pages "423-434",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29064145,
+        doi "10.1111/jar.12421",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jar.12421"
+        }
+      }
+    },
+    abstract "BACKGROUND: Siblings of people with intellectual and
+ developmental disabilities (IDD) often assume key roles to support their
+ brothers and sisters. For people with more significant support needs,
+ siblings may undertake additional roles and responsibilities throughout their
+ lives. The purpose of the present study was to identify and describe the
+ roles of adult siblings who have a brother or sister with severe IDD. METHOD:
+ Seventy-nine adult siblings from 19 to 72 years of age completed an online
+ survey with open-ended questions about the roles they play in their
+ relationships with their brother or sister. RESULTS: Thematic analysis
+ resulted in identification of several roles including caregiver, friend
+ (social partner), advocate, legal representative, sibling (teacher/role
+ model), leisure planner and informal service coordinator. CONCLUSION:
+ Siblings assume key roles in the lives of people with IDD and need support
+ from family and professionals to perform these roles.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Caregivers"
+      },
+      {
+        term "Developmental Disabilities",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intellectual Disability",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Siblings"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29064145,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

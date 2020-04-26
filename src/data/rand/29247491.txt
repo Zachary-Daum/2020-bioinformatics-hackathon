@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 29247491,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The roles of TRPV1, TRPA1 and TRPM8 channels in chemical and
+ thermal sensitivity of the mouse oral mucosa."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kichko TI",
+            affil str "Institute of Physiology and Pathophysiology,
+ Friedrich-Alexander-Universitat Erlangen-Nurnberg, Universitatsstrasse 17,
+ Erlangen, 91056, Germany."
+          },
+          {
+            name ml "Neuhuber W",
+            affil str "Institute of Anatomy I, Friedrich-Alexander-Universitat
+ Erlangen-Nurnberg, Erlangen, Germany."
+          },
+          {
+            name ml "Kobal G",
+            affil str "Altria Client Services Inc., Richmond, VA, USA."
+          },
+          {
+            name ml "Reeh PW",
+            affil str "Institute of Physiology and Pathophysiology,
+ Friedrich-Alexander-Universitat Erlangen-Nurnberg, Universitatsstrasse 17,
+ Erlangen, 91056, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Neurosci.",
+          ml-jta "Eur J Neurosci",
+          issn "1460-9568",
+          name "The European journal of neuroscience"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "47",
+          issue "3",
+          pages "201-210",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29247491,
+        doi "10.1111/ejn.13799",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ejn.13799"
+        }
+      }
+    },
+    abstract "Spices in food and beverages and compounds in tobacco smoke
+ interact with sensory irritant receptors of the transient receptor potential
+ (TRP) cation channel family. TRPV1 (vanilloid type 1), TRPA1 (ankyrin 1) and
+ TRPM8 (melastatin 8) not only elicit action potential signaling through
+ trigeminal nerves, eventually evoking pungent or cooling sensations, but by
+ their calcium conductance they also stimulate the release of calcitonin
+ gene-related peptide (CGRP). This is measured as an index of neuronal
+ activation to elucidate the chemo- and thermosensory transduction in the
+ isolated mouse buccal mucosa of wild types and pertinent knockouts. We found
+ that the lipophilic capsaicin, mustard oil and menthol effectively get access
+ to the nerve endings below the multilayered squamous epithelium, while
+ cigarette smoke and its gaseous phase were weakly effective releasing CGRP.
+ The hydrophilic nicotine was ineffective unless applied unprotonated in
+ alkaline (pH9) solution, activating TRPA1 and TRPV1. Also, mustard oil
+ activated both these irritant receptors in millimolar but only TRPA1 in
+ micromolar concentrations; in combination (1 mm) with heat (45  degrees C),
+ it showed supraadditive, that is heat sensitizing, effects in TRPV1 and TRPA1
+ knockouts, suggesting action on an unknown heat-activated channel and mustard
+ oil receptor. Menthol caused little CGRP release by itself, but in subliminal
+ concentration (2 mm), it enabled a robust cold response that was absent in
+ TRPM8(-/-) but retained in TRPA1(-/-) and strongly reduced by TRPM8
+ inhibitors. In conclusion, all three relevant irritant receptors are
+ functionally expressed in the oral mucosa and play their specific roles in
+ inducing neurogenic inflammation and sensitization to heat and cold.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Calcitonin Gene-Related Peptide",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Capsaicin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mouth Mucosa",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Sensory Receptor Cells",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "TRPA1 Cation Channel",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TRPM Cation Channels",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "TRPV Cation Channels",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Transient Receptor Potential Channels",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "TRPA1 Cation Channel"
+      },
+      {
+        type nameonly,
+        name "TRPM Cation Channels"
+      },
+      {
+        type nameonly,
+        name "TRPM8 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "TRPV Cation Channels"
+      },
+      {
+        type nameonly,
+        name "TRPV1 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Transient Receptor Potential Channels"
+      },
+      {
+        type nameonly,
+        name "Trpa1 protein, mouse"
+      },
+      {
+        type cas,
+        cit "JHB2QIZ69Z",
+        name "Calcitonin Gene-Related Peptide"
+      },
+      {
+        type cas,
+        cit "S07O44R1ZM",
+        name "Capsaicin"
+      }
+    },
+    pmid 29247491,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

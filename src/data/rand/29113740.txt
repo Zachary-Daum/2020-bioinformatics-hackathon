@@ -1,0 +1,322 @@
+
+Pubmed-entry ::= {
+  pmid 29113740,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Efficacy of pritelivir and acyclovir in the treatment of herpes
+ simplex virus infections in a mouse model of herpes simplex encephalitis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Quenelle DC",
+            affil str "The University of Alabama at Birmingham, School of
+ Medicine, Birmingham, AL, USA."
+          },
+          {
+            name ml "Birkmann A",
+            affil str "AiCuris Anti-Infective Cures GmbH, Wuppertal, Germany.
+ Electronic address: alexander.birkmann@aicuris.com."
+          },
+          {
+            name ml "Goldner T",
+            affil str "AiCuris Anti-Infective Cures GmbH, Wuppertal, Germany."
+          },
+          {
+            name ml "Pfaff T",
+            affil str "AiCuris Anti-Infective Cures GmbH, Wuppertal, Germany."
+          },
+          {
+            name ml "Zimmermann H",
+            affil str "AiCuris Anti-Infective Cures GmbH, Wuppertal, Germany."
+          },
+          {
+            name ml "Bonsmann S",
+            affil str "AiCuris Anti-Infective Cures GmbH, Wuppertal, Germany."
+          },
+          {
+            name ml "Collins DJ",
+            affil str "The University of Alabama at Birmingham, School of
+ Medicine, Birmingham, AL, USA."
+          },
+          {
+            name ml "Rice TL",
+            affil str "The University of Alabama at Birmingham, School of
+ Medicine, Birmingham, AL, USA."
+          },
+          {
+            name ml "Prichard MN",
+            affil str "The University of Alabama at Birmingham, School of
+ Medicine, Birmingham, AL, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Antiviral Res.",
+          ml-jta "Antiviral Res",
+          issn "1872-9096",
+          name "Antiviral research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "149",
+          pages "1-6",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29113740,
+        pii "S0166-3542(17)30621-6",
+        doi "10.1016/j.antiviral.2017.11.002",
+        other {
+          db "pmc",
+          tag str "PMC5743594"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS919751"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0166-3542(17)30621-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.antiviral.2017.11.002"
+        }
+      }
+    },
+    abstract "Pritelivir, a helicase-primase inhibitor, has excellent in vitro
+ and in vivo activity against human herpes simplex virus (HSV). Mice lethally
+ infected with HSV type 1 or 2, including acyclovir-resistant strains, were
+ treated 72 h after infection for 7 days with pritelivir or acyclovir. Both
+ drugs were administered orally twice daily either alone or in combination.
+ Dosages of pritelivir from 0.3 to 30 mg/kg reduced mortality (P < 0.001)
+ against HSV-1, E-377. With an acyclovir resistant HSV-1, 11360, pritelivir at
+ 1 and 3 mg/kg increased survival (P < 0.005). With HSV-2, MS infected mice,
+ all dosages higher than the 0.3 mg/kg dose of pritelivir were effective (P <
+ 0.005). For acyclovir resistant HSV-2, strain 12247, pritelivir dosages of
+ 1-3 mg/kg significantly improved survival (P < 0.0001). Combination therapies
+ of pritelivir at 0.1 or 0.3 mg/kg/dose with acyclovir (10 mg/kg/dose) were
+ protective (P < 0.0001) when compared to the vehicle treated group against
+ HSV-2, strain MS (in line with previous data using HSV-1). An increased mean
+ days to death (P < 0.05) was also observed and was indicative of a potential
+ synergy. Pharmacokinetic studies were performed to determine pritelivir
+ concentrations and a dose dependent relationship was found in both plasma and
+ brain samples regardless of infection status or time of initiation of dosing.
+ In summary, pritelivir was shown to be active when treatment was delayed to
+ 72 h post viral inoculation and appeared to synergistically inhibit mortality
+ in this model in combination with acyclovir. We conclude pritelivir has
+ potent and resistance-breaking antiviral efficacy with potential for the
+ treatment of potentially life-threatening HSV type 1 and 2 infections,
+ including herpes simplex encephalitis.",
+    mesh {
+      {
+        term "Acyclovir",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacokinetics"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antiviral Agents",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacokinetics"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Drug Therapy, Combination"
+      },
+      {
+        term "Encephalitis, Herpes Simplex",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Pyridines",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacokinetics"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Thiazoles",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "pharmacokinetics"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Tissue Distribution"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antiviral Agents"
+      },
+      {
+        type nameonly,
+        name "Pyridines"
+      },
+      {
+        type nameonly,
+        name "Thiazoles"
+      },
+      {
+        type cas,
+        cit "07HQ1TJ4JE",
+        name "pritelivir"
+      },
+      {
+        type cas,
+        cit "X4HES1O11F",
+        name "Acyclovir"
+      }
+    },
+    idnum {
+      "N01AI15439/AI/NIAID NIH HHS"
+    },
+    pmid 29113740,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

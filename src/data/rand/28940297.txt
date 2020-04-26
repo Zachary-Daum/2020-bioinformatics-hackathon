@@ -1,0 +1,152 @@
+
+Pubmed-entry ::= {
+  pmid 28940297,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Periocular cutaneous oncocytoma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Menzies S",
+            affil str "Department of Dermatology, Sligo University Hospital,
+ Sligo, Ireland."
+          },
+          {
+            name ml "McKenna D",
+            affil str "Department of Dermatology, Sligo University Hospital,
+ Sligo, Ireland."
+          },
+          {
+            name ml "Hartel P",
+            affil str "Department of Histopathology, Sligo University
+ Hospital, Sligo, Ireland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin. Exp. Dermatol.",
+          ml-jta "Clin Exp Dermatol",
+          issn "1365-2230",
+          name "Clinical and experimental dermatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "43",
+          issue "1",
+          pages "97-99",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 20
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28940297,
+        doi "10.1111/ced.13236",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ced.13236"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adenoma, Oxyphilic",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        mp TRUE,
+        term "Asymptomatic Diseases"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lacrimal Apparatus",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Skin Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    pmid 28940297,
+    pub-type {
+      "Case Reports"
+    },
+    status medline
+  }
+}
+
+

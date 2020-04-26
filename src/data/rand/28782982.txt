@@ -1,0 +1,215 @@
+
+Pubmed-entry ::= {
+  pmid 28782982,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sleep continuity, architecture and quality among
+ treatment-seeking cannabis users: An in-home, unattended polysomnographic
+ study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pacek LR",
+            affil str "Department of Psychiatry and Behavioral Sciences, Duke
+ University School of Medicine."
+          },
+          {
+            name ml "Herrmann ES",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University."
+          },
+          {
+            name ml "Smith MT",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University."
+          },
+          {
+            name ml "Vandrey R",
+            affil str "Department of Psychiatry and Behavioral Sciences, Johns
+ Hopkins University."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp Clin Psychopharmacol",
+          ml-jta "Exp Clin Psychopharmacol",
+          issn "1936-2293",
+          name "Experimental and clinical psychopharmacology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8
+          },
+          volume "25",
+          issue "4",
+          pages "295-302",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 9,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28782982,
+        pii "2017-33271-001",
+        doi "10.1037/pha0000126",
+        other {
+          db "pmc",
+          tag str "PMC6309181"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS996341"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1037/pha0000126"
+        }
+      }
+    },
+    abstract "The objective of the study was to describe self-report and
+ objectively measured sleep characteristics of adult treatment-seeking
+ cannabis users. Study participants (n = 87) were adults who were screened for
+ a 12-week outpatient cannabis treatment research program in Baltimore, MD.
+ Participants completed objective and self-report measures of sleep quality.
+ Data were analyzed for the sample overall and after stratifying by sex (54
+ men, 33 women). Participants were primarily urban, socioeconomically
+ disadvantaged African Americans. Participants were frequent, heavy cannabis
+ users; among a subset of participants assessed, 76.7% used cannabis on the
+ day/night of the assessment. Participants had low rates of other substance
+ abuse and of psychiatric comorbidities. Polysomnography indicated 19.5% of
+ participants received the recommended 7 to 9 hr of sleep, with women
+ averaging more sleep than men. One third (31.0%) had sleep latencies >30 min,
+ one half spent >30 min awake after sleep onset, and more than one half of the
+ sample (55.2%) had sleep efficiency scores of <85%. Most participants met
+ criteria for subthreshold (36.8%) or clinical insomnia (25.3%) on the
+ Insomnia Severity Index, 77.0% had scores of >5 on the Pittsburgh Sleep
+ Quality Index. Most had average scores on the Dysfunctional Beliefs and
+ Attitudes About Sleep (DBAS) questionnaire (M = 51.1, SD = 18.8) that were
+ higher than average among clinical insomnia patients. Women had higher DBAS
+ scores than men. Most participants exhibited characteristics of disordered
+ sleep, and sex differences were observed on polysomnography and self-report
+ measures. Findings extend prior research concerning the association between
+ cannabis use and disordered sleep. Data presented in this article come from
+ Clinical Trial NCT01685073. (PsycINFO Database Record",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Ambulatory Care"
+      },
+      {
+        term "Baltimore"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Marijuana Abuse",
+        qual {
+          {
+            mp TRUE,
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Outpatients"
+      },
+      {
+        term "Polysomnography"
+      },
+      {
+        term "Self Report"
+      },
+      {
+        term "Sex Factors"
+      },
+      {
+        term "Sleep",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Sleep Initiation and Maintenance Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    xref {
+    },
+    idnum {
+      "U01 DA031784/DA/NIDA NIH HHS",
+      "T32 DA007209/DA/NIDA NIH HHS"
+    },
+    pmid 28782982,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

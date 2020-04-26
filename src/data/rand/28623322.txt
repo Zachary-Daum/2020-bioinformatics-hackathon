@@ -1,0 +1,169 @@
+
+Pubmed-entry ::= {
+  pmid 28623322,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Design of Non-Deterministic Quasi-random Nanophotonic Structures
+ Using Fourier Space Representations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu S",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA."
+          },
+          {
+            name ml "Wang C",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA."
+          },
+          {
+            name ml "Dong B",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA."
+          },
+          {
+            name ml "Jiang Z",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA."
+          },
+          {
+            name ml "Chen W",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA. weichen@northwestern.edu."
+          },
+          {
+            name ml "Sun C",
+            affil str "Department of Mechanical Engineering, Northwestern
+ University, Evanston, IL, 60208, USA. c-sun@northwestern.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6,
+            day 16
+          },
+          volume "7",
+          issue "1",
+          pages "3752",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 4,
+                day 4
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 18,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28623322,
+        doi "10.1038/s41598-017-04013-z",
+        pii "10.1038/s41598-017-04013-z",
+        other {
+          db "pmc",
+          tag str "PMC5473826"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-017-04013-z"
+        }
+      }
+    },
+    abstract "Despite their seemingly random appearances in the real space,
+ quasi-random nanophotonic structures exhibit distinct structural correlations
+ and have been widely utilized for effective photon management. However,
+ current design approaches mainly rely on the deterministic representations
+ consisting two-dimensional (2D) discretized patterns in the real space. They
+ fail to capture the inherent non-deterministic characteristic of the
+ quasi-random structures and inevitably result in a large design
+ dimensionality. Here, we report a new design approach that employs the
+ one-dimensional (1D) spectral density function (SDF) as the unique
+ representation of non-deterministic quasi-random structures in the Fourier
+ space with greatly reduced design dimensionality. One 1D SDF representation
+ can be used to generate infinite sets of real space structures in 2D with
+ equally optimized performance, which was further validated experimentally
+ using light-trapping structures in a thin film absorber as a model system.
+ The optimized non-deterministic quasi-random nanostructures improve the
+ broadband absorption by 225% over the unpatterned cell.",
+    pmid 28623322,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status premedline
+  }
+}
+
+

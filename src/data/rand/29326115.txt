@@ -1,0 +1,183 @@
+
+Pubmed-entry ::= {
+  pmid 29326115,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Understanding variation in metabolic rate."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pettersen AK",
+            affil str "School of Biological Sciences/Centre for Geometric
+ Biology, Monash University, Melbourne, VIC 3800, Australia
+ amanda.pettersen@monash.edu."
+          },
+          {
+            name ml "Marshall DJ",
+            affil str "School of Biological Sciences/Centre for Geometric
+ Biology, Monash University, Melbourne, VIC 3800, Australia."
+          },
+          {
+            name ml "White CR",
+            affil str "School of Biological Sciences/Centre for Geometric
+ Biology, Monash University, Melbourne, VIC 3800, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Exp. Biol.",
+          ml-jta "J Exp Biol",
+          issn "1477-9145",
+          name "The Journal of experimental biology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 11
+          },
+          volume "221",
+          issue "Pt 1",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29326115,
+        pii "221/1/jeb166876",
+        doi "10.1242/jeb.166876",
+        other {
+          db "ELocationID pii",
+          tag str "jeb166876"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1242/jeb.166876"
+        }
+      }
+    },
+    abstract "Metabolic rate reflects an organism's capacity for growth,
+ maintenance and reproduction, and is likely to be a target of selection.
+ Physiologists have long sought to understand the causes and consequences of
+ within-individual to among-species variation in metabolic rates - how
+ metabolic rates relate to performance and how they should evolve.
+ Traditionally, this has been viewed from a mechanistic perspective, relying
+ primarily on hypothesis-driven approaches. A more agnostic, but ultimately
+ more powerful tool for understanding the dynamics of phenotypic variation is
+ through use of the breeder's equation, because variation in metabolic rate is
+ likely to be a consequence of underlying microevolutionary processes. Here we
+ show that metabolic rates are often significantly heritable, and are
+ therefore free to evolve under selection. We note, however, that 'metabolic
+ rate' is not a single trait: in addition to the obvious differences between
+ metabolic levels (e.g. basal, resting, free-living, maximal), metabolic rate
+ changes through ontogeny and in response to a range of extrinsic factors, and
+ is therefore subject to multivariate constraint and selection. We emphasize
+ three key advantages of studying metabolic rate within a quantitative
+ genetics framework: its formalism, and its predictive and comparative power.
+ We make several recommendations when applying a quantitative genetics
+ framework: (i) measuring selection based on actual fitness, rather than
+ proxies for fitness; (ii) considering the genetic covariances between
+ metabolic rates throughout ontogeny; and (iii) estimating genetic covariances
+ between metabolic rates and other traits. A quantitative genetics framework
+ provides the means for quantifying the evolutionary potential of metabolic
+ rate and why variance in metabolic rates within populations might be
+ maintained.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Basal Metabolism",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Biological Evolution"
+      },
+      {
+        term "Invertebrates",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Models, Genetic"
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        mp TRUE,
+        term "Selection, Genetic"
+      },
+      {
+        term "Vertebrates",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    pmid 29326115,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

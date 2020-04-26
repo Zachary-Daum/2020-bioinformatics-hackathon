@@ -1,0 +1,296 @@
+
+Pubmed-entry ::= {
+  pmid 29074292,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Subarachnoid hemorrhage induces neuronal nitric oxide synthase
+ phosphorylation at Ser(1412) in the dentate gyrus of the rat brain."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wada K",
+            affil str "Department of Neurosurgery, Nagoya University Graduate
+ School of Medicine, 65 Tsurumai Nagoya, Aichi, 466-8560, Japan."
+          },
+          {
+            name ml "Osuka K",
+            affil str "Department of Neurological Surgery, Aichi Medical
+ University, 1-1 Karimata Yazako, Nagakute, Aichi, 480-1195, Japan. Electronic
+ address: kosuka@aichi-med-u.ac.jp."
+          },
+          {
+            name ml "Watanabe Y",
+            affil str "High Technology Research Center, Pharmacology, Showa
+ Pharmaceutical University, 3-3165, Higashi-tamagawa Gakuen, Machida, Tokyo,
+ 194-8543, Japan."
+          },
+          {
+            name ml "Usuda N",
+            affil str "Department of Anatomy II, Fujita Health University
+ School of Medicine, 1-98 Dengakugakubo, Kutsukake, Toyoake, Aichi, 470-1192,
+ Japan."
+          },
+          {
+            name ml "Fukasawa M",
+            affil str "Department of Anatomy II, Fujita Health University
+ School of Medicine, 1-98 Dengakugakubo, Kutsukake, Toyoake, Aichi, 470-1192,
+ Japan."
+          },
+          {
+            name ml "Araki Y",
+            affil str "Department of Neurosurgery, Nagoya University Graduate
+ School of Medicine, 65 Tsurumai Nagoya, Aichi, 466-8560, Japan."
+          },
+          {
+            name ml "Okamoto S",
+            affil str "Department of Neurosurgery, Nagoya University Graduate
+ School of Medicine, 65 Tsurumai Nagoya, Aichi, 466-8560, Japan."
+          },
+          {
+            name ml "Wakabayashi T",
+            affil str "Department of Neurosurgery, Nagoya University Graduate
+ School of Medicine, 65 Tsurumai Nagoya, Aichi, 466-8560, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nitric Oxide",
+          ml-jta "Nitric Oxide",
+          issn "1089-8611",
+          name "Nitric oxide : biology and chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12,
+            day 1
+          },
+          volume "81",
+          pages "67-74",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29074292,
+        pii "S1089-8603(17)30163-5",
+        doi "10.1016/j.niox.2017.10.007",
+        other {
+          db "ELocationID pii",
+          tag str "S1089-8603(17)30163-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.niox.2017.10.007"
+        }
+      }
+    },
+    abstract "INTRODUCTION: We previously demonstrated that cyclic
+ AMP-dependent protein kinase (PKA) phosphorylates neuronal nitric oxide
+ synthase (nNOS) at Ser(1412) in the hippocampal dentate gyrus after forebrain
+ ischemia; this phosphorylation event activates NOS activity and might
+ contribute to depression after cerebral ischemia. In this study, we revealed
+ chronological and topographical changes in the phosphorylation of nNOS at
+ Ser(1412) immediately after subarachnoid hemorrhage (SAH). METHODS: In a rat
+ single-hemorrhage model of SAH, the hippocampus and adjacent cortex were
+ collected up to 24 h after SAH. Samples from rats that were not injected with
+ autologous blood were used as controls. NOS was partially purified from crude
+ samples via an ADP-agarose gel. Levels of nNOS, nNOS phosphorylated at
+ Ser(1412) (p-nNOS), PKA, and p-PKA at Thr(197) were studied in the rat
+ hippocampus and cortex using Western blot analyses and immunohistochemistry.
+ RESULTS: According to the Western blot analysis, levels of p-nNOS at
+ Ser(1412) were significantly increased in the hippocampus, but not in the
+ cortex, between 1 and 3 h after SAH. Immunohistochemistry revealed the
+ phosphorylation of nNOS at Ser(1412) and PKA at Thr(197) in the dentate
+ gyrus, but not in the CA1 area, 1 h after SAH. An injection of saline instead
+ of blood also significantly increased levels of p-nNOS at Ser(1412) in the
+ hippocampus 1 h after the injection. CONCLUSIONS: An immediate increase in
+ intracranial pressure (ICP) might induce transient cerebral ischemia and
+ promote the PKA-mediated phosphorylation of nNOS at Ser(1412) in the dentate
+ gyrus. This signal transduction pathway induces the excessive production of
+ nitric oxide (NO) and might be involved in cognitive dysfunction after SAH.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cyclic AMP-Dependent Protein Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Dentate Gyrus",
+        qual {
+          {
+            mp TRUE,
+            subh "enzymology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            subh "enzymology"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide Synthase Type I",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Serine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Subarachnoid Hemorrhage",
+        qual {
+          {
+            mp TRUE,
+            subh "enzymology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Threonine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "2ZD004190S",
+        name "Threonine"
+      },
+      {
+        type cas,
+        cit "452VLY9402",
+        name "Serine"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nitric Oxide Synthase Type I"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nos1 protein, rat"
+      },
+      {
+        type ec,
+        cit "2.7.11.11",
+        name "Cyclic AMP-Dependent Protein Kinases"
+      }
+    },
+    pmid 29074292,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

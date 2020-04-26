@@ -1,0 +1,155 @@
+
+Pubmed-entry ::= {
+  pmid 28616184,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reindeer habitat use in relation to two small wind farms, during
+ preconstruction, construction, and operation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Skarin A",
+            affil str "Department of Animal Nutrition and Management Swedish
+ University of Agricultural Sciences Uppsala Sweden."
+          },
+          {
+            name ml "Alam M",
+            affil str "Section of Statistics School of Technology and Business
+ Studies Dalarna University Falun Sweden."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ecol Evol",
+          ml-jta "Ecol Evol",
+          issn "2045-7758",
+          name "Ecology and evolution"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 4,
+            day 21
+          },
+          volume "7",
+          issue "11",
+          pages "3870-3882",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 2,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 3,
+                day 5
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 16,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28616184,
+        doi "10.1002/ece3.2941",
+        pii "ECE32941",
+        other {
+          db "pmc",
+          tag str "PMC5468140"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ece3.2941"
+        }
+      }
+    },
+    abstract "Worldwide there is a rush toward wind power development and its
+ associated infrastructure. In Fennoscandia, large-scale wind farms comprising
+ several hundred windmills are currently built in important grazing ranges
+ used for Sami reindeer husbandry. In this study, reindeer habitat use was
+ assessed using reindeer fecal pellet group counts in relation to two
+ relatively small wind farms, with 8 and 10 turbines, respectively. In 2009,
+ 1,315 15-m(2) plots were established and pellet groups were counted and
+ cleaned from the plots. This was repeated once a year in May, during
+ preconstruction, construction, and operation of the wind farms, covering 6
+ years (2009-2014) of reindeer habitat use in the area. We modeled the
+ presence/absence of any pellets in a plot at both the local (wind farm site)
+ and regional (reindeer calving to autumn range) scale with a hierarchical
+ logistic regression, where spatial correlation was accounted for via random
+ effects, using vegetation type, and the interaction between distance to wind
+ turbine and time period as predictor variables. Our results revealed an
+ absolute reduction in pellet groups by 66% and 86% around each wind farm,
+ respectively, at local scale and by 61% at regional scale during the
+ operation phase compared to the preconstruction phase. At the regional, scale
+ habitat use declined close to the turbines in the same comparison. However,
+ at the local scale, we observed increased habitat use close to the wind
+ turbines at one of the wind farms during the operation phase. This may be
+ explained by continued use of an important migration route close to the wind
+ farm. The reduced use at the regional scale nevertheless suggests that there
+ may be an overall avoidance of both wind farms during operation, but further
+ studies of reindeer movement and behavior are needed to gain a better
+ understanding of the mechanisms behind this suggested avoidance.",
+    pmid 28616184,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

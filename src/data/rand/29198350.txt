@@ -1,0 +1,162 @@
+
+Pubmed-entry ::= {
+  pmid 29198350,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Editorial Commentary: Healthy Skepticism: An Invaluable Trait."
+      },
+      authors {
+        names std {
+          {
+            name ml "Angelo RL",
+            affil str "Woodinville, Washington."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arthroscopy",
+          ml-jta "Arthroscopy",
+          issn "1526-3231",
+          name "Arthroscopy : the journal of arthroscopic & related surgery :
+ official publication of the Arthroscopy Association of North America and the
+ International Arthroscopy Association"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "33",
+          issue "12",
+          pages "2125-2127",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 31
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 2
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29198350,
+        pii "S0749-8063(17)31156-8",
+        doi "10.1016/j.arthro.2017.09.006",
+        other {
+          db "ELocationID pii",
+          tag str "S0749-8063(17)31156-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.arthro.2017.09.006"
+        }
+      }
+    },
+    abstract "Using a switching stick from the posterior portal is a
+ frequently employed method of identifying the location for the subscapularis
+ split for a shoulder arthroscopic Latarjet. However, in a recent cadaveric
+ study, in none of the 20 specimens studied did this technique result in the
+ split being placed in the preferred position-the junction of the superior
+ two-thirds and the inferior one-third of the subscapularis. As a result, if
+ the position of the coracoid graft is too superior, the anteroinferior
+ extension of the glenoid arc and the vector of the conjoined sling may be
+ suboptimal and fail to restrain humeral head translation. There is thus a
+ need for a more reliable method for establishing the subscapularis split in
+ patients with shoulder instability and significant glenoid bone loss.
+ Moreover, in comparison to the open Latarjet surgical technique, an
+ arthroscopic Latarjet procedure is notably more complex, technically
+ challenging, and involves a demanding learning curve. For any procedure, the
+ morbidity curve is inversely related to the learning curve-the lower one is
+ on the learning curve, the greater the expected complications. The area
+ beneath the morbidity curve is related to increased costs to manage
+ complications and suboptimal outcomes. Study, practice, acquisition, and
+ refinement of the necessary skills needed to perform a complex procedure
+ should be done primarily in the cadaver lab. It is imperative that each of us
+ critically evaluate our own experience and clinical practice to determine if
+ we have or expect to generate the critical volume necessary to successfully
+ master the arthroscopic Latarjet techniques and to retain the expertise
+ needed for optimal patient outcomes.",
+    mesh {
+      {
+        term "Arthroscopy"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Joint Instability"
+      },
+      {
+        term "Rotator Cuff"
+      },
+      {
+        term "Scapula"
+      },
+      {
+        mp TRUE,
+        term "Shoulder Joint"
+      }
+    },
+    pmid 29198350,
+    pub-type {
+      "Editorial",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

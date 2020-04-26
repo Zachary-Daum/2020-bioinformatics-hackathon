@@ -1,0 +1,174 @@
+
+Pubmed-entry ::= {
+  pmid 28792689,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Predictive Value of Neurodevelopmental Outcome and Serum Tau
+ Protein Level in Neonates with Hypoxic Ischemic Encephalopathy."
+      },
+      authors {
+        names ml {
+          "Lv HY",
+          "Wu SJ",
+          "Gu XL",
+          "Wang QL",
+          "Ren PS",
+          "Ma Y",
+          "Peng LY",
+          "Jin LH",
+          "Li LX"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin. Lab.",
+          ml-jta "Clin Lab",
+          issn "1433-6510",
+          name "Clinical laboratory"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7,
+            day 1
+          },
+          volume "63",
+          issue "7",
+          pages "1153-1162",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28792689,
+        doi "10.7754/Clin.Lab.2017.170103",
+        other {
+          db "ELocationID doi",
+          tag str "10.7754/Clin.Lab.2017.170103"
+        }
+      }
+    },
+    abstract "BACKGROUND: Tau protein is s specific protein expressed by
+ neurons in the central nervous system. Elevated serum Tau protein is
+ associated with many diseases of the central nervous system. The serum Tau
+ protein level in neonates with hypoxic ischemic encephalopathy (HIE) is still
+ poorly understood. METHODS: Forty-one human neonates with HIE and thirty-five
+ healthy neonates (control group) within 24 hours after birth were studied.
+ Tau protein in serum was detected by enzyme-linked immunosorbent assay.
+ Neurological outcome was assessed at 9 months of age according to the Gesell
+ developmental scale. RESULTS: Tau protein in serum was significantly higher
+ in the HIE group than in the control group (p < 0.01), in neonates with
+ severe HIE than neonates with moderate HIE (p < 0.01), and in infants with
+ neurodevelopmental retardation compared with those with normal
+ neurodevelopment (p < 0.01). The result of this study showed an obvious
+ negative correlation between the serum Tau protein level and development
+ quotients of neonates with HIE (rs = -0.6172, p < 0.01). Receiver operator
+ characteristic curve analysis showed that Tau protein (cutoff value 933.04
+ pg/mL) was a predictor of neurodevelopmental retardation outcome (AUC value =
+ 0.860 (95% CI: 0.736 - 0.983, p < 0.01), sensitivity 100%, specificity
+ 70.8%). CONCLUSIONS: Serum Tau protein level within 24 hours after birth can
+ be used as a marker for the early diagnosis of neonatal HIE and predicting
+ neurodevelopmental outcomes.",
+    mesh {
+      {
+        term "Biomarkers",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Blood Proteins"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypoxia-Ischemia, Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Sensitivity and Specificity"
+      },
+      {
+        term "tau Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers"
+      },
+      {
+        type nameonly,
+        name "Blood Proteins"
+      },
+      {
+        type nameonly,
+        name "tau Proteins"
+      }
+    },
+    pmid 28792689,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

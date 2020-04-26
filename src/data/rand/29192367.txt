@@ -1,0 +1,303 @@
+
+Pubmed-entry ::= {
+  pmid 29192367,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Intermedin1-53 Protects Cardiac Fibroblasts by Inhibiting NLRP3
+ Inflammasome Activation During Sepsis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wu D",
+            affil str "The Peking University Aerospace School of Clinical
+ Medicine, Peking University Health Science Center, Beijing, 100191, China."
+          },
+          {
+            name ml "Shi L",
+            affil str "The Peking University People's Hospital, Beijing,
+ 100191, China."
+          },
+          {
+            name ml "Li P",
+            affil str "Texas Heart Institute, Houston, TX, 77030, USA."
+          },
+          {
+            name ml "Ni X",
+            affil str "Key Laboratory of Molecular Cardiovascular Science,
+ Ministry of Education, Peking University Health Science Center, Beijing,
+ 100191, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Key Laboratory of Molecular Cardiovascular Science,
+ Ministry of Education, Peking University Health Science Center, Beijing,
+ 100191, China."
+          },
+          {
+            name ml "Zhu Q",
+            affil str "Key Laboratory of Molecular Cardiovascular Science,
+ Ministry of Education, Peking University Health Science Center, Beijing,
+ 100191, China."
+          },
+          {
+            name ml "Qi Y",
+            affil str "Key Laboratory of Molecular Cardiovascular Science,
+ Ministry of Education, Peking University Health Science Center, Beijing,
+ 100191, China. yongfenqi@163.com."
+          },
+          {
+            name ml "Wang B",
+            affil str "The Peking University Aerospace School of Clinical
+ Medicine, Peking University Health Science Center, Beijing, 100191, China.
+ wangbin_pku@126.com.; The First Affiliated Hospital of Shantou University
+ Medical College, Guangdong, 515041, China. wangbin_pku@126.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Inflammation",
+          ml-jta "Inflammation",
+          issn "1573-2576",
+          name "Inflammation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "41",
+          issue "2",
+          pages "505-514",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29192367,
+        doi "10.1007/s10753-017-0706-2",
+        pii "10.1007/s10753-017-0706-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10753-017-0706-2"
+        }
+      }
+    },
+    abstract "Sepsis is a disease that occurs as a result of systemic
+ inflammatory response syndrome (SIRS) in response to an infection,
+ contributing to multiple organ dysfunction and a high mortality rate.
+ Interleukin-lbeta (IL-1beta) is a cytokine that plays critical roles in
+ inflammation and cardiac dysfunction during severe sepsis. Intermedin1-53
+ (IMD1-53) has been recently discovered to possess potential endogenous
+ anti-inflammatory and strong cardiovascular protective effects. To
+ investigate whether IMD1-53 can inhibit the NLRP3/caspase-1/IL-1beta pathway
+ to alleviate cardiac injury and rescue heart function, sepsis was induced in
+ vivo by caecal ligation and puncture (CLP) surgery, and lipopolysaccharides
+ were used as septic stressors for cardiac fibroblasts (CFs) in vitro. The
+ expressions of IMD1-53 receptors in sepsis rat heart were increased. After
+ IMD1-53 treatment, inflammation caused by sepsis in vivo was greatly reduced,
+ as shown by the downregulation of apoptosis-associated speck-like protein
+ containing a caspase recruitment domain (ASC), nucleotide-binding domain and
+ leucine-rich repeat containing family, pyrin containing 3 (NLRP3),
+ pro-IL-1beta, caspase 1, and nuclear translocation of nuclear factor-kappaB
+ (NF-kB) protein levels. In addition, cardiac function was significantly
+ improved and mean arterial blood pressure (MABP) increased by 34.8% (P <
+ 0.05) which almost back to normal. Surprisingly, IMD1-53 inhibited cell
+ apoptosis, as caspase 3 activity and Bax expression was significantly reduced
+ in the heart upon IMD1-53 treatment. IMD1-53 abolished the upregulation of
+ ASC, NLRP3, and caspase 1 protein levels in CFs induced by lipopolysaccharide
+ (LPS). IMD1-53 increased cell survival rates and inhibited IL-1beta
+ production in the cell culture medium. IMD1-53 can protect against
+ inflammation and heart injury during sepsis via attenuating the
+ NLRP3/caspase-1/IL-1beta pathway.",
+    mesh {
+      {
+        term "Adrenomedullin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Caspase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Fibroblasts"
+      },
+      {
+        term "Inflammasomes",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Myocardium",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "NLR Family, Pyrin Domain-Containing 3 Protein",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Neuropeptides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Sepsis",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adm2 protein, rat"
+      },
+      {
+        type nameonly,
+        name "Inflammasomes"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "NLR Family, Pyrin Domain-Containing 3 Protein"
+      },
+      {
+        type nameonly,
+        name "Neuropeptides"
+      },
+      {
+        type nameonly,
+        name "Nlrp3 protein, rat"
+      },
+      {
+        type cas,
+        cit "148498-78-6",
+        name "Adrenomedullin"
+      },
+      {
+        type ec,
+        cit "3.4.22.36",
+        name "Caspase 1"
+      }
+    },
+    idnum {
+      "YN201316/the Research Foundation of the Aerospace Central Hospital",
+      "81670434/the National Natural Sciences Foundation of China"
+    },
+    pmid 29192367,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,230 @@
+
+Pubmed-entry ::= {
+  pmid 28004281,
+  medent {
+    em std {
+      year 2016,
+      month 12,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Molecular and karyological data confirm that the enigmatic genus
+ Platypholis from Bonin-Islands (SE Japan) is phylogenetically nested within
+ Orobanche (Orobanchaceae)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X",
+            affil str "Department of Botany and Biodiversity Research,
+ University of Vienna, Rennweg 14, 1030, Vienna, Austria."
+          },
+          {
+            name ml "Jang TS",
+            affil str "Department of Botany and Biodiversity Research,
+ University of Vienna, Rennweg 14, 1030, Vienna, Austria."
+          },
+          {
+            name ml "Temsch EM",
+            affil str "Department of Botany and Biodiversity Research,
+ University of Vienna, Rennweg 14, 1030, Vienna, Austria."
+          },
+          {
+            name ml "Kato H",
+            affil str "Makino Herbarium, Tokyo Metropolitan University, 1-1
+ Minami-Ohsawa, Hachioji-shi, Tokyo, 192-0397, Japan."
+          },
+          {
+            name ml "Takayama K",
+            affil str "Museum of Natural and Environmental History, Shizuoka,
+ 5762 Oya, Suruga-ku, Shizuoka-shi, Shizuoka, 422-8017, Japan."
+          },
+          {
+            name ml "Schneeweiss GM",
+            affil str "Department of Botany and Biodiversity Research,
+ University of Vienna, Rennweg 14, 1030, Vienna, Austria.
+ gerald.schneeweiss@univie.ac.at."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Plant Res.",
+          ml-jta "J Plant Res",
+          issn "1618-0860",
+          name "Journal of plant research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 3
+          },
+          volume "130",
+          issue "2",
+          pages "273-280",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 2,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 10,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 6,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 12,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28004281,
+        doi "10.1007/s10265-016-0888-y",
+        pii "10.1007/s10265-016-0888-y",
+        other {
+          db "pmc",
+          tag str "PMC5318490"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10265-016-0888-y"
+        }
+      }
+    },
+    abstract "Molecular phylogenetic studies have greatly improved our
+ understanding of phylogenetic relationships of non-photosynthetic parasitic
+ broomrapes (Orobanche and related genera, Orobanchaceae), but a few genera
+ have remained unstudied. One of those is Platypholis, whose sole species,
+ Platypholis boninsimae, is restricted to the Bonin-Islands (Ogasawara
+ Islands) about 1000 km southeast of Japan. Based on overall morphological
+ similarity, Platypholis has been merged with Orobanche, but this hypothesis
+ has never been tested with molecular data. Employing maximum likelihood and
+ Bayesian analyses on a family-wide data set (two plastid markers, matK and
+ rps2, and three nuclear markers, ITS, phyA and phyB) as well as on an ITS
+ data set focusing on Orobanche s. str., it is shown that P. boninsimae Maxim.
+ is phylogenetically closely linked to or even nested within Orobanche s. str.
+ This position is supported both by morphological evidence and by the newly
+ obtained chromosome number of 2n = 38, which is characteristic for the genus
+ Orobanche s. str.",
+    mesh {
+      {
+        term "Cell Nucleus",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chloroplast Proteins",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Chromosomes, Plant"
+      },
+      {
+        term "DNA, Ribosomal Spacer",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Genome, Plant"
+      },
+      {
+        term "Orobanchaceae",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phylogeny"
+      },
+      {
+        term "Plant Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sequence Analysis, DNA"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Chloroplast Proteins"
+      },
+      {
+        type nameonly,
+        name "DNA, Ribosomal Spacer"
+      },
+      {
+        type nameonly,
+        name "Plant Proteins"
+      }
+    },
+    pmid 28004281,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,120 @@
+
+Pubmed-entry ::= {
+  pmid 29068893,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reply: Subfascial Primary Breast Augmentation with Fat Grafting:
+ A Review of 156 Cases."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kerfant N",
+            affil str "Service de chirurgie plastique, reconstructrice et
+ esthetique, CHRU de Brest, Brest, France Clinique Spontini, Paris, France."
+          },
+          {
+            name ml "Henry AS"
+          },
+          {
+            name ml "Hu W"
+          },
+          {
+            name ml "Marchac A"
+          },
+          {
+            name ml "Auclair E"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Plast. Reconstr. Surg.",
+          ml-jta "Plast Reconstr Surg",
+          issn "1529-4242",
+          name "Plastic and reconstructive surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "141",
+          issue "2",
+          pages "317e",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29068893,
+        doi "10.1097/PRS.0000000000004054",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/PRS.0000000000004054"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adipose Tissue"
+      },
+      {
+        mp TRUE,
+        term "Breast Implantation"
+      },
+      {
+        mp TRUE,
+        term "Mammaplasty"
+      }
+    },
+    pmid 29068893,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

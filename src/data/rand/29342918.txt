@@ -1,0 +1,266 @@
+
+Pubmed-entry ::= {
+  pmid 29342918,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Abnormal Sphingolipid World in Inflammation Specific for
+ Lysosomal Storage Diseases and Skin Disorders."
+      },
+      authors {
+        names std {
+          {
+            name ml "Moskot M",
+            affil str "Institute of Biochemistry and Biophysics, Polish
+ Academy of Sciences, Laboratory of Molecular Biology, Kadki 24, 80-822
+ Gdansk, Poland. marta.moskot@biol.ug.edu.pl.; Department of Medical Biology
+ and Genetics, University of Gdansk, Wita Stwosza 59, 80-308 Gdansk, Poland.
+ marta.moskot@biol.ug.edu.pl."
+          },
+          {
+            name ml "Bochenska K",
+            affil str "Department of Medical Biology and Genetics, University
+ of Gdansk, Wita Stwosza 59, 80-308 Gdansk, Poland.
+ katarzyna.bochenska@phdstud.ug.edu.pl."
+          },
+          {
+            name ml "Jakobkiewicz-Banecka J",
+            affil str "Department of Medical Biology and Genetics, University
+ of Gdansk, Wita Stwosza 59, 80-308 Gdansk, Poland.
+ joanna.jakobkiewicz-banecka@biol.ug.edu.pl."
+          },
+          {
+            name ml "Banecki B",
+            affil str "Department of Molecular and Cellular Biology,
+ Intercollegiate Faculty of Biotechnology UG-MUG, Abrahama 58, 80-307 Gdansk,
+ Poland. banecki@biotech.ug.edu.pl."
+          },
+          {
+            name ml "Gabig-Ciminska M",
+            affil str "Institute of Biochemistry and Biophysics, Polish
+ Academy of Sciences, Laboratory of Molecular Biology, Kadki 24, 80-822
+ Gdansk, Poland. m.gabig@biol.ug.edu.pl.; Department of Medical Biology and
+ Genetics, University of Gdansk, Wita Stwosza 59, 80-308 Gdansk, Poland.
+ m.gabig@biol.ug.edu.pl."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Mol Sci",
+          ml-jta "Int J Mol Sci",
+          issn "1422-0067",
+          name "International journal of molecular sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 15
+          },
+          volume "19",
+          issue "1",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 11
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29342918,
+        pii "ijms19010247",
+        doi "10.3390/ijms19010247",
+        other {
+          db "pmc",
+          tag str "PMC5796195"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E247"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijms19010247"
+        }
+      }
+    },
+    abstract "Research in recent years has shown that sphingolipids are
+ essential signalling molecules for the proper biological and structural
+ functioning of cells. Long-term studies on the metabolism of sphingolipids
+ have provided evidence for their role in the pathogenesis of a number of
+ diseases. As many inflammatory diseases, such as lysosomal storage disorders
+ and some dermatologic diseases, including psoriasis, atopic dermatitis and
+ ichthyoses, are associated with the altered composition and metabolism of
+ sphingolipids, more studies precisely determining the responsibilities of
+ these compounds for disease states are required to develop novel
+ pharmacological treatment opportunities. It is worth emphasizing that
+ knowledge from the study of inflammatory metabolic diseases and especially
+ the possibility of their treatment may lead to insight into related metabolic
+ pathways, including those involved in the formation of the epidermal barrier
+ and providing new approaches towards workable therapies.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Disease Susceptibility"
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Lipid Metabolism",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Lysosomal Storage Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Metabolic Syndrome",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Skin Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Sphingolipids",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "Sphingolipids"
+      }
+    },
+    pmid 29342918,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,426 @@
+
+Pubmed-entry ::= {
+  pmid 27785828,
+  medent {
+    em std {
+      year 2016,
+      month 10,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Rapid sodium signaling couples glutamate uptake to breakdown of
+ ATP in perivascular astrocyte endfeet."
+      },
+      authors {
+        names std {
+          {
+            name ml "Langer J",
+            affil str "Faculty of Mathematics and Natural Sciences, Institute
+ of Neurobiology, Heinrich Heine University Duesseldorf, Universitatsstrasse
+ 1, Duesseldorf, D-40225, Germany."
+          },
+          {
+            name ml "Gerkau NJ",
+            affil str "Faculty of Mathematics and Natural Sciences, Institute
+ of Neurobiology, Heinrich Heine University Duesseldorf, Universitatsstrasse
+ 1, Duesseldorf, D-40225, Germany."
+          },
+          {
+            name ml "Derouiche A",
+            affil str "Institute of Anatomy II and Dr. Senckenbergisches
+ Chronomedizinisches Institut, Goethe-University of Frankfurt,
+ Theodor-Stern-Kai 7, Frankfurt/M, D-60590, Germany."
+          },
+          {
+            name ml "Kleinhans C",
+            affil str "Faculty of Mathematics and Natural Sciences, Institute
+ of Neurobiology, Heinrich Heine University Duesseldorf, Universitatsstrasse
+ 1, Duesseldorf, D-40225, Germany."
+          },
+          {
+            name ml "Moshrefi-Ravasdjani B",
+            affil str "Faculty of Mathematics and Natural Sciences, Institute
+ of Neurobiology, Heinrich Heine University Duesseldorf, Universitatsstrasse
+ 1, Duesseldorf, D-40225, Germany."
+          },
+          {
+            name ml "Fredrich M",
+            affil str "Institute of Anatomy II and Dr. Senckenbergisches
+ Chronomedizinisches Institut, Goethe-University of Frankfurt,
+ Theodor-Stern-Kai 7, Frankfurt/M, D-60590, Germany."
+          },
+          {
+            name ml "Kafitz KW",
+            affil str "Faculty of Mathematics and Natural Sciences, Institute
+ of Neurobiology, Heinrich Heine University Duesseldorf, Universitatsstrasse
+ 1, Duesseldorf, D-40225, Germany."
+          },
+          {
+            name ml "Seifert G",
+            affil str "Medical Faculty, Institute of Cellular Neurosciences,
+ University of Bonn, Bonn, D-53105, Germany."
+          },
+          {
+            name ml "Steinhauser C",
+            affil str "Medical Faculty, Institute of Cellular Neurosciences,
+ University of Bonn, Bonn, D-53105, Germany."
+          },
+          {
+            name ml "Rose CR",
+            affil str "Faculty of Mathematics and Natural Sciences, Institute
+ of Neurobiology, Heinrich Heine University Duesseldorf, Universitatsstrasse
+ 1, Duesseldorf, D-40225, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Glia",
+          ml-jta "Glia",
+          issn "1098-1136",
+          name "Glia"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 2
+          },
+          volume "65",
+          issue "2",
+          pages "293-308",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 8,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2016,
+                month 10,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 10,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 1,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 10,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 27785828,
+        doi "10.1002/glia.23092",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/glia.23092"
+        }
+      }
+    },
+    abstract "Perivascular endfeet of astrocytes are highly polarized
+ compartments that ensheath blood vessels and contribute to the blood-brain
+ barrier. They experience calcium transients with neuronal activity, a
+ phenomenon involved in neurovascular coupling. Endfeet also mediate the
+ uptake of glucose from the blood, a process stimulated in active brain
+ regions. Here, we demonstrate in mouse hippocampal tissue slices that endfeet
+ undergo sodium signaling upon stimulation of glutamatergic synaptic activity.
+ Glutamate-induced endfeet sodium transients were diminished by TFB-TBOA,
+ suggesting that they were generated by sodium-dependent glutamate uptake.
+ With local agonist application, they could be restricted to endfeet and
+ immunohistochemical analysis revealed prominent expression of glutamate
+ transporters GLAST and GLT-1 localized towards the neuropil vs. the vascular
+ side of endfeet. Endfeet sodium signals spread at an apparent maximum
+ velocity of  approximately 120 microm/s and directly propagated from
+ stimulated into neighboring endfeet; this spread was omitted in Cx30/Cx43
+ double-deficient mice. Sodium transients resulted in elevation of
+ intracellular magnesium, indicating a decrease in intracellular ATP. In
+ summary, our results establish that excitatory synaptic activity and
+ stimulation of glutamate uptake in astrocytes trigger transient sodium
+ increases in perivascular endfeet which rapidly spread through gap junctions
+ into neighboring endfeet and cause a reduction of intracellular ATP. The
+ newly discovered endfeet sodium signaling thereby represents a fast,
+ long-lived and inter-cellularly acting indicator of synaptic activity at the
+ blood-brain barrier, which likely constitutes an important component of
+ neuro-metabolic coupling in the brain. GLIA 2017;65:293-308.",
+    mesh {
+      {
+        term "Adenosine Triphosphate",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Amino Acid Transport System X-AG",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Animals, Newborn"
+      },
+      {
+        term "Aspartic Acid",
+        qual {
+          {
+            subh "analogs & derivatives"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Astrocytes",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          },
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Connexin 30",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Connexin 43",
+        qual {
+          {
+            subh "deficiency"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "D-Aspartic Acid",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gap Junctions",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glutamic Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Hippocampus",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Membrane Potentials",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Mice, Knockout"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Sodium",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sodium Channel Blockers",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Tetrodotoxin",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "(2S,3S)-3-(3-(4-(trifluoromethyl)benzoylamino)benzyloxy)aspartate"
+      },
+      {
+        type nameonly,
+        name "Amino Acid Transport System X-AG"
+      },
+      {
+        type nameonly,
+        name "Connexin 30"
+      },
+      {
+        type nameonly,
+        name "Connexin 43"
+      },
+      {
+        type nameonly,
+        name "Gjb6 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Sodium Channel Blockers"
+      },
+      {
+        type cas,
+        cit "30KYC7MIAI",
+        name "Aspartic Acid"
+      },
+      {
+        type cas,
+        cit "3KX376GY7L",
+        name "Glutamic Acid"
+      },
+      {
+        type cas,
+        cit "4368-28-9",
+        name "Tetrodotoxin"
+      },
+      {
+        type cas,
+        cit "4SR0Q8YD1X",
+        name "D-Aspartic Acid"
+      },
+      {
+        type cas,
+        cit "8L70Q75FXE",
+        name "Adenosine Triphosphate"
+      },
+      {
+        type cas,
+        cit "9NEZ333N27",
+        name "Sodium"
+      }
+    },
+    pmid 27785828,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

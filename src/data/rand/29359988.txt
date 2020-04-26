@@ -1,0 +1,219 @@
+
+Pubmed-entry ::= {
+  pmid 29359988,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long-term outcomes following proton therapy for prostate cancer
+ in young men with a focus on sexual health."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ho CK",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Bryant CM",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Mendenhall NP",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Henderson RH",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Mendenhall WM",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Nichols RC",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Morris CG",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Kanmaniraja D",
+            affil str "b Department of Radiology , University of Florida
+ College of Medicine , Jacksonville , FL , USA."
+          },
+          {
+            name ml "Hamlin DJ",
+            affil str "b Department of Radiology , University of Florida
+ College of Medicine , Jacksonville , FL , USA."
+          },
+          {
+            name ml "Li Z",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          },
+          {
+            name ml "Hoppe BS",
+            affil str "a Department of Radiation Oncology , University of
+ Florida College of Medicine , Gainesville , FL , USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acta Oncol",
+          ml-jta "Acta Oncol",
+          issn "1651-226X",
+          name "Acta oncologica (Stockholm, Sweden)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "57",
+          issue "5",
+          pages "582-588",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29359988,
+        doi "10.1080/0284186X.2018.1427886",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/0284186X.2018.1427886"
+        }
+      }
+    },
+    abstract "BACKGROUND: We investigated long-term outcomes for men </=60
+ years old treated with proton therapy (PT). METHODS: Of 254 men </=60 years
+ old were treated with proton therapy alone for prostate cancer. Risk
+ stratification included 56% with low-, 42% with intermediate- and 2% with
+ high-risk disease. Patients received 76-82 Gy at 2 Gy/fraction or 70-72.5 Gy
+ at 2.5 Gy/fraction. Before treatment and every 6-12 months for 5 years,
+ patients were evaluated by a physician, answered health-related quality of
+ life surveys, including the EPIC, IIEF and IPSS, and had PSA evaluated.
+ RESULTS: Median follow-up for the cohort was 7.1 years; 7-year
+ biochemical-free survival was 97.8%. Eight men (one high-risk; five
+ intermediate-risk and two low-risk) experienced biochemical progression,
+ including one who died of disease 9 years after treatment. Potency (erections
+ firm enough for sexual intercourse) was 90% at baseline and declined to 72%
+ at the first-year follow-up, but declined to only 67% at 5 years. Only 2% of
+ patients developed urinary incontinence requiring pads. The bowel habits mean
+ score declined from a baseline of 96 to 88 at 1 year, which improved over the
+ following years to 93 at 5 years. CONCLUSIONS: Young men with prostate cancer
+ continue to have excellent results with respect to 7-year biochemical control
+ and 5-year erectile function, without clinically significant urinary
+ incontinence 5 years after proton therapy. Comparative effectiveness studies
+ of proton therapy with surgery and IMRT are needed.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "radiotherapy"
+          }
+        }
+      },
+      {
+        term "Proton Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Quality of Life"
+      },
+      {
+        term "Sexual Dysfunction, Physiological",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Sexual Health"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29359988,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

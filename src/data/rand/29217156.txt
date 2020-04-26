@@ -1,0 +1,238 @@
+
+Pubmed-entry ::= {
+  pmid 29217156,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Air-Q((R)) versus LMA Fastrach for fiberoptic-guided intubation:
+ A randomized cross-over manikin trial.",
+        trans "Estudio aleatorizado cruzado para evaluar la intubacion guiada
+ con fibrobroncoscopio a traves del dispositivo Air-Q((R)) versus la
+ mascarilla laringea Fastrach en maniquis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Portas M",
+            affil str "Servicio de Anestesiologia, Reanimacion y terapeutica
+ del dolor, Hospital General Universitario Gregorio Maranon, Madrid, Espana."
+          },
+          {
+            name ml "Canal MI",
+            affil str "Servicio de Anestesiologia, Reanimacion y terapeutica
+ del dolor, Hospital General Universitario Gregorio Maranon, Madrid, Espana."
+          },
+          {
+            name ml "Barrio M",
+            affil str "Servicio de Anestesiologia, Reanimacion y terapeutica
+ del dolor, Hospital General Universitario Gregorio Maranon, Madrid, Espana."
+          },
+          {
+            name ml "Alonso M",
+            affil str "Servicio de Anestesiologia, Reanimacion y terapeutica
+ del dolor, Hospital General Universitario Gregorio Maranon, Madrid, Espana."
+          },
+          {
+            name ml "Cabrerizo P",
+            affil str "Servicio de Anestesiologia, Reanimacion y terapeutica
+ del dolor, Hospital General Universitario Gregorio Maranon, Madrid, Espana."
+          },
+          {
+            name ml "Lopez-Gil M",
+            affil str "Servicio de Anestesiologia, Reanimacion y terapeutica
+ del dolor, Hospital General Universitario Gregorio Maranon, Madrid, Espana."
+          },
+          {
+            name ml "Zaballos M",
+            affil str "Servicio de Anestesiologia, Reanimacion y terapeutica
+ del dolor, Hospital General Universitario Gregorio Maranon, Madrid, Espana.
+ Electronic address: mati@plagaro.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Rev Esp Anestesiol Reanim",
+          ml-jta "Rev Esp Anestesiol Reanim",
+          issn "2340-3284",
+          name "Revista espanola de anestesiologia y reanimacion"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "65",
+          issue "3",
+          pages "135-142",
+          language "eng,spa",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 9,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 9,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29217156,
+        pii "S0034-9356(17)30243-8",
+        doi "10.1016/j.redar.2017.09.011",
+        other {
+          db "ELocationID pii",
+          tag str "S0034-9356(17)30243-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.redar.2017.09.011"
+        }
+      }
+    },
+    abstract "INTRODUCTION: Airway management is still a major cause of
+ anesthesia-associated morbidity and mortality. Supraglottic devices are
+ recommended in difficult airway management guidelines. The aim of this study
+ was to compare the performance of the Air-Q((R)) and the LMA Fastrach for
+ fiberoptic guided tracheal intubation. METHODS: Thirty-three anesthesia
+ trainees participated in this randomized crossover study. Time to insert the
+ dedicated airways (insertion of the airway into the manikin and delivery of
+ two breaths), time to tracheal intubation (fiberoptic-guided tracheal
+ intubation), time to remove the dedicated airway (removal of the
+ Air-Q((R))/LMA Fastrach over the tracheal tube) and the opinion of the ease
+ of use of the anesthesia trainees were measured. RESULTS: There was 100%
+ success rate for tracheal intubation with both devices on the first attempt.
+ Time to insert the dedicated device and deliver two breaths was 10+/-3s for
+ the Air-Q((R)) and 11+/-3s for the LMA Fastrach, P=.07. Time taken to
+ intubate the trachea was shorter with the air-Q((R)), 38+/-15 s, than with
+ the LMA Fastrach, 47+/-19s, P=.017. Overall procedure time was significantly
+ shorter with the Air-Q((R)) as compared with the LMA Fastrach, with a mean
+ time of 74+/-21s and 87+/-28s respectively, P=.002. Air-Q((R)) removal was
+ considered easier than LMA Fastrach removal, P=.005. There were no tube
+ dislodgements during the removal of the dedicated airways. CONCLUSIONS:
+ Inexperienced anesthesia residents can perform fiberoptic-guided intubation
+ through Air-Q((R)) and LMA Fastrach in a clinically acceptable time with high
+ success.",
+    mesh {
+      {
+        term "Airway Management",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Bronchoscopy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Cross-Over Studies"
+      },
+      {
+        term "Equipment Design"
+      },
+      {
+        term "Fiber Optic Technology",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Intubation, Intratracheal",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Laryngeal Masks"
+      },
+      {
+        term "Manikins"
+      }
+    },
+    pmid 29217156,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

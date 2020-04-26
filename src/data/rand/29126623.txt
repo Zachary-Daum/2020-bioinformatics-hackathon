@@ -1,0 +1,132 @@
+
+Pubmed-entry ::= {
+  pmid 29126623,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Is the venoarterial extracorporeal membrane oxygenation circuit
+ your frenemy?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Joyce DL",
+            affil str "Division of Cardiothoracic Surgery, Department of
+ Surgery, Froedtert and the Medical College of Wisconsin, Milwaukee, Wis.
+ Electronic address: djoyce@mcw.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Thorac. Cardiovasc. Surg.",
+          ml-jta "J Thorac Cardiovasc Surg",
+          issn "1097-685X",
+          name "The Journal of thoracic and cardiovascular surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "155",
+          issue "2",
+          pages "641-642",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29126623,
+        pii "S0022-5223(17)32328-0",
+        doi "10.1016/j.jtcvs.2017.10.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-5223(17)32328-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jtcvs.2017.10.010"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Endarterectomy"
+      },
+      {
+        mp TRUE,
+        term "Extracorporeal Membrane Oxygenation"
+      },
+      {
+        term "Hemorrhage"
+      },
+      {
+        term "Humans"
+      }
+    },
+    pmid 29126623,
+    pub-type {
+      "Editorial",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

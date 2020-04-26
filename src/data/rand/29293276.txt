@@ -1,0 +1,336 @@
+
+Pubmed-entry ::= {
+  pmid 29293276,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A study about immunomodulatory effect and efficacy and prognosis
+ of human umbilical cord mesenchymal stem cells in patients with chronic
+ hepatitis B-induced decompensated liver cirrhosis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fang X",
+            affil str "Department of Infectious Diseases, Tongling People's
+ Hospital, Tongling City, Anhui Province, China."
+          },
+          {
+            name ml "Liu L",
+            affil str "Cellular Central Laboratory, 105th Hospital of PLA,
+ Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Dong J",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Song H",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Song Y",
+            affil str "Department of Infectious Diseases, Tongling People's
+ Hospital, Tongling City, Anhui Province, China."
+          },
+          {
+            name ml "Huang Y",
+            affil str "Department of Infectious Diseases, Tongling People's
+ Hospital, Tongling City, Anhui Province, China."
+          },
+          {
+            name ml "Cui X",
+            affil str "Department of Infectious Diseases, Tongling People's
+ Hospital, Tongling City, Anhui Province, China."
+          },
+          {
+            name ml "Lin J",
+            affil str "Department of Infectious Diseases, Tongling People's
+ Hospital, Tongling City, Anhui Province, China."
+          },
+          {
+            name ml "Chen C",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Liu B",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Chen Z",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Pan J",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          },
+          {
+            name ml "Chen X",
+            affil str "Department of Infectious Diseases, 105th Hospital of
+ PLA, Hefei, Anhui Province, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Gastroenterol. Hepatol.",
+          ml-jta "J Gastroenterol Hepatol",
+          issn "1440-1746",
+          name "Journal of gastroenterology and hepatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "33",
+          issue "4",
+          pages "774-780",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 21
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29293276,
+        doi "10.1111/jgh.14081",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jgh.14081"
+        }
+      }
+    },
+    abstract "BACKGROUND AND AIM: The aim of our study was to investigate the
+ immunomodulatory effect and short-term efficacy and long-term prognosis of
+ decompensated liver cirrhosis patients caused by hepatitis B after a double
+ transplantation with human umbilical cord mesenchymal stem cells (hUCMSCs).
+ METHODS: Fifty inpatients were recruited and given the same medical
+ treatments, receiving hUCMSCs injection intravenously. Fifty-three patients
+ (Group B) matched for age, sex, and baseline alanine aminotransferase,
+ aspartate aminotransferase, albumin, total bilirubin, prothrombin time, and
+ model for end-stage liver disease score and Child-Pugh classification, acted
+ as the control group. RESULTS: Interleukin-6 and tumor necrosis factor alpha
+ levels markedly decreased, and interleukin-10 level apparently increased in
+ Group A at 2 and 4 weeks after treatment. Transforming growth factor beta in
+ Group A increased more remarkably at 2 weeks after treatment. T4 cells and
+ Treg cells in Group A were apparently higher than those in Group B at 2 and 4
+ weeks after treatment, and T8 cells and B cells were significantly lower than
+ those in Group B. Aspartate aminotransferase levels in Group A were
+ dramatically declining at 8 and 12 weeks after treatment. Levels of albumin,
+ total bilirubin, and prothrombin time in Group A were apparently improved
+ from 4 to 12 weeks after treatment. The improvements in model for end-stage
+ liver disease and Child-Pugh scores in Group A were notably superior to those
+ in Group B from 4 to 36 weeks after treatment. There were no remarkable
+ differences in the incidence of developing liver failure throughout the
+ follow-up period, but the mortality rate of Group A was lower than that of
+ Group B. CONCLUSION: This therapeutic method may be an appropriate choice for
+ patients with decompensated liver cirrhosis.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aspartate Aminotransferases",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Bilirubin",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Biomarkers",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hepatitis B, Chronic",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Cirrhosis",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Lymphocyte Subsets"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Mesenchymal Stem Cell Transplantation"
+      },
+      {
+        mp TRUE,
+        term "Mesenchymal Stem Cells"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Prothrombin Time"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Umbilical Cord",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type ec,
+        cit "2.6.1.1",
+        name "Aspartate Aminotransferases"
+      },
+      {
+        type cas,
+        cit "RFM9X3LJ49",
+        name "Bilirubin"
+      }
+    },
+    pmid 29293276,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

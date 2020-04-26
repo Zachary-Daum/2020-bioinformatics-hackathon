@@ -1,0 +1,251 @@
+
+Pubmed-entry ::= {
+  pmid 29364838,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Informing Efforts to Develop Nitroreductase for Amine Production."
+      },
+      authors {
+        names std {
+          {
+            name ml "Miller AF",
+            affil str "Department of Chemistry, University of Kentucky,
+ Lexington, KY 40506-0055, USA. afmill3r2@gmail.com."
+          },
+          {
+            name ml "Park JT",
+            affil str "School of Chemical and Biomolecular Engineering,
+ Georgia Institute of Technology, Atlanta, GA 30332-0100, USA.
+ jpark5009@gmail.com."
+          },
+          {
+            name ml "Ferguson KL",
+            affil str "School of Chemistry and Biochemistry, Georgia Institute
+ of Technology, Atlanta, GA 30332-0100, USA. k.ferge@gmail.com."
+          },
+          {
+            name ml "Pitsawong W",
+            affil str "Department of Chemistry, University of Kentucky,
+ Lexington, KY 40506-0055, USA. warintra@brandeis.edu."
+          },
+          {
+            name ml "Bommarius AS",
+            affil str "School of Chemical and Biomolecular Engineering, School
+ of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA
+ 30332-0100, USA. andreas.bommarius@chbe.gatech.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Molecules",
+          ml-jta "Molecules",
+          issn "1420-3049",
+          name "Molecules (Basel, Switzerland)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 24
+          },
+          volume "23",
+          issue "2",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 12
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29364838,
+        pii "molecules23020211",
+        doi "10.3390/molecules23020211",
+        other {
+          db "pmc",
+          tag str "PMC6017928"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E211"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/molecules23020211"
+        }
+      }
+    },
+    abstract "Nitroreductases (NRs) hold promise for converting nitroaromatics
+ to aromatic amines. Nitroaromatic reduction rate increases with Hammett
+ substituent constant for NRs from two different subgroups, confirming
+ substrate identity as a key determinant of reactivity. Amine yields were low,
+ but compounds yielding amines tend to have a large pi system and electron
+ withdrawing substituents. Therefore, we also assessed the prospects of
+ varying the enzyme. Several different subgroups of NRs include members able
+ to produce aromatic amines. Comparison of four NR subgroups shows that they
+ provide contrasting substrate binding cavities with distinct constraints on
+ substrate position relative to the flavin. The unique architecture of the NR
+ dimer produces an enormous contact area which we propose provides the
+ stabilization needed to offset the costs of insertion of the active sites
+ between the monomers. Thus, we propose that the functional diversity included
+ in the NR superfamily stems from the chemical versatility of the flavin
+ cofactor in conjunction with a structure that permits tremendous active site
+ variability. These complementary properties make NRs exceptionally promising
+ enzymes for development for biocatalysis in prodrug activation and conversion
+ of nitroaromatics to valuable aromatic amines. We provide a framework for
+ identifying NRs and substrates with the greatest potential to advance.",
+    mesh {
+      {
+        term "Amines",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Binding Sites"
+      },
+      {
+        term "Biosynthetic Pathways"
+      },
+      {
+        mp TRUE,
+        term "Fermentation"
+      },
+      {
+        term "Models, Molecular"
+      },
+      {
+        term "Molecular Conformation"
+      },
+      {
+        term "Molecular Structure"
+      },
+      {
+        term "NAD",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nitroreductases",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Oxidation-Reduction"
+      },
+      {
+        term "Protein Binding"
+      },
+      {
+        term "Structure-Activity Relationship"
+      },
+      {
+        term "Substrate Specificity"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Amines"
+      },
+      {
+        type cas,
+        cit "0U46U6E8UK",
+        name "NAD"
+      },
+      {
+        type ec,
+        cit "1.7.-",
+        name "Nitroreductases"
+      }
+    },
+    pmid 29364838,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

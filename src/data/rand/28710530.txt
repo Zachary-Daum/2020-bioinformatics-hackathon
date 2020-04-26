@@ -1,0 +1,245 @@
+
+Pubmed-entry ::= {
+  pmid 28710530,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Proteomic characterisation reveals active Wnt-signalling by
+ human multipotent stromal cells as a key regulator of beta cell survival and
+ proliferation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kuljanin M",
+            affil str "Don Rix Protein Identification Facility, Department of
+ Biochemistry, Schulich School of Medicine and Dentistry, Western University,
+ London, ON, N5A 6C1, Canada."
+          },
+          {
+            name ml "Bell GI",
+            affil str "Department of Physiology and Pharmacology, Schulich
+ School of Medicine and Dentistry, Western University, London, ON, Canada."
+          },
+          {
+            name ml "Sherman SE",
+            affil str "Department of Physiology and Pharmacology, Schulich
+ School of Medicine and Dentistry, Western University, London, ON, Canada.;
+ Molecular Medicine Laboratories, Krembil Centre for Stem Cell Biology,
+ Robarts Research Institute, 100 Perth Drive, London, ON, N6A 5K8, Canada."
+          },
+          {
+            name ml "Lajoie GA",
+            affil str "Don Rix Protein Identification Facility, Department of
+ Biochemistry, Schulich School of Medicine and Dentistry, Western University,
+ London, ON, N5A 6C1, Canada. glajoie@uwo.ca."
+          },
+          {
+            name ml "Hess DA",
+            affil str "Department of Physiology and Pharmacology, Schulich
+ School of Medicine and Dentistry, Western University, London, ON, Canada.
+ dhess@robarts.ca.; Molecular Medicine Laboratories, Krembil Centre for Stem
+ Cell Biology, Robarts Research Institute, 100 Perth Drive, London, ON, N6A
+ 5K8, Canada. dhess@robarts.ca."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Diabetologia",
+          ml-jta "Diabetologia",
+          issn "1432-0428",
+          name "Diabetologia"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "60",
+          issue "10",
+          pages "1987-1998",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28710530,
+        doi "10.1007/s00125-017-4355-7",
+        pii "10.1007/s00125-017-4355-7",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00125-017-4355-7"
+        }
+      }
+    },
+    abstract "AIMS/HYPOTHESIS: Novel strategies to stimulate the expansion of
+ beta cell mass in situ are warranted for diabetes therapy. The aim of this
+ study was to elucidate the secretome of human bone marrow (BM)-derived
+ multipotent stromal cells (MSCs) with documented islet regenerative paracrine
+ function. We hypothesised that regenerative MSCs will secrete a unique
+ combination of protein factors that augment islet regeneration. METHODS:
+ Human BM-derived MSCs were examined for glucose-lowering capacity after
+ transplantation into streptozotocin-treated NOD/severe combined
+ immunodeficiency (SCID) mice and segregated into samples with regenerative
+ (MSC(R)) vs nonregenerative (MSC(NR)) capacity. Secreted proteins associated
+ with islet regenerative function were identified using stable isotope
+ labelling with amino acids in cell culture (SILAC)-based quantitative
+ proteomics. To functionally validate the importance of active Wnt signalling,
+ we stimulated the Wnt-signalling pathway in MSC(NR) samples during ex vivo
+ expansion using glycogen synthase kinase 3 (GSK3) inhibition (CHIR99201), and
+ the conditioned culture media (CM) generated was tested for the capacity to
+ support cultured human islet cell survival and proliferation in vitro.
+ RESULTS: MSC(R) showed increased secretion of proteins associated with cell
+ growth, matrix remodelling, immunosuppressive and proangiogenic properties.
+ In contrast, MSC(NR) uniquely secreted proteins known to promote inflammation
+ and negatively regulate angiogenesis. Most notably, MSC(R) maintained Wnt
+ signalling via Wnt5A/B (~2.5-fold increase) autocrine activity during ex vivo
+ culture, while MSC(NR) repressed Wnt signalling via Dickkopf-related protein
+ (DKK)1 (~2.5-fold increase) and DKK3 secretion. Inhibition of GSK3 activity
+ in MSC(NR) samples increased the accumulation of nuclear beta-catenin and
+ generated CM that augmented beta cell survival (13% increases) and
+ proliferation when exposed to cultured human islets.
+ CONCLUSIONS/INTERPRETATION: Maintenance of active Wnt signalling within human
+ MSCs promotes the secretion of matricellular and proangiogenic proteins that
+ formulate a niche for islet regeneration.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Diabetes Mellitus, Experimental",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Insulin-Secreting Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mesenchymal Stem Cell Transplantation"
+      },
+      {
+        term "Mesenchymal Stem Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred NOD"
+      },
+      {
+        term "Mice, SCID"
+      },
+      {
+        term "Proteomics"
+      },
+      {
+        term "Wnt Signaling Pathway",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    pmid 28710530,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

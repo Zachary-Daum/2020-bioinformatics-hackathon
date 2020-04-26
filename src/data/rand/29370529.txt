@@ -1,0 +1,275 @@
+
+Pubmed-entry ::= {
+  pmid 29370529,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Temporal expression of clock genes in central and peripheral
+ tissues of spotted munia under varying light conditions: Evidence for
+ circadian regulation of daily physiology in a non-photoperiodic circannual
+ songbird species."
+      },
+      authors {
+        names std {
+          {
+            name ml "Agarwal N",
+            affil str "a IndoUS Center for Biological Timing, Department of
+ Zoology , University of Delhi , Delhi , India.; b IndoUS Center for
+ Biological Timing, Department of Zoology , University of Lucknow , Lucknow ,
+ India."
+          },
+          {
+            name ml "Mishra I",
+            affil str "a IndoUS Center for Biological Timing, Department of
+ Zoology , University of Delhi , Delhi , India."
+          },
+          {
+            name ml "Rani S",
+            affil str "b IndoUS Center for Biological Timing, Department of
+ Zoology , University of Lucknow , Lucknow , India."
+          },
+          {
+            name ml "Kumar V",
+            affil str "a IndoUS Center for Biological Timing, Department of
+ Zoology , University of Delhi , Delhi , India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chronobiol. Int.",
+          ml-jta "Chronobiol Int",
+          issn "1525-6073",
+          name "Chronobiology international"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "35",
+          issue "5",
+          pages "617-632",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29370529,
+        doi "10.1080/07420528.2017.1422742",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/07420528.2017.1422742"
+        }
+      }
+    },
+    abstract "We investigated if the duration and/or frequency of the light
+ period affect 24-h rhythm of circadian clock genes in central and peripheral
+ tissues of a non-photoperiodic songbird, the spotted munia (Lonchura
+ punctulata), in which a circannual rhythm regulates the reproductive cycle.
+ We monitored activity-rest pattern and measured 24-h mRNA oscillation of core
+ clock (Bmal1, Clock, Per2, Cry1 and Cry2) and clock-controlled (E4bp4,
+ Roralpha and Rev-erbalpha) genes in the hypothalamus, retina, liver and gut
+ of spotted munia subjected to an aberrant light-dark (LD) cycle (3.5L:3.5D;
+ T7, T = period length of LD cycle) and continuous light (LL, 24L:0D), with
+ controls on 24-h LD cycle (T24, 12L:12D). Munia exhibited rhythmic
+ activity-rest pattern with period matched to T7 or T24 under an LD cycle and
+ were arrhythmic with a scattered activity pattern and higher activity
+ duration under LL. At the transcriptional level, both clock and
+ clock-controlled genes showed a significant 24-h rhythm in all four tissues
+ (except Clock in the liver) under 12L:12D, suggesting a conserved
+ tissue-level circadian time generation in spotted munia. An exposure to
+ 3.5L:3.5D or LL induced arrhythmicity in transcriptional oscillation of all
+ eight genes in the hypothalamus (except Rev-erbalpha) and liver (except Bmal1
+ and Rev-erbalpha under T7 and Cry1 under LL). In the retina, however, all
+ genes showed arrhythmic 24-h mRNA expression under LL, but not under T7
+ (except in E4bp4 and Roralpha). Interestingly, unlike in the liver, Bmal1,
+ Per2, Cry1, Roralpha and Rev-erbalpha mRNA expressions were rhythmic in the
+ gut under both T7 (except Roralpha) and LL conditions. These results showed
+ variable relationship of internal circadian clocks with the external light
+ environment and suggested a weak coupling of circadian clocks between the
+ central (hypothalamus and retina) and peripheral (liver and gut) tissues. We
+ suggest tissue-level circadian clock regulation of daily physiology and
+ behavior in the spotted munia.",
+    mesh {
+      {
+        term "Activity Cycles",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Avian Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Behavior, Animal"
+      },
+      {
+        term "Circadian Rhythm",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Circadian Rhythm Signaling Peptides and Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gastrointestinal Tract",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Gene Expression Regulation"
+      },
+      {
+        term "Hypothalamus",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Photoperiod"
+      },
+      {
+        term "RNA, Messenger",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Retina",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Songbirds",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Avian Proteins"
+      },
+      {
+        type nameonly,
+        name "Circadian Rhythm Signaling Peptides and Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Messenger"
+      }
+    },
+    pmid 29370529,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

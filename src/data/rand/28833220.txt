@@ -1,0 +1,151 @@
+
+Pubmed-entry ::= {
+  pmid 28833220,
+  medent {
+    em std {
+      year 2017,
+      month 8,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "What is the role of imaging in the evaluation of the patient
+ presenting with unilateral facial paralysis?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Su BM",
+            affil str "Department of Head and Neck Surgery, University of
+ California, Los Angeles (UCLA), Los Angeles, California, U.S.A."
+          },
+          {
+            name ml "Kuan EC",
+            affil str "Department of Head and Neck Surgery, University of
+ California, Los Angeles (UCLA), Los Angeles, California, U.S.A."
+          },
+          {
+            name ml "St John MA",
+            affil str "Department of Head and Neck Surgery, University of
+ California, Los Angeles (UCLA), Los Angeles, California, U.S.A."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Laryngoscope",
+          ml-jta "Laryngoscope",
+          issn "1531-4995",
+          name "The Laryngoscope"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "128",
+          issue "2",
+          pages "297-298",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 8,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 8,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28833220,
+        doi "10.1002/lary.26825",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/lary.26825"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Facial Paralysis",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Magnetic Resonance Imaging",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Tomography, X-Ray Computed",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 28833220,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

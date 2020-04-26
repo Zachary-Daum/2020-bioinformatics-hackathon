@@ -1,0 +1,240 @@
+
+Pubmed-entry ::= {
+  pmid 28735686,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Nicotine pretreatment reduced cocaine-induced CPP and its
+ reinstatement in a sex- and dose-related manner in adult C57BL/6J mice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Singh PK",
+            affil str "Department of Pharmaceutical Sciences, College of
+ Pharmacy, Western University of Health Sciences, 309 East 2nd Street, Pomona,
+ CA 91766, United States."
+          },
+          {
+            name ml "Lutfy K",
+            affil str "Department of Pharmaceutical Sciences, College of
+ Pharmacy, Western University of Health Sciences, 309 East 2nd Street, Pomona,
+ CA 91766, United States. Electronic address: klutfy@westernu.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pharmacol. Biochem. Behav.",
+          ml-jta "Pharmacol Biochem Behav",
+          issn "1873-5177",
+          name "Pharmacology, biochemistry, and behavior"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 8
+          },
+          volume "159",
+          pages "84-89",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28735686,
+        pii "S0091-3057(17)30339-8",
+        doi "10.1016/j.pbb.2017.07.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0091-3057(17)30339-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.pbb.2017.07.010"
+        }
+      }
+    },
+    abstract "Previous preclinical studies have shown that nicotine
+ pretreatment during adolescence increases the reinforcing actions of cocaine.
+ However, little is known about the effect of prior nicotine administration on
+ cocaine-induced conditioned place preference (CPP) and its reinstatement in
+ adult mice. Besides, little information is available regarding the role of
+ sex in this cross-talk between nicotine and cocaine. Thus, we examined if
+ nicotine administration during adulthood would differentially alter
+ cocaine-induced CPP, its extinction and reinstatement in male versus female
+ mice and if the dose of nicotine was important in this regard. To this end,
+ mice were pretreated with saline or nicotine (0.25 or 1mg/kg; twice daily for
+ seven days) and then tested for place preference before and after single and
+ repeated conditioning with cocaine (15mg/kg). Mice were then exposed to
+ extinction training and tested for reinstatement of CPP. Our results showed
+ that male and female mice pretreated with saline and conditioned with cocaine
+ each exhibited a robust CPP after a single cocaine conditioning. However,
+ this response was blunted in mice pretreated with the lower but not higher
+ dose of nicotine. Female mice pretreated with the lower dose nicotine also
+ failed to show CPP after repeated conditioning. Reinstatement of
+ cocaine-induced CPP was also blunted in these mice compared to their
+ respective controls. Together, these results suggest that nicotine
+ administration during adulthood exerts differential effects on
+ cocaine-induced CPP and its reinstatement in male and female mice and the
+ dose of nicotine is important in this regard.",
+    mesh {
+      {
+        term "Aging"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Cocaine",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Conditioning, Operant",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Dose-Response Relationship, Drug"
+      },
+      {
+        term "Extinction, Psychological",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Nicotine",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Nicotinic Agonists",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Sex Characteristics"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Nicotinic Agonists"
+      },
+      {
+        type cas,
+        cit "6M3C89ZY6R",
+        name "Nicotine"
+      },
+      {
+        type cas,
+        cit "I5Y540LHVR",
+        name "Cocaine"
+      }
+    },
+    pmid 28735686,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

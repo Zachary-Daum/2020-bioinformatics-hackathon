@@ -1,0 +1,248 @@
+
+Pubmed-entry ::= {
+  pmid 29301656,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "CD1A and CD1E gene polymorphisms are not associated with
+ susceptibility to Guillain-Barre syndrome in the Bangladeshi population."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rahman MI",
+            affil str "Laboratory Sciences and Services Division,
+ International Centre for Diarrheal Disease Research (icddr,b), Dhaka,
+ Bangladesh."
+          },
+          {
+            name ml "Jahan I",
+            affil str "Laboratory Sciences and Services Division,
+ International Centre for Diarrheal Disease Research (icddr,b), Dhaka,
+ Bangladesh; Department of Genetic Engineering and Biotechnology, University
+ of Dhaka, Bangladesh."
+          },
+          {
+            name ml "Khalid MM",
+            affil str "Laboratory Sciences and Services Division,
+ International Centre for Diarrheal Disease Research (icddr,b), Dhaka,
+ Bangladesh."
+          },
+          {
+            name ml "Jahan I",
+            affil str "Laboratory Sciences and Services Division,
+ International Centre for Diarrheal Disease Research (icddr,b), Dhaka,
+ Bangladesh."
+          },
+          {
+            name ml "Ahammad RU",
+            affil str "Laboratory Sciences and Services Division,
+ International Centre for Diarrheal Disease Research (icddr,b), Dhaka,
+ Bangladesh; Graduate School of Medicine, Nagoya University, Japan."
+          },
+          {
+            name ml "Nahar S",
+            affil str "Laboratory Sciences and Services Division,
+ International Centre for Diarrheal Disease Research (icddr,b), Dhaka,
+ Bangladesh."
+          },
+          {
+            name ml "Islam Z",
+            affil str "Laboratory Sciences and Services Division,
+ International Centre for Diarrheal Disease Research (icddr,b), Dhaka,
+ Bangladesh. Electronic address: zislam@icddrb.org."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Neuroimmunol.",
+          ml-jta "J Neuroimmunol",
+          issn "1872-8421",
+          name "Journal of neuroimmunology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 15
+          },
+          volume "314",
+          pages "8-12",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 21
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29301656,
+        pii "S0165-5728(17)30421-6",
+        doi "10.1016/j.jneuroim.2017.11.013",
+        other {
+          db "ELocationID pii",
+          tag str "S0165-5728(17)30421-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jneuroim.2017.11.013"
+        }
+      }
+    },
+    abstract "The post-infectious autoimmune polyradiculoneuropathy
+ Guillain-Barre syndrome (GBS) is triggered by molecular mimicry between
+ microbial glycolipid antigens and human peripheral nerve gangliosides. Single
+ nucleotide polymorphisms in exon 2 of CD1A (*01/*02) and CD1E (*01/*02) were
+ assessed using PCR-RFLP; no significant differences in genotype or allele
+ frequency were observed between 200 patients with GBS and 200 healthy
+ controls. CD1 gene polymorphisms cannot be recognized as a susceptibility or
+ disease-causative factor for GBS in the Bangladeshi population. However,
+ further studies are necessary to investigate the CD1A*01/CD1E*01 haplotype
+ distribution and its potential causative role in the axonal form of GBS.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Antigens, CD1",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Bangladesh"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Genetic Predisposition to Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Guillain-Barre Syndrome",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Haplotypes"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Molecular Mimicry"
+      },
+      {
+        term "Polymorphism, Single Nucleotide"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antigens, CD1"
+      },
+      {
+        type nameonly,
+        name "CD1a antigen"
+      },
+      {
+        type nameonly,
+        name "CD1e antigen"
+      }
+    },
+    pmid 29301656,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,301 @@
+
+Pubmed-entry ::= {
+  pmid 29362861,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ethanol potentiates the genotoxicity of the food-derived mammary
+ carcinogen PhIP in human estrogen receptor-positive mammary cells:
+ mechanistic support for lifestyle factors (cooked red meat and ethanol)
+ associated with mammary cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Malik DE",
+            affil str "Computational and Systems Medicine, Imperial College
+ London, London, SW7 2AZ, UK."
+          },
+          {
+            name ml "David RM",
+            affil str "Computational and Systems Medicine, Imperial College
+ London, London, SW7 2AZ, UK.; Discovery Safety and Metabolism, AstraZeneca,
+ Cambridge, CB4 0WG, UK."
+          },
+          {
+            name ml "Gooderham NJ",
+            affil str "Computational and Systems Medicine, Imperial College
+ London, London, SW7 2AZ, UK. n.gooderham@imperial.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arch. Toxicol.",
+          ml-jta "Arch Toxicol",
+          issn "1432-0738",
+          name "Archives of toxicology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "92",
+          issue "4",
+          pages "1639-1655",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29362861,
+        doi "10.1007/s00204-018-2160-9",
+        pii "10.1007/s00204-018-2160-9",
+        other {
+          db "pmc",
+          tag str "PMC5882637"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00204-018-2160-9"
+        }
+      }
+    },
+    abstract "Consumption of cooked/processed meat and ethanol are lifestyle
+ risk factors in the aetiology of breast cancer. Cooking meat generates
+ heterocyclic amines such as 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine
+ (PhIP). Epidemiology, mechanistic and animal studies indicate that PhIP is a
+ mammary carcinogen that could be causally linked to breast cancer incidence;
+ PhIP is DNA damaging, mutagenic and oestrogenic. PhIP toxicity involves
+ cytochrome P450 (CYP1 family)-mediated metabolic activation to DNA-damaging
+ species, and transcriptional responses through Aryl hydrocarbon receptor
+ (AhR) and estrogen-receptor-alpha (ER-alpha). Ethanol consumption is a
+ modifiable lifestyle factor strongly associated with breast cancer risk.
+ Ethanol toxicity involves alcohol dehydrogenase metabolism to reactive
+ acetaldehyde, and is also a substrate for CYP2E1, which when uncoupled
+ generates reactive oxygen species (ROS) and DNA damage. Here, using human
+ mammary cells that differ in estrogen-receptor status, we explore
+ genotoxicity of PhIP and ethanol and mechanisms behind this toxicity.
+ Treatment with PhIP (10(-7)-10(-4) M) significantly induced genotoxicity
+ (micronuclei formation) preferentially in ER-alpha positive human mammary
+ cell lines (MCF-7, ER-alpha+) compared to MDA-MB-231 (ER-alpha-) cells.
+ PhIP-induced CYP1A2 in both cell lines but CYP1B1 was selectively induced in
+ ER-alpha(+) cells. ER-alpha inhibition in MCF-7 cells attenuated
+ PhIP-mediated micronuclei formation and CYP1B1 induction. PhIP-induced CYP2E1
+ and ROS via ER-alpha-STAT-3 pathway, but only in ER-alpha (+) MCF-7 cells.
+ Importantly, simultaneous treatments of physiological concentrations ethanol
+ (10(-3)-10(-1) M) with PhIP (10(-7)-10(-4) M) increased oxidative stress and
+ genotoxicity in MCF-7 cells, compared to the individual chemicals.
+ Collectively, these data offer a mechanistic basis for the increased risk of
+ breast cancer associated with dietary cooked meat and ethanol lifestyle
+ choices.",
+    mesh {
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Carcinogens",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Cytochrome P-450 CYP1B1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytochrome P-450 CYP2E1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "DNA Damage"
+      },
+      {
+        term "Estrogen Receptor alpha",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Ethanol",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Imidazoles",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Life Style"
+      },
+      {
+        term "MCF-7 Cells"
+      },
+      {
+        term "Oxidative Stress"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Red Meat",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Carcinogens"
+      },
+      {
+        type nameonly,
+        name "Estrogen Receptor alpha"
+      },
+      {
+        type nameonly,
+        name "Imidazoles"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "3K9958V90M",
+        name "Ethanol"
+      },
+      {
+        type cas,
+        cit "909C6UN66T",
+        name "2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine"
+      },
+      {
+        type ec,
+        cit "1.14.13.-",
+        name "Cytochrome P-450 CYP2E1"
+      },
+      {
+        type ec,
+        cit "1.14.14.1",
+        name "CYP1B1 protein, human"
+      },
+      {
+        type ec,
+        cit "1.14.14.1",
+        name "Cytochrome P-450 CYP1B1"
+      }
+    },
+    pmid 29362861,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

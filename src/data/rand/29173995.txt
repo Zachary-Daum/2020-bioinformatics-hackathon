@@ -1,0 +1,220 @@
+
+Pubmed-entry ::= {
+  pmid 29173995,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reflectance Confocal Microscopy: A Promising Tool to Identify
+ Malignancy in Melanocytic Lesions Exhibiting a Dermoscopic Island.",
+        trans "Microscopia confocal de reflectancia: una herramienta util para
+ diagnosticar malignidad en lesiones melanociticas que presenten el signo de
+ la isla."
+      },
+      authors {
+        names std {
+          {
+            name ml "Elosua-Gonzalez M",
+            affil str "Servicio de Dermatologia, Hospital Universitario
+ Fundacion Alcorcon, Alcorcon, Madrid, Espana. Electronic address:
+ martagelosua@gmail.com."
+          },
+          {
+            name ml "Gamo-Villegas R",
+            affil str "Servicio de Dermatologia, Hospital Universitario
+ Fundacion Alcorcon, Alcorcon, Madrid, Espana."
+          },
+          {
+            name ml "Floristan-Muruzabal U",
+            affil str "Servicio de Dermatologia, Hospital Universitario
+ Fundacion Alcorcon, Alcorcon, Madrid, Espana."
+          },
+          {
+            name ml "Pinedo-Moraleda F",
+            affil str "Servicio de Anatomia Patologica, Hospital Universitario
+ Fundacion Alcorcon, Alcorcon, Madrid, Espana."
+          },
+          {
+            name ml "Lopez-Estebaranz JL",
+            affil str "Servicio de Dermatologia, Hospital Universitario
+ Fundacion Alcorcon, Alcorcon, Madrid, Espana."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Actas Dermosifiliogr",
+          ml-jta "Actas Dermosifiliogr",
+          issn "1578-2190",
+          name "Actas dermo-sifiliograficas"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "109",
+          issue "6",
+          pages "e37-e41",
+          language "eng,spa",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 5,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29173995,
+        pii "S0001-7310(17)30548-3",
+        doi "10.1016/j.ad.2017.06.018",
+        other {
+          db "ELocationID pii",
+          tag str "S0001-7310(17)30548-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ad.2017.06.018"
+        }
+      }
+    },
+    abstract "The dermoscopic island is described as a well-defined area in a
+ melanocytic lesion, with a different dermoscopic pattern from the rest of the
+ lesion. It is predictive of melanoma, particularly when the pattern of the
+ island is atypical. We present the reflectance confocal microscopy (RCM)
+ findings in 3 lesions with dermoscopic islands: nevus-associated melanoma,
+ melanocytic nevus, and in situ melanoma. The nevus-associated melanoma and in
+ situ melanoma presented cellular atypia (atypical cells in isolation or
+ forming nests) and architectural distortion on RCM. The nevus presented a
+ dermoscopic island with a typical globular pattern with dense nests and no
+ atypia on RCM. Dermoscopic island is mainly associated with in situ and
+ nevus-associated melanomas. RCM offers good cellular resolution to the depth
+ of the reticular dermis and is useful for diagnosing of melanomas presenting
+ a dermoscopic island.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Dermoscopy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Melanoma",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Microscopy, Confocal"
+      },
+      {
+        term "Nevus, Pigmented",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Skin Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    pmid 29173995,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,199 @@
+
+Pubmed-entry ::= {
+  pmid 28591045,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The efficiency and safety of tranexamic acid for reducing blood
+ loss in open myomectomy: A meta-analysis of randomized controlled trials."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang D",
+            affil str "aDepartment of Neurology bDepartment of Gynaecology and
+ Obstetrics, The Second Hospital of Dalian Medical University, Liaoning, China."
+          },
+          {
+            name ml "Wang L"
+          },
+          {
+            name ml "Wang Y"
+          },
+          {
+            name ml "Lin X"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Medicine (Baltimore)",
+          ml-jta "Medicine (Baltimore)",
+          issn "1536-5964",
+          name "Medicine"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6
+          },
+          volume "96",
+          issue "23",
+          pages "e7072",
+          language "eng",
+          retract {
+            type retracted,
+            exp "Medicine (Baltimore). 2018 Jan;97(4):e9793. PMID: 29369226"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 7,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28591045,
+        doi "10.1097/MD.0000000000007072",
+        pii "00005792-201706090-00021",
+        other {
+          db "pmc",
+          tag str "PMC5466223"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/MD.0000000000007072"
+        }
+      }
+    },
+    abstract "OBJECTIVE: This meta-analysis aimed to perform a meta-analysis
+ including randomized controlled trials (RCTs) to assess the efficiency and
+ safety of tranexamic acid (TXA) for reducing blood loss and transfusion
+ requirements in patients undergoing open myomectomy. METHODS: A systematic
+ search was performed in Medline (1966-2017.03), PubMed (1966-2017.03), Embase
+ (1980-2017.03), ScienceDirect (1985-2017.03,) and the Cochrane Library. Study
+ evaluated the efficiency and safety of TXA in myomectomy was selected.
+ Meta-analysis was performed using Stata 11.0 software. RESULTS: Four RCTs
+ including 328 patients met the inclusion criteria. The present meta-analysis
+ indicated that there were significant differences between groups in terms of
+ total blood loss (standard mean difference [SMD] = -1.512, 95% confidence
+ interval [CI]: -2.746 to -0.278, P = .016), postoperative hemoglobin level
+ (SMD = 0.650, 95% CI: 0.045-1.255, P = .035), transfusion requirements (SMD =
+ -0.102, 95% CI: -0.199 to -0.006, P = .038), and duration of surgery (SMD =
+ -0.514, 95% CI: -0.749 to -0.280, P = .000). In addition, no adverse effect
+ was identified in treatment groups. CONCLUSIONS: Intravenous administration
+ of TXA in open myomectomy was associated with significantly reduced total
+ blood loss, postoperative hemoglobin decline, duration of surgery, and
+ transfusion requirements. Based on the limitations of the current
+ meta-analysis, high-quality RCTs with long-term follow-up are still required.",
+    mesh {
+      {
+        term "Antifibrinolytic Agents",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Blood Loss, Surgical",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Randomized Controlled Trials as Topic"
+      },
+      {
+        term "Tranexamic Acid",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Uterine Myomectomy",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antifibrinolytic Agents"
+      },
+      {
+        type cas,
+        cit "6T84R30KC1",
+        name "Tranexamic Acid"
+      }
+    },
+    pmid 28591045,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis",
+      "Review",
+      "Retracted Publication"
+    },
+    status medline
+  }
+}
+
+

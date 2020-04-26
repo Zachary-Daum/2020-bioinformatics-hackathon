@@ -1,0 +1,312 @@
+
+Pubmed-entry ::= {
+  pmid 29338859,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Renal function and outcome after heart transplantation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kolsrud O",
+            affil str "Department of Cardiothoracic Surgery, Sahlgrenska
+ University Hospital, Gothenburg, Sweden; Department of Molecular and Clinical
+ Medicine, Institute of Medicine, Sahlgrenska Academy, University of
+ Gothenburg, Gothenburg, Sweden."
+          },
+          {
+            name ml "Karason K",
+            affil str "Department of Cardiology, Sahlgrenska University
+ Hospital, Gothenburg, Sweden."
+          },
+          {
+            name ml "Holmberg E",
+            affil str "Department of Oncology, Institute of Clinical Sciences,
+ Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
+          },
+          {
+            name ml "Ricksten SE",
+            affil str "Department of Cardiothoracic Anesthesia and Intensive
+ Care, Sahlgrenska University Hospital, Gothenburg, Sweden."
+          },
+          {
+            name ml "Felldin M",
+            affil str "Transplant Institute, Sahlgrenska University Hospital,
+ Gothenburg, Sweden."
+          },
+          {
+            name ml "Samuelsson O",
+            affil str "Department of Nephrology, Sahlgrenska University
+ Hospital, Gothenburg, Sweden."
+          },
+          {
+            name ml "Dellgren G",
+            affil str "Department of Cardiothoracic Surgery, Sahlgrenska
+ University Hospital, Gothenburg, Sweden; Transplant Institute, Sahlgrenska
+ University Hospital, Gothenburg, Sweden; Department of Molecular and Clinical
+ Medicine, Institute of Medicine, Sahlgrenska Academy, University of
+ Gothenburg, Gothenburg, Sweden. Electronic address:
+ goran.dellgren@vgregion.se."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Thorac. Cardiovasc. Surg.",
+          ml-jta "J Thorac Cardiovasc Surg",
+          issn "1097-685X",
+          name "The Journal of thoracic and cardiovascular surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "155",
+          issue "4",
+          pages "1593-1604.e1",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29338859,
+        pii "S0022-5223(17)32849-0",
+        doi "10.1016/j.jtcvs.2017.11.087",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-5223(17)32849-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jtcvs.2017.11.087"
+        }
+      }
+    },
+    abstract "OBJECTIVES: To investigate whether measured glomerular
+ filtration rate (mGFR) is a risk factor for death and/or end-stage renal
+ disease (ESRD) after heart transplantation (HTx). METHODS: All adult patients
+ (n = 416) who underwent HTx between 1988 and 2010 were included. mGFR was
+ performed both preoperatively and postoperatively as annual follow-up. Eight
+ patients received a concomitant kidney transplant (KTx), and 15 underwent
+ late KTx due to chronic renal failure after HTx. RESULTS: The mean drop in
+ mGFR compared with the preoperative value was 12% during the first year after
+ HTx. Preoperative mGFR was not predictive of mortality or ESRD. Older or the
+ use of a ventricular assist device (VAD) were preoperative predictors of
+ death. Long-term survival was significantly worse in the patients who
+ experienced a >25% decrease in mGFR during the first year after
+ transplantation. The need for acute postoperative renal replacement therapy
+ (RRT) was associated with impaired survival but did not predict ESRD among
+ survivors. On multivariable analyses, previous heart surgery, preoperative
+ VAD, and a lower mGFR were all predictors of RRT. In the most recent period,
+ death without previous ESRD was lower, and the only preoperative factors
+ associated with ESRD by multivariable analyses were mechanical ventilation
+ and diabetes mellitus. CONCLUSIONS: Pretransplantation mGFR was not
+ predictive of mortality or ESRD after HTx, but necessitated simultaneous or
+ late-stage KTx in this selected population of patients. However, patients
+ with a decrease in >25% mGFR during the first year post-transplantation, as
+ well as early postoperative dialysis-dependent acute renal dysfunction, had a
+ poor prognosis. We suggest that patients with severely impaired kidney
+ function, irrespective of pretransplantation renal function, still should be
+ considered for HTx, but also encourage careful interpretation of our results
+ given the selection bias involved in this population.",
+    mesh {
+      {
+        term "Acute Kidney Injury",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Clinical Decision-Making"
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Glomerular Filtration Rate"
+      },
+      {
+        term "Heart Failure",
+        qual {
+          {
+            subh "mortality"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Heart Transplantation",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          },
+          {
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kidney",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Kidney Failure, Chronic",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Patient Selection"
+      },
+      {
+        term "Renal Replacement Therapy"
+      },
+      {
+        term "Risk Assessment"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29338859,
+    pub-type {
+      "Journal Article",
+      "Video-Audio Media"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,107 @@
+
+Pubmed-entry ::= {
+  pmid 29035235,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Asymmetric Game: A Silver Bullet to Weighted Vertex Cover of
+ Networks."
+      },
+      authors {
+        names ml {
+          "Tang C",
+          "Li A",
+          "Li X"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "IEEE Trans Cybern",
+          ml-jta "IEEE Trans Cybern",
+          issn "2168-2275",
+          name "IEEE transactions on cybernetics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "48",
+          issue "10",
+          pages "2994-3005",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2017,
+                month 10,
+                day 17,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29035235,
+        doi "10.1109/TCYB.2017.2754919",
+        other {
+          db "ELocationID doi",
+          tag str "10.1109/TCYB.2017.2754919"
+        }
+      }
+    },
+    abstract "Weighted vertex cover (WVC), a generalized type of vertex cover,
+ is one of the most important combinatorial optimization problems. In this
+ paper, we provide a novel solution to the WVC problem from the view of
+ network engineering. We model the WVC problem as an asymmetric game on
+ weighted networks, where each vertex is treated as an intelligent rational
+ agent rather than an inanimate one. Under the framework of asymmetric game,
+ we find that strict Nash equilibriums of the asymmetric game are the
+ intermediate states between the WVC states and the minimum WVC (MWVC) states.
+ Besides, we propose best response algorithms with memory and feedback to
+ solve the WVC problem, and find that a better approximate solution to the
+ MWVC can be obtained under the feedback-based best response algorithm.
+ Numerical illustrations verify the performance of the proposed game solution
+ on weighted networks. Our findings pave a new way to solve the WVC problem
+ from the perspective of asymmetric game, which opens a bottom-up avenue to
+ address the combinatorial optimization problems.",
+    pmid 29035235,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

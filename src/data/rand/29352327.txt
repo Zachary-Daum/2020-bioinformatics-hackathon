@@ -1,0 +1,318 @@
+
+Pubmed-entry ::= {
+  pmid 29352327,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "LIMK/cofilin pathway and Slingshot are implicated in human
+ colorectal cancer progression and chemoresistance."
+      },
+      authors {
+        names std {
+          {
+            name ml "Aggelou H",
+            affil str "Department of Anatomy-Histology-Embryology, Medical
+ School, University of Patras, 26500, Patras, Greece."
+          },
+          {
+            name ml "Chadla P",
+            affil str "Department of Anatomy-Histology-Embryology, Medical
+ School, University of Patras, 26500, Patras, Greece."
+          },
+          {
+            name ml "Nikou S",
+            affil str "Department of Anatomy-Histology-Embryology, Medical
+ School, University of Patras, 26500, Patras, Greece."
+          },
+          {
+            name ml "Karteri S",
+            affil str "Department of Anatomy-Histology-Embryology, Medical
+ School, University of Patras, 26500, Patras, Greece."
+          },
+          {
+            name ml "Maroulis I",
+            affil str "Department of Surgery, University of Patras Medical
+ School, Patras, Greece."
+          },
+          {
+            name ml "Kalofonos HP",
+            affil str "Division of Oncology, University of Patras Medical
+ School, Patras, Greece."
+          },
+          {
+            name ml "Papadaki H",
+            affil str "Department of Anatomy-Histology-Embryology, Medical
+ School, University of Patras, 26500, Patras, Greece."
+          },
+          {
+            name ml "Bravou V",
+            affil str "Department of Anatomy-Histology-Embryology, Medical
+ School, University of Patras, 26500, Patras, Greece. vibra@upatras.gr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Virchows Arch.",
+          ml-jta "Virchows Arch",
+          issn "1432-2307",
+          name "Virchows Archiv : an international journal of pathology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "472",
+          issue "5",
+          pages "727-737",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29352327,
+        doi "10.1007/s00428-018-2298-0",
+        pii "10.1007/s00428-018-2298-0",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00428-018-2298-0"
+        }
+      }
+    },
+    abstract "Cofilin phospho-regulation is important for actin filament
+ turnover and is implicated in cancer. Phosphorylation of cofilin is mediated
+ by LIM kinases (LIMKs) and dephosphorylation by Slingshot phosphatases (SSH).
+ LIMKs and SSH promote cancer cell invasion and metastasis and represent novel
+ anti-cancer targets. However, little is known regarding LIMK/cofilin and SSH
+ in human colorectal cancer (CRC). In this study, we aimed to address their
+ expression and significance in human CRC. We evaluated expression of
+ non-phosphorylated (active) and phosphorylated cofilin, LIMK1, LIMK2, and
+ SSH1 by immunohistochemistry in 143 human CRC samples in relation to
+ clinicopathologic parameters, response of metastatic disease to chemotherapy,
+ and epithelial-mesenchymal transition (EMT) markers beta-catenin, E-cadherin,
+ and ZEB. We show that active cofilin, LIMK1, LIMK2, and SSH1 are
+ overexpressed in human CRC and are associated with tumor progression
+ parameters. SSH1 is an independent predictor of lymph node metastasis by
+ multivariate analysis. LIMK1 and SSH1 expression is also higher in
+ non-responders to chemotherapy, and SSH1 is shown by multivariate analysis to
+ independently predict response of metastatic disease to chemotherapy. Active
+ cofilin, LIMK1, LIMK2, and SSH1 also correlated with the EMT markers
+ examined. In addition, immunofluorescence analysis showed increased
+ expression of active cofilin, LIMK1, LIMK2, and SSH1 in HT29 colon cancer
+ cells resistant to 5-fluorouracil compared to parental HT29 cells. Our
+ results suggest that F-actin regulators LIMK/cofilin pathway and SSH1 are
+ associated with CRC progression and chemoresistance representing promising
+ tumor biomarkers and therapeutic targets in CRC.",
+    mesh {
+      {
+        term "Actin Depolymerizing Factors",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Antineoplastic Combined Chemotherapy Protocols",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Colorectal Neoplasms",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Drug Resistance, Neoplasm",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lim Kinases",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Phosphoprotein Phosphatases",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Actin Depolymerizing Factors"
+      },
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "LIMK1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "LIMK2 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Lim Kinases"
+      },
+      {
+        type ec,
+        cit "3.1.3.16",
+        name "Phosphoprotein Phosphatases"
+      },
+      {
+        type ec,
+        cit "3.1.3.16",
+        name "SSH1 protein, human"
+      }
+    },
+    pmid 29352327,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

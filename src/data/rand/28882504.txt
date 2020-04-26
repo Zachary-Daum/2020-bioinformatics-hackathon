@@ -1,0 +1,198 @@
+
+Pubmed-entry ::= {
+  pmid 28882504,
+  medent {
+    em std {
+      year 2017,
+      month 9,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Peroral peptide delivery: Peptidase inhibition as a key concept
+ for commercial drug products."
+      },
+      authors {
+        names std {
+          {
+            name ml "Werle M",
+            affil str "Cyprumed GmbH, Kreidweg 27, 6416 Obsteig, Austria."
+          },
+          {
+            name ml "Foger F",
+            affil str "Cyprumed GmbH, Kreidweg 27, 6416 Obsteig, Austria.
+ Electronic address: Info@cyprumed.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Bioorg. Med. Chem.",
+          ml-jta "Bioorg Med Chem",
+          issn "1464-3391",
+          name "Bioorganic & medicinal chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 1
+          },
+          volume "26",
+          issue "10",
+          pages "2906-2913",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 8,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 9,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 9,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28882504,
+        pii "S0968-0896(17)30872-6",
+        doi "10.1016/j.bmc.2017.08.028",
+        other {
+          db "ELocationID pii",
+          tag str "S0968-0896(17)30872-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bmc.2017.08.028"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Administration, Oral"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Drug Delivery Systems",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Peptide Hydrolases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Peptides",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protease Inhibitors",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proteolysis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Peptides"
+      },
+      {
+        type nameonly,
+        name "Protease Inhibitors"
+      },
+      {
+        type ec,
+        cit "3.4.-",
+        name "Peptide Hydrolases"
+      }
+    },
+    pmid 28882504,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,235 @@
+
+Pubmed-entry ::= {
+  pmid 28743126,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Frontal Cortex and Hippocampal gamma-Secretase Activating
+ Protein Levels in Prodromal Alzheimer Disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Perez SE",
+            affil str "Department of Neurobiology, Barrow Neurological
+ Institute, Phoenix, AZ, USA."
+          },
+          {
+            name ml "Nadeem M"
+          },
+          {
+            name ml "Malek-Ahmadi MH"
+          },
+          {
+            name ml "He B"
+          },
+          {
+            name ml "Mufson EJ"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neurodegener Dis",
+          ml-jta "Neurodegener Dis",
+          issn "1660-2862",
+          name "Neuro-degenerative diseases"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "17",
+          issue "6",
+          pages "235-241",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 6,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28743126,
+        pii "000477937",
+        doi "10.1159/000477937",
+        other {
+          db "pmc",
+          tag str "PMC5730491"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS885285"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1159/000477937"
+        }
+      }
+    },
+    abstract "BACKGROUND: beta-Amyloid (Abeta) is the product of concerted
+ cleavage of the amyloid precursor protein (APP) by beta- and
+ gamma-secretases. However, the molecular mechanisms that regulate this
+ process are not well understood. Recently, evidence was reported that
+ gamma-secretase activating protein (GSAP, 16 kDa), derived from a larger
+ precursor protein (98 kDa), plays a role in Abeta metabolism through a
+ mechanism involving its interaction with both gamma-secretase and APP.
+ However, a detailed evaluation of GSAP protein levels and their association
+ with clinical and neuropathological variables are lacking during the clinical
+ progression of Alzheimer disease (AD). METHODS: We quantified levels of the
+ GSAP precursor (98 kDa) and its active form (16 kDa) in the frontal cortex
+ and hippocampus, areas displaying extensive Abeta and neurofibrillary tangle
+ (NFT) pathology, in subjects who came to autopsy with a premortem clinical
+ diagnosis of noncognitive impairment, mild cognitive impairment, mild to
+ moderate AD, and severe AD using Western blotting. RESULTS: Analysis found
+ that 98-kDa GSAP levels were increased, while those of 16 kDa were reduced in
+ the frontal cortex of severe-AD subjects. By contrast, GSAP levels remained
+ stable in the hippocampus. Frontal cortex and hippocampal GSAP 98- and 16-kDa
+ levels were not associated with Abeta, NFT, and neuropathological criteria
+ across clinical groups. Interestingly, only neocortical 98-kDa GSAP values
+ showed a significant correlation with the Mini-Mental State Examination and
+ episodic memory scores. CONCLUSIONS: These data demonstrate that GSAP
+ proteins are differentially dysregulated in severe AD, but only the
+ full-length form was associated with cognitive test scores in AD.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cognitive Dysfunction",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Frontal Lobe",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hippocampus",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neuropsychological Tests"
+      },
+      {
+        mp TRUE,
+        term "Prodromal Symptoms"
+      },
+      {
+        term "Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Psychiatric Status Rating Scales"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Proteins"
+      },
+      {
+        type nameonly,
+        name "gamma-secretase activating protein, human"
+      }
+    },
+    idnum {
+      "P01 AG014449/AG/NIA NIH HHS",
+      "P30 AG010161/AG/NIA NIH HHS",
+      "P30 AG019610/AG/NIA NIH HHS",
+      "R01 AG043375/AG/NIA NIH HHS"
+    },
+    pmid 28743126,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

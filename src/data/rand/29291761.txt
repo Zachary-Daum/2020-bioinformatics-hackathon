@@ -1,0 +1,223 @@
+
+Pubmed-entry ::= {
+  pmid 29291761,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Precision Medicine for Acute Kidney Injury (AKI): Redefining AKI
+ by Agnostic Kidney Tissue Interrogation and Genetics."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kiryluk K",
+            affil str "Division of Nephrology, Department of Medicine, College
+ of Physicians and Surgeons, Columbia University, New York, NY. Electronic
+ address: kk473@columbia.edu."
+          },
+          {
+            name ml "Bomback AS",
+            affil str "Division of Nephrology, Department of Medicine, College
+ of Physicians and Surgeons, Columbia University, New York, NY."
+          },
+          {
+            name ml "Cheng YL",
+            affil str "Department of Systems Biology, College of Physicians
+ and Surgeons, Columbia University, New York, NY."
+          },
+          {
+            name ml "Xu K",
+            affil str "Division of Nephrology, Department of Medicine, College
+ of Physicians and Surgeons, Columbia University, New York, NY."
+          },
+          {
+            name ml "Camara PG",
+            affil str "Department of Systems Biology, College of Physicians
+ and Surgeons, Columbia University, New York, NY."
+          },
+          {
+            name ml "Rabadan R",
+            affil str "Department of Systems Biology, College of Physicians
+ and Surgeons, Columbia University, New York, NY."
+          },
+          {
+            name ml "Sims PA",
+            affil str "Department of Systems Biology, College of Physicians
+ and Surgeons, Columbia University, New York, NY; Department of Biochemistry
+ and Molecular Biophysics, College of Physicians and Surgeons(,) Columbia
+ University, New York, NY."
+          },
+          {
+            name ml "Barasch J",
+            affil str "Division of Nephrology, Department of Medicine, College
+ of Physicians and Surgeons, Columbia University, New York, NY."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Semin. Nephrol.",
+          ml-jta "Semin Nephrol",
+          issn "1558-4488",
+          name "Seminars in nephrology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "38",
+          issue "1",
+          pages "40-51",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29291761,
+        pii "S0270-9295(17)30101-8",
+        doi "10.1016/j.semnephrol.2017.09.006",
+        other {
+          db "pmc",
+          tag str "PMC5753434"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS905413"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0270-9295(17)30101-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.semnephrol.2017.09.006"
+        }
+      }
+    },
+    abstract "Acute kidney injury (AKI) currently is diagnosed by a temporal
+ trend of a single blood analyte: serum creatinine. This measurement is
+ neither sensitive nor specific to kidney injury or its protean forms. Newer
+ biomarkers, neutrophil gelatinase-associated lipocalin (NGAL, Lipocalin 2,
+ Siderocalin), or kidney injury molecule-1 (KIM-1, Hepatitis A Virus Cellular
+ Receptor 1), accelerate the diagnosis of AKI as well as prospectively
+ distinguish rapidly reversible from prolonged causes of serum creatinine
+ increase. Nonetheless, these biomarkers lack the capacity to subfractionate
+ AKI further (eg, sepsis versus ischemia versus nephrotoxicity from
+ medications, enzymes, or metals) or inform us about the primary and secondary
+ sites of injury. It also is unknown whether all nephrons are injured in AKI,
+ whether all cells in a nephron are affected, and whether injury responses can
+ be stimulus-specific or cell type-specific or both. In this review, we
+ summarize fully agnostic tissue interrogation approaches that may help to
+ redefine AKI in cellular and molecular terms, including single-cell and
+ single-nuclei RNA sequencing technology. These approaches will empower a
+ shift in the current paradigm of AKI diagnosis, classification, and staging,
+ and provide the renal community with a significant advance toward precision
+ medicine in the analysis AKI.",
+    mesh {
+      {
+        term "Acute Kidney Injury",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Creatinine",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Precision Medicine"
+      },
+      {
+        term "Quantitative Trait Loci"
+      },
+      {
+        term "Sequence Analysis, RNA"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "AYI8EX34EU",
+        name "Creatinine"
+      }
+    },
+    idnum {
+      "R01 DK105124/DK/NIDDK NIH HHS",
+      "R01 DK092684/DK/NIDDK NIH HHS",
+      "T32 DK007647/DK/NIDDK NIH HHS",
+      "R01 DK073462/DK/NIDDK NIH HHS",
+      "U54 DK104309/DK/NIDDK NIH HHS",
+      "UG3 DK114926/DK/NIDDK NIH HHS",
+      "T32 DK108741/DK/NIDDK NIH HHS",
+      "R01 MD009223/MD/NIMHD NIH HHS",
+      "UL1 TR001873/TR/NCATS NIH HHS"
+    },
+    pmid 29291761,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,252 @@
+
+Pubmed-entry ::= {
+  pmid 28694390,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "In vitro susceptibility of geographically and temporally
+ distinct Zika viruses to favipiravir and ribavirin."
+      },
+      authors {
+        names std {
+          {
+            name ml "Baz M",
+            affil str "Research Center in Infectious Diseases of the CHU of
+ Quebec and Laval University, Quebec City, QC, Canada."
+          },
+          {
+            name ml "Goyette N",
+            affil str "Research Center in Infectious Diseases of the CHU of
+ Quebec and Laval University, Quebec City, QC, Canada."
+          },
+          {
+            name ml "Griffin BD",
+            affil str "Special Pathogens Program, National Microbiology
+ Laboratory, Public Health Agency of Canada, Winnipeg, MB, Canada."
+          },
+          {
+            name ml "Kobinger GP",
+            affil str "Research Center in Infectious Diseases of the CHU of
+ Quebec and Laval University, Quebec City, QC, Canada.; Department of
+ Pathology and Laboratory Medicine, University of Pennsylvania School of
+ Medicine, Philadelphia, PA, USA."
+          },
+          {
+            name ml "Boivin G",
+            affil str "Research Center in Infectious Diseases of the CHU of
+ Quebec and Laval University, Quebec City, QC, Canada."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Antivir. Ther. (Lond.)",
+          ml-jta "Antivir Ther",
+          issn "2040-2058",
+          name "Antiviral therapy"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "22",
+          issue "7",
+          pages "613-618",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 5,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28694390,
+        doi "10.3851/IMP3180",
+        other {
+          db "ELocationID doi",
+          tag str "10.3851/IMP3180"
+        }
+      }
+    },
+    abstract "BACKGROUND: Zika virus, a previously neglected mosquito-borne
+ virus, is prompting worldwide concern because of its connection with
+ congenital defects, Guillain-Barre syndrome, meningoencephalitis and myelitis
+ in infected individuals. However, no specific antiviral therapy is available
+ at present. In this study, we investigated the in vitro susceptibility of
+ geographically and temporally distinct Zika viruses against the RNA
+ polymerase inhibitors, favipiravir (T-705) and ribavirin. METHODS: The in
+ vitro activity of each drug and a 1:1 mixture combination was assessed
+ against five geographically and temporally distinct Zika strains by plaque
+ reduction assay (PRA), the gold standard phenotypic method. RESULTS: We
+ showed that both drugs exhibit in vitro inhibitory activity against five
+ different Zika strains isolated in different years and continents, with mean
+ 50% inhibitory concentration (IC50) values of 35 +/-14 and 35 +/-20 microM,
+ respectively, by PRA. We did not observe a synergistic effect when both drugs
+ were combined at the equimolar concentration (IC50 =33 +/-11 microM).
+ CONCLUSIONS: These results indicate that T-705 has the potential to be used
+ in patients with complicated diseases and/or those individuals presenting
+ with significant comorbidities.",
+    mesh {
+      {
+        term "Amides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antiviral Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Chlorocebus aethiops"
+      },
+      {
+        term "Drug Synergism"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inhibitory Concentration 50"
+      },
+      {
+        term "Microbial Sensitivity Tests"
+      },
+      {
+        term "Pyrazines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Ribavirin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Spatio-Temporal Analysis"
+      },
+      {
+        term "Vero Cells"
+      },
+      {
+        term "Zika Virus",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Zika Virus Infection",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Amides"
+      },
+      {
+        type nameonly,
+        name "Antiviral Agents"
+      },
+      {
+        type nameonly,
+        name "Pyrazines"
+      },
+      {
+        type cas,
+        cit "49717AWG6K",
+        name "Ribavirin"
+      },
+      {
+        type cas,
+        cit "EW5GL2X7E0",
+        name "favipiravir"
+      }
+    },
+    pmid 28694390,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

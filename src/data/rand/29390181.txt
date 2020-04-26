@@ -1,0 +1,168 @@
+
+Pubmed-entry ::= {
+  pmid 29390181,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Competition between Naegleria fowleri and Free Living Amoeba
+ Colonizing Laboratory Scale and Operational Drinking Water Distribution
+ Systems."
+      },
+      authors {
+        names std {
+          {
+            name ml "Miller HC",
+            affil str "CSIRO Land and Water , Private Bag No. 5 , Wembley ,
+ Western Australia 6913 , Australia.; School of Biomedical Sciences ,
+ University of Western Australia , 35 Stirling Highway , Crawley , Western
+ Australia 6009 , Australia."
+          },
+          {
+            name ml "Wylie JT",
+            affil str "CSIRO Land and Water , Private Bag No. 5 , Wembley ,
+ Western Australia 6913 , Australia."
+          },
+          {
+            name ml "Kaksonen AH",
+            affil str "CSIRO Land and Water , Private Bag No. 5 , Wembley ,
+ Western Australia 6913 , Australia.; School of Biomedical Sciences ,
+ University of Western Australia , 35 Stirling Highway , Crawley , Western
+ Australia 6009 , Australia."
+          },
+          {
+            name ml "Sutton D",
+            affil str "School of Biomedical Sciences , University of Western
+ Australia , 35 Stirling Highway , Crawley , Western Australia 6009 ,
+ Australia."
+          },
+          {
+            name ml "Puzon GJ",
+            affil str "CSIRO Land and Water , Private Bag No. 5 , Wembley ,
+ Western Australia 6913 , Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ. Sci. Technol.",
+          ml-jta "Environ Sci Technol",
+          issn "1520-5851",
+          name "Environmental science & technology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 6
+          },
+          volume "52",
+          issue "5",
+          pages "2549-2557",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29390181,
+        doi "10.1021/acs.est.7b05717",
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acs.est.7b05717"
+        }
+      }
+    },
+    abstract "Free living amoebae (FLA), including pathogenic Naegleria
+ fowleri, can colonize and grow within pipe wall biofilms of drinking water
+ distribution systems (DWDSs). Studies on the interactions between various FLA
+ species in biofilms are limited. Understanding the interaction between FLA
+ and the broader biofilm ecology could help better predict DWDS susceptibility
+ to N. fowleri colonization. The aim of this study was to determine if N.
+ fowleri and other FLAs ( Naegleria, Vermamoeba, Willaertia, and Vahlkampfia
+ spp.) cocolonize DWDS biofilm. FLAs commonly isolated from DWDSs ( N.
+ fowleri, V. vermiformis, and N. lovaniensis) were introduced into
+ laboratory-scale biomonitors to determine the impact of these amoebae on N.
+ fowleri's presence and viability. Over 18 months, a single viable amoebae (
+ N. fowleri, N. lovaniensis, or V. vermiformis) was detected in each biofilm
+ sample, with the exception of N. lovaniensis and N. fowleri, which briefly
+ cocolonized biofilm following their coinoculation. The analysis of biofilm
+ and bulk water samples from operational DWDSs revealed a similar lack of
+ cocolonization with a single FLA detected in 99% ( n = 242) of samples.
+ Interestingly, various Naegleria spp. did colonize the same DWDS locations
+ but at different times. This knowledge furthers the understanding of
+ ecological factors which enable N. fowleri to colonize and survive within
+ operational DWDSs and could aid water utilities to control its occurrence.",
+    mesh {
+      {
+        mp TRUE,
+        term "Amoeba"
+      },
+      {
+        term "Biofilms"
+      },
+      {
+        mp TRUE,
+        term "Drinking Water"
+      },
+      {
+        term "Ecology"
+      },
+      {
+        mp TRUE,
+        term "Naegleria fowleri"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Drinking Water"
+      }
+    },
+    pmid 29390181,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

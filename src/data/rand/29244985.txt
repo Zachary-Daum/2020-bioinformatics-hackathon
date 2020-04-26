@@ -1,0 +1,218 @@
+
+Pubmed-entry ::= {
+  pmid 29244985,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Malignancy-Related Hypercalcemia in Advanced Solid Tumors:
+ Survival Outcomes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ramos REO",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Perez Mak M",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Alves MFS",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Piotto GHM",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Takahashi TK",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Gomes da Fonseca L",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Silvino MCM",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "Hoff PM",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          },
+          {
+            name ml "de Castro G Jr",
+            affil str "All authors: Instituto do Cancer do Estado de Sao
+ Paulo, Sao Paulo, Brazil."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Glob Oncol",
+          ml-jta "J Glob Oncol",
+          issn "2378-9506",
+          name "Journal of global oncology"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 12
+          },
+          volume "3",
+          issue "6",
+          pages "728-733",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29244985,
+        doi "10.1200/JGO.2016.006890",
+        other {
+          db "pmc",
+          tag str "PMC5735968"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1200/JGO.2016.006890"
+        }
+      }
+    },
+    abstract "Purpose Malignancy-related hypercalcemia (MRH) is associated
+ with a dismal prognosis. The widespread use of bisphosphonates (BPs),
+ availability of more effective drugs in cancer treatment, and improvement in
+ supportive care might have attenuated its impact. Patients and Methods To
+ assess overall survival (OS) of patients with MRH in a contemporary setting,
+ we conducted a retrospective analysis of 306 patients with solid cancer
+ hospitalized for symptomatic hypercalcemia. A multivariable Cox proportional
+ hazards regression model was performed to evaluate possible prognostic
+ factors associated with MRH. Results All patients had serum ionized calcium >
+ 5.5 mg/dL or total Ca > 10.5 mg/dL. Median age was 57 years, and the majority
+ had squamous cell carcinoma (62%) and Eastern Cooperative Oncology Group
+ performance status > 1 (96%). Head and neck was the most frequent primary
+ site (28%). Forty-five percent had no previous chemotherapy (CT), and
+ subsequent CT was administered to 32%. Eighty-three percent received BP with
+ no survival gain. Median OS was 40 (95% CI, 33 to 47) days. Patients with a
+ performance status > 2, altered mental status, C-reactive protein > 30 mg/L,
+ albumin < 2.5 g/dL, or body mass index < 18 kg/m(2) had significantly poorer
+ survival in a univariable analysis, and longer OS was related to
+ treatment-naive patients, subsequent CT, and breast primary site. In the
+ multivariable analysis, subsequent CT led to a median OS improvement of 144
+ versus 25 days (hazard ratio, 0.24; 95% CI, 0.14 to 0.40; P < .001).
+ Conclusion In a contemporary setting, MRH remains a marker of poor prognosis.
+ Patients treated with CT had better survival, which suggests that appropriate
+ treatment of selected patients might alter the course of this syndrome.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypercalcemia",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Survival Analysis"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29244985,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

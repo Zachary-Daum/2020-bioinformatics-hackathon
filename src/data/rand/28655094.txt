@@ -1,0 +1,200 @@
+
+Pubmed-entry ::= {
+  pmid 28655094,
+  medent {
+    em std {
+      year 2017,
+      month 6,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[A retrospective analysis of clinical characteristics and
+ prognostic factors for 124 cases of primary gastric lymphomas]."
+      },
+      authors {
+        names std {
+          {
+            name ml "He Y",
+            affil str "Department of Hematology, Nanjing Medical University
+ First Affiliated Hospital, Jiangsu Provincial People Hospital, Nanjing
+ 210029, China."
+          },
+          {
+            name ml "Wang L"
+          },
+          {
+            name ml "Zhu HY"
+          },
+          {
+            name ml "Liang JH"
+          },
+          {
+            name ml "Wu W"
+          },
+          {
+            name ml "Wu JZ"
+          },
+          {
+            name ml "Xia Y"
+          },
+          {
+            name ml "Cao L"
+          },
+          {
+            name ml "Fan L"
+          },
+          {
+            name ml "Li JY"
+          },
+          {
+            name ml "Xu W"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Zhonghua Xue Ye Xue Za Zhi",
+          ml-jta "Zhonghua Xue Ye Xue Za Zhi",
+          issn "0253-2727",
+          name "Zhonghua xue ye xue za zhi = Zhonghua xueyexue zazhi"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 6,
+            day 14
+          },
+          volume "38",
+          issue "6",
+          pages "505-510",
+          language "chi",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 6,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28655094,
+        doi "10.3760/cma.j.issn.0253-2727.2017.06.008",
+        other {
+          db "ELocationID doi",
+          tag str "10.3760/cma.j.issn.0253-2727.2017.06.008"
+        }
+      }
+    },
+    abstract "Objective: To analyze the clinical characteristics, treatment
+ and prognosis of primary gastric lymphomas (PGL). Methods: A retrospective
+ study was conducted in 124 cases of PGL from July 2009 to January 2016 in our
+ hospital, and the clinical records, pathological and immunohistochemical
+ features were analyzed. The relationship between different factors at
+ diagnosis and prognosis were studied. Results: 124 cases of PGL included 93
+ diffuse large B cell lymphoma (DLBCL) patients, 25 mucosa associated lymphoid
+ tissue (MALT) lymphoma cases, 1 mantle cell lymphoma, 4 peripheral T-cell
+ lymphoma-not otherwise specified, and 1 extra-nodal NK/T-cell lymphoma-nasal
+ type. Of the 93 primary gastric DLBCL (PG-DLBCL) patients, the germinal
+ center B cell-like (GCB) DLBCL were 45 cases, non-GCB DLBCL were 48 cases. 10
+ cases (10.8%) of 93 PG-DLBCL were transformed from gastric MALT, and 7 cases
+ (7.5%) have bone marrow involvement. Evidence of Helicobacter pylori
+ infection was detected in 21 cases (51.2%) of 41 DLBCL patients and in 10
+ cases (43.5%) of 23 MALT patients. Univariate analysis revealed that clinical
+ stages (P=0.002) , B symptoms (P=0.001) , international prognostic index
+ (IPI) score (P<0.001) , anemia (P<0.001) , low level of serum albumin level
+ (P=0.001) , high level of lactate dehydrogenase (LDH) (P<0.001) , high
+ beta2-microglobulin (P=0.003) , chemotherapy uncombined with rituximab
+ (P=0.006) were factors affecting progression-free survival (PFS).
+ Multivariate Cox regression analysis indicated that clinical stages
+ (HR=5.113, 95% CI 1.087-24.048, P=0.039) and LDH (HR=5.111, 95%CI
+ 1.651-15.827, P=0.005) were independent poor prognosis factors affecting PFS.
+ In the non-GCB group, the PFS was significantly extended (P=0.013) , the OS
+ has no statistical significance (P=0.764). The PFS was significantly
+ shortened in MALT transformed to DLBCL compared with MALT lymphoma patients
+ (P=0.016) , but have no statistical significance compared with DLBCL patients
+ (P=0.373). Conclusions: The types of DLBCL and MALT are more common in PGL.
+ PG-DLBCL is a highly heterogeneous malignant tumor, and advanced clinical
+ stages and high LDH value are associated with poor outcome.",
+    mesh {
+      {
+        term "Disease-Free Survival"
+      },
+      {
+        term "Germinal Center"
+      },
+      {
+        term "Helicobacter Infections"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lymphoma, B-Cell, Marginal Zone"
+      },
+      {
+        term "Lymphoma, Large B-Cell, Diffuse"
+      },
+      {
+        mp TRUE,
+        term "Lymphoma, Non-Hodgkin"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Rituximab"
+      },
+      {
+        mp TRUE,
+        term "Stomach Neoplasms"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "4F4X42SYQ6",
+        name "Rituximab"
+      }
+    },
+    pmid 28655094,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

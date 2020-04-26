@@ -1,0 +1,228 @@
+
+Pubmed-entry ::= {
+  pmid 29361793,
+  medent {
+    em std {
+      year 2018,
+      month 1,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Association of Food Consumption Scores, Body Shape Index,
+ and Hypertension in a Seven-Year Follow-Up among Indonesian Adults: A
+ Longitudinal Study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Isaura ER",
+            affil str "School of Nutrition and Health Sciences, College of
+ Nutrition, Taipei Medical University, Taipei 11041, Taiwan.
+ d507103003@tmu.edu.tw."
+          },
+          {
+            name ml "Chen YC",
+            affil str "School of Nutrition and Health Sciences, College of
+ Nutrition, Taipei Medical University, Taipei 11041, Taiwan.
+ melisa26@gmail.com.; Department of Family Medicine, Taipei City Hospital,
+ ZhongXing Branch, Taipei 10341, Taiwan. melisa26@gmail.com."
+          },
+          {
+            name ml "Yang SH",
+            affil str "School of Nutrition and Health Sciences, College of
+ Nutrition, Taipei Medical University, Taipei 11041, Taiwan.
+ sherry@tmu.edu.tw.; Nutrition Research Center, Taipei Medical University
+ Hospital, Taipei 11041, Taiwan. sherry@tmu.edu.tw."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Environ Res Public Health",
+          ml-jta "Int J Environ Res Public Health",
+          issn "1660-4601",
+          name "International journal of environmental research and public
+ health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 22
+          },
+          volume "15",
+          issue "1",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29361793,
+        pii "ijerph15010175",
+        doi "10.3390/ijerph15010175",
+        other {
+          db "pmc",
+          tag str "PMC5800274"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E175"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijerph15010175"
+        }
+      }
+    },
+    abstract "Aims: The concept of food security and its association with
+ chronic diseases are both well-established. During the years within the scope
+ of the study, there was a significant increase in the body shape index (ABSI)
+ of Indonesian adults. This study tested the hypothesis that the association
+ between food security and chronic diseases is mediated, in part, by ABSI.
+ Methods: Data was obtained from 2156 Indonesian adults using the Indonesia
+ Family Life Survey (IFLS) in 2007 and 2014. Longitudinal study participants
+ were interviewed face-to-face for dietary intake data using the food
+ frequency questionnaire (FFQ). Food security, a concept developed by the
+ World Food Programme (WFP), was calculated based on a food consumption score
+ analysis using the FFQ. A generalized estimating equation (GEE) and a
+ Sobel-Goodman test were used to test the hypothesis in this study. Results:
+ The food consumption score was negatively associated with ABSI. It was also
+ negatively associated with systolic blood pressure (p < 0.001). In a formal
+ mediation analysis, ABSI significantly mediated the pathway between the food
+ consumption score and systolic blood pressure (p < 0.001). Conclusions: The
+ effect of food security on hypertension is mediated through body shape.
+ Strategies to improve the prevention of hypertension among adults may need to
+ take the ABSI and food security, along with nutrition education, into account.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Blood Pressure"
+      },
+      {
+        mp TRUE,
+        term "Body Composition"
+      },
+      {
+        mp TRUE,
+        term "Eating"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        mp TRUE,
+        term "Food Supply"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypertension",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Indonesia",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29361793,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

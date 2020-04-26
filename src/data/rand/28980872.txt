@@ -1,0 +1,254 @@
+
+Pubmed-entry ::= {
+  pmid 28980872,
+  medent {
+    em std {
+      year 2017,
+      month 10,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Arsenic trioxide inhibits cell growth and motility via
+ up-regulation of let-7a in breast cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shi Y",
+            affil str "a Department of Biochemistry and Molecular Biology ,
+ Bengbu Medical College, Bengbu , Anhui , China."
+          },
+          {
+            name ml "Cao T",
+            affil str "b Research Center of Clinical Laboratory Science ,
+ Bengbu Medical College , Bengbu , Anhui , China."
+          },
+          {
+            name ml "Huang H",
+            affil str "a Department of Biochemistry and Molecular Biology ,
+ Bengbu Medical College, Bengbu , Anhui , China."
+          },
+          {
+            name ml "Lian C",
+            affil str "a Department of Biochemistry and Molecular Biology ,
+ Bengbu Medical College, Bengbu , Anhui , China."
+          },
+          {
+            name ml "Yang Y",
+            affil str "a Department of Biochemistry and Molecular Biology ,
+ Bengbu Medical College, Bengbu , Anhui , China."
+          },
+          {
+            name ml "Wang Z",
+            affil str "a Department of Biochemistry and Molecular Biology ,
+ Bengbu Medical College, Bengbu , Anhui , China.; c Department of Pathology ,
+ Beth Israel Deaconess Medical Center , Harvard Medical School , Boston , MA ,
+ USA.; d The Cyrus Tang Hematology Center and Collaborative Innovation Center
+ of Hematology , Soochow University , Suzhou , Jiangsu , China."
+          },
+          {
+            name ml "Ma J",
+            affil str "a Department of Biochemistry and Molecular Biology ,
+ Bengbu Medical College, Bengbu , Anhui , China."
+          },
+          {
+            name ml "Xia J",
+            affil str "a Department of Biochemistry and Molecular Biology ,
+ Bengbu Medical College, Bengbu , Anhui , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Cell Cycle",
+          ml-jta "Cell Cycle",
+          issn "1551-4005",
+          name "Cell cycle (Georgetown, Tex.)"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "16",
+          issue "24",
+          pages "2396-2403",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 10,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28980872,
+        doi "10.1080/15384101.2017.1387699",
+        other {
+          db "pmc",
+          tag str "PMC5788432"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/15384101.2017.1387699"
+        }
+      }
+    },
+    abstract "Arsenic trioxide (ATO) has been reported to exert its
+ anti-cancer activities in human cancers. However, the molecular mechanism of
+ ATO-triggered anti-tumor activity has not been fully elucidated. Recently,
+ multiple studies demonstrated that ATO could regulate miRNAs in human
+ cancers. Therefore, in this study, we investigated whether ATO regulated
+ let-7a in breast cancer cells. We found that ATO upregulated let-7a level in
+ breast cancer cells. We also found that up-regulation of let-7a inhibited
+ cell growth and induced apoptosis and retarded cell migration and invasion.
+ We also observed that up-regulation of let-7a enhanced cell growth inhibition
+ and invasion suppression induced by ATO treatment. Our findings suggest that
+ ATO suppressed cell growth, stimulated apoptosis, and retarded cell invasion
+ partly via upregulation of let-7a in breast cancer cells. Our study provides
+ a new anti-tumor mechanism of ATO treatment in breast cancer.",
+    mesh {
+      {
+        term "Apoptosis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Arsenic Trioxide",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MCF-7 Cells"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Up-Regulation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "mirnlet7 microRNA, human"
+      },
+      {
+        type cas,
+        cit "S7V92P67HO",
+        name "Arsenic Trioxide"
+      }
+    },
+    pmid 28980872,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

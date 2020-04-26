@@ -1,0 +1,218 @@
+
+Pubmed-entry ::= {
+  pmid 28745013,
+  medent {
+    em std {
+      year 2017,
+      month 7,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Moving alcohol prevention research forward-Part II: new
+ directions grounded in community-based system dynamics modeling."
+      },
+      authors {
+        names std {
+          {
+            name ml "Apostolopoulos Y",
+            affil str "Complexity and Computational Population Health Group,
+ Texas A&M University, College Station, TX, USA.; Department of Health and
+ Kinesiology, Texas A&M University, College Station, TX, USA."
+          },
+          {
+            name ml "Lemke MK",
+            affil str "Complexity and Computational Population Health Group,
+ Texas A&M University, College Station, TX, USA.; Department of Health and
+ Kinesiology, Texas A&M University, College Station, TX, USA."
+          },
+          {
+            name ml "Barry AE",
+            affil str "Department of Health and Kinesiology, Texas A&M
+ University, College Station, TX, USA."
+          },
+          {
+            name ml "Lich KH",
+            affil str "Department of Health Policy and Management, University
+ of North Carolina Chapel Hill, Chapel Hill, NC, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Addiction",
+          ml-jta "Addiction",
+          issn "1360-0443",
+          name "Addiction (Abingdon, England)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "113",
+          issue "2",
+          pages "363-371",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 10,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 1,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 7,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 7,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 28745013,
+        doi "10.1111/add.13953",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/add.13953"
+        }
+      }
+    },
+    abstract "BACKGROUND AND AIMS: Given the complexity of factors
+ contributing to alcohol misuse, appropriate epistemologies and methodologies
+ are needed to understand and intervene meaningfully. We aimed to (1) provide
+ an overview of computational modeling methodologies, with an emphasis on
+ system dynamics modeling; (2) explain how community-based system dynamics
+ modeling can forge new directions in alcohol prevention research; and (3)
+ present a primer on how to build alcohol misuse simulation models using
+ system dynamics modeling, with an emphasis on stakeholder involvement, data
+ sources and model validation. Throughout, we use alcohol misuse among college
+ students in the United States as a heuristic example for demonstrating these
+ methodologies. METHODS: System dynamics modeling employs a top-down aggregate
+ approach to understanding dynamically complex problems. Its three
+ foundational properties-stocks, flows and feedbacks-capture non-linearity,
+ time-delayed effects and other system characteristics. As a methodological
+ choice, system dynamics modeling is amenable to participatory approaches; in
+ particular, community-based system dynamics modeling has been used to build
+ impactful models for addressing dynamically complex problems. RESULTS: The
+ process of community-based system dynamics modeling consists of numerous
+ stages: (1) creating model boundary charts, behavior-over-time-graphs and
+ preliminary system dynamics models using group model-building techniques; (2)
+ model formulation; (3) model calibration; (4) model testing and validation;
+ and (5) model simulation using learning-laboratory techniques. CONCLUSIONS:
+ Community-based system dynamics modeling can provide powerful tools for
+ policy and intervention decisions that can result ultimately in sustainable
+ changes in research and action in alcohol misuse prevention.",
+    mesh {
+      {
+        term "Alcohol Drinking in College",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Alcoholism",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Computer Simulation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Models, Theoretical"
+      },
+      {
+        mp TRUE,
+        term "Research Design"
+      },
+      {
+        term "Residence Characteristics"
+      },
+      {
+        term "Social Environment"
+      },
+      {
+        term "Students",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "United States"
+      },
+      {
+        term "Universities"
+      }
+    },
+    pmid 28745013,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 29132026,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Integrated omics analysis of root-preferred genes across diverse
+ rice varieties including Japonica and indica cultivars."
+      },
+      authors {
+        names std {
+          {
+            name ml "Moon S",
+            affil str "Graduate School of Biotechnology & Crop Biotech
+ Institute, Kyung Hee University, Yongin, 17104, Korea."
+          },
+          {
+            name ml "Chandran AKN",
+            affil str "Graduate School of Biotechnology & Crop Biotech
+ Institute, Kyung Hee University, Yongin, 17104, Korea."
+          },
+          {
+            name ml "Gho YS",
+            affil str "Graduate School of Biotechnology & Crop Biotech
+ Institute, Kyung Hee University, Yongin, 17104, Korea."
+          },
+          {
+            name ml "Park SA",
+            affil str "Graduate School of Biotechnology & Crop Biotech
+ Institute, Kyung Hee University, Yongin, 17104, Korea."
+          },
+          {
+            name ml "Kim SR",
+            affil str "Graduate School of Biotechnology & Crop Biotech
+ Institute, Kyung Hee University, Yongin, 17104, Korea."
+          },
+          {
+            name ml "Yoo YH",
+            affil str "Graduate School of Biotechnology & Crop Biotech
+ Institute, Kyung Hee University, Yongin, 17104, Korea."
+          },
+          {
+            name ml "Jung KH",
+            affil str "Graduate School of Biotechnology & Crop Biotech
+ Institute, Kyung Hee University, Yongin, 17104, Korea. Electronic address:
+ khjung2010@khu.ac.kr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Plant Physiol.",
+          ml-jta "J Plant Physiol",
+          issn "1618-1328",
+          name "Journal of plant physiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "220",
+          pages "11-23",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29132026,
+        pii "S0176-1617(17)30255-9",
+        doi "10.1016/j.jplph.2017.10.003",
+        other {
+          db "ELocationID pii",
+          tag str "S0176-1617(17)30255-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jplph.2017.10.003"
+        }
+      }
+    },
+    abstract "Plant root systems play essential roles in developmental
+ processes, such as the absorption of water and inorganic nutrients, and
+ structural support. Gene expression is affected by growth conditions and the
+ genetic background of plants. To identify highly conserved root-preferred
+ genes in rice across diverse growth conditions and varieties, we used two
+ independent meta-anatomical expression profiles based on a large collection
+ of Affymetrix and Agilent 44K microarray data sets available for public use.
+ We then identified 684 loci with root-preferred expression, which were
+ validated with in silico analysis using both meta-expression profiles. The
+ expression patterns of four candidate genes were confirmed in vivo by
+ monitoring expression of beta-glucuronidase under control of the
+ candidate-gene promoters, providing new tools to manipulate agronomic traits
+ associated with roots. We also utilized real-time PCR to examine the
+ root-preferential expression of 14 genes across four rice varieties,
+ including japonica and indica cultivars. Using a database of rice genes with
+ known functions, we identified the reported functions of 39 out of the 684
+ candidate genes. Sixteen genes are directly involved in root development,
+ while the remaining are involved in processes indirectly related to root
+ development (i.e., soil-stress tolerance or growth retardation). This
+ indicates the importance of our candidate genes for studies on root
+ development and function. Gene ontology enrichment analysis in the 
+'biological processes' category revealed that root-preferred genes in rice are
+ closely associated with nutrient transport-related genes, indicating that the
+ primary role of roots is the uptake of nutrients from soil. In addition,
+ predicted protein-protein interaction analysis suggested a molecular network
+ for root development composed of 215 interactions associated with 44
+ root-preferred or root development-related genes. Taken together, our data
+ provide an important foundation for future research on root development in
+ rice.",
+    mesh {
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        mp TRUE,
+        term "Gene Expression Regulation, Plant"
+      },
+      {
+        mp TRUE,
+        term "Genome, Plant"
+      },
+      {
+        term "Oryza",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plant Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plant Roots",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Plant Proteins"
+      }
+    },
+    pmid 29132026,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

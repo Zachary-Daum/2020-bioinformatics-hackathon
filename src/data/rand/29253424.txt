@@ -1,0 +1,165 @@
+
+Pubmed-entry ::= {
+  pmid 29253424,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Where next? The emergence of hypervirulent W meningococcus in
+ the Netherlands."
+      },
+      authors {
+        names std {
+          {
+            name ml "Broad J",
+            affil str "Oxford Vaccine Group, University of Oxford Department
+ of Paediatrics, NIHR Oxford Biomedical Research Centre, Oxford University
+ Hospitals NHS Trust, Oxford OX37LE, UK."
+          },
+          {
+            name ml "Snape MD",
+            affil str "Oxford Vaccine Group, University of Oxford Department
+ of Paediatrics, NIHR Oxford Biomedical Research Centre, Oxford University
+ Hospitals NHS Trust, Oxford OX37LE, UK. Electronic address:
+ matthew.snape@paediatrics.ox.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lancet Public Health",
+          ml-jta "Lancet Public Health",
+          issn "2468-2667",
+          name "The Lancet. Public health"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10
+          },
+          volume "2",
+          issue "10",
+          pages "e443-e444",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 8,
+                day 2
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29253424,
+        pii "S2468-2667(17)30163-9",
+        doi "10.1016/S2468-2667(17)30163-9",
+        other {
+          db "ELocationID pii",
+          tag str "S2468-2667(17)30163-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/S2468-2667(17)30163-9"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Clostridium difficile"
+      },
+      {
+        term "Disease Outbreaks"
+      },
+      {
+        term "Meningitis, Meningococcal",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Meningococcal Infections",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Neisseria meningitidis"
+      },
+      {
+        term "Netherlands"
+      },
+      {
+        mp TRUE,
+        term "Serogroup"
+      },
+      {
+        term "Serotyping"
+      },
+      {
+        term "Virulence"
+      }
+    },
+    pmid 29253424,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

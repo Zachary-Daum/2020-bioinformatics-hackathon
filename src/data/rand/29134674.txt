@@ -1,0 +1,226 @@
+
+Pubmed-entry ::= {
+  pmid 29134674,
+  medent {
+    em std {
+      year 2017,
+      month 11,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Experimental validation of two dual-energy CT methods for proton
+ therapy using heterogeneous tissue samples."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bar E",
+            affil str "Acoustics and Ionising Radiation Team, National
+ Physical Laboratory, Hampton Road, Teddington, TW11 0LW, United Kingdom.;
+ Department of Medical Physics and Biomedical Engineering, University College
+ London, Gower Street, London, WC1E 6BT, United Kingdom."
+          },
+          {
+            name ml "Lalonde A",
+            affil str "Department of Physics, Universite de Montreal, 2900
+ boul. Edouard-Montpetit, Montreal, QC, H3T 1J4, Canada."
+          },
+          {
+            name ml "Zhang R",
+            affil str "Massachusetts General Hospital, 55 Fruit St, Boston,
+ MA, 02114, USA."
+          },
+          {
+            name ml "Jee KW",
+            affil str "Massachusetts General Hospital, 55 Fruit St, Boston,
+ MA, 02114, USA."
+          },
+          {
+            name ml "Yang K",
+            affil str "Massachusetts General Hospital, 55 Fruit St, Boston,
+ MA, 02114, USA."
+          },
+          {
+            name ml "Sharp G",
+            affil str "Massachusetts General Hospital, 55 Fruit St, Boston,
+ MA, 02114, USA."
+          },
+          {
+            name ml "Liu B",
+            affil str "Massachusetts General Hospital, 55 Fruit St, Boston,
+ MA, 02114, USA."
+          },
+          {
+            name ml "Royle G",
+            affil str "Department of Medical Physics and Biomedical
+ Engineering, University College London, Gower Street, London, WC1E 6BT,
+ United Kingdom."
+          },
+          {
+            name ml "Bouchard H",
+            affil str "Department of Physics, Universite de Montreal, 2900
+ boul. Edouard-Montpetit, Montreal, QC, H3T 1J4, Canada."
+          },
+          {
+            name ml "Lu HM",
+            affil str "Massachusetts General Hospital, 55 Fruit St, Boston,
+ MA, 02114, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Med Phys",
+          ml-jta "Med Phys",
+          issn "2473-4209",
+          name "Medical physics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "45",
+          issue "1",
+          pages "48-59",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 11,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29134674,
+        doi "10.1002/mp.12666",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/mp.12666"
+        }
+      }
+    },
+    abstract "PURPOSE: The purpose of this work is to evaluate the performance
+ of dual-energy CT (DECT) for determining proton stopping power ratios (SPRs)
+ in an experimental environment and to demonstrate its potential advantages
+ over conventional single-energy CT (SECT) in clinical conditions. METHODS:
+ Water equivalent range (WER) measurements of 12 tissue-equivalent plastic
+ materials and 12 fresh animal tissue samples are performed in a 195 MeV broad
+ proton beam using the dose extinction method. SECT and DECT scans of the
+ samples are performed with a dual-source CT scanner (Siemens SOMATOM
+ Definition Flash). The methods of Schneider et al. (1996), Bourque et al.
+ (2014), and Lalonde et al. (2017) are used to predict proton SPR on SECT and
+ DECT images. From predicted SPR values, the WER of the proton beam through
+ the sample is predicted for SECT and DECT using Monte Carlo simulations and
+ compared to the measured WER. RESULTS: For homogeneous tissue-equivalent
+ plastic materials, results with DECT are consistent with experimental
+ measurements and show a systematic reduction of SPR uncertainty compared to
+ SECT, with root-mean-square errors of 1.59% versus 0.61% for SECT and DECT,
+ respectively. Measurements with heterogeneous animal samples show a clear
+ reduction of the bias on range predictions in the presence of bones, with
+ -0.88% for SECT versus -0.58% and -0.14% for both DECT methods. An
+ uncertainty budget allows isolating the effect of CT number conversion to SPR
+ and predicts improvements by DECT over SECT consistently with theoretical
+ predictions, with 0.34% and 0.31% for soft tissues and bones in the
+ experimental setup compared to 0.34% and 1.14% with the theoretical method.
+ CONCLUSIONS: The present work uses experimental measurements in a realistic
+ clinical environment to show potential benefits of DECT for proton therapy
+ treatment planning. Our results show clear improvements over SECT in
+ tissue-equivalent plastic materials and animal tissues. Further work towards
+ using Monte Carlo simulations for treatment planning with DECT data and a
+ more detailed investigation of the uncertainties on I-value and limitations
+ on the Bragg additivity rule could potentially further enhance the benefits
+ of this imaging technology for proton therapy.",
+    mesh {
+      {
+        term "Monte Carlo Method"
+      },
+      {
+        mp TRUE,
+        term "Proton Therapy"
+      },
+      {
+        term "Radiometry"
+      },
+      {
+        term "Radiotherapy Dosage"
+      },
+      {
+        mp TRUE,
+        term "Radiotherapy, Image-Guided"
+      },
+      {
+        term "Tomography, X-Ray Computed",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 29134674,
+    pub-type {
+      "Journal Article",
+      "Validation Study"
+    },
+    status medline
+  }
+}
+
+

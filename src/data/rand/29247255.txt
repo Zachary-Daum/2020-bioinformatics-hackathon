@@ -1,0 +1,156 @@
+
+Pubmed-entry ::= {
+  pmid 29247255,
+  medent {
+    em std {
+      year 2017,
+      month 12,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Adequate prescription and application of topicals : How to
+ calculate the right volume for the prescription of ointment needed?]",
+        trans "Passende Verordnungsmenge und Applikation von Topika : Wie kann
+ das richtige Volumen bei der Verordnung ermittelt werden?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Homayoon D",
+            affil str "Institut fur Versorgungsforschung in der Dermatologie
+ und bei Pflegeberufen (IVDP), Universitatsklinikum Hamburg-Eppendorf (UKE),
+ Martinistr. 52, 20246, Hamburg, Deutschland. donja.homayoon@gmx.at."
+          },
+          {
+            name ml "Dahlhoff P",
+            affil str "Institut fur Versorgungsforschung in der Dermatologie
+ und bei Pflegeberufen (IVDP), Universitatsklinikum Hamburg-Eppendorf (UKE),
+ Martinistr. 52, 20246, Hamburg, Deutschland."
+          },
+          {
+            name ml "Augustin M",
+            affil str "Institut fur Versorgungsforschung in der Dermatologie
+ und bei Pflegeberufen (IVDP), Universitatsklinikum Hamburg-Eppendorf (UKE),
+ Martinistr. 52, 20246, Hamburg, Deutschland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Hautarzt",
+          ml-jta "Hautarzt",
+          issn "1432-1173",
+          name "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und
+ verwandte Gebiete"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "69",
+          issue "6",
+          pages "478-483",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2017,
+                month 12,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2017,
+                month 12,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29247255,
+        doi "10.1007/s00105-017-4088-z",
+        pii "10.1007/s00105-017-4088-z",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00105-017-4088-z"
+        }
+      }
+    },
+    abstract "BACKGROUND: Uncertainty regarding the suitable amount of
+ prescribed ointment and its application by patients may cause insufficient or
+ uneconomic health care provision. To address this issue, standardized methods
+ and experts' knowledge on the suitable amount and coherent patient's
+ elucidation for application of topicals are needed. OBJECTIVES: Presented are
+ current data in routine care and scientific evidence on the prescribed amount
+ of topical agents as well as its application by patients in dermatological
+ care. MATERIALS AND METHODS: A literature review was conducted via PubMed
+ using the keywords as individual and pooled search terms: ""local therapy"", 
+""topical treatment"", ""prescription"", ""amount of ointment needed"", ""invo
+lved area"", ""BSA"", ""finger-tip-unit"", ""Rule of Hand"", ""calculated
+ dosage"" and ""rule of nines"". We included original studies by manually
+ screening title and abstract according to the relevance of the topic.
+ RESULTS: The search strategy identified 19 clinical trials. The fingertip
+ unit (FTU) is the most frequently used measurement for accurate application
+ of external agents. Appropriate prescribed amount is calculated by required
+ topical agent per involved surface area. CONCLUSIONS: There is still a need
+ for clarification to which extent the optimized amount of ointment is
+ prescribed and advice for its application in routine care is given. The FTU
+ combined with the ""Rule of Hand"" is an adequate measurement for patient's
+ guidance on self-application.",
+    mesh {
+      {
+        term "Administration, Topical"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Ointments",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Ointments"
+      }
+    },
+    pmid 29247255,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

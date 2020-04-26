@@ -1,0 +1,188 @@
+
+Pubmed-entry ::= {
+  pmid 26772665,
+  medent {
+    em std {
+      year 2016,
+      month 1,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Control, Norms, and Attitudes: Differences Between Students Who
+ Do and Do Not Intervene as Bystanders to Sexual Assault."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hoxmeier JC",
+            affil str "1 Oregon State University, Corvallis, USA.; 2 Central
+ Washington University, Ellensburg, USA."
+          },
+          {
+            name ml "Flay BR",
+            affil str "1 Oregon State University, Corvallis, USA."
+          },
+          {
+            name ml "Acock AC",
+            affil str "1 Oregon State University, Corvallis, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Interpers Violence",
+          ml-jta "J Interpers Violence",
+          issn "1552-6518",
+          name "Journal of interpersonal violence"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "33",
+          issue "15",
+          pages "2379-2401",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2016,
+                month 1,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2016,
+                month 1,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 26772665,
+        pii "0886260515625503",
+        doi "10.1177/0886260515625503",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0886260515625503"
+        }
+      }
+    },
+    abstract "Sexual assault is a major concern on the U.S. college campus.
+ Engaging students as pro-social bystanders has become more common as a
+ potentially effective mechanism for reducing the incidence of sexual assault
+ and mitigating the harm of assaults that have already occurred. Understanding
+ the influences of pro-social bystander behavior is imperative to developing
+ effective programs, and the use of an evidence-based theoretical framework
+ can help identify the differences between students who intervene and those
+ who do not when presented with the opportunity. A sample of 815 undergraduate
+ university students completed the Sexual Assault Bystander Behavior
+ Questionnaire, a survey based on the theory of planned behavior (TPB) that
+ investigates students' perceived behavioral control to intervene, subjective
+ norms that support intervening, attitudes toward intervening, and intent to
+ intervene in the future. Two-tailed t tests revealed interveners reported
+ significantly greater perceived behavioral control than non-interveners for
+ eight of the 12 intervention behaviors, more supportive subjective norms than
+ non-interveners for seven of the 12 intervention behaviors, more positive
+ attitudes than non-interveners for only one of the 12 intervention behaviors,
+ and greater intent to intervene in the future for six of the 12 intervention
+ behaviors. Differences in the four TPB variables were not consistent for the
+ 12 intervention behaviors. The use of a theoretical framework found to be
+ effective in explaining-and changing-other health-related behaviors, and the
+ inquiry into students' opportunities to intervene to compare against their
+ reported intervention behaviors, is new to this body of literature and
+ contributes to the understanding of the influences of pro-social bystander
+ behavior.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Attitude"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Intention"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Northwestern United States"
+      },
+      {
+        term "Sex Offenses",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Social Norms"
+      },
+      {
+        term "Students",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        term "Universities"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 26772665,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+
