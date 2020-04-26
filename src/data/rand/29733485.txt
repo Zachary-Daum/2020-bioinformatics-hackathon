@@ -1,0 +1,284 @@
+
+Pubmed-entry ::= {
+  pmid 29733485,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prednisone Pharmacokinetics During Pregnancy and Lactation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ryu RJ",
+            affil str "Department of Pharmacy, University of Washington,
+ Seattle, WA, USA."
+          },
+          {
+            name ml "Easterling TR",
+            affil str "Department of Pharmacy, University of Washington,
+ Seattle, WA, USA.; Department of Obstetrics & Gynecology, University of
+ Washington, Seattle, WA, USA."
+          },
+          {
+            name ml "Caritis SN",
+            affil str "Department of Obstetrics, Gynecology & Reproductive
+ Sciences, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            name ml "Venkataramanan R",
+            affil str "Department of Obstetrics, Gynecology & Reproductive
+ Sciences, University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            name ml "Umans JG",
+            affil str "MedStar Health Research Institute, and the
+ Georgetown-Howard, Hyattsville, MD, USA.; Universities Center for Clinical
+ and Translational Science, Washington, DC, USA."
+          },
+          {
+            name ml "Ahmed MS",
+            affil str "Department of Obstetrics and Gynecology, University of
+ Texas Medical Branch, Galveston, TX, USA."
+          },
+          {
+            name ml "Clark S",
+            affil str "Department of Obstetrics and Gynecology, University of
+ Texas Medical Branch, Galveston, TX, USA."
+          },
+          {
+            name ml "Kantrowitz-Gordon I",
+            affil str "Department of Family and Child Nursing, University of
+ Washington, Seattle, WA, USA."
+          },
+          {
+            name ml "Hays K",
+            affil str "Department of Pharmacy, University of Washington,
+ Seattle, WA, USA."
+          },
+          {
+            name ml "Bennett B",
+            affil str "Department of Pharmacy, University of Washington,
+ Seattle, WA, USA."
+          },
+          {
+            name ml "Honaker MT",
+            affil str "Department of Pharmaceutics, University of Washington,
+ Seattle, WA, USA."
+          },
+          {
+            name ml "Thummel KE",
+            affil str "Department of Pharmaceutics, University of Washington,
+ Seattle, WA, USA."
+          },
+          {
+            name ml "Shen DD",
+            affil str "Department of Pharmacy, University of Washington,
+ Seattle, WA, USA.; Department of Pharmaceutics, University of Washington,
+ Seattle, WA, USA."
+          },
+          {
+            name ml "Hebert MF",
+            affil str "Department of Pharmacy, University of Washington,
+ Seattle, WA, USA.; Department of Obstetrics & Gynecology, University of
+ Washington, Seattle, WA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Clin Pharmacol",
+          ml-jta "J Clin Pharmacol",
+          issn "1552-4604",
+          name "Journal of clinical pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "58",
+          issue "9",
+          pages "1223-1232",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29733485,
+        doi "10.1002/jcph.1122",
+        other {
+          db "pmc",
+          tag str "PMC6310475"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS1002293"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jcph.1122"
+        }
+      }
+    },
+    abstract "To evaluate the steady-state pharmacokinetics of prednisone and
+ its metabolite prednisolone in pregnant and lactating female subjects, 19
+ subjects received prednisone (4-40 mg/day orally) in early (n = 3), mid (n =
+ 9), and late (n = 13) pregnancy as well as postpartum with (n = 2) and
+ without (n = 5) lactation. Serial blood and urine samples were collected over
+ 1 dosing interval. Prednisone and its metabolite, prednisolone, steady-state
+ noncompartmental pharmacokinetic parameters were estimated. During pregnancy,
+ prednisone apparent oral clearance increased with dose (35.1 +/- 11.4 L/h
+ with 5 mg, 52.6 +/- 5.2 L/h with 10 mg, and 64.3 +/- 6.9 L/h with 20 mg, P =
+ .001). Similarly, unbound prednisone apparent oral clearance increased with
+ dose. In addition, prednisolone renal clearance increased with dose (0.3 +/-
+ 0.3 L/h with 5 mg, 0.5 +/- 0.4 L/h with 10 mg, and 1.3 +/- 1.1 L/h with 20
+ mg, P = .002). Higher prednisone (r = 0.57, P </= .05) and prednisolone (r =
+ 0.75, P </= .05) concentrations led to a higher percentage of unbound drug.
+ Breast-milk/plasma area under the concentration-time curve ratios were
+ 0.5-0.6 for prednisone and 0.02-0.03 for prednisolone. Relative infant doses
+ were 0.35% to 0.53% and 0.09% to 0.18%, for prednisone and prednisolone,
+ respectively. Prednisone and prednisolone exhibit dose- and
+ concentration-dependent pharmacokinetics during pregnancy, and infant
+ exposure to these agents via breast milk is minimal.",
+    mesh {
+      {
+        term "Area Under Curve"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Glucocorticoids",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        term "Half-Life"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Lactation"
+      },
+      {
+        term "Postpartum Period"
+      },
+      {
+        term "Prednisone",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Glucocorticoids"
+      },
+      {
+        type cas,
+        cit "VB0R961HZT",
+        name "Prednisone"
+      }
+    },
+    idnum {
+      "UL1 RR024153/RR/NCRR NIH HHS",
+      "U10 HD047905/HD/NICHD NIH HHS",
+      "UL1 TR001409/TR/NCATS NIH HHS",
+      "KL2 TR001432/TR/NCATS NIH HHS",
+      "U10 HD047890/HD/NICHD NIH HHS",
+      "U10 HD047891/HD/NICHD NIH HHS",
+      "R01 GM124264/GM/NIGMS NIH HHS",
+      "UL1 TR002319/TR/NCATS NIH HHS",
+      "UL1 TR000423/TR/NCATS NIH HHS",
+      "U10 HD047892/HD/NICHD NIH HHS"
+    },
+    pmid 29733485,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

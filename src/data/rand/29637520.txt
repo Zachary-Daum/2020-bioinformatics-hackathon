@@ -1,0 +1,221 @@
+
+Pubmed-entry ::= {
+  pmid 29637520,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Obligatory exercise and coping in treatment-seeking women with
+ poor body image."
+      },
+      authors {
+        names std {
+          {
+            name ml "Serier KN",
+            affil str "Department of Psychology, University of New Mexico,
+ MSCO3 2220, Albuquerque, NM, 87131, USA."
+          },
+          {
+            name ml "Smith JE",
+            affil str "Department of Psychology, University of New Mexico,
+ MSCO3 2220, Albuquerque, NM, 87131, USA. janellen@unm.edu."
+          },
+          {
+            name ml "Lash DN",
+            affil str "Intermountain Health Care, 3903 Harrison Blvd Suite
+ 300, Ogden, UT, 84403, USA."
+          },
+          {
+            name ml "Gianini LM",
+            affil str "Columbia University Medical Center, 180 Ft. Washington
+ Avenue, New York, NY, 10032, USA."
+          },
+          {
+            name ml "Harriger JA",
+            affil str "Social Science Division, Pepperdine University, 24255
+ Pacific Coast Highway, Malibu, CA, 90263, USA."
+          },
+          {
+            name ml "Sarafin RE",
+            affil str "Department of Psychology, University of New Mexico,
+ MSCO3 2220, Albuquerque, NM, 87131, USA."
+          },
+          {
+            name ml "Wolfe BL",
+            affil str "Eating Disorders Institute of New Mexico, 2200 Grande
+ Blvd. SE, Suite B, Rio Rancho, NM, 87124, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eat Weight Disord",
+          ml-jta "Eat Weight Disord",
+          issn "1590-1262",
+          name "Eating and weight disorders : EWD"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "23",
+          issue "3",
+          pages "331-338",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29637520,
+        doi "10.1007/s40519-018-0504-3",
+        pii "10.1007/s40519-018-0504-3",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s40519-018-0504-3"
+        }
+      }
+    },
+    abstract "PURPOSE: Obligatory exercise is characterized by continued
+ exercise despite negative consequences, and intense negative affect when
+ unable to exercise. Research suggests psychosocial differences between
+ individuals that exercise in an obligatory manner and those that do not. It
+ also has been speculated that obligatory exercise may serve coping and affect
+ regulation functions, yet these factors have not been routinely examined in
+ community women with poor body image. The purpose of the current study was to
+ investigate psychosocial differences between obligatory and non-obligatory
+ exercisers, and to examine the use of obligatory exercise as an avoidant
+ coping strategy in a sample of women with poor body image. METHODS: Women (n
+ = 70) seeking treatment for body dissatisfaction were divided into obligatory
+ and non-obligatory exercise groups based on their scores on the Obligatory
+ Exercise Questionnaire. Participants then completed an assessment battery
+ about eating pathology, body image, reasons for exercise, coping strategies,
+ and negative affect. RESULTS: Independent t test analyses indicated that
+ obligatory exercisers had significantly greater eating disorder
+ symptomatology, avoidant coping, and appearance- and mood-related reasons for
+ exercise than non-obligatory exercisers. Multiple regression analyses
+ revealed that eating disorder symptomatology and avoidant coping were
+ significant predictors of obligatory exercise. CONCLUSIONS: There are
+ distinct psychosocial differences between women with poor body image who
+ exercise in an obligatory fashion and those who do not. The current study
+ suggests that obligatory exercise may serve as an avoidant coping strategy
+ for women with poor body image. Enhancing healthy coping strategies may be an
+ important addition to body image improvement programs. LEVEL OF EVIDENCE: V,
+ cross-sectional descriptive study.",
+    mesh {
+      {
+        mp TRUE,
+        term "Adaptation, Psychological"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Body Image",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Body Weight",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Exercise",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Self Concept"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29637520,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

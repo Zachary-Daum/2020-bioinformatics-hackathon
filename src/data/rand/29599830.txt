@@ -1,0 +1,142 @@
+
+Pubmed-entry ::= {
+  pmid 29599830,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "beta-inducible gene-h3 promotes human breast carcinoma cell
+ metastasis by activating the phosphatidylinositol 3-kinase/protein kinase B
+ signaling pathway."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang J",
+            affil str "Department of Breast Surgery, Weifang People's
+ Hospital, Weifang, Shandong 261000, P.R. China."
+          },
+          {
+            name ml "Li Z",
+            affil str "Department of General Surgery Ward Two, Pingdu People's
+ Hospital, Qingdao, Shandong 266700, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Exp Ther Med",
+          ml-jta "Exp Ther Med",
+          issn "1792-0981",
+          name "Experimental and therapeutic medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "15",
+          issue "3",
+          pages "2910-2916",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 1,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 17
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29599830,
+        doi "10.3892/etm.2018.5786",
+        pii "ETM-0-0-5786",
+        other {
+          db "pmc",
+          tag str "PMC5867474"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3892/etm.2018.5786"
+        }
+      }
+    },
+    abstract "Metastatic breast cancer is one of the most common metastatic
+ tumors. Although studies have validated the role of beta-inducible gene-h3
+ (betaig-h3) in human biology and disease, the detailed mechanisms mediated by
+ betaig-h3 in breast carcinoma metastasis remain unclear. Thus, the present
+ study investigated the role and potential mechanism of betaig-h3 during
+ breast carcinoma cell metastasis. The results indicated that the upregulation
+ of betaig-h3 significantly promotes the growth and inhibits the
+ cisplatin-induced apoptosis of breast carcinoma cells. It was also
+ demonstrated that betaig-h3 promoted the migration and invasion of human
+ breast carcinoma cells in vitro and in vivo. Furthermore, the results
+ demonstrated that betaig-h3 upregulated the overall expression and
+ phosphorylation of phosphatidylinositol 3-kinase (PI3K) and protein kinase B
+ (Akt) in human breast carcinoma cells. By contrast, betaig-h3 knockdown
+ reversed the betaig-h3-mediated characteristics of breast carcinoma cells.
+ Thus, the current study demonstrated that the PI3K/Akt signaling pathway
+ serves a role in betaig-h3-induced human breast cancer cell metastasis and
+ that betaig-h3 transfection enhances the metastatic potential of human breast
+ carcinoma cells via the PI3K/Akt signaling pathway. These observations
+ contribute to the understanding of the potential mechanism of human breast
+ carcinoma cell growth and metastasis and suggest that betaig-h3 may be a
+ promising therapeutic target for the treatment of human breast carcinoma.",
+    pmid 29599830,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

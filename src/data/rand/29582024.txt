@@ -1,0 +1,143 @@
+
+Pubmed-entry ::= {
+  pmid 29582024,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Microscale mapping of extracellular matrix elasticity of mouse
+ joint cartilage: an approach to extracting bulk elasticity of soft matter
+ with surface roughness."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chandran PL ",
+            affil str "Dept. Chem. Engr., Howard University, Washington, DC,
+ USA."
+          },
+          {
+            name ml "Dimitriadis EK "
+          },
+          {
+            name ml "Mertz EL "
+          },
+          {
+            name ml "Horkay F "
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Soft Matter",
+          ml-jta "Soft Matter",
+          issn "1744-6848",
+          name "Soft matter"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 18
+          },
+          volume "14",
+          issue "15",
+          pages "2879-2892",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 28,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29582024,
+        doi "10.1039/c7sm02045g",
+        other {
+          db "pmc",
+          tag str "PMC5922260"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS955780"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1039/c7sm02045g"
+        }
+      }
+    },
+    abstract "Cartilage is composed of cells and an extracellular matrix, the
+ latter being a composite of a collagen mesh interpenetrated by proteoglycans
+ responsible for tissue osmotic swelling. The matrix composition and structure
+ vary through the tissue depth. Mapping such variability requires tissue
+ sectioning to gain access. The resulting surface roughness, and concomitant
+ proteoglycan loss contribute to large uncertainties in elastic modulus
+ estimates. To extract elasticity values for the bulk matrix which are not
+ obfuscated by the indeterminate surface layer, we developed a novel
+ experimental and data analysis methodology. We analyzed the surface roughness
+ to optimize the probe size, and performed high-resolution (1 mum) elasticity
+ mapping on thin ( approximately 12 mum), epiphyseal newborn mouse cartilage
+ sections cut parallel to the bone longitudinal axis or normal to the
+ articular surface. Mild fixation prevented the major proteoglycan loss
+ observed in unfixed specimens but not the stress release that resulted in
+ thickness changes in the sectioned matrix. Our novel data analysis method
+ introduces a virtual contact point as a fitting parameter for the Hertz
+ model, to minimize the effects of surface roughness and corrects for the
+ finite section thickness. Our estimates of cartilage elasticity converge with
+ increasing indentation depth and, unlike previous data interpretations, are
+ consistent with linearly elastic material. A high cell density that leaves
+ narrow matrix septa between cells may cause the underestimation of elastic
+ moduli, whereas fixation probably causes an overestimation. The proposed
+ methodology has broader relevance to nano- and micro-indentation of soft
+ materials with multiple length scales of organization and whenever surface
+ effects (including roughness, electrostatics, van der Waals forces, etc.)
+ become significant.",
+    idnum {
+      "Z01 HD000267-11/Intramural NIH HHS",
+      "ZIC EB000085-04/Intramural NIH HHS"
+    },
+    pmid 29582024,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,239 @@
+
+Pubmed-entry ::= {
+  pmid 29662465,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Length of SNCA Rep1 Microsatellite May Influence Cognitive
+ Evolution in Parkinson's Disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Corrado L",
+            affil str "Laboratory of Genetics, Department of Health Sciences,
+ University of Piemonte Orientale, Novara, Italy."
+          },
+          {
+            name ml "De Marchi F",
+            affil str "Section of Neurology, Department of Translational
+ Medicine, University of Piemonte Orientale, Novara, Italy."
+          },
+          {
+            name ml "Tunesi S",
+            affil str "Unit of Medical Statistics and Cancer Epidemiology,
+ Department of Translational Medicine, University of Piemonte Orientale,
+ Novara, Italy.; Center for Cancer Epidemiology and Prevention (CPO),
+ University Hospital ""Citta della Salute e della Scienza di Torino"", Turin,
+ Italy."
+          },
+          {
+            name ml "Oggioni GD",
+            affil str "Section of Neurology, Department of Translational
+ Medicine, University of Piemonte Orientale, Novara, Italy.; Parkinson's
+ Disease and Movement Disorders Center, Ospedale di Circolo Fondazione Macchi,
+ University of Insubria, Varese, Italy."
+          },
+          {
+            name ml "Carecchio M",
+            affil str "Section of Neurology, Department of Translational
+ Medicine, University of Piemonte Orientale, Novara, Italy."
+          },
+          {
+            name ml "Magistrelli L",
+            affil str "Section of Neurology, Department of Translational
+ Medicine, University of Piemonte Orientale, Novara, Italy."
+          },
+          {
+            name ml "Tesei S",
+            affil str "Parkinson Institute, ASST Gaetano Pini-CTO (Formerly
+ ICP), Milan, Italy."
+          },
+          {
+            name ml "Riboldazzi G",
+            affil str "Parkinson's Disease and Movement Disorders Center,
+ Ospedale di Circolo Fondazione Macchi, University of Insubria, Varese, Italy."
+          },
+          {
+            name ml "Di Fonzo A",
+            affil str "Neuroscience Section, Department of Pathophysiology and
+ Transplantation, IRCCS Foundation Ca' Granda Ospedale Maggiore Policlinico,
+ Dino Ferrari Center, University of Milan, Milan, Italy."
+          },
+          {
+            name ml "Locci C",
+            affil str "Laboratory of Genetics, Department of Health Sciences,
+ University of Piemonte Orientale, Novara, Italy."
+          },
+          {
+            name ml "Trezzi I",
+            affil str "Neuroscience Section, Department of Pathophysiology and
+ Transplantation, IRCCS Foundation Ca' Granda Ospedale Maggiore Policlinico,
+ Dino Ferrari Center, University of Milan, Milan, Italy."
+          },
+          {
+            name ml "Zangaglia R",
+            affil str "Parkinson's Disease and Movement Disorders Unit, C.
+ Mondino National Institute of Neurology Foundation, IRCCS, Pavia, Italy."
+          },
+          {
+            name ml "Cereda C",
+            affil str "Genomic and Post-Genomic Center, C. Mondino National
+ Institute of Neurology Foundation, IRCCS, Pavia, Italy."
+          },
+          {
+            name ml "D'Alfonso S",
+            affil str "Laboratory of Genetics, Department of Health Sciences,
+ University of Piemonte Orientale, Novara, Italy."
+          },
+          {
+            name ml "Magnani C",
+            affil str "Unit of Medical Statistics and Cancer Epidemiology,
+ Department of Translational Medicine, University of Piemonte Orientale,
+ Novara, Italy."
+          },
+          {
+            name ml "Comi GP",
+            affil str "Neuroscience Section, Department of Pathophysiology and
+ Transplantation, IRCCS Foundation Ca' Granda Ospedale Maggiore Policlinico,
+ Dino Ferrari Center, University of Milan, Milan, Italy."
+          },
+          {
+            name ml "Bono G",
+            affil str "Parkinson's Disease and Movement Disorders Center,
+ Ospedale di Circolo Fondazione Macchi, University of Insubria, Varese, Italy."
+          },
+          {
+            name ml "Pacchetti C",
+            affil str "Parkinson's Disease and Movement Disorders Unit, C.
+ Mondino National Institute of Neurology Foundation, IRCCS, Pavia, Italy."
+          },
+          {
+            name ml "Cantello R",
+            affil str "Section of Neurology, Department of Translational
+ Medicine, University of Piemonte Orientale, Novara, Italy."
+          },
+          {
+            name ml "Goldwurm S",
+            affil str "Parkinson Institute, ASST Gaetano Pini-CTO (Formerly
+ ICP), Milan, Italy."
+          },
+          {
+            name ml "Comi C",
+            affil str "Section of Neurology, Department of Translational
+ Medicine, University of Piemonte Orientale, Novara, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Front Neurol",
+          ml-jta "Front Neurol",
+          issn "1664-2295",
+          name "Frontiers in neurology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 29
+          },
+          volume "9",
+          pages "213",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 18,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29662465,
+        doi "10.3389/fneur.2018.00213",
+        other {
+          db "pmc",
+          tag str "PMC5890103"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3389/fneur.2018.00213"
+        }
+      }
+    },
+    abstract "Background: Alpha-synuclein is a constituent of Lewy bodies and
+ mutations of its gene cause familial Parkinson's disease (PD). A previous
+ study showed that a variant of the alpha-synuclein gene (SNCA), namely the
+ 263 bp allele of Rep1 was associated with faster motor progression in PD. On
+ the contrary, a recent report failed to detect a detrimental effect of Rep1
+ 263 on both motor and cognitive outcomes in PD. Aim of this study was to
+ evaluate the influence of the Rep1 variants on disease progression in PD
+ patients. Methods: We recruited and genotyped for SNCA Rep1 426 PD patients
+ with age at onset >/=40 years and disease duration >/=4 years. We then
+ analyzed frequency and time of occurrence of wearing-off, dyskinesia,
+ freezing of gait, visual hallucinations, and dementia using a multivariate
+ Cox's proportional hazards regression model. Results: SNCA Rep1 263 carriers
+ showed significantly increased risk of both dementia (HR = 3.03) and visual
+ hallucinations (HR = 2.69) compared to 263 non-carriers. Risk of motor
+ complications did not differ in the two groups. Conclusion: SNCA Rep1 263
+ allele is associated with a worse cognitive outcome in PD.",
+    pmid 29662465,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

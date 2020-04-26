@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 29981143,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Genetic Transformation of Pentalinon andrieuxii Tissue Cultures."
+      },
+      authors {
+        names std {
+          {
+            name ml "Burgos-May Y",
+            affil str "Unidad de Bioquimica y Biologia Molecular de Plantas,
+ Centro de Investigacion Cientifica de Yucatan, Merida, Yucatan, Mexico."
+          },
+          {
+            name ml "Aviles-Berzunza E",
+            affil str "Unidad de Bioquimica y Biologia Molecular de Plantas,
+ Centro de Investigacion Cientifica de Yucatan, Merida, Yucatan, Mexico."
+          },
+          {
+            name ml "Pena-Rodriguez LM",
+            affil str "Unidad de Biotecnologia, Centro de Investigacion
+ Cientifica de Yucatan, Merida, Yucatan, Mexico."
+          },
+          {
+            name ml "Godoy-Hernandez G",
+            affil str "Unidad de Bioquimica y Biologia Molecular de Plantas,
+ Centro de Investigacion Cientifica de Yucatan, Merida, Yucatan, Mexico.
+ ggodoy@cicy.mx."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Methods Mol. Biol.",
+          ml-jta "Methods Mol Biol",
+          issn "1940-6029",
+          name "Methods in molecular biology (Clifton, N.J.)"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "1815",
+          pages "475-492",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29981143,
+        doi "10.1007/978-1-4939-8594-4_33",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/978-1-4939-8594-4_33"
+        }
+      }
+    },
+    abstract "Pentalinon andrieuxii is a species used in Mayan traditional
+ medicine due to its biological properties. Recent studies indicate that it
+ produces a pentacyclic triterpene-denominated betulinic acid, which presents
+ various biological activities: antibacterial, antifungal, antiplasmodial,
+ anti-inflammatory, antimalarial, anticancer, leishmanicidal, and antiviral,
+ as well as steroids and sterols with leishmanicidal properties. A recent
+ study also reported the presence of urechitol A and B in the roots; these are
+ secondary metabolites whose biochemical function is as yet unknown. This
+ plant therefore represents a natural source of metabolites with potential
+ application in the pharmaceutical industry. In this chapter, a protocol is
+ described for obtaining transgenic plants, at the reporter gene of the
+ beta-glucuronidase (GUS) via Agrobacterium tumefaciens from hypocotyl and
+ root explants. The protocol established herein could be employed for the
+ manipulation of the genes involved in the biosynthesis of isoprenoids or
+ secondary metabolites of interest. To our knowledge, this is the first report
+ of stable transformation of Pentalinon andrieuxii via Agrobacterium
+ tumefaciens.",
+    mesh {
+      {
+        term "Adaptation, Physiological"
+      },
+      {
+        term "Agrobacterium tumefaciens",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apocynaceae",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Culture Media",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Genes, Reporter"
+      },
+      {
+        term "Germination",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Glucuronidase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hypocotyl",
+        qual {
+          {
+            subh "growth & development"
+          }
+        }
+      },
+      {
+        term "Kanamycin",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Plant Shoots",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Plasmids",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polymerase Chain Reaction"
+      },
+      {
+        term "Seeds",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Tissue Culture Techniques",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Transformation, Genetic"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Culture Media"
+      },
+      {
+        type cas,
+        cit "59-01-8",
+        name "Kanamycin"
+      },
+      {
+        type ec,
+        cit "3.2.1.31",
+        name "Glucuronidase"
+      }
+    },
+    pmid 29981143,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

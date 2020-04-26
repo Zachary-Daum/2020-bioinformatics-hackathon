@@ -1,0 +1,233 @@
+
+Pubmed-entry ::= {
+  pmid 29544726,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Altered task-dependent functional connectivity patterns during
+ subjective recollection experiences of episodic retrieval in postpartum women."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nah Y",
+            affil str "Department of Psychology, Yonsei University, Seoul
+ 03722, Republic of Korea; Integrated Neurocognitive Functional Imaging
+ Center, Yonsei University, Seoul 03722, Republic of Korea. Electronic
+ address: yoonjin.nah@jhu.edu."
+          },
+          {
+            name ml "Shin NY",
+            affil str "Department of Radiology, College of Medicine, The
+ Catholic University of Korea, Seoul 06591, Republic of Korea; Department of
+ Radiology, Yonsei University College of Medicine, Seoul 03722, Republic of
+ Korea; Integrated Neurocognitive Functional Imaging Center, Yonsei
+ University, Seoul 03722, Republic of Korea."
+          },
+          {
+            name ml "Yi S",
+            affil str "Department of Psychology, New York University, New
+ York, NY 10003, USA."
+          },
+          {
+            name ml "Lee SK",
+            affil str "Department of Radiology, Yonsei University College of
+ Medicine, Seoul 03722, Republic of Korea; Integrated Neurocognitive
+ Functional Imaging Center, Yonsei University, Seoul 03722, Republic of Korea.
+ Electronic address: slee@yuhs.ac."
+          },
+          {
+            name ml "Han S",
+            affil str "Department of Psychology, Yonsei University, Seoul
+ 03722, Republic of Korea; Integrated Neurocognitive Functional Imaging
+ Center, Yonsei University, Seoul 03722, Republic of Korea. Electronic
+ address: sanghoon.han@yonsei.ac.kr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neurobiol Learn Mem",
+          ml-jta "Neurobiol Learn Mem",
+          issn "1095-9564",
+          name "Neurobiology of learning and memory"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "150",
+          pages "116-135",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29544726,
+        pii "S1074-7427(18)30063-7",
+        doi "10.1016/j.nlm.2018.03.008",
+        other {
+          db "ELocationID pii",
+          tag str "S1074-7427(18)30063-7"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.nlm.2018.03.008"
+        }
+      }
+    },
+    abstract "Numerous studies have suggested that postpartum women show a
+ decline in cognitive abilities. However, to date, no study has investigated
+ the presence of qualitative alterations in recognition memory processes in
+ postpartum women that may lead to a decline in cognitive ability. To address
+ this issue, we employed the Remember/Know procedure and functional magnetic
+ resonance imaging (fMRI). Behavioral results demonstrated that compared with
+ the matched control (CTRL) group, the postpartum (PP) group endorsed ""Rememb
+er"" less and ""Know"" more to old items. A univariate analysis of fMRI data
+ indicated lower neural activity of the subjective recollection network in the
+ PP group than in the CTRL group. We also performed a large-scale functional
+ connectivity multivariate pattern analysis (fcMVPA) using task-dependent
+ time-series to detect differences in functional connectivity patterns and
+ neural interactivity between the PP and CTRL groups. The fcMVPA results
+ revealed that the PP group exhibited altered functional connectivity patterns
+ from which machine learning algorithms could discriminate group membership
+ with 94% accuracy. Collectively, these findings demonstrated that altered
+ subjective recollection processes in the PP group during episodic memory
+ decisions are associated with diminished neural activity and abnormal
+ interactivity across the subjective recollection network. We believe that
+ this is one of the first studies demonstrating qualitative alterations in
+ recognition memory processes in postpartum women.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Brain Mapping"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        mp TRUE,
+        term "Memory, Episodic"
+      },
+      {
+        term "Nerve Net",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Neuropsychological Tests"
+      },
+      {
+        term "Postpartum Period",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      }
+    },
+    pmid 29544726,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

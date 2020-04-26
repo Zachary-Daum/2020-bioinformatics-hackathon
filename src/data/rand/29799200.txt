@@ -1,0 +1,206 @@
+
+Pubmed-entry ::= {
+  pmid 29799200,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Gating Mechanism of Aquaporin Z in Synthetic Bilayers and Native
+ Membranes Revealed by Solid-State NMR Spectroscopy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhao Y",
+            affil str "National Center for Magnetic Resonance in Wuhan, Key
+ Laboratory of Magnetic Resonance in Biological Systems, State Key Laboratory
+ of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of
+ Physics and Mathematics , Chinese Academy of Sciences , Wuhan 430071 , P.R.
+ China.; University of Chinese Academy of Sciences , Beijing 100049 , P.R.
+ China."
+          },
+          {
+            name ml "Xie H",
+            affil str "National Center for Magnetic Resonance in Wuhan, Key
+ Laboratory of Magnetic Resonance in Biological Systems, State Key Laboratory
+ of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of
+ Physics and Mathematics , Chinese Academy of Sciences , Wuhan 430071 , P.R.
+ China.; University of Chinese Academy of Sciences , Beijing 100049 , P.R.
+ China."
+          },
+          {
+            name ml "Wang L",
+            affil str "NUS Environmental Research Institute , National
+ University of Singapore , 117411 Singapore.; Department of Biological
+ Sciences , National University of Singapore , 117411 Singapore."
+          },
+          {
+            name ml "Shen Y",
+            affil str "Laboratory of Chemical Physics, National Institute of
+ Diabetes and Digestive and Kidney Diseases , National Institutes of Health ,
+ Bethesda , Maryland 20892-0520 , United States."
+          },
+          {
+            name ml "Chen W",
+            affil str "National Center for Magnetic Resonance in Wuhan, Key
+ Laboratory of Magnetic Resonance in Biological Systems, State Key Laboratory
+ of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of
+ Physics and Mathematics , Chinese Academy of Sciences , Wuhan 430071 , P.R.
+ China.; University of Chinese Academy of Sciences , Beijing 100049 , P.R.
+ China."
+          },
+          {
+            name ml "Song B",
+            affil str "National Center for Magnetic Resonance in Wuhan, Key
+ Laboratory of Magnetic Resonance in Biological Systems, State Key Laboratory
+ of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of
+ Physics and Mathematics , Chinese Academy of Sciences , Wuhan 430071 , P.R.
+ China."
+          },
+          {
+            name ml "Zhang Z",
+            affil str "National Center for Magnetic Resonance in Wuhan, Key
+ Laboratory of Magnetic Resonance in Biological Systems, State Key Laboratory
+ of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of
+ Physics and Mathematics , Chinese Academy of Sciences , Wuhan 430071 , P.R.
+ China."
+          },
+          {
+            name ml "Zheng A",
+            affil str "National Center for Magnetic Resonance in Wuhan, Key
+ Laboratory of Magnetic Resonance in Biological Systems, State Key Laboratory
+ of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of
+ Physics and Mathematics , Chinese Academy of Sciences , Wuhan 430071 , P.R.
+ China."
+          },
+          {
+            name ml "Lin Q",
+            affil str "NUS Environmental Research Institute , National
+ University of Singapore , 117411 Singapore.; Department of Biological
+ Sciences , National University of Singapore , 117411 Singapore."
+          },
+          {
+            name ml "Fu R",
+            affil str "National High Magnetic Field Laboratory , Tallahassee ,
+ Florida 32310 , United States."
+          },
+          {
+            name ml "Wang J",
+            affil str "School of Biology and Biological Engineering , South
+ China University of Technology , Guangzhou 510006 , P.R. China."
+          },
+          {
+            name ml "Yang J",
+            affil str "National Center for Magnetic Resonance in Wuhan, Key
+ Laboratory of Magnetic Resonance in Biological Systems, State Key Laboratory
+ of Magnetic Resonance and Atomic and Molecular Physics, Wuhan Institute of
+ Physics and Mathematics , Chinese Academy of Sciences , Wuhan 430071 , P.R.
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Am. Chem. Soc.",
+          ml-jta "J Am Chem Soc",
+          issn "1520-5126",
+          name "Journal of the American Chemical Society"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 27
+          },
+          volume "140",
+          issue "25",
+          pages "7885-7895",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29799200,
+        doi "10.1021/jacs.8b03446",
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/jacs.8b03446"
+        }
+      }
+    },
+    abstract "Aquaporin Z (AqpZ) is an integral membrane protein that
+ facilitates transport of water across Escherichia coli cells with a high
+ rate. Previously, R189, a highly conserved residue of the selective filter of
+ AqpZ, was proposed as a gate within the water channel on the basis of the
+ observation of both open and closed conformations of its side chain in
+ different monomers of an X-ray structure, and the observation of rapid
+ switches between the two conformations in molecular dynamic simulations.
+ However, the gating mechanism of the R189 side chain remains controversial
+ since it is unclear whether the different conformations observed in the X-ray
+ structure is due to different functional states or is a result of
+ perturbation of non-native detergent environments. Herein, in native-like
+ synthetic bilayers and native E. coli membranes, a number of solid-state NMR
+ techniques are employed to examine gating mechanism of the R189 side chain of
+ AqpZ. One R189 side-chain conformation is highly evident since only a set of
+ peaks corresponding to the R189 side chain is observed in 2D (15)N-(13)C
+ spectra. The immobility of the R189 side chain is detected by (1)H-(15)N
+ dipolar lineshapes, excluding the possibility of the rapid switches between
+ the two side-chain conformations. High-resolution monomeric structure of
+ AqpZ, determined by CS-Rosetta calculations using experimentally measured
+ distance restraints related to the R189 side chain, reveals that this side
+ chain is in an open conformation, which is further verified by its water
+ accessibility. All the solid-state NMR experimental results, combining with
+ water permeability essay, suggest a permanently open conformation of the R189
+ side chain in the synthetic bilayer and native membranes. This study provides
+ new structural insights into the gating mechanism of aquaporins and
+ highlights the significance of lipid bilayer environments in elucidating the
+ molecular mechanism of membrane proteins.",
+    pmid 29799200,
+    pub-type {
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

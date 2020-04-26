@@ -1,0 +1,220 @@
+
+Pubmed-entry ::= {
+  pmid 29473904,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sinus Bradycardia in Carriers of the SCN5A-1795insD Mutation:
+ Unraveling the Mechanism through Computer Simulations."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wilders R",
+            affil str "Department of Medical Biology, Academic Medical Center,
+ University of Amsterdam, 1105 AZ Amsterdam, The Netherlands.
+ r.wilders@amc.uva.nl."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Mol Sci",
+          ml-jta "Int J Mol Sci",
+          issn "1422-0067",
+          name "International journal of molecular sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 23
+          },
+          volume "19",
+          issue "2",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29473904,
+        pii "ijms19020634",
+        doi "10.3390/ijms19020634",
+        other {
+          db "pmc",
+          tag str "PMC5855856"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E634"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijms19020634"
+        }
+      }
+    },
+    abstract "The SCN5A gene encodes the pore-forming alpha-subunit of the ion
+ channel that carries the cardiac fast sodium current (INa). The 1795insD
+ mutation in SCN5A causes sinus bradycardia, with a mean heart rate of 70
+ beats/min in mutation carriers vs. 77 beats/min in non-carriers from the same
+ family (lowest heart rate 41 vs. 47 beats/min). To unravel the underlying
+ mechanism, we incorporated the mutation-induced changes in INa into a
+ recently developed comprehensive computational model of a single human
+ sinoatrial node cell (Fabbri-Severi model). The 1795insD mutation reduced the
+ beating rate of the model cell from 74 to 69 beats/min (from 49 to 43
+ beats/min in the simulated presence of 20 nmol/L acetylcholine). The
+ mutation-induced persistent INa per se resulted in a substantial increase in
+ beating rate. This gain-of-function effect was almost completely counteracted
+ by the loss-of-function effect of the reduction in INa conductance. The
+ further loss-of-function effect of the shifts in steady-state activation and
+ inactivation resulted in an overall loss-of-function effect of the 1795insD
+ mutation. We conclude that the experimentally identified mutation-induced
+ changes in INa can explain the clinically observed sinus bradycardia.
+ Furthermore, we conclude that the Fabbri-Severi model may prove a useful tool
+ in understanding cardiac pacemaker activity in humans.",
+    mesh {
+      {
+        term "Action Potentials"
+      },
+      {
+        term "Bradycardia",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Computer Simulation"
+      },
+      {
+        term "Heart Rate"
+      },
+      {
+        term "Heterozygote"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ion Channel Gating"
+      },
+      {
+        term "Mutation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "NAV1.5 Voltage-Gated Sodium Channel",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sinoatrial Node",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "NAV1.5 Voltage-Gated Sodium Channel"
+      },
+      {
+        type nameonly,
+        name "SCN5A protein, human"
+      }
+    },
+    pmid 29473904,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

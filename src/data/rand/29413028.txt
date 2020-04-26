@@ -1,0 +1,142 @@
+
+Pubmed-entry ::= {
+  pmid 29413028,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Nutritional Management of Gastrointestinal Diseases."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ukleja A",
+            affil str "Department of Gastroenterology and Hepatology, Beth
+ Israel Deaconess Medical Center, Harvard Medical School, 330 Brookline
+ Avenue, Boston, MA 02215, USA. Electronic address: aukleja@bidco.org."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Gastroenterol. Clin. North Am.",
+          ml-jta "Gastroenterol Clin North Am",
+          issn "1558-1942",
+          name "Gastroenterology clinics of North America"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "47",
+          issue "1",
+          pages "xv-xx",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29413028,
+        pii "S0889-8553(17)30142-5",
+        doi "10.1016/j.gtc.2017.12.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0889-8553(17)30142-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.gtc.2017.12.001"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Diet"
+      },
+      {
+        term "Diet, Gluten-Free"
+      },
+      {
+        term "Dietary Supplements"
+      },
+      {
+        term "Enteral Nutrition"
+      },
+      {
+        term "Gastrointestinal Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "diet therapy"
+          },
+          {
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Gastrointestinal Microbiome"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Nutrition Assessment"
+      },
+      {
+        term "Nutritional Status"
+      },
+      {
+        term "Parenteral Nutrition"
+      }
+    },
+    pmid 29413028,
+    pub-type {
+      "Editorial",
+      "Introductory Journal Article"
+    },
+    status medline
+  }
+}
+
+

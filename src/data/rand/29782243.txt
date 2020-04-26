@@ -1,0 +1,127 @@
+
+Pubmed-entry ::= {
+  pmid 29782243,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Thermal Hazard for MR Imaging Systems Includes All Textiles with
+ Metal."
+      },
+      authors {
+        names std {
+          {
+            name ml "Krainak DM",
+            affil str "Center of Devices and Radiological Health, U.S. Food
+ and Drug Administration, 10903 New Hampshire Ave, Silver Spring, MD 20993."
+          },
+          {
+            name ml "Delfino JG",
+            affil str "Center of Devices and Radiological Health, U.S. Food
+ and Drug Administration, 10903 New Hampshire Ave, Silver Spring, MD 20993."
+          },
+          {
+            name ml "Woods TO",
+            affil str "Center of Devices and Radiological Health, U.S. Food
+ and Drug Administration, 10903 New Hampshire Ave, Silver Spring, MD 20993."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Radiology",
+          ml-jta "Radiology",
+          issn "1527-1315",
+          name "Radiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "287",
+          issue "3",
+          pages "1081",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29782243,
+        doi "10.1148/radiol.2018180211",
+        other {
+          db "ELocationID doi",
+          tag str "10.1148/radiol.2018180211"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Hot Temperature"
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Metals"
+      },
+      {
+        mp TRUE,
+        term "Textiles"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Metals"
+      }
+    },
+    pmid 29782243,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

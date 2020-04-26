@@ -1,0 +1,225 @@
+
+Pubmed-entry ::= {
+  pmid 29791447,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Development of an RP-UHPLC-PDA method for quantification of free
+ gossypol in cottonseed cake and fungal-treated cottonseed cake."
+      },
+      authors {
+        names std {
+          {
+            name ml "Conceicao AA",
+            affil str "Instituto Multidisciplinar em Saude, Universidade
+ Federal da Bahia, Vitoria da Conquista, Bahia, Brazil.; Embrapa Agroenergia,
+ Brasilia, Federal District, Brazil."
+          },
+          {
+            name ml "Soares Neto CB",
+            affil str "Embrapa Agroenergia, Brasilia, Federal District,
+ Brazil.; Universidade de Brasilia, Brasilia, Federal District, Brazil."
+          },
+          {
+            name ml "Ribeiro JAA",
+            affil str "Embrapa Agroenergia, Brasilia, Federal District, Brazil."
+          },
+          {
+            name ml "Siqueira FG",
+            affil str "Embrapa Agroenergia, Brasilia, Federal District, Brazil."
+          },
+          {
+            name ml "Miller RNG",
+            affil str "Universidade de Brasilia, Brasilia, Federal District,
+ Brazil."
+          },
+          {
+            name ml "Mendonca S",
+            affil str "Embrapa Agroenergia, Brasilia, Federal District, Brazil."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 23
+          },
+          volume "13",
+          issue "5",
+          pages "e0196164",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 6
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29791447,
+        doi "10.1371/journal.pone.0196164",
+        pii "PONE-D-17-29432",
+        other {
+          db "pmc",
+          tag str "PMC5965856"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0196164"
+        }
+      }
+    },
+    abstract "Cottonseed cake biomass, which is a residue of oil extraction,
+ is potentially appropriate for use as animal feed, given the high mineral,
+ fibre and protein content. The presence of free gossypol, however, a toxic
+ pigment in the glands of the cotton plant, limits use of this biomass for
+ monogastric livestock. A promising method to detoxify cottonseed cake relies
+ on fermentation by fungi, which can eliminate up to 100% of gossypol. In
+ order to quantify trace levels of free gossypol in different cotton
+ materials, including cottonseed cake treated with macrofungi, a simple and
+ rapid chromatographic detection method was developed and validated. Under
+ optimized conditions, extraction was performed using 70% acetone. The extract
+ was then analysed by Ultra High-Performance Liquid Chromatography (UHPLC),
+ with gradient elution on a C18 reverse phase column KINETEX(R) (100 x 2.10
+ mm, 2.6 mum). Methanol-0.1% TFA aqueous solution was employed as mobile phase
+ and PDA detection conducted at 254 nm. The optimized method was validated by
+ analysis of specificity, linearity and range, limit of detection, limit of
+ quantification, precision and accuracy. Detection and quantification limits
+ were observed at 0.2 and 0.5 mug/mL, respectively. With good reproducibility,
+ with precision (RSD)<10% and recovery greater than 94%, the developed assay
+ was appropriate for quantification of low quantities of free gossypol. The
+ validated method was successfully applied to determine trace levels of free
+ gossypol cottonseed treated with a macrofungus.",
+    mesh {
+      {
+        term "Biomass"
+      },
+      {
+        term "Chromatography, High Pressure Liquid",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Chromatography, Reverse-Phase",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Cottonseed Oil",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Gossypol",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          },
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        mp TRUE,
+        term "Semiconductors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cottonseed Oil"
+      },
+      {
+        type cas,
+        cit "KAV15B369O",
+        name "Gossypol"
+      }
+    },
+    xref {
+    },
+    pmid 29791447,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,182 @@
+
+Pubmed-entry ::= {
+  pmid 29449011,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "EMA recommendation to suspend HES is hazardous."
+      },
+      authors {
+        names std {
+          {
+            name ml "Annane D",
+            affil str "Service de Medecine Intensive Reanimation, Hopital
+ Raymond Poincare, School of Medicine Simone Veil, University of Versailles
+ SQY, Paris Saclay, 92380 Garches, France. Electronic address:
+ djillali.annane@aphp.fr."
+          },
+          {
+            name ml "Fuchs-Buder T",
+            affil str "Department of Anaesthesiology and Critical Care, CHU de
+ Nancy, University of Lorraine, Nancy, France."
+          },
+          {
+            name ml "Zoellner C",
+            affil str "Department of Anaesthesiology, University Medical
+ Centre Hamburg-Eppendorf, Hamburg, Germany."
+          },
+          {
+            name ml "Kaukonen M",
+            affil str "Department of Anaesthesiology and Intensive Care,
+ Helsinki University Central Hospital, Helsinki, Finland."
+          },
+          {
+            name ml "Scheeren TWL",
+            affil str "Department of Anaesthesiology, University Medical
+ Center Groningen, University of Groningen, Groningen, Netherlands."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lancet",
+          ml-jta "Lancet",
+          issn "1474-547X",
+          name "Lancet (London, England)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 24
+          },
+          volume "391",
+          issue "10122",
+          pages "736-738",
+          language "eng",
+          retract {
+            type in-error,
+            exp "Lancet. 2018 Mar 10;391(10124):e8. PMID: 29536865"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29449011,
+        pii "S0140-6736(18)30254-X",
+        doi "10.1016/S0140-6736(18)30254-X",
+        other {
+          db "ELocationID pii",
+          tag str "S0140-6736(18)30254-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/S0140-6736(18)30254-X"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Drug Recalls"
+      },
+      {
+        term "Europe"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydroxyethyl Starch Derivatives",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Plasma Substitutes",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Hydroxyethyl Starch Derivatives"
+      },
+      {
+        type nameonly,
+        name "Plasma Substitutes"
+      }
+    },
+    pmid 29449011,
+    pub-type {
+      "Letter",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

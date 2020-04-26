@@ -1,0 +1,194 @@
+
+Pubmed-entry ::= {
+  pmid 29489652,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Physical and nutrition statuses of geriatric patients after
+ trauma-related hospitalization: Data from the Korean National Health and
+ Nutrition Examination Survey 2013-2015."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cho HJ",
+            affil str "Department of Trauma Surgery, Uijeongbu St. Mary's
+ Hospital, College of Medicine, The Catholic University of Korea, Seoul,
+ Republic of Korea."
+          },
+          {
+            name ml "Hong TH"
+          },
+          {
+            name ml "Kim M"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Medicine (Baltimore)",
+          ml-jta "Medicine (Baltimore)",
+          issn "1536-5964",
+          name "Medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "97",
+          issue "9",
+          pages "e0034",
+          language "eng",
+          retract {
+            type in-error,
+            exp "Medicine (Baltimore). 2018 Mar;97(11):e0217. PMID: 29538214"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29489652,
+        doi "10.1097/MD.0000000000010034",
+        pii "00005792-201803020-00013",
+        other {
+          db "pmc",
+          tag str "PMC5851728"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/MD.0000000000010034"
+        }
+      }
+    },
+    abstract "Population aging is associated with increasing numbers of
+ geriatric trauma patients, and various studies have evaluated their
+ short-term outcomes, assessment, and treatment. However, there is
+ insufficient information regarding their long-term outcomes. This study
+ evaluated the physical and nutritional statuses of geriatric patients after
+ trauma-related hospitalization.Data regarding physical and nutritional status
+ were obtained from the Korean National Health and Nutrition Examination
+ Survey VI (2013-2015).A total of 21,069 individuals participated in the
+ survey, including 5650 geriatric individuals. After excluding individuals
+ with missing data, 3731 cases were included in the analyses. The average age
+ was 68 years, and most individuals were women (n = 2055, 55.08%). There were
+ 94 patients had been hospitalized because of trauma. Trauma-related
+ hospitalization among geriatric patients was significantly associated with
+ reduced strength exercise (23.56% vs 12.99%, P = .043), activity limitations
+ caused by joint pain (0.65% vs 3.31%, P = .028), self-care problems (8.00% vs
+ 16.77%, P = .008), pain or discomfort (29.48% vs 40.51%, P = .024),
+ hypercholesterolemia (27.37% vs 39.36%, P = .037), and mastication discomfort
+ (39.98% vs 57.85% P = .005). The adjusted analyses revealed that
+ trauma-related hospitalization was independently associated with activity
+ limitations caused by joint pain (odds ratio [OR]: 5.04, 95% confidence
+ interval [CI]: 1.29-19.67, P = .020), self-care problems (OR: 2.24, 95% CI:
+ 1.11-4.53, P = .025), pain or discomfort (OR: 1.77, 95% CI: 1.08-2.89, P =
+ .023), and mastication discomfort (OR: 2.06, 95% CI: 1.22-3.46, P =
+ .007).Medical staff should be aware that geriatric patients have relatively
+ poor physical and nutritional statuses after trauma-related hospitalization,
+ and manage these patients accordingly.",
+    mesh {
+      {
+        term "Activities of Daily Living"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Geriatric Assessment"
+      },
+      {
+        mp TRUE,
+        term "Health Status"
+      },
+      {
+        mp TRUE,
+        term "Hospitalization"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Nutrition Surveys"
+      },
+      {
+        mp TRUE,
+        term "Nutritional Status"
+      },
+      {
+        term "Quality of Life"
+      },
+      {
+        term "Republic of Korea"
+      },
+      {
+        term "Self Care"
+      },
+      {
+        term "Wounds and Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      }
+    },
+    pmid 29489652,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

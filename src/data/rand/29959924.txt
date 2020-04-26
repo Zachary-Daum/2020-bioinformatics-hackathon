@@ -1,0 +1,216 @@
+
+Pubmed-entry ::= {
+  pmid 29959924,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Subunit Exchange in Protein Complexes."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tusk SE",
+            affil str "Department of Physics, University of Oxford, Clarendon
+ Laboratory, Parks Road, Oxford, OX1 3PU, UK. Electronic address:
+ samuel.tusk@physics.ox.ax.uk."
+          },
+          {
+            name ml "Delalez NJ",
+            affil str "Department of Engineering Science, University of
+ Oxford, Parks Road, Oxford, OX1 3PJ, UK. Electronic address:
+ nicolas.delalez@eng.ox.ac.uk."
+          },
+          {
+            name ml "Berry RM",
+            affil str "Department of Physics, University of Oxford, Clarendon
+ Laboratory, Parks Road, Oxford, OX1 3PU, UK. Electronic address:
+ richard.berry@physics.ox.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Mol. Biol.",
+          ml-jta "J Mol Biol",
+          issn "1089-8638",
+          name "Journal of molecular biology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10,
+            day 26
+          },
+          volume "430",
+          issue "22",
+          pages "4557-4579",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 6,
+                day 21
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29959924,
+        pii "S0022-2836(18)30690-9",
+        doi "10.1016/j.jmb.2018.06.039",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-2836(18)30690-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jmb.2018.06.039"
+        }
+      }
+    },
+    abstract "Over the past 50years, protein complexes have been studied with
+ techniques such as X-ray crystallography and electron microscopy, generating
+ images which although detailed are static and homogeneous. More recently,
+ limited application of in vivo fluorescence and other techniques has revealed
+ that many complexes previously thought stable and compositionally uniform are
+ dynamically variable, continually exchanging components with a freely
+ circulating pool of ""spares."" Here, we consider the purpose and prevalence
+ of protein exchange, first reviewing the ongoing story of exchange in the
+ bacterial flagella motor, before surveying reports of exchange in complexes
+ across all domains of life, together highlighting great diversity in
+ timescales and functions. Finally, we put this in the context of
+ high-throughput proteomic studies which hint that exchange might be the norm,
+ rather than an exception.",
+    mesh {
+      {
+        term "Bacteria",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Bacterial Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Flagella",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Fluorescence"
+      },
+      {
+        term "Molecular Motor Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proteomics"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Bacterial Proteins"
+      },
+      {
+        type nameonly,
+        name "Molecular Motor Proteins"
+      }
+    },
+    idnum {
+      "BB/H01991X/1/Biotechnology and Biological Sciences Research Council"
+    },
+    pmid 29959924,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

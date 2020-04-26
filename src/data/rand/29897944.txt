@@ -1,0 +1,342 @@
+
+Pubmed-entry ::= {
+  pmid 29897944,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A specific expression profile of LC3B and p62 is associated with
+ nonresponse to neoadjuvant chemotherapy in esophageal adenocarcinomas."
+      },
+      authors {
+        names std {
+          {
+            name ml "Adams O",
+            affil str "Institute of Pathology, University of Bern, Bern,
+ Switzerland.; Graduate School for Cellular and Biomedical Sciences,
+ University of Bern, Bern, Switzerland."
+          },
+          {
+            name ml "Janser FA",
+            affil str "Institute of Pathology, University of Bern, Bern,
+ Switzerland.; Graduate School for Cellular and Biomedical Sciences,
+ University of Bern, Bern, Switzerland."
+          },
+          {
+            name ml "Dislich B",
+            affil str "Institute of Pathology, University of Bern, Bern,
+ Switzerland."
+          },
+          {
+            name ml "Berezowska S",
+            affil str "Institute of Pathology, University of Bern, Bern,
+ Switzerland."
+          },
+          {
+            name ml "Humbert M",
+            affil str "Institute of Pathology, University of Bern, Bern,
+ Switzerland."
+          },
+          {
+            name ml "Seiler CA",
+            affil str "Department of Visceral Surgery and Medicine,
+ Inselspital University Hospital Bern and University of Bern, Bern,
+ Switzerland."
+          },
+          {
+            name ml "Kroell D",
+            affil str "Department of Visceral Surgery and Medicine,
+ Inselspital University Hospital Bern and University of Bern, Bern,
+ Switzerland."
+          },
+          {
+            name ml "Slotta-Huspenina J",
+            affil str "Institute of Pathology, Technische Universitat Munchen,
+ Munchen, Germany."
+          },
+          {
+            name ml "Feith M",
+            affil str "Department of Surgery, Klinikum Rechts der Isar,
+ Technische Universitat Munchen, Munchen, Germany."
+          },
+          {
+            name ml "Ott K",
+            affil str "Department of Surgery, RoMED Klinikum, Rosenheim,
+ Germany."
+          },
+          {
+            name ml "Tschan MP",
+            affil str "Institute of Pathology, University of Bern, Bern,
+ Switzerland.; Graduate School for Cellular and Biomedical Sciences,
+ University of Bern, Bern, Switzerland."
+          },
+          {
+            name ml "Langer R",
+            affil str "Institute of Pathology, University of Bern, Bern,
+ Switzerland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 13
+          },
+          volume "13",
+          issue "6",
+          pages "e0197610",
+          language "eng",
+          retract {
+            type in-error,
+            exp "PLoS One. 2019 Oct 30;14(10):e0224832. PMID: 31665193"
+          },
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 4
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29897944,
+        doi "10.1371/journal.pone.0197610",
+        pii "PONE-D-17-30952",
+        other {
+          db "pmc",
+          tag str "PMC5999293"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0197610"
+        }
+      }
+    },
+    abstract "Paclitaxel is a powerful chemotherapeutic drug, used for the
+ treatment of many cancer types, including esophageal adenocarcinomas (EAC).
+ Autophagy is a lysosome-dependent degradation process maintaining cellular
+ homeostasis. Defective autophagy has been implicated in cancer biology and
+ therapy resistance. We aimed to assess the impact of autophagy on
+ chemotherapy response in EAC, with a special focus on paclitaxel.
+ Responsiveness of EAC cell lines, OE19, FLO-1, OE33 and SK-GT-4, to
+ paclitaxel was assessed using Alamar Blue assays. Autophagic flux upon
+ paclitaxel treatment in vitro was assessed by immunoblotting of LC3B-II and
+ quantitative assessment of WIP1 mRNA. Immunohistochemistry for the autophagy
+ markers LC3B and p62 was applied on tumor tissue from 149 EAC patients
+ treated with neoadjuvant chemotherapy, including pre- and post-therapeutic
+ samples (62 matched pairs). Tumor response was assessed by histology. For
+ comparison, previously published data on 114 primary resected EAC cases were
+ used. EAC cell lines displayed differing responsiveness to paclitaxel
+ treatment; however this was not associated with differential autophagy
+ regulation. High p62 cytoplasmic expression on its own (p </= 0.001), or in
+ combination with low LC3B (p = 0.034), was associated with nonresponse to
+ chemotherapy, regardless of whether or not the regiments contained
+ paclitaxel, but there was no independent prognostic value of LC3B or p62
+ expression patterns for EAC after neoadjuvant treatment. p62 and related
+ pathways, most likely other than autophagy, play a role in chemotherapeutic
+ response in EAC in a clinical setting. Therefore p62 could be a novel
+ therapeutic target to overcome chemoresistance in EAC.",
+    mesh {
+      {
+        term "Adenocarcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Autophagy",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Biopsy"
+      },
+      {
+        term "Disease-Free Survival"
+      },
+      {
+        term "Esophageal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kaplan-Meier Estimate"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Microtubule-Associated Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoadjuvant Therapy",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Paclitaxel",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "RNA-Binding Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Transcription Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MAP1LC3B protein, human"
+      },
+      {
+        type nameonly,
+        name "Microtubule-Associated Proteins"
+      },
+      {
+        type nameonly,
+        name "P62 protein, human"
+      },
+      {
+        type nameonly,
+        name "RNA-Binding Proteins"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      },
+      {
+        type cas,
+        cit "P88XT4IS4D",
+        name "Paclitaxel"
+      }
+    },
+    pmid 29897944,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

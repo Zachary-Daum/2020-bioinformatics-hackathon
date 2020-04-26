@@ -1,0 +1,117 @@
+
+Pubmed-entry ::= {
+  pmid 29736533,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Regioselective functionalization at the 7-position of
+ 1,2,3-triphenylbenzo[b]phosphole oxide via P[double bond, length as
+ m-dash]O-directed lithiation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wakatsuki A ",
+            affil str "Department of Fundamental Sciences, Graduate School of
+ Science and Technology, Niigata University, Nishi-ku, Niigata 950-2181, Japan."
+          },
+          {
+            name ml "Yukimoto M "
+          },
+          {
+            name ml "Minoura M "
+          },
+          {
+            name ml "Fujii K "
+          },
+          {
+            name ml "Kimura Y "
+          },
+          {
+            name ml "Matano Y "
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Dalton Trans",
+          ml-jta "Dalton Trans",
+          issn "1477-9234",
+          name "Dalton transactions (Cambridge, England : 2003)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 29
+          },
+          volume "47",
+          issue "21",
+          pages "7123-7127",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29736533,
+        doi "10.1039/c8dt01503a",
+        other {
+          db "ELocationID doi",
+          tag str "10.1039/c8dt01503a"
+        }
+      }
+    },
+    abstract "Various 7-substituted benzo[b]phosphole derivatives were
+ prepared by P[double bond, length as m-dash]O-directed lithiation of
+ 1,2,3-triphenylbenzo[b]phosphole P-oxide and subsequent iodination and
+ cross-coupling reactions. The electron-donating groups introduced at the
+ 7-position produced dramatic solvatofluorochromism owing to the strong
+ charge-transfer character of the excited state of the entire pi-system.",
+    pmid 29736533,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

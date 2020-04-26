@@ -1,0 +1,312 @@
+
+Pubmed-entry ::= {
+  pmid 29567295,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Design, synthesis and biological evaluation of novel
+ 3-substituted pyrazolopyrimidine derivatives as potent Bruton's tyrosine
+ kinase (BTK) inhibitors."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zheng N",
+            affil str "Shanghai Key Lab. of Anti-infectives, State Key Lab. of
+ New Drug and Pharmaceutical Process, Shanghai Institute of Pharmaceutical
+ Industry, China State Institute of Pharmaceutical Industry, 285 Gebaini Road,
+ Shanghai 201203, PR China; School of Pharmacy, Fudan University, 826
+ Zhangheng Road, Shanghai 201203, PR China."
+          },
+          {
+            name ml "Pan J",
+            affil str "Shanghai Key Lab. of Anti-infectives, State Key Lab. of
+ New Drug and Pharmaceutical Process, Shanghai Institute of Pharmaceutical
+ Industry, China State Institute of Pharmaceutical Industry, 285 Gebaini Road,
+ Shanghai 201203, PR China; School of Pharmacy, Fudan University, 826
+ Zhangheng Road, Shanghai 201203, PR China."
+          },
+          {
+            name ml "Hao Q",
+            affil str "Shanghai Key Lab. of Anti-infectives, State Key Lab. of
+ New Drug and Pharmaceutical Process, Shanghai Institute of Pharmaceutical
+ Industry, China State Institute of Pharmaceutical Industry, 285 Gebaini Road,
+ Shanghai 201203, PR China."
+          },
+          {
+            name ml "Li Y",
+            affil str "School of Pharmacy, Fudan University, 826 Zhangheng
+ Road, Shanghai 201203, PR China. Electronic address: liyx417@fudan.edu.cn."
+          },
+          {
+            name ml "Zhou W",
+            affil str "Shanghai Key Lab. of Anti-infectives, State Key Lab. of
+ New Drug and Pharmaceutical Process, Shanghai Institute of Pharmaceutical
+ Industry, China State Institute of Pharmaceutical Industry, 285 Gebaini Road,
+ Shanghai 201203, PR China. Electronic address: zhouweicheng58@163.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Bioorg. Med. Chem.",
+          ml-jta "Bioorg Med Chem",
+          issn "1464-3391",
+          name "Bioorganic & medicinal chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 1
+          },
+          volume "26",
+          issue "8",
+          pages "2165-2172",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29567295,
+        pii "S0968-0896(18)30182-2",
+        doi "10.1016/j.bmc.2018.03.017",
+        other {
+          db "ELocationID pii",
+          tag str "S0968-0896(18)30182-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.bmc.2018.03.017"
+        }
+      }
+    },
+    abstract "A series of 3-substituted pyrazolopyrimidine derivatives as BTK
+ inhibitors were designed by structure-based drug design and they were
+ synthesized, evaluated by enzyme-based assay and anti-proliferation against
+ Ramos and Raji cells. Most of them displayed good inhibitory activities
+ against both BTK and B-cell lymphoblastic leukemia lines in vitro. Among
+ them, compound 8a exhibited excellent potency (IC50=7.95nM against BTK
+ enzyme, 8.91muM against Ramos cells and 1.80muM against Raji cells), with a
+ better hydrophilicity (ClogP=3.33). These explorations provided new clues to
+ discover 3-substituted pyrazolopyrimidine derivatives as novel anti-tumor
+ agents.",
+    mesh {
+      {
+        term "Agammaglobulinaemia Tyrosine Kinase"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            subh "chemical synthesis"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Binding Sites"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Drug Design"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrophobic and Hydrophilic Interactions"
+      },
+      {
+        term "Molecular Docking Simulation"
+      },
+      {
+        term "Protein Kinase Inhibitors",
+        qual {
+          {
+            mp TRUE,
+            subh "chemical synthesis"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Protein Structure, Tertiary"
+      },
+      {
+        term "Protein-Tyrosine Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Pyrazoles",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Pyrimidines",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Structure-Activity Relationship"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Protein Kinase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "Pyrazoles"
+      },
+      {
+        type nameonly,
+        name "Pyrimidines"
+      },
+      {
+        type nameonly,
+        name "pyrazolylpyrimidine"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "Protein-Tyrosine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "Agammaglobulinaemia Tyrosine Kinase"
+      },
+      {
+        type ec,
+        cit "2.7.10.2",
+        name "BTK protein, human"
+      }
+    },
+    pmid 29567295,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,190 @@
+
+Pubmed-entry ::= {
+  pmid 29671074,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Assessment of Forces in Intradermal Injection Devices:
+ Hydrodynamic Versus Human Factors."
+      },
+      authors {
+        names std {
+          {
+            name ml "Verwulgen S",
+            affil str "Department of Product Development, Faculty of Design
+ Sciences, University of Antwerp, Campus Mutsaard, Ambtmanstraat 1, 2000,
+ Antwerpen, Belgium. Stijn.verwulgen@uantwerpen.be."
+          },
+          {
+            name ml "Beyers K",
+            affil str "Novosanis, Wijnegem, Belgium.; Voxdale, Wijnegem,
+ Belgium."
+          },
+          {
+            name ml "Van Mulder T",
+            affil str "Novosanis, Wijnegem, Belgium.; Department of Nursing
+ and Midwifery, University of Antwerp, Wilrijk, Belgium.; Vaccine & Infectious
+ Disease Institute, University of Antwerp, Wilrijk, Belgium."
+          },
+          {
+            name ml "Peeters T",
+            affil str "Department of Product Development, Faculty of Design
+ Sciences, University of Antwerp, Campus Mutsaard, Ambtmanstraat 1, 2000,
+ Antwerpen, Belgium."
+          },
+          {
+            name ml "Truijen S",
+            affil str "Department Rehabilitation Sciences and Physiotherapy,
+ University of Antwerp, Wilrijk, Belgium."
+          },
+          {
+            name ml "Dams F",
+            affil str "Department of Product Development, Faculty of Design
+ Sciences, University of Antwerp, Campus Mutsaard, Ambtmanstraat 1, 2000,
+ Antwerpen, Belgium."
+          },
+          {
+            name ml "Vankerckhoven V",
+            affil str "Novosanis, Wijnegem, Belgium.; Vaccine & Infectious
+ Disease Institute, University of Antwerp, Wilrijk, Belgium."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pharm. Res.",
+          ml-jta "Pharm Res",
+          issn "1573-904X",
+          name "Pharmaceutical research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 18
+          },
+          volume "35",
+          issue "6",
+          pages "120",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 26
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29671074,
+        doi "10.1007/s11095-018-2397-2",
+        pii "10.1007/s11095-018-2397-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11095-018-2397-2"
+        }
+      }
+    },
+    abstract "PURPOSE: The force that has to be exerted on the plunger for
+ administering a given amount of fluid in a given time, has an important
+ influence on comfort for the subject and usability for the administrator in
+ intradermal drug delivery. The purpose of this study is to model those forces
+ that are subject-independent, by linking needle and syringe geometry to the
+ force required for ejecting a given fluid at a given ejection rate. MATERIAL
+ AND METHODS: We extend the well-known Hagen-Poiseuille formula to predict
+ pressure drop induced by a fluid passing through a cylindrical body. The
+ model investigates the relation between the pressure drop in needles and the
+ theoretic Hagen-Poiseuille prediction and is validated in fifteen needles
+ from 26G up to 33G suited for intradermal drug delivery. We also provide a
+ method to assess forces exerted by operators in real world conditions.
+ RESULTS: The model is highly linear in each individual needle with R-square
+ values ranging from 75% up to 99.9%. Ten out of fifteen needles exhibit
+ R-square values above 99%. A proof-of-concept for force assessment is
+ provided by logging forces in operators in real life conditions. CONCLUSIONS:
+ The force assessment method and the model can be used to pinpoint needle
+ geometry for intradermal injection devices, tuning comfort for subjects and
+ usability for operators.",
+    mesh {
+      {
+        term "Ergonomics"
+      },
+      {
+        mp TRUE,
+        term "Hydrodynamics"
+      },
+      {
+        term "Injections, Intradermal",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Needles"
+      },
+      {
+        mp TRUE,
+        term "Syringes"
+      }
+    },
+    pmid 29671074,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,209 @@
+
+Pubmed-entry ::= {
+  pmid 29799627,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Histological effects and pharmacokinetics of lipopolysaccharide
+ derived from Porphyromonas gingivalis on rat maxilla and liver concerning
+ with progression into non-alcoholic steatohepatitis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fujita M",
+            affil str "Department of Periodontology, The Nippon Dental
+ University School of Life Dentistry at Tokyo, Tokyo, Japan."
+          },
+          {
+            name ml "Kuraji R",
+            affil str "Department of Periodontology, The Nippon Dental
+ University School of Life Dentistry at Tokyo, Tokyo, Japan.; Department of
+ Life Science Dentistry, The Nippon Dental University, Tokyo, Japan."
+          },
+          {
+            name ml "Ito H",
+            affil str "Department of Periodontology, The Nippon Dental
+ University School of Life Dentistry at Tokyo, Tokyo, Japan."
+          },
+          {
+            name ml "Hashimoto S",
+            affil str "The Nippon Dental University, Tokyo, Japan."
+          },
+          {
+            name ml "Toen T",
+            affil str "Dental Research Institute, Radio Isotope Center, The
+ Nippon Dental University School of Life Dentistry at Tokyo, Tokyo, Japan."
+          },
+          {
+            name ml "Fukada T",
+            affil str "Dental Research Institute, Radio Isotope Center, The
+ Nippon Dental University School of Life Dentistry at Tokyo, Tokyo, Japan."
+          },
+          {
+            name ml "Numabe Y",
+            affil str "Department of Periodontology, The Nippon Dental
+ University School of Life Dentistry at Tokyo, Tokyo, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Periodontol.",
+          ml-jta "J Periodontol",
+          issn "1943-3670",
+          name "Journal of periodontology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "89",
+          issue "9",
+          pages "1101-1111",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29799627,
+        doi "10.1002/JPER.17-0678",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/JPER.17-0678"
+        }
+      }
+    },
+    abstract "BACKGROUND: Non-alcoholic steatohepatitis (NASH) is one of the
+ chronic liver diseases that can develop into hepatocirrhosis. The purpose of
+ the present study was to investigate the impact of lipopolysaccharide (LPS)
+ from Porphyromonas gingivalis (P. gingivalis) on NASH onset, and to determine
+ the biodistribution of double-radiolabeled LPS (R-LPS) biosynthesized in P.
+ gingivalis. METHODS: Rats fed a basal diet (BD) or a high-fat diet (HD) were
+ injected with P. gingivalis-LPS or R-LPS into the palatine gingiva around the
+ right maxillary first molar, and were classified into the following 4 groups:
+ BD/LPS (-), BD/LPS (+), HD/LPS (-), and HD/LPS (+) or 2 groups: BD/R-LPS and
+ HD/R-LPS. RESULTS: Inflammation in the gingiva of the LPS (+) groups
+ progressed significantly more than the LPS (-) groups. Furthermore, in the
+ HD/LPS (+) liver, histologic analysis confirmed the presence of NASH,
+ characterized by large fat droplets, ballooning degeneration, and
+ infiltration of inflammatory cells. When (3) H, (14) C-R-LPS was injected
+ into the palatine gingiva, radioactivity in the right palatal mucosa of
+ HD/R-LPS rats was the highest in comparison with other regions and was
+ significantly elevated after 24 hours compared to BD/R-LPS rats.
+ Autoradiographic analysis of the maxilla showed distributions from the
+ palatal mucosa to the hard palate and the interdental region. Radioactivity
+ in organs of both BD/R-LPS and HD/R-LPS rats were mostly localized to the
+ liver even after 24 hours. CONCLUSION: The present study suggests that the
+ transfer of P. gingivalis-LPS from the oral cavity to the liver plays an
+ important role in disease exacerbation of NASH.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Gingiva"
+      },
+      {
+        term "Lipopolysaccharides"
+      },
+      {
+        term "Maxilla"
+      },
+      {
+        mp TRUE,
+        term "Non-alcoholic Fatty Liver Disease"
+      },
+      {
+        mp TRUE,
+        term "Porphyromonas gingivalis"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Tissue Distribution"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      }
+    },
+    pmid 29799627,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

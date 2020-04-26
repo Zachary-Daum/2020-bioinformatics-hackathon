@@ -1,0 +1,301 @@
+
+Pubmed-entry ::= {
+  pmid 29650392,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Phage Aggregation-Dispersion by Ions: Striving beyond
+ Antibacterial Therapy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Drab M",
+            affil str "USI, Unit of Nanostructural Bio-Interactions, Hirszfeld
+ Institute of Immunology and Experimental Therapy, Polish Academy of Sciences,
+ 12 Weigla-Street, 53-114 Wroclaw, Poland. Electronic address:
+ marek.drab@iitd.pan.wroc.pl."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Trends Biotechnol.",
+          ml-jta "Trends Biotechnol",
+          issn "1879-3096",
+          name "Trends in biotechnology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "36",
+          issue "9",
+          pages "875-881",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 14
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29650392,
+        pii "S0167-7799(18)30086-6",
+        doi "10.1016/j.tibtech.2018.03.002",
+        other {
+          db "ELocationID pii",
+          tag str "S0167-7799(18)30086-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.tibtech.2018.03.002"
+        }
+      }
+    },
+    abstract "Bacteriophages sense alkaline cations in their immediate
+ extracellular environment, which regulates virion-virion interactions. An
+ ion-steerable aggregation-dispersion (A/D) phenomenon among virions is a
+ recently discovered step in group behavior in the phage life cycle. When
+ powered by the octanol-based water-immiscible lipopolysaccharide (LPS) trap
+ (oWILT) purification approach, A/D promises breakthroughs for a plethora of
+ biotechnological applications beyond phage therapy.",
+    mesh {
+      {
+        term "1-Octanol",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Bacteriophages",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cations, Monovalent"
+      },
+      {
+        term "Flocculation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Lysogeny",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Nanocapsules",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Phage Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Potassium",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Precision Medicine",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Sodium",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Surface Properties"
+      },
+      {
+        term "Virion",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Cations, Monovalent"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "Nanocapsules"
+      },
+      {
+        type cas,
+        cit "9NEZ333N27",
+        name "Sodium"
+      },
+      {
+        type cas,
+        cit "NV1779205D",
+        name "1-Octanol"
+      },
+      {
+        type cas,
+        cit "RWP5GA015D",
+        name "Potassium"
+      }
+    },
+    pmid 29650392,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

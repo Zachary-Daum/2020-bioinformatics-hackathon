@@ -1,0 +1,224 @@
+
+Pubmed-entry ::= {
+  pmid 29916964,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Perceived Partner Responsiveness, Daily Negative Affect
+ Reactivity, and All-Cause Mortality: A 20-Year Longitudinal Study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stanton SCE",
+            affil str "From the Department of Psychology (Stanton), University
+ of Edinburgh, Edinburgh, United Kingdom; Department of Psychology (Selcuk),
+ Middle East Technical University, Ankara, Turkey; Department of Psychology
+ (Farrell, Slatcher) and Center for Molecular Medicine and Genetics (Farrell),
+ Wayne State University, Detroit, Michigan; Department of Human Development
+ (Ong), Cornell University, Ithaca, New York; and Division of Geriatrics and
+ Palliative Medicine (Ong), Weill Cornell Medical College, New York, New York."
+          },
+          {
+            name ml "Selcuk E"
+          },
+          {
+            name ml "Farrell AK"
+          },
+          {
+            name ml "Slatcher RB"
+          },
+          {
+            name ml "Ong AD"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Psychosom Med",
+          ml-jta "Psychosom Med",
+          issn "1534-7796",
+          name "Psychosomatic medicine"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "81",
+          issue "1",
+          pages "7-15",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29916964,
+        doi "10.1097/PSY.0000000000000618",
+        other {
+          db "pmc",
+          tag str "PMC6298854"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS975322"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/PSY.0000000000000618"
+        }
+      }
+    },
+    abstract "OBJECTIVE: This study tested longitudinal associations between
+ absolute levels of perceived partner responsiveness (PPR; how much people
+ perceive that their romantic partners understand, care for, and appreciate
+ them), daily negative affect reactivity and positive affect reactivity, and
+ all-cause mortality in a sample of 1,208 adults for three waves of data
+ collection spanning 20 years. We also tested whether longitudinal changes in
+ PPR predicted mortality via affect reactivity. METHODS: Data were taken from
+ the National Survey of Midlife Development in the United States. PPR was
+ assessed at waves 1 and 2, affect reactivity to stressors was assessed by
+ daily diary reports at wave 2, and mortality status was obtained at wave 3.
+ RESULTS: Mediation analyses revealed absolute levels of PPR at wave 1
+ predicted wave 3 mortality via wave 2 affective reactivity in the predicted
+ direction, but this did not remain robust when statistically accounting for
+ covariates (e.g., marital risk, neuroticism), beta = .004, 95% confidence
+ interval = -.03 to .04. However, wave 1-2 PPR change predicted negative
+ affect (but not positive affect) reactivity to daily stressors at wave 2,
+ which then predicted mortality risk a decade later (wave 3); these results
+ held when adjusting for relevant demographic, health, and psychosocial
+ covariates, beta = -.04, 95% confidence interval = -.09 to -.002.
+ CONCLUSIONS: These findings are among the first to provide direct evidence of
+ psychological mechanisms underlying the links between intimate relationships
+ and mortality and have implications for research aiming to develop
+ interventions that increase or maintain responsiveness in relationships over
+ time.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Affect"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Surveys"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Interpersonal Relations"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Mortality"
+      },
+      {
+        term "Risk"
+      },
+      {
+        mp TRUE,
+        term "Social Perception"
+      },
+      {
+        term "Spouses",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Stress, Psychological",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "United States",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      }
+    },
+    idnum {
+      "P01 AG020166/AG/NIA NIH HHS",
+      "U19 AG051426/AG/NIA NIH HHS"
+    },
+    pmid 29916964,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Twin Study"
+    },
+    status medline
+  }
+}
+
+

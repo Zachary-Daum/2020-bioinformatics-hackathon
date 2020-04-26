@@ -1,0 +1,268 @@
+
+Pubmed-entry ::= {
+  pmid 29457246,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Randomized, controlled, prospective clinical trial of autologous
+ greater omentum free graft versus autogenous cancellous bone graft in radial
+ and ulnar fractures in miniature breed dogs."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ree JJ",
+            affil str "Department of Clinical Sciences, College of Veterinary
+ Medicine, Oregon State University, Corvallis, Oregon."
+          },
+          {
+            name ml "Baltzer WI",
+            affil str "Department of Clinical Sciences, College of Veterinary
+ Medicine, Oregon State University, Corvallis, Oregon."
+          },
+          {
+            name ml "Nemanic S",
+            affil str "Department of Clinical Sciences, College of Veterinary
+ Medicine, Oregon State University, Corvallis, Oregon."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Vet Surg",
+          ml-jta "Vet Surg",
+          issn "1532-950X",
+          name "Veterinary surgery : VS"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "47",
+          issue "3",
+          pages "392-405",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 10
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 7,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29457246,
+        doi "10.1111/vsu.12774",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/vsu.12774"
+        }
+      }
+    },
+    abstract "OBJECTIVE: To determine the rate of radiographic healing,
+ complications, vascularization, and bone density after repair of radial and
+ ulnar fractures in dogs <6 kg that were treated with an autogenous cancellous
+ bone graft (BG) or free autologous omentum graft (OG). STUDY DESIGN:
+ Prospective, randomized, controlled clinical trial with owners/radiologists
+ blinded to treatment. ANIMALS: 25 dogs with naturally occurring traumatic
+ radial/ulnar fractures. METHODS: Fractures underwent plate fixation with OG
+ or BG. Power Doppler ultrasonographic, computed tomographic (CT), and
+ radiographic examinations of the affected antebrachium were performed
+ preoperatively and every 3 weeks postoperatively until healed.
+ Pressure-sensitive walkway gait analysis and owner and veterinarian
+ assessments were obtained preoperatively (0 weeks) and 3, 6, 9, 12, and 24
+ weeks postoperatively. RESULTS: Owner/veterinarian assessments improved
+ postoperatively but did not differ significantly between groups. The
+ improvement in peak vertical force/vertical impulse was greater in dogs with
+ OG than in those with BG, beginning 3 weeks postoperatively. Radiographic
+ healing occurred earlier in bones treated with OG (median, 9 weeks) than in
+ those treated with BG (12 weeks). Cortical bone density derived from CT of
+ the distal ulna was higher in bones with BG compared with bones with OG.
+ Signal intensity and the number of vessels in the fracture callus declined
+ over time in both groups, according to results of ultrasonography. However,
+ bones retained more vessels and greater signal intensity when treated with OG
+ compared with treatment with BG, according to multiple views at 6 and 9 weeks
+ postoperatively. CONCLUSION: Omental grafting was not associated with major
+ complications, and it accelerated bone healing and return to weight bearing
+ in dogs. CLINICAL SIGNIFICANCE: Omental grafting should be considered as an
+ adjunct to stabilization of antebrachial fractures in toy and small breed
+ dogs.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Bone Plates",
+        qual {
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Bone Transplantation"
+      },
+      {
+        term "Cancellous Bone",
+        qual {
+          {
+            mp TRUE,
+            subh "transplantation"
+          }
+        }
+      },
+      {
+        term "Dogs",
+        qual {
+          {
+            mp TRUE,
+            subh "injuries"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Omentum",
+        qual {
+          {
+            mp TRUE,
+            subh "transplantation"
+          }
+        }
+      },
+      {
+        term "Pedigree"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Radiography",
+        qual {
+          {
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Radius Fractures",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Tomography, X-Ray Computed",
+        qual {
+          {
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Ulna Fractures",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Ultrasonography, Doppler",
+        qual {
+          {
+            subh "veterinary"
+          }
+        }
+      }
+    },
+    pmid 29457246,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

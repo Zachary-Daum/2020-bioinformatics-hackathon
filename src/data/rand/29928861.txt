@@ -1,0 +1,267 @@
+
+Pubmed-entry ::= {
+  pmid 29928861,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prostate Abscesses and Staphylococcus aureus Bacteremia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Schattner A",
+            affil str "Department of Medicine, Laniado Hospital-Sanz Medical
+ Center, Netanya, Israel; Faculty of Medicine, Hebrew University-Hadassah
+ Medical School, Jerusalem, Israel. Electronic address: amischatt@gmail.com."
+          },
+          {
+            name ml "Finn T",
+            affil str "Department of Infectious Diseases, Laniado
+ Hospital-Sanz Medical Center, Netanya, Israel."
+          },
+          {
+            name ml "Glick Y",
+            affil str "Department of Imaging, Laniado Hospital-Sanz Medical
+ Center, Netanya, Israel."
+          },
+          {
+            name ml "Dubin I",
+            affil str "Department of Medicine, Laniado Hospital-Sanz Medical
+ Center, Netanya, Israel; Faculty of Medicine, Hebrew University-Hadassah
+ Medical School, Jerusalem, Israel."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Med.",
+          ml-jta "Am J Med",
+          issn "1555-7162",
+          name "The American journal of medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "131",
+          issue "10",
+          pages "e417-e418",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 24
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29928861,
+        pii "S0002-9343(18)30520-5",
+        doi "10.1016/j.amjmed.2018.05.031",
+        other {
+          db "ELocationID pii",
+          tag str "S0002-9343(18)30520-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.amjmed.2018.05.031"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Abscess"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Bacteremia",
+        qual {
+          {
+            mp TRUE,
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Biopsy, Needle",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Drainage",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Image-Guided Biopsy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Prostate",
+        qual {
+          {
+            subh "microbiology"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Staphylococcal Infections",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "microbiology"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Staphylococcus aureus",
+        qual {
+          {
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Tomography, X-Ray Computed",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Ultrasonography",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Urinary Tract Infections",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      }
+    },
+    pmid 29928861,
+    pub-type {
+      "Case Reports",
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

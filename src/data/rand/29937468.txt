@@ -1,0 +1,190 @@
+
+Pubmed-entry ::= {
+  pmid 29937468,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Efficacy of Pericardial Drainage in Annular Rupture and
+ Periaortic Hematoma After Transcatheter Aortic Valve Replacement."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tanaka T",
+            affil str "Division of Cardiology, Mitsui Memorial Hospital."
+          },
+          {
+            name ml "Yahagi K",
+            affil str "Division of Cardiology, Mitsui Memorial Hospital."
+          },
+          {
+            name ml "Okuno T",
+            affil str "Division of Cardiology, Mitsui Memorial Hospital."
+          },
+          {
+            name ml "Sato K",
+            affil str "Division of Cardiology, Mitsui Memorial Hospital."
+          },
+          {
+            name ml "Osanai A",
+            affil str "Division of Cardiovascular Surgery, Mitsui Memorial
+ Hospital."
+          },
+          {
+            name ml "Yokozuka M",
+            affil str "Division of Anesthesia, Mitsui Memorial Hospital."
+          },
+          {
+            name ml "Miura S",
+            affil str "Division of Cardiovascular Surgery, Mitsui Memorial
+ Hospital."
+          },
+          {
+            name ml "Tanabe K",
+            affil str "Division of Cardiology, Mitsui Memorial Hospital."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Circ. J.",
+          ml-jta "Circ J",
+          issn "1347-4820",
+          name "Circulation journal : official journal of the Japanese
+ Circulation Society"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12,
+            day 25
+          },
+          volume "83",
+          issue "1",
+          pages "241-242",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29937468,
+        doi "10.1253/circj.CJ-18-0115",
+        other {
+          db "ELocationID doi",
+          tag str "10.1253/circj.CJ-18-0115"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Aortic Valve",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Aortic Valve Stenosis",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Drainage"
+      },
+      {
+        mp TRUE,
+        term "Heart Valve Prosthesis"
+      },
+      {
+        mp TRUE,
+        term "Hematoma",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Transcatheter Aortic Valve Replacement",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      }
+    },
+    pmid 29937468,
+    pub-type {
+      "Case Reports",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

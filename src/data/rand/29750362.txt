@@ -1,0 +1,243 @@
+
+Pubmed-entry ::= {
+  pmid 29750362,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Brief Motivational Intervention for Underage Young Adult
+ Drinkers: Results from a Randomized Clinical Trial."
+      },
+      authors {
+        names std {
+          {
+            name ml "Colby SM",
+            affil str "Center for Alcohol and Addiction Studies , Brown
+ University, Providence, Rhode Island.; Department of Psychiatry and Human
+ Behavior , Brown University, Providence, Rhode Island.; Department of
+ Behavioral and Social Sciences , School of Public Health, Brown University,
+ Providence, Rhode Island."
+          },
+          {
+            name ml "Orchowski L",
+            affil str "Department of Psychiatry and Human Behavior , Brown
+ University, Providence, Rhode Island."
+          },
+          {
+            name ml "Magill M",
+            affil str "Center for Alcohol and Addiction Studies , Brown
+ University, Providence, Rhode Island.; Department of Behavioral and Social
+ Sciences , School of Public Health, Brown University, Providence, Rhode
+ Island."
+          },
+          {
+            name ml "Murphy JG",
+            affil str "Department of Psychology , University of Memphis,
+ Memphis, Tennessee."
+          },
+          {
+            name ml "Brazil LA",
+            affil str "Center for Alcohol and Addiction Studies , Brown
+ University, Providence, Rhode Island.; Department of Psychiatry and Human
+ Behavior , Brown University, Providence, Rhode Island."
+          },
+          {
+            name ml "Apodaca TR",
+            affil str "Children's Mercy Kansas City , Kansas City, Missouri.;
+ School of Medicine , University of Missouri-Kansas City, Kansas City,
+ Missouri."
+          },
+          {
+            name ml "Kahler CW",
+            affil str "Center for Alcohol and Addiction Studies , Brown
+ University, Providence, Rhode Island.; Department of Behavioral and Social
+ Sciences , School of Public Health, Brown University, Providence, Rhode
+ Island."
+          },
+          {
+            name ml "Barnett NP",
+            affil str "Center for Alcohol and Addiction Studies , Brown
+ University, Providence, Rhode Island.; Department of Behavioral and Social
+ Sciences , School of Public Health, Brown University, Providence, Rhode
+ Island."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Alcohol. Clin. Exp. Res.",
+          ml-jta "Alcohol Clin Exp Res",
+          issn "1530-0277",
+          name "Alcoholism, clinical and experimental research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "42",
+          issue "7",
+          pages "1342-1351",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29750362,
+        doi "10.1111/acer.13770",
+        other {
+          db "pmc",
+          tag str "PMC6084798"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS965945"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/acer.13770"
+        }
+      }
+    },
+    abstract "BACKGROUND: While there is a substantial literature on the
+ efficacy of brief motivational intervention (BMI) for college student
+ drinkers, research has focused less on young adults who do not attend a
+ 4-year college, despite their elevated risk for excessive alcohol use and
+ associated harmful consequences. METHODS: This randomized controlled trial
+ (NCT01546025) compared the efficacy of BMI to a time-matched attention
+ control intervention (relaxation training [REL]) for reducing alcohol
+ consumption and related negative consequences in an underage young adult
+ sample. BMI was tailored to the developmental transition out of high school
+ for young adults who were not immediately planning to enroll in a 4-year
+ college. Non-treatment-seeking underage drinkers who reported past-month
+ heavy drinking (N = 167; ages 17 to 20; 42% female; 59% non-Hispanic White)
+ were randomly assigned to receive a single session of BMI or REL. Outcomes
+ were evaluated 6 weeks and 3 months postintervention via in-person
+ assessments. RESULTS: Generalized estimating equation models provided strong
+ support for the efficacy of BMI for reducing harmful drinking in these young
+ adults. Compared to REL, and after controlling for baseline covariates
+ including gender, those who received BMI subsequently reported significantly
+ fewer average drinks per week, percent drinking days, percent heavy drinking
+ days, lower peak and typical estimated blood alcohol concentration on
+ drinking days, and fewer adverse consequences of drinking (all ps < 0.05).
+ These between-group effects did not weaken over the course of the 3-month
+ follow-up period. CONCLUSIONS: These findings demonstrate an efficacious
+ approach to tailoring BMI for non-college-attending young adults. Future
+ research should replicate and extend these findings over a longer follow-up
+ period.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Alcohol Drinking",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Motivation"
+      },
+      {
+        mp TRUE,
+        term "Psychotherapy, Brief"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Underage Drinking",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "R01 AA016000/AA/NIAAA NIH HHS",
+      "R01 AA020829/AA/NIAAA NIH HHS",
+      "R01 AA023194/AA/NIAAA NIH HHS"
+    },
+    pmid 29750362,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

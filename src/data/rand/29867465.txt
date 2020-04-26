@@ -1,0 +1,222 @@
+
+Pubmed-entry ::= {
+  pmid 29867465,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Proteomic and Bioinformatic Studies for the Characterization of
+ Response to Pemetrexed in Platinum Drug Resistant Ovarian Cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Severi L",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Losi L",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Fonda S",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Taddia L",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Gozzi G",
+            affil str "Department of Biomedical Science, Metabolic Science and
+ Neuroscience, University of Modena and Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Marverti G",
+            affil str "Department of Biomedical Science, Metabolic Science and
+ Neuroscience, University of Modena and Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Magni F",
+            affil str "Department of Medicine and Surgery, University of
+ Milano Bicocca, Monza, Italy."
+          },
+          {
+            name ml "Chinello C",
+            affil str "Department of Medicine and Surgery, University of
+ Milano Bicocca, Monza, Italy."
+          },
+          {
+            name ml "Stella M",
+            affil str "Department of Medicine and Surgery, University of
+ Milano Bicocca, Monza, Italy."
+          },
+          {
+            name ml "Sheouli J",
+            affil str "Department of Gynecology, European Competence Center
+ for Ovarian Cancer, Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Braicu EI",
+            affil str "Department of Gynecology, European Competence Center
+ for Ovarian Cancer, Charite-Universitatsmedizin Berlin, Berlin, Germany."
+          },
+          {
+            name ml "Genovese F",
+            affil str "Centro Interdipartimentale Grandi Strumenti, University
+ of Modena and Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Lauriola A",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Marraccini C",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Gualandi A",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "D'Arca D",
+            affil str "Department of Biomedical Science, Metabolic Science and
+ Neuroscience, University of Modena and Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Ferrari S",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          },
+          {
+            name ml "Costi MP",
+            affil str "Department of Life Sciences, University of Modena and
+ Reggio Emilia, Modena, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Front Pharmacol",
+          ml-jta "Front Pharmacol",
+          issn "1663-9812",
+          name "Frontiers in pharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 8
+          },
+          volume "9",
+          pages "454",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29867465,
+        doi "10.3389/fphar.2018.00454",
+        other {
+          db "pmc",
+          tag str "PMC5952181"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3389/fphar.2018.00454"
+        }
+      }
+    },
+    abstract "Proteomics and bioinformatics are a useful combined technology
+ for the characterization of protein expression level and modulation
+ associated with the response to a drug and with its mechanism of action. The
+ folate pathway represents an important target in the anticancer drugs
+ therapy. In the present study, a discovery proteomics approach was applied to
+ tissue samples collected from ovarian cancer patients who relapsed after the
+ first-line carboplatin-based chemotherapy and were treated with pemetrexed
+ (PMX), a known folate pathway targeting drug. The aim of the work is to
+ identify the proteomic profile that can be associated to the response to the
+ PMX treatment in pre-treatement tissue. Statistical metrics of the
+ experimental Mass Spectrometry (MS) data were combined with a knowledge-based
+ approach that included bioinformatics and a literature review through
+ ProteinQuest tool, to design a protein set of reference (PSR). The PSR
+ provides feedback for the consistency of MS proteomic data because it
+ includes known validated proteins. A panel of 24 proteins with levels that
+ were significantly different in pre-treatment samples of patients who
+ responded to the therapy vs. the non-responder ones, was identified. The
+ differences of the identified proteins were explained for the patients with
+ different outcomes and the known PMX targets were further validated. The
+ protein panel herein identified is ready for further validation in
+ retrospective clinical trials using a targeted proteomic approach. This study
+ may have a general relevant impact on biomarker application for cancer
+ patients therapy selection.",
+    pmid 29867465,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

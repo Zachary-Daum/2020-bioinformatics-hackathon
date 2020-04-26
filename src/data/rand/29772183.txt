@@ -1,0 +1,146 @@
+
+Pubmed-entry ::= {
+  pmid 29772183,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Accurate Treatment of Charge-Transfer Excitations and Thermally
+ Activated Delayed Fluorescence Using the Particle-Particle Random Phase
+ Approximation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Al-Saadon R",
+            affil str "Department of Chemistry , Duke University , Durham ,
+ North Carolina 27708 , United States."
+          },
+          {
+            name ml "Sutton C",
+            affil str "Department of Chemistry , Duke University , Durham ,
+ North Carolina 27708 , United States."
+          },
+          {
+            name ml "Yang W",
+            affil str "Department of Chemistry , Duke University , Durham ,
+ North Carolina 27708 , United States.; Key Laboratory of Theoretical
+ Chemistry of Environment School of Chemistry and Environment , South China
+ Normal University , Guangzhou 510631 , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Chem Theory Comput",
+          ml-jta "J Chem Theory Comput",
+          issn "1549-9626",
+          name "Journal of chemical theory and computation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 12
+          },
+          volume "14",
+          issue "6",
+          pages "3196-3204",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 18,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29772183,
+        doi "10.1021/acs.jctc.8b00153",
+        other {
+          db "pmc",
+          tag str "PMC6192039"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS991662"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acs.jctc.8b00153"
+        }
+      }
+    },
+    abstract "Thermally activated delayed florescence (TADF) is a mechanism
+ that increases the electroluminescence efficiency in organic light-emitting
+ diodes by harnessing both singlet and triplet excitons. TADF is facilitated
+ by a small energy difference between the first singlet (S1) and triplet (T1)
+ excited states (Delta E(ST)), which is minimized by spatial separation of the
+ donor and acceptor moieties. The resultant charge-transfer (CT) excited
+ states are difficult to model using time-dependent density functional theory
+ (TDDFT) because of the delocalization error present in standard density
+ functional approximations to the exchange-correlation energy. In this work we
+ explore the application of the particle-particle random phase approximation
+ (pp-RPA) for the determination of both S1 and T1 excitation energies. We
+ demonstrate that the accuracy of the pp-RPA is functional dependent and that,
+ when combined with the hybrid functional B3LYP, the pp-RPA computed Delta
+ E(ST) have a mean absolute deviation (MAD) of 0.12 eV for the set of examined
+ molecules. A key advantage of the pp-RPA approach is that the S1 and T1
+ states are characterized as CT states for all of experimentally reported TADF
+ molecules examined here, which allows for an estimate of the singlet-triplet
+ CT excited state energy gap (Delta E(ST) = (1)CT - (3)CT). For experimentally
+ known TADF molecules with a small (<0.2 eV) Delta E(ST) in this data set, a
+ high accuracy is demonstrated for the prediction of both the S1 (MAD = 0.18
+ eV) and T1 (MAD = 0.20 eV) excitation energies as well as Delta E(ST) (MAD =
+ 0.05 eV). This result is attributed to the consideration of correct
+ antisymmetry in the particle-particle interaction leading to the use of full
+ exchange kernel in addition to the Coulomb contribution, as well as a
+ consistent treatment of both singlet and triplet excited states. The
+ computational efficiency of this approach is similar to that of TDDFT, and
+ the cost can be reduced significantly by using the active-space approach.",
+    idnum {
+      "R01 GM061870/GM/NIGMS NIH HHS"
+    },
+    pmid 29772183,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

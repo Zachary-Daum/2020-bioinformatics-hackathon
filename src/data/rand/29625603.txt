@@ -1,0 +1,216 @@
+
+Pubmed-entry ::= {
+  pmid 29625603,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Postural awareness and its relation to pain: validation of an
+ innovative instrument measuring awareness of body posture in patients with
+ chronic pain."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cramer H",
+            affil str "Department of Internal and Integrative Medicine,
+ Kliniken Essen-Mitte, Faculty of Medicine, University of Duisburg-Essen,
+ Essen, Germany. h.cramer@kliniken-essen-mitte.de.; Australian Research Centre
+ in Complementary and Integrative Medicine (ARCCIM), University of Technology
+ Sydney, Sydney, Australia. h.cramer@kliniken-essen-mitte.de."
+          },
+          {
+            name ml "Mehling WE",
+            affil str "Department of Family and Community Medicine, Osher
+ Center for Integrative Medicine, University of California San Francisco, San
+ Francisco, California, USA."
+          },
+          {
+            name ml "Saha FJ",
+            affil str "Department of Internal and Integrative Medicine,
+ Kliniken Essen-Mitte, Faculty of Medicine, University of Duisburg-Essen,
+ Essen, Germany."
+          },
+          {
+            name ml "Dobos G",
+            affil str "Department of Internal and Integrative Medicine,
+ Kliniken Essen-Mitte, Faculty of Medicine, University of Duisburg-Essen,
+ Essen, Germany."
+          },
+          {
+            name ml "Lauche R",
+            affil str "Australian Research Centre in Complementary and
+ Integrative Medicine (ARCCIM), University of Technology Sydney, Sydney,
+ Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Musculoskelet Disord",
+          ml-jta "BMC Musculoskelet Disord",
+          issn "1471-2474",
+          name "BMC musculoskeletal disorders"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 6
+          },
+          volume "19",
+          issue "1",
+          pages "109",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 28
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29625603,
+        doi "10.1186/s12891-018-2031-9",
+        pii "10.1186/s12891-018-2031-9",
+        other {
+          db "pmc",
+          tag str "PMC5889545"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12891-018-2031-9"
+        }
+      }
+    },
+    abstract "BACKGROUND: Habitual postural patterns are associated with
+ musculoskeletal pain, and improving a maladaptive posture requires postural
+ awareness in order to lead to clinical improvements. This study aimed to
+ develop and evaluate the psychometric properties of an innovative postural
+ awareness scale. METHODS: A 12-item Postural Awareness Scale (PAS) was
+ developed and administered to 512 chronic pain patients (50.3 +/- 11.4 years,
+ 91.6% female, 37.1% spinal/shoulder pain) to assess its factor structure and
+ reliability. To determine convergent validity, measures of body awareness,
+ body responsiveness, body image, and mindfulness were correlated with the
+ PAS, as were clinical measures of pain intensity, disability, and mental
+ health. Sensitivity to change was assessed in 202 outpatients participating
+ in a 10-week multimodal mind-body program. RESULTS: Factor analysis revealed
+ two factors (Ease/Familiarity with Postural Awareness and Need for Attention
+ Regulation with Postural Awareness) that explained 50.8% of the variance.
+ Cronbach's alpha for the complete scale was 0.80; Spearman-Brown coefficient
+ of split-half reliability was 0.67; and intra-class correlation was ICC2,1 =
+ 0.75 (95% confidence interval = 0.71, 0.78). Significant positive
+ correlations were found for body awareness (r = 0.23), body responsiveness (r
+ = 0.41), body image (r = 0.22-0.32), and mindfulness (r = 0.38); negative
+ correlations for pain intensity (r = - 0.14), disability (r = - 0.12),
+ depression (r = - 0.23), and stress (r = - 0.29). Postural awareness scores
+ increased with a mind-body program (p < 0.001); changes in the PAS were
+ negatively correlated with changes in pain intensity (r = - 0.35) in patients
+ with spinal/shoulder pain. CONCLUSION: Self-reported postural awareness is
+ associated with clinical symptoms in chronic pain patients; improvements in
+ postural awareness are longitudinally associated with reduced pain in
+ patients with spinal/shoulder pain.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Awareness"
+      },
+      {
+        term "Chronic Pain",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Postural Balance"
+      },
+      {
+        mp TRUE,
+        term "Posture"
+      },
+      {
+        term "Psychometrics"
+      },
+      {
+        term "Reproducibility of Results"
+      }
+    },
+    pmid 29625603,
+    pub-type {
+      "Journal Article",
+      "Validation Study"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,286 @@
+
+Pubmed-entry ::= {
+  pmid 29596991,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A novel strategy to produce high level and high purity of
+ bioactive IL15 fusion proteins from mammalian cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang H",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA. Electronic address: huanghaomin@3sbio.com."
+          },
+          {
+            name ml "Luo Y",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA."
+          },
+          {
+            name ml "Baradei H",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA."
+          },
+          {
+            name ml "Liu S",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA."
+          },
+          {
+            name ml "Haenssen KK",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA."
+          },
+          {
+            name ml "Sanglikar S",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA."
+          },
+          {
+            name ml "Kumar S",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA."
+          },
+          {
+            name ml "Cini J",
+            affil str "Sonnet Biotherapeutics, 1 Duncan Drive, Cranbury, NJ
+ 08512, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Protein Expr. Purif.",
+          ml-jta "Protein Expr Purif",
+          issn "1096-0279",
+          name "Protein expression and purification"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "148",
+          pages "30-39",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 1
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29596991,
+        pii "S1046-5928(18)30112-8",
+        doi "10.1016/j.pep.2018.03.010",
+        other {
+          db "ELocationID pii",
+          tag str "S1046-5928(18)30112-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.pep.2018.03.010"
+        }
+      }
+    },
+    abstract "IL15, a member of the common gamma chain receptor (gammac)
+ cytokine family, is gaining attention in recent years as one of the most
+ promising anti-tumor agents. IL15 regulates T cell activation and
+ proliferation, promotes the survival of CD8(+) CD44(hi) memory T cells and is
+ also essential for NK cell expansion and development. Despite the attraction
+ of developing IL15 as an anti-cancer agent, production of recombinant IL15
+ has proven to be difficult due to the stringent control of IL15 expression at
+ the transcriptional, translational and the post-translational levels.
+ Furthermore, the bioactivity of IL15 fused to an extra functional domain that
+ is isolated from mammalian cells is generally inferior to recombinant IL15
+ produced by E. coli. In this study, we report that Lysine 86 in IL15 is
+ responsible for the instability in mammalian cells when its C-terminus is
+ fused to the albumin binding scFv (IL15-A10m3). We demonstrate that K86A or
+ K86R mutants increased the expression of the fusion protein from HEK293cells.
+ When the wild type IL15 is used for the fusion, no recombinant IL15 fusion
+ was detected in the culture media. Additionally, we determined that the
+ residue 112 in IL15 is critical for the bioactivity of IL15-A10m3.
+ Examination of single and double mutants provides a better understanding of
+ how IL15 engages with its receptor complex to achieve full signaling
+ capacity. The results of our experiments were successfully applied to scale
+ up production to levels up to 50mg/L and >10mg/L of >95% pure monomeric
+ recombinant fusion proteins after a 2-step purification from culture media.
+ More importantly, the recombinant fusion protein produced is fully active in
+ stimulating T cell proliferation, when compared to the recombinant wild type
+ IL15.",
+    mesh {
+      {
+        term "CD8-Positive T-Lymphocytes",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Escherichia coli",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hyaluronan Receptors",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Interleukin-15",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Killer Cells, Natural",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Recombinant Fusion Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Hyaluronan Receptors"
+      },
+      {
+        type nameonly,
+        name "IL15 protein, human"
+      },
+      {
+        type nameonly,
+        name "Interleukin-15"
+      },
+      {
+        type nameonly,
+        name "Recombinant Fusion Proteins"
+      }
+    },
+    pmid 29596991,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

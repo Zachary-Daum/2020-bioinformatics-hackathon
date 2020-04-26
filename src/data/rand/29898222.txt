@@ -1,0 +1,91 @@
+
+Pubmed-entry ::= {
+  pmid 29898222,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Incorrect Denominator."
+      },
+      from journal {
+        title {
+          iso-jta "JAMA Dermatol",
+          ml-jta "JAMA Dermatol",
+          issn "2168-6084",
+          name "JAMA dermatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 1
+          },
+          volume "154",
+          issue "6",
+          pages "739",
+          language "eng",
+          retract {
+            type erratum,
+            exp "JAMA Dermatol. 2018 May 1;154(5):569-573. PMID: 29710082"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29898222,
+        pii "2683495",
+        doi "10.1001/jamadermatol.2018.2035",
+        other {
+          db "ELocationID doi",
+          tag str "10.1001/jamadermatol.2018.2035"
+        }
+      }
+    },
+    pmid 29898222,
+    pub-type {
+      "Journal Article",
+      "Published Erratum"
+    },
+    status premedline
+  }
+}
+
+

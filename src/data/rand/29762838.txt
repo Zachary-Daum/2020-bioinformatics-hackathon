@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 29762838,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MiRNA-93 functions as an oncogene in glioma by directly
+ targeting RBL2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu DK",
+            affil str "School of Clinical Medicine, Tsinghua University,
+ China. neurospinewgh@163.com."
+          },
+          {
+            name ml "Wei YJ"
+          },
+          {
+            name ml "Guo Y"
+          },
+          {
+            name ml "Wang J"
+          },
+          {
+            name ml "Wang GH"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur Rev Med Pharmacol Sci",
+          ml-jta "Eur Rev Med Pharmacol Sci",
+          issn "2284-0729",
+          name "European review for medical and pharmacological sciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "22",
+          issue "8",
+          pages "2343-2350",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29762838,
+        doi "10.26355/eurrev_201804_14825",
+        other {
+          db "ELocationID pii",
+          tag str "14825"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.26355/eurrev_201804_14825"
+        }
+      }
+    },
+    abstract "OBJECTIVE: Glioma is a tumor of the brain. Although the clinical
+ regimens and surgical techniques for glioma have improved, therapies of
+ advanced glioma remain challenging, carrying dismal overall survival and
+ therapeutic success rates. Evidence has shown that miRNAs played important
+ roles in glioma development. The current study aimed at investigating the
+ function of a novel cancerogenic miRNA, miR-93, in glioma progression by
+ investigating the expression and mechanism of it. PATIENTS AND METHODS:
+ qRT-PCR was conducted to assess the miR-93 expression and the mRNA expression
+ of target gene in glioma tissues and cells. The invasion and migration
+ abilities of the glioma cells were determined by transwell assays. Luciferase
+ reporter assay was performed to confirm the target of miR-93. RESULTS: The
+ results indicated that miR-93 expression in glioma tissues and cells was
+ increased significantly than that in normal brain tissues and cells.
+ Furthermore, miR-93 promoted glioma cell migration and invasion. RBL2 was
+ recognized as a direct target of miR-93 in glioma cells, and overexpression
+ of RBL2 could reverse the stimulative effect of miR-93 in glioma cell.
+ CONCLUSIONS: The above findings suggested that miR-93 together with RBL2
+ could be diagnostic targets and novel prognostic markers for glioma.",
+    mesh {
+      {
+        term "3' Untranslated Regions"
+      },
+      {
+        term "Antagomirs",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Brain Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement"
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Glioma",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mutagenesis"
+      },
+      {
+        term "Retinoblastoma-Like Protein p130",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sequence Alignment"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "3' Untranslated Regions"
+      },
+      {
+        type nameonly,
+        name "Antagomirs"
+      },
+      {
+        type nameonly,
+        name "MIRN93 microRNA, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RBL2 protein, human"
+      },
+      {
+        type nameonly,
+        name "Retinoblastoma-Like Protein p130"
+      }
+    },
+    pmid 29762838,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,146 @@
+
+Pubmed-entry ::= {
+  pmid 29704380,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The spectrum of pathological findings of tonsils in children: A
+ clinicopathological review."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tan GC",
+            affil str "Nationwide Children's Hospital and the Ohio State
+ University, Department of Pathology and Laboratory Medicine, Columbus OH
+ 43205, USA. samir.kahwash@nationwidechildrens.org."
+          },
+          {
+            name ml "Stalling M"
+          },
+          {
+            name ml "Al-Rawabdeh S"
+          },
+          {
+            name ml "Kahwash BM"
+          },
+          {
+            name ml "Alkhoury RF"
+          },
+          {
+            name ml "Kahwash SB"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Malays J Pathol",
+          ml-jta "Malays J Pathol",
+          issn "0126-8635",
+          name "The Malaysian journal of pathology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "40",
+          issue "1",
+          pages "11-26",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29704380
+      }
+    },
+    abstract "Tonsillectomy is among the most commonly performed operations in
+ children. Although follicular lymphoid hyperplasia is usually the main and
+ only pathologic finding at microscopic examination, a variety of other rare
+ but important pathologic changes may be encountered. This review aims to
+ provide an inclusive practical resource and reference for both training and
+ practising pathologists. It discusses the spectrum of pathologic findings,
+ including both neoplastic and non-neoplastic conditions and provides
+ illustrative images.",
+    mesh {
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Palatine Tonsil",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          },
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Tonsillectomy"
+      }
+    },
+    pmid 29704380,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

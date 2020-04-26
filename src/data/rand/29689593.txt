@@ -1,0 +1,177 @@
+
+Pubmed-entry ::= {
+  pmid 29689593,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Transcatheter Technologies for Valvular Replacement: an Update."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nenna A",
+            affil str "Department of Cardiovascular Surgery, University Campus
+ Bio-Medico of Rome, Rome, Italy."
+          },
+          {
+            name ml "Singh SSA",
+            affil str "Department of Cardiac Surgery, Golden Jubilee National
+ Hospital, Glasgow, UK."
+          },
+          {
+            name ml "Morganti S",
+            affil str "Department of Electrical, Computer, and Biomedical
+ Engineering, University of Pavia, Pavia, Italy."
+          },
+          {
+            name ml "Mazzocchi L",
+            affil str "Department of Civil Engineering and Architecture,
+ University of Pavia, Pavia, Italy."
+          },
+          {
+            name ml "Auricchio F",
+            affil str "Department of Civil Engineering and Architecture,
+ University of Pavia, Pavia, Italy."
+          },
+          {
+            name ml "Chello M",
+            affil str "Department of Cardiovascular Surgery, University Campus
+ Bio-Medico of Rome, Rome, Italy."
+          },
+          {
+            name ml "Nappi F",
+            affil str "Department of Cardiac Surgery, Centre Cardiologique du
+ Nord de Saint-Denis, Paris, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Surg Technol Int",
+          ml-jta "Surg Technol Int",
+          issn "1090-3941",
+          name "Surgical technology international"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 1
+          },
+          volume "32",
+          pages "190-199",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29689593,
+        pii "sti32/999"
+      }
+    },
+    abstract "This report provides a brief overview of the basic principles,
+ recent advances, and recommendations for the treatment of severe aortic
+ stenosis with transcatheter aortic valve replacement (TAVR) in adults.
+ Approaches that avoid neurological, cardiac and peripheral vascular
+ complications have been developed. In addition, TAVR can be performed in
+ intermediate- and low-risk patients. However, these procedures require
+ specialized training and may not allow for complete resolution of the
+ underlying issue. Even if cardiologists learn to perform the procedure and
+ despite advancements in device technology, TAVR is still susceptible to
+ structural valve degeneration, thrombosis and late cerebral embolization. To
+ date, TAVR has shown no consistent advantage over surgical aortic valve
+ replacement (SAVR) in intermediate- and low-risk patients.",
+    mesh {
+      {
+        term "Aortic Valve",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Aortic Valve Stenosis",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Heart Valve Prosthesis"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intracranial Embolism"
+      },
+      {
+        term "Postoperative Complications"
+      },
+      {
+        term "Prosthesis Failure"
+      },
+      {
+        term "Randomized Controlled Trials as Topic"
+      },
+      {
+        term "Thrombosis"
+      },
+      {
+        mp TRUE,
+        term "Transcatheter Aortic Valve Replacement"
+      }
+    },
+    pmid 29689593,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

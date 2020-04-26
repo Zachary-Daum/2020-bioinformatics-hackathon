@@ -1,0 +1,252 @@
+
+Pubmed-entry ::= {
+  pmid 29495466,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Domain III of Cry1Ac Is Critical to Binding and Toxicity against
+ Soybean Looper (Chrysodeixis includens) but Not to Velvetbean Caterpillar
+ (Anticarsia gemmatalis)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mushtaq R",
+            affil str "School of Biological Sciences, University of the
+ Punjab, Quaid-i-Azam Campus, Lahore 54590, Pakistan. rubina.sbs@pu.edu.pk."
+          },
+          {
+            name ml "Shakoori AR",
+            affil str "School of Biological Sciences, University of the
+ Punjab, Quaid-i-Azam Campus, Lahore 54590, Pakistan. arshakoori.sbs@pu.edu.pk."
+          },
+          {
+            name ml "Jurat-Fuentes JL",
+            affil str "Department of Entomology and Plant Pathology,
+ University of Tennessee, Knoxville, TN 37996, USA. jurat@utk.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Toxins (Basel)",
+          ml-jta "Toxins (Basel)",
+          issn "2072-6651",
+          name "Toxins"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 27
+          },
+          volume "10",
+          issue "3",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 22
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29495466,
+        pii "toxins10030095",
+        doi "10.3390/toxins10030095",
+        other {
+          db "pmc",
+          tag str "PMC5869383"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E95"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/toxins10030095"
+        }
+      }
+    },
+    abstract "Insecticidal proteins Cry1Ac and Cry2Ac7 from the bacterium
+ Bacillus thuringiensis (Bt) belong to the three-domain family of Bt toxins.
+ Commercial transgenic soybean hybrids produce Cry1Ac to control the larvae of
+ the soybean looper (Chrysodeixis includens) and the velvet bean caterpillar
+ (Anticarsia gemmatalis). The specificity of Cry1Ac is determined by loops
+ extending from domain II and regions of domain III in the three-dimensional
+ structure of the toxin. In this study, we constructed a hybrid toxin (H1.2Ac)
+ containing domains I and II of Cry1Ac and domain III of Cry2Ac7, in an
+ attempt to obtain a protein with enhanced toxicity compared to parental
+ toxins. Bioassays with H1.2Ac revealed toxicity against the larvae of A.
+ gemmatalis but not against C. includens. Saturation binding assays with
+ radiolabeled toxins and midgut brush border membrane vesicles demonstrated no
+ specific H1.2Ac binding to C. includens, while binding in A. gemmatalis was
+ specific and saturable. Results from competition binding assays supported the
+ finding that Cry1Ac specificity against A. gemmatalis is mainly dictated by
+ domain II. Taken together, these distinct interactions with binding sites may
+ help explain the differential susceptibility to Cry1Ac in C. includens and A.
+ gemmatalis, and guide the design of improved toxins against soybean pests.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Bacterial Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Binding, Competitive"
+      },
+      {
+        term "Biological Assay"
+      },
+      {
+        mp TRUE,
+        term "Endotoxins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Hemolysin Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Larva",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Lepidoptera",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protein Domains"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Bacterial Proteins"
+      },
+      {
+        type nameonly,
+        name "Endotoxins"
+      },
+      {
+        type nameonly,
+        name "Hemolysin Proteins"
+      },
+      {
+        type nameonly,
+        name "insecticidal crystal protein, Bacillus Thuringiensis"
+      }
+    },
+    pmid 29495466,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

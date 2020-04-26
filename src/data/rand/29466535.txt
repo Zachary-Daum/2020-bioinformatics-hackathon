@@ -1,0 +1,191 @@
+
+Pubmed-entry ::= {
+  pmid 29466535,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Cross-Linguistic Cognate Production in Spanish-English Bilingual
+ Children With and Without Specific Language Impairment."
+      },
+      authors {
+        names std {
+          {
+            name ml "Grasso SM",
+            affil str "Department of Communication Sciences and Disorders, The
+ University of Texas at Austin."
+          },
+          {
+            name ml "Pena ED",
+            affil str "School of Education, The University of California,
+ Irvine."
+          },
+          {
+            name ml "Bedore LM",
+            affil str "Department of Communication Sciences and Disorders, The
+ University of Texas at Austin."
+          },
+          {
+            name ml "Hixon JG",
+            affil str "Department of Psychology, The University of Texas at
+ Austin."
+          },
+          {
+            name ml "Griffin ZM",
+            affil str "Department of Psychology, The University of Texas at
+ Austin."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Speech Lang. Hear. Res.",
+          ml-jta "J Speech Lang Hear Res",
+          issn "1558-9102",
+          name "Journal of speech, language, and hearing research : JSLHR"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 15
+          },
+          volume "61",
+          issue "3",
+          pages "619-633",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 11,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29466535,
+        pii "2673598",
+        doi "10.1044/2017_JSLHR-L-16-0421",
+        other {
+          db "pmc",
+          tag str "PMC5963043"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1044/2017_JSLHR-L-16-0421"
+        }
+      }
+    },
+    abstract "Purpose: Bilinguals tend to produce cognates (e.g., telephone in
+ English and telefono in Spanish) more accurately than they produce
+ noncognates (table/mesa). We tested whether the same holds for bilingual
+ children with specific language impairment (SLI). Method: Participants
+ included Spanish-English bilingual children (aged 5;0 to 9;11
+ [years;months]), 25 with SLI and 92 without, who had comparable language
+ experience. Cognate and noncognate items were taken from English and Spanish
+ versions of the Expressive One-Word Picture Vocabulary Test (Brownell, 2000,
+ 2001). Results: Although bilingual children with language impairment named
+ fewer items correctly overall, they accurately named cognates more often than
+ noncognates, as did typically developing children. Independent of language
+ ability, accurate naming of a cognate in one language strongly predicted
+ accurate naming in the other language. Conclusion: Language impairment
+ appears unrelated to the mechanism that produces a cognate advantage in
+ naming accuracy. Given that correct performance for a difficult word in one
+ language is associated with knowing its cognate in another, cognates may be
+ particularly viable targets for language intervention in bilingual children
+ with SLI.",
+    mesh {
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Language Development Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Language Tests"
+      },
+      {
+        mp TRUE,
+        term "Multilingualism"
+      },
+      {
+        term "Names"
+      },
+      {
+        term "Psycholinguistics"
+      }
+    },
+    idnum {
+      "R01 DC010366/DC/NIDCD NIH HHS"
+    },
+    pmid 29466535,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

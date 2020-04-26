@@ -1,0 +1,204 @@
+
+Pubmed-entry ::= {
+  pmid 29706165,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "What Happens to Children Whose Parents Commit Suicide?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Romanowicz M",
+            affil str "Mayo Clinic, Rochester, MN. Electronic address:
+ romanowicz.magdalena@mayo.edu."
+          },
+          {
+            name ml "McKean AJ",
+            affil str "Mayo Clinic, Rochester, MN."
+          },
+          {
+            name ml "Vande Voort JL",
+            affil str "Mayo Clinic, Rochester, MN."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Am Acad Child Adolesc Psychiatry",
+          ml-jta "J Am Acad Child Adolesc Psychiatry",
+          issn "1527-5418",
+          name "Journal of the American Academy of Child and Adolescent
+ Psychiatry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "57",
+          issue "5",
+          pages "351-352",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 7
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 8
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29706165,
+        pii "S0890-8567(18)30103-5",
+        doi "10.1016/j.jaac.2018.01.022",
+        other {
+          db "ELocationID pii",
+          tag str "S0890-8567(18)30103-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jaac.2018.01.022"
+        }
+      }
+    },
+    abstract "Suicide remains one of the leading causes of death among 25- to
+ 49-year-olds in the United States, and each year roughly 30,000 children are
+ victims of parental suicide in the United States (Center for Disease Control
+ and Prevention, 2005).(1) We report a case of a young child who lost both of
+ his parents to suicide.",
+    mesh {
+      {
+        term "Age Factors"
+      },
+      {
+        term "Anxiety, Separation",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Attention Deficit Disorder with Hyperactivity",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child of Impaired Parents",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Parents",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Stress Disorders, Post-Traumatic",
+        qual {
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Suicide"
+      },
+      {
+        mp TRUE,
+        term "Truth Disclosure"
+      },
+      {
+        term "United States"
+      }
+    },
+    pmid 29706165,
+    pub-type {
+      "Case Reports",
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

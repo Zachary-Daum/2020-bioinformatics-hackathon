@@ -1,0 +1,247 @@
+
+Pubmed-entry ::= {
+  pmid 29641712,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Panniculitis associated with amyopathic dermatomyositis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Azevedo PO",
+            affil str "(Dermatology Service, Faculdade de Medicina de Jundiai
+ (FMJ) - Jundiai (SP), Brasil."
+          },
+          {
+            name ml "Castellen NR",
+            affil str "(Dermatology Service, Faculdade de Medicina de Jundiai
+ (FMJ) - Jundiai (SP), Brasil."
+          },
+          {
+            name ml "Salai AF",
+            affil str "(Dermatology Service, Faculdade de Medicina de Jundiai
+ (FMJ) - Jundiai (SP), Brasil."
+          },
+          {
+            name ml "Barbosa FS",
+            affil str "(Dermatology Service, Faculdade de Medicina de Jundiai
+ (FMJ) - Jundiai (SP), Brasil."
+          },
+          {
+            name ml "Alves CAXM",
+            affil str "(Dermatology Service, Faculdade de Medicina de Jundiai
+ (FMJ) - Jundiai (SP), Brasil."
+          },
+          {
+            name ml "Pinto CAL",
+            affil str "Department of Pathology, Faculdade de Medicina de
+ Jundiai (FMJ) - Jundiai (SP), Brasil.; Pathology Service, Hospital AC Camargo
+ - Sao Paulo (SP), Brasil."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "An Bras Dermatol",
+          ml-jta "An Bras Dermatol",
+          issn "1806-4841",
+          name "Anais brasileiros de dermatologia"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "93",
+          issue "1",
+          pages "119-121",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 7,
+                day 31
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29641712,
+        pii "S0365-05962018000100119",
+        doi "10.1590/abd1806-4841.20186597",
+        other {
+          db "pmc",
+          tag str "PMC5871377"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0365-05962018000100119"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1590/abd1806-4841.20186597"
+        }
+      }
+    },
+    abstract "Panniculitis is a rare clinical finding in dermatomyositis, with
+ less than 30 cases reported and there is only one case associated with the
+ amyopathic subtype described in the literature. The present report describes
+ a 49-year-old female patient that one year after being diagnosed with
+ amyopathic dermatomyositis, presented indurated, painful, erythematous to
+ violaceous nodules located on the upper limbs, thighs and gluteal region.
+ Skin biopsy revealed lobular panniculitis with a lymphocytic infiltrate. The
+ patient was treated with prednisone and methotrexate, but remained
+ unresponsive to treatment.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Dermatologic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Dermatomyositis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Methotrexate",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Panniculitis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Prednisone",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Treatment Failure"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Dermatologic Agents"
+      },
+      {
+        type cas,
+        cit "VB0R961HZT",
+        name "Prednisone"
+      },
+      {
+        type cas,
+        cit "YL5FZ2Y5U1",
+        name "Methotrexate"
+      }
+    },
+    pmid 29641712,
+    pub-type {
+      "Case Reports"
+    },
+    status medline
+  }
+}
+
+

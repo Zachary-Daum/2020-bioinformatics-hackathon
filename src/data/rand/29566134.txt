@@ -1,0 +1,237 @@
+
+Pubmed-entry ::= {
+  pmid 29566134,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Purification of lectin and Kunitz trypsin inhibitor from soya
+ seeds."
+      },
+      authors {
+        names std {
+          {
+            name ml "Roy UK",
+            affil str "Faculty of Engineering and Science, University of
+ Greenwich, Chatham Maritime, Kent ME4 4TB, UK."
+          },
+          {
+            name ml "Lavignac N",
+            affil str "Medway School of Pharmacy, Universities of Kent and
+ Greenwich, Chatham Maritime, Kent ME4 4TB, UK."
+          },
+          {
+            name ml "Rahman AM",
+            affil str "Faculty of Engineering and Science, University of
+ Greenwich, Chatham Maritime, Kent ME4 4TB, UK."
+          },
+          {
+            name ml "Nielsen BV",
+            affil str "Faculty of Engineering and Science, University of
+ Greenwich, Chatham Maritime, Kent ME4 4TB, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Chromatogr Sci",
+          ml-jta "J Chromatogr Sci",
+          issn "1945-239X",
+          name "Journal of chromatographic science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 1
+          },
+          volume "56",
+          issue "5",
+          pages "436-442",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 12
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29566134,
+        pii "4939382",
+        doi "10.1093/chromsci/bmy018",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/chromsci/bmy018"
+        }
+      }
+    },
+    abstract "The search for potent and selective therapeutic agents is
+ progressing by the study of natural compounds in plants. Plant-derived
+ macromolecules are considered emerging therapeutic agents and an alternative
+ to synthetic and small molecule drugs. Where it has long been known that
+ plants possess medicinal properties, the compounds responsible for their
+ action are in many cases still unknown: often only whole crude plant extracts
+ or fractionated extracts are tested for the ability to inhibit common
+ pathogens. Here, we present a fast protein liquid chromatography method for
+ the separation of crude plant proteins. Kunitz trypsin inhibitor (KTI; 24.2
+ kDa) and lectin (31 kDa) were purified from Glycine max by liquid extraction
+ followed by ion exchange column chromatography. The need for serial
+ chromatographic separation steps has been eliminated by introducing more
+ complex elution profiles hence reducing cost, time and improving recovery.
+ The identity of KTI-A and lectin was confirmed by matrix assisted laser
+ desorption ionization time of flight mass spectrometry (MALDI-ToF MS). Cell
+ proliferation assays using B16F1 melanoma cells revealed that both KTI and
+ the monomeric lectin retained some antiproliferative activity. This method
+ could be useful for rapid and cost-effective purification of bioactive
+ compounds from plant material.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Chromatography, Ion Exchange"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Plant Lectins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Seeds",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Soybeans",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization"
+      },
+      {
+        term "Trypsin Inhibitor, Kunitz Soybean",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Plant Lectins"
+      },
+      {
+        type cas,
+        cit "9088-41-9",
+        name "Trypsin Inhibitor, Kunitz Soybean"
+      }
+    },
+    pmid 29566134,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,112 @@
+
+Pubmed-entry ::= {
+  pmid 29421919,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Late migration of a metal stent after EUS-drainage of a
+ pancreatic pseudocyst abscess."
+      },
+      authors {
+        names std {
+          {
+            name ml "Maldonado Perez B",
+            affil str "Aparato Digestivo, Hospital Universitario Virgen
+ Macarena, Espana."
+          },
+          {
+            name ml "Guerra Veloz MF",
+            affil str "Aparato Digestivo, Hospital Universitario Virgen
+ Macarena, Espana."
+          },
+          {
+            name ml "Romero Castro R",
+            affil str "Aparato Digestivo, Hospital Universitario Virgen
+ Macarena, Espana."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Rev Esp Enferm Dig",
+          ml-jta "Rev Esp Enferm Dig",
+          issn "1130-0108",
+          name "Revista espanola de enfermedades digestivas : organo oficial
+ de la Sociedad Espanola de Patologia Digestiva"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "110",
+          issue "4",
+          pages "265-266",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29421919,
+        doi "10.17235/reed.2018.5411/2017",
+        other {
+          db "ELocationID doi",
+          tag str "10.17235/reed.2018.5411/2017"
+        }
+      }
+    },
+    abstract "Endoscopic ultrasound (EUS)-guided drainage of pancreatic
+ collections has replaced surgery as the first line of treatment due its
+ accuracy and safety profile. A higher success rate and fewer adverse events
+ has been observed using fully covered metal stent for the drainage. However,
+ complications of EUS-guided drainage can appear. We present a case of late
+ migration of the stent.",
+    pmid 29421919,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status premedline
+  }
+}
+
+

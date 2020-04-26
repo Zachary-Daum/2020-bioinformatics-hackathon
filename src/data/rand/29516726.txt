@@ -1,0 +1,208 @@
+
+Pubmed-entry ::= {
+  pmid 29516726,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Shifting Global Exposures to Poly- and Perfluoroalkyl Substances
+ (PFASs) Evident in Longitudinal Birth Cohorts from a Seafood-Consuming
+ Population."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dassuncao C",
+            affil str "Harvard T. H. Chan School of Public Health , Boston ,
+ Massachusetts 02215 , United States.; Harvard John A. Paulson School of
+ Engineering and Applied Sciences , Cambridge , Massachusetts 02138 , United
+ States."
+          },
+          {
+            name ml "Hu XC",
+            affil str "Harvard T. H. Chan School of Public Health , Boston ,
+ Massachusetts 02215 , United States.; Harvard John A. Paulson School of
+ Engineering and Applied Sciences , Cambridge , Massachusetts 02138 , United
+ States."
+          },
+          {
+            name ml "Nielsen F",
+            affil str "University of Southern Denmark , DK-5000 Odense ,
+ Denmark."
+          },
+          {
+            name ml "Weihe P",
+            affil str "The Faroese Hospital System , FR-100 Torshavn , Faroe
+ Islands."
+          },
+          {
+            name ml "Grandjean P",
+            affil str "Harvard T. H. Chan School of Public Health , Boston ,
+ Massachusetts 02215 , United States.; University of Southern Denmark ,
+ DK-5000 Odense , Denmark."
+          },
+          {
+            name ml "Sunderland EM",
+            affil str "Harvard T. H. Chan School of Public Health , Boston ,
+ Massachusetts 02215 , United States.; Harvard John A. Paulson School of
+ Engineering and Applied Sciences , Cambridge , Massachusetts 02138 , United
+ States."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ. Sci. Technol.",
+          ml-jta "Environ Sci Technol",
+          issn "1520-5851",
+          name "Environmental science & technology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 20
+          },
+          volume "52",
+          issue "6",
+          pages "3738-3747",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29516726,
+        doi "10.1021/acs.est.7b06044",
+        other {
+          db "pmc",
+          tag str "PMC6438388"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS1008860"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acs.est.7b06044"
+        }
+      }
+    },
+    abstract "Rapid declines in legacy poly- and perfluoroalkyl substances
+ (PFASs) have been reported in human populations globally following changes in
+ production since 2000. However, changes in exposure sources are not well
+ understood. Here, we report serum concentrations of 19 PFASs ( summation
+ operator19PFAS) measured in children between 1993 and 2012 from a North
+ Atlantic fishing community (Faroe Islands). Median  summation operator19PFAS
+ concentrations in children (ages 5-13 years) peaked in 2000 (47.7 ng mL(-1))
+ and declined significantly by 14.4% year(-1) until 2012. Principal component
+ analysis (PCA) identified two groups of PFASs that likely reflect exposures
+ from diverse consumer products and a third group that consisted of
+ perfluorocarboxylic acids (PFCAs) with nine or more carbons (C >/= 9). These
+ C >/= 9 PFASs are strongly associated with mercury in children's hair, a
+ well-established proxy for seafood consumption, especially
+ perfluoroundecanoic acid (PFUnDA, r = 0.72). Toxicokinetic modeling shows
+ PFAS exposures from seafood have become increasingly important (53% of
+ perfluorooctanesulfonate, PFOS, in 2012), despite a decline in whale
+ consumption in recent years. We infer that even in a major seafood-consuming
+ population, declines in legacy PFAS exposure after 2000 were achieved by the
+ rapid phase out of PFOS and its precursors in consumer products. These
+ results emphasize the importance of better understanding exposures to
+ replacement PFASs in these sources.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Denmark"
+      },
+      {
+        term "Environmental Monitoring"
+      },
+      {
+        mp TRUE,
+        term "Fluorocarbons"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Mercury"
+      },
+      {
+        term "Time"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Fluorocarbons"
+      },
+      {
+        type cas,
+        cit "FXS1BY2PGL",
+        name "Mercury"
+      }
+    },
+    idnum {
+      "R01 ES021993/ES/NIEHS NIH HHS",
+      "R01 ES026596/ES/NIEHS NIH HHS",
+      "R01 ES012199/ES/NIEHS NIH HHS",
+      "R01 ES013692/ES/NIEHS NIH HHS",
+      "P42 ES027706/ES/NIEHS NIH HHS"
+    },
+    pmid 29516726,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

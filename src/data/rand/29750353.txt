@@ -1,0 +1,132 @@
+
+Pubmed-entry ::= {
+  pmid 29750353,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Who is my Jung? Memories, Reflections, Prospects."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stone M",
+            affil str "London."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Anal Psychol",
+          ml-jta "J Anal Psychol",
+          issn "1468-5922",
+          name "The Journal of analytical psychology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "63",
+          issue "3",
+          pages "280-294",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29750353,
+        doi "10.1111/1468-5922.12409",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/1468-5922.12409"
+        }
+      }
+    },
+    abstract "The author describes his personal and professional journey in
+ relation to the subject of the AJA 40(th) anniversary conference, 'Who is my
+ Jung?' The first part of the paper covers his early life and his attempt to
+ bring together two opposing parts within him: valuation of a scientific
+ approach, and an interest in the inner world, dreams and the paranormal.
+ Discussion of his professional life follows, including his relationship with
+ Gerhard Adler, past problems and splits within the Jungian community and the
+ author's attempts to heal these. The value of both remembering and forgetting
+ is questioned. This leads onto ideas that bring value and meaning to his work
+ and life, and which bridge the inner divisions he felt in his early life:
+ notably Jung's focus on applying scientific theory to the mystery of the
+ psyche, his relational attitude (exemplified by the dialectical process and
+ his interest in countertransference) and his theory of synchronicity. Recent
+ discussion in Jungian writing has questioned the nature of synchronistic
+ experiences and explored how they may emerge naturally from complex systems.
+ The paper ends the author's continuing journey with two personal vignettes
+ describing how meaning may emerge from the unconscious.",
+    mesh {
+      {
+        mp TRUE,
+        term "Career Choice"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Jungian Theory"
+      },
+      {
+        term "Psychoanalytic Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 29750353,
+    pub-type {
+      "Journal Article",
+      "Personal Narrative"
+    },
+    status medline
+  }
+}
+
+

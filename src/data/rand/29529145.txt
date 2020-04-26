@@ -1,0 +1,229 @@
+
+Pubmed-entry ::= {
+  pmid 29529145,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Contribution to the understanding of how principal component
+ analysis-derived dietary patterns emerge from habitual data on food
+ consumption."
+      },
+      authors {
+        names std {
+          {
+            name ml "Schwedhelm C",
+            affil str "Department of Epidemiology, German Institute of Human
+ Nutrition Potsdam-Rehbruecke (DIfE), Nuthetal, Germany.; NutriAct-Competence
+ Cluster Nutrition Research Berlin-Potsdam, Germany."
+          },
+          {
+            name ml "Iqbal K",
+            affil str "Department of Epidemiology, German Institute of Human
+ Nutrition Potsdam-Rehbruecke (DIfE), Nuthetal, Germany.; NutriAct-Competence
+ Cluster Nutrition Research Berlin-Potsdam, Germany."
+          },
+          {
+            name ml "Knuppel S",
+            affil str "Department of Epidemiology, German Institute of Human
+ Nutrition Potsdam-Rehbruecke (DIfE), Nuthetal, Germany."
+          },
+          {
+            name ml "Schwingshackl L",
+            affil str "Department of Epidemiology, German Institute of Human
+ Nutrition Potsdam-Rehbruecke (DIfE), Nuthetal, Germany.; NutriAct-Competence
+ Cluster Nutrition Research Berlin-Potsdam, Germany."
+          },
+          {
+            name ml "Boeing H",
+            affil str "Department of Epidemiology, German Institute of Human
+ Nutrition Potsdam-Rehbruecke (DIfE), Nuthetal, Germany.; NutriAct-Competence
+ Cluster Nutrition Research Berlin-Potsdam, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Clin. Nutr.",
+          ml-jta "Am J Clin Nutr",
+          issn "1938-3207",
+          name "The American journal of clinical nutrition"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 1
+          },
+          volume "107",
+          issue "2",
+          pages "227-235",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 2,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 14
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29529145,
+        pii "4911435",
+        doi "10.1093/ajcn/nqx027",
+        other {
+          db "pmc",
+          tag str "PMC6411615"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/ajcn/nqx027"
+        }
+      }
+    },
+    abstract "Background: Principal component analysis (PCA) is a widely used
+ exploratory method in epidemiology to derive dietary patterns from habitual
+ diet. Such dietary patterns seem to originate from intakes on multiple days
+ and eating occasions. Therefore, analyzing food intake of study populations
+ with different levels of food consumption can provide additional insights as
+ to how habitual dietary patterns are formed. Objective: We analyzed the food
+ intake data of German adults in terms of the relations among food groups from
+ three 24-h dietary recalls (24hDRs) on the habitual, single-day, and
+ main-meal levels, and investigated the contribution of each level to the
+ formation of PCA-derived habitual dietary patterns. Design: Three 24hDRs were
+ collected in 2010-2012 from 816 adults for an European Prospective
+ Investigation into Cancer and Nutrition (EPIC)-Potsdam subcohort study. We
+ identified PCA-derived habitual dietary patterns and compared cross-sectional
+ food consumption data in terms of correlation (Spearman), consistency
+ (intraclass correlation coefficient), and frequency of consumption across all
+ days and main meals. Contribution to the formation of the dietary patterns
+ was obtained through Spearman correlation of the dietary pattern scores.
+ Results: Among the meals, breakfast appeared to be the most consistent eating
+ occasion within individuals. Dinner showed the strongest correlations with 
+""Prudent"" (Spearman correlation = 0.60), ""Western"" (Spearman correlation =
+ 0.59), and ""Traditional"" (Spearman correlation = 0.60) dietary patterns
+ identified on the habitual level, and lunch showed the strongest correlations
+ with the ""Cereals and legumes"" (Spearman correlation = 0.60) habitual
+ dietary pattern. Conclusions: Higher meal consistency was related to lower
+ contributions to the formation of PCA-derived habitual dietary patterns.
+ Absolute amounts of food consumption did not strongly conform to the habitual
+ dietary patterns by meals, suggesting that these patterns are formed by
+ complex combinations of variable food consumption across meals. Dinner showed
+ the highest contribution to the formation of habitual dietary patterns. This
+ study provided information about how PCA-derived dietary patterns are formed
+ and how they could be influenced.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Breakfast"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        mp TRUE,
+        term "Diet"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Germany"
+      },
+      {
+        mp TRUE,
+        term "Health Behavior"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Meals"
+      },
+      {
+        term "Mental Recall"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Nutrition Assessment"
+      },
+      {
+        mp TRUE,
+        term "Principal Component Analysis"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 29529145,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

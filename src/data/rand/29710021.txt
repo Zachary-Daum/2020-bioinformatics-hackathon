@@ -1,0 +1,174 @@
+
+Pubmed-entry ::= {
+  pmid 29710021,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Right parietal cerebral infarction with symptoms challenging to
+ differentiate between alien hand sign and sensory ataxia: a case report]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kanbayashi T",
+            affil str "Department of Neurology, Teikyo University School of
+ Medicine."
+          },
+          {
+            name ml "Uchida Y",
+            affil str "Department of Neurology, Teikyo University School of
+ Medicine."
+          },
+          {
+            name ml "Hokkoku K",
+            affil str "Department of Neurology, Teikyo University School of
+ Medicine."
+          },
+          {
+            name ml "Sonoo M",
+            affil str "Department of Neurology, Teikyo University School of
+ Medicine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Rinsho Shinkeigaku",
+          ml-jta "Rinsho Shinkeigaku",
+          issn "1882-0654",
+          name "Rinsho shinkeigaku = Clinical neurology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 25
+          },
+          volume "58",
+          issue "5",
+          pages "287-291",
+          language "jpn",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29710021,
+        doi "10.5692/clinicalneurol.cn-001101",
+        other {
+          db "ELocationID doi",
+          tag str "10.5692/clinicalneurol.cn-001101"
+        }
+      }
+    },
+    abstract "We report the case of a 73-year-old right-handed female with a
+ right parietal cerebral infarction and presented symptoms that were
+ challenging to differentiate between alien hand sign (AHS) and sensory
+ ataxia. She presented to our emergency department with chief complaints of
+ abnormal involuntary movements and a feeling of foreignness on her left upper
+ limb. The first neurological examination revealed left spatial neglect,
+ left-side sensory impairment that included superficial and deep sensations,
+ left limb-kinetic apraxia, and left limb ataxia. Furthermore, her symptoms
+ and complaints had characteristics of AHS that includes a sensation that her
+ left upper limb dose not belong to herself and an abnormal behavior of left
+ hand that is contrary to her own intent. Brain MRI revealed an acute cerebral
+ infarction confined to the right postcentral gyrus. This case highlights that
+ sensory ataxia due to the disturbance of deep sensation might present
+ symptoms similar to AHS. Previous studies suggested the involvement of the
+ disturbance of somatosensory pathway in posterior-variant AHS. Therefore, a
+ precise distinction between AHS and sensory ataxia, especially in
+ posterior-variant AHS, is imperative to avoid confusion regarding the term 
+""alien hand sign.""",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Alien Hand Syndrome"
+      },
+      {
+        term "Ataxia"
+      },
+      {
+        term "Cerebral Infarction",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Magnetic Resonance Imaging"
+      },
+      {
+        term "Parietal Lobe",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      }
+    },
+    pmid 29710021,
+    pub-type {
+      "Case Reports",
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

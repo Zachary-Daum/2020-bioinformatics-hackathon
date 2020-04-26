@@ -1,0 +1,163 @@
+
+Pubmed-entry ::= {
+  pmid 29939401,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prague Special Issue."
+      },
+      authors {
+        names std {
+          {
+            name ml "Just W",
+            affil str "University of Heidelberg, BZH, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "FEBS Lett.",
+          ml-jta "FEBS Lett",
+          issn "1873-3468",
+          name "FEBS letters"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "592",
+          issue "12",
+          pages "1907-1908",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29939401,
+        doi "10.1002/1873-3468.13110",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/1873-3468.13110"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Anniversaries and Special Events"
+      },
+      {
+        term "Congresses as Topic"
+      },
+      {
+        term "History, 20th Century"
+      },
+      {
+        term "History, 21st Century"
+      },
+      {
+        term "Host-Pathogen Interactions"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kinesin",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Periodicals as Topic",
+        qual {
+          {
+            mp TRUE,
+            subh "history"
+          }
+        }
+      },
+      {
+        term "Plant Proteins",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Plants",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Plant Proteins"
+      },
+      {
+        type ec,
+        cit "3.6.4.4",
+        name "Kinesin"
+      }
+    },
+    pmid 29939401,
+    pub-type {
+      "Editorial",
+      "Historical Article",
+      "Introductory Journal Article"
+    },
+    status medline
+  }
+}
+
+

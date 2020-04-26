@@ -1,0 +1,181 @@
+
+Pubmed-entry ::= {
+  pmid 29943557,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Clinical Implication of Sarcopenia in Patients with Inflammatory
+ Bowel Disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kim SE",
+            affil str "Department of Internal Medicine, Ewha Womans University
+ College of Medicine, Seoul, Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Korean J Gastroenterol",
+          ml-jta "Korean J Gastroenterol",
+          issn "2233-6869",
+          name "The Korean journal of gastroenterology = Taehan Sohwagi Hakhoe
+ chi"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 25
+          },
+          volume "71",
+          issue "6",
+          pages "308-314",
+          language "kor",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29943557,
+        pii "10.4166kjg.2018.71.6.308",
+        doi "10.4166/kjg.2018.71.6.308",
+        other {
+          db "ELocationID doi",
+          tag str "10.4166/kjg.2018.71.6.308"
+        }
+      }
+    },
+    abstract "Recent studies have shown that inflammatory bowel disease (IBD)
+ patients are affected by altered body composition, especially low muscle mass
+ or sarcopenia. Detection of sarcopenia is important, as it can independently
+ predict osteopenia, sarcopenic obesity, and poor disease outcomes during IBD
+ progress. The challenges are needed to identify diagnostic and managing
+ strategies for sarcopenia in IBD to improve disease outcomes and increase the
+ quality of life in patients with IBD.",
+    mesh {
+      {
+        term "Body Composition"
+      },
+      {
+        term "Body Mass Index"
+      },
+      {
+        term "Bone and Bones",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammatory Bowel Diseases",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Muscle, Skeletal",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Obesity",
+        qual {
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Sarcopenia",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      }
+    },
+    pmid 29943557,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

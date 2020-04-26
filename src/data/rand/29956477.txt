@@ -1,0 +1,322 @@
+
+Pubmed-entry ::= {
+  pmid 29956477,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 30,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Banff Lung Report: Current knowledge and future research
+ perspectives for diagnosis and treatment of pulmonary antibody-mediated
+ rejection (AMR)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Roux A",
+            affil str "Pneumology, Adult CF Center and Lung Transplantation
+ Department, Foch Hospital, Suresnes, France.; Paris Translational Research
+ Center for Organ Transplantation, French National institute of Health and
+ Medical Research (INSERM). Unit UMR S970, Paris, France.; Versailles
+ Saint-Quentin-en-Yvelines University, UPRES EA 220, Suresnes, France."
+          },
+          {
+            name ml "Levine DJ",
+            affil str "Division of Pulmonary and Critical Care Medicine,
+ University of Texas Health Science Center San Antonio, San Antonio, TX, USA."
+          },
+          {
+            name ml "Zeevi A",
+            affil str "Department of Pathology, University of Pittsburgh
+ Medical Center, Pittsburgh, PA, USA."
+          },
+          {
+            name ml "Hachem R",
+            affil str "Washington University, School of Medicine Division of
+ Pulmonary & Critical Care, St. Louis, MO, USA."
+          },
+          {
+            name ml "Halloran K",
+            affil str "Department of Medicine, University of Alberta,
+ Edmonton, Alberta, Canada."
+          },
+          {
+            name ml "Halloran PF",
+            affil str "Alberta Transplant Applied Genomics Center, University
+ of Alberta, Edmonton, Alberta, Canada."
+          },
+          {
+            name ml "Gibault L",
+            affil str "Department of Pathology, Georges Pompidou European
+ Hospital, Assistance Publique-Hopitaux de Paris, Paris, France."
+          },
+          {
+            name ml "Taupin JL",
+            affil str "Department of Immunology and Histocompatibility,
+ Saint-Louis Hospital, Assistance Publique-Hopitaux de Paris, Paris, France."
+          },
+          {
+            name ml "Neil DAH",
+            affil str "Department of Pathology, Queen Elizabeth Hospital,
+ Birmingham, UK."
+          },
+          {
+            name ml "Loupy A",
+            affil str "Paris Translational Research Center for Organ
+ Transplantation, French National institute of Health and Medical Research
+ (INSERM). Unit UMR S970, Paris, France."
+          },
+          {
+            name ml "Adam BA",
+            affil str "Department of Laboratory Medicine and Pathology,
+ University of Alberta, Edmonton, Alberta, Canada."
+          },
+          {
+            name ml "Mengel M",
+            affil str "Department of Laboratory Medicine and Pathology,
+ University of Alberta, Edmonton, Alberta, Canada."
+          },
+          {
+            name ml "Hwang DM",
+            affil str "Toronto Lung Transplant Program, University Health
+ Network, University of Toronto, Ontario, Canada."
+          },
+          {
+            name ml "Calabrese F",
+            affil str "Department of Cardio-Thoracic and Vascular Sciences,
+ Pathology Section, University of Padova, Italy."
+          },
+          {
+            name ml "Berry G",
+            affil str "Department of Pathology, Stanford University, Stanford,
+ CA, USA."
+          },
+          {
+            name ml "Pavlisko EN",
+            affil str "Department of Pathology, Duke University Hospital,
+ Durham, NC, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Transplant.",
+          ml-jta "Am J Transplant",
+          issn "1600-6143",
+          name "American journal of transplantation : official journal of the
+ American Society of Transplantation and the American Society of Transplant
+ Surgeons"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "19",
+          issue "1",
+          pages "21-31",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 5
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 6,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29956477,
+        doi "10.1111/ajt.14990",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ajt.14990"
+        }
+      }
+    },
+    abstract "The Lung session of the 2017 14th Banff Foundation for Allograft
+ Pathology Conference, Barcelona focused on the multiple aspects of
+ antibody-mediated rejection (AMR) in lung transplantation. Multidimensional
+ approaches for AMR diagnosis, including classification, histological and
+ immunohistochemical analysis, and donor- specific antibody (DSA)
+ characterization with their current strengths and limitations were reviewed
+ in view of recent research. The group also discussed the role of tissue gene
+ expression analysis in the context of unmet needs in lung transplantation.
+ The current best practice for monitoring of AMR and the therapeutic approach
+ are summarized and highlighted in this report. The working group reached
+ consensus of the major gaps in current knowledge and focused on the
+ unanswered questions regarding pulmonary AMR. An important outcome of the
+ meeting was agreement on the need for future collaborative research projects
+ to address these gaps in the field of lung transplantation.",
+    mesh {
+      {
+        term "Allografts"
+      },
+      {
+        term "Antibodies",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Complement C4",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Gene Expression Profiling"
+      },
+      {
+        term "Graft Rejection",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "HLA Antigens",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunohistochemistry"
+      },
+      {
+        term "Isoantibodies",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Lung Transplantation"
+      },
+      {
+        term "Peptide Fragments",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Societies, Medical"
+      },
+      {
+        term "Tissue Donors"
+      },
+      {
+        term "Transplantation, Homologous"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antibodies"
+      },
+      {
+        type nameonly,
+        name "Complement C4"
+      },
+      {
+        type nameonly,
+        name "HLA Antigens"
+      },
+      {
+        type nameonly,
+        name "Isoantibodies"
+      },
+      {
+        type nameonly,
+        name "Peptide Fragments"
+      }
+    },
+    pmid 29956477,
+    pub-type {
+      "Congress"
+    },
+    status medline
+  }
+}
+
+

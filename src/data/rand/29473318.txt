@@ -1,0 +1,387 @@
+
+Pubmed-entry ::= {
+  pmid 29473318,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "First report on characterization and pathogenicity study of
+ emerging Lactococcus garvieae infection in farmed rainbow trout, Oncorhynchus
+ mykiss (Walbaum), from India."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shahi N",
+            affil str "ICAR-Directorate of Coldwater Fisheries Research,
+ Bhimtal, Uttarakhand, India."
+          },
+          {
+            name ml "Mallik SK",
+            affil str "ICAR-Directorate of Coldwater Fisheries Research,
+ Bhimtal, Uttarakhand, India."
+          },
+          {
+            name ml "Sahoo M",
+            affil str "ICAR-Indian Veterinary Research Institute, Bareilly,
+ Uttar Pradesh, India."
+          },
+          {
+            name ml "Chandra S",
+            affil str "ICAR-Directorate of Coldwater Fisheries Research,
+ Bhimtal, Uttarakhand, India."
+          },
+          {
+            name ml "Singh AK",
+            affil str "ICAR-Directorate of Coldwater Fisheries Research,
+ Bhimtal, Uttarakhand, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Transbound Emerg Dis",
+          ml-jta "Transbound Emerg Dis",
+          issn "1865-1682",
+          name "Transboundary and emerging diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "65",
+          issue "4",
+          pages "1039-1048",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 27
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29473318,
+        doi "10.1111/tbed.12843",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/tbed.12843"
+        }
+      }
+    },
+    abstract """Warm water lactococcosis"" in farm-reared rainbow trout,
+ Oncorhynchus mykiss (Walbaum) in the northern Himalayan region of India,
+ caused by bacterium Lactococcus garvieae is described in this study. Nine
+ bacterial isolates were recovered from the organs of haemorrhagic septicaemia
+ rainbow trout and were subjected to biochemical and molecular identification.
+ Cell surface characteristics and virulence of the bacterial isolates are also
+ described. All the nine bacterial isolates had homogenous biochemical
+ characteristics and were Gram-positive, short chains forming (two to eight
+ cells long), alpha-haemolytic, non-motile ovoid cocci. Partial 16S rDNA
+ nucleotide sequence (~1,400 bp) of current isolates shared 99% identities
+ with the 16S rDNA nucleotide sequence of L. garvieae R421, L. garvieae FMA395
+ and L. garvieae CAU:1730. The identity of the bacterial isolates was further
+ confirmed by PCR amplification of L. garvieae-specific ~1,100 bp fragment.
+ Transmission electron microscopy (TEM) of one representative isolate, L.
+ garvieae RTCLI04, indicates that the isolated strain lacks thick outer
+ capsule and is of KG+ (non-capsulates) phenotype. An intraperitoneal and
+ intramuscular injection (2.6 x 10(5) CFU ml(-1) ) and also immersion in
+ bacterial suspension @ of 2.6 x 10(5) CFU ml(-1) to healthy rainbow trout
+ juveniles (body weight: 27.5 +/- 3.7 g) with L. garvieae RTCLI04 caused 80%,
+ 60% and 10% cumulative mortality in challenged fish, respectively, within 15
+ days post-infection. The haemorrhagic septicaemic disease was reproduced
+ experimentally. Histopathological examination of organs of experimentally
+ infected fish revealed extensive degenerative and inflammatory changes in
+ eye, kidney, gill and liver. PCR amplification of several putative virulence
+ genes such as haemolysins, adhesins, LPxTG-containing surface proteins and
+ adhesins cluster confirms the virulence of our Indian L. garvieae isolates.
+ To the best of our knowledge, we are reporting for the first time that L.
+ garvieae is associated with fatal haemorrhagic septicaemia in farmed rainbow
+ trout in India.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Aquaculture"
+      },
+      {
+        term "Communicable Diseases, Emerging",
+        qual {
+          {
+            subh "microbiology"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "DNA, Bacterial",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Fish Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Gram-Positive Bacterial Infections",
+        qual {
+          {
+            subh "microbiology"
+          },
+          {
+            mp TRUE,
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "India"
+      },
+      {
+        term "Lactococcus",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "isolation & purification"
+          },
+          {
+            mp TRUE,
+            subh "pathogenicity"
+          }
+        }
+      },
+      {
+        term "Oncorhynchus mykiss",
+        qual {
+          {
+            mp TRUE,
+            subh "microbiology"
+          }
+        }
+      },
+      {
+        term "Polymerase Chain Reaction",
+        qual {
+          {
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "RNA, Ribosomal, 16S",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Sequence Analysis, DNA",
+        qual {
+          {
+            subh "veterinary"
+          }
+        }
+      },
+      {
+        term "Virulence"
+      },
+      {
+        term "Zoonoses"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "DNA, Bacterial"
+      },
+      {
+        type nameonly,
+        name "RNA, Ribosomal, 16S"
+      }
+    },
+    xref {
+      {
+        type genbank,
+        cit "AB470235"
+      },
+      {
+        type genbank,
+        cit "DQ985468"
+      },
+      {
+        type genbank,
+        cit "EU194346"
+      },
+      {
+        type genbank,
+        cit "KR149341"
+      },
+      {
+        type genbank,
+        cit "AB012212"
+      },
+      {
+        type genbank,
+        cit "AJ301830"
+      },
+      {
+        type genbank,
+        cit "AB681177"
+      },
+      {
+        type genbank,
+        cit "AB596943"
+      },
+      {
+        type genbank,
+        cit "AB596942"
+      },
+      {
+        type genbank,
+        cit "AB362598"
+      },
+      {
+        type genbank,
+        cit "AB921221"
+      },
+      {
+        type genbank,
+        cit "HQ721245"
+      },
+      {
+        type genbank,
+        cit "MF354860"
+      },
+      {
+        type genbank,
+        cit "JQ795812"
+      },
+      {
+        type genbank,
+        cit "NR113268"
+      },
+      {
+        type genbank,
+        cit "HF562964"
+      },
+      {
+        type genbank,
+        cit "NR104722"
+      },
+      {
+        type genbank,
+        cit "HQ407256"
+      },
+      {
+        type genbank,
+        cit "KP317697"
+      },
+      {
+        type genbank,
+        cit "KM604701"
+      },
+      {
+        type genbank,
+        cit "KM604702"
+      },
+      {
+        type genbank,
+        cit "KM604703"
+      },
+      {
+        type genbank,
+        cit "KM604704"
+      },
+      {
+        type genbank,
+        cit "MG009216"
+      },
+      {
+        type genbank,
+        cit "MG009217"
+      },
+      {
+        type genbank,
+        cit "MG009218"
+      },
+      {
+        type genbank,
+        cit "MG009219"
+      },
+      {
+        type genbank,
+        cit "MG009220"
+      },
+      {
+        type genbank,
+        cit "AB9221"
+      }
+    },
+    pmid 29473318,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 29554318,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Role of Physical Activity in the Association Between Smoking
+ Status and Quality of Life."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nduaguba SO",
+            affil str "Health Outcomes and Pharmacy Practice Division, the
+ University of Texas at Austin College of Pharmacy, Austin, Texas, USA."
+          },
+          {
+            name ml "Ford KH",
+            affil str "Health Outcomes and Pharmacy Practice Division, the
+ University of Texas at Austin College of Pharmacy, Austin, Texas, USA."
+          },
+          {
+            name ml "Rascati K",
+            affil str "Health Outcomes and Pharmacy Practice Division, the
+ University of Texas at Austin College of Pharmacy, Austin, Texas, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nicotine Tob. Res.",
+          ml-jta "Nicotine Tob Res",
+          issn "1469-994X",
+          name "Nicotine & tobacco research : official journal of the Society
+ for Research on Nicotine and Tobacco"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7,
+            day 17
+          },
+          volume "21",
+          issue "8",
+          pages "1065-1071",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 4,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29554318,
+        pii "4936981",
+        doi "10.1093/ntr/nty052",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/ntr/nty052"
+        }
+      }
+    },
+    abstract "OBJECTIVES: Nonsmoking status and physical activity have,
+ individually, been shown to be associated with health-related quality of life
+ (HRQoL). The objective of this study was to assess whether the relationship
+ between smoking status and HRQoL is modified or influenced by physical
+ activity. METHODS: Data were extracted from the 2014 Behavioral Risk Factor
+ Surveillance Survey dataset (N = 332680) in 2015. Logistic regression models
+ were used to address study objectives. Health-related quality of life
+ (HRQoL), measured using eight domains (general health, physical health,
+ mental health, activity limitations, pain, depressive symptoms, anxiety, and
+ vitality), was regressed on smoking status without and with adjustment for
+ age, race, gender, education, marital status, income, employment, healthcare
+ coverage, comorbidity, body mass index, flu vaccination, alcohol use, and
+ physical activity. Smoking status by physical activity interaction term was
+ added to the adjusted model and evaluated for significance. RESULTS: There
+ were significant smoking status by physical activity interaction effects on
+ general health, physical health, activity limitations, and depressive
+ symptoms domains. Among those who exercised, relative differences in the odds
+ of a high HRQoL was smaller between former smokers and nonsmokers and larger
+ between current smokers and nonsmokers when compared to those who did not
+ exercise. Similarly, there were sharper relative differences between those
+ who exercised and those who did not exercise among former smokers than among
+ current smokers. CONCLUSIONS: Smokers who successfully quit smoking (former
+ smokers) may benefit from enhanced HRQoL that tends towards that of
+ nonsmokers if they adopt physical activity in their daily routine.
+ IMPLICATIONS: Behavioral interventions that combine smoking cessation and
+ physical activity may be more effective than either smoking cessation or
+ physical activity alone in improving the quality of life measures such as
+ overall, physical and mental health, and degree of limitation to activities
+ due to poor health. Health care providers can support patients who
+ successfully quit smoking to add exercise to their daily routine with the
+ expectation of enhanced HRQoL.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Exercise",
+        qual {
+          {
+            subh "physiology"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Quality of Life",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Smokers",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Smoking",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Smoking Cessation",
+        qual {
+          {
+            subh "methods"
+          },
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29554318,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

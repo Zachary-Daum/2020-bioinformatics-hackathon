@@ -1,0 +1,122 @@
+
+Pubmed-entry ::= {
+  pmid 29534216,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Type I Spinal Dural Fistula Treated Using a Minimally Invasive
+ Approach With a 20-mm Nonexpandable Tubular Retractor: 3-Dimensional
+ Operative Video."
+      },
+      authors {
+        names std {
+          {
+            name ml "Patel K",
+            affil str "Division of Neurosurgery, Cambridge University Hospital
+'s NHS Foundation Trust, Cambridge, United Kingdom."
+          },
+          {
+            name ml "McMillen J",
+            affil str "Division of Neurosurgery, Cambridge University Hospital
+'s NHS Foundation Trust, Cambridge, United Kingdom."
+          },
+          {
+            name ml "Kirollos RW",
+            affil str "Division of Neurosurgery, Cambridge University Hospital
+'s NHS Foundation Trust, Cambridge, United Kingdom."
+          },
+          {
+            name ml "Budohoski KP",
+            affil str "Division of Neurosurgery, Cambridge University Hospital
+'s NHS Foundation Trust, Cambridge, United Kingdom."
+          },
+          {
+            name ml "Santarius T",
+            affil str "Division of Neurosurgery, Cambridge University Hospital
+'s NHS Foundation Trust, Cambridge, United Kingdom."
+          },
+          {
+            name ml "Trivedi RA",
+            affil str "Division of Neurosurgery, Cambridge University Hospital
+'s NHS Foundation Trust, Cambridge, United Kingdom."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oper Neurosurg (Hagerstown)",
+          ml-jta "Oper Neurosurg (Hagerstown)",
+          issn "2332-4260",
+          name "Operative neurosurgery (Hagerstown, Md.)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11,
+            day 1
+          },
+          volume "15",
+          issue "5",
+          pages "E52",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29534216,
+        pii "4925232",
+        doi "10.1093/ons/opy032",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/ons/opy032"
+        }
+      }
+    },
+    pmid 29534216,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

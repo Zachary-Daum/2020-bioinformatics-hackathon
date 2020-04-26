@@ -1,0 +1,214 @@
+
+Pubmed-entry ::= {
+  pmid 29863052,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Machine Learning-based Prediction of Seizure-inducing Action as
+ an Adverse Drug Effect]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gao M",
+            affil str "Graduate School of Pharmaceutical Sciences, The
+ University of Tokyo."
+          },
+          {
+            name ml "Sato M",
+            affil str "Graduate School of Pharmaceutical Sciences, The
+ University of Tokyo."
+          },
+          {
+            name ml "Ikegaya Y",
+            affil str "Graduate School of Pharmaceutical Sciences, The
+ University of Tokyo.; Center for Information and Neural Networks."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Yakugaku Zasshi",
+          ml-jta "Yakugaku Zasshi",
+          issn "1347-5231",
+          name "Yakugaku zasshi : Journal of the Pharmaceutical Society of
+ Japan"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "138",
+          issue "6",
+          pages "809-813",
+          language "jpn",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29863052,
+        doi "10.1248/yakushi.17-00213-1",
+        other {
+          db "ELocationID doi",
+          tag str "10.1248/yakushi.17-00213-1"
+        }
+      }
+    },
+    abstract "During the preclinical research period of drug development,
+ animal testing is widely used to help screen out a drug's dangerous side
+ effects. However, it remains difficult to predict side effects within the
+ central nervous system. Here, we introduce a machine learning-based in vitro
+ system designed to detect seizure-inducing side effects before clinical
+ trial. We recorded local field potentials from the CA1 alveus in acute mouse
+ neocortico-hippocampal slices that were bath-perfused with each of 14
+ different drugs, and at 5 different concentrations of each drug. For each of
+ these experimental conditions, we collected seizure-like neuronal activity
+ and merged their waveforms as one graphic image, which was further converted
+ into a feature vector using Caffe, an open framework for deep learning. In
+ the space of the first two principal components, the support vector machine
+ completely separated the vectors (i.e., doses of individual drugs) that
+ induced seizure-like events, and identified diphenhydramine, enoxacin,
+ strychnine and theophylline as ""seizure-inducing"" drugs, which have indeed
+ been reported to induce seizures in clinical situations. Thus, this
+ artificial intelligence-based classification may provide a new platform to
+ pre-clinically detect seizure-inducing side effects of drugs.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Diphenhydramine",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Drug Discovery"
+      },
+      {
+        term "Drug Evaluation, Preclinical"
+      },
+      {
+        mp TRUE,
+        term "Drug-Related Side Effects and Adverse Reactions"
+      },
+      {
+        term "Enoxacin",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Forecasting"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Machine Learning"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Seizures",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          }
+        }
+      },
+      {
+        term "Strychnine",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Theophylline",
+        qual {
+          {
+            subh "adverse effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "325OGW249P",
+        name "Enoxacin"
+      },
+      {
+        type cas,
+        cit "8GTS82S83M",
+        name "Diphenhydramine"
+      },
+      {
+        type cas,
+        cit "C137DTR5RG",
+        name "Theophylline"
+      },
+      {
+        type cas,
+        cit "H9Y79VD43J",
+        name "Strychnine"
+      }
+    },
+    pmid 29863052,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

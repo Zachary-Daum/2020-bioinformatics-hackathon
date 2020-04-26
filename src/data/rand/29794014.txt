@@ -1,0 +1,315 @@
+
+Pubmed-entry ::= {
+  pmid 29794014,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "PRMT1 Plays a Critical Role in Th17 Differentiation by
+ Regulating Reciprocal Recruitment of STAT3 and STAT5."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sen S",
+            affil str "Division of Immunology, Beckman Research Institute of
+ City of Hope, Duarte, CA 91010."
+          },
+          {
+            name ml "He Z",
+            affil str "Division of Immunology, Beckman Research Institute of
+ City of Hope, Duarte, CA 91010."
+          },
+          {
+            name ml "Ghosh S",
+            affil str "Department of Pediatrics-Neonatology, University of
+ California, Los Angeles, CA 90095."
+          },
+          {
+            name ml "Dery KJ",
+            affil str "Division of Immunology, Beckman Research Institute of
+ City of Hope, Duarte, CA 91010."
+          },
+          {
+            name ml "Yang L",
+            affil str "Integrative Genomic Core, Beckman Research Institute of
+ City of Hope, Duarte, CA 91010; and."
+          },
+          {
+            name ml "Zhang J",
+            affil str "Division of Immunology, Beckman Research Institute of
+ City of Hope, Duarte, CA 91010.; Irell & Manella Graduate School of
+ Biological Sciences, City of Hope, Duarte, CA 91010."
+          },
+          {
+            name ml "Sun Z",
+            affil str "Division of Immunology, Beckman Research Institute of
+ City of Hope, Duarte, CA 91010; zsun@coh.org."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Immunol.",
+          ml-jta "J Immunol",
+          issn "1550-6606",
+          name "Journal of immunology (Baltimore, Md. : 1950)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7,
+            day 15
+          },
+          volume "201",
+          issue "2",
+          pages "440-450",
+          language "eng",
+          retract {
+            type in-error,
+            exp "J Immunol. 2019 Oct 1;203(7):2021-2022. PMID: 31462503"
+          },
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29794014,
+        pii "jimmunol.1701654",
+        doi "10.4049/jimmunol.1701654",
+        other {
+          db "pmc",
+          tag str "PMC6039255"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS965649"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.4049/jimmunol.1701654"
+        }
+      }
+    },
+    abstract "Th17 cells are a class of Th cells that secrete IL-17 and
+ mediate pathogenic immunity responsible for autoimmunity including
+ experimental autoimmune encephalomyelitis, a murine model of multiple
+ sclerosis. Retinoic acid-related orphan receptor gamma t (RORgammat) is the
+ critical transcription factor that controls the differentiation of Th17
+ cells. However, little is known about the transcriptional cofactors for
+ RORgammat in the regulation of Th17 differentiation. In this study, we
+ demonstrate that protein arginine N-methyltransferase 1 (PRMT1) associates
+ with RORgammat and regulates mouse Th17 differentiation. Overexpression of
+ PRMT1 promoted Th17 differentiation, whereas inactivation or knockdown of
+ PRMT1 decreased Th17 differentiation while expanding Foxp3(+) regulatory T
+ cells. Consistently, pharmacological inhibition of PRMT1 impaired the
+ generation of Th17 cells and prevented induction of experimental autoimmune
+ encephalomyelitis in mice. Mechanistically, PRMT1-dependent modification of
+ asymmetric histone 4 arginine 3 dimethylation is required to stabilize the
+ stimulatory STAT3 to displace the inhibitory STAT5 at IL-17 locus, resulting
+ in the activation of IL-17 gene. Furthermore, PRMT1-facilitated recruitment
+ of STAT3 overcame the inhibition of Th17 differentiation exerted by
+ IL-2-induced STAT5 activation. PRMT1 thus regulates Th17 differentiation by
+ controlling the reciprocal recruitment of STAT3 and STAT5. Our study thus
+ reveals PRMT1 as a novel target for alleviating Th17-mediated autoimmunity by
+ decreasing RORgammat-dependent generation of pathogenic Th17 cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Autoimmunity",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Encephalomyelitis, Autoimmune, Experimental",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interleukin-17",
+        qual {
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Protein-Arginine N-Methyltransferases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Retinoic Acid",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "STAT3 Transcription Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "STAT5 Transcription Factor",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Th17 Cells",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Interleukin-17"
+      },
+      {
+        type nameonly,
+        name "Receptors, Retinoic Acid"
+      },
+      {
+        type nameonly,
+        name "STAT3 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "STAT5 Transcription Factor"
+      },
+      {
+        type nameonly,
+        name "Stat3 protein, mouse"
+      },
+      {
+        type nameonly,
+        name "retinoic acid receptor gamma"
+      },
+      {
+        type ec,
+        cit "2.1.1.319",
+        name "Prmt1 protein, mouse"
+      },
+      {
+        type ec,
+        cit "2.1.1.319",
+        name "Protein-Arginine N-Methyltransferases"
+      }
+    },
+    idnum {
+      "P30 CA033572/CA/NCI NIH HHS",
+      "R01 AI053147/AI/NIAID NIH HHS",
+      "R01 AI109644/AI/NIAID NIH HHS"
+    },
+    pmid 29794014,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

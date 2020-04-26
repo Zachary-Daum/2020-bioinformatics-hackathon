@@ -1,0 +1,180 @@
+
+Pubmed-entry ::= {
+  pmid 29589554,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sparse Tensor Decomposition for Haplotype Assembly of Diploids
+ and Polyploids."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hashemi A",
+            affil str "Department of ECE, University of Texas at Austin,
+ Austin, Texas, USA. abolfazl@utexas.edu."
+          },
+          {
+            name ml "Zhu B",
+            affil str "EE Department, Tsinghua University, Beijing, China."
+          },
+          {
+            name ml "Vikalo H",
+            affil str "Department of ECE, University of Texas at Austin,
+ Austin, Texas, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Genomics",
+          ml-jta "BMC Genomics",
+          issn "1471-2164",
+          name "BMC genomics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 21
+          },
+          volume "19",
+          issue "Suppl 4",
+          pages "191",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29589554,
+        doi "10.1186/s12864-018-4551-y",
+        pii "10.1186/s12864-018-4551-y",
+        other {
+          db "pmc",
+          tag str "PMC5872563"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12864-018-4551-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Haplotype assembly is the task of reconstructing
+ haplotypes of an individual from a mixture of sequenced chromosome fragments.
+ Haplotype information enables studies of the effects of genetic variations on
+ an organism's phenotype. Most of the mathematical formulations of haplotype
+ assembly are known to be NP-hard and haplotype assembly becomes even more
+ challenging as the sequencing technology advances and the length of the
+ paired-end reads and inserts increases. Assembly of haplotypes polyploid
+ organisms is considerably more difficult than in the case of diploids. Hence,
+ scalable and accurate schemes with provable performance are desired for
+ haplotype assembly of both diploid and polyploid organisms. RESULTS: We
+ propose a framework that formulates haplotype assembly from sequencing data
+ as a sparse tensor decomposition. We cast the problem as that of decomposing
+ a tensor having special structural constraints and missing a large fraction
+ of its entries into a product of two factors, U and [Formula: see text];
+ tensor [Formula: see text] reveals haplotype information while U is a sparse
+ matrix encoding the origin of erroneous sequencing reads. An algorithm,
+ AltHap, which reconstructs haplotypes of either diploid or polyploid
+ organisms by iteratively solving this decomposition problem is proposed. The
+ performance and convergence properties of AltHap are theoretically analyzed
+ and, in doing so, guarantees on the achievable minimum error correction
+ scores and correct phasing rate are established. The developed framework is
+ applicable to diploid, biallelic and polyallelic polyploid species. The code
+ for AltHap is freely available from https://github.com/realabolfazl/AltHap .
+ CONCLUSION: AltHap was tested in a number of different scenarios and was
+ shown to compare favorably to state-of-the-art methods in applications to
+ haplotype assembly of diploids, and significantly outperforms existing
+ techniques when applied to haplotype assembly of polyploids.",
+    mesh {
+      {
+        mp TRUE,
+        term "Algorithms"
+      },
+      {
+        mp TRUE,
+        term "Diploidy"
+      },
+      {
+        mp TRUE,
+        term "Genome, Human"
+      },
+      {
+        mp TRUE,
+        term "Haplotypes"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Models, Genetic"
+      },
+      {
+        term "Phenotype"
+      },
+      {
+        term "Polymorphism, Single Nucleotide"
+      },
+      {
+        mp TRUE,
+        term "Polyploidy"
+      },
+      {
+        term "Sequence Analysis, DNA",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 29589554,
+    pub-type {
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

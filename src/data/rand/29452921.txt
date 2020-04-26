@@ -1,0 +1,220 @@
+
+Pubmed-entry ::= {
+  pmid 29452921,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Comparison of primary compliance in electronic versus paper
+ prescriptions prescribed from the emergency department."
+      },
+      authors {
+        names std {
+          {
+            name ml "Toohey SL",
+            affil str "Department of Emergency Medicine, University of
+ California, Irvine, Orange, CA, USA. Electronic address: stoohey@uci.edu."
+          },
+          {
+            name ml "Andrusaitis J",
+            affil str "School of Medicine, University of California, Irvine,
+ CA, USA."
+          },
+          {
+            name ml "Boysen-Osborn M",
+            affil str "Department of Emergency Medicine, University of
+ California, Irvine, Orange, CA, USA."
+          },
+          {
+            name ml "Billimek J",
+            affil str "Health Policy Research Institute, University of
+ California, Irvine, CA, USA; Department of Medicine, Division of General
+ Internal Medicine and Primary Care, University of California, Irvine, CA,
+ USA; Department of Family Medicine, University of California, Irvine, CA, USA."
+          },
+          {
+            name ml "Jen M",
+            affil str "Department of Emergency Medicine, University of
+ California, Irvine, Orange, CA, USA."
+          },
+          {
+            name ml "Rudkin S",
+            affil str "Department of Emergency Medicine, University of
+ California, Irvine, Orange, CA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Emerg Med",
+          ml-jta "Am J Emerg Med",
+          issn "1532-8171",
+          name "The American journal of emergency medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "36",
+          issue "10",
+          pages "1902-1904",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29452921,
+        pii "S0735-6757(18)30121-9",
+        doi "10.1016/j.ajem.2018.02.003",
+        other {
+          db "pmc",
+          tag str "PMC6280659"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS992605"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0735-6757(18)30121-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ajem.2018.02.003"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Drug Prescriptions",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Electronic Prescribing",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Emergency Service, Hospital"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Paper"
+      },
+      {
+        term "Patient Compliance",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      }
+    },
+    idnum {
+      "UL1 TR001414/TR/NCATS NIH HHS"
+    },
+    pmid 29452921,
+    pub-type {
+      "Comparative Study",
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

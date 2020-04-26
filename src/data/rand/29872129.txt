@@ -1,0 +1,151 @@
+
+Pubmed-entry ::= {
+  pmid 29872129,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Particle Shape Influences Settling and Sorting Behavior in
+ Microfluidic Domains."
+      },
+      authors {
+        names std {
+          {
+            name ml "Basagaoglu H",
+            affil str "Mechanical Engineering Division, Southwest Research
+ Institute, San Antonio, TX, 78238, USA. hbasagaoglu@swri.org."
+          },
+          {
+            name ml "Succi S",
+            affil str "Istituto Applicazioni del Calcolo, via dei taurini 19,
+ 00185, Roma, Italy."
+          },
+          {
+            name ml "Wyrick D",
+            affil str "Space Science Division, Southwest Research Institute,
+ San Antonio, TX, 78238, USA."
+          },
+          {
+            name ml "Blount J",
+            affil str "Defense Intelligence Solutions Division, Southwest
+ Research Institute, San Antonio, TX, 78238, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 5
+          },
+          volume "8",
+          issue "1",
+          pages "8583",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 7,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29872129,
+        doi "10.1038/s41598-018-26786-7",
+        pii "10.1038/s41598-018-26786-7",
+        other {
+          db "pmc",
+          tag str "PMC5988840"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-26786-7"
+        }
+      }
+    },
+    abstract "We present a new numerical model to simulate settling
+ trajectories of discretized individual or a mixture of particles of different
+ geometrical shapes in a quiescent fluid and their flow trajectories in a
+ flowing fluid. Simulations unveiled diverse particle settling trajectories as
+ a function of their geometrical shape and density. The effects of the surface
+ concavity of a boomerang particle and aspect ratio of a rectangular particle
+ on the periodicity and amplitude of oscillations in their settling
+ trajectories were numerically captured. Use of surrogate circular particles
+ for settling or flowing of a mixture of non-circular particles were shown to
+ miscalculate particle velocities by a factor of 0.9-2.2 and inaccurately
+ determine the particles' trajectories. In a microfluidic chamber with
+ particles of different shapes and sizes, simulations showed that steady
+ vortices do not necessarily always control particle entrapments, nor do
+ larger particles get selectively and consistently entrapped in steady
+ vortices. Strikingly, a change in the shape of large particles from circular
+ to elliptical resulted in stronger entrapments of smaller circular particles,
+ but enhanced outflows of larger particles, which could be an alternative
+ microfluidics-based method for sorting and separation of particles of
+ different sizes and shapes.",
+    pmid 29872129,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

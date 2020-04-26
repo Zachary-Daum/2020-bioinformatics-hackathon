@@ -1,0 +1,193 @@
+
+Pubmed-entry ::= {
+  pmid 29528119,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sibling experience modulates perceptual narrowing toward adult
+ faces in the first year of life."
+      },
+      authors {
+        names std {
+          {
+            name ml "Proietti V",
+            affil str "Department of Psychology, Nipissing University, North
+ Bay, Ontario, Canada.; NeuroMi, Milan Center for Neuroscience, Milan, Italy."
+          },
+          {
+            name ml "Rigoldi M",
+            affil str "Department of Psychology, University of Milano-Bicocca,
+ Milan, Italy."
+          },
+          {
+            name ml "Croci E",
+            affil str "Department of Psychology, University of Milano-Bicocca,
+ Milan, Italy."
+          },
+          {
+            name ml "Macchi Cassia V",
+            affil str "NeuroMi, Milan Center for Neuroscience, Milan, Italy.;
+ Department of Psychology, University of Milano-Bicocca, Milan, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Dev Psychobiol",
+          ml-jta "Dev Psychobiol",
+          issn "1098-2302",
+          name "Developmental psychobiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "60",
+          issue "4",
+          pages "395-406",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29528119,
+        doi "10.1002/dev.21616",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/dev.21616"
+        }
+      }
+    },
+    abstract "During the first year of life face discrimination abilities
+ narrow toward adult human faces of the most frequently encountered ethnic
+ group/s. Earlier studies showed that perceptual learning under
+ laboratory-training protocols can modulate this narrowing process. Here we
+ investigated whether natural experience acquired in everyday settings with an
+ older sibling's face can shape the trajectory of perceptual narrowing towards
+ adult faces. Using an infant-controlled habituation procedure we measured
+ discrimination of adult (Experiment 1) and child faces (Experiment 2) in 3-
+ and 9- month-old infants with and without a child sibling. Discrimination of
+ adult faces was observed for infants at both ages, although accompanied by
+ posthabituation preferences in opposite directions, whereas at both ages the
+ discrimination of child faces critically depended on sibling experience.
+ These results provide the first evidence that natural experience acquired
+ with siblings affects the tuning properties of infant face representation.",
+    mesh {
+      {
+        term "Child Development",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Discrimination, Psychological",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Facial Recognition",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Habituation, Psychophysiologic",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Siblings"
+      }
+    },
+    pmid 29528119,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

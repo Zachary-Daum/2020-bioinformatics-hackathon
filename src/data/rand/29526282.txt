@@ -1,0 +1,203 @@
+
+Pubmed-entry ::= {
+  pmid 29526282,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A History of Percutaneous Left Atrial Appendage Occlusion with
+ the PLAATO Device."
+      },
+      authors {
+        names std {
+          {
+            name ml "Omran H",
+            affil str "Department of Cardiology, GFO Kliniken Bonn,
+ Robert-Koch-Str. 1, Bonn 53115, Germany. Electronic address:
+ heyder.omran@marien-hospital-bonn.de."
+          },
+          {
+            name ml "Tzikas A",
+            affil str "Department of Cardiology, AHEPA University Hospital,
+ Kiriakidi 1 Street, Thessaloniki 54637, Greece."
+          },
+          {
+            name ml "Sievert H",
+            affil str "Cardiovascular Center Frankfurt CVC, Seckbacher
+ Landstrasse 65, Frankfurt 60389, Germany."
+          },
+          {
+            name ml "Stock F",
+            affil str "Department of Cardiology, GFO Kliniken Bonn,
+ Robert-Koch-Str. 1, Bonn 53115, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Interv Cardiol Clin",
+          ml-jta "Interv Cardiol Clin",
+          issn "2211-7466",
+          name "Interventional cardiology clinics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "7",
+          issue "2",
+          pages "137-142",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29526282,
+        pii "S2211-7458(17)30166-9",
+        doi "10.1016/j.iccl.2017.12.009",
+        other {
+          db "ELocationID pii",
+          tag str "S2211-7458(17)30166-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.iccl.2017.12.009"
+        }
+      }
+    },
+    abstract "Percutaneous left atrial appendage occlusion was introduced as
+ an alternative method for prevention of thromboembolism in patients with
+ nonvalvular atrial fibrillation after extensive animal work in 2001. The
+ first device was named Percutaneous Left Atrial Appendage Transcatheter
+ Occlusion (PLAATO) and patented by the company Appriva. The device was
+ invented by Michael Lesh, MD.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Atrial Appendage",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Atrial Fibrillation",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Balloon Occlusion",
+        qual {
+          {
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Echocardiography",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Echocardiography, Transesophageal",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Equipment Design",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Therapeutic Occlusion",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Thromboembolism",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      }
+    },
+    pmid 29526282,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

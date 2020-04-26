@@ -1,0 +1,160 @@
+
+Pubmed-entry ::= {
+  pmid 29856670,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effects of Symbiodinium Colonization on Growth and Cell
+ Proliferation in the Giant Clam Hippopus hippopus."
+      },
+      authors {
+        names ml {
+          "Gula RL",
+          "Adams DK"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biol. Bull.",
+          ml-jta "Biol Bull",
+          issn "1939-8697",
+          name "The Biological bulletin"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "234",
+          issue "2",
+          pages "130-138",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29856670,
+        doi "10.1086/698265",
+        other {
+          db "ELocationID doi",
+          tag str "10.1086/698265"
+        }
+      }
+    },
+    abstract "Giant clams (subfamily Tridacnidae) house their obligate
+ symbionts, Symbiodinium sp., in a specialized tubular system. Rapid uptake of
+ Symbiodinium has been shown to increase early clam survival, suggesting that
+ symbionts play an essential role in host growth and development. To determine
+ whether symbionts influence development in the giant clam Hippopus hippopus,
+ we compared growth patterns and cell proliferation in two groups of clams
+ inoculated or not inoculated (control) with Symbiodinium sp. Symbiont uptake
+ occurred continuously from days 8 to 26 post-fertilization, with, on average,
+  approximately 5% per day colonized. The control treatment grew even without
+ symbionts (1.03 +/- 0.41 microm per day, standard error). Inoculated
+ individuals grew significantly faster (2.91 +/- 0.37 microm per day) than
+ control individuals (P < 0.001). However, daily shell length measurements did
+ not significantly differ between treatments until day 22, and  approximately
+ 97% of control individuals metamorphosed by day 24, suggesting a delay in
+ growth effects. Consistent with this, at day 13, clam cell proliferation was
+ not correlated with symbiont abundance in inoculated individuals (P = 0.13),
+ while at day 26, it was (P < 0.01). The proliferating cell pattern also
+ changed from being randomly distributed (P = 0.99) at day 13 to non-randomly
+ distributed (P = 0.002), with increased likelihood of proliferation within 
+ approximately 25 microm of a symbiont, at day 26. Our results indicate that
+ H. hippopus has a longer Symbiodinium acquisition period than previously
+ recorded, after which proliferation and development are enhanced but during
+ which growth is unaffected by Symbiodinium.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Bivalvia",
+        qual {
+          {
+            subh "cytology"
+          },
+          {
+            subh "growth & development"
+          },
+          {
+            mp TRUE,
+            subh "parasitology"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation"
+      },
+      {
+        term "Dinoflagellida",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Symbiosis",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    pmid 29856670,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

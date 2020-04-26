@@ -1,0 +1,242 @@
+
+Pubmed-entry ::= {
+  pmid 29897965,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Negative self-referential processing is associated with genetic
+ variation in the serotonin transporter-linked polymorphic region (5-HTTLPR):
+ Evidence from two independent studies."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dainer-Best J",
+            affil str "Department of Psychology, The University of Texas at
+ Austin, Austin, Texas, United States of America.; Institute for Mental Health
+ Research, The University of Texas at Austin, Austin, Texas, United States of
+ America."
+          },
+          {
+            name ml "Disner SG",
+            affil str "Department of Psychology, The University of Texas at
+ Austin, Austin, Texas, United States of America.; Institute for Mental Health
+ Research, The University of Texas at Austin, Austin, Texas, United States of
+ America."
+          },
+          {
+            name ml "McGeary JE",
+            affil str "Department of Psychiatry and Human Behavior, Brown
+ University, Providence, Rhode Island, United States of America.; Providence
+ Veterans Affairs Medical Center, Providence, Rhode Island, United States of
+ America."
+          },
+          {
+            name ml "Hamilton BJ",
+            affil str "Department of Psychology, The University of Texas at
+ Austin, Austin, Texas, United States of America."
+          },
+          {
+            name ml "Beevers CG",
+            affil str "Department of Psychology, The University of Texas at
+ Austin, Austin, Texas, United States of America.; Institute for Mental Health
+ Research, The University of Texas at Austin, Austin, Texas, United States of
+ America."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 13
+          },
+          volume "13",
+          issue "6",
+          pages "e0198950",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29897965,
+        doi "10.1371/journal.pone.0198950",
+        pii "PONE-D-17-36732",
+        other {
+          db "pmc",
+          tag str "PMC5999110"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0198950"
+        }
+      }
+    },
+    abstract "The current research examined whether carriers of the short
+ 5-HTTLPR allele (in SLC6A4), who have been shown to selectively attend to
+ negative information, exhibit a bias towards negative self-referent
+ processing. The self-referent encoding task (SRET) was used to measure
+ self-referential processing of positive and negative adjectives. Ratcliff's
+ diffusion model isolated and extracted decision-making components from SRET
+ responses and reaction times. Across the initial (N = 183) and replication (N
+ = 137) studies, results indicated that short 5-HTTLPR allele carriers more
+ easily categorized negative adjectives as self-referential (i.e., higher
+ drift rate). Further, drift rate was associated with recall of negative
+ self-referential stimuli. Findings across both studies provide further
+ evidence that genetic variation may contribute to the etiology of negatively
+ biased processing of self-referent information. Large scale studies examining
+ the genetic contributions to negative self-referent processing may be
+ warranted.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Alleles"
+      },
+      {
+        term "Depression",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Genetic Variation"
+      },
+      {
+        term "Genotype"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mental Recall",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Models, Theoretical"
+      },
+      {
+        term "Polymorphism, Single Nucleotide"
+      },
+      {
+        term "Reaction Time"
+      },
+      {
+        mp TRUE,
+        term "Self Concept"
+      },
+      {
+        term "Serotonin Plasma Membrane Transport Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "SLC6A4 protein, human"
+      },
+      {
+        type nameonly,
+        name "Serotonin Plasma Membrane Transport Proteins"
+      }
+    },
+    idnum {
+      "R56 MH108650/MH/NIMH NIH HHS"
+    },
+    pmid 29897965,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

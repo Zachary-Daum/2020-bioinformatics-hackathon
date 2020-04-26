@@ -1,0 +1,242 @@
+
+Pubmed-entry ::= {
+  pmid 29664125,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Formal sacrocolpopexy reduces hypercontinence rates in female
+ neobladder formation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stearns G",
+            affil str "Division of Urology, Burlington, Vermont."
+          },
+          {
+            name ml "Donahue T",
+            affil str "Department of Surgery, Urology Division Memorial Sloan
+ Kettering Cancer Center, New York, New York."
+          },
+          {
+            name ml "Fathollahi A",
+            affil str "Department of Surgery, Urology Division Memorial Sloan
+ Kettering Cancer Center, New York, New York."
+          },
+          {
+            name ml "Dalbagni G",
+            affil str "Department of Surgery, Urology Division Memorial Sloan
+ Kettering Cancer Center, New York, New York."
+          },
+          {
+            name ml "Sandhu J",
+            affil str "Department of Surgery, Urology Division Memorial Sloan
+ Kettering Cancer Center, New York, New York."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neurourol. Urodyn.",
+          ml-jta "Neurourol Urodyn",
+          issn "1520-6777",
+          name "Neurourology and urodynamics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "37",
+          issue "7",
+          pages "2281-2285",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29664125,
+        doi "10.1002/nau.23584",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/nau.23584"
+        }
+      }
+    },
+    abstract "AIMS: Continent urinary diversion is preferred by some patients
+ and orthotopic urinary diversion (OUD) has become the procedure of choice for
+ most men following cystectomy for invasive bladder cancer. OUD in women,
+ however, is less common, likely due to a high rate of hypercontinence (HC),
+ potentially from lax support of pelvic structures similar to pelvic organ
+ prolapse. As such, we evaluated if abdominal sacrocolpopexy (ASC) at the time
+ of OUD in women led to decreased rates of HC. METHODS: A retrospective review
+ of all female patients receiving OUD by a single surgeon and ASC was
+ performed. ASC was performed after RC was complete prior to the
+ urethro-enteric anastomosis. Peritoneal flap was created to the vaginal apex.
+ The distal leaf was then sutured to the proximal anterior vaginal wall and
+ apex and the proximal end sutured to the anterior longitudinal ligament. HC
+ was defined as the need to perform intermittent catheterization (IC) due to
+ incomplete emptying of the neobladder. RESULTS: Nine women underwent
+ cystectomy with OUD and concurrent ASC during the specified time period.
+ Average patient age was 54 years (27-69). Mean followup was 61.6 months
+ (5-123 months). None of those who underwent ASC had HC or incontinence
+ post-operatively. No mesh-related complications were noted in this cohort.
+ Pelvic abscess was noted in one patient who underwent ASC with rectus fascia.
+ CONCLUSIONS: ASC at the time of radical cystectomy and OUD is safe and
+ effective. It appears to be associated with decreased rates of HC and is
+ associated with minimal additional morbidity to the patient.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Cystectomy",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Reconstructive Surgical Procedures",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        mp TRUE,
+        term "Surgically-Created Structures"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Urethra",
+        qual {
+          {
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Urinary Bladder Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Urinary Diversion",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Urinary Incontinence",
+        qual {
+          {
+            subh "etiology"
+          }
+        }
+      }
+    },
+    pmid 29664125,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

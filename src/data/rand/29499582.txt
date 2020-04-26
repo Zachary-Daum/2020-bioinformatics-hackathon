@@ -1,0 +1,158 @@
+
+Pubmed-entry ::= {
+  pmid 29499582,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[A Structured and Photographic Documentation of the
+ Vacuum-Assisted Vaginal Delivery].",
+        trans "Eine strukturierte und fotografische Dokumentation der
+ Vakuumentbindung."
+      },
+      authors {
+        names std {
+          {
+            name ml "Burkhardt T",
+            affil str "Klinik fur Geburtshilfe, Universitatsspital Zurich."
+          },
+          {
+            name ml "Zimmermann R",
+            affil str "Klinik fur Geburtshilfe, Universitatsspital Zurich."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Z Geburtshilfe Neonatol",
+          ml-jta "Z Geburtshilfe Neonatol",
+          issn "1439-1651",
+          name "Zeitschrift fur Geburtshilfe und Neonatologie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "222",
+          issue "1",
+          pages "25-27",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29499582,
+        doi "10.1055/s-0043-124123",
+        other {
+          db "ELocationID doi",
+          tag str "10.1055/s-0043-124123"
+        }
+      }
+    },
+    abstract "The correct placement of the vacuum cup is essential to reduce
+ both maternal and neonatal morbidity after a vacuum-assisted vaginal
+ delivery. Therefore, a checklist based report with all relevant clinical
+ findings and a photo of the infant's head with the location of vacuum tag was
+ introduced to make the exact application of the cup reproducible for.
+ training/instruction purpose.",
+    mesh {
+      {
+        term "Apgar Score"
+      },
+      {
+        term "Birth Injuries",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Checklist"
+      },
+      {
+        term "Documentation",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        mp TRUE,
+        term "Photography"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        term "Vacuum Extraction, Obstetrical",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      }
+    },
+    pmid 29499582,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

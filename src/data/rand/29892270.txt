@@ -1,0 +1,165 @@
+
+Pubmed-entry ::= {
+  pmid 29892270,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Successful Transfer of a Model T-DNA Plasmid to E. coli Revealed
+ Its Dependence on Recipient RecA and the Preference of VirD2 Relaxase for
+ Eukaryotes Rather Than Bacteria as Recipients."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ohmine Y",
+            affil str "Department of Biological Science, Graduate School of
+ Science, Hiroshima University, Hiroshima, Japan."
+          },
+          {
+            name ml "Kiyokawa K",
+            affil str "Department of Biological Science, Graduate School of
+ Science, Hiroshima University, Hiroshima, Japan."
+          },
+          {
+            name ml "Yunoki K",
+            affil str "Department of Biological Science, Graduate School of
+ Science, Hiroshima University, Hiroshima, Japan."
+          },
+          {
+            name ml "Yamamoto S",
+            affil str "Department of Biological Science, Graduate School of
+ Science, Hiroshima University, Hiroshima, Japan."
+          },
+          {
+            name ml "Moriguchi K",
+            affil str "Department of Biological Science, Graduate School of
+ Science, Hiroshima University, Hiroshima, Japan."
+          },
+          {
+            name ml "Suzuki K",
+            affil str "Department of Biological Science, Graduate School of
+ Science, Hiroshima University, Hiroshima, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Front Microbiol",
+          ml-jta "Front Microbiol",
+          issn "1664-302X",
+          name "Frontiers in microbiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 28
+          },
+          volume "9",
+          pages "895",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 31
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 13,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29892270,
+        doi "10.3389/fmicb.2018.00895",
+        other {
+          db "pmc",
+          tag str "PMC5985610"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3389/fmicb.2018.00895"
+        }
+      }
+    },
+    abstract "In Agrobacterium-mediated transformation (AMT) of plants, a
+ single-strand (ss) T-DNA covalently linked with a VirD2 protein moves through
+ a bacterial type IV secretion channel called VirB/D4. This transport system
+ originates from conjugal plasmid transfer systems of bacteria. The relaxase
+ VirD2 and its equivalent protein Mob play essential roles in T-DNA transfer
+ and mobilizable plasmid transfer, respectively. In this study, we attempted
+ to transfer a model T-DNA plasmid, which contained no left border but had a
+ right border sequence as an origin of transfer, and a mobilizable plasmid
+ through the VirB/D4 apparatus to Escherichia coli, Agrobacterium and yeast to
+ compare VirD2-driven transfer with Mob-driven one. AMT was successfully
+ achieved by both types of transfer to the three recipient organisms.
+ VirD2-driven AMT of the two bacteria was less efficient than Mob-driven AMT.
+ In contrast, AMT of yeast guided by VirD2 was more efficient than that by
+ Mob. Plasmid DNAs recovered from the VirD2-driven AMT colonies showed the
+ original plasmid structure. These data indicate that VirD2 retains most of
+ its important functions in recipient bacterial cells, but has largely adapted
+ to eukaryotes rather than bacteria. The high AMT efficiency of yeast suggests
+ that VirD2 can also efficiently bring ssDNA to recipient bacterial cells but
+ is inferior to Mob in some process leading to the formation of
+ double-stranded circular DNA in bacteria. This study also revealed that the
+ recipient recA gene was significantly involved in VirD2-dependent AMT, but
+ only partially involved in Mob-dependent AMT. The apparent difference in the
+ recA gene requirement between the two types of AMT suggests that VirD2 is
+ worse at re-circularization to complete complementary DNA synthesis than Mob
+ in bacteria.",
+    pmid 29892270,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

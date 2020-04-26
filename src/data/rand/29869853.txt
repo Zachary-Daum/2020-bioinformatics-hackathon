@@ -1,0 +1,169 @@
+
+Pubmed-entry ::= {
+  pmid 29869853,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Is Increasing Life Expectancy Leading To More Complexity?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Johnson H",
+            affil str "Health Intelligence Unit, Health and Wellbeing
+ Directorate, HSE, Dublin 8."
+          },
+          {
+            name ml "O'Farrell A",
+            affil str "Health Intelligence Unit, Health and Wellbeing
+ Directorate, HSE, Dublin 8."
+          },
+          {
+            name ml "McKeown D",
+            affil str "Health Intelligence Unit, Health and Wellbeing
+ Directorate, HSE, Dublin 8."
+          },
+          {
+            name ml "Sayers G",
+            affil str "Health Intelligence Unit, Health and Wellbeing
+ Directorate, HSE, Dublin 8."
+          },
+          {
+            name ml "Hayes C",
+            affil str "Discipline of Public Health and Primary Care Institute
+ of Population Health, TCD, Russell Building, Tallaght Cross, Dublin 24."
+          },
+          {
+            name ml "Beaton D",
+            affil str "Health Intelligence Unit, Health and Wellbeing
+ Directorate, HSE, Dublin 8."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ir Med J",
+          ml-jta "Ir Med J",
+          issn "0332-3102",
+          name "Irish medical journal"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1,
+            day 10
+          },
+          volume "111",
+          issue "1",
+          pages "672",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29869853
+      }
+    },
+    abstract "Life expectancy is increasing in Ireland, but whether this has
+ resulted in healthier life years among the elderly and its impact (if any) on
+ hospital services is unknown. The purpose of the study was to use routinely
+ available data to explore the relationship of age and indicators of clinical
+ complexity in acute hospitals over ten years. The study included all
+ in-patients aged 65+ years from the Hospital In-Patient Enquiry (HIPE)
+ discharged between 2005 and 2014. Indicators of complexity included the
+ Charlson index, overall length of stay (LOS), intensive care unit LOS and
+ deaths in hospital, analysed by the major clinical classification software
+ (CCS). Over the period, the number and rate of admissions increased,
+ especially among those aged 85+. Indicators of patient complexity increased
+ and LOS decreased. In-hospital mortality decreased from 5.9% to 4.7%.
+ Hospitals appear to be managing the emergency care of the older and more
+ complex patient more efficiently and with better outcomes.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Hospital Mortality"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ireland"
+      },
+      {
+        term "Length of Stay",
+        qual {
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Life Expectancy",
+        qual {
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Quality of Health Care"
+      },
+      {
+        term "Retrospective Studies"
+      }
+    },
+    pmid 29869853,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

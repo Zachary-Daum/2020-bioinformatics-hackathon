@@ -1,0 +1,291 @@
+
+Pubmed-entry ::= {
+  pmid 29496469,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "In-ovo exposed carbon black nanoparticles altered mRNA gene
+ transcripts of antioxidants, proinflammatory and apoptotic pathways in the
+ brain of chicken embryos."
+      },
+      authors {
+        names std {
+          {
+            name ml "Samak DH",
+            affil str "Department of Forensic Medicine and Toxicology, Faculty
+ of Veterinary Medicine, Damanhour University, Damanhour, Egypt."
+          },
+          {
+            name ml "El-Sayed YS",
+            affil str "Department of Forensic Medicine and Toxicology, Faculty
+ of Veterinary Medicine, Damanhour University, Damanhour, Egypt. Electronic
+ address: yasser_tf@yahoo.com."
+          },
+          {
+            name ml "Shaheen HM",
+            affil str "Department of Pharmacology, Faculty of Veterinary
+ Medicine, Damanhour University, Damanhour, Egypt."
+          },
+          {
+            name ml "El-Far AH",
+            affil str "Department of Biochemistry, Faculty of Veterinary
+ Medicine, Damanhour University, Damanhour, Egypt."
+          },
+          {
+            name ml "Onoda A",
+            affil str "The Center for Environmental Health Science for the
+ Next Generation, Research Institute for Science and Technology, Tokyo
+ University of Science, 2641 Yamazaki, Noda, Chiba 278-8510, Japan; Department
+ of Hygienic Chemistry, Graduate School of Pharmaceutical Sciences, Tokyo
+ University of Science, 2641 Yamazaki, Noda, Chiba 278-8510, Japan."
+          },
+          {
+            name ml "Abdel-Daim MM",
+            affil str "Department of Pharmacology, Faculty of Veterinary
+ Medicine, Suez Canal University, Ismailia 41522, Egypt; Department of
+ Ophthalmology and Micro-Technology, Yokohama City University, Yokohama,
+ Japan. Electronic address: abdeldaim.m@vet.suez.edu.eg."
+          },
+          {
+            name ml "Umezawa M",
+            affil str "The Center for Environmental Health Science for the
+ Next Generation, Research Institute for Science and Technology, Tokyo
+ University of Science, 2641 Yamazaki, Noda, Chiba 278-8510, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chem. Biol. Interact.",
+          ml-jta "Chem Biol Interact",
+          issn "1872-7786",
+          name "Chemico-biological interactions"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11,
+            day 1
+          },
+          volume "295",
+          pages "133-139",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29496469,
+        pii "S0009-2797(17)31246-2",
+        doi "10.1016/j.cbi.2018.02.031",
+        other {
+          db "ELocationID pii",
+          tag str "S0009-2797(17)31246-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.cbi.2018.02.031"
+        }
+      }
+    },
+    abstract "With ubiquitous applications of nanotechnology, there are
+ increasing probabilities of exposure to manufactured nanoparticles (NPs),
+ which might be posing emerging health concerns on the next generation. Recent
+ data suggest that generation of reactive oxygen species may play an integral
+ role in the carbon black nanoparticles (CBNPs)-induced oxidative injury;
+ however, the exact molecular mechanism has not been clarified. Hence, the
+ role of oxidative stress, inflammation and apoptosis pathways in the
+ CBNPs-induced neuronal toxicity following in-ovo exposure of chicken embryo
+ was elucidated. Specific pathogen-free fertilized Sasso eggs were inoculated
+ with 4.8, 9.5 and 14mug CBNPs/egg at the 3rd day of incubation alongside
+ vehicle controls. In a concentration-dependent manner, CBNPs inoculation
+ induced oxidative stress, which was ascertained by enhancement of lipid
+ peroxides and diminishing total antioxidant capacity and glutathione levels,
+ and catalase activity in brain tissues. mRNA transcript levels of antioxidant
+ genes showed up-regulation of heme oxygenase-1 and superoxide dismutase-1,
+ with marked down-regulation of glutathione S-transferase-alpha. Additionally,
+ the pro-inflammatory genes; nuclear factor-kappaB1 was up-regulated, while
+ interferon-gamma was down-regulated. There is also a clear down-regulation in
+ apoptotic markers caspase-8, caspase-3, cytochrome c and B-cell CLL/lymphoma
+ 2at the different concentrations, while caspase-2 is up-regulated only at
+ higher concentration. Collectively, these results show that CBNPs
+ exposure-mediated overproduction of the free radicals, particularly at higher
+ concentration contributes to inflammation and subsequent cellular apoptosis
+ at the gene expression level, thus unveiling possible molecular relationship
+ between CBNPs and genes linked to the oxidant, inflammatory and apoptotic
+ responses.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Carbon",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Chick Embryo"
+      },
+      {
+        term "Chickens"
+      },
+      {
+        term "Nanoparticles",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Particle Size"
+      },
+      {
+        term "RNA, Messenger",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "RNA, Messenger"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "7440-44-0",
+        name "Carbon"
+      }
+    },
+    pmid 29496469,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

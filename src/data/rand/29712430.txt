@@ -1,0 +1,132 @@
+
+Pubmed-entry ::= {
+  pmid 29712430,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Angle-Dependent Atomic Force Microscopy Single-Chain Pulling of
+ Adsorbed Macromolecules from Planar Surfaces Unveils the Signature of an
+ Adsorption-Desorption Transition."
+      },
+      authors {
+        names std {
+          {
+            name ml "Grebikova L",
+            affil str "Materials Science and Technology of Polymers, MESA+,
+ Institute of Nanotechnology , University of Twente , P.O. Box 217, 7500 AE
+ Enschede , The Netherlands."
+          },
+          {
+            name ml "Whittington SG",
+            affil str "Department of Chemistry , University of Toronto , 80
+ St. George Street , Toronto , Ontario M5S 3H6 , Canada."
+          },
+          {
+            name ml "Vancso JG",
+            affil str "Materials Science and Technology of Polymers, MESA+,
+ Institute of Nanotechnology , University of Twente , P.O. Box 217, 7500 AE
+ Enschede , The Netherlands."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Am. Chem. Soc.",
+          ml-jta "J Am Chem Soc",
+          issn "1520-5126",
+          name "Journal of the American Chemical Society"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 23
+          },
+          volume "140",
+          issue "20",
+          pages "6408-6415",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29712430,
+        doi "10.1021/jacs.8b02851",
+        other {
+          db "pmc",
+          tag str "PMC5968430"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/jacs.8b02851"
+        }
+      }
+    },
+    abstract "The adsorption-desorption behavior of polymer chains is at the
+ heart of macromolecular surface science and technology. With the current
+ developments in atomic force microscopy (AFM), it has now become possible to
+ address the desorption problem from the perspective of a single
+ macromolecule. Here, we report on desorption of single polymer chains on
+ planar surfaces by AFM-based single molecule force spectroscopy (SMFS) as a
+ function of the pulling angle with respect to the surface-normal direction.
+ SMFS experiments were performed in water with various substrates using
+ different polymers covalently attached to the AFM probe tip. End-grafting at
+ the AFM tip was achieved by surface-initiated polymerization using initiator
+ functionalized tips. We found that the desorption force increases with a
+ decreasing pulling angle, i.e., an enhanced adhesion of the polymer chain was
+ observed. The magnitude of the desorption force shows a weak angular
+ dependence at pulling angles close to the surface normal. A significant
+ increase of the force is observed at shallower pulling from a certain pulling
+ angle. This behavior carries the signature of an adsorption-desorption
+ transition. The angular dependence of the normalized desorption force
+ exhibits a universal behavior. We compared and interpreted our results using
+ theoretical predictions for single-chain adsorption-desorption transitions.",
+    pmid 29712430,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

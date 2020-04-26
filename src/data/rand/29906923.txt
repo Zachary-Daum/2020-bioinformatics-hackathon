@@ -1,0 +1,122 @@
+
+Pubmed-entry ::= {
+  pmid 29906923,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Topological defects in two-dimensional liquid crystals confined
+ by a box."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yao X",
+            affil str "School of Mathematical Sciences, Beijing Normal
+ University, Beijing 100875, People's Republic of China.; School of Chemistry,
+ Beihang University, Beijing 100191, People's Republic of China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "School of Mathematical Sciences, Beijing Normal
+ University, Beijing 100875, People's Republic of China."
+          },
+          {
+            name ml "Chen JZY",
+            affil str "Department of Physics and Astronomy, University of
+ Waterloo, Waterloo, Ontario, Canada, N2L 3G1."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Phys Rev E",
+          ml-jta "Phys Rev E",
+          issn "2470-0053",
+          name "Physical review. E"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "97",
+          issue "5-1",
+          pages "052707",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 17,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29906923,
+        doi "10.1103/PhysRevE.97.052707",
+        other {
+          db "ELocationID doi",
+          tag str "10.1103/PhysRevE.97.052707"
+        }
+      }
+    },
+    abstract "When a spatially uniform system that displays a liquid-crystal
+ ordering on a two-dimensional surface is confined inside a rectangular box,
+ the liquid crystal direction field develops inhomogeneous textures
+ accompanied by topological defects because of the geometric frustrations. We
+ show that the rich variety of nematic textures and defect patterns found in
+ recent experimental and theoretical studies can be classified by the
+ solutions of the rather fundamental, extended Onsager model. This is
+ critically examined based on the determined free energies of different defect
+ states, as functions of a few relevant, dimensionless geometric parameters.",
+    pmid 29906923,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

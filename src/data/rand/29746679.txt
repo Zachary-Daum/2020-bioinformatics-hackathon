@@ -1,0 +1,195 @@
+
+Pubmed-entry ::= {
+  pmid 29746679,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Noninfectious Manifestations and Complications of Chronic
+ Granulomatous Disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Henrickson SE",
+            affil str "Division of Allergy and Immunology, Department of
+ Pediatrics, Children's Hospital of Philadelphia, Pennsylvania."
+          },
+          {
+            name ml "Jongco AM",
+            affil str "Institute for Immunology, University of Pennsylvania,
+ Philadelphia.; Departments of Medicine and Pediatrics, Donald and Barbara
+ Zucker School of Medicine at Hofstra/Northwell, Great Neck, New York."
+          },
+          {
+            name ml "Thomsen KF",
+            affil str "Division of Gastroenterology, Department of Pediatrics,
+ Vanderbilt University School of Medicine, Nashville, Tennessee."
+          },
+          {
+            name ml "Garabedian EK",
+            affil str "National Human Genome Research Institute, National
+ Institutes of Health, Bethesda, Maryland."
+          },
+          {
+            name ml "Thomsen IP",
+            affil str "Division of Pediatric Infectious Diseases, Vanderbilt
+ University School of Medicine, Nashville, Tennessee."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Pediatric Infect Dis Soc",
+          ml-jta "J Pediatric Infect Dis Soc",
+          issn "2048-7207",
+          name "Journal of the Pediatric Infectious Diseases Society"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 9
+          },
+          volume "7",
+          issue "suppl_1",
+          pages "S18-S24",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29746679,
+        pii "4994084",
+        doi "10.1093/jpids/piy014",
+        other {
+          db "pmc",
+          tag str "PMC5946858"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/jpids/piy014"
+        }
+      }
+    },
+    abstract "Chronic granulomatous disease (CGD), a primary immunodeficiency
+ characterized by a deficient neutrophil oxidative burst and the inadequate
+ killing of microbes, is well known to cause a significantly increased risk of
+ invasive infection. However, infectious complications are not the sole
+ manifestations of CGD; substantial additional morbidity is driven by
+ noninfectious complications also. These complications can include, for
+ example, a wide range of inflammatory diseases that affect the
+ gastrointestinal tract, lung, skin, and genitourinary tract and overt
+ autoimmune disease. These diseases can occur at any age and are especially
+ problematic in adolescents and adults with CGD. Many of these noninfectious
+ complications present a highly challenging therapeutic conundrum, wherein
+ immunosuppression must be balanced against an already markedly increased risk
+ of invasive fungal and bacterial infections. In this review, the myriad
+ noninfectious complications of CGD are discussed, as are important gaps in
+ our understanding of these processes, which warrant further investigation.",
+    mesh {
+      {
+        term "Autoimmune Diseases",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Granuloma",
+        qual {
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Granulomatous Disease, Chronic",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammatory Bowel Diseases",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Lung Diseases",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      }
+    },
+    pmid 29746679,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

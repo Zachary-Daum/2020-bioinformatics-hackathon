@@ -1,0 +1,143 @@
+
+Pubmed-entry ::= {
+  pmid 29949212,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Multigenerational and transgenerational effects of paternal
+ exposure to drugs of abuse on behavioral and neural function."
+      },
+      authors {
+        names std {
+          {
+            name ml "Goldberg LR",
+            affil str "Department of Biobehavioral Health, Penn State
+ University, 219 Biobehavioral Health Building, University Park, PA, 16801,
+ USA."
+          },
+          {
+            name ml "Gould TJ",
+            affil str "Department of Biobehavioral Health, Penn State
+ University, 219 Biobehavioral Health Building, University Park, PA, 16801,
+ USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. J. Neurosci.",
+          ml-jta "Eur J Neurosci",
+          issn "1460-9568",
+          name "The European journal of neuroscience"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 8
+          },
+          volume "50",
+          issue "3",
+          pages "2453-2466",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 6,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29949212,
+        doi "10.1111/ejn.14060",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/ejn.14060"
+        }
+      }
+    },
+    abstract "Addictions are highly heritable disorders, with heritability
+ estimates ranging from 39% to 72%. Multiple studies suggest a link between
+ paternal drug abuse and addiction in their children. However, patterns of
+ inheritance cannot be explained purely by Mendelian genetic mechanisms.
+ Exposure to drugs of abuse results in epigenetic changes that may be passed
+ on through the germline. This mechanism of epigenetic transgenerational
+ inheritance may provide a link between paternal drug exposure and addiction
+ susceptibility in the offspring. Recent studies have begun to investigate the
+ effect of paternal drug exposure on behavioral and neurobiological phenotypes
+ in offspring of drug-exposed fathers in rodent models. This review aims to
+ discuss behavioral and neural effects of paternal exposure to alcohol,
+ cocaine, opioids, and nicotine. Although a special focus will be on
+ addiction-relevant behaviors, additional behavioral effects including
+ cognition, anxiety, and depressive-like behaviors will be discussed.",
+    idnum {
+      "U01DA041632/DA/NIDA NIH HHS"
+    },
+    pmid 29949212,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status premedline
+  }
+}
+
+

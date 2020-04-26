@@ -1,0 +1,206 @@
+
+Pubmed-entry ::= {
+  pmid 29412135,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[From sequence variability to structural and functional
+ prediction: modeling of homologous protein families].",
+        trans "De la variabilite des sequences a la prediction structurale et
+ fonctionnelle : modelisation de familles de proteines homologues."
+      },
+      authors {
+        names std {
+          {
+            name ml "Barrat-Charlaix P",
+            affil str "Sorbonne Universites, UPMC Universite Paris 06, CNRS,
+ Biologie Computationnelle et Quantitative, Institut de Biologie Paris Seine,
+ 75005 Paris, France."
+          },
+          {
+            name ml "Weigt M",
+            affil str "Sorbonne Universites, UPMC Universite Paris 06, CNRS,
+ Biologie Computationnelle et Quantitative, Institut de Biologie Paris Seine,
+ 75005 Paris, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biol Aujourdhui",
+          ml-jta "Biol Aujourdhui",
+          issn "2105-0686",
+          name "Biologie aujourd'hui"
+        },
+        imp {
+          date std {
+            year 2017
+          },
+          volume "211",
+          issue "3",
+          pages "239-244",
+          language "fre",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29412135,
+        doi "10.1051/jbio/2017030",
+        pii "jbio170030",
+        other {
+          db "ELocationID doi",
+          tag str "10.1051/jbio/2017030"
+        }
+      }
+    },
+    abstract "Thanks to next-generation sequencing, the number of sequenced
+ genomes grows rapidly, providing in particular ample examples for the
+ sequence variability between homologous proteins. This article discusses
+ data-driven probabilistic sequence models, which are able to extract a
+ multitude of information from sequence data alone, including (i) structural
+ features like residue-residue contacts, which are formed in the folded
+ protein, (ii) protein-protein interaction interfaces and (iii) phenotypic
+ effects of amino-acid substitutions in proteins.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Binding Sites",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Computational Biology",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Evolution, Molecular"
+      },
+      {
+        mp TRUE,
+        term "Genetic Variation"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Multigene Family"
+      },
+      {
+        term "Protein Binding",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Protein Interaction Domains and Motifs",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Sequence Analysis, Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Sequence Homology, Amino Acid"
+      },
+      {
+        term "Structure-Activity Relationship"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Proteins"
+      }
+    },
+    pmid 29412135,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

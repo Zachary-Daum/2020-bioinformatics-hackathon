@@ -1,0 +1,310 @@
+
+Pubmed-entry ::= {
+  pmid 29633105,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Curcumin-galactomannoside complex inhibits pathogenesis in
+ Ox-LDL-challenged human peripheral blood mononuclear cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Saji S",
+            affil str "Department of Biochemistry, St. Thomas College, Pala,
+ Kottayam, Kerala, India."
+          },
+          {
+            name ml "Asha S",
+            affil str "Department of Biochemistry, St. Thomas College, Pala,
+ Kottayam, Kerala, India."
+          },
+          {
+            name ml "Svenia PJ",
+            affil str "Department of Biochemistry, St. Thomas College, Pala,
+ Kottayam, Kerala, India."
+          },
+          {
+            name ml "Ratheesh M",
+            affil str "Department of Biochemistry, St. Thomas College, Pala,
+ Kottayam, Kerala, India. biochemistrystcp@gmail.com."
+          },
+          {
+            name ml "Sheethal S",
+            affil str "Department of Biochemistry, St. Thomas College, Pala,
+ Kottayam, Kerala, India."
+          },
+          {
+            name ml "Sandya S",
+            affil str "Inorganic and Physical Chemistry Department, Indian
+ Institute of Science, Bangalore, Karnataka, India."
+          },
+          {
+            name ml "Krishnakumar IM",
+            affil str "R&D Centre, Akay Flavours & Aromatics Pvt Ltd, Cochin,
+ Kerala, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Inflammopharmacology",
+          ml-jta "Inflammopharmacology",
+          issn "1568-5608",
+          name "Inflammopharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "26",
+          issue "5",
+          pages "1273-1282",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 31
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 23
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29633105,
+        doi "10.1007/s10787-018-0474-0",
+        pii "10.1007/s10787-018-0474-0",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10787-018-0474-0"
+        }
+      }
+    },
+    abstract "Oxidised low-density lipoprotein (ox-LDL) is a pro-atherogenic
+ molecule, which induces inflammatory response and contributes to the
+ pathogenesis of vascular dysfunction to atherosclerosis. The aim of the
+ present study was to explore the anti-inflammatory effect of a novel
+ bioavailable formulation of curcumin as 'curcumagalactomannosides' (CGM)
+ against ox-LDL-induced inflammatory responses in human peripheral blood
+ mononuclear cells (hPBMCs). Curcumagalactomannosides was made from natural
+ curcumin using the soluble dietary fibre (galactomannans) derived from
+ fenugreek seeds (Trigonella foenumgracum) and the hPBMCs were isolated from
+ healthy human volunteers. The cells were cultured in collagen-coated plates
+ at 37  degrees C and grouped as Group I (Control), Group II (ox-LDL treated)
+ and Group III (ox-LDL + CGM treated). Further analysis of inflammatory
+ markers, reactive oxygen species and mRNA expression levels indicated
+ significantly increased expressions of iNOS, TNF-alpha, IL-6 and VCAM-1 in
+ ox-LDL-treated group along with the nuclear translocation of NF-kappaB. Other
+ inflammatory markers such as LOX, PGE2, total COX and lipid peroxidation
+ level were also found to be significantly (p < 0.05) increased upon ox-LDL
+ treatment. The treatment with CGM on the other hand was found to
+ down-regulate and reverse the ox-LDL-induced alterations indicating its
+ potential anti-inflammatory effect on hPBMCs via. NF-kappaB signalling
+ pathway.",
+    mesh {
+      {
+        term "Cell Survival",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Curcumin",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Galactosides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Leukocytes, Mononuclear",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipid Peroxidation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Lipoproteins, LDL",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Mannosides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "NF-kappa B",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Vascular Cell Adhesion Molecule-1",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Galactosides"
+      },
+      {
+        type nameonly,
+        name "Lipoproteins, LDL"
+      },
+      {
+        type nameonly,
+        name "Mannosides"
+      },
+      {
+        type nameonly,
+        name "NF-kappa B"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type nameonly,
+        name "Vascular Cell Adhesion Molecule-1"
+      },
+      {
+        type nameonly,
+        name "oxidized low density lipoprotein"
+      },
+      {
+        type cas,
+        cit "IT942ZTH98",
+        name "Curcumin"
+      }
+    },
+    pmid 29633105,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

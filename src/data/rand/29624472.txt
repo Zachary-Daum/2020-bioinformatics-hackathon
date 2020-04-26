@@ -1,0 +1,183 @@
+
+Pubmed-entry ::= {
+  pmid 29624472,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Efficacy and safety of baroreflex activation therapy for
+ treatment of resistant hypertension: a systematic review and meta-analysis."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chunbin W",
+            affil str "a Department of Cardiology , The Second Affiliated
+ Hospital of Chongqing Medical University, The Third People's Hospital of
+ Chengdu , Chongqing , Sichuan , China."
+          },
+          {
+            name ml "Fu S",
+            affil str "b Department of Cardiology , Jiangjin Central Hospital
+ , Chongqing , China."
+          },
+          {
+            name ml "Jing H",
+            affil str "a Department of Cardiology , The Second Affiliated
+ Hospital of Chongqing Medical University, The Third People's Hospital of
+ Chengdu , Chongqing , Sichuan , China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin. Exp. Hypertens.",
+          ml-jta "Clin Exp Hypertens",
+          issn "1525-6006",
+          name "Clinical and experimental hypertension (New York, N.Y. : 1993)"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "40",
+          issue "6",
+          pages "501-508",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29624472,
+        doi "10.1080/10641963.2016.1273943",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/10641963.2016.1273943"
+        }
+      }
+    },
+    abstract "To provide definite evidence for the anti-hypertensive benefit
+ of Baroreflex Activation Therapy (BAT) for resistant hypertension, we
+ performed a systematic review and meta-analysis to evaluate the efficacy and
+ safety of BAT. Electronic searches were conducted in PubMed, EMBASE, The
+ Cochrane Library and Web of Science. Two reviewers independently determined
+ the eligibility of studies and extracted the data. The quality of all
+ included studies was evaluated by the use of the Newcastle Ottawa Scale
+ (NOS). Disagreements were settled through discussion. Twelve studies,
+ included one randomized clinical trials (RCTs) and eleven prospective studies
+ were eligible for qualitative analysis and five prospective studies were
+ selected for meta-analysis. The data of analysis showed office systolic blood
+ pressure (SBP)(WMD = -24.01, 95% CI = -28.65 to -19.36, P= 0.753I(2) = 0.0%)
+ and diastolic blood pressure (DBP)(WMD = -12.53, 95% CI = -15.82 to -9.24,P =
+ 0.893,I(2) = 0.893) decreased by BAT treatment.The effect on SBP was both
+ significant in the Barostim neo TM device (WMD = -22.49, 95% CI = -29.13 to
+ 15.84, P= 0.443; I(2) = 0.0%) and Rheos System (WMD = 25.46, 95% CI = -31.96
+ to -18.96, P= 0.703; I(2) = 0.0%). Our study found office BP were
+ significantly decreased by BAT treatment, but available evidence is limited
+ by risk of bias, small sample size, and few RCTs. Thus, there is presently
+ insufficient evidence to fully evaluate the efficacy and safety of BAT for
+ Patients with Resistant Hypertension. Additional high-quality RCT research
+ with long-term follow-up is required.",
+    mesh {
+      {
+        term "Antihypertensive Agents",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Baroreflex"
+      },
+      {
+        term "Blood Pressure"
+      },
+      {
+        term "Drug Resistance"
+      },
+      {
+        term "Electric Stimulation Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypertension",
+        qual {
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Prospective Studies"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antihypertensive Agents"
+      }
+    },
+    pmid 29624472,
+    pub-type {
+      "Journal Article",
+      "Meta-Analysis",
+      "Review",
+      "Systematic Review"
+    },
+    status medline
+  }
+}
+
+

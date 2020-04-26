@@ -1,0 +1,306 @@
+
+Pubmed-entry ::= {
+  pmid 29609111,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Regulation of anxiety-like behavior and Crhr1 expression in the
+ basolateral amygdala by LMO3."
+      },
+      authors {
+        names std {
+          {
+            name ml "Savarese A",
+            affil str "Center for Alcohol Research in Epigenetics and
+ Department of Psychiatry, University of Illinois at Chicago, Chicago, IL
+ 60612 USA; Graduate Program in Neuroscience, University of Illinois at
+ Chicago, Chicago, IL 60612 USA. Electronic address: savarese@ohsu.edu."
+          },
+          {
+            name ml "Lasek AW",
+            affil str "Center for Alcohol Research in Epigenetics and
+ Department of Psychiatry, University of Illinois at Chicago, Chicago, IL
+ 60612 USA. Electronic address: alasek@uic.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Psychoneuroendocrinology",
+          ml-jta "Psychoneuroendocrinology",
+          issn "1873-3360",
+          name "Psychoneuroendocrinology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "92",
+          pages "13-20",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 25
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29609111,
+        pii "S0306-4530(17)31654-2",
+        doi "10.1016/j.psyneuen.2018.03.016",
+        other {
+          db "pmc",
+          tag str "PMC5924609"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS957467"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0306-4530(17)31654-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.psyneuen.2018.03.016"
+        }
+      }
+    },
+    abstract "The LIM domain only protein LMO3 is a transcriptional regulator
+ that has been shown to regulate several behavioral responses to alcohol.
+ Specifically, Lmo3 null (Lmo3(Z)) mice consume more ethanol in a
+ binge-drinking test and show enhanced ethanol-induced sedation. Due to the
+ high comorbidity of alcohol use and anxiety, we investigated anxiety-like
+ behavior in Lmo3(Z) mice. Lmo3(Z) mice spent more time in the open arms of
+ the elevated plus maze compared with their wild-type littermates, but the
+ effect was confounded by reduced locomotor activity. To verify the anxiety
+ phenotype in the Lmo3(Z) mice, we tested them for novelty-induced hypophagia
+ and found that they also showed reduced anxiety in this test. We next
+ explored the mechanism by which LMO3 might regulate anxiety by measuring mRNA
+ and protein levels of corticotropin releasing factor (encoded by the Crh
+ gene) and its receptor type 1 (Crhr1) in Lmo3(Z) mice. Reduced Crhr1 mRNA and
+ protein was evident in the basolateral amygdala (BLA) of Lmo3(Z) mice. To
+ examine whether Lmo3 in the amygdala is important for anxiety-like behavior,
+ we locally reduced Lmo3 expression in the BLA of wild type mice using a
+ lentiviral vector expressing a short hairpin RNA targeting the Lmo3
+ transcript. Mice with Lmo3 knockdown in the BLA exhibited decreased
+ anxiety-like behavior relative to control mice. These results suggest that
+ Lmo3 promotes anxiety-like behavior specifically in the BLA, possibly by
+ altering Crhr1 expression. This study is the first to support a role for Lmo3
+ in anxiety-like behavior.",
+    mesh {
+      {
+        term "Adaptor Proteins, Signal Transducing",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Alcohol Drinking",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anxiety",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Anxiety Disorders",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Basolateral Nuclear Complex",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Behavior, Animal",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Corticotropin-Releasing Hormone",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "LIM Domain Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Receptors, Corticotropin-Releasing Hormone",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adaptor Proteins, Signal Transducing"
+      },
+      {
+        type nameonly,
+        name "LIM Domain Proteins"
+      },
+      {
+        type nameonly,
+        name "Receptors, Corticotropin-Releasing Hormone"
+      },
+      {
+        type cas,
+        cit "5CLY6W2H1M",
+        name "CRF receptor type 1"
+      },
+      {
+        type cas,
+        cit "9015-71-8",
+        name "Corticotropin-Releasing Hormone"
+      }
+    },
+    idnum {
+      "P50 AA022538/AA/NIAAA NIH HHS",
+      "R01 DA033429/DA/NIDA NIH HHS",
+      "U01 AA016654/AA/NIAAA NIH HHS",
+      "U01 AA020912/AA/NIAAA NIH HHS"
+    },
+    pmid 29609111,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

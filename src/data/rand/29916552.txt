@@ -1,0 +1,272 @@
+
+Pubmed-entry ::= {
+  pmid 29916552,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "MicroRNA485 targets MACC1 and inhibits cervical cancer cell
+ proliferation and invasion."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang S",
+            affil str "Department of Obstetrics and Gynecology, Yidu Central
+ Hospital of Weifang, Weifang, Shandong 252500, P.R. China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "Department of Obstetrics and Gynecology, Yidu Central
+ Hospital of Weifang, Weifang, Shandong 252500, P.R. China."
+          },
+          {
+            name ml "Yuan S",
+            affil str "Department of Obstetrics and Gynecology, Yidu Central
+ Hospital of Weifang, Weifang, Shandong 252500, P.R. China."
+          },
+          {
+            name ml "Ji X",
+            affil str "Department of Obstetrics and Gynecology, Weifang People
+'s Hospital, Weifang, Shandong 261041, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol Med Rep",
+          ml-jta "Mol Med Rep",
+          issn "1791-3004",
+          name "Molecular medicine reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "18",
+          issue "2",
+          pages "2407-2416",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29916552,
+        doi "10.3892/mmr.2018.9186",
+        other {
+          db "ELocationID doi",
+          tag str "10.3892/mmr.2018.9186"
+        }
+      }
+    },
+    abstract "A large body of evidence has indicated that microRNAs
+ (miRNAs/miRs) have essential roles in the development and progression of
+ cervical cancer. Thus, miRNAs with dysregulated expression are potential
+ biomarkers for cervical cancer diagnosis and prognosis. In the present study,
+ expression levels of miR485 were detected in cervical cancer tissues and cell
+ lines. The effects of miR485 overexpression on the proliferation and invasion
+ of cervical cancer cells were determined with Cell Counting kit8 and
+ Transwell invasion assays. The mechanisms underlying the action of miR485 in
+ cervical cancer were investigated using bioinformatics analysis, a luciferase
+ reporter assay, reverse transcriptionquantitative polymerase chain reaction
+ and western blot analysis. In addition, the association between miR485 and
+ metastasis associated in colon cancer1 (MACC1) in cervical cancer tissues was
+ examined. The present study demonstrated that miR485 expression was
+ significantly downregulated in cervical cancer tissues and cell lines.
+ Reduced miR485 expression in patients with cervical cancer was correlated
+ with International Federation of Gynecology and Obstetrics stage and lymph
+ node metastasis. Furthermore, restored expression of miR485 significantly
+ reduced cervical cancer cell proliferation and invasion. MACC1 was identified
+ as a direct target gene of miR485 in cervical cancer. MACC1 expression was
+ significantly upregulated in cervical cancer specimens and was inversely
+ correlated with miR485 expression. Additionally, the restored expression of
+ MACC1 eliminated the suppressive effects of miR485 overexpression on the
+ proliferation and invasion of cervical cancer cells. Notably, the
+ upregulation of miR485 suppressed the MET protooncogene, receptor tyrosine
+ kinase (Met)/RACalpha serine/threonineprotein kinase (AKT) signaling pathway.
+ These results demonstrated that miR485 may perform its tumor suppressive
+ function in cervical cancer by directly targeting MACC1 and inhibiting the
+ Met/AKT signaling pathway. Therefore, the miR485/MACC1 axis may be a novel
+ and effective therapeutic target in cervical cancer.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Neoplasm Invasiveness",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Oncogene Protein v-akt",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-met",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Signal Transduction"
+      },
+      {
+        term "Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Uterine Cervical Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MACC1 protein, human"
+      },
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      },
+      {
+        type ec,
+        cit "2.7.10.1",
+        name "Proto-Oncogene Proteins c-met"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Oncogene Protein v-akt"
+      }
+    },
+    pmid 29916552,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

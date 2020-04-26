@@ -1,0 +1,219 @@
+
+Pubmed-entry ::= {
+  pmid 29614831,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Medical Surveillance, Continuous Health Promotion and a
+ Participatory Intervention in a Small Company."
+      },
+      authors {
+        names std {
+          {
+            name ml "Magnavita N",
+            affil str "Institute of Public Health, Universita Cattolica del
+ Sacro Cuore, Roma, Italy. nicolamagnavita@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Environ Res Public Health",
+          ml-jta "Int J Environ Res Public Health",
+          issn "1660-4601",
+          name "International journal of environmental research and public
+ health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 2
+          },
+          volume "15",
+          issue "4",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 30
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29614831,
+        pii "ijerph15040662",
+        doi "10.3390/ijerph15040662",
+        other {
+          db "pmc",
+          tag str "PMC5923704"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E662"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijerph15040662"
+        }
+      }
+    },
+    abstract "The workplace is an ideal setting for health promotion. The
+ regular medical examination of workers enables us to screen for numerous
+ diseases, spread good practices and correct lifestyles, and obtain a
+ favourable risk/benefit ratio. The continuous monitoring of the level of
+ workers' wellbeing using a holistic approach during medical surveillance
+ enables us to promptly identify problems in work organisation and the company
+ climate. Problems of this kind can be adequately managed by using a
+ participatory approach. The aim of this paper is twofold: to signal this way
+ of proceeding with medical surveillance, and to describe an organisational
+ development intervention. Participatory groups were used to improve
+ occupational life in a small company. After intervention we observed a
+ reduction in levels of perceived occupational stress measured with the
+ Effort/Reward Imbalance questionnaire, and an improvement in psychological
+ wellbeing assessed by means of the Goldberg Anxiety/Depression scale.
+ Although the limited size of the sample and the lack of a control group call
+ for a cautious evaluation of this study, the participatory strategy proved to
+ be a useful tool due to its cost-effectiveness.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Environment"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Promotion",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Life Style"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Occupational Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Occupational Health"
+      },
+      {
+        term "Public Health Surveillance",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        term "Workplace",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          },
+          {
+            subh "psychology"
+          }
+        }
+      }
+    },
+    pmid 29614831,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

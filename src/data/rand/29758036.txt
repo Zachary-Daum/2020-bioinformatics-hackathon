@@ -1,0 +1,300 @@
+
+Pubmed-entry ::= {
+  pmid 29758036,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Benzoxaborole treatment perturbs S-adenosyl-L-methionine
+ metabolism in Trypanosoma brucei."
+      },
+      authors {
+        names std {
+          {
+            name ml "Steketee PC",
+            affil str "Wellcome Centre for Molecular Parasitology, Institute
+ of Infection, Immunity and Inflammation, College of Medical, Veterinary and
+ Life Sciences, University of Glasgow, Glasgow, United Kingdom."
+          },
+          {
+            name ml "Vincent IM",
+            affil str "Wellcome Centre for Molecular Parasitology, Institute
+ of Infection, Immunity and Inflammation, College of Medical, Veterinary and
+ Life Sciences, University of Glasgow, Glasgow, United Kingdom."
+          },
+          {
+            name ml "Achcar F",
+            affil str "Wellcome Centre for Molecular Parasitology, Institute
+ of Infection, Immunity and Inflammation, College of Medical, Veterinary and
+ Life Sciences, University of Glasgow, Glasgow, United Kingdom."
+          },
+          {
+            name ml "Giordani F",
+            affil str "Wellcome Centre for Molecular Parasitology, Institute
+ of Infection, Immunity and Inflammation, College of Medical, Veterinary and
+ Life Sciences, University of Glasgow, Glasgow, United Kingdom."
+          },
+          {
+            name ml "Kim DH",
+            affil str "Centre for Analytical Bioscience, Division of Molecular
+ and Cellular Sciences, School of Pharmacy, The University of Nottingham,
+ Nottingham, United Kingdom."
+          },
+          {
+            name ml "Creek DJ",
+            affil str "Department of Biochemistry and Molecular Biology, Drug
+ Delivery Disposition and Dynamics, Monash Institute of Pharmaceutical
+ Sciences, Monash University, Parkville, Victoria, Australia."
+          },
+          {
+            name ml "Freund Y",
+            affil str "Anacor Pharmaceuticals, Inc., Palo Alto, California,
+ United States of America."
+          },
+          {
+            name ml "Jacobs R",
+            affil str "Anacor Pharmaceuticals, Inc., Palo Alto, California,
+ United States of America."
+          },
+          {
+            name ml "Rattigan K",
+            affil str "Wellcome Centre for Molecular Parasitology, Institute
+ of Infection, Immunity and Inflammation, College of Medical, Veterinary and
+ Life Sciences, University of Glasgow, Glasgow, United Kingdom."
+          },
+          {
+            name ml "Horn D",
+            affil str "Wellcome Centre for Anti-Infectives Research, School of
+ Life Sciences, University of Dundee, Dundee, United Kingdom."
+          },
+          {
+            name ml "Field MC",
+            affil str "Wellcome Centre for Anti-Infectives Research, School of
+ Life Sciences, University of Dundee, Dundee, United Kingdom."
+          },
+          {
+            name ml "MacLeod A",
+            affil str "Wellcome Centre for Molecular Parasitology, Institute
+ of Infection, Immunity and Inflammation, College of Medical, Veterinary and
+ Life Sciences, University of Glasgow, Glasgow, United Kingdom."
+          },
+          {
+            name ml "Barrett MP",
+            affil str "Wellcome Centre for Molecular Parasitology, Institute
+ of Infection, Immunity and Inflammation, College of Medical, Veterinary and
+ Life Sciences, University of Glasgow, Glasgow, United Kingdom."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS Negl Trop Dis",
+          ml-jta "PLoS Negl Trop Dis",
+          issn "1935-2735",
+          name "PLoS neglected tropical diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 14
+          },
+          volume "12",
+          issue "5",
+          pages "e0006450",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29758036,
+        doi "10.1371/journal.pntd.0006450",
+        pii "PNTD-D-17-01917",
+        other {
+          db "pmc",
+          tag str "PMC5976210"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pntd.0006450"
+        }
+      }
+    },
+    abstract "The parasitic protozoan Trypanosoma brucei causes Human African
+ Trypanosomiasis and Nagana in other mammals. These diseases present a major
+ socio-economic burden to large areas of sub-Saharan Africa. Current therapies
+ involve complex and toxic regimens, which can lead to fatal side-effects. In
+ addition, there is emerging evidence for drug resistance. AN5568 (SCYX-7158)
+ is a novel benzoxaborole class compound that has been selected as a lead
+ compound for the treatment of HAT, and has demonstrated effective clearance
+ of both early and late stage trypanosomiasis in vivo. The compound is
+ currently awaiting phase III clinical trials and could lead to a novel oral
+ therapeutic for the treatment of HAT. However, the mode of action of AN5568
+ in T. brucei is unknown. This study aimed to investigate the mode of action
+ of AN5568 against T. brucei, using a combination of molecular and
+ metabolomics-based approaches.Treatment of blood-stage trypanosomes with
+ AN5568 led to significant perturbations in parasite metabolism. In
+ particular, elevated levels of metabolites involved in the metabolism of
+ S-adenosyl-L-methionine, an essential methyl group donor, were found. Further
+ comparative metabolomic analyses using an S-adenosyl-L-methionine-dependent
+ methyltransferase inhibitor, sinefungin, showed the presence of several
+ striking metabolic phenotypes common to both treatments. Furthermore, several
+ metabolic changes in AN5568 treated parasites resemble those invoked in cells
+ treated with a strong reducing agent, dithiothreitol, suggesting redox
+ imbalances could be involved in the killing mechanism.",
+    mesh {
+      {
+        term "Benzoxazines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "S-Adenosylmethionine",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Trypanocidal Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Trypanosoma brucei brucei",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "growth & development"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Trypanosomiasis, African",
+        qual {
+          {
+            subh "parasitology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Benzoxazines"
+      },
+      {
+        type nameonly,
+        name "Trypanocidal Agents"
+      },
+      {
+        type nameonly,
+        name "benzoxacystol"
+      },
+      {
+        type cas,
+        cit "7LP2MPO46S",
+        name "S-Adenosylmethionine"
+      }
+    },
+    idnum {
+      "WT_/Wellcome Trust",
+      "BB/I004599/1/BB_/Biotechnology and Biological Sciences Research Council",
+      "MR/K008749/1/MRC_/Medical Research Council",
+      "MR/L018853/1/MRC_/Medical Research Council"
+    },
+    pmid 29758036,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

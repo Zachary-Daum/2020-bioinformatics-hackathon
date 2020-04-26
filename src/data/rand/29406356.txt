@@ -1,0 +1,173 @@
+
+Pubmed-entry ::= {
+  pmid 29406356,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Gastrointestinal Bleeding in Left Ventricular Assist Device:
+ Octreotide and Other Treatment Modalities."
+      },
+      authors {
+        names std {
+          {
+            name ml "Molina TL",
+            affil str "From the Department of Pharmacy, Houston Methodist
+ Hospital (HMH), Houston, Texas."
+          },
+          {
+            name ml "Krisl JC"
+          },
+          {
+            name ml "Donahue KR"
+          },
+          {
+            name ml "Varnado S"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "ASAIO J.",
+          ml-jta "ASAIO J",
+          issn "1538-943X",
+          name "ASAIO journal (American Society for Artificial Internal Organs
+ : 1992)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "64",
+          issue "4",
+          pages "433-439",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29406356,
+        doi "10.1097/MAT.0000000000000758",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/MAT.0000000000000758"
+        }
+      }
+    },
+    abstract "Left ventricular assist devices (LVADs) offer a therapeutic
+ strategy for patients with end-stage heart failure. Increased device
+ utilization has also increased the incidence of device-related complications
+ including gastrointestinal bleeding (GIB). Multiple mechanisms have been
+ proposed in the pathophysiology of continuous-flow LVAD-associated GIB
+ including physiologic changes associated with high shear and nonpulsatile
+ flow such as gastrointestinal arteriovenous malformations and acquired von
+ Willebrand syndrome. Strategies to minimize the morbidity and mortality of
+ LVAD-associated GIB are needed. Octreotide, a somatostatin analogue, has been
+ described as an adjunct to current therapies and interventions. Factors that
+ contribute to LVAD-associated GIB may be targeted by the pharmacologic
+ effects of octreotide, including improved platelet aggregation, increased
+ vascular resistance, and decreased splanchnic circulation. Octreotide has
+ demonstrated clinical benefit in several case series and clinical trials for
+ the treatment of LVAD-associated GIB. The focus of this article will be to
+ review the pathophysiology of LVAD-associated GIB, discuss pharmacologic and
+ nonpharmacologic treatment modalities, and review available literature on the
+ role of octreotide in the management of LVAD-associated GIB.",
+    mesh {
+      {
+        term "Gastrointestinal Hemorrhage",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Heart Failure",
+        qual {
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Heart-Assist Devices",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Octreotide",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "RWM8CCW8GP",
+        name "Octreotide"
+      }
+    },
+    pmid 29406356,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

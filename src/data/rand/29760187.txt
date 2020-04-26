@@ -1,0 +1,402 @@
+
+Pubmed-entry ::= {
+  pmid 29760187,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Lipopolysaccharide (LPS)-binding protein stimulates
+ CD14-dependent Toll-like receptor 4 internalization and LPS-induced
+ TBK1-IKK-IRF3 axis activation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tsukamoto H",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578, tsukamoh@m.tohoku.ac.jp."
+          },
+          {
+            name ml "Takeuchi S",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Kubota K",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Kobayashi Y",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Kozakai S",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Ukai I",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Shichiku A",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Okubo M",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Numasaki M",
+            affil str "the Department of Geriatrics and Gerontology, Institute
+ of Development, Aging and Cancer, Tohoku University, 4-1 Seiryo-machi, Sendai
+ 980-8575, and."
+          },
+          {
+            name ml "Kanemitsu Y",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Matsumoto Y",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578."
+          },
+          {
+            name ml "Nochi T",
+            affil str "the Laboratory of Functional Morphology and.;
+ International Education and Research Center for Food and Agricultural
+ Immunology (CFAI), Graduate School of Agricultural Science, Tohoku
+ University, 468-1 Aoba, Aramaki, Sendai 980-0845, Japan."
+          },
+          {
+            name ml "Watanabe K",
+            affil str "the Laboratory of Functional Morphology and.;
+ International Education and Research Center for Food and Agricultural
+ Immunology (CFAI), Graduate School of Agricultural Science, Tohoku
+ University, 468-1 Aoba, Aramaki, Sendai 980-0845, Japan."
+          },
+          {
+            name ml "Aso H",
+            affil str "the Laboratory of Functional Morphology and.;
+ International Education and Research Center for Food and Agricultural
+ Immunology (CFAI), Graduate School of Agricultural Science, Tohoku
+ University, 468-1 Aoba, Aramaki, Sendai 980-0845, Japan."
+          },
+          {
+            name ml "Tomioka Y",
+            affil str "From the Laboratory of Oncology, Pharmacy Practice and
+ Sciences, Graduate School of Pharmaceutical Sciences, Tohoku University, 6-3
+ Aoba, Aramaki, Sendai 980-8578, ytomioka@m.tohoku.ac.jp."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Biol. Chem.",
+          ml-jta "J Biol Chem",
+          issn "1083-351X",
+          name "The Journal of biological chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 29
+          },
+          volume "293",
+          issue "26",
+          pages "10186-10201",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29760187,
+        pii "M117.796631",
+        doi "10.1074/jbc.M117.796631",
+        other {
+          db "pmc",
+          tag str "PMC6028956"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1074/jbc.M117.796631"
+        }
+      }
+    },
+    abstract "Toll-like receptor 4 (TLR4) is an indispensable immune receptor
+ for lipopolysaccharide (LPS), a major component of the Gram-negative
+ bacterial cell wall. Following LPS stimulation, TLR4 transmits the signal
+ from the cell surface and becomes internalized in an endosome. However, the
+ spatial regulation of TLR4 signaling is not fully understood. Here, we
+ investigated the mechanisms of LPS-induced TLR4 internalization and clarified
+ the roles of the extracellular LPS-binding molecules, LPS-binding protein
+ (LBP), and glycerophosphatidylinositol-anchored protein (CD14). LPS
+ stimulation of CD14-expressing cells induced TLR4 internalization in the
+ presence of serum, and an inhibitory anti-LBP mAb blocked its
+ internalization. Addition of LBP to serum-free cultures restored LPS-induced
+ TLR4 internalization to comparable levels of serum. The secretory form of the
+ CD14 (sCD14) induced internalization but required a much higher concentration
+ than LBP. An inhibitory anti-sCD14 mAb was ineffective for serum-mediated
+ internalization. LBP lacking the domain for LPS transfer to CD14 and a CD14
+ mutant with reduced LPS binding both attenuated TLR4 internalization.
+ Accordingly, LBP is an essential serum molecule for TLR4 internalization, and
+ its LPS transfer to membrane-anchored CD14 (mCD14) is a prerequisite. LBP
+ induced the LPS-stimulated phosphorylation of TBK1, IKK, and IRF3, leading to
+ IFN-beta expression. However, LPS-stimulated late activation of NF-kappaB or
+ necroptosis were not affected. Collectively, our results indicate that LBP
+ controls LPS-induced TLR4 internalization, which induces TLR adaptor molecule
+ 1 (TRIF)-dependent activation of the TBK1-IKK-IRF3-IFN-beta pathway. In
+ summary, we showed that LBP-mediated LPS transfer to mCD14 is required for
+ serum-dependent TLR4 internalization and activation of the TRIF pathway.",
+    mesh {
+      {
+        term "Acute-Phase Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Carrier Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "I-kappa B Kinase",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Interferon Regulatory Factor-3",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharide Receptors",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Lymphocyte Antigen 96",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Membrane Glycoproteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protein Transport",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protein-Serine-Threonine Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Toll-Like Receptor 4",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Acute-Phase Proteins"
+      },
+      {
+        type nameonly,
+        name "Carrier Proteins"
+      },
+      {
+        type nameonly,
+        name "IRF3 protein, human"
+      },
+      {
+        type nameonly,
+        name "Interferon Regulatory Factor-3"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharide Receptors"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "Lymphocyte Antigen 96"
+      },
+      {
+        type nameonly,
+        name "Membrane Glycoproteins"
+      },
+      {
+        type nameonly,
+        name "Toll-Like Receptor 4"
+      },
+      {
+        type nameonly,
+        name "lipopolysaccharide-binding protein"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Protein-Serine-Threonine Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "TBK1 protein, human"
+      },
+      {
+        type ec,
+        cit "2.7.11.10",
+        name "I-kappa B Kinase"
+      },
+      {
+        type ec,
+        cit "2.7.11.10",
+        name "IKBKE protein, human"
+      }
+    },
+    pmid 29760187,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

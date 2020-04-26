@@ -1,0 +1,227 @@
+
+Pubmed-entry ::= {
+  pmid 29854018,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Delusions in Patients with Dementia with Lewy Bodies and the
+ Associated Factors."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tzeng RC",
+            affil str "Department of Neurology, Tainan Municipal Hospital
+ (Managed by Show Chwan Medical Care Corporation), Tainan, Taiwan."
+          },
+          {
+            name ml "Tsai CF",
+            affil str "Department of Neurology, Tainan Municipal Hospital
+ (Managed by Show Chwan Medical Care Corporation), Tainan, Taiwan."
+          },
+          {
+            name ml "Wang CT",
+            affil str "Department of Neurology, Tainan Municipal Hospital
+ (Managed by Show Chwan Medical Care Corporation), Tainan, Taiwan."
+          },
+          {
+            name ml "Wang TY",
+            affil str "Division of Endocrinology and Metabolism, Department of
+ Internal Medicine, China Medical University Hospital, Taichung, Taiwan."
+          },
+          {
+            name ml "Chiu PY",
+            affil str "Department of Neurology, Show Chwan Memorial Hospital,
+ Changhua, Taiwan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Behav Neurol",
+          ml-jta "Behav Neurol",
+          issn "1875-8584",
+          name "Behavioural neurology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 7
+          },
+          volume "2018",
+          pages "6707291",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 8
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29854018,
+        doi "10.1155/2018/6707291",
+        other {
+          db "pmc",
+          tag str "PMC5964573"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1155/2018/6707291"
+        }
+      }
+    },
+    abstract "Objective: Delusions are common neuropsychiatric symptoms in
+ patients with dementia with Lewy bodies (DLB). The aim of this study was to
+ investigate the associated factors of delusions in patients with DLB. Method:
+ A retrospective study of outpatients with DLB registered in a regional
+ hospital's database was performed. The associated factors including cognitive
+ performance, clinical features, vascular risk factors, and neuropsychiatric
+ symptoms between delusional and nondelusional patients with DLB were
+ compared. Results: Among 207 patients with DLB, 106 (51.2%) were delusional
+ and 101 (48.8%) were not. Delusion of other persons are stealing was the most
+ common symptom (35.3%). The delusional group had a significantly higher
+ diagnostic rate of probable than possible DLB, higher disease severity,
+ poorer cognitive performance, more severe neuropsychiatric symptoms, and
+ higher caregiver burden (all p < 0.05). In addition, the delusional group had
+ a significantly lower frequency of diabetes compared to the nondelusional
+ group (odds ratio = 0.28, p < 0.001). Conclusion: Delusion of other persons
+ are stealing was the most common delusional symptom. The patients with DLB
+ who presented with delusions had poorer cognitive function and more severe
+ neuropsychiatric symptoms. A novel finding is that the DLB patients with
+ diabetes had a lower frequency of delusions.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Comorbidity"
+      },
+      {
+        term "Databases, Factual"
+      },
+      {
+        term "Delusions",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Diabetes Mellitus",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lewy Body Disease",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Outpatients"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Severity of Illness Index"
+      }
+    },
+    pmid 29854018,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

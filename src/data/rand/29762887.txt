@@ -1,0 +1,193 @@
+
+Pubmed-entry ::= {
+  pmid 29762887,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The underreporting of medication errors: A retrospective and
+ comparative root cause analysis in an acute mental health unit over a 3-year
+ period."
+      },
+      authors {
+        names std {
+          {
+            name ml "Morrison M",
+            affil str "School of Health Professions, Murdoch University,
+ Murdoch, Western Australia, Australia."
+          },
+          {
+            name ml "Cope V",
+            affil str "School of Health Professions, Murdoch University,
+ Murdoch, Western Australia, Australia."
+          },
+          {
+            name ml "Murray M",
+            affil str "School of Health Professions, Murdoch University,
+ Murdoch, Western Australia, Australia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Ment Health Nurs",
+          ml-jta "Int J Ment Health Nurs",
+          issn "1447-0349",
+          name "International journal of mental health nursing"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "27",
+          issue "6",
+          pages "1719-1728",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 16
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29762887,
+        doi "10.1111/inm.12475",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/inm.12475"
+        }
+      }
+    },
+    abstract "Medication errors remain a commonly reported clinical incident
+ in health care as highlighted by the World Health Organization's focus to
+ reduce medication-related harm. This retrospective quantitative analysis
+ examined medication errors reported by staff using an electronic Clinical
+ Incident Management System (CIMS) during a 3-year period from April 2014 to
+ April 2017 at a metropolitan mental health ward in Western Australia. The aim
+ of the project was to identify types of medication errors and the context in
+ which they occur and to consider recourse so that medication errors can be
+ reduced. Data were retrieved from the Clinical Incident Management System
+ database and concerned medication incidents from categorized tiers within the
+ system. Areas requiring improvement were identified, and the quality of the
+ documented data captured in the database was reviewed for themes pertaining
+ to medication errors. Content analysis provided insight into the following
+ issues: (i) frequency of problem, (ii) when the problem was detected, and
+ (iii) characteristics of the error (classification of drug/s, where the error
+ occurred, what time the error occurred, what day of the week it occurred, and
+ patient outcome). Data were compared to the state-wide results published in
+ the Your Safety in Our Hands (2016) report. Results indicated several areas
+ upon which quality improvement activities could be focused. These include the
+ following: structural changes; changes to policy and practice; changes to
+ individual responsibilities; improving workplace culture to counteract
+ underreporting of medication errors; and improvement in safety and quality
+ administration of medications within a mental health setting.",
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        term "Medication Errors",
+        qual {
+          {
+            subh "prevention & control"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Mental Disorders",
+        qual {
+          {
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Psychiatric Department, Hospital",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Psychotropic Drugs",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Task Performance and Analysis"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Psychotropic Drugs"
+      }
+    },
+    pmid 29762887,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

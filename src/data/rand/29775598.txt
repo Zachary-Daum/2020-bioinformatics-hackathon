@@ -1,0 +1,362 @@
+
+Pubmed-entry ::= {
+  pmid 29775598,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Selective Cytotoxicity of the NAMPT Inhibitor FK866 Toward
+ Gastric Cancer Cells With Markers of the Epithelial-Mesenchymal Transition,
+ Due to Loss of NAPRT."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lee J",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Kim H",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Lee JE",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea; Department of Surgery, Yonsei
+ University College of Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Shin SJ",
+            affil str "Department of Pathology, Hanyang University College of
+ Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Oh S",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea; Brain Korea 21 Plus Project for
+ Medical Science, Yonsei University College of Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Kwon G",
+            affil str "Graduate Program for Nanomedical Science, Yonsei
+ University, Seoul, Korea."
+          },
+          {
+            name ml "Kim H",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea; Brain Korea 21 Plus Project for
+ Medical Science, Yonsei University College of Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Choi YY",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea; Department of Surgery, Yonsei
+ University College of Medicine, Seoul, Korea."
+          },
+          {
+            name ml "White MA",
+            affil str "Department of Cell Biology, University of Texas
+ Southwestern Medical Center, Dallas, Texas."
+          },
+          {
+            name ml "Paik S",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea."
+          },
+          {
+            name ml "Cheong JH",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea; Department of Surgery, Yonsei
+ University College of Medicine, Seoul, Korea; Brain Korea 21 Plus Project for
+ Medical Science, Yonsei University College of Medicine, Seoul, Korea.
+ Electronic address: jhcheong@yuhs.ac."
+          },
+          {
+            name ml "Kim HS",
+            affil str "Severance Biomedical Science Institute, Yonsei
+ University College of Medicine, Seoul, Korea; Brain Korea 21 Plus Project for
+ Medical Science, Yonsei University College of Medicine, Seoul, Korea.
+ Electronic address: hsfkim@yuhs.ac."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Gastroenterology",
+          ml-jta "Gastroenterology",
+          issn "1528-0012",
+          name "Gastroenterology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "155",
+          issue "3",
+          pages "799-814.e13",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 23
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29775598,
+        pii "S0016-5085(18)34544-X",
+        doi "10.1053/j.gastro.2018.05.024",
+        other {
+          db "ELocationID pii",
+          tag str "S0016-5085(18)34544-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1053/j.gastro.2018.05.024"
+        }
+      }
+    },
+    abstract "BACKGROUND & AIMS: Markers of the epithelial-to-mesenchymal
+ transition (EMT) in gastric tumor tissues are associated with poor patient
+ outcomes. We performed a screen to identify pharmacologic compounds that kill
+ gastric cancer cells with EMT-associated gene expression patterns and
+ investigate their mechanisms. METHODS: We identified 29 gastric cancer cell
+ lines with a gene expression signature previously associated with an EMT
+ subtype, based on data from RNA sequence analyses, and confirmed the
+ mesenchymal phenotypes of 7 lines (Hs746T, SNU1750, MKN1, SK4, SNU484,
+ SNU668, and YCC11), based on invasive activity and protein markers. We
+ screened 1,345 compounds for their ability to kill cells with the EMT
+ signature compared with cell lines without this pattern. We tested the
+ effects of identified compounds in BALB/c nude mice bearing GA077 tumors;
+ mice were given intraperitoneal injections of the compound or vehicle
+ (control) twice daily for 24 days and tumor growth was monitored. Proteins
+ associated with the toxicity of the compounds were overexpressed in MKN1 and
+ SNU484 cells or knocked down in MKN45 and SNU719 using small interfering
+ RNAs. We performed immunohistochemical analyses of 942 gastric cancer tissues
+ and investigated associations between EMT markers and protein expression
+ patterns. RESULTS: The nicotinamide phosphoribosyltransferase inhibitor FK866
+ killed 6 of 7 gastric cancer cell lines with EMT-associated gene expression
+ signatures but not gastric cancer cells without this signature. The 6
+ EMT-subtype gastric cell lines expressed significantly low levels of
+ nicotinic acid phosphoribosyltransferase (NAPRT), which makes the cells
+ hypersensitive to nicotinamide phosphoribosyltransferase inhibition. Gastric
+ cell lines that expressed higher levels of NAPRT, regardless of EMT markers,
+ were sensitized to FK866 after knockdown of NAPRT, whereas overexpression of
+ NAPRT in deficient EMT cell lines protected them from FK866-mediated
+ toxicity. Administration of FK866 to nude mice with tumors grown from GA077
+ cells (human gastric cancer tumors of the EMT subtype) led to tumor
+ regression in 2 weeks; FK866 did not affect tumors grown from MKN45 cells
+ without the EMT expression signature. Loss of NAPRT might promote the EMT,
+ because it stabilizes beta-catenin. We correlated the EMT gene expression
+ signature with lower levels of NAPRT in 942 gastric tumors from patients; we
+ also found lower levels of NAPRT mRNA in colorectal, pancreatic, and lung
+ adenocarcinoma tissues with the EMT gene expression signature. CONCLUSIONS:
+ FK866 selectively kills gastric cancer cells with an EMT gene expression
+ signature by inhibiting nicotinamide phosphoribosyltransferase in cells with
+ NAPRT deficiency. Loss of NAPRT expression, frequently through promoter
+ hypermethylation, is observed in many gastric tumors of the EMT subtype.
+ FK866 might be used to treat patients with tumors of this subtype.",
+    mesh {
+      {
+        term "Acrylamides",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Epithelial-Mesenchymal Transition",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Mice, Nude"
+      },
+      {
+        term "Nicotinamide Phosphoribosyltransferase",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Piperidines",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Acrylamides"
+      },
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "N-(4-(1-benzoylpiperidin-4-yl)butyl)-3-(pyridin-3-yl)acrylamide"
+      },
+      {
+        type nameonly,
+        name "Piperidines"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type ec,
+        cit "2.4.2.12",
+        name "Nicotinamide Phosphoribosyltransferase"
+      },
+      {
+        type ec,
+        cit "2.4.2.12",
+        name "nicotinamide phosphoribosyltransferase, human"
+      }
+    },
+    pmid 29775598,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,92 @@
+
+Pubmed-entry ::= {
+  pmid 29487052,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "One in five GP prescriptions for antibiotics is inappropriate."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kmietowicz Z",
+            affil str "The BMJ."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMJ",
+          ml-jta "BMJ",
+          issn "1756-1833",
+          name "BMJ (Clinical research ed.)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 27
+          },
+          volume "360",
+          pages "k936",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29487052,
+        doi "10.1136/bmj.k936",
+        other {
+          db "ELocationID doi",
+          tag str "10.1136/bmj.k936"
+        }
+      }
+    },
+    pmid 29487052,
+    pub-type {
+      "News"
+    },
+    status premedline
+  }
+}
+
+

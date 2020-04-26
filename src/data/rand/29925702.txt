@@ -1,0 +1,213 @@
+
+Pubmed-entry ::= {
+  pmid 29925702,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Reducing the medical economic burden of health insurance in
+ China: Achievements and challenges."
+      },
+      authors {
+        names std {
+          {
+            name ml "Dou G",
+            affil str "Department of Health Economics, School of Public
+ Health, Fudan University."
+          },
+          {
+            name ml "Wang Q",
+            affil str "Faculty of Humanities and Social Sciences, Dalian
+ University of Technology."
+          },
+          {
+            name ml "Ying X",
+            affil str "Department of Health Economics, School of Public
+ Health, Fudan University."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biosci Trends",
+          ml-jta "Biosci Trends",
+          issn "1881-7823",
+          name "Bioscience trends"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7,
+            day 17
+          },
+          volume "12",
+          issue "3",
+          pages "215-219",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29925702,
+        doi "10.5582/bst.2018.01054",
+        other {
+          db "ELocationID doi",
+          tag str "10.5582/bst.2018.01054"
+        }
+      }
+    },
+    abstract "The aims of this study were to describe health insurance reforms
+ initiated by the Chinese government over the past two decades, to review
+ their achievements in reducing the medical economic burden, and to summarize
+ the challenges that still exist regarding a further reduction in
+ out-of-pocket expenditures in this country. China has successfully attained
+ the goal of providing health insurance coverage to almost the entire
+ population by developing a mixed health insurance system, which consists of
+ Urban Employees Basic Medical Insurance (UEBMI), Urban Resident Basic Medical
+ Insurance (URBMI), New Rural Cooperative Medical Scheme (NCMS), and
+ supplementary Catastrophic Health Insurance. Despite this achievement, China
+ is still facing the challenges of a disparity in the medical economic burden
+ by region and by health insurance scheme, relatively little protection from
+ financial risk compared to developed countries, as well as low efficiency and
+ quality of care under current payment systems. To further reduce the
+ disparity in the medical economic burden and to increase the overall
+ protection from financial risk in China, the Government should increase
+ central government transfers to NCMS and URBMI enrollees in poor regions and
+ increase the total amount of government subsidies to NCMS. In addition, China
+ should improve the efficiency and quality of health insurance by further
+ reforming the payment system.",
+    mesh {
+      {
+        term "China"
+      },
+      {
+        term "Financing, Government",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          },
+          {
+            subh "statistics & numerical data"
+          },
+          {
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Health Care Reform",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          },
+          {
+            subh "statistics & numerical data"
+          },
+          {
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Health Expenditures",
+        qual {
+          {
+            subh "statistics & numerical data"
+          },
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Insurance, Health",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        term "Rural Health Services",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "statistics & numerical data"
+          },
+          {
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Urban Health Services",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "statistics & numerical data"
+          },
+          {
+            subh "trends"
+          }
+        }
+      }
+    },
+    pmid 29925702,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

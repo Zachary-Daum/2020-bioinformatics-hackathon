@@ -1,0 +1,132 @@
+
+Pubmed-entry ::= {
+  pmid 29531850,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 14,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Enantioselective C-H Arylation and Vinylation of Cyclobutyl
+ Carboxylic Amides."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wu QF",
+            affil str "Department of Chemistry, The Scripps Research
+ Institute, 10550 N. Torrey Pines Road, La Jolla, California 92037."
+          },
+          {
+            name ml "Wang XB",
+            affil str "Department of Chemistry, The Scripps Research
+ Institute, 10550 N. Torrey Pines Road, La Jolla, California 92037."
+          },
+          {
+            name ml "Shen PX",
+            affil str "Department of Chemistry, The Scripps Research
+ Institute, 10550 N. Torrey Pines Road, La Jolla, California 92037."
+          },
+          {
+            name ml "Yu JQ",
+            affil str "Department of Chemistry, The Scripps Research
+ Institute, 10550 N. Torrey Pines Road, La Jolla, California 92037."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "ACS Catal",
+          ml-jta "ACS Catal",
+          issn "2155-5435",
+          name "ACS catalysis"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 2
+          },
+          volume "8",
+          issue "3",
+          pages "2577-2584",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 14,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29531850,
+        doi "10.1021/acscatal.8b00069",
+        other {
+          db "pmc",
+          tag str "PMC5844484"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS941002"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acscatal.8b00069"
+        }
+      }
+    },
+    abstract "Chiral mono-N-protected aminomethyl oxazoline (MPAO) ligands are
+ found to promote enantioselective C-H arylation and vinylation of the
+ cyclobutyl carboxylic acid derivatives via Pd(II)/Pd(IV) redox catalysis.
+ This ligand scaffold overcame two important limitations of the previous MPAHA
+ (mono-N-protected alpha-amino-O-methylhydroxamic acid) ligands-enabled
+ asymmetric C-H activation/C-C coupling reactions of cyclic carboxylic amides
+ through Pd(II)/Pd(0) catalysis: substrates containing alpha-hydrogen atoms
+ are not compatible; vinylation has not been developed. Sequential C-H
+ arylation and vinylation of cyclobutanes are also accomplished to construct
+ three consecutive chiral centers on the crowded cyclobutane rings, rendering
+ this reaction highly versatile for the preparation of chiral cyclobutanes.",
+    idnum {
+      "R01 GM084019/GM/NIGMS NIH HHS"
+    },
+    pmid 29531850,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

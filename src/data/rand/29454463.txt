@@ -1,0 +1,255 @@
+
+Pubmed-entry ::= {
+  pmid 29454463,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A review on cationic lipids with different linkers for gene
+ delivery."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhi D",
+            affil str "Key Laboratory of Biotechnology and Bioresources
+ Utilization, Ministry of Education, Dalian Minzu University, Dalian 116600,
+ China."
+          },
+          {
+            name ml "Bai Y",
+            affil str "Key Laboratory of Biotechnology and Bioresources
+ Utilization, Ministry of Education, Dalian Minzu University, Dalian 116600,
+ China."
+          },
+          {
+            name ml "Yang J",
+            affil str "Key Laboratory of Biotechnology and Bioresources
+ Utilization, Ministry of Education, Dalian Minzu University, Dalian 116600,
+ China."
+          },
+          {
+            name ml "Cui S",
+            affil str "Key Laboratory of Biotechnology and Bioresources
+ Utilization, Ministry of Education, Dalian Minzu University, Dalian 116600,
+ China."
+          },
+          {
+            name ml "Zhao Y",
+            affil str "Key Laboratory of Biotechnology and Bioresources
+ Utilization, Ministry of Education, Dalian Minzu University, Dalian 116600,
+ China."
+          },
+          {
+            name ml "Chen H",
+            affil str "Key Laboratory of Biotechnology and Bioresources
+ Utilization, Ministry of Education, Dalian Minzu University, Dalian 116600,
+ China."
+          },
+          {
+            name ml "Zhang S",
+            affil str "Key Laboratory of Biotechnology and Bioresources
+ Utilization, Ministry of Education, Dalian Minzu University, Dalian 116600,
+ China. Electronic address: zsb@dlnu.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Adv Colloid Interface Sci",
+          ml-jta "Adv Colloid Interface Sci",
+          issn "1873-3727",
+          name "Advances in colloid and interface science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "253",
+          pages "117-140",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 8,
+                day 31
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29454463,
+        pii "S0001-8686(17)30387-1",
+        doi "10.1016/j.cis.2017.12.006",
+        other {
+          db "ELocationID pii",
+          tag str "S0001-8686(17)30387-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.cis.2017.12.006"
+        }
+      }
+    },
+    abstract "Cationic lipids have become known as one of the most versatile
+ tools for the delivery of DNA, RNA and many other therapeutic molecules, and
+ are especially attractive because they can be easily designed, synthesized
+ and characterized. Most of cationic lipids share the common structure of
+ cationic head groups and hydrophobic portions with linker bonds between both
+ domains. The linker bond is an important determinant of the chemical
+ stability and biodegradability of cationic lipid, and further governs its
+ transfection efficiency and cytotoxicity. Based on the structures of linker
+ bonds, they can be grouped into many types, such as ether, ester, amide,
+ carbamate, disulfide, urea, acylhydrazone, phosphate, and other unusual types
+ (carnitine, vinyl ether, ketal, glutamic acid, aspartic acid, malonic acid
+ diamide and dihydroxybenzene). This review summarizes some research results
+ concerning the nature (such as the structure and orientation of linker
+ groups) and density (such as the spacing and the number of linker groups) of
+ linker bond for improving the chemical stability, biodegradability,
+ transfection efficiency and cytotoxicity of cationic lipid to overcome the
+ critical barriers of in vitro and in vivo transfection.",
+    mesh {
+      {
+        term "Cations"
+      },
+      {
+        term "DNA",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "pharmacokinetics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Gene Transfer Techniques"
+      },
+      {
+        term "Genetic Therapy",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hydrophobic and Hydrophilic Interactions"
+      },
+      {
+        term "Lipids",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Liposomes",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Transgenes"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cations"
+      },
+      {
+        type nameonly,
+        name "Lipids"
+      },
+      {
+        type nameonly,
+        name "Liposomes"
+      },
+      {
+        type cas,
+        cit "9007-49-2",
+        name "DNA"
+      }
+    },
+    pmid 29454463,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

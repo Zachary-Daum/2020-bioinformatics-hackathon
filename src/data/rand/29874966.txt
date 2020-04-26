@@ -1,0 +1,335 @@
+
+Pubmed-entry ::= {
+  pmid 29874966,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Gellan gum macrobeads loaded with naproxen: The impact of
+ various naturally derived polymers on pH-dependent behavior."
+      },
+      authors {
+        names std {
+          {
+            name ml "Osmalek TZ",
+            affil str "1 Poznan University of Medical Sciences, Department of
+ Pharmaceutical Technology, Poznan, Poland."
+          },
+          {
+            name ml "Froelich A",
+            affil str "1 Poznan University of Medical Sciences, Department of
+ Pharmaceutical Technology, Poznan, Poland."
+          },
+          {
+            name ml "Sobol M",
+            affil str "2 West Pomeranian University of Technology, Center of
+ Bioimmobilization and Innovative Packaging Materials, Szczecin, Poland."
+          },
+          {
+            name ml "Milanowski B",
+            affil str "1 Poznan University of Medical Sciences, Department of
+ Pharmaceutical Technology, Poznan, Poland."
+          },
+          {
+            name ml "Skotnicki M",
+            affil str "1 Poznan University of Medical Sciences, Department of
+ Pharmaceutical Technology, Poznan, Poland."
+          },
+          {
+            name ml "Kunstman P",
+            affil str "1 Poznan University of Medical Sciences, Department of
+ Pharmaceutical Technology, Poznan, Poland."
+          },
+          {
+            name ml "Szybowicz M",
+            affil str "3 Poznan University of Technology, Faculty of Technical
+ Physics, Poznan, Poland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Biomater Appl",
+          ml-jta "J Biomater Appl",
+          issn "1530-8022",
+          name "Journal of biomaterials applications"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "33",
+          issue "1",
+          pages "140-155",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29874966,
+        doi "10.1177/0885328218779705",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0885328218779705"
+        }
+      }
+    },
+    abstract "Aims After oral administration, naproxen generates several
+ side-effects related to stomach malfunction. Undoubtedly, the enteric dosage
+ forms with naproxen can be considered as safer. Moreover, since it has been
+ evidenced that development and growth of colorectal cancer is related to the
+ presence of cyclooxygenase, naproxen is investigated in terms of the tumor
+ prevention. The aim of the present work was to formulate and evaluate the
+ properties of novel naproxen-loaded macrobeads, made on the basis of low-acyl
+ gellan gum and its blends with carrageenans, guar gum, cellulose sulfate, and
+ dextran sulfates. Method Seven formulations were prepared by ionotropic
+ gelation. The morphology of the dried beads was evaluated by scanning
+ electron microscopy. The next step focused on Raman spectroscopy and thermal
+ analysis of naproxen, polymers, and the beads. Next, the swelling behavior
+ was examined in three acceptor fluids at pH = 1.2; 4.5, and 7.4. The beads
+ were evaluated regarding naproxen content and encapsulation efficiency. The
+ last stage of the work concerned the drug release studies. Results Addition
+ of any other polysaccharide than gellan resulted in flattening of the beads
+ upon drying. Differential scanning calorimetry confirmed the crystalline form
+ of naproxen. Raman spectra showed that no apparent interactions occurred. In
+ the acidic environment, all the beads revealed the tendency to absorb water.
+ The beads swelled to the greatest extent at pH = 4.5. Naproxen was released
+ from the beads at a varied rate. At pH = 7.4, the most prolonged release was
+ observed for the beads containing carrageenans. Conclusions We have proved
+ that blending of gellan with various polysaccharides can change the
+ pH-dependent properties of the beads loaded with naproxen. We believe that
+ the information enclosed in the paper will be of particular importance
+ regarding the development and characteristics of novel oral dosage forms
+ based on natural polymers.",
+    mesh {
+      {
+        term "Anti-Inflammatory Agents, Non-Steroidal",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Anticarcinogenic Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Carrageenan",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cellulose",
+        qual {
+          {
+            subh "analogs & derivatives"
+          },
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Chemistry, Pharmaceutical",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Dextran Sulfate",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Drug Carriers",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Drug Liberation"
+      },
+      {
+        term "Galactans",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Hydrogen-Ion Concentration"
+      },
+      {
+        term "Hydrophobic and Hydrophilic Interactions"
+      },
+      {
+        term "Mannans",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Microspheres"
+      },
+      {
+        term "Naproxen",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Plant Gums",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Polysaccharides, Bacterial",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents, Non-Steroidal"
+      },
+      {
+        type nameonly,
+        name "Anticarcinogenic Agents"
+      },
+      {
+        type nameonly,
+        name "Drug Carriers"
+      },
+      {
+        type nameonly,
+        name "Galactans"
+      },
+      {
+        type nameonly,
+        name "Mannans"
+      },
+      {
+        type nameonly,
+        name "Plant Gums"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides, Bacterial"
+      },
+      {
+        type cas,
+        cit "57Y76R9ATQ",
+        name "Naproxen"
+      },
+      {
+        type cas,
+        cit "7593U09I4D",
+        name "gellan gum"
+      },
+      {
+        type cas,
+        cit "9000-07-1",
+        name "Carrageenan"
+      },
+      {
+        type cas,
+        cit "9004-34-6",
+        name "Cellulose"
+      },
+      {
+        type cas,
+        cit "9032-43-3",
+        name "cellulose sulfate"
+      },
+      {
+        type cas,
+        cit "9042-14-2",
+        name "Dextran Sulfate"
+      },
+      {
+        type cas,
+        cit "E89I1637KE",
+        name "guar gum"
+      }
+    },
+    pmid 29874966,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

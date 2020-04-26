@@ -1,0 +1,148 @@
+
+Pubmed-entry ::= {
+  pmid 29962295,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Decision Time."
+      },
+      authors {
+        names ml {
+          "Lane T"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ann R Coll Surg Engl",
+          ml-jta "Ann R Coll Surg Engl",
+          issn "1478-7083",
+          name "Annals of the Royal College of Surgeons of England"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "100",
+          issue "6",
+          pages "423",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29962295,
+        doi "10.1308/rcsann.2018.0108",
+        other {
+          db "pmc",
+          tag str "PMC6111916"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1308/rcsann.2018.0108"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Decision Making"
+      },
+      {
+        term "England"
+      },
+      {
+        term "Government Programs",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "history"
+          },
+          {
+            mp TRUE,
+            subh "organization & administration"
+          },
+          {
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "History, 20th Century"
+      },
+      {
+        term "History, 21st Century"
+      },
+      {
+        term "National Health Programs",
+        qual {
+          {
+            subh "economics"
+          },
+          {
+            subh "history"
+          },
+          {
+            mp TRUE,
+            subh "organization & administration"
+          },
+          {
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Politics"
+      }
+    },
+    pmid 29962295,
+    pub-type {
+      "Editorial",
+      "Historical Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,241 @@
+
+Pubmed-entry ::= {
+  pmid 29548298,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effects of heart rate variability biofeedback during exposure to
+ fear-provoking stimuli within spider-fearful individuals: study protocol for
+ a randomized controlled trial."
+      },
+      authors {
+        names std {
+          {
+            name ml "Schafer SK",
+            affil str "Division of Clinical Psychology and Psychotherapy,
+ Department of Psychology, Saarland University, Building A 1.3, 66123,
+ Saarbrucken, Germany."
+          },
+          {
+            name ml "Ihmig FR",
+            affil str "Department of Biomedical Microsystems,
+ Fraunhofer-Institut fuer Biomedizinische Technik (IBMT), Sulzbach, Saar,
+ Germany."
+          },
+          {
+            name ml "Lara H KA",
+            affil str "Department of Biomedical Microsystems,
+ Fraunhofer-Institut fuer Biomedizinische Technik (IBMT), Sulzbach, Saar,
+ Germany."
+          },
+          {
+            name ml "Neurohr F",
+            affil str "Department of Biomedical Microsystems,
+ Fraunhofer-Institut fuer Biomedizinische Technik (IBMT), Sulzbach, Saar,
+ Germany."
+          },
+          {
+            name ml "Kiefer S",
+            affil str "Department of Biomedical Microsystems,
+ Fraunhofer-Institut fuer Biomedizinische Technik (IBMT), Sulzbach, Saar,
+ Germany."
+          },
+          {
+            name ml "Staginnus M",
+            affil str "Division of Clinical Psychology and Psychotherapy,
+ Department of Psychology, Saarland University, Building A 1.3, 66123,
+ Saarbrucken, Germany."
+          },
+          {
+            name ml "Lass-Hennemann J",
+            affil str "Division of Clinical Psychology and Psychotherapy,
+ Department of Psychology, Saarland University, Building A 1.3, 66123,
+ Saarbrucken, Germany."
+          },
+          {
+            name ml "Michael T",
+            affil str "Division of Clinical Psychology and Psychotherapy,
+ Department of Psychology, Saarland University, Building A 1.3, 66123,
+ Saarbrucken, Germany. t.michael@mx.uni-saarland.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Trials",
+          ml-jta "Trials",
+          issn "1745-6215",
+          name "Trials"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 16
+          },
+          volume "19",
+          issue "1",
+          pages "184",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 15
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29548298,
+        doi "10.1186/s13063-018-2554-2",
+        pii "10.1186/s13063-018-2554-2",
+        other {
+          db "pmc",
+          tag str "PMC5857097"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s13063-018-2554-2"
+        }
+      }
+    },
+    abstract "BACKGROUND: Specific phobias are among the most common anxiety
+ disorders. Exposure therapy is the treatment of choice for specific phobias.
+ However, not all patients respond equally well to it. Hence, current research
+ focuses on therapeutic add-ons to increase and consolidate the effects of
+ exposure therapy. One potential therapeutic add-on is biofeedback to increase
+ heart rate variability (HRV). A recent meta-analysis shows beneficial effects
+ of HRV biofeedback interventions on stress and anxiety symptoms. Therefore,
+ the purpose of the current trial is to evaluate the effects of HRV
+ biofeedback, which is practiced before and utilized during exposure, in
+ spider-fearful individuals. Further, this trial is the first to differentiate
+ between the effects of a HRV biofeedback intervention and those of a low-load
+ working memory (WM) task. METHODS: Eighty spider-fearful individuals
+ participate in the study. All participants receive a training session in
+ which they practice two tasks (HRV biofeedback and a motor pseudo-biofeedback
+ task or two motor pseudo-biofeedback tasks). Afterwards, they train both
+ tasks at home for 6 days. One week later, during the exposure session, they
+ watch 16 1-min spider video clips. Participants are divided into four groups:
+ group 1 practices the HRV biofeedback and one motor pseudo-task before
+ exposure and utilizes HRV biofeedback during exposure. Group 2 receives the
+ same training, but continues the pseudo-biofeedback task during exposure.
+ Group 3 practices two pseudo-biofeedback tasks and continues one of them
+ during exposure. Group 4 trains in two pseudo-biofeedback tasks and has no
+ additional task during exposure. The primary outcome is fear of spiders
+ (measured by the Fear of Spiders Questionnaire and the Behavioral Approach
+ Test). Secondary outcomes are physiological measures based on electrodermal
+ activity, electrocardiogram and respiration. DISCUSSION: This RCT is the
+ first one to investigate the effects of using a pre-trained HRV biofeedback
+ during exposure in spider-fearful individuals. The study critically contrasts
+ the effects of the biofeedback intervention with those of pseudo-tasks, which
+ also require WM capacity, but which do not have a physiological base. If HRV
+ biofeedback is effective in reducing fear of spiders, it would represent an
+ easy-to-use tool to improve exposure-therapy outcomes. TRIAL REGISTRATION:
+ Deutsches Register Klinischer Studien, DRKS00012278 . Registered on 23 May
+ 2017, amendment on 5 October 2017.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Biofeedback, Psychology"
+      },
+      {
+        term "Data Collection"
+      },
+      {
+        term "Fear",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Heart Rate"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Randomized Controlled Trials as Topic"
+      },
+      {
+        mp TRUE,
+        term "Spiders"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "13GW0158B/Bundesministerium fur Bildung und Forschung",
+      "13GW0158C/Bundesministerium fur Bildung und Forschung"
+    },
+    pmid 29548298,
+    pub-type {
+      "Clinical Trial Protocol",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

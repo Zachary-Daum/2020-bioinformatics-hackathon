@@ -1,0 +1,150 @@
+
+Pubmed-entry ::= {
+  pmid 29857487,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Molecular Dynamics Study of an Amorphous Polyethylene/Silica
+ Interface with Shear Tests."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhuang X",
+            affil str "Institute of Continuum Mechanics, Leibniz University
+ Hannover, 30167 Hannover, Germany. zhuang@ikm.uni-hannover.de.; Department of
+ Geotechnical Engineering, Tongji University, Shanghai 200092, China.
+ zhuang@ikm.uni-hannover.de.; Institute of Structural Mechanics, Bauhaus
+ Universitat-Weimar, D-99423 Weimar, Germany. zhuang@ikm.uni-hannover.de."
+          },
+          {
+            name ml "Zhou S",
+            affil str "Institute of Continuum Mechanics, Leibniz University
+ Hannover, 30167 Hannover, Germany. zhou@ikm.uni-hannover.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Materials (Basel)",
+          ml-jta "Materials (Basel)",
+          issn "1996-1944",
+          name "Materials (Basel, Switzerland)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 31
+          },
+          volume "11",
+          issue "6",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 15
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 3,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29857487,
+        pii "ma11060929",
+        doi "10.3390/ma11060929",
+        other {
+          db "pmc",
+          tag str "PMC6025211"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E929"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ma11060929"
+        }
+      }
+    },
+    abstract "An amorphous polyethylene/silica (PE/S) interface exists in many
+ materials. However, the research of the interfacial properties at microscale
+ is lacking. Shear failure and adhesion properties of an amorphous PE/S
+ interface are studied by molecular dynamics. The effects of PE chain length,
+ the number of chains, and coupling agents on the shear behavior and
+ interfacial adhesion are investigated. It is found that the modified silica
+ (mS) surface induces an increase in the adhesion strength compared to
+ unmodified S. The damage process and failure mode of the PE/S and PE/mS
+ interface are analyzed at microscale. The contribution of bond length, bond
+ angle, torsional potentials, and nonbonded energy is estimated as a function
+ of the shear deformation to clarify the deformation mechanisms. The energy
+ partitioning results indicate that the elastic, yield, and postyielding
+ regions are mostly controlled by the nonbonded interactions. The dihedral
+ motions of the chains also have an influence. Furthermore, the simulation
+ results exhibit how the internal mechanism evolves with the shear deformation.",
+    pmid 29857487,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

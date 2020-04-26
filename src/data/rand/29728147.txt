@@ -1,0 +1,269 @@
+
+Pubmed-entry ::= {
+  pmid 29728147,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Interventions for improving management of chronic
+ non-communicable diseases in Dikgale, a rural area in Limpopo Province, South
+ Africa."
+      },
+      authors {
+        names std {
+          {
+            name ml "Maimela E",
+            affil str "Department of Pathology and Medical Sciences, School of
+ Health Care Sciences, University of Limpopo, Turfloop campus, P O Box 1043,
+ Duiwelskloof, 0835, South Africa. ericmaimela@webmail.co.za."
+          },
+          {
+            name ml "Alberts M",
+            affil str "Department of Pathology and Medical Sciences, School of
+ Health Care Services, University of Limpopo, Turfloop campus, Private Bag
+ X1106, Sovenga, 0727, South Africa."
+          },
+          {
+            name ml "Bastiaens H",
+            affil str "Department of Primary and Interdisciplinary care,
+ University of Antwerp, Universiteitsplein 1, 2600, Antwerp, Belgium."
+          },
+          {
+            name ml "Fraeyman J",
+            affil str "Research group Medical Sociology and Health Policy,
+ University of Antwerp, Universiteitsplein 1, 2600, Antwerp, Belgium."
+          },
+          {
+            name ml "Meulemans H",
+            affil str "Department of Sociology and Research Centre for
+ Longitudinal and Life Course Studies, University of Antwerp, Sint-Jacobstraat
+ 2, BE-2000, Antwerpen, Belgium.; Centre for Health Systems Research &
+ Development, University of the Free State, Bloemfontein, South Africa."
+          },
+          {
+            name ml "Wens J",
+            affil str "Department of Primary and Interdisciplinary care,
+ University of Antwerp, Universiteitsplein 1, 2600, Antwerp, Belgium."
+          },
+          {
+            name ml "Van Geertruyden JP",
+            affil str "International Health Unit, University of Antwerp,
+ Universiteitsplein 1, 2600, Antwerp, Belgium."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "BMC Health Serv Res",
+          ml-jta "BMC Health Serv Res",
+          issn "1472-6963",
+          name "BMC health services research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 4
+          },
+          volume "18",
+          issue "1",
+          pages "331",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 6,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 29
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29728147,
+        doi "10.1186/s12913-018-3085-y",
+        pii "10.1186/s12913-018-3085-y",
+        other {
+          db "pmc",
+          tag str "PMC5935929"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s12913-018-3085-y"
+        }
+      }
+    },
+    abstract "BACKGROUND: Chronic disease management (CDM) is an approach to
+ health care that keeps people as healthy as possible through the prevention,
+ early detection and management of chronic diseases. The aim of this study was
+ to develop interventions to improve management of chronic diseases in the
+ form of an integrated, evidence-based chronic disease management model in
+ Dikgale, a rural area of Limpopo Province in South Africa. METHODS: A
+ multifaceted intervention, called 'quality circles' (QCs) was developed to
+ improve the quality and the management of chronic diseases in the Dikgale
+ Health and Demographic Surveillance System (HDSS). These QCs used the
+ findings from previous studies which formed part of the larger project in the
+ study area, namely, the quantitative study using STEPwise survey and
+ qualitative studies using focus group discussions and semi-structured
+ interviews. RESULTS: The findings from previous studies in Dikgale HDSS
+ revealed that an epidemiological transition is occurring. Again, the most
+ widely reported barriers from previous studies in this rural area were: lack
+ of knowledge of NCDs; shortages of medication and shortages of nurses in the
+ clinics, which results in patients having long waiting-time at clinics. Lack
+ of training of health care providers on the management of chronic diseases
+ and the lack of supervision by the district and provincial health managers,
+ together with poor dissemination of guidelines, were contributing factors to
+ the lack of knowledge of non-communicable diseases (NCDs) management among
+ nurses and community health care workers (CHWs). Consideration of all of
+ these findings led to the development of model which focuses on integrating
+ nursing services, CHWs and traditional health practitioners (THPs), including
+ a well-established clinical information system for health care providers. A
+ novel aspect of the model is the inclusion of community ambassadors who are
+ on treatment for NCDs and are, thus, repositories of knowledge who can serve
+ as a bridge between health care workers and community members. CONCLUSION:
+ The model developed highlights the need for health interventions that aim to
+ control risk factors at the population level, the need for availability of
+ NCD-trained nurses, functional equipment and medication and a need to improve
+ the link with traditional healers.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Chronic Disease"
+      },
+      {
+        term "Community Health Services",
+        qual {
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Community Health Workers",
+        qual {
+          {
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Noncommunicable Diseases",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Qualitative Research"
+      },
+      {
+        term "Quality Improvement",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Rural Health",
+        qual {
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "South Africa",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29728147,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

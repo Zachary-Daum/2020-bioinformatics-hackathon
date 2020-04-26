@@ -1,0 +1,341 @@
+
+Pubmed-entry ::= {
+  pmid 29601411,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Antihypertensive drug use in resistant and nonresistant
+ hypertension and in controlled and uncontrolled resistant hypertension."
+      },
+      authors {
+        names std {
+          {
+            name ml "de la Sierra A",
+            affil str "Department of Internal Medicine, Hospital Mutua
+ Terrassa, University of Barcelona."
+          },
+          {
+            name ml "Armario P",
+            affil str "Department of Internal Medicine, Cardiovascular Risk
+ Area, Hospital Moises Broggi."
+          },
+          {
+            name ml "Oliveras A",
+            affil str "Hypertension Unit, Department of Nephrology, Hospital
+ del Mar, Barcelona."
+          },
+          {
+            name ml "Banegas JR",
+            affil str "Department of Preventive Medicine and Public Health,
+ Universidad Autonoma de Madrid, Madrid."
+          },
+          {
+            name ml "Gorostidi M",
+            affil str "Department of Nephrology, Hospital Universitario
+ Central de Asturias, RedinRen, Oviedo."
+          },
+          {
+            name ml "Vinyoles E",
+            affil str "Primary Care Centre La Mina, Barcelona."
+          },
+          {
+            name ml "de la Cruz JJ",
+            affil str "Department of Preventive Medicine and Public Health,
+ Universidad Autonoma de Madrid, Madrid."
+          },
+          {
+            name ml "Segura J",
+            affil str "Hypertension Unit, Department of Nephrology, Hospital
+ 12 de Octubre, Madrid, Spain."
+          },
+          {
+            name ml "Ruilope LM",
+            affil str "Hypertension Unit, Department of Nephrology, Hospital
+ 12 de Octubre, Madrid, Spain."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Hypertens.",
+          ml-jta "J Hypertens",
+          issn "1473-5598",
+          name "Journal of hypertension"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "36",
+          issue "7",
+          pages "1563-1570",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29601411,
+        doi "10.1097/HJH.0000000000001729",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/HJH.0000000000001729"
+        }
+      }
+    },
+    abstract "BACKGROUND AND AIM: Treatment-resistant hypertension (TRH) is
+ associated with particular clinical features, nonadherence, and suboptimal
+ treatment. We assessed possible associations of antihypertensive drug
+ classes, specific agents inside each class, and types of combinations, with
+ the presence of non-TRH vs. TRH, and with controlled vs. uncontrolled TRH.
+ METHODS: Comparisons were done in 14 264 patients treated with three drugs
+ (non-TRH: 2988; TRH: 11 276) and in 6974 treated with at least four drugs
+ (controlled TRH: 1383; uncontrolled TRH: 5591). Associations were adjusted
+ for age, sex, and previous cardiovascular event. RESULTS: In both groups of
+ patients treated with three or with at least four drugs, aldosterone
+ antagonists among drug classes [adjusted odds ratio (OR): 1.82 and 1.41,
+ respectively], and ramipril (OR: 1.28 and 1.30), olmesartan (OR: 1.31 and
+ 1.37), and amlodipine (OR: 1.11 and 1.41) inside each class were
+ significantly associated with blood pressure control (non-TRH or controlled
+ TRH). In patients treated with three drugs, non-TRH was also associated with
+ the use of chlorthalidone (OR: 1.50) and bisoprolol (OR: 1.19), whereas in
+ patients treated with at least four drugs, controlled TRH was significantly
+ associated with the triple combination of a renin-angiotensin system blocker,
+ a calcium channel blocker, and a diuretic (OR: 1.17). CONCLUSION: The use of
+ aldosterone antagonists is associated with blood pressure control in patients
+ treated with three or more drugs. Similar results are observed with specific
+ agents inside each class, being ramipril, olmesartan, chlorthalidone,
+ amlodipine, and bisoprolol those exhibiting significant results. An increased
+ use of these drugs might probably reduce the burden of TRH.",
+    mesh {
+      {
+        term "Amlodipine",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Angiotensin Receptor Antagonists",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Angiotensin-Converting Enzyme Inhibitors",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Antihypertensive Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Bisoprolol",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Blood Pressure"
+      },
+      {
+        term "Calcium Channel Blockers",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Chlorthalidone",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Diuretics",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Drug Resistance"
+      },
+      {
+        term "Drug Therapy, Combination"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hypertension",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Imidazoles",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Mineralocorticoid Receptor Antagonists",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Ramipril",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Tetrazoles",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Angiotensin Receptor Antagonists"
+      },
+      {
+        type nameonly,
+        name "Angiotensin-Converting Enzyme Inhibitors"
+      },
+      {
+        type nameonly,
+        name "Antihypertensive Agents"
+      },
+      {
+        type nameonly,
+        name "Calcium Channel Blockers"
+      },
+      {
+        type nameonly,
+        name "Diuretics"
+      },
+      {
+        type nameonly,
+        name "Imidazoles"
+      },
+      {
+        type nameonly,
+        name "Mineralocorticoid Receptor Antagonists"
+      },
+      {
+        type nameonly,
+        name "Tetrazoles"
+      },
+      {
+        type cas,
+        cit "1J444QC288",
+        name "Amlodipine"
+      },
+      {
+        type cas,
+        cit "8W1IQP3U10",
+        name "olmesartan"
+      },
+      {
+        type cas,
+        cit "L35JN3I7SJ",
+        name "Ramipril"
+      },
+      {
+        type cas,
+        cit "Q0MQD1073Q",
+        name "Chlorthalidone"
+      },
+      {
+        type cas,
+        cit "Y41JS2NL6U",
+        name "Bisoprolol"
+      }
+    },
+    pmid 29601411,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

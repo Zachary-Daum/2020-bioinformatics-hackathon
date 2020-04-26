@@ -1,0 +1,249 @@
+
+Pubmed-entry ::= {
+  pmid 29517945,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Management of Ocular Cicatricial Pemphigoid with Intravenous
+ Immunoglobulin Monotherapy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma L",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "You C",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA.; c Department of Ophthalmology , Tianjin
+ Medical University General Hospital , Tianjin , China."
+          },
+          {
+            name ml "Hernandez M",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "Maleki A",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "Lasave A",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "Schmidt A",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "Stephenson A",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "Zhao T",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "Anesi S",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA."
+          },
+          {
+            name ml "Foster CS",
+            affil str "a Massachusetts Eye Research and Surgery Institution ,
+ Waltham , Massachusetts , USA.; b Ocular Immunology and Uveitis Foundation ,
+ Waltham , Massachusetts , USA.; d Department of Ophthalmology , Harvard
+ Medical School , Boston , Massachusetts , USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ocul. Immunol. Inflamm.",
+          ml-jta "Ocul Immunol Inflamm",
+          issn "1744-5078",
+          name "Ocular immunology and inflammation"
+        },
+        imp {
+          date std {
+            year 2019
+          },
+          volume "27",
+          issue "4",
+          pages "636-642",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 1,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29517945,
+        doi "10.1080/09273948.2018.1433302",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/09273948.2018.1433302"
+        }
+      }
+    },
+    abstract "Purpose: To assess the long-term efficacy and safety of IVIg
+ monotherapy in patients with recalcitrant ocular cicatricial pemphigoid
+ (OCP). Methods: A chart review of all OCP patients seen at the Massachusetts
+ Eye Research and Surgery Institution (MERSI) between 2005 and 2015 was
+ completed. Stage was graded by using the Foster grading system. IVIg infusion
+ was 2g/kg/cycle administered in 3 consecutive days monthly. Results: Of 512
+ OCP patients, 17 patients (34 eyes) treated with IVIg monotherapy were
+ identified. Seven were female and ten were male. The average age at diagnosis
+ was 60.7-year-old. The follow up time ranged from 12 to 140 months.
+ Twenty-six eyes (76.5%) achieved remission. Nine remission eyes received
+ cataract surgeries, and 2 of them had relapse (22.2%). The other 17 eyes did
+ not undergo ocular surgery and remained in remission. IVIg monotherapy showed
+ high efficacy in stage 1 OCP (7/7, 100%). Ocular surgery can be associated
+ with OCP relapse (Table 2). Conclusions: IVIg monotherapy is an effective and
+ safe therapy in patients with recalcitrant OCP. Ocular surgery can be
+ associated with OCP relapse.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Immunoglobulins, Intravenous",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Immunologic Factors",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Pemphigoid, Benign Mucous Membrane",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Remission Induction",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        mp TRUE,
+        term "Visual Acuity"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Immunoglobulins, Intravenous"
+      },
+      {
+        type nameonly,
+        name "Immunologic Factors"
+      }
+    },
+    pmid 29517945,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,279 @@
+
+Pubmed-entry ::= {
+  pmid 29581595,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Elevated DNA methylation in malignant tumors of the sinonasal
+ tract and its association with patient survival."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chmelarova M",
+            affil str "Institute for Clinical Biochemistry and Diagnostics,
+ Charles University, Faculty of Medicine in Hradec Kralove and University
+ Hospital Hradec Kralove, Czech Republic."
+          },
+          {
+            name ml "Laco J",
+            affil str "The Fingerland Department of Pathology, Charles
+ University, Faculty of Medicine in Hradec Kralove and University Hospital
+ Hradec Kralove, Czech Republic."
+          },
+          {
+            name ml "Kovarikova H",
+            affil str "Institute for Clinical Biochemistry and Diagnostics,
+ Charles University, Faculty of Medicine in Hradec Kralove and University
+ Hospital Hradec Kralove, Czech Republic."
+          },
+          {
+            name ml "Baranova I",
+            affil str "Institute for Clinical Biochemistry and Diagnostics,
+ Charles University, Faculty of Medicine in Hradec Kralove and University
+ Hospital Hradec Kralove, Czech Republic."
+          },
+          {
+            name ml "Dundr P",
+            affil str "Department of Pathology, First Faculty of Medicine,
+ Charles University in Prague and General University Hospital in Prague, Czech
+ Republic."
+          },
+          {
+            name ml "Nemejcova K",
+            affil str "Department of Pathology, First Faculty of Medicine,
+ Charles University in Prague and General University Hospital in Prague, Czech
+ Republic."
+          },
+          {
+            name ml "Michalek J",
+            affil str "Department of Clinical and Molecular Pathology, Faculty
+ of Medicine and Dentistry, Palacky University Olomouc and University Hospital
+ Olomouc, Czech Republic."
+          },
+          {
+            name ml "Vosmik M",
+            affil str "Department of Oncology and Radiotherapy, Charles
+ University, Faculty of Medicine in Hradec Kralove and University Hospital
+ Hradec Kralove, Czech Republic."
+          },
+          {
+            name ml "Palicka V",
+            affil str "Institute for Clinical Biochemistry and Diagnostics,
+ Charles University, Faculty of Medicine in Hradec Kralove and University
+ Hospital Hradec Kralove, Czech Republic."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub",
+          ml-jta "Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub",
+          issn "1213-8118",
+          name "Biomedical papers of the Medical Faculty of the University
+ Palacky, Olomouc, Czechoslovakia"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "162",
+          issue "3",
+          pages "232-238",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29581595,
+        doi "10.5507/bp.2018.012",
+        other {
+          db "ELocationID doi",
+          tag str "10.5507/bp.2018.012"
+        }
+      }
+    },
+    abstract "BACKGROUND: Epigenetic modifications have been recognized as an
+ important mechanism underlying carcinoma progression. DNA methylation plays
+ an important role in cancer biology and represents potentially heritable
+ changes in gene expression that do not involve DNA sequence. The aim of this
+ study was to investigate promoter methylation of selected genes in sinonasal
+ carcinoma by comparison with noncancerous sinonasal tissue. METHODS: To
+ search for epigenetic events (methylation in 25 tumor suppressor genes) we
+ used MS-MLPA (Methylation-specific multiplex ligation-dependent probe
+ amplification) to compare methylation status of 59 formalin fixed, paraffin
+ embedded tissue samples of sinonasal carcinomas with 18 control samples. The
+ most important changes in methylation were confirmed using MSP (Methylation
+ specific PCR). Detected alterations in methylation were compared with
+ clinicopathological characteristics. RESULTS: Using a 20% cut-off for
+ methylation (MS-MLPA), we found significantly higher methylation in GATA5
+ (P=0.0005), THSB1 (P=0.0002) and PAX5 (P=0.03) genes in the sinonasal cancer
+ group compared to the control group. Methylation in five or more genes was
+ associated with impaired overall survival (P=0.017). CONCLUSION: These
+ findings provide evidence that alterations in methylation profile may be one
+ of the major mechanisms in sinonasal carcinogenesis. In addition, changes in
+ methylation could potentially be used as prognostic factors of sinonasal
+ carcinoma and may have implications for future individualized therapy based
+ on epigenetic changes.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Biomarkers, Tumor",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "DNA Methylation",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Epigenesis, Genetic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Genes, Neoplasm",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kaplan-Meier Estimate"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Paranasal Sinus Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Promoter Regions, Genetic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers, Tumor"
+      }
+    },
+    pmid 29581595,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

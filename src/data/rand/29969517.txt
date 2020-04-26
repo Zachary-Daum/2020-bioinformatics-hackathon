@@ -1,0 +1,225 @@
+
+Pubmed-entry ::= {
+  pmid 29969517,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 4,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A case of acute liver failure due to carfilzomib in multiple
+ myeloma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kathi PR",
+            affil str "Wayne State University School of Medicine, Detroit,
+ Michigan."
+          },
+          {
+            name ml "Tama M",
+            affil str "Wayne State University School of Medicine, Detroit,
+ Michigan."
+          },
+          {
+            name ml "Kundumadam S",
+            affil str "Wayne State University School of Medicine, Detroit,
+ Michigan."
+          },
+          {
+            name ml "Naylor P",
+            affil str "Wayne State University School of Medicine, Detroit,
+ Michigan."
+          },
+          {
+            name ml "Mutchnick M",
+            affil str "Wayne State University School of Medicine, Detroit,
+ Michigan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Clin Pharm Ther",
+          ml-jta "J Clin Pharm Ther",
+          issn "1365-2710",
+          name "Journal of clinical pharmacy and therapeutics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "43",
+          issue "6",
+          pages "918-920",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29969517,
+        doi "10.1111/jcpt.12741",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jcpt.12741"
+        }
+      }
+    },
+    abstract "WHAT IS KNOWN AND STUDY OBJECTIVE: Carfilzomib is a newer drug
+ approved for the treatment of relapsing and refractory multiple myeloma. It
+ has been rarely associated with acute liver failure (ALF). CASE SUMMARY: We
+ present a case of 58-year-old man presenting with abnormal liver function
+ tests and subsequently diagnosed with ALF due to carfilzomib. Liver enzymes
+ improved significantly after discontinuation of the drug. WHAT IS NEW AND
+ CONCLUSION: Even though ALF due to carfilzomib has been documented rarely in
+ clinical studies, no detailed case report has been published so far. Patients
+ on carfilzomib should be monitored for ALF, and prompt discontinuation of
+ drug is necessary in such cases.",
+    mesh {
+      {
+        term "Antineoplastic Agents",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Chemical and Drug Induced Liver Injury",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Liver Failure, Acute",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Liver Function Tests"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Multiple Myeloma",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Oligopeptides",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents"
+      },
+      {
+        type nameonly,
+        name "Oligopeptides"
+      },
+      {
+        type cas,
+        cit "72X6E3J5AR",
+        name "carfilzomib"
+      }
+    },
+    pmid 29969517,
+    pub-type {
+      "Case Reports"
+    },
+    status medline
+  }
+}
+
+

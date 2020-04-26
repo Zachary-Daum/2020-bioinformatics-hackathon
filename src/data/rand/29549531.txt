@@ -1,0 +1,275 @@
+
+Pubmed-entry ::= {
+  pmid 29549531,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effects of Supplemental Epigallocatechin Gallate in the Diet of
+ Broilers Exposed to Fluoride Intoxication."
+      },
+      authors {
+        names std {
+          {
+            name ml "Aydogan I",
+            affil str "Department of Animal Nutrition and Nutritional
+ Diseases, Faculty of Veterinary Medicine, Kirikkale University, 71450,
+ Kirikkale, Turkey. ilkayaydogan@kku.edu.tr."
+          },
+          {
+            name ml "Karsli MA",
+            affil str "Department of Animal Nutrition and Nutritional
+ Diseases, Faculty of Veterinary Medicine, Kirikkale University, 71450,
+ Kirikkale, Turkey."
+          },
+          {
+            name ml "Basalan M",
+            affil str "Department of Animal Nutrition and Nutritional
+ Diseases, Faculty of Veterinary Medicine, Kirikkale University, 71450,
+ Kirikkale, Turkey."
+          },
+          {
+            name ml "Yildirim E",
+            affil str "Department of Pharmacology and Toxicology, Faculty of
+ Veterinary Medicine, Kirikkale University, 71450, Kirikkale, Turkey."
+          },
+          {
+            name ml "Cinar M",
+            affil str "Department of Biochemistry, Faculty of Veterinary
+ Medicine, Kirikkale University, 71450, Kirikkale, Turkey."
+          },
+          {
+            name ml "Sen G",
+            affil str "Department of Animal Nutrition and Nutritional
+ Diseases, Faculty of Veterinary Medicine, Kirikkale University, 71450,
+ Kirikkale, Turkey."
+          },
+          {
+            name ml "Sumer T",
+            affil str "Department of Pathology, Faculty of Veterinary
+ Medicine, Kirikkale University, 71450, Kirikkale, Turkey."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biol Trace Elem Res",
+          ml-jta "Biol Trace Elem Res",
+          issn "1559-0720",
+          name "Biological trace element research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "186",
+          issue "1",
+          pages "258-266",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29549531,
+        doi "10.1007/s12011-018-1306-1",
+        pii "10.1007/s12011-018-1306-1",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s12011-018-1306-1"
+        }
+      }
+    },
+    abstract "We evaluated the effects of dietary epigallocatechin gallate
+ (EGCG) on the performance, biochemical parameters, and liver histopathology
+ of fluoride-intoxicated broiler chickens. In total, 160 1-day-old male
+ broiler chicks (Ross PM3 strain) were collected and assigned to four groups
+ (40 animals each), with four replicates. The control group received a basal
+ diet; the F group received 800 mg/kg fluoride; the EGCG group received 400
+ mg/kg EGCG; and the EGCG+F group received 400 mg/kg EGCG and 800 mg/kg
+ fluoride. The live weight (LW) of F-treated chicks was significantly lower
+ than that of the controls. In the F-treated groups, feed intake (FI) and LW
+ values were lower, but the feed conversion ratio (FCR) was higher than those
+ of the controls. The ratio of heart weight to LW was found to be the highest
+ in the F-treated groups. Alkaline phosphatase (ALP), aspartate
+ aminotransferase (AST), and total oxidant status (TOS) levels in the
+ F-treated groups were significantly higher, whereas the increase in total
+ cholesterol levels was insignificant than those in the control group. In the
+ EGCG+F group, AST, total cholesterol, and TOS levels decreased to a level
+ comparable to those in the control group. Histopathological evaluation
+ revealed that there were mild changes in the portal region in the EGCG+F
+ group; additionally, there was an improvement in liver morphology in the
+ EGCG+F group compared to that in the F group. Thus, EGCG has potent
+ antioxidant and regenerative effects that can ameliorate the detrimental
+ effects of fluoride toxicity on blood parameters and the liver.",
+    mesh {
+      {
+        term "Animal Feed",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Catechin",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "analogs & derivatives"
+          },
+          {
+            subh "blood"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Chickens"
+      },
+      {
+        term "Dietary Supplements"
+      },
+      {
+        term "Fluoride Poisoning",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Fluorides",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Liver",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type cas,
+        cit "8R1V1STN48",
+        name "Catechin"
+      },
+      {
+        type cas,
+        cit "BQM438CTEL",
+        name "epigallocatechin gallate"
+      },
+      {
+        type cas,
+        cit "Q80VPU408O",
+        name "Fluorides"
+      }
+    },
+    idnum {
+      "2014/126/University of Kirikkale"
+    },
+    pmid 29549531,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

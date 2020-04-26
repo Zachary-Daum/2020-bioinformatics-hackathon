@@ -1,0 +1,169 @@
+
+Pubmed-entry ::= {
+  pmid 29666329,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Codon usage vis-a-vis start and stop codon context analysis of
+ three dicot species."
+      },
+      authors {
+        names std {
+          {
+            name ml "Paul P",
+            affil str "Department of Biotechnology, Assam University, Silchar
+ 788 011, India. supriyoch2008@gmail.com."
+          },
+          {
+            name ml "Malakar AK"
+          },
+          {
+            name ml "Chakraborty S"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Genet.",
+          ml-jta "J Genet",
+          issn "0973-7731",
+          name "Journal of genetics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "97",
+          issue "1",
+          pages "97-107",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29666329
+      }
+    },
+    abstract "To understand the variation in genomic composition and its
+ effect on codon usage, we performed the comparative analysis of codon usage
+ and nucleotide usage in the genes of three dicots, Glycine max, Arabidopsis
+ thaliana and Medicago truncatula. The dicot genes were found to be A/T rich
+ and have predominantly A-ending and/or T-ending codons. GC3s directly mimic
+ theusage pattern of global GC content. Relative synonymous codon usage
+ analysis suggests that the high usage frequency of A/T over G/C
+ mononucleotide containing codons in AT-rich dicot genome is due to
+ compositional constraint as a factor of codon usage bias. Odds ratio analysis
+ identified the dinucleotides TpG, TpC, GpA, CpA and CpT as over-represented,
+ where, CpG and TpA as under-represented dinucleotides. The results of
+ (NcExp-NcObs)/NcExp plot suggests that selection pressure other than mutation
+ played a significant role in influencing the pattern of codon usage in these
+ dicots. PR2 analysis revealed the significant role of selection pressure on
+ codon usage. Analysis of varience on codon usage at start and stop site
+ showed variation in codon selection in these sites. This study provides
+ evidence that the dicot genes were subjected to compositional selection
+ pressure.",
+    mesh {
+      {
+        term "Base Composition",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Base Sequence"
+      },
+      {
+        term "Bias"
+      },
+      {
+        term "Codon, Initiator",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Codon, Terminator",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Genes, Plant"
+      },
+      {
+        term "Magnoliopsida",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Codon, Initiator"
+      },
+      {
+        type nameonly,
+        name "Codon, Terminator"
+      }
+    },
+    pmid 29666329,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

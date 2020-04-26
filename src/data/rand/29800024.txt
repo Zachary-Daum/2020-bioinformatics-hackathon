@@ -1,0 +1,197 @@
+
+Pubmed-entry ::= {
+  pmid 29800024,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Cognitive Predictors of Spoken Word Recognition in Children With
+ and Without Developmental Language Disorders."
+      },
+      authors {
+        names std {
+          {
+            name ml "Evans JL",
+            affil str "School of Behavioral and Brain Sciences, University of
+ Texas-Dallas, Richardson."
+          },
+          {
+            name ml "Gillam RB",
+            affil str "Communication Disorders and Deaf Education, Utah State
+ University, Logan."
+          },
+          {
+            name ml "Montgomery JW",
+            affil str "Communication Sciences and Disorders, Ohio University,
+ Athens."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Speech Lang. Hear. Res.",
+          ml-jta "J Speech Lang Hear Res",
+          issn "1558-9102",
+          name "Journal of speech, language, and hearing research : JSLHR"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 19
+          },
+          volume "61",
+          issue "6",
+          pages "1409-1425",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29800024,
+        pii "2681594",
+        doi "10.1044/2018_JSLHR-L-17-0150",
+        other {
+          db "pmc",
+          tag str "PMC6195089"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1044/2018_JSLHR-L-17-0150"
+        }
+      }
+    },
+    abstract "Purpose: This study examined the influence of cognitive factors
+ on spoken word recognition in children with developmental language disorder
+ (DLD) and typically developing (TD) children. Method: Participants included
+ 234 children (aged 7;0-11;11 years;months), 117 with DLD and 117 TD children,
+ propensity matched for age, gender, socioeconomic status, and maternal
+ education. Children completed a series of standardized assessment measures, a
+ forward gating task, a rapid automatic naming task, and a series of tasks
+ designed to examine cognitive factors hypothesized to influence spoken word
+ recognition including phonological working memory, updating, attention
+ shifting, and interference inhibition. Results: Spoken word recognition for
+ both initial and final accept gate points did not differ for children with
+ DLD and TD controls after controlling target word knowledge in both groups.
+ The 2 groups also did not differ on measures of updating, attention
+ switching, and interference inhibition. Despite the lack of difference on
+ these measures, for children with DLD, attention shifting and interference
+ inhibition were significant predictors of spoken word recognition, whereas
+ updating and receptive vocabulary were significant predictors of speed of
+ spoken word recognition for the children in the TD group. Conclusion:
+ Contrary to expectations, after controlling for target word knowledge, spoken
+ word recognition did not differ for children with DLD and TD controls;
+ however, the cognitive processing factors that influenced children's ability
+ to recognize the target word in a stream of speech differed qualitatively for
+ children with and without DLDs.",
+    mesh {
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Child"
+      },
+      {
+        mp TRUE,
+        term "Cognition"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Language Development Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Memory, Short-Term"
+      },
+      {
+        term "Socioeconomic Factors"
+      },
+      {
+        mp TRUE,
+        term "Speech Perception"
+      },
+      {
+        term "Vocabulary"
+      }
+    },
+    idnum {
+      "R01 DC005650/DC/NIDCD NIH HHS",
+      "R01 DC010883/DC/NIDCD NIH HHS"
+    },
+    pmid 29800024,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

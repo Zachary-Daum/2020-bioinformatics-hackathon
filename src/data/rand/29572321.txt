@@ -1,0 +1,278 @@
+
+Pubmed-entry ::= {
+  pmid 29572321,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ablation Outcomes and Predictors of Mortality Following Catheter
+ Ablation for Ventricular Tachycardia: Data From the German Multicenter
+ Ablation Registry."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tilz RR",
+            affil str "Department of Cardiology, Asklepios Hospital St. Georg,
+ Hamburg, Germany tilz6@hotmail.com.; Medical Clinic II, University Schleswig
+ Holstein University Heart Center Lubeck, Lubeck, Germany."
+          },
+          {
+            name ml "Lin T",
+            affil str "Department of Cardiology, Asklepios Hospital St. Georg,
+ Hamburg, Germany."
+          },
+          {
+            name ml "Eckardt L",
+            affil str "Rhythmologie Universitatsklinikum Muenster, Muenster,
+ Germany."
+          },
+          {
+            name ml "Deneke T",
+            affil str "Heart Center Bad Neustadt an der Saale, Bad Neustadt
+ a.d. Saale, Germany."
+          },
+          {
+            name ml "Andresen D",
+            affil str "Vivantes Klinikum Am Urban, Berlin, Germany."
+          },
+          {
+            name ml "Wieneke H",
+            affil str "Elisabeth-Krankenhaus Essen, Essen, Germany."
+          },
+          {
+            name ml "Brachmann J",
+            affil str "Klinikum Coburg, Coburg, Germany."
+          },
+          {
+            name ml "Kaab S",
+            affil str "LMU, Campus Innenstadt, Munich, Germany."
+          },
+          {
+            name ml "Chun KRJ",
+            affil str "Cardioangiologisches Centrum Bethanien, Frankfurt,
+ Germany."
+          },
+          {
+            name ml "Munkler P",
+            affil str "University Heart Center Hamburg, Hamburg, Germany."
+          },
+          {
+            name ml "Lewalter T",
+            affil str "University of Bonn, Germany."
+          },
+          {
+            name ml "Hochadel M",
+            affil str "Stiftung Institut fur Herzinfarktforschung,
+ Ludwigshafen, Germany."
+          },
+          {
+            name ml "Senges J",
+            affil str "Stiftung Institut fur Herzinfarktforschung,
+ Ludwigshafen, Germany."
+          },
+          {
+            name ml "Kuck KH",
+            affil str "Department of Cardiology, Asklepios Hospital St. Georg,
+ Hamburg, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Am Heart Assoc",
+          ml-jta "J Am Heart Assoc",
+          issn "2047-9980",
+          name "Journal of the American Heart Association"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 23
+          },
+          volume "7",
+          issue "6",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29572321,
+        pii "JAHA.117.007045",
+        doi "10.1161/JAHA.117.007045",
+        other {
+          db "pmc",
+          tag str "PMC5907539"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "e007045"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1161/JAHA.117.007045"
+        }
+      }
+    },
+    abstract "BACKGROUND: Ventricular tachycardia (VT) causes significant
+ morbidity and mortality. Implantable cardioverter-defibrillator shocks
+ terminate VT but confer a significant morbidity and mortality risk.
+ Therefore, VT ablation is increasingly common. Patients with structural heart
+ disease (SHD) and patients with structurally normal hearts as well as the
+ subgroup with and without ischemic heart disease were assessed for predictors
+ of mortality and nonfatal VT recurrence. We present the first multicenter,
+ prospective German VT registry. METHODS AND RESULTS: In 334 patients, 118
+ structurally normal hearts and 216 SHD (74.5% ischemic heart disease),
+ referred for VT ablation in 38 centers, long-term follow-up was assessed for
+ a minimum of 12 months and analyzed for factors predicting VT recurrence
+ rates and mortality. The VTs in SHD patients were more frequently
+ hemodynamically unstable (34.7% versus 12.7%, P<0.0001) or incessant (9.7%
+ versus 2.7%, P<0.05). More SHD patients underwent substrate modification than
+ patients with structurally normal hearts who had more focal ablations.
+ Ablation failure was 9% in both groups. Two-year mortality was higher in
+ patients with SHD (18.7% versus 3.5%, P<0.001). Predictors of mortality
+ include age >60 years, incessant VT, left ventricular ejection fraction
+ </=30%, procedural failure, and Class I and III anti-arrhythmic drug use at
+ discharge. Only procedural failure is a predictor of nonfatal VT recurrence.
+ CONCLUSIONS: Procedural failure was the sole independent predictor for
+ nonfatal VT recurrence for our study cohort. This emphasizes the importance
+ of a successful ablation procedure in experienced hands to reduce long-term
+ mortality and nonfatal VT recurrence.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Catheter Ablation",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "mortality"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Germany",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Heart Rate"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Recurrence"
+      },
+      {
+        term "Registries"
+      },
+      {
+        term "Risk Assessment"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Stroke Volume"
+      },
+      {
+        term "Tachycardia, Ventricular",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "mortality"
+          },
+          {
+            subh "physiopathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Ventricular Function, Left"
+      }
+    },
+    pmid 29572321,
+    pub-type {
+      "Journal Article",
+      "Multicenter Study",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

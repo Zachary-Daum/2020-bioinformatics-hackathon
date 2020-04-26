@@ -1,0 +1,264 @@
+
+Pubmed-entry ::= {
+  pmid 29851910,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The impact of inpatient palliative care on end-of-life care
+ among older trauma patients who die after hospital discharge."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lilley EJ",
+            affil str "From the Center for Surgery and Public Health, Brigham
+ and Women's Hospital, Boston, Massachusetts (E.J.L., K.C.L., J.W.S., A.H.H.,
+ A.S., Z.C.); Department of Surgery, Rutgers Robert Wood Johnson Medical
+ School, New Brunswick, New Jersey (E.J.L., N.J.K., R.G.); Department of
+ Surgery, University of California San Diego, La Jolla, California (K.C.L.);
+ and Division of Trauma, Burn, and Surgical Critical Care, Brigham and Women's
+ Hospital, Boston, Massachusetts (A.H.H., A.S., Z.C.)."
+          },
+          {
+            name ml "Lee KC"
+          },
+          {
+            name ml "Scott JW"
+          },
+          {
+            name ml "Krumrei NJ"
+          },
+          {
+            name ml "Haider AH"
+          },
+          {
+            name ml "Salim A"
+          },
+          {
+            name ml "Gupta R"
+          },
+          {
+            name ml "Cooper Z"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Trauma Acute Care Surg",
+          ml-jta "J Trauma Acute Care Surg",
+          issn "2163-0763",
+          name "The journal of trauma and acute care surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "85",
+          issue "5",
+          pages "992-998",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29851910,
+        doi "10.1097/TA.0000000000002000",
+        other {
+          db "pmc",
+          tag str "PMC6202158"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS970397"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/TA.0000000000002000"
+        }
+      }
+    },
+    abstract "BACKGROUND: Palliative care (PC) is associated with
+ lower-intensity treatment and better outcomes at the end of life. Trauma
+ surgeons play a critical role in end-of-life (EOL) care; however, the impact
+ of PC on health care utilization at the end of life has yet to be
+ characterized in older trauma patients. METHODS: This retrospective cohort
+ study using 2006 to 2011 national Medicare claims included trauma patients 65
+ years or older who died within 180 days after discharge. The exposure of
+ interest was inpatient PC during the trauma admission. A non-PC control group
+ was developed by exact matching for age, comorbidity, admission year, injury
+ severity, length of stay, and post-discharge survival. We used logistic
+ regression to evaluate six EOL care outcomes: discharge to hospice,
+ rehospitalization, skilled nursing facility or long-term acute care hospital
+ admission, death in an institutional setting, and intensive care unit
+ admission or receipt of life-sustaining treatments during a subsequent
+ hospitalization. RESULTS: Of 294,665 patients who died within 180 days after
+ discharge, 2.1% received inpatient PC. Among 5,693 matched pairs, inpatient
+ PC was associated with increased odds of discharge to hospice (odds ratio
+ [OR], 3.80; 95% confidence interval [CI], 3.54-4.09) and reduced odds of
+ rehospitalization (OR, 0.17; 95% CI, 0.15-0.20), skilled nursing
+ facility/long-term acute care hospital admission (OR, 0.43; 95% CI,
+ 0.39-0.47), death in an institutional setting (OR, 0.34; 95% CI, 0.30-0.39),
+ subsequent intensive care unit admission (OR, 0.51; 95% CI, 0.36-0.72), or
+ receiving life-sustaining treatments (OR, 0.56; 95% CI, 0.39-0.80).
+ CONCLUSION: Inpatient PC is associated with lower-intensity and less
+ burdensome EOL care in the geriatric trauma population. Nonetheless, it
+ remains underused among those who die within 6 months after discharge. LEVEL
+ OF EVIDENCE: Therapeutic/Care management, level III.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Resources",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Hospice Care",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Intensive Care Units",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Medicare",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Palliative Care",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Patient Admission",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Patient Readmission",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Quality of Health Care"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Skilled Nursing Facilities",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "United States"
+      },
+      {
+        term "Wounds and Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      }
+    },
+    idnum {
+      "K76 AG054859/AG/NIA NIH HHS"
+    },
+    pmid 29851910,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

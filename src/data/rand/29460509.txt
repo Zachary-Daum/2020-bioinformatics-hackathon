@@ -1,0 +1,202 @@
+
+Pubmed-entry ::= {
+  pmid 29460509,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Study of the efficacy of carboxytherapy in alopecia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Doghaim NN",
+            affil str "Dermatology and Venereology, Faculty of Medicine, Tanta
+ University, Tanta, Egypt."
+          },
+          {
+            name ml "El-Tatawy RA",
+            affil str "Dermatology and Venereology, Faculty of Medicine, Tanta
+ University, Tanta, Egypt."
+          },
+          {
+            name ml "Neinaa YME",
+            affil str "Dermatology and Venereology, Faculty of Medicine, Tanta
+ University, Tanta, Egypt."
+          },
+          {
+            name ml "Abd El-Samd MM",
+            affil str "Dermatology and Venereology, Faculty of Medicine, Tanta
+ University, Tanta, Egypt."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Cosmet Dermatol",
+          ml-jta "J Cosmet Dermatol",
+          issn "1473-2165",
+          name "Journal of cosmetic dermatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "17",
+          issue "6",
+          pages "1275-1285",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 21
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29460509,
+        doi "10.1111/jocd.12501",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jocd.12501"
+        }
+      }
+    },
+    abstract "BACKGROUND: Management of alopecia areata (AA) and androgenetic
+ alopecia (AGA) is often challenging. The use of carboxytherapy may be a novel
+ therapeutic option for such cases. OBJECTIVE: To evaluate the clinical
+ efficacy and safety of carboxytherapy in alopecia areata and androgenetic
+ alopecia. PATIENTS AND METHODS: This study was conducted on 80 patients with
+ alopecia divided into two groups; Group I included 40 AA patients (Group IA
+ received carboxytherapy and Group IB control received placebo), and Group II
+ included 40 AGA patients (Group IIA received carboxytherapy and Group IIB
+ control received placebo), and followed up monthly for 3 months. They were
+ evaluated clinically (by assessment of Severity of Alopecia Tool (SALT) score
+ in group I, and Sinclair scale and Norwood-Hamilton scale in group II), by
+ dermoscopy and digital dermoscopy at each visit. RESULTS: Group IA patients
+ showed significant clinical improvement in SALT score and dermoscopic
+ improvement after carboxytherapy and at the end of follow-up period with
+ significant reduction in dystrophic hair, black dots, yellow dots, and
+ tapered hair coinciding with significant emergence of regrowing hair. Group
+ IIA patients showed significant clinical and dermoscopic improvement after
+ carboxytherapy with significant increase in hair density measured by digital
+ dermoscopy. However, regression of these results was observed during the
+ follow-up period but was still significantly better than before treatment.
+ There were statistically significant improvements in clinical score, global
+ assessments, dermoscopic, and digital dermoscopic findings in both group IA
+ and group IIA received carboxytherapy in comparison with group IB and group
+ IIB received placebo injections, respectively. CONCLUSION: Carboxytherapy
+ seems to be a promising therapeutic option for patchy AA and could be helpful
+ as an adjuvant therapy of AGA but more than 6 sessions are required and
+ adjuvants are recommended for maintenance of the results.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Alopecia",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Carbon Dioxide",
+        qual {
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Cosmetic Techniques"
+      },
+      {
+        term "Dermoscopy"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Injections, Intradermal"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Treatment Outcome"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "142M471B3J",
+        name "Carbon Dioxide"
+      }
+    },
+    pmid 29460509,
+    pub-type {
+      "Journal Article",
+      "Randomized Controlled Trial"
+    },
+    status medline
+  }
+}
+
+

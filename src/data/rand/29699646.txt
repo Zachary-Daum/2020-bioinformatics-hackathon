@@ -1,0 +1,128 @@
+
+Pubmed-entry ::= {
+  pmid 29699646,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Questionable Conclusions About Locomotor Training."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stillman M",
+            affil str "Internal Medicine and Rehabilitation Medicine, Sidney
+ Kimmel Medical College, Philadelphia, PA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arch Phys Med Rehabil",
+          ml-jta "Arch Phys Med Rehabil",
+          issn "1532-821X",
+          name "Archives of physical medicine and rehabilitation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "99",
+          issue "5",
+          pages "1024",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 12,
+                day 18
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29699646,
+        pii "S0003-9993(18)30021-2",
+        doi "10.1016/j.apmr.2017.12.023",
+        other {
+          db "ELocationID pii",
+          tag str "S0003-9993(18)30021-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.apmr.2017.12.023"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Physical Therapy Modalities"
+      },
+      {
+        mp TRUE,
+        term "Walking"
+      }
+    },
+    pmid 29699646,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

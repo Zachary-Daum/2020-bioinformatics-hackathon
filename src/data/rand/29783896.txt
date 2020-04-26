@@ -1,0 +1,182 @@
+
+Pubmed-entry ::= {
+  pmid 29783896,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Projections of hip arthroplasty in OECD countries up to 2050."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pabinger C",
+            affil str "1 EFORT-EAR (European Arthroplasty Register) Scientific
+ Office, Medical University of Innsbruck, Austria."
+          },
+          {
+            name ml "Lothaller H",
+            affil str "2 Statistician, University of Music and Performing Arts
+ Graz, Graz, Austria."
+          },
+          {
+            name ml "Portner N",
+            affil str "3 Medical University of Graz, Graz, Austria."
+          },
+          {
+            name ml "Geissler A",
+            affil str "4 Department of Health Care Management, WHO
+ Collaborating Centre for Health Systems Research and Management, Berlin
+ University of Technology, Berlin, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Hip Int",
+          ml-jta "Hip Int",
+          issn "1724-6067",
+          name "Hip international : the journal of clinical and experimental
+ research on hip pathology and therapy"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "28",
+          issue "5",
+          pages "498-506",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29783896,
+        doi "10.1177/1120700018757940",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1120700018757940"
+        }
+      }
+    },
+    abstract "OBJECTIVE: The study aims to estimate the future demand of hip
+ arthroplasty for OECD countries and to compare the results with earlier
+ studies. DESIGN: Based on data availability and validity 20 countries out of
+ the OECD sample have been selected for projection analysis. Using historic
+ data (1995-2012) and multiple linear regression technics a projection model
+ was designed by an iterative process considering different explanatory
+ variables such as health care expenditure, age groups, and projection time
+ frames. RESULTS: The utilisation of hip implants in OECD countries continues
+ to grow by a compound annual growth rate (CAGR) of 1.2%, leading to an
+ increase from 1.8 million per year in 2015 to 2.8 (2.6-2.9) in the year 2050.
+ The mean utilisation rate (incidence) of hip implants will increase from 184
+ (143-312) to 275 (174-457) per 100.000 total population in the same time.
+ Australia, Ireland, Norway, Switzerland and other countries will face a
+ significant increase of utilisation of hip implants between +95% and +120%
+ from 2015 to 2050. CONCLUSIONS: Hip arthroplasty continues to rise
+ significantly over the next 35 years. Therefore, some countries will face an
+ exponential use of hip arthroplasty of additional 100% or more and thus
+ challenges for their health care budgets. Revision burden will increase
+ disproportionately. Thus, health technology assessment (HTA) for medical
+ devices, longevity and quality control will become more relevant.",
+    mesh {
+      {
+        term "Arthroplasty, Replacement, Hip",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Australia"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Forecasting"
+      },
+      {
+        term "Hip Prosthesis",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Norway"
+      },
+      {
+        term "Organisation for Economic Co-Operation and Development",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Switzerland"
+      }
+    },
+    pmid 29783896,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Multicenter Study"
+    },
+    status medline
+  }
+}
+
+

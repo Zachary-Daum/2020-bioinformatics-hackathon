@@ -1,0 +1,229 @@
+
+Pubmed-entry ::= {
+  pmid 29980707,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Intestinal permeability, digestive stability and oral
+ bioavailability of dietary small RNAs."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yang J",
+            affil str "USDA/ARS Children's Nutrition Research Center, Baylor
+ College of Medicine, 1100 Bates Avenue, Houston, TX, 77030, USA."
+          },
+          {
+            name ml "Elbaz-Younes I",
+            affil str "USDA/ARS Children's Nutrition Research Center, Baylor
+ College of Medicine, 1100 Bates Avenue, Houston, TX, 77030, USA."
+          },
+          {
+            name ml "Primo C",
+            affil str "USDA/ARS Children's Nutrition Research Center, Baylor
+ College of Medicine, 1100 Bates Avenue, Houston, TX, 77030, USA."
+          },
+          {
+            name ml "Murungi D",
+            affil str "USDA/ARS Children's Nutrition Research Center, Baylor
+ College of Medicine, 1100 Bates Avenue, Houston, TX, 77030, USA."
+          },
+          {
+            name ml "Hirschi KD",
+            affil str "USDA/ARS Children's Nutrition Research Center, Baylor
+ College of Medicine, 1100 Bates Avenue, Houston, TX, 77030, USA.
+ kendalh@bcm.edu.; Vegetable and Fruit Improvement Center, Texas A&M
+ University, College Station, TX, 77845, USA. kendalh@bcm.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7,
+            day 6
+          },
+          volume "8",
+          issue "1",
+          pages "10253",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 19
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29980707,
+        doi "10.1038/s41598-018-28207-1",
+        pii "10.1038/s41598-018-28207-1",
+        other {
+          db "pmc",
+          tag str "PMC6035168"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-28207-1"
+        }
+      }
+    },
+    abstract "Impactful dietary RNA delivery requires improving uptake and
+ enhancing digestive stability. In mouse feeding regimes, we have demonstrated
+ that a plant-based ribosomal RNA (rRNA), MIR2911, is more bioavailable than
+ synthetic MIR2911 or canonical microRNAs (miRNAs). Here mutagenesis was used
+ to discern if MIR2911 has a distinctive sequence that aids stability and
+ uptake. Various mutations had modest impacts while one scrambled sequence
+ displayed significantly enhanced digestive stability, serum stability, and
+ bioavailability. To assess if small RNA (sRNA) bioavailability in mice could
+ be improved by increasing gut permeability, various diets, genetic
+ backgrounds and pharmacological methods were surveyed. An intraperitoneal
+ injection of anti-CD3 antibody enhanced gut permeability which correlated
+ with improved uptake of the digestively stable scrambled MIR2911 variant.
+ However, the bioavailability of canonical miRNAs was not enhanced. Similarly,
+ interleukin-10 (IL-10)-deficient mice and mice treated with aspirin displayed
+ enhanced gut permeability that did not enhance uptake of most plant-based
+ sRNAs. This work supports a model where dietary RNAs are vulnerable to
+ digestion and altering gut permeability alone will not impact apparent
+ bioavailability. We suggest that some dietary sRNA may be more digestively
+ stable and methods to broadly increase sRNA uptake requires delivery vehicles
+ to optimize gut and serum stability in the consumer.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Biological Availability"
+      },
+      {
+        mp TRUE,
+        term "Cell Membrane Permeability"
+      },
+      {
+        mp TRUE,
+        term "Diet"
+      },
+      {
+        term "Intestinal Mucosa",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Mice, Inbred ICR"
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA, Plant",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA, Plant"
+      }
+    },
+    pmid 29980707,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

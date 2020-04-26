@@ -5,8 +5,8 @@ with open('rand_pmids.txt', 'r') as fakeid:
     fakeid = ''.join(fakeid).replace("PMID:","")
     idlist = fakeid.splitlines() #by here each PMID is its own item in the list
 
-    n = 0
-    while ( n <= 499 ):
+    n = 500
+    while ( n <= 999 ):
         workingid = idlist[n]
         #creates proper filename
         workingfile = "rand/{}.txt"

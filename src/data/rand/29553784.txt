@@ -1,0 +1,187 @@
+
+Pubmed-entry ::= {
+  pmid 29553784,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Psychometric properties of measures of motivation and engagement
+ after acquired brain injury."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kusec A",
+            affil str "School of Rehabilitation Science, McMaster University."
+          },
+          {
+            name ml "DeMatteo C",
+            affil str "School of Rehabilitation Science, McMaster University."
+          },
+          {
+            name ml "Velikonja D",
+            affil str "Acquired Brain Injury Program, Hamilton Health Sciences
+ Regional Rehabilitation Centre."
+          },
+          {
+            name ml "Harris JE",
+            affil str "School of Rehabilitation Science, McMaster University."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Rehabil Psychol",
+          ml-jta "Rehabil Psychol",
+          issn "1939-1544",
+          name "Rehabilitation psychology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "63",
+          issue "1",
+          pages "92-103",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29553784,
+        pii "2018-11141-006",
+        doi "10.1037/rep0000186",
+        other {
+          db "ELocationID doi",
+          tag str "10.1037/rep0000186"
+        }
+      }
+    },
+    abstract "OBJECTIVE: This study investigated psychometric properties of
+ the Motivation for Traumatic Brain Injury Rehabilitation Questionnaire
+ (MOT-Q), the Brain Injury Rehabilitation Trust Motivation Questionnaire-Self
+ (BMQ-S), the Rehabilitation Therapy Engagement Scale-Revised (RTES-R), and
+ the BMQ-Relative (BMQ-R) in individuals with an acquired brain injury (ABI).
+ DESIGN: Thirty-nine patients with an ABI completed the MOT-Q, BMQ-S, measures
+ of apathy (Apathy Evaluation Scale-Self), insight (Patient Competency Rating
+ Scale-Self), depression, and anxiety (HADS). Twenty clinicians provided 39
+ ratings using the RTES-R, BMQ-R, measures of patient apathy (Apathy
+ Evaluation Scale-Clinician) and insight (Patient Competency Rating
+ Scale-Clinician). Internal consistency, test-retest reliability, interrater
+ reliability, and convergent validity were estimated. RESULTS: The MOT-Q
+ (alpha = .93) and BMQ-S (alpha = .91) had excellent internal consistency and
+ test-retest reliability (intraclass correlation coefficient [ICC] = 0.80 and
+ 0.85). The MOT-Q and BMQ-S did not correlate with each other. The MOT-Q
+ correlated with insight (r = -0.37, p < 0.05). The BMQ-S correlated with
+ insight (r = -0.44, p < 0.01), apathy (r = .50, p < 0.01), depression (r =
+ .55, p < 0.01), and anxiety (r = .49, p < 0.01). The RTES-R (alpha = .96) and
+ BMQ-R (alpha = .95) had excellent internal consistency and good interrater
+ reliability (ICC = 0.67 and 0.68). The RTES-R and BMQ-R correlated with each
+ other (r = -0.88, p < 0.01), with apathy (r = -0.82 and r = .88, p < 0.01),
+ and insight (r = -0.61 and r = .63, p < 0.01). CONCLUSIONS: The MOT-Q,
+ RTES-R, BMQ-S, and BMQ-R have good reliability and validity. Using the MOT-Q
+ and BMQ-S together may provide additional insight. (PsycINFO Database Record",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Brain Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            mp TRUE,
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Motivation"
+      },
+      {
+        term "Patient Participation",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Psychometrics"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    idnum {
+      "Toronto Rehabilitation Institute"
+    },
+    pmid 29553784,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

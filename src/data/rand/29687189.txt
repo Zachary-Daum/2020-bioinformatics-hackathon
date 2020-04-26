@@ -1,0 +1,151 @@
+
+Pubmed-entry ::= {
+  pmid 29687189,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The ""cyst within cyst"" sign of intravesical ureterocele."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ilyas M",
+            affil str "Department of Radiodiagnosis, Sher-i-Kashmir Institute
+ of Medical Sciences, Srinagar, Jammu and Kashmir, 190011, India.
+ ilyasmir40@gmail.com."
+          },
+          {
+            name ml "Sheikh WA",
+            affil str "Department of Radiodiagnosis, Sher-i-Kashmir Institute
+ of Medical Sciences, Srinagar, Jammu and Kashmir, 190011, India."
+          },
+          {
+            name ml "Dar MA",
+            affil str "Department of Radiodiagnosis, Sher-i-Kashmir Institute
+ of Medical Sciences, Srinagar, Jammu and Kashmir, 190011, India."
+          },
+          {
+            name ml "Ahmad Z",
+            affil str "Department of Radiodiagnosis, Sher-i-Kashmir Institute
+ of Medical Sciences, Srinagar, Jammu and Kashmir, 190011, India."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Abdom Radiol (NY)",
+          ml-jta "Abdom Radiol (NY)",
+          issn "2366-0058",
+          name "Abdominal radiology (New York)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "43",
+          issue "12",
+          pages "3515",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29687189,
+        doi "10.1007/s00261-018-1621-1",
+        pii "10.1007/s00261-018-1621-1",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00261-018-1621-1"
+        }
+      }
+    },
+    abstract "",
+    mesh {
+      {
+        term "Cysts",
+        qual {
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Ultrasonography",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Ureter",
+        qual {
+          {
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Ureterocele",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      }
+    },
+    pmid 29687189,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

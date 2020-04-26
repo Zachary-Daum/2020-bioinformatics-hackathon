@@ -1,0 +1,248 @@
+
+Pubmed-entry ::= {
+  pmid 29847113,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Engineering Tunable Dual Functional Protein Cage Nanoparticles
+ Using Bacterial Superglue."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bae Y",
+            affil str "Department of Biological Sciences, School of Life
+ Sciences , Ulsan National Institute of Science and Technology (UNIST) , Ulsan
+ , 44919 , Korea."
+          },
+          {
+            name ml "Kim GJ",
+            affil str "Department of Biochemistry, College of Natural Sciences
+ , Kangwon National University , 1, Kangwondaehak-gil , Chuncheon-si ,
+ Gangwon-do 24341 , Korea."
+          },
+          {
+            name ml "Kim H",
+            affil str "Department of Biological Sciences, School of Life
+ Sciences , Ulsan National Institute of Science and Technology (UNIST) , Ulsan
+ , 44919 , Korea."
+          },
+          {
+            name ml "Park SG",
+            affil str "Department of Biological Sciences, School of Life
+ Sciences , Ulsan National Institute of Science and Technology (UNIST) , Ulsan
+ , 44919 , Korea."
+          },
+          {
+            name ml "Jung HS",
+            affil str "Department of Biochemistry, College of Natural Sciences
+ , Kangwon National University , 1, Kangwondaehak-gil , Chuncheon-si ,
+ Gangwon-do 24341 , Korea."
+          },
+          {
+            name ml "Kang S",
+            affil str "Department of Biological Sciences, School of Life
+ Sciences , Ulsan National Institute of Science and Technology (UNIST) , Ulsan
+ , 44919 , Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomacromolecules",
+          ml-jta "Biomacromolecules",
+          issn "1526-4602",
+          name "Biomacromolecules"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7,
+            day 9
+          },
+          volume "19",
+          issue "7",
+          pages "2896-2904",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29847113,
+        doi "10.1021/acs.biomac.8b00457",
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acs.biomac.8b00457"
+        }
+      }
+    },
+    abstract "The selective detection of specific cells of interest and their
+ effective visualization is important but challenging, and fluorescent cell
+ imaging with target-specific probes is commonly used to visualize cell
+ morphology and components and to track cellular processes. Multiple displays
+ of two or more targeting ligands on a polyvalent single template would make
+ it possible to construct versatile multiplex fluorescent cell imaging probes
+ that can visualize two or more target cells individually without the need for
+ a set of individual probes. To achieve this goal, we used encapsulin, a new
+ class of protein cage nanoparticles, as a template and implanted dual
+ targeting capability by presenting two different affibody molecules on a
+ single encapsulin protein cage nanoparticle post-translationally. Encapsulin
+ was self-assembled from 60 identical subunits to form a hollow and symmetric
+ spherical structure with a uniform size. We genetically inserted SpyTag
+ peptides onto the encapsulin surface and prepared various SpyCatcher-fused
+ proteins, such as fluorescent proteins and targeting affibody molecules. We
+ successfully displayed fluorescent proteins and affibody molecules together
+ on a single encapsulin in a mix-and-match manner post-translationally using
+ bacterial superglue, the SpyTag/SpyCatcher ligation system, and demonstrated
+ that these dual functional encapsulins can be used as target-specific
+ fluorescent cell imaging probes. Dual targeting protein cage nanoparticles
+ were further constructed by ligating two different affibody molecules onto
+ the encapsulin surface with fluorescent dyes, and they effectively recognized
+ and bound to two individual targeting cells independently, which could be
+ visualized by selective colors on demand.",
+    mesh {
+      {
+        term "Bacterial Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Fluorescent Dyes",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Green Fluorescent Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MCF-7 Cells"
+      },
+      {
+        term "Microscopy, Fluorescence",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Nanoparticles",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Recombinant Proteins",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Thermotoga maritima",
+        qual {
+          {
+            subh "enzymology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Bacterial Proteins"
+      },
+      {
+        type nameonly,
+        name "Fluorescent Dyes"
+      },
+      {
+        type nameonly,
+        name "Recombinant Proteins"
+      },
+      {
+        type cas,
+        cit "147336-22-9",
+        name "Green Fluorescent Proteins"
+      }
+    },
+    pmid 29847113,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,138 @@
+
+Pubmed-entry ::= {
+  pmid 29863766,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Chiral Separation via Molecular Sieving: A Computational
+ Screening of Suitable Functionalizations for Nanoporous Graphene."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fruehwirth SM",
+            affil str "Institute of Experimental Physics, Graz University of
+ Technology, Petersgasse 16, A-8010, Graz, Austria."
+          },
+          {
+            name ml "Meyer R",
+            affil str "Institute of Experimental Physics, Graz University of
+ Technology, Petersgasse 16, A-8010, Graz, Austria."
+          },
+          {
+            name ml "Hauser AW",
+            affil str "Institute of Experimental Physics, Graz University of
+ Technology, Petersgasse 16, A-8010, Graz, Austria."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chemphyschem",
+          ml-jta "Chemphyschem",
+          issn "1439-7641",
+          name "Chemphyschem : a European journal of chemical physics and
+ physical chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9,
+            day 18
+          },
+          volume "19",
+          issue "18",
+          pages "2331-2339",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 5,
+                day 3
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29863766,
+        doi "10.1002/cphc.201800413",
+        other {
+          db "pmc",
+          tag str "PMC6175349"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/cphc.201800413"
+        }
+      }
+    },
+    abstract "In a recent study [Angew. Chem. Int. Ed., 2014, 53, 9957-9960] a
+ new concept of chiral separation has been suggested, which is based on
+ functionalized, nanoporous sheets of graphene. In this follow-up article we
+ discuss the underlying principle in greater detail and make suggestions for
+ suitable pore functionalizations with respect to a selection of chiral
+ prototype molecules. Considering drug molecules as future targets for a
+ chiral separation via membranes, the necessary pore sizes represent a big
+ challenge for standard methods of computational chemistry. Therefore, we test
+ two common force fields (GAFF, CGenFF) as well as a semiempirical
+ tight-binding approach recently developed by the Grimme group (GFN-xTB)
+ against the computationally much more expensive density functional theory. We
+ identify the GFN-xTB method as the most suitable approach for future
+ simulations of functionalized pores for the given purpose, as it is able to
+ produce reaction pathways in very good agreement with density functional
+ theory, even in cases where force fields tend to an extreme overestimation of
+ barrier heights.",
+    idnum {
+      "Austrian Federal Economic Chamber (WKO)"
+    },
+    pmid 29863766,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

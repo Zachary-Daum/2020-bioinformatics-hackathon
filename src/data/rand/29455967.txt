@@ -1,0 +1,316 @@
+
+Pubmed-entry ::= {
+  pmid 29455967,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Gastroprotective activity of polysaccharide from Hericium
+ erinaceus against ethanol-induced gastric mucosal lesion and pylorus
+ ligation-induced gastric ulcer, and its antioxidant activities."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wang XY",
+            affil str "State Key Laboratory of Food Science and Technology,
+ Nanchang University, Nanchang 330047, China."
+          },
+          {
+            name ml "Yin JY",
+            affil str "State Key Laboratory of Food Science and Technology,
+ Nanchang University, Nanchang 330047, China."
+          },
+          {
+            name ml "Zhao MM",
+            affil str "State Key Laboratory of Food Science and Technology,
+ Nanchang University, Nanchang 330047, China."
+          },
+          {
+            name ml "Liu SY",
+            affil str "State Key Laboratory of Food Science and Technology,
+ Nanchang University, Nanchang 330047, China."
+          },
+          {
+            name ml "Nie SP",
+            affil str "State Key Laboratory of Food Science and Technology,
+ Nanchang University, Nanchang 330047, China."
+          },
+          {
+            name ml "Xie MY",
+            affil str "State Key Laboratory of Food Science and Technology,
+ Nanchang University, Nanchang 330047, China. Electronic address:
+ myxie@ncu.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Carbohydr Polym",
+          ml-jta "Carbohydr Polym",
+          issn "1879-1344",
+          name "Carbohydrate polymers"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 15
+          },
+          volume "186",
+          pages "100-109",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29455967,
+        pii "S0144-8617(18)30004-3",
+        doi "10.1016/j.carbpol.2018.01.004",
+        other {
+          db "ELocationID pii",
+          tag str "S0144-8617(18)30004-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.carbpol.2018.01.004"
+        }
+      }
+    },
+    abstract "The gastroprotective activity of Hericium erinaceus
+ polysaccharide was investigated in rats. The antioxidant activities were also
+ evaluated. Pre-treatment of polysaccharide could reduce ethanol-induced
+ gastric mucosal lesion and pylorus ligation-induced gastric ulcer. The
+ polysaccharide exhibited scavenging activities of 1,
+ 1-diphenyl-2-picryl-hydrozyl and hydroxyl radicals, and ferrous ion-chelating
+ ability. In the pylorus ligation-induced model, gastric secretions (volume of
+ gastric juice, gastric acid, pepsin and mucus) of ulcer rats administrated
+ with polysaccharide were regulated. Levels of tumor necrosis factor-alpha and
+ interleukins-1beta in serum, and myeloperoxidase activity of gastric tissue
+ were reduced, while antioxidant status of gastric tissue was improved.
+ Defensive factors (nitric oxide, prostaglandin E2, epidermal growth factor)
+ in gastric tissue were increased. These results indicate that Hericium
+ erinaceus polysaccharide possess gastroprotective activity, and the possible
+ mechanisms are related to its regulations of gastric secretions, improvements
+ of anti-inflammatory and antioxidant status, as well as increments of
+ defensive factors releases.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Dinoprostone",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Epidermal Growth Factor",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Ethanol",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Gastric Mucosa",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Interleukin-1beta",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Polysaccharides",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Pylorus",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Stomach Ulcer",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Interleukin-1beta"
+      },
+      {
+        type nameonly,
+        name "Polysaccharides"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "31C4KY9ESH",
+        name "Nitric Oxide"
+      },
+      {
+        type cas,
+        cit "3K9958V90M",
+        name "Ethanol"
+      },
+      {
+        type cas,
+        cit "62229-50-9",
+        name "Epidermal Growth Factor"
+      },
+      {
+        type cas,
+        cit "K7Q1JQR04M",
+        name "Dinoprostone"
+      }
+    },
+    pmid 29455967,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 29673449,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Inhibition of Erythroid Differentiation of Human Leukemia K562
+ Cells by N-acetylcysteine and Ascorbic Acid through Downregulation of ROS."
+      },
+      authors {
+        names std {
+          {
+            name ml "Yu CH",
+            affil str "School of Biological Science and Medical Engineering,
+ Beihang University, Beijing 100191, China."
+          },
+          {
+            name ml "Jiang L",
+            affil str "School of Biological Science and Medical Engineering,
+ Beihang University, Beijing 100191, China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "School of Biological Science and Medical Engineering,
+ Beihang University, Beijing 100191, China."
+          },
+          {
+            name ml "Cui NX",
+            affil str "School of Biological Science and Medical Engineering,
+ Beihang University, Beijing 100191, China."
+          },
+          {
+            name ml "Zhao X",
+            affil str "School of Biological Science and Medical Engineering,
+ Beihang University, Beijing 100191, China."
+          },
+          {
+            name ml "Yi ZC",
+            affil str "School of Biological Science and Medical Engineering,
+ Beihang University, Beijing 100191, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biomed. Environ. Sci.",
+          ml-jta "Biomed Environ Sci",
+          issn "0895-3988",
+          name "Biomedical and environmental sciences : BES"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "31",
+          issue "3",
+          pages "247-251",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 24
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29673449,
+        doi "10.3967/bes2018.032",
+        other {
+          db "ELocationID doi",
+          tag str "10.3967/bes2018.032"
+        }
+      }
+    },
+    abstract "This study investigated the effects of N-acetylcysteine (NAC)
+ and ascorbic acid (AA) on hemin-induced K562 cell erythroid differentiation
+ and the role of reactive oxygen species (ROS) in this process. Hemin
+ increased ROS levels in a concentration-dependent manner, whereas NAC and AA
+ had opposite effects. Both NAC and AA eliminated transient increased ROS
+ levels after hemin treatment, inhibited hemin-induced hemoglobin synthesis,
+ and decreased mRNA expression levels of beta-globin, gamma-globin, and GATA-1
+ genes significantly. Pretreatment with 5,000 mumol/L AA for 2 h resulted in a
+ considerably lower inhibition ratio of hemoglobin synthesis than that when
+ pretreated for 24 h, whereas the ROS levels were the lowest when treated with
+ 5,000 mumol/L AA for 2 h. These results show that NAC and AA might inhibit
+ hemin-induced K562 cell erythroid differentiation by downregulating ROS
+ levels.",
+    mesh {
+      {
+        term "Acetylcysteine",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Ascorbic Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cell Differentiation",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Down-Regulation"
+      },
+      {
+        term "Erythroid Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Hemin",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "K562 Cells"
+      },
+      {
+        term "Reactive Oxygen Species",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Reactive Oxygen Species"
+      },
+      {
+        type cas,
+        cit "743LRP9S7N",
+        name "Hemin"
+      },
+      {
+        type cas,
+        cit "PQ6CK8PD0R",
+        name "Ascorbic Acid"
+      },
+      {
+        type cas,
+        cit "WYQ7N0BPYC",
+        name "Acetylcysteine"
+      }
+    },
+    pmid 29673449,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

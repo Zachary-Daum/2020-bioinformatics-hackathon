@@ -1,0 +1,233 @@
+
+Pubmed-entry ::= {
+  pmid 29577991,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effect of an exfoliating skincare regimen on the numbers of
+ epithelial squames on the skin of operating theatre staff, studied by surface
+ microscopy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Wernham AG",
+            affil str "Department of Histopathology, University Hospital
+ Birmingham, Birmingham, UK."
+          },
+          {
+            name ml "Cain OL",
+            affil str "Department of Histopathology, University Hospital
+ Birmingham, Birmingham, UK."
+          },
+          {
+            name ml "Thomas AM",
+            affil str "The Royal Orthopaedic Hospital, Birmingham, UK.
+ Electronic address: a.m.c.thomas@bham.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Hosp. Infect.",
+          ml-jta "J Hosp Infect",
+          issn "1532-2939",
+          name "The Journal of hospital infection"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "100",
+          issue "2",
+          pages "190-194",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29577991,
+        pii "S0195-6701(18)30165-8",
+        doi "10.1016/j.jhin.2018.03.014",
+        other {
+          db "ELocationID pii",
+          tag str "S0195-6701(18)30165-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jhin.2018.03.014"
+        }
+      }
+    },
+    abstract "BACKGROUND: The shedding of epithelial squames (skin scales) by
+ staff in operating theatre air is an important source of deep infection
+ following joint replacement surgery. This is a serious complication,
+ resulting in significant morbidity for the patient and substantial cost
+ implications for healthcare systems. Much effort has been put into providing
+ clean air in operating theatres, yet little attention has been given to
+ reducing the shedding of surface skin scales at source. AIM: To develop a
+ novel method for calculating surface skin scale density using surface
+ microscopy, and to use it to evaluate the effect of a skincare regimen on
+ operating theatre staff. METHODS: Surface microscopy with Z-stacked imaging
+ was used to visualize the effect of a skincare regimen involving three
+ stages: washing with soap; exfoliation; and application of emollient. A USB
+ microscope was then used in a field study to take images of the skin of
+ operating theatre staff who applied the regimen to one lower limb the night
+ before testing. The other limb was used as a control. Two blinded assessors
+ analysed scale density. RESULTS: Z-stack images from the surface microscope
+ enabled observations of the skincare regimen. The USB microscope also
+ provided adequate images that enabled assessment of skin scale density. In
+ the operating theatre staff, a 72.1% reduction in visible skin scales was
+ observed following application of the skincare regimen. CONCLUSIONS: Further
+ work is required to demonstrate how this effect correlates with dispersion of
+ skin particles in a cleanroom, and subsequently in live operating theatre
+ studies.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Animal Scales",
+        qual {
+          {
+            mp TRUE,
+            subh "anatomy & histology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Emollients",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hand Disinfection",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Microscopy"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Operating Rooms"
+      },
+      {
+        term "Skin",
+        qual {
+          {
+            mp TRUE,
+            subh "anatomy & histology"
+          },
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Surgical Wound Infection",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Volunteers"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Emollients"
+      }
+    },
+    pmid 29577991,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+
