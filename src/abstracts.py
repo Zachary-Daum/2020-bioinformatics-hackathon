@@ -44,43 +44,39 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
             wdcount = (len(abstract.split()))
 
             #sentence count
-            senscount = (len(abstract.split('.')))
-            
+            senscount = (len(abstract.split('.')))               
 
-            text = abstract.split()
-            tagged = pos_tag(text)
-            temp = str(tagged).strip('[]')
-            if wdcount == 0:
-                new_CCperWlist = 0
-                new_INperWlist = 0
-                new_RBperWlist = 0
-            else:
-            #Count Parts of Speech
-                CCCount = temp.count('CC')
-                INCount = temp.count('IN')
-                JJCount = temp.count('JJ')
-                RBCount = temp.count('RB')
-                NNCount = temp.count('NN')
-                VBCount = temp.count('VB')
+        text = abstract.split()
+        tagged = pos_tag(text)
+        temp = str(tagged).strip('[]')
+        if wdcount == 0:
+            new_CCperWlist = 0
+            new_INperWlist = 0
+            new_RBperWlist = 0
+        else:
+        #Count Parts of Speech
+            CCCount = temp.count('CC')
+            INCount = temp.count('IN')
+            JJCount = temp.count('JJ')
+            RBCount = temp.count('RB')
+            NNCount = temp.count('NN')
+            VBCount = temp.count('VB')
 
-                new_CCperWlist = CCCount / wdcount
-                CCperWlist.append(new_CCperWlist)
-                new_INperWlist = INCount / wdcount
-                INperWlist.append(new_INperWlist)
-                new_JJperWlist = JJCount / wdcount
-                JJperWlist.append(new_JJperWlist)
-                new_RBperWlist = RBCount / wdcount
-                RBperWlist.append(new_RBperWlist)
-                new_JJperNNlist = JJCount / NNCount
-                JJperNNlist.append(new_JJperNNlist)
-                new_RBperVBlist = RBCount / VBCount
-                RBperVBlist.append(new_RBperVBlist)
-                new_WperSlist = wdcount / senscount
-                WperSlist.append(new_WperSlist)
-            #find stdev of length of sentences###
-            
+            new_CCperWlist = CCCount / wdcount
+            CCperWlist.append(new_CCperWlist)
+            new_INperWlist = INCount / wdcount
+            INperWlist.append(new_INperWlist)
+            new_JJperWlist = JJCount / wdcount
+            JJperWlist.append(new_JJperWlist)
+            new_RBperWlist = RBCount / wdcount
+            RBperWlist.append(new_RBperWlist)
+            new_JJperNNlist = JJCount / NNCount
+            JJperNNlist.append(new_JJperNNlist)
+            new_RBperVBlist = RBCount / VBCount
+            RBperVBlist.append(new_RBperVBlist)
+            new_WperSlist = wdcount / senscount
+            WperSlist.append(new_WperSlist)
         n = n+1
-
 ####################################REAL DATA###################
 with open('data/rand_pmids.txt', 'r') as fakeid:
     fakeid = fakeid.readlines()
