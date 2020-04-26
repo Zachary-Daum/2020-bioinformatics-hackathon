@@ -81,27 +81,27 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
 
  ##plotting
     plt.subplot(321)
-    plt.scatter(WperSlist, CCperWlist, c = "red", alpha=0.5)
+    plt.scatter(WperSlist, CCperWlist, c = "red", alpha=0.2)
     plt.ylabel('Coordinating Conjunctions Per Word')
     plt.xlabel('Words Per Sentence')
     
     plt.subplot(322)
-    plt.scatter(WperSlist, INperWlist, c = "red", alpha=0.5)
+    plt.scatter(WperSlist, INperWlist, c = "red", alpha=0.2)
     plt.ylabel('Subordinating Conjunctions Per Word')
     plt.xlabel('Words Per Sentence')
     
     plt.subplot(323)
-    plt.scatter(JJperWlist, RBperWlist, c = "red", alpha=0.5)
+    plt.scatter(JJperWlist, RBperWlist, c = "red", alpha=0.2)
     plt.ylabel('Adjectives Per Word')
     plt.xlabel('Adverbs Per Word')
     
     plt.subplot(324)
-    plt.scatter(WperSlist, JJperNNlist, c = "red", alpha=0.5)
+    plt.scatter(WperSlist, JJperNNlist, c = "red", alpha=0.2)
     plt.ylabel('Adjectives Per Noun')
     plt.xlabel('Words Per Sentence')
     
     plt.subplot(325)
-    plt.scatter(WperSlist, RBperVBlist, c = "red", alpha=0.5)
+    plt.scatter(WperSlist, RBperVBlist, c = "red", alpha=0.2)
     plt.ylabel('Adverbs Per Verb')
     plt.xlabel('Words Per Sentence')
 
@@ -122,7 +122,7 @@ with open('data/rand_pmids.txt', 'r') as fakeid:
     WperSlist = []
     SentStdevlist = []
     
-    while ( n <= 140 ):
+    while ( n <= 499 ):
         workingid = idlist[n]
         workingfile = "data/rand/{}.txt"
         currentfile = workingfile.format(workingid)
@@ -172,27 +172,27 @@ with open('data/rand_pmids.txt', 'r') as fakeid:
 
  ##plotting
     plt.subplot(321)
-    plt.scatter(WperSlist, CCperWlist, c = "blue", alpha=0.5)
+    plt.scatter(WperSlist, CCperWlist, c = "green", alpha=0.2)
     plt.ylabel('Coordinating Conjunctions Per Word')
     plt.xlabel('Words Per Sentence')
     
     plt.subplot(322)
-    plt.scatter(WperSlist, INperWlist, c = "blue", alpha=0.5)
+    plt.scatter(WperSlist, INperWlist, c = "green", alpha=0.2)
     plt.ylabel('Subordinating Conjunctions Per Word')
     plt.xlabel('Words Per Sentence')
     
     plt.subplot(323)
-    plt.scatter(JJperWlist, RBperWlist, c = "blue", alpha=0.5)
+    plt.scatter(JJperWlist, RBperWlist, c = "green", alpha=0.2)
     plt.ylabel('Adjectives Per Word')
     plt.xlabel('Adverbs Per Word')
     
     plt.subplot(324)
-    plt.scatter(WperSlist, JJperNNlist, c = "blue", alpha=0.5)
+    plt.scatter(WperSlist, JJperNNlist, c = "green", alpha=0.2)
     plt.ylabel('Adjectives Per Noun')
     plt.xlabel('Words Per Sentence')
     
     plt.subplot(325)
-    plt.scatter(WperSlist, RBperVBlist, c = "blue", alpha=0.5)
+    plt.scatter(WperSlist, RBperVBlist, c = "green", alpha=0.2)
     plt.ylabel('Adverbs Per Verb')
     plt.xlabel('Words Per Sentence')
     
