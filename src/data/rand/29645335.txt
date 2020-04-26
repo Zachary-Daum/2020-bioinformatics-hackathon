@@ -1,0 +1,211 @@
+
+Pubmed-entry ::= {
+  pmid 29645335,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Shell-Isolated Tip-Enhanced Raman and Fluorescence Spectroscopy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang YP",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Huang SC",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Wang XJ",
+            affil str "Department of Physics, Research Institute for
+ Biomimetics and Soft Matter, Xiamen University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Bodappa N",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Li CY",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Yin H",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China.; Department of Chemistry and Applied
+ Biosciences, ETH Zurich, 8093, Zurich, Switzerland."
+          },
+          {
+            name ml "Su HS",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Meng M",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Zhang H",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Ren B",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Yang ZL",
+            affil str "Department of Physics, Research Institute for
+ Biomimetics and Soft Matter, Xiamen University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Zenobi R",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China.; Department of Chemistry and Applied
+ Biosciences, ETH Zurich, 8093, Zurich, Switzerland."
+          },
+          {
+            name ml "Tian ZQ",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China."
+          },
+          {
+            name ml "Li JF",
+            affil str "MOE Key Laboratory of Spectrochemical Analysis and
+ Instrumentation, State Key Laboratory of Physical Chemistry of Solid
+ Surfaces,iChEM, College of Chemistry and Chemical Engineering, Xiamen
+ University, Xiamen, 361005, China.; Department of Physics, Research Institute
+ for Biomimetics and Soft Matter, Xiamen University, Xiamen, 361005, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Angew. Chem. Int. Ed. Engl.",
+          ml-jta "Angew Chem Int Ed Engl",
+          issn "1521-3773",
+          name "Angewandte Chemie (International ed. in English)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 18
+          },
+          volume "57",
+          issue "25",
+          pages "7523-7527",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 13,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29645335,
+        doi "10.1002/anie.201802892",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/anie.201802892"
+        }
+      }
+    },
+    abstract "Tip-enhanced Raman spectroscopy can provide molecular
+ fingerprint information with ultrahigh spatial resolution, but the tip will
+ be easily contaminated, thus leading to artifacts. It also remains a great
+ challenge to establish tip-enhanced fluorescence because of the quenching
+ resulting from the proximity of the metal tip. Herein, we report
+ shell-isolated tip-enhanced Raman and fluorescence spectroscopies by
+ employing ultrathin shell-isolated tips fabricated by atomic layer
+ deposition. Such shell-isolated tips not only show outstanding
+ electromagnetic field enhancement in TERS but also exclude interference by
+ contaminants, thus greatly promoting applications in solution. Tip-enhanced
+ fluorescence has also been achieved using these shell-isolated tips, with
+ enhancement factors of up to 1.7x10(3) , consistent with theoretical
+ simulations. Furthermore, tip-enhanced Raman and fluorescence signals are
+ acquired simultaneously, and their relative intensities can be manipulated by
+ changing the shell thickness. This work opens a new avenue for ultrahigh
+ resolution surface analysis using plasmon-enhanced spectroscopies.",
+    pmid 29645335,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

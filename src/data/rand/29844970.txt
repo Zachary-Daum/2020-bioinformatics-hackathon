@@ -1,0 +1,166 @@
+
+Pubmed-entry ::= {
+  pmid 29844970,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Sample entropy analysis for the estimating depth of anaesthesia
+ through human EEG signal at different levels of unconsciousness during
+ surgeries."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu Q",
+            affil str "School of Information Engineering, Wuhan University of
+ Technology, Wuhan, China."
+          },
+          {
+            name ml "Ma L",
+            affil str "School of Information Engineering, Wuhan University of
+ Technology, Wuhan, China."
+          },
+          {
+            name ml "Fan SZ",
+            affil str "National Taiwan University, Tapei, Taiwan."
+          },
+          {
+            name ml "Abbod MF",
+            affil str "Department of Electronic and Computer Engineering,
+ Brunel University London, Uxbridge, United Kingdom."
+          },
+          {
+            name ml "Shieh JS",
+            affil str "Department of Mechanical Engineering and Innovation
+ Center for Big Data and Digital Convergence, Yuan Ze University, Taoyuan,
+ Taiwan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PeerJ",
+          ml-jta "PeerJ",
+          issn "2167-8359",
+          name "PeerJ"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 23
+          },
+          volume "6",
+          pages "e4817",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29844970,
+        doi "10.7717/peerj.4817",
+        pii "4817",
+        other {
+          db "pmc",
+          tag str "PMC5970554"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.7717/peerj.4817"
+        }
+      }
+    },
+    abstract "Estimating the depth of anaesthesia (DoA) in operations has
+ always been a challenging issue due to the underlying complexity of the brain
+ mechanisms. Electroencephalogram (EEG) signals are undoubtedly the most
+ widely used signals for measuring DoA. In this paper, a novel EEG-based index
+ is proposed to evaluate DoA for 24 patients receiving general anaesthesia
+ with different levels of unconsciousness. Sample Entropy (SampEn) algorithm
+ was utilised in order to acquire the chaotic features of the signals. After
+ calculating the SampEn from the EEG signals, Random Forest was utilised for
+ developing learning regression models with Bispectral index (BIS) as the
+ target. Correlation coefficient, mean absolute error, and area under the
+ curve (AUC) were used to verify the perioperative performance of the proposed
+ method. Validation comparisons with typical nonstationary signal analysis
+ methods (i.e., recurrence analysis and permutation entropy) and regression
+ methods (i.e., neural network and support vector machine) were conducted. To
+ further verify the accuracy and validity of the proposed methodology, the
+ data is divided into four unconsciousness-level groups on the basis of BIS
+ levels. Subsequently, analysis of variance (ANOVA) was applied to the
+ corresponding index (i.e., regression output). Results indicate that the
+ correlation coefficient improved to 0.72 +/- 0.09 after filtering and to 0.90
+ +/- 0.05 after regression from the initial values of 0.51 +/- 0.17.
+ Similarly, the final mean absolute error dramatically declined to 5.22 +/-
+ 2.12. In addition, the ultimate AUC increased to 0.98 +/- 0.02, and the ANOVA
+ analysis indicates that each of the four groups of different anaesthetic
+ levels demonstrated significant difference from the nearest levels.
+ Furthermore, the Random Forest output was extensively linear in relation to
+ BIS, thus with better DoA prediction accuracy. In conclusion, the proposed
+ method provides a concrete basis for monitoring patients' anaesthetic level
+ during surgeries.",
+    xref {
+    },
+    pmid 29844970,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

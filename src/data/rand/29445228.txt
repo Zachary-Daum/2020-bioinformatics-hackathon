@@ -1,0 +1,143 @@
+
+Pubmed-entry ::= {
+  pmid 29445228,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Study on Curing Kinetics of Nano-Phase Modified Epoxy Resin."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ma H",
+            affil str "School of Mathematics and Physics, Jinggangshan
+ University, Ji'an, 343009, China. hailingam@yeah.net."
+          },
+          {
+            name ml "Zhang X",
+            affil str "State Key Laboratory of Coal Mine Disaster Dynamics and
+ Control, College of Resource and Environmental Sciences, Chongqing
+ University, Chongqing, 400030, China."
+          },
+          {
+            name ml "Ju F",
+            affil str "School of Materials Engineering, Jilin university,
+ Changchun, 130000, China."
+          },
+          {
+            name ml "Tsai SB",
+            affil str "Zhongshan Institute, University of Electronic Science
+ and Technology of China, Guangdong, 528400, China. sangbing@hotmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 14
+          },
+          volume "8",
+          issue "1",
+          pages "3045",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 25
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 31
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29445228,
+        doi "10.1038/s41598-018-21208-0",
+        pii "10.1038/s41598-018-21208-0",
+        other {
+          db "pmc",
+          tag str "PMC5813017"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-21208-0"
+        }
+      }
+    },
+    abstract "In this paper, DSC curves at different heating rates were
+ measured by DSC, the characteristic curing temperature was determined, and
+ the optimum curing conditions were obtained. The KAS method, Friedman method
+ and FWO method were used to analyze the DSC curves respectively. The kinetic
+ parameters and the reaction mechanism function of the curing system were
+ obtained, and the results of different analytical methods were compared and
+ analyzed. Result from fitting and verification of the curing kinetic model
+ for the curing system of the nano-phase modified epoxy resin further
+ demonstrates that the nano-particle could play a catalytic role in the curing
+ reaction of the epoxy resin and could reduce the apparent activation energy
+ of the system, thus it is considered as a breakthrough in the field of resin
+ research.",
+    pmid 29445228,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

@@ -1,0 +1,138 @@
+
+Pubmed-entry ::= {
+  pmid 29620985,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tracheal intubation in critically ill adults: failing to plan is
+ planning to fail."
+      },
+      authors {
+        names std {
+          {
+            name ml "Higgs A",
+            affil str "Consultant in Anaesthesia and Intensive Care Medicine,
+ Department of Critical Care, Warrington Hospitals, Cheshire WA5 1QG."
+          },
+          {
+            name ml "Cook T",
+            affil str "Consultant in Anaesthesia and Intensive Care Medicine,
+ Department of Anaesthesia and Intensive Care, Royal United Hospitals Bath NHS
+ Foundation, Bath."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br J Hosp Med (Lond)",
+          ml-jta "Br J Hosp Med (Lond)",
+          issn "1750-8460",
+          name "British journal of hospital medicine (London, England : 2005)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 2
+          },
+          volume "79",
+          issue "4",
+          pages "184-186",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29620985,
+        doi "10.12968/hmed.2018.79.4.184",
+        other {
+          db "ELocationID doi",
+          tag str "10.12968/hmed.2018.79.4.184"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Critical Illness",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Intubation, Intratracheal",
+        qual {
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Patient Care Team",
+        qual {
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Practice Guidelines as Topic"
+      },
+      {
+        term "United Kingdom"
+      }
+    },
+    pmid 29620985,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,194 @@
+
+Pubmed-entry ::= {
+  pmid 29425707,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Dementia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gale SA",
+            affil str "Department of Neurology, Brigham and Women's Hospital,
+ Harvard Medical School, Boston, Mass. Electronic address:
+ sagale@bwh.harvard.edu."
+          },
+          {
+            name ml "Acar D",
+            affil str "Department of Neurology, Brigham and Women's Hospital,
+ Harvard Medical School, Boston, Mass."
+          },
+          {
+            name ml "Daffner KR",
+            affil str "Department of Neurology, Brigham and Women's Hospital,
+ Harvard Medical School, Boston, Mass."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Med.",
+          ml-jta "Am J Med",
+          issn "1555-7162",
+          name "The American journal of medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "131",
+          issue "10",
+          pages "1161-1169",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29425707,
+        pii "S0002-9343(18)30098-6",
+        doi "10.1016/j.amjmed.2018.01.022",
+        other {
+          db "ELocationID pii",
+          tag str "S0002-9343(18)30098-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.amjmed.2018.01.022"
+        }
+      }
+    },
+    abstract "Dementia is any decline in cognition that is significant enough
+ to interfere with independent, daily functioning. Dementia is best
+ characterized as a syndrome rather than as one particular disease. The causes
+ of dementia are myriad and include primary neurologic, neuropsychiatric, and
+ medical conditions. It is common for multiple diseases to contribute to any
+ one patient's dementia syndrome. Neurodegenerative dementias, like Alzheimer
+ disease and dementia with Lewy bodies, are most common in the elderly, while
+ traumatic brain injury and brain tumors are common causes in younger adults.
+ While the recent decade has seen significant advancements in molecular
+ neuroimaging, in understanding clinico-pathologic correlation, and in the
+ development of novel biomarkers, clinicians still await disease-modifying
+ therapies for neurodegenerative dementias. Until then, clinicians from varied
+ disciplines and medical specialties are well poised to alleviate suffering,
+ aggressively treat contributing conditions, employ medications to improve
+ cognitive, neuropsychiatric, and motor symptoms, promote evidence-based
+ brain-healthy behaviors, and improve overall quality of life for patients and
+ families.",
+    mesh {
+      {
+        term "Activities of Daily Living"
+      },
+      {
+        term "Cognition"
+      },
+      {
+        mp TRUE,
+        term "Dementia",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "psychology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Neuroimaging",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Patient Care"
+      },
+      {
+        mp TRUE,
+        term "Quality of Life"
+      }
+    },
+    pmid 29425707,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

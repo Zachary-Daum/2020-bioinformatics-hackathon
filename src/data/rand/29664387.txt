@@ -1,0 +1,158 @@
+
+Pubmed-entry ::= {
+  pmid 29664387,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Cholera Epidemic in South Sudan and Uganda and Need for
+ International Collaboration in Cholera Control."
+      },
+      authors {
+        names ml {
+          "Abubakar A",
+          "Bwire G",
+          "Azman AS",
+          "Bouhenia M",
+          "Deng LL",
+          "Wamala JF",
+          "Rumunu J",
+          "Kagirita A",
+          "Rauzier J",
+          "Grout L",
+          "Martin S",
+          "Orach CG",
+          "Luquero FJ",
+          "Quilici ML"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Emerging Infect. Dis.",
+          ml-jta "Emerg Infect Dis",
+          issn "1080-6059",
+          name "Emerging infectious diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "24",
+          issue "5",
+          pages "883-887",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29664387,
+        doi "10.3201/eid2405.171651",
+        other {
+          db "pmc",
+          tag str "PMC5938777"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3201/eid2405.171651"
+        }
+      }
+    },
+    abstract "Combining the official cholera line list data and outbreak
+ investigation reports from the ministries of health in Uganda and South Sudan
+ with molecular analysis of Vibrio cholerae strains revealed the
+ interrelatedness of the epidemics in both countries in 2014. These results
+ highlight the need for collaboration to control cross-border outbreaks.",
+    mesh {
+      {
+        term "Cholera",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Epidemics"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "International Cooperation"
+      },
+      {
+        term "South Sudan",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Uganda",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      }
+    },
+    pmid 29664387,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,331 @@
+
+Pubmed-entry ::= {
+  pmid 29743444,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Protective effects of rutin on lipopolysaccharide-induced heart
+ injury in mice."
+      },
+      authors {
+        names ml {
+          "Xianchu L",
+          "Lan Z",
+          "Ming L",
+          "Yanzhi M"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Toxicol Sci",
+          ml-jta "J Toxicol Sci",
+          issn "1880-3989",
+          name "The Journal of toxicological sciences"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "43",
+          issue "5",
+          pages "329-337",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29743444,
+        doi "10.2131/jts.43.329",
+        other {
+          db "ELocationID doi",
+          tag str "10.2131/jts.43.329"
+        }
+      }
+    },
+    abstract "Rutin has a wide range of beneficial health properties in the
+ amelioration of multi-organ injury owing to its various biological effects.
+ The aim of this study was to investigate the effects of rutin on
+ lipopolysaccharide (LPS)-induced heart injury and clarify its potential
+ cardioprotective mechanism. The mouse model of heart injury was
+ intraperitoneal infection with LPS, and rutin was orally administered for 8
+ consecutive days. One day after LPS injection, heart histopathology, cardiac
+ marker enzymes and cardiac fibrosis related genes were determined to evaluate
+ the cardioprotective effects of rutin. In addition, oxidative parameters and
+ inflammatory cytokines were tested to explore its possible underlying
+ mechanism. The presented results showed that rutin significantly improved
+ morphological changes of myocardium and relieved cardiac marker enzymes
+ [creatine kinase (CK) and lactate dehydrogenase (LDH)] level to protect heart
+ in LPS-induced sepsis. And more, rutin observably mitigated fibrosis related
+ genes [matrix metalloproteinase 2 (MMP-2) and matrix metalloproteinase 9
+ (MMP-9)] expression in the heart to prevent against LPS-induced cardiac
+ fibrosis. In addition, rutin markedly increased antioxidant enzymes
+ [superoxide dismutase (SOD) and catalase (CAT)] activity, and improved
+ oxidative production [malondialdehyde (MDA) and H2O2] level to balance the
+ oxidation and anti-oxidation systems in the heart. Lastly, rutin dramatically
+ ameliorated [tumor necrosis factor alpha (TNF-alpha) and interleukin 6
+ (IL-6)] activity to restrain inflammatory responses in the heart. In
+ conclusion, rutin possessed anti-oxidant and anti-inflammatory properties to
+ improve LPS-induced heart injury, which suggested rutin could be used as a
+ potential cardioprotective medicine in sepsis.",
+    mesh {
+      {
+        term "Administration, Oral"
+      },
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Anti-Inflammatory Agents"
+      },
+      {
+        mp TRUE,
+        term "Antioxidants"
+      },
+      {
+        mp TRUE,
+        term "Cardiotonic Agents"
+      },
+      {
+        term "Creatine Kinase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Fibrosis"
+      },
+      {
+        term "Heart Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "chemically induced"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Interleukin-6",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "L-Lactate Dehydrogenase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            mp TRUE,
+            subh "toxicity"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Malondialdehyde",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Matrix Metalloproteinase 2",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Matrix Metalloproteinase 9",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Myocardium",
+        qual {
+          {
+            subh "enzymology"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Rutin",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Superoxide Dismutase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Tumor Necrosis Factor-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Cardiotonic Agents"
+      },
+      {
+        type nameonly,
+        name "Interleukin-6"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "Tumor Necrosis Factor-alpha"
+      },
+      {
+        type cas,
+        cit "4Y8F71G49Q",
+        name "Malondialdehyde"
+      },
+      {
+        type cas,
+        cit "5G06TVY3R7",
+        name "Rutin"
+      },
+      {
+        type ec,
+        cit "1.1.1.27",
+        name "L-Lactate Dehydrogenase"
+      },
+      {
+        type ec,
+        cit "1.15.1.1",
+        name "Superoxide Dismutase"
+      },
+      {
+        type ec,
+        cit "2.7.3.2",
+        name "Creatine Kinase"
+      },
+      {
+        type ec,
+        cit "3.4.24.24",
+        name "Matrix Metalloproteinase 2"
+      },
+      {
+        type ec,
+        cit "3.4.24.35",
+        name "Matrix Metalloproteinase 9"
+      }
+    },
+    pmid 29743444,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

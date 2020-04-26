@@ -1,0 +1,267 @@
+
+Pubmed-entry ::= {
+  pmid 29488606,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Isoflurane reduces pain and inhibits apoptosis of myocardial
+ cells through the phosphoinositide 3-kinase/protein kinase B signaling
+ pathway in mice during cardiac surgery."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pi Z",
+            affil str "Department of Anesthesiology of The First Affiliated
+ Hospital of Wenzhou University, Wenzhou, Zhejiang 325000, P.R. China."
+          },
+          {
+            name ml "Lin H",
+            affil str "Department of Anesthesiology of The First Affiliated
+ Hospital of Wenzhou University, Wenzhou, Zhejiang 325000, P.R. China."
+          },
+          {
+            name ml "Yang J",
+            affil str "Department of Anesthesiology of The First Affiliated
+ Hospital of Soochow University, Suzhou, Jiangsu 215006, P.R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol Med Rep",
+          ml-jta "Mol Med Rep",
+          issn "1791-3004",
+          name "Molecular medicine reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "17",
+          issue "5",
+          pages "6497-6505",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 9,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29488606,
+        doi "10.3892/mmr.2018.8642",
+        other {
+          db "pmc",
+          tag str "PMC5928630"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3892/mmr.2018.8642"
+        }
+      }
+    },
+    abstract "Heart bypass surgery is the most common treatment for myocardial
+ ischemia. Clinical investigations have revealed that isoflurane anesthesia is
+ efficient to alleviate pain during cardiac surgery, including heart bypass
+ surgery. Previous studies have revealed the protective effects of isoflurane
+ on myocardial cells of patients with myocardial ischemia during the
+ perioperative period. The present study aimed to investigate the mechanism
+ underlying the protective effects of isoflurane on myocardial cells in mice
+ with myocardial ischemia. ELISA, flow cytometry, immunofluorescence and
+ western blotting were used to analyze the effects of isoflurane anesthesia on
+ myocardial cells. Briefly, myocardial cell apoptosis and viability, pain,
+ phosphoinositide 3kinase/protein kinase B (PI3K/AKT) signaling pathway
+ expression and the pharmacodynamics of isoflurane were studied in mice
+ treated with isoflurane for heart bypass surgery. The results demonstrated
+ that isoflurane anesthesia efficiently attenuated pain in mice during
+ surgery. Viability and apoptosis of myocardial cells was also improved by
+ isoflurane in vitro and in vivo. The PI3K/AKT pathway was upregulated in
+ myocardial cells on day 3 postoperation. Mechanistically, isoflurane promoted
+ PI3K/AKT activation, upregulated Bcell lymphoma 2 (Bcl2)associated X protein
+ and Bcl2 expression levels, and reduced the expression levels of caspase3 and
+ caspase8 in myocardial cells. In conclusion, the findings indicated that
+ isoflurane is beneficial for pain attenuation and inhibits apoptosis of
+ myocardial cells via the PI3K/AKT signaling pathway in mice during cardiac
+ surgery.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Apoptosis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Coronary Artery Bypass"
+      },
+      {
+        term "Isoflurane",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Myocardial Ischemia",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Myocardium",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Pain",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "CYS9AKD70P",
+        name "Isoflurane"
+      },
+      {
+        type ec,
+        cit "2.7.1.-",
+        name "Phosphatidylinositol 3-Kinases"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 29488606,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

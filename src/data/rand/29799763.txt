@@ -1,0 +1,170 @@
+
+Pubmed-entry ::= {
+  pmid 29799763,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An atypical BAR domain protein in autophagy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Popelka H",
+            affil str "a Life Sciences Institute , University of Michigan ,
+ Ann Arbor , MI USA."
+          },
+          {
+            name ml "Klionsky DJ",
+            affil str "a Life Sciences Institute , University of Michigan ,
+ Ann Arbor , MI USA.; b Department of Molecular , Cellular, and Developmental
+ Biology , University of Michigan , Ann Arbor , MI USA."
+          },
+          {
+            name ml "Ragusa MJ",
+            affil str "c Department of Chemistry , Dartmouth College , Hanover
+ , NH USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Autophagy",
+          ml-jta "Autophagy",
+          issn "1554-8635",
+          name "Autophagy"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "14",
+          issue "7",
+          pages "1155-1156",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29799763,
+        doi "10.1080/15548627.2018.1445915",
+        other {
+          db "pmc",
+          tag str "PMC6103713"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/15548627.2018.1445915"
+        }
+      }
+    },
+    abstract "The sorting nexin Atg20 interacts with the selective
+ macroautophagy/autophagy scaffolding protein Atg11, suggesting an important
+ role for Atg20 in the initiation of selective autophagy. To explore this
+ possibility, we recently investigated the structure and function of Atg20
+ using a variety of biophysical and yeast genetic approaches. Our data
+ demonstrate that the BAR domain of Atg20 interacts with Snx4/Atg24 to form an
+ asymmetric heterodimeric BAR domain complex. Atg20 also contains a long
+ intrinsically disordered N terminus that facilitates binding to Atg11 and a
+ large 89-amino acid insertion in its BAR domain, which we have termed the
+ BAR-GAP. This BAR-GAP region is a unique feature of Atg20 and has not been
+ observed in other BAR domains. Furthermore, the BAR-GAP of Atg20 contains an
+ amphipathic helix which is required for membrane binding, tubulation and
+ autophagy. Our findings demonstrate the important role of this novel region
+ in autophagy.",
+    mesh {
+      {
+        mp TRUE,
+        term "Autophagy"
+      },
+      {
+        term "Autophagy-Related Proteins"
+      },
+      {
+        term "Saccharomyces cerevisiae"
+      },
+      {
+        mp TRUE,
+        term "Saccharomyces cerevisiae Proteins"
+      },
+      {
+        term "Sorting Nexins"
+      },
+      {
+        term "Vesicular Transport Proteins"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Atg11 protein, S cerevisiae"
+      },
+      {
+        type nameonly,
+        name "Autophagy-Related Proteins"
+      },
+      {
+        type nameonly,
+        name "Saccharomyces cerevisiae Proteins"
+      },
+      {
+        type nameonly,
+        name "Sorting Nexins"
+      },
+      {
+        type nameonly,
+        name "Vesicular Transport Proteins"
+      }
+    },
+    idnum {
+      "P20 GM113132/GM/NIGMS NIH HHS"
+    },
+    pmid 29799763,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

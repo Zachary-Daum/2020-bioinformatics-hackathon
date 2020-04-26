@@ -1,0 +1,219 @@
+
+Pubmed-entry ::= {
+  pmid 29902279,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Assimilable organic carbon (AOC) determination using GFP-tagged
+ Pseudomonas fluorescens P-17 in water by flow cytometry."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tang P",
+            affil str "School of Life Sciences and Chemical Technology, Ngee
+ Ann Polytechnic, 599489, Singapore, Singapore."
+          },
+          {
+            name ml "Wu J",
+            affil str "College of Chemistry and Chemical Engineering, Central
+ South University, Changsha 410083, PR China."
+          },
+          {
+            name ml "Liu H",
+            affil str "College of Chemistry and Chemical Engineering, Central
+ South University, Changsha 410083, PR China."
+          },
+          {
+            name ml "Liu Y",
+            affil str "College of Chemistry and Chemical Engineering, Central
+ South University, Changsha 410083, PR China."
+          },
+          {
+            name ml "Zhou X",
+            affil str "School of Life Sciences and Chemical Technology, Ngee
+ Ann Polytechnic, 599489, Singapore, Singapore."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 14
+          },
+          volume "13",
+          issue "6",
+          pages "e0199193",
+          language "eng",
+          retract {
+            type in-error,
+            exp "PLoS One. 2018 Dec 20;13(12):e0209721. PMID: 30571763"
+          },
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29902279,
+        doi "10.1371/journal.pone.0199193",
+        pii "PONE-D-18-10155",
+        other {
+          db "pmc",
+          tag str "PMC6002121"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0199193"
+        }
+      }
+    },
+    abstract "One of the newly developed methods for Assimilable organic
+ carbon (AOC) determination is leveraged on the cell enumeration by flow
+ cytometry (FC) which could provide a rapid and automated solution for AOC
+ measurement. However, cell samples staining with fluorescence dye is
+ indispensable to reduce background and machine noise. This step would bring
+ additional cost and time consuming for this method. In this study, a green
+ fluorescence protein (GFP) tagged strain derived of AOC testing strain
+ Pseudomonas fluorescens P-17 (GFP-P17) was generated using Tn5 transposon
+ mutagenesis. Continuous culture of this mutant GFP-P17 showed stable
+ expression of eGFP signal detected by flow cytometry without staining step.
+ In addition, this GFP-P17 strain displayed faster growth rate and had a wider
+ range of carbon substrate utilization patterns as compared with P17
+ wild-type. With this strain, the capability of a new FC method with no dye
+ staining was explored in standard acetate solution, which suggests linear
+ correlation of counts with acetate carbon concentration. Furthermore, this FC
+ method with GFP-P17 strain is applicable in monitoring GAC/BAC efficiency and
+ condition as similar trends of AOC level in water treatment process were
+ measured by both FC method and conventional spread plating count method.
+ Therefore, this fast and easily applicable GFP-P17 based FC method could
+ serve as a tool for routine microbiological drinking water monitoring.",
+    mesh {
+      {
+        term "Carbon",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Flow Cytometry"
+      },
+      {
+        term "Green Fluorescent Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mutation"
+      },
+      {
+        term "Pseudomonas fluorescens",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Water Microbiology"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "147336-22-9",
+        name "Green Fluorescent Proteins"
+      },
+      {
+        type cas,
+        cit "7440-44-0",
+        name "Carbon"
+      }
+    },
+    pmid 29902279,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

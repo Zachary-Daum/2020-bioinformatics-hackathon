@@ -1,0 +1,252 @@
+
+Pubmed-entry ::= {
+  pmid 29504313,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "In vitro antioxidant activity of phenolic-enriched extracts from
+ Zhangping Narcissus tea cake and their inhibition on growth and metastatic
+ capacity of 4T1 murine breast cancer cells."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ying L",
+            affil str "Department of Tea Science, Zhejiang University,
+ Hangzhou 310058, China.; Department of Molecular and Translational Science,
+ Monash University, Clayton, Victoria 3168, Australia."
+          },
+          {
+            name ml "Kong DD",
+            affil str "Department of Tea Science, Zhejiang University,
+ Hangzhou 310058, China."
+          },
+          {
+            name ml "Gao YY",
+            affil str "Department of Tea Science, Zhejiang University,
+ Hangzhou 310058, China."
+          },
+          {
+            name ml "Yan F",
+            affil str "Department of Molecular and Translational Science,
+ Monash University, Clayton, Victoria 3168, Australia."
+          },
+          {
+            name ml "Wang YF",
+            affil str "Department of Tea Science, Zhejiang University,
+ Hangzhou 310058, China."
+          },
+          {
+            name ml "Xu P",
+            affil str "Department of Tea Science, Zhejiang University,
+ Hangzhou 310058, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Zhejiang Univ Sci B",
+          ml-jta "J Zhejiang Univ Sci B",
+          issn "1862-1783",
+          name "Journal of Zhejiang University. Science. B"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "19",
+          issue "3",
+          pages "199-210",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29504313,
+        doi "10.1631/jzus.B1700162",
+        other {
+          db "pmc",
+          tag str "PMC5854635"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1631/jzus.B1700162"
+        }
+      }
+    },
+    abstract "Phenolics, as the main bioactive compounds in tea, have been
+ suggested to have potential in the prevention of various human diseases.
+ However, little is known about phenolics and their bioactivity in Zhangping
+ Narcissue tea cake which is considered the most special kind of oolong tea.
+ To unveil its bioactivity, three phenolic-enriched extracts were obtained
+ from Zhangping Narcissue tea cake using ethyl acetate, n-butanol, and water.
+ Their main chemical compositions and in vitro bioactivity were analyzed by
+ high-performance liquid chromatography (HPLC) and ultra-performance liquid
+ chromatography-mass spectrometry (UPLC-MS). The ethyl acetate fraction (ZEF)
+ consisted of higher content of phenolics, flavonoids, procyanidins, and
+ catechin monomers (including epigallocatechin gallate (EGCG), epicatechin
+ gallate (ECG), and gallocatechin gallate (GCG)) than n-butanol fraction (ZBF)
+ and water fraction (ZWF). ZEF exhibited the strongest antioxidant capacity in
+ vitro due to its abundant bioactive compounds. This was validated by Pearson
+ correlation and hierarchical clustering analyses. ZEF also showed a
+ remarkable inhibition on the growth, migration, and invasion of 4T1 murine
+ breast cancer cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antineoplastic Agents, Phytogenic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Camellia sinensis",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Movement",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Mammary Neoplasms, Experimental",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Neoplasm Metastasis"
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antineoplastic Agents, Phytogenic"
+      },
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      }
+    },
+    pmid 29504313,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

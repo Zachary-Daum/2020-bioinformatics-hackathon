@@ -1,0 +1,228 @@
+
+Pubmed-entry ::= {
+  pmid 29756650,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Stillbirth rates across three ape species in accredited American
+ zoos."
+      },
+      authors {
+        names std {
+          {
+            name ml "Saiyed ST",
+            affil str "Lester E. Fisher Center for the Study and Conservation
+ of Apes, Lincoln Park Zoo, Chicago, Illinois."
+          },
+          {
+            name ml "Liubicich RC",
+            affil str "College of Life and Environmental Sciences, University
+ of Exeter, Penryn, Cornwall, UK."
+          },
+          {
+            name ml "Fidino M",
+            affil str "Urban Wildlife Institute, Lincoln Park Zoo, Chicago,
+ Illinois."
+          },
+          {
+            name ml "Ross SR",
+            affil str "Lester E. Fisher Center for the Study and Conservation
+ of Apes, Lincoln Park Zoo, Chicago, Illinois."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Primatol.",
+          ml-jta "Am J Primatol",
+          issn "1098-2345",
+          name "American journal of primatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "80",
+          issue "6",
+          pages "e22870",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29756650,
+        doi "10.1002/ajp.22870",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/ajp.22870"
+        }
+      }
+    },
+    abstract "Stillbirths, or births of infants that died in the womb,
+ represent a failure of the materno-feto-placental unit to maintain a suitable
+ fetal environment. Typical studies of nonhuman primate (NHP) stillbirth
+ patterns are primarily descriptive and focus on macaques (genus Macaca).
+ Thus, less is known about other NHP species and rarer still are studies that
+ examine possible biological factors that influence stillbirth rates across
+ taxa. To examine possible contributors to stillbirths in great apes, we
+ analyzed 36 years (1980-2016) of historical data documenting births of
+ zoo-housed chimpanzees (Pan troglodytes, N = 391), western lowland gorillas
+ (Gorilla gorilla gorilla, N = 491), and orangutans (Pongo spp, N = 307) in
+ accredited zoological parks in the United States. The average number of
+ births for each of the 446 mothers was 2.7, resulting in a total of 1,189
+ births with 143 stillbirths (12%). Stillbirths represented 12% of chimpanzee
+ births, 13% of gorilla births, and 10% of orangutan births. We used
+ generalized linear mixed-effects models to assess possible relationships
+ between stillbirth likelihood and mother origin (wild- versus captive-born),
+ age, and genus. Across taxa, older mothers were more likely to have a
+ stillbirth (p = 0.004). While these results are likely influenced by both
+ biological and management-related factors (e.g., selective captive breeding),
+ they may be useful to population managers in evaluating pregnancy risks for
+ great apes. Captive settings and archival studbook data such as these may
+ provide a unique opportunity to further explore this topic.",
+    mesh {
+      {
+        term "Age Factors"
+      },
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Animals, Zoo"
+      },
+      {
+        term "Ape Diseases",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gorilla gorilla",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Parturition",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Pongo",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Pongo pygmaeus",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Stillbirth",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "United States"
+      }
+    },
+    pmid 29756650,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,257 @@
+
+Pubmed-entry ::= {
+  pmid 29602145,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Epilepsy in neuropathologically verified Alzheimer's disease."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rauramaa T",
+            affil str "Department of Pathology, Kuopio University Hospital,
+ Finland; Institute of Clinical Medicine, Unit of Pathology, University of
+ Eastern Finland, Kuopio, Finland. Electronic address: tuomas.rauramaa@kuh.fi."
+          },
+          {
+            name ml "Saxlin A",
+            affil str "Department of Pathology, Fimlab Laboratories, Tampere
+ University Hospital, Tampere, Finland."
+          },
+          {
+            name ml "Lohvansuu K",
+            affil str "Department of Psychology and Centre for
+ Interdisciplinary Brain Research, University of Jyvaskyla, Finland."
+          },
+          {
+            name ml "Alafuzoff I",
+            affil str "Department of Immunology, Genetics and Pathology,
+ Rudbeck Laboratory, Uppsala University, Sweden."
+          },
+          {
+            name ml "Pitkanen A",
+            affil str "A I Virtanen Institute for Molecular Sciences,
+ University of Eastern Finland, Kuopio, Finland."
+          },
+          {
+            name ml "Soininen H",
+            affil str "Department of Neurology, School of Medicine, University
+ of Eastern Finland, Kuopio, Finland."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Seizure",
+          ml-jta "Seizure",
+          issn "1532-2688",
+          name "Seizure"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "58",
+          pages "9-12",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 12
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29602145,
+        pii "S1059-1311(18)30026-8",
+        doi "10.1016/j.seizure.2018.03.014",
+        other {
+          db "ELocationID pii",
+          tag str "S1059-1311(18)30026-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.seizure.2018.03.014"
+        }
+      }
+    },
+    abstract "PURPOSE: Subjects with Alzheimer's disease (AD) have been shown
+ to be at a higher risk for epilepsy. The vast majority of the previous
+ studies have not included a full neuropathological examination. METHODS: The
+ objective of this study was to assess the prevalence of epilepsy and
+ clinicopathological characteristics in a well-defined study group of 64
+ subjects with AD. We evaluated the clinicopathological findings in 64
+ subjects (mean age at death 85+/-8.6years) from a longitudi-nal study cohort
+ of patients with dementia. RESULTS: Eleven out of the 64 subjects (17%) had a
+ history of epilepsy, which is comparable to previous studies. The subjects
+ with AD and epilepsy were significantly younger at the time of AD diagnosis
+ and at the time of hospitalisation. In addition, their duration of AD was
+ longer. Concomitant neuropathology in addition to AD was common in both
+ groups and the ApoE genotypes did not differ significantly between the
+ groups. CONCLUSION: The strength of this study is a thorough
+ neuropathological examination of all study subjects. Our findings support the
+ previous literature regarding the prevalence of epilepsy in subjects with AD.
+ We have shown that the subjects with AD and epilepsy differ significantly
+ from the subjects without epilepsy.",
+    mesh {
+      {
+        term "Age Factors"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Apolipoproteins E",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Brain",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Epilepsy",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Follow-Up Studies"
+      },
+      {
+        term "Hospitalization"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Longitudinal Studies"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Apolipoproteins E"
+      }
+    },
+    pmid 29602145,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

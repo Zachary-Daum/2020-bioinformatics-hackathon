@@ -1,0 +1,218 @@
+
+Pubmed-entry ::= {
+  pmid 29474003,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The potent pro-oxidant activity of rhododendrol-eumelanin is
+ enhanced by ultraviolet A radiation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ito S",
+            affil str "Department of Chemistry, Fujita Health University
+ School of Health Sciences, Toyoake, Japan."
+          },
+          {
+            name ml "Agata M",
+            affil str "Department of Chemistry, Fujita Health University
+ School of Health Sciences, Toyoake, Japan."
+          },
+          {
+            name ml "Okochi K",
+            affil str "Department of Chemistry, Fujita Health University
+ School of Health Sciences, Toyoake, Japan."
+          },
+          {
+            name ml "Wakamatsu K",
+            affil str "Department of Chemistry, Fujita Health University
+ School of Health Sciences, Toyoake, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Pigment Cell Melanoma Res",
+          ml-jta "Pigment Cell Melanoma Res",
+          issn "1755-148X",
+          name "Pigment cell & melanoma research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "31",
+          issue "4",
+          pages "523-528",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 9
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29474003,
+        doi "10.1111/pcmr.12696",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/pcmr.12696"
+        }
+      }
+    },
+    abstract "RS-4-(4-hydroxyphenyl)-2-butanol (rhododendrol, RD), a
+ skin-whitening agent, is known to induce leukoderma in some consumers. To
+ explore the mechanism underlying this effect, we previously showed that the
+ oxidation of RD with mushroom or human tyrosinase produces cytotoxic quinone
+ oxidation products and RD-eumelanin exerts a potent pro-oxidant activity.
+ Cellular antioxidants were oxidized by RD-eumelanin with a concomitant
+ production of H2 O2 . In this study, we examined whether this pro-oxidant
+ activity of RD-eumelanin is enhanced by ultraviolet A (UVA) radiation because
+ most RD-induced leukoderma lesions are found in sun-exposed areas. Exposure
+ to a physiological level of UVA (3.5 mW/cm(2) ) induced a two to fourfold
+ increase in the rates of oxidation of GSH, cysteine, ascorbic acid, and NADH.
+ This oxidation was oxygen-dependent and was accompanied by the production of
+ H2 O2 . These results suggest that RD-eumelanin is cytotoxic to melanocytes
+ through its potent pro-oxidant activity that is enhanced by UVA radiation.",
+    mesh {
+      {
+        term "Butanols",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Melanins",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Oxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Oxidation-Reduction",
+        qual {
+          {
+            subh "radiation effects"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Ultraviolet Rays"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Butanols"
+      },
+      {
+        type nameonly,
+        name "Melanins"
+      },
+      {
+        type nameonly,
+        name "Oxidants"
+      },
+      {
+        type cas,
+        cit "12627-86-0",
+        name "eumelanin"
+      },
+      {
+        type cas,
+        cit "12QWN45UL0",
+        name "rhododendrol"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      }
+    },
+    pmid 29474003,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

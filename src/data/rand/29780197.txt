@@ -1,0 +1,138 @@
+
+Pubmed-entry ::= {
+  pmid 29780197,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "TRAFIC: Fiber Tract Classification Using Deep Learning."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ngattai Lam PD",
+            affil str "NIRAL, UNC, Chapel Hill, North Carolina, United States."
+          },
+          {
+            name ml "Belhomme G",
+            affil str "NIRAL, UNC, Chapel Hill, North Carolina, United States."
+          },
+          {
+            name ml "Ferrall J",
+            affil str "NIRAL, UNC, Chapel Hill, North Carolina, United States."
+          },
+          {
+            name ml "Patterson B",
+            affil str "NIRAL, UNC, Chapel Hill, North Carolina, United States."
+          },
+          {
+            name ml "Styner M",
+            affil str "NIRAL, UNC, Chapel Hill, North Carolina, United States."
+          },
+          {
+            name ml "Prieto JC",
+            affil str "NIRAL, UNC, Chapel Hill, North Carolina, United States."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Proc SPIE Int Soc Opt Eng",
+          ml-jta "Proc SPIE Int Soc Opt Eng",
+          issn "0277-786X",
+          name "Proceedings of SPIE--the International Society for Optical
+ Engineering"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "10574",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29780197,
+        doi "10.1117/12.2293931",
+        other {
+          db "pmc",
+          tag str "PMC5956534"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS964216"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "1057412"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1117/12.2293931"
+        }
+      }
+    },
+    abstract "We present TRAFIC, a fully automated tool for the labeling and
+ classification of brain fiber tracts. TRAFIC classifies new fibers using a
+ neural network trained using shape features computed from previously traced
+ and manually corrected fiber tracts. It is independent from a DTI Atlas as it
+ is applied to already traced fibers. This work is motivated by medical
+ applications where the process of extracting fibers from a DTI atlas, or
+ classifying fibers manually is time consuming and requires knowledge about
+ brain anatomy. With this new approach we were able to classify traced fiber
+ tracts obtaining encouraging results. In this report we will present in
+ detail the methods used and the results achieved with our approach.",
+    idnum {
+      "R01 HD055741/HD/NICHD NIH HHS",
+      "R01 MH091645/MH/NIMH NIH HHS",
+      "U54 HD079124/HD/NICHD NIH HHS"
+    },
+    pmid 29780197,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

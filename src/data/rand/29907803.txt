@@ -1,0 +1,236 @@
+
+Pubmed-entry ::= {
+  pmid 29907803,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effect of temperature on Burkholderia pseudomallei growth,
+ proteomic changes, motility and resistance to stress environments."
+      },
+      authors {
+        names std {
+          {
+            name ml "Paksanont S",
+            affil str "Department of Microbiology and Immunology, Faculty of
+ Tropical Medicine, Mahidol University, Bangkok, Thailand."
+          },
+          {
+            name ml "Sintiprungrat K",
+            affil str "Department of Microbiology and Immunology, Faculty of
+ Tropical Medicine, Mahidol University, Bangkok, Thailand."
+          },
+          {
+            name ml "Yimthin T",
+            affil str "Department of Microbiology and Immunology, Faculty of
+ Tropical Medicine, Mahidol University, Bangkok, Thailand."
+          },
+          {
+            name ml "Pumirat P",
+            affil str "Department of Microbiology and Immunology, Faculty of
+ Tropical Medicine, Mahidol University, Bangkok, Thailand."
+          },
+          {
+            name ml "Peacock SJ",
+            affil str "Department of Microbiology and Immunology, Faculty of
+ Tropical Medicine, Mahidol University, Bangkok, Thailand.; London School of
+ Hygiene and Tropical Medicine, London, UK."
+          },
+          {
+            name ml "Chantratita N",
+            affil str "Department of Microbiology and Immunology, Faculty of
+ Tropical Medicine, Mahidol University, Bangkok, Thailand.
+ narisara@tropmedres.ac.; Mahidol-Oxford Tropical Medicine Research Unit,
+ Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand.
+ narisara@tropmedres.ac."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 15
+          },
+          volume "8",
+          issue "1",
+          pages "9167",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29907803,
+        doi "10.1038/s41598-018-27356-7",
+        pii "10.1038/s41598-018-27356-7",
+        other {
+          db "pmc",
+          tag str "PMC6004011"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-27356-7"
+        }
+      }
+    },
+    abstract "Burkholderia pseudomallei is a flagellated, gram-negative
+ environmental bacterium that causes melioidosis, a severe infectious disease
+ of humans and animals in tropical areas. We hypothesised that B. pseudomallei
+ may undergo phenotypic adaptation in response to an increase in growth
+ temperature. We analysed the growth curves of B. pseudomallei strain 153
+ cultured in Luria-Bertani broth at five different temperatures (25  degrees
+ C-42  degrees C) and compared the proteomes of bacteria cultured at 37 
+ degrees C and 42  degrees C. B. pseudomallei exhibited the highest growth
+ rate at 37  degrees C with modest reductions at 30  degrees C, 40  degrees C
+ and 42  degrees C but a more marked delay at 25  degrees C. Proteome analysis
+ revealed 34 differentially expressed protein spots between bacterial cultures
+ at 42  degrees C versus 37  degrees C. These were identified as chaperones (7
+ spots), metabolic enzymes (12 spots), antioxidants (10 spots), motility
+ proteins (2 spots), structural proteins (2 spots) and hypothetical proteins
+ (1 spot). Of the 22 down-regulated proteins at 42  degrees C, redundancy in
+ motility and antioxidant proteins was observed. qRT-PCR confirmed decreased
+ expression of fliC and katE. Experiments on three B. pseudomallei strains
+ demonstrated that these had the highest motility, greatest resistance to H2O2
+ and greatest tolerance to salt stress at 37  degrees C. Our data suggest that
+ temperature affects B. pseudomallei motility and resistance to stress.",
+    mesh {
+      {
+        term "Bacterial Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Burkholderia pseudomallei",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Drug Resistance, Bacterial"
+      },
+      {
+        mp TRUE,
+        term "Hot Temperature"
+      },
+      {
+        term "Hydrogen Peroxide",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Proteome",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Stress, Physiological"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Bacterial Proteins"
+      },
+      {
+        type nameonly,
+        name "Proteome"
+      },
+      {
+        type cas,
+        cit "BBX060AN9V",
+        name "Hydrogen Peroxide"
+      }
+    },
+    idnum {
+      "Wellcome Trust",
+      "U01 AI115520/AI/NIAID NIH HHS",
+      "087769/Z/08/Z/WT_/Wellcome Trust"
+    },
+    pmid 29907803,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

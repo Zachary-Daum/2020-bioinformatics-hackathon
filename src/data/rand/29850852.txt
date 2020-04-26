@@ -1,0 +1,171 @@
+
+Pubmed-entry ::= {
+  pmid 29850852,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Morphology, Diet, and Temperature-Dependent Host-Free Survival
+ of the Boll Weevil, Anthonomus grandis (Coleoptera: Curculionidae)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Spurgeon DW",
+            affil str "USDA, ARS, Pest Management and Biocontrol Research
+ Unit, Maricopa, AZ."
+          },
+          {
+            name ml "Suh CP",
+            affil str "USDA, ARS, Insect Control and Cotton Disease Research
+ Unit, College Station, TX."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Insect Sci.",
+          ml-jta "J Insect Sci",
+          issn "1536-2442",
+          name "Journal of insect science (Online)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 1
+          },
+          volume "18",
+          issue "3",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 20
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29850852,
+        pii "5020530",
+        doi "10.1093/jisesa/iey047",
+        other {
+          db "pmc",
+          tag str "PMC6007485"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/jisesa/iey047"
+        }
+      }
+    },
+    abstract "The boll weevil, Anthonomus grandis grandis Boheman (Coleoptera:
+ Curculionidae), is an important pest of cotton (Gossypium spp. (Malvales:
+ Malvaceae)) in South America, Mexico, and southernmost Texas in the United
+ States. A key factor in the persistence of the boll weevil is its ability to
+ survive the noncotton season. Mechanisms facilitating this survival in
+ subtropical and tropical areas are incompletely known, and our understanding
+ has been further complicated by recent reports of overwintering on noncotton
+ hosts. In addition, the nature and even existence of the adult dormancy, and
+ validity of the criteria used to distinguish it, have been questioned. We
+ manipulated the boll weevil diet to produce a range of diapause responses and
+ observed the corresponding host-free survival patterns. The estimated
+ proportion of diapause was associated with subsequent survival. In addition,
+ different diets producing similar incidences of diapause resulted in
+ substantially different host-free longevity, and the longest survival was
+ observed for weevils fed bolls as adults. Survival patterns exhibited a
+ negative temperature dependence except for the lowest observed temperature
+ (12.8 degrees C), where survival was reduced compared with that at 18.3
+ degrees C. This suggests chronic chilling injury in response to extended
+ exposure to low, above freezing temperatures. All but the highest temperature
+ (29.4 degrees C) facilitated survival >6 mo, and survival of >1 yr was
+ observed at 18.3 degrees C. The temperatures permitting the greatest survival
+ are typical for many subtropical and tropical regions during the noncotton
+ season, indicating that diapausing boll weevils are capable of surviving the
+ noncotton season in these regions without the benefit of presumptive
+ noncotton hosts.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Diapause, Insect"
+      },
+      {
+        mp TRUE,
+        term "Diet"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Temperature"
+      },
+      {
+        term "Weevils",
+        qual {
+          {
+            subh "anatomy & histology"
+          },
+          {
+            mp TRUE,
+            subh "growth & development"
+          }
+        }
+      }
+    },
+    pmid 29850852,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,250 @@
+
+Pubmed-entry ::= {
+  pmid 29762455,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The Anti-inflammatory Effect of Hydrogen on Lung Transplantation
+ Model of Pulmonary Microvascular Endothelial Cells During Cold Storage Period."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang G",
+            affil str "Department of Anesthesiology, the Fourth Affiliated
+ Hospital, Harbin Medical University, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Li Z",
+            affil str "Department of Anesthesiology, the Fourth Affiliated
+ Hospital, Harbin Medical University, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Meng C",
+            affil str "Department of Anesthesiology, the Fourth Affiliated
+ Hospital, Harbin Medical University, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Kang J",
+            affil str "Department of Anesthesiology, the Fourth Affiliated
+ Hospital, Harbin Medical University, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Zhang M",
+            affil str "Department of Anesthesiology, the Fourth Affiliated
+ Hospital, Harbin Medical University, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Ma L",
+            affil str "Department of Dermatology, the Second Affiliated
+ Hospital, Harbin Medical University, Harbin, Heilongjiang, China."
+          },
+          {
+            name ml "Zhou H",
+            affil str "Department of Anesthesiology, the Fourth Affiliated
+ Hospital, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Transplantation",
+          ml-jta "Transplantation",
+          issn "1534-6080",
+          name "Transplantation"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "102",
+          issue "8",
+          pages "1253-1261",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29762455,
+        doi "10.1097/TP.0000000000002276",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/TP.0000000000002276"
+        }
+      }
+    },
+    abstract "BACKGROUND: Lung ischemia-reperfusion injury (LIRI) remains an
+ important factor for the early mortality of lung transplantations. Hydrogen
+ (H2) can attenuate lung injury and improve lung function in animal
+ experiments. In previous studies, pulmonary microvascular endothelial cells
+ (PMVECs) were used to simulate LIRI. We hypothesized that H2 can alleviate
+ inflammatory injury in a PMVECs lung transplantation model in the cold
+ ischemia phase. METHODS: Pulmonary microvascular endothelial cells were
+ divided into 4 groups: blank, control, oxygen (O2), and H2. The blank group
+ included PMVECs without treatment. During the cold storage period, the O2
+ group was aerated with 40% O2 and 60% N2, and the H2 group was aerated with
+ 3% H2, 40% O2, and 57% N2. The control group was aerated without gases. The
+ mixed gases were replaced every 20 minutes for 4 hours. During the
+ transplantation period, the sealed containers were warmed for 1 hour at room
+ temperature. In the reperfusion period, the containers were aerated with 50%
+ O2, 5% CO2 and 45% N2 at 37 degrees C. RESULTS: The concentrations of
+ interleukin-6 and tumor necrosis factor-alpha in the extracellular solutions
+ were significantly decreased, and the concentration of interleukin-10 was
+ increased in the H2 group. Intercellular adhesion molecule-1 expression was
+ inhibited by H2. Furthermore, H2 decreased the activation of NF-kappaB and
+ phosphorylation level of p38. Cell apoptosis was alleviated. The pathological
+ changes in the cell and mitochondria were alleviated after H2 administration.
+ CONCLUSIONS: Hydrogen-attenuated inflammatory response in a PMVECs lung
+ transplantation model during cold storage. The effect may be achieved by
+ inhibition of p38 MAPK and NF-kappaB pathways.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Inflammatory Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Apoptosis"
+      },
+      {
+        mp TRUE,
+        term "Cold Temperature"
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "Hydrogen",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Hydrogen-Ion Concentration"
+      },
+      {
+        term "Inflammation"
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            mp TRUE,
+            subh "blood supply"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Lung Transplantation"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Microcirculation"
+      },
+      {
+        mp TRUE,
+        term "Organ Preservation"
+      },
+      {
+        term "Oxygen",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Pulmonary Circulation"
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Inflammatory Agents"
+      },
+      {
+        type cas,
+        cit "7YNJ3PO35Z",
+        name "Hydrogen"
+      },
+      {
+        type cas,
+        cit "S88TT14065",
+        name "Oxygen"
+      }
+    },
+    pmid 29762455,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

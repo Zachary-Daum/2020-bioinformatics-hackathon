@@ -1,0 +1,180 @@
+
+Pubmed-entry ::= {
+  pmid 29684836,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ambulatory care education: Preparing nurses for the future of
+ healthcare."
+      },
+      authors {
+        names std {
+          {
+            name ml "Coburn CV",
+            affil str "Emory University, Nell Hodgson Woodruff School of
+ Nursing, 1520 Clifton Rd. NE, Atlanta, GA 30322, USA. Electronic address:
+ ccoburn@emory.edu."
+          },
+          {
+            name ml "Gilland D",
+            affil str "Emory Healthcare, 1364 Clifton Rd. NE, Atlanta, GA,
+ 30322, USA. Electronic address: deena.gilland@emoryhealthcare.org."
+          },
+          {
+            name ml "Owen M",
+            affil str "Emory University, Nell Hodgson Woodruff School of
+ Nursing, 1520 Clifton Rd. NE, Atlanta, GA 30322, USA. Electronic address:
+ mikenne@emory.edu."
+          },
+          {
+            name ml "Amar A",
+            affil str "University of Nevada, Las Vegas, 4505 S. Maryland Way,
+ 89154, USA. Electronic address: angela.amar@emory.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nurse Educ Today",
+          ml-jta "Nurse Educ Today",
+          issn "1532-2793",
+          name "Nurse education today"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "66",
+          pages "79-81",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 14
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29684836,
+        pii "S0260-6917(18)30140-0",
+        doi "10.1016/j.nedt.2018.03.015",
+        other {
+          db "ELocationID pii",
+          tag str "S0260-6917(18)30140-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.nedt.2018.03.015"
+        }
+      }
+    },
+    abstract "In the current healthcare environment, ambulatory care nursing
+ is increasingly recognized as an efficient and effective way of collaborating
+ with clients to improve health outcomes and to focus on prevention. Nursing
+ skills in ambulatory care are both valuable and necessary. However, few
+ undergraduate nursing programs provide content on ambulatory care or
+ significant clinical experience outside the context of an acute care setting.
+ To meet this gap in education, a baccalaureate undergraduate course in
+ ambulatory care nursing was created to address the growing need for RNs in
+ this field. In collaboration with affiliated healthcare systems, this course
+ provides the knowledge and skills needed to enable new RNs to enter this
+ challenging and rapidly changing specialty.",
+    mesh {
+      {
+        mp TRUE,
+        term "Ambulatory Care"
+      },
+      {
+        term "Clinical Competence"
+      },
+      {
+        mp TRUE,
+        term "Curriculum"
+      },
+      {
+        term "Education, Nursing, Baccalaureate"
+      },
+      {
+        term "Health Knowledge, Attitudes, Practice"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Primary Care Nursing"
+      },
+      {
+        mp TRUE,
+        term "Students, Nursing"
+      }
+    },
+    pmid 29684836,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

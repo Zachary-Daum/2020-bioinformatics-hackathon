@@ -1,0 +1,261 @@
+
+Pubmed-entry ::= {
+  pmid 29870530,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Rapid and safe one-step extraction method for the identification
+ of Brucella strains at genus and species level by MALDI-TOF mass spectrometry."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sali M",
+            affil str "Insitute of Microbiology, Fondazione Policlinico A.
+ Gemelli - IRCCS - Universita Cattolica del Sacro Cuore, Rome, Italy."
+          },
+          {
+            name ml "De Maio F",
+            affil str "Insitute of Microbiology, Fondazione Policlinico A.
+ Gemelli - IRCCS - Universita Cattolica del Sacro Cuore, Rome, Italy."
+          },
+          {
+            name ml "Tarantino M",
+            affil str "Department of Veterinary Public Health and Food Safety,
+ Istituto Superiore di Sanita, Rome, Italy."
+          },
+          {
+            name ml "Garofolo G",
+            affil str "National and OIE Reference Laboratory for Brucellosis,
+ Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise ""G. Caporale
+"", Teramo, Italy."
+          },
+          {
+            name ml "Tittarelli M",
+            affil str "National and OIE Reference Laboratory for Brucellosis,
+ Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise ""G. Caporale
+"", Teramo, Italy."
+          },
+          {
+            name ml "Sacchini L",
+            affil str "National and OIE Reference Laboratory for Brucellosis,
+ Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise ""G. Caporale
+"", Teramo, Italy."
+          },
+          {
+            name ml "Zilli K",
+            affil str "National and OIE Reference Laboratory for Brucellosis,
+ Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise ""G. Caporale
+"", Teramo, Italy."
+          },
+          {
+            name ml "Pasquali P",
+            affil str "Department of Veterinary Public Health and Food Safety,
+ Istituto Superiore di Sanita, Rome, Italy."
+          },
+          {
+            name ml "Petrucci P",
+            affil str "Department of Veterinary Public Health and Food Safety,
+ Istituto Superiore di Sanita, Rome, Italy."
+          },
+          {
+            name ml "Marianelli C",
+            affil str "Department of Veterinary Public Health and Food Safety,
+ Istituto Superiore di Sanita, Rome, Italy."
+          },
+          {
+            name ml "Francia M",
+            affil str "Department of Veterinary Public Health and Food Safety,
+ Istituto Superiore di Sanita, Rome, Italy."
+          },
+          {
+            name ml "Sanguinetti M",
+            affil str "Insitute of Microbiology, Fondazione Policlinico A.
+ Gemelli - IRCCS - Universita Cattolica del Sacro Cuore, Rome, Italy."
+          },
+          {
+            name ml "Adone R",
+            affil str "Department of Veterinary Public Health and Food Safety,
+ Istituto Superiore di Sanita, Rome, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 5
+          },
+          volume "13",
+          issue "6",
+          pages "e0197864",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29870530,
+        doi "10.1371/journal.pone.0197864",
+        pii "PONE-D-18-01849",
+        other {
+          db "pmc",
+          tag str "PMC5988274"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0197864"
+        }
+      }
+    },
+    abstract "Brucellosis is essentially a disease of domesticated livestock;
+ however, humans can also be infected via the consumption of contaminated meat
+ or dairy products, underlying the need for rapid and accurate identification
+ methods. Procedures for microbiological identification and typing of Brucella
+ spp. are expensive, time-consuming, and must be conducted in biohazard
+ containment facilities to minimize operator risk. The development of a
+ matrix-assisted laser desorption/ionization time-of-flight mass spectrometry
+ (MALDI-TOF-MS)-based assay has reduced the processing time while maintaining
+ performance standards. In this study, to improve the identification accuracy
+ and suitability of the MALDI-TOF-based assay for routine diagnosis, we
+ developed a new protein extraction protocol and generated a custom reference
+ database containing Brucella strains representative of the most widespread
+ species. The reference library was then challenged with blind-coded field
+ samples isolated from infected animals. The results indicated that the
+ database could be used to correctly identify 99.5% and 97% of Brucella
+ strains at the genus and species level, respectively, indicating that the
+ performance of the assay was not affected by the different culture conditions
+ used for microbial isolation. Moreover, the inactivated samples were stored
+ and shipped to reference laboratories with no ill effect on protein
+ stability, thus confirming the reliability of our method for routine
+ diagnosis. Finally, we evaluated the epidemiological value of the protocol by
+ comparing the clustering analysis results of Brucella melitensis strains
+ obtained via multiple locus variable-number tandem repeat analysis or
+ MALDI-TOF MS. The results showed that the MALDI-TOF assay could not decipher
+ the true phylogenetic tree, suggesting that the protein profile did not
+ correspond with the genetic evolution of Brucella.",
+    mesh {
+      {
+        term "Analytic Sample Preparation Methods"
+      },
+      {
+        term "Brucella",
+        qual {
+          {
+            mp TRUE,
+            subh "classification"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          },
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Databases, Factual"
+      },
+      {
+        term "Polymerase Chain Reaction"
+      },
+      {
+        mp TRUE,
+        term "Safety"
+      },
+      {
+        term "Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Tandem Repeat Sequences",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Time Factors"
+      }
+    },
+    pmid 29870530,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

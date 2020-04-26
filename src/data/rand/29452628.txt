@@ -1,0 +1,185 @@
+
+Pubmed-entry ::= {
+  pmid 29452628,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An integrative review of peer support for patients undergoing
+ major limb amputation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Reichmann JP",
+            affil str "Marietta, Georgia, 30068. Electronic address:
+ reichmannjim@gmail.com."
+          },
+          {
+            name ml "Bartman KR",
+            affil str "Lehigh Valley Health Network, LV Amputee Support Group,
+ 4K Medical Surgical Unit, Allentown, Pennsylvania, 18105-1556."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Vasc Nurs",
+          ml-jta "J Vasc Nurs",
+          issn "1532-6578",
+          name "Journal of vascular nursing : official publication of the
+ Society for Peripheral Vascular Nursing"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "36",
+          issue "1",
+          pages "34-39",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 11
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 10,
+                day 20
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 21
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29452628,
+        pii "S1062-0303(17)30117-6",
+        doi "10.1016/j.jvn.2017.10.002",
+        other {
+          db "ELocationID pii",
+          tag str "S1062-0303(17)30117-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jvn.2017.10.002"
+        }
+      }
+    },
+    abstract "Medical literature is replete with evidence regarding physical
+ rehabilitation of the amputee; however, scant attention has been paid to
+ psychological rehabilitation. The objective was to perform an integrative
+ review of the published medical evidence regarding amputee peer support in
+ the civilian population and provide an evidence-based clinical practice
+ recommendation. This study was based on an exhaustive examination of the
+ civilian amputee peer support medical evidence, bibliographic search, and on
+ the experience of the authors when performing this integrative review. Our
+ search uncovered 10 published peer-reviewed pieces of medical evidence
+ including one level III retrospective case controlled trial, two level IV
+ case series, and seven level V expert opinions. Given the totality of the
+ published evidence, albeit limited, in favor of amputee peer support, an
+ abundance of unpublished anecdotal evidence, virtually no potential risk of
+ harm, and low cost, it seems reasonable to recommend incorporating a
+ preoperative and/or postoperative peer visit in clinical protocols for all
+ patients incurring a major limb amputation.",
+    mesh {
+      {
+        term "Amputation",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Amputees",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          },
+          {
+            subh "rehabilitation"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Peer Group"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        mp TRUE,
+        term "Social Support"
+      }
+    },
+    pmid 29452628,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

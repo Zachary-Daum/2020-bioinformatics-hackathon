@@ -1,0 +1,164 @@
+
+Pubmed-entry ::= {
+  pmid 29572466,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Adaptive nodes enrich nonlinear cooperative learning beyond
+ traditional adaptation by links."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sardi S",
+            affil str "Department of Physics, Bar-Ilan University, Ramat-Gan,
+ 52900, Israel."
+          },
+          {
+            name ml "Vardi R",
+            affil str "Department of Physics, Bar-Ilan University, Ramat-Gan,
+ 52900, Israel.; Gonda Interdisciplinary Brain Research Center and the Goodman
+ Faculty of Life Sciences, Bar-Ilan University, Ramat-Gan, 52900, Israel."
+          },
+          {
+            name ml "Goldental A",
+            affil str "Department of Physics, Bar-Ilan University, Ramat-Gan,
+ 52900, Israel."
+          },
+          {
+            name ml "Sheinin A",
+            affil str "Sagol School of Neuroscience, Tel Aviv University, Tel
+ Aviv, Israel."
+          },
+          {
+            name ml "Uzan H",
+            affil str "Department of Physics, Bar-Ilan University, Ramat-Gan,
+ 52900, Israel."
+          },
+          {
+            name ml "Kanter I",
+            affil str "Department of Physics, Bar-Ilan University, Ramat-Gan,
+ 52900, Israel. ido.kanter@biu.ac.il.; Gonda Interdisciplinary Brain Research
+ Center and the Goodman Faculty of Life Sciences, Bar-Ilan University,
+ Ramat-Gan, 52900, Israel. ido.kanter@biu.ac.il."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 23
+          },
+          volume "8",
+          issue "1",
+          pages "5100",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 6
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 14
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 25,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29572466,
+        doi "10.1038/s41598-018-23471-7",
+        pii "10.1038/s41598-018-23471-7",
+        other {
+          db "pmc",
+          tag str "PMC5865176"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-23471-7"
+        }
+      }
+    },
+    abstract "Physical models typically assume time-independent interactions,
+ whereas neural networks and machine learning incorporate interactions that
+ function as adjustable parameters. Here we demonstrate a new type of abundant
+ cooperative nonlinear dynamics where learning is attributed solely to the
+ nodes, instead of the network links which their number is significantly
+ larger. The nodal, neuronal, fast adaptation follows its relative anisotropic
+ (dendritic) input timings, as indicated experimentally, similarly to the slow
+ learning mechanism currently attributed to the links, synapses. It represents
+ a non-local learning rule, where effectively many incoming links to a node
+ concurrently undergo the same adaptation. The network dynamics is now
+ counterintuitively governed by the weak links, which previously were assumed
+ to be insignificant. This cooperative nonlinear dynamic adaptation presents a
+ self-controlled mechanism to prevent divergence or vanishing of the learning
+ parameters, as opposed to learning by links, and also supports
+ self-oscillations of the effective learning parameters. It hints on a
+ hierarchical computational complexity of nodes, following their number of
+ anisotropic inputs and opens new horizons for advanced deep learning
+ algorithms and artificial intelligence based applications, as well as a new
+ mechanism for enhanced and fast learning by neural networks.",
+    pmid 29572466,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

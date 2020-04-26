@@ -1,0 +1,372 @@
+
+Pubmed-entry ::= {
+  pmid 29740000,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ameliorative potential of desalted Salicornia europaea L.
+ extract in multifaceted Alzheimer's-like scopolamine-induced amnesic mice
+ model."
+      },
+      authors {
+        names std {
+          {
+            name ml "Karthivashan G",
+            affil str "Department of Biotechnology, College of Biomedical and
+ Health Science, Research Institute of Inflammatory Diseases Konkuk
+ University, Chungju, 27478, Republic of Korea."
+          },
+          {
+            name ml "Park SY",
+            affil str "Department of Applied Life Science, Graduate school of
+ Konkuk University, Chungju, 27478, Republic of Korea."
+          },
+          {
+            name ml "Kweon MH",
+            affil str "Research center, Phyto corporation, Seoul, 08826,
+ Republic of Korea."
+          },
+          {
+            name ml "Kim J",
+            affil str "Department of Applied Life Science, Graduate school of
+ Konkuk University, Chungju, 27478, Republic of Korea."
+          },
+          {
+            name ml "Haque ME",
+            affil str "Department of Applied Life Science, Graduate school of
+ Konkuk University, Chungju, 27478, Republic of Korea."
+          },
+          {
+            name ml "Cho DY",
+            affil str "Department of Applied Life Science, Graduate school of
+ Konkuk University, Chungju, 27478, Republic of Korea."
+          },
+          {
+            name ml "Kim IS",
+            affil str "Department of Biotechnology, College of Biomedical and
+ Health Science, Research Institute of Inflammatory Diseases Konkuk
+ University, Chungju, 27478, Republic of Korea."
+          },
+          {
+            name ml "Cho EA",
+            affil str "Research center, Phyto corporation, Seoul, 08826,
+ Republic of Korea."
+          },
+          {
+            name ml "Ganesan P",
+            affil str "Department of Biotechnology, College of Biomedical and
+ Health Science, Research Institute of Inflammatory Diseases Konkuk
+ University, Chungju, 27478, Republic of Korea.; Nanotechnology research
+ center College of Biomedical and Health Science, Konkuk University, Chungju,
+ 27478, Republic of Korea."
+          },
+          {
+            name ml "Choi DK",
+            affil str "Department of Biotechnology, College of Biomedical and
+ Health Science, Research Institute of Inflammatory Diseases Konkuk
+ University, Chungju, 27478, Republic of Korea. choidk@kku.ac.kr.; Department
+ of Applied Life Science, Graduate school of Konkuk University, Chungju,
+ 27478, Republic of Korea. choidk@kku.ac.kr."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 8
+          },
+          volume "8",
+          issue "1",
+          pages "7174",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 16
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29740000,
+        doi "10.1038/s41598-018-25381-0",
+        pii "10.1038/s41598-018-25381-0",
+        other {
+          db "pmc",
+          tag str "PMC5940894"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-25381-0"
+        }
+      }
+    },
+    abstract "The Salicornia europaea L. (SE) plant is a halophyte that has
+ been widely consumed as a seasoned vegetable, and it has been recently
+ reported to counteract chronic diseases related to oxidative and inflammatory
+ stress. In this study, we performed an initial phytochemical analysis with in
+ vitro biochemical tests and chromatographic profiling of desalted and
+ enzyme-digested SE ethanol extract (SE-EE). Subsequently, we evaluated the
+ anti-neuroinflammatory and ameliorative potential of SE-EE in LPS-inflicted
+ BV-2 microglial cells and scopolamine-induced amnesic C57/BL6N mice,
+ respectively. SE-EE possess considerable polyphenols and flavonoids that are
+ supposedly responsible to improve its bio-efficacy. SE-EE dose-dependently
+ attenuated LPS-induced inflammation in BV-2 cells, significantly repressed
+ behavioural/cognitive impairment, dose-dependently regulated the cholinergic
+ function, suppressed oxidative stress markers, regulated inflammatory
+ cytokines/associated proteins expression and effectively ameliorated
+ p-CREB/BDNF levels, neurogenesis (DCX stain), neuron proliferation (Ki67
+ stain) in scopolamine-administered mice. Thus, SE-EE extract shows promising
+ multifactorial disease modifying activities and can be further developed as
+ an effective functional food, drug candidate, or supplemental therapy to
+ treat neuroinflammatory mediated disorders.",
+    mesh {
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Amnesia",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Brain-Derived Neurotrophic Factor",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chenopodiaceae",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cyclic AMP Response Element-Binding Protein",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Disease Models, Animal"
+      },
+      {
+        term "Gene Expression Regulation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "chemically induced"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Maze Learning",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Microglia",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Oxidative Stress",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Plant Extracts",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Scopolamine",
+        qual {
+          {
+            subh "toxicity"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Brain-Derived Neurotrophic Factor"
+      },
+      {
+        type nameonly,
+        name "Cyclic AMP Response Element-Binding Protein"
+      },
+      {
+        type nameonly,
+        name "Plant Extracts"
+      },
+      {
+        type cas,
+        cit "DL48G20X8X",
+        name "Scopolamine"
+      }
+    },
+    pmid 29740000,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

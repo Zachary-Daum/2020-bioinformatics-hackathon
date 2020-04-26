@@ -1,0 +1,141 @@
+
+Pubmed-entry ::= {
+  pmid 29749769,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Taking a proactive approach."
+      },
+      authors {
+        names std {
+          {
+            name ml "Smith J",
+            affil str "Consultant Editor, British Journal of Nursing."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Br J Nurs",
+          ml-jta "Br J Nurs",
+          issn "0966-0461",
+          name "British journal of nursing (Mark Allen Publishing)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 10
+          },
+          volume "27",
+          issue "9",
+          pages "S3",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29749769,
+        doi "10.12968/bjon.2018.27.9.S3",
+        other {
+          db "ELocationID doi",
+          tag str "10.12968/bjon.2018.27.9.S3"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Attitude of Health Personnel"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Nephrology Nursing",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Nursing Care",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Nursing Staff, Hospital",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      }
+    },
+    pmid 29749769,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

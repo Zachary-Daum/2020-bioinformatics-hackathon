@@ -1,0 +1,168 @@
+
+Pubmed-entry ::= {
+  pmid 29564834,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Experimental Induction of Genome Chaos."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ye CJ",
+            affil str "The Division of Hematology/Oncology, Department of
+ Internal Medicine, University of Michigan, Ann Arbor, MI, USA."
+          },
+          {
+            name ml "Liu G",
+            affil str "Center for Molecular Medicine and Genomics, Wayne State
+ University School of Medicine, Detroit, MI, USA."
+          },
+          {
+            name ml "Heng HH",
+            affil str "Center for Molecular Medicine and Genomics, Wayne State
+ University School of Medicine, Detroit, MI, USA. hheng@med.wayne.edu.;
+ Department of Pathology, Wayne State University School of Medicine, Detroit,
+ MI, USA. hheng@med.wayne.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Methods Mol. Biol.",
+          ml-jta "Methods Mol Biol",
+          issn "1940-6029",
+          name "Methods in molecular biology (Clifton, N.J.)"
+        },
+        imp {
+          date std {
+            year 2018
+          },
+          volume "1769",
+          pages "337-352",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29564834,
+        doi "10.1007/978-1-4939-7780-2_21",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/978-1-4939-7780-2_21"
+        }
+      }
+    },
+    abstract "Genome chaos, or karyotype chaos, represents a powerful survival
+ strategy for somatic cells under high levels of stress/selection. Since the
+ genome context, not the gene content, encodes the genomic blueprint of the
+ cell, stress-induced rapid and massive reorganization of genome topology
+ functions as a very important mechanism for genome (karyotype) evolution. In
+ recent years, the phenomenon of genome chaos has been confirmed by various
+ sequencing efforts, and many different terms have been coined to describe
+ different subtypes of the chaotic genome including ""chromothripsis,"" ""chro
+moplexy,"" and ""structural mutations."" To advance this exciting field, we
+ need an effective experimental system to induce and characterize the
+ karyotype reorganization process. In this chapter, an experimental protocol
+ to induce chaotic genomes is described, following a brief discussion of the
+ mechanism and implication of genome chaos in cancer evolution.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Survival",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Chromothripsis"
+      },
+      {
+        mp TRUE,
+        term "Genome"
+      },
+      {
+        term "Genomic Instability"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Karyotyping"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Neoplasms",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Nucleic Acid Hybridization"
+      },
+      {
+        mp TRUE,
+        term "Stress, Physiological"
+      }
+    },
+    pmid 29564834,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

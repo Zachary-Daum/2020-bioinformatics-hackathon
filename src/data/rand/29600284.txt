@@ -1,0 +1,347 @@
+
+Pubmed-entry ::= {
+  pmid 29600284,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Assembly, Biochemical Characterization, Immunogenicity,
+ Adjuvanticity, and Efficacy of Shigella Artificial Invaplex."
+      },
+      authors {
+        names std {
+          {
+            name ml "Turbyfill KR",
+            affil str "Subunit Enteric Vaccines and Immunology, Department of
+ Enteric Infections, Bacterial Diseases Branch, Walter Reed Army Institute of
+ Research, Silver Spring, Maryland, USA."
+          },
+          {
+            name ml "Clarkson KA",
+            affil str "Subunit Enteric Vaccines and Immunology, Department of
+ Enteric Infections, Bacterial Diseases Branch, Walter Reed Army Institute of
+ Research, Silver Spring, Maryland, USA."
+          },
+          {
+            name ml "Vortherms AR",
+            affil str "Subunit Enteric Vaccines and Immunology, Department of
+ Enteric Infections, Bacterial Diseases Branch, Walter Reed Army Institute of
+ Research, Silver Spring, Maryland, USA."
+          },
+          {
+            name ml "Oaks EV",
+            affil str "Subunit Enteric Vaccines and Immunology, Department of
+ Enteric Infections, Bacterial Diseases Branch, Walter Reed Army Institute of
+ Research, Silver Spring, Maryland, USA."
+          },
+          {
+            name ml "Kaminski RW",
+            affil str "Subunit Enteric Vaccines and Immunology, Department of
+ Enteric Infections, Bacterial Diseases Branch, Walter Reed Army Institute of
+ Research, Silver Spring, Maryland, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "mSphere",
+          ml-jta "mSphere",
+          issn "2379-5042",
+          name "mSphere"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 28
+          },
+          volume "3",
+          issue "2",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 2
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29600284,
+        doi "10.1128/mSphere.00583-17",
+        pii "mSphere00583-17",
+        other {
+          db "pmc",
+          tag str "PMC5874444"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "e00583-17"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1128/mSphere.00583-17"
+        }
+      }
+    },
+    abstract "The native Invaplex (InvaplexNAT) vaccine and adjuvant is an ion
+ exchange-purified product derived from the water extract of virulent Shigella
+ species. The key component of InvaplexNAT is a high-molecular-mass complex
+ (HMMC) consisting of the Shigella lipopolysaccharide (LPS) and the invasin
+ proteins IpaB and IpaC. To improve product purity and immunogenicity,
+ artificial Invaplex (InvaplexAR) was developed using recombinant IpaB and
+ IpaC proteins and purified Shigella LPS to assemble an HMMC consisting of all
+ three components. Characterization of InvaplexAR by various methods
+ demonstrated similar characteristics as the previously reported HMMC in
+ InvaplexNAT. The well-defined InvaplexAR vaccine consistently contained
+ greater quantities of IpaB, IpaC, and LPS than InvaplexNAT. InvaplexAR and
+ InvaplexNAT immunogenicities were compared in mouse and guinea pig dose
+ escalation studies. In both models, immunization induced antibody responses
+ specific for InvaplexNAT and LPS while InvaplexAR induced markedly higher
+ anti-IpaB and -IpaC serum IgG and IgA endpoint titers. In the murine model,
+ homologous protection was achieved with 10-fold less InvaplexAR than
+ InvaplexNAT and mice receiving InvaplexAR lost significantly less weight than
+ mice receiving the same amount of InvaplexNAT. Moreover, mice immunized with
+ InvaplexAR were protected from challenge with both homologous and
+ heterologous Shigella serotypes. Guinea pigs receiving approximately 5-fold
+ less InvaplexAR compared to cohorts immunized with InvaplexNAT were protected
+ from ocular challenge. Furthermore, adjuvanticity previously attributed to
+ InvaplexNAT was retained with InvaplexAR. The second-generation Shigella
+ Invaplex vaccine, InvaplexAR, offers significant advantages over InvaplexNAT
+ in reproducibility, flexible yet defined composition, immunogenicity, and
+ protective efficacy. IMPORTANCEShigella species are bacteria that cause
+ severe diarrheal disease worldwide, primarily in young children. Treatment of
+ shigellosis includes oral fluids and antibiotics, but the high burden of
+ disease, increasing prevalence of antibiotic resistance, and long-term health
+ consequences clearly warrant the development of an effective vaccine. One
+ Shigella vaccine under development is termed the invasin complex or Invaplex
+ and is designed to drive an immune response to specific antigens of the
+ bacteria in an effort to protect an individual from infection. The work
+ presented here describes the production and evaluation of a new generation of
+ Invaplex. The improved vaccine stimulates the production of antibodies in
+ immunized mice and guinea pigs and protects these animals from Shigella
+ infection. The next step in the product's development will be to test the
+ safety and immune response induced in humans immunized with Invaplex.",
+    mesh {
+      {
+        term "Adjuvants, Immunologic",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Administration, Intranasal"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Antibodies, Bacterial",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Antigens, Bacterial",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Bacterial Proteins",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Dysentery, Bacillary",
+        qual {
+          {
+            subh "immunology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Guinea Pigs"
+      },
+      {
+        term "Immunization"
+      },
+      {
+        mp TRUE,
+        term "Immunogenicity, Vaccine"
+      },
+      {
+        term "Immunoglobulin A",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Immunoglobulin G",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Lipopolysaccharides",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred BALB C"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        term "Shigella",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Shigella Vaccines",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Adjuvants, Immunologic"
+      },
+      {
+        type nameonly,
+        name "Antibodies, Bacterial"
+      },
+      {
+        type nameonly,
+        name "Antigens, Bacterial"
+      },
+      {
+        type nameonly,
+        name "Bacterial Proteins"
+      },
+      {
+        type nameonly,
+        name "Immunoglobulin A"
+      },
+      {
+        type nameonly,
+        name "Immunoglobulin G"
+      },
+      {
+        type nameonly,
+        name "Lipopolysaccharides"
+      },
+      {
+        type nameonly,
+        name "Shigella Vaccines"
+      },
+      {
+        type cas,
+        cit "127384-62-7",
+        name "ipaB protein, Shigella"
+      },
+      {
+        type cas,
+        cit "127384-63-8",
+        name "IpaC protein, Shigella"
+      }
+    },
+    pmid 29600284,
+    pub-type {
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

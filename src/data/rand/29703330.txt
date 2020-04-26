@@ -1,0 +1,325 @@
+
+Pubmed-entry ::= {
+  pmid 29703330,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 29,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Screening and analysis of key active constituents in
+ Guanxinshutong capsule using mass spectrum and integrative network
+ pharmacology."
+      },
+      authors {
+        names std {
+          {
+            name ml "Liu F",
+            affil str "School of Pharmacy, Health Science Center, Xi'an
+ Jiaotong University, Xi'an 710061, China; Shaanxi Institute of International
+ Trade & Commence, Xianyang 712046, China; Shaanxi Buchang Pharmaceutical Co.
+ Ltd, Xi'an 710075, China."
+          },
+          {
+            name ml "DU X",
+            affil str "Shannxi Academy of Traditionnal Chinese Medicine, Xi'an
+ 710003, China."
+          },
+          {
+            name ml "Liu PR",
+            affil str "School of Life Sciences, Northwest University, Xi'an
+ 710069, China."
+          },
+          {
+            name ml "Sun YH",
+            affil str "Shaanxi Institute of International Trade & Commence,
+ Xianyang 712046, China."
+          },
+          {
+            name ml "Zhang YM",
+            affil str "School of Pharmacy, Health Science Center, Xi'an
+ Jiaotong University, Xi'an 710061, China. Electronic address:
+ zhang2008@mail.xjtu.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chin J Nat Med",
+          ml-jta "Chin J Nat Med",
+          issn "1875-5364",
+          name "Chinese journal of natural medicines"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "16",
+          issue "4",
+          pages "302-312",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 16
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 29,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29703330,
+        pii "S1875-5364(18)30060-8",
+        doi "10.1016/S1875-5364(18)30060-8",
+        other {
+          db "ELocationID pii",
+          tag str "S1875-5364(18)30060-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/S1875-5364(18)30060-8"
+        }
+      }
+    },
+    abstract "Guanxinshutong capsule (GXSTC) is an effective and safe
+ traditional Chinese medicine used in the treatment of cardiovascular diseases
+ (CVDs) for many years. However, the targets of this herbal formula and the
+ underlying molecular mechanisms of action involved in the treatment of CVDs
+ are still unclear. In the present study, we used a systems pharmacology
+ approach to identify the active ingredients of GXSTC and their corresponding
+ targets in the calcium signaling pathway with respect to the treatment of
+ CVDs. This method integrated chromatographic techniques, prediction of
+ absorption, distribution, metabolism, and excretion, analysis using Kyoto
+ Encyclopedia of Genes and Genomes, network construction, and pharmacological
+ experiments. 12 active compounds and 33 targets were found to have a role in
+ the treatment of CVDs, and four main active ingredients, including
+ protocatechuic acid, cryptotanshinone, eugenol, and borneol were selected to
+ verify the effect of (GXSTC) on calcium signaling system in cardiomyocyte
+ injury induced by hypoxia and reoxygenation. The results from the present
+ study revealed the active components and targets of GXSTC in the treatment of
+ CVDs, providing a new perspective to enhance the understanding of the role of
+ the calcium signaling pathway in the therapeutic effect of GXSTC.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Animals, Newborn"
+      },
+      {
+        term "Camphanes",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Cardiotonic Agents",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Drugs, Chinese Herbal",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Eugenol",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Gene Expression",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Hydroxybenzoates",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Mass Spectrometry"
+      },
+      {
+        term "Models, Biological"
+      },
+      {
+        term "Myocytes, Cardiac",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide Synthase Type III",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Phenanthrenes",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Receptor, PAR-1",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Systems Biology"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Camphanes"
+      },
+      {
+        type nameonly,
+        name "Cardiotonic Agents"
+      },
+      {
+        type nameonly,
+        name "Drugs, Chinese Herbal"
+      },
+      {
+        type nameonly,
+        name "Hydroxybenzoates"
+      },
+      {
+        type nameonly,
+        name "Phenanthrenes"
+      },
+      {
+        type nameonly,
+        name "Receptor, PAR-1"
+      },
+      {
+        type nameonly,
+        name "guanxin shutong"
+      },
+      {
+        type cas,
+        cit "36R5QJ8L4B",
+        name "protocatechuic acid"
+      },
+      {
+        type cas,
+        cit "3T8H1794QW",
+        name "Eugenol"
+      },
+      {
+        type cas,
+        cit "5E9SXT166N",
+        name "cryptotanshinone"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "NOS3 protein, human"
+      },
+      {
+        type ec,
+        cit "1.14.13.39",
+        name "Nitric Oxide Synthase Type III"
+      },
+      {
+        type cas,
+        cit "L88RA8N5EG",
+        name "isoborneol"
+      }
+    },
+    pmid 29703330,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

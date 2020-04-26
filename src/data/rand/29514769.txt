@@ -1,0 +1,218 @@
+
+Pubmed-entry ::= {
+  pmid 29514769,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Genetic portrait of 27 Y-STR loci in the Tibetan ethnic
+ population of the Qinghai province of China."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cao S",
+            affil str "Department of Forensic Genetics, West China School of
+ Basic Sciences and Forensic Medicine, Sichuan University, Chengdu 610041,
+ Sichuan, China."
+          },
+          {
+            name ml "Bai P",
+            affil str "Department of Forensic Genetics, West China School of
+ Basic Sciences and Forensic Medicine, Sichuan University, Chengdu 610041,
+ Sichuan, China."
+          },
+          {
+            name ml "Zhu W",
+            affil str "Department of Forensic Genetics, West China School of
+ Basic Sciences and Forensic Medicine, Sichuan University, Chengdu 610041,
+ Sichuan, China."
+          },
+          {
+            name ml "Chen D",
+            affil str "Department of Forensic Genetics, Institute of Forensic
+ Science, Chengdu Public Security Bureau, Chengdu 610081, Sichuan, China."
+          },
+          {
+            name ml "Wang H",
+            affil str "Department of Forensic Genetics, Institute of Forensic
+ Science, Chengdu Public Security Bureau, Chengdu 610081, Sichuan, China."
+          },
+          {
+            name ml "Jin B",
+            affil str "Department of Forensic Medicine, North Sichuan Medical
+ College, Nanchong 637000, Sichuan, China."
+          },
+          {
+            name ml "Zhang L",
+            affil str "Department of Forensic Genetics, West China School of
+ Basic Sciences and Forensic Medicine, Sichuan University, Chengdu 610041,
+ Sichuan, China. Electronic address: zhanglin@scu.edu.cn."
+          },
+          {
+            name ml "Liang W",
+            affil str "Department of Forensic Genetics, West China School of
+ Basic Sciences and Forensic Medicine, Sichuan University, Chengdu 610041,
+ Sichuan, China. Electronic address: liangweibo@scu.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Forensic Sci Int Genet",
+          ml-jta "Forensic Sci Int Genet",
+          issn "1878-0326",
+          name "Forensic science international. Genetics"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "34",
+          pages "e18-e19",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29514769,
+        pii "S1872-4973(18)30075-9",
+        doi "10.1016/j.fsigen.2018.02.005",
+        other {
+          db "ELocationID pii",
+          tag str "S1872-4973(18)30075-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.fsigen.2018.02.005"
+        }
+      }
+    },
+    mesh {
+      {
+        term "China"
+      },
+      {
+        mp TRUE,
+        term "Chromosomes, Human, Y"
+      },
+      {
+        term "DNA Fingerprinting"
+      },
+      {
+        term "Ethnic Groups",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Gene Frequency"
+      },
+      {
+        term "Genetic Variation"
+      },
+      {
+        mp TRUE,
+        term "Genetics, Population"
+      },
+      {
+        term "Haplotypes"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Microsatellite Repeats"
+      },
+      {
+        term "Polymerase Chain Reaction"
+      },
+      {
+        term "Tibet",
+        qual {
+          {
+            subh "ethnology"
+          }
+        }
+      }
+    },
+    pmid 29514769,
+    pub-type {
+      "Letter",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,206 @@
+
+Pubmed-entry ::= {
+  pmid 29680180,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Nomograms are key decision-making tools in prostate cancer
+ radiation therapy."
+      },
+      authors {
+        names std {
+          {
+            name ml "Caulfield S",
+            affil str "Trinity College Dublin, Applied Radiation Therapy
+ Trinity Research Group, Discipline of Radiation Therapy, School of Medicine,
+ Dublin, Ireland."
+          },
+          {
+            name ml "Menezes G",
+            affil str "Trinity College Dublin, Applied Radiation Therapy
+ Trinity Research Group, Discipline of Radiation Therapy, School of Medicine,
+ Dublin, Ireland."
+          },
+          {
+            name ml "Marignol L",
+            affil str "Trinity College Dublin, Applied Radiation Therapy
+ Trinity Research Group, Discipline of Radiation Therapy, School of Medicine,
+ Dublin, Ireland."
+          },
+          {
+            name ml "Poole C",
+            affil str "Trinity College Dublin, Applied Radiation Therapy
+ Trinity Research Group, Discipline of Radiation Therapy, School of Medicine,
+ Dublin, Ireland. Electronic address: poolec@tcd.ie."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Urol. Oncol.",
+          ml-jta "Urol Oncol",
+          issn "1873-2496",
+          name "Urologic oncology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "36",
+          issue "6",
+          pages "283-292",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 22
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 11,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29680180,
+        pii "S1078-1439(18)30102-9",
+        doi "10.1016/j.urolonc.2018.03.017",
+        other {
+          db "ELocationID pii",
+          tag str "S1078-1439(18)30102-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.urolonc.2018.03.017"
+        }
+      }
+    },
+    abstract "BACKGROUND: The use of nomograms for predicting clinical
+ endpoints has been well documented. Nomograms provide an individualized
+ prognosis and help clinicians determine the effectiveness of treatment for a
+ given patient. Early identification of potential treatment failure or
+ toxicity allows alternative approaches to be considered, reducing unnecessary
+ treatment, morbidity, and cost. This review aims to evaluate clinical
+ potential of nomogram use for the management of prostate cancer radiotherapy
+ patients. METHODS: PubMed, Embase, and Scopus were searched for literature
+ published between 2006 and 2016. The reported correlation between measured
+ and nomogram-predicted probabilities of biochemical control, disease
+ progression, survival and toxicity was reviewed, through an analysis of
+ concordance indexes and areas under the curves. RESULTS: Sixteen studies were
+ reviewed. Outcomes predicted by the nomogram were very close to outcomes
+ measured (concordance index of 0.7 and above) in the majority. But a
+ combination of under and overestimation of outcome was also reported. The
+ predictive accuracy of nomograms was very variable, however, most nomograms
+ had accuracy greater than chance, indicated by a concordance index higher
+ than 0.5. CONCLUSION: Nomograms can be used as prognostic guides to aid
+ clinical decision-making for prostate cancer patients until further research
+ addresses the limitations presented in this review. Strict definitions of end
+ points should be added to future models and perhaps models could be enhanced
+ with the incorporation of genomic variables or tumor specific parameters.",
+    mesh {
+      {
+        mp TRUE,
+        term "Decision Making"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Nomograms"
+      },
+      {
+        term "Prostatic Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "radiotherapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Radiotherapy"
+      },
+      {
+        term "Radiotherapy Planning, Computer-Assisted",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Risk Assessment"
+      }
+    },
+    pmid 29680180,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

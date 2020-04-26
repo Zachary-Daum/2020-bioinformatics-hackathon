@@ -1,0 +1,140 @@
+
+Pubmed-entry ::= {
+  pmid 29485666,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        trans "Psykisk ohalsa bland unga - forstarkt elevhalsoteam kravs."
+      },
+      authors {
+        names std {
+          {
+            name ml "Westerlund J",
+            affil str "Psykologiska Institutionen, Stockholms universitet -
+ Stockholm, Sweden Psykologiska Institutionen, Stockholms universitet -
+ Stockholm, Sweden."
+          },
+          {
+            name ml "Amren K"
+          },
+          {
+            name ml "Gillberg C",
+            affil str "Institute of Neuroscience and Physiology - Gillberg
+ Neuropsychiatry Centre Gothenburg, Sweden Institute of Neuroscience and
+ Physiology - Gillberg Neuropsychiatry Centre Gothenburg, Sweden."
+          },
+          {
+            name ml "Fernell E",
+            affil str "Neurovetenskap och fysiologi - Gillbergcentrum
+ Gothenburg, Sweden Neurovetenskap och fysiologi - Gillbergcentrum Gothenburg,
+ Sweden."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lakartidningen",
+          ml-jta "Lakartidningen",
+          issn "1652-7518",
+          name "Lakartidningen"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 20
+          },
+          volume "115",
+          language "swe",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29485666,
+        pii "E3FC",
+        other {
+          db "ELocationID pii",
+          tag str "E3FC"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mental Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Patient Care Team"
+      },
+      {
+        term "School Health Services",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      }
+    },
+    pmid 29485666,
+    pub-type {
+      "Letter"
+    },
+    status medline
+  }
+}
+
+

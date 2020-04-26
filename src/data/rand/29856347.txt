@@ -1,0 +1,177 @@
+
+Pubmed-entry ::= {
+  pmid 29856347,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Use of co-primary outcomes for trials of antimicrobial
+ stewardship interventions."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gillespie D",
+            affil str "Centre for Trials Research, College of Biomedical and
+ Life Sciences, Cardiff University, Cardiff, UK. Electronic address:
+ gillespied1@cardiff.ac.uk."
+          },
+          {
+            name ml "Francis NA",
+            affil str "Division of Population Medicine, School of Medicine,
+ College of Biomedical and Life Sciences, Cardiff University, Cardiff, UK."
+          },
+          {
+            name ml "Carrol ED",
+            affil str "University of Liverpool Institute of Infection and
+ Global Health, Liverpool, UK."
+          },
+          {
+            name ml "Thomas-Jones E",
+            affil str "Centre for Trials Research, College of Biomedical and
+ Life Sciences, Cardiff University, Cardiff, UK."
+          },
+          {
+            name ml "Butler CC",
+            affil str "Nuffield Department of Primary Care Health Sciences,
+ University of Oxford, Oxford, UK."
+          },
+          {
+            name ml "Hood K",
+            affil str "Centre for Trials Research, College of Biomedical and
+ Life Sciences, Cardiff University, Cardiff, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lancet Infect Dis",
+          ml-jta "Lancet Infect Dis",
+          issn "1474-4457",
+          name "The Lancet. Infectious diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "18",
+          issue "6",
+          pages "595-597",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 3
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 27
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29856347,
+        pii "S1473-3099(18)30289-5",
+        doi "10.1016/S1473-3099(18)30289-5",
+        other {
+          db "ELocationID pii",
+          tag str "S1473-3099(18)30289-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/S1473-3099(18)30289-5"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Anti-Infective Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Antimicrobial Stewardship"
+      },
+      {
+        mp TRUE,
+        term "Drug Resistance, Bacterial"
+      },
+      {
+        term "Drug Utilization"
+      },
+      {
+        term "Humans"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Infective Agents"
+      }
+    },
+    pmid 29856347,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

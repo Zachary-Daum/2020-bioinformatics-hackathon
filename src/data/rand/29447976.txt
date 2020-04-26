@@ -1,0 +1,319 @@
+
+Pubmed-entry ::= {
+  pmid 29447976,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Identification of a novel host protein SINAL10 interacting with
+ GP64 and its role in Bombyx mori nucleopolyhedrovirus infection."
+      },
+      authors {
+        names std {
+          {
+            name ml "Feng M",
+            affil str "College of Animal Sciences, Zhejiang University,
+ Hangzhou, 310058, China."
+          },
+          {
+            name ml "Kong X",
+            affil str "College of Animal Sciences, Zhejiang University,
+ Hangzhou, 310058, China."
+          },
+          {
+            name ml "Zhang J",
+            affil str "College of Animal Sciences, Zhejiang University,
+ Hangzhou, 310058, China."
+          },
+          {
+            name ml "Xu W",
+            affil str "College of Animal Sciences, Zhejiang University,
+ Hangzhou, 310058, China."
+          },
+          {
+            name ml "Wu X",
+            affil str "College of Animal Sciences, Zhejiang University,
+ Hangzhou, 310058, China. Electronic address: wuxiaofeng@zju.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Virus Res.",
+          ml-jta "Virus Res",
+          issn "1872-7492",
+          name "Virus research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 2
+          },
+          volume "247",
+          pages "102-110",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 8
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 2,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29447976,
+        pii "S0168-1702(17)30903-6",
+        doi "10.1016/j.virusres.2018.02.005",
+        other {
+          db "ELocationID pii",
+          tag str "S0168-1702(17)30903-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.virusres.2018.02.005"
+        }
+      }
+    },
+    abstract "Bombyx mori nucleopolyhedrovirus (BmNPV) is the most important
+ pathogen of Bombyx mori, silkworm and causes severe losses in the silk
+ industry. During the virus infectious cycle, budded virus (BVs) and
+ occlusion-derived virus (ODVs) particles, which have identical genetic
+ content but different phenotypes, are produced. The envelope glycoprotein
+ GP64, specific in BVs, is involved in host cell receptor binding and is
+ sufficient to mediate membrane fusion during the viral entry. However, the
+ host cell factors, interacting with GP64 to mediate BVs infection, are still
+ unknown. In this study, a cDNA library of Bombyx mori cells (BmN) was
+ constructed and yeast two-hybrid screening was used to identify the host cell
+ factors interacting with GP64. One of the eight candidate proteins encoded
+ the E3 ubiquitin-protein ligase SINA-like 10 (SINAL10), was further confirmed
+ through coimmunoprecipitation assays as novel GP64 binding protein. Moreover,
+ overexpression of SINAL10 significantly enhances viral reproduction, and
+ conversely, silencing its expression by small interfering RNAs showed
+ significant inhibitory effects. Collectively, we demonstrated that SINAL10 is
+ a novel GP64-binding protein that stimulates BmNPV proliferation.",
+    mesh {
+      {
+        term "Amino Acid Sequence"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Bombyx",
+        qual {
+          {
+            subh "classification"
+          },
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          },
+          {
+            mp TRUE,
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Gene Library"
+      },
+      {
+        term "Host-Pathogen Interactions",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Insect Proteins",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Nucleopolyhedroviruses",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "growth & development"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phylogeny"
+      },
+      {
+        term "Protein Binding"
+      },
+      {
+        term "RNA, Small Interfering",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Sequence Alignment"
+      },
+      {
+        term "Sequence Homology, Amino Acid"
+      },
+      {
+        term "Two-Hybrid System Techniques"
+      },
+      {
+        term "Ubiquitin-Protein Ligases",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Viral Envelope Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Virion",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          },
+          {
+            subh "growth & development"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Virus Internalization"
+      },
+      {
+        term "Virus Replication"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Insect Proteins"
+      },
+      {
+        type nameonly,
+        name "RNA, Small Interfering"
+      },
+      {
+        type nameonly,
+        name "Viral Envelope Proteins"
+      },
+      {
+        type ec,
+        cit "2.3.2.27",
+        name "Ubiquitin-Protein Ligases"
+      }
+    },
+    pmid 29447976,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

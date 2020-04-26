@@ -1,0 +1,212 @@
+
+Pubmed-entry ::= {
+  pmid 29701030,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Preparation of anti-hCG single domain antibody by antibody
+ grafting technique using an antigen-binding peptide]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Peng J",
+            affil str "College of Life Science and Health, Wuhan University of
+ Science and Technology, Wuhan 430065, Hubei, China."
+          },
+          {
+            name ml "Wang Q",
+            affil str "College of Life Science and Health, Wuhan University of
+ Science and Technology, Wuhan 430065, Hubei, China."
+          },
+          {
+            name ml "Cheng X",
+            affil str "College of Life Science and Health, Wuhan University of
+ Science and Technology, Wuhan 430065, Hubei, China."
+          },
+          {
+            name ml "Liu M",
+            affil str "College of Life Science and Health, Wuhan University of
+ Science and Technology, Wuhan 430065, Hubei, China."
+          },
+          {
+            name ml "Wang M",
+            affil str "College of Life Science and Health, Wuhan University of
+ Science and Technology, Wuhan 430065, Hubei, China."
+          },
+          {
+            name ml "Xin H",
+            affil str "College of Life Science and Health, Wuhan University of
+ Science and Technology, Wuhan 430065, Hubei, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sheng Wu Gong Cheng Xue Bao",
+          ml-jta "Sheng Wu Gong Cheng Xue Bao",
+          issn "1872-2075",
+          name "Sheng wu gong cheng xue bao = Chinese journal of biotechnology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 25
+          },
+          volume "34",
+          issue "4",
+          pages "569-577",
+          language "chi",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29701030,
+        doi "10.13345/j.cjb.170372",
+        other {
+          db "ELocationID doi",
+          tag str "10.13345/j.cjb.170372"
+        }
+      }
+    },
+    abstract "We used the antibody grafting technology to prepare anti-hCG
+ single-domain antibodies on the basis of antigen-binding peptide to simplify
+ the single-domain antibody preparation process and improving the biochemical
+ stability of peptide. By using a universal single-domain antibody backbone
+ (cAbBCII10), CDR1 or CDR3 was replaced by the hCG-binding peptide, and the
+ grafted antibody gene sequences were synthesized and cloned into the
+ prokaryotic expression vector pET30a(+) in fusion with a C-terminal sfGFP
+ gene, i.e. pET30a-(His6)-cAbBCII10-CDR1/hCGBP1-sfGFP and
+ pET30a-(His6)-cAbBCII10-CDR3/hCGBP3-sfGFP. The recombinant plasmids were
+ transformed into E. coli BL21(DE3), and the fusion proteins were induced by
+ IPTG. Highly soluble recombinant fusion proteins were obtained and purified
+ by Ni-NTA affinity column. SDS-PAGE confirmed the purified protein as the
+ target protein. The antigen-antibody binding assay showed that both the CDR1
+ and CDR3 grafted antibodies have hCG-binding activities. While the titers of
+ the two grafted antibodies were similar, the binding affinity of CDR3 grafted
+ antibody was higher than that of CDR1 grafted protein (about 2-3 times). The
+ grafted antibodies retained the relatively high biochemical stability of the
+ single-domain antibody backbone and were relatively thermostable and alkaline
+ tolerant. The obtained antibodies also had a relatively high antigen-binding
+ specificity to hCG. This study provided a reliable experimental basis for
+ further optimization of anti-hCG single domain antibody by antibody grafting
+ technology using antigen-binding peptide.",
+    mesh {
+      {
+        term "Antibody Specificity"
+      },
+      {
+        term "Chorionic Gonadotropin",
+        qual {
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Complementarity Determining Regions"
+      },
+      {
+        term "Escherichia coli"
+      },
+      {
+        term "Peptides",
+        qual {
+          {
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Plasmids"
+      },
+      {
+        term "Recombinant Fusion Proteins",
+        qual {
+          {
+            subh "biosynthesis"
+          }
+        }
+      },
+      {
+        term "Single-Domain Antibodies",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Chorionic Gonadotropin"
+      },
+      {
+        type nameonly,
+        name "Complementarity Determining Regions"
+      },
+      {
+        type nameonly,
+        name "Peptides"
+      },
+      {
+        type nameonly,
+        name "Recombinant Fusion Proteins"
+      },
+      {
+        type nameonly,
+        name "Single-Domain Antibodies"
+      }
+    },
+    pmid 29701030,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

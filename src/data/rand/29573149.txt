@@ -1,0 +1,276 @@
+
+Pubmed-entry ::= {
+  pmid 29573149,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Freeze-thaw approach: A practical sample preparation strategy
+ for residue analysis of multi-class veterinary drugs in chicken muscle."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang M",
+            affil str "National Reference Laboratory of Veterinary Drug
+ Residues (SCAU), College of Veterinary Medicine, South China Agricultural
+ University, Guangzhou, Guangdong, P. R. China."
+          },
+          {
+            name ml "Li E",
+            affil str "National Reference Laboratory of Veterinary Drug
+ Residues (SCAU), College of Veterinary Medicine, South China Agricultural
+ University, Guangzhou, Guangdong, P. R. China."
+          },
+          {
+            name ml "Su Y",
+            affil str "National Reference Laboratory of Veterinary Drug
+ Residues (SCAU), College of Veterinary Medicine, South China Agricultural
+ University, Guangzhou, Guangdong, P. R. China."
+          },
+          {
+            name ml "Song X",
+            affil str "National Reference Laboratory of Veterinary Drug
+ Residues (SCAU), College of Veterinary Medicine, South China Agricultural
+ University, Guangzhou, Guangdong, P. R. China."
+          },
+          {
+            name ml "Xie J",
+            affil str "National Reference Laboratory of Veterinary Drug
+ Residues (SCAU), College of Veterinary Medicine, South China Agricultural
+ University, Guangzhou, Guangdong, P. R. China."
+          },
+          {
+            name ml "Zhang Y",
+            affil str "National Reference Laboratory of Veterinary Drug
+ Residues (SCAU), College of Veterinary Medicine, South China Agricultural
+ University, Guangzhou, Guangdong, P. R. China."
+          },
+          {
+            name ml "He L",
+            affil str "National Reference Laboratory of Veterinary Drug
+ Residues (SCAU), College of Veterinary Medicine, South China Agricultural
+ University, Guangzhou, Guangdong, P. R. China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Sep Sci",
+          ml-jta "J Sep Sci",
+          issn "1615-9314",
+          name "Journal of separation science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "41",
+          issue "11",
+          pages "2461-2472",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 22
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 7
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 8
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29573149,
+        doi "10.1002/jssc.201701510",
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/jssc.201701510"
+        }
+      }
+    },
+    abstract "Seven drugs from different classes, namely, fluoroquinolones
+ (enrofloxacin, ciprofloxacin, sarafloxacin), sulfonamides (sulfadimidine,
+ sulfamonomethoxine), and macrolides (tilmicosin, tylosin), were used as test
+ compounds in chickens by oral administration, a simple extraction step after
+ cryogenic freezing might allow the effective extraction of multi-class
+ veterinary drug residues from minced chicken muscles by mix vortexing. On
+ basis of the optimized freeze-thaw approach, a convenient, selective, and
+ reproducible liquid chromatography with tandem mass spectrometry method was
+ developed. At three spiking levels in blank chicken and medicated chicken
+ muscles, average recoveries of the analytes were in the range of 71-106 and
+ 63-119%, respectively. All the relative standard deviations were <20%. The
+ limits of quantification of analytes were 0.2-5.0 ng/g. Regardless of the
+ chicken levels, there were no significant differences (P > 0.05) in the
+ average contents of almost any of the analytes in medicated chickens between
+ this method and specific methods in the literature for the determination of
+ specific analytes. Finally, the developed method was successfully extended to
+ the monitoring of residues of 55 common veterinary drugs in food animal
+ muscles.",
+    mesh {
+      {
+        term "Analytic Sample Preparation Methods",
+        qual {
+          {
+            subh "instrumentation"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Anti-Bacterial Agents",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Chickens"
+      },
+      {
+        term "Chromatography, High Pressure Liquid",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Drug Residues",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Mass Spectrometry",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Meat",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Muscles",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Veterinary Drugs",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anti-Bacterial Agents"
+      },
+      {
+        type nameonly,
+        name "Veterinary Drugs"
+      }
+    },
+    pmid 29573149,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

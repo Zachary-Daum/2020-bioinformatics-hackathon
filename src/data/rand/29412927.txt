@@ -1,0 +1,311 @@
+
+Pubmed-entry ::= {
+  pmid 29412927,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Phytochemical profile and antioxidant activity of caper berries
+ (Capparis spinosa L.): Evaluation of the influence of the fermentation
+ process."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jimenez-Lopez J",
+            affil str "Department of Physical and Analytical Chemistry,
+ Faculty of Experimental Sciences, University of Jaen, Campus Las Lagunillas,
+ E-23071 Jaen, Spain."
+          },
+          {
+            name ml "Ruiz-Medina A",
+            affil str "Department of Physical and Analytical Chemistry,
+ Faculty of Experimental Sciences, University of Jaen, Campus Las Lagunillas,
+ E-23071 Jaen, Spain."
+          },
+          {
+            name ml "Ortega-Barrales P",
+            affil str "Department of Physical and Analytical Chemistry,
+ Faculty of Experimental Sciences, University of Jaen, Campus Las Lagunillas,
+ E-23071 Jaen, Spain."
+          },
+          {
+            name ml "Llorent-Martinez EJ",
+            affil str "Department of Physical and Analytical Chemistry,
+ Faculty of Experimental Sciences, University of Jaen, Campus Las Lagunillas,
+ E-23071 Jaen, Spain. Electronic address: ellorent@ujaen.es."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Food Chem",
+          ml-jta "Food Chem",
+          issn "1873-7072",
+          name "Food chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 1
+          },
+          volume "250",
+          pages "54-59",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 6
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 12,
+                day 29
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29412927,
+        pii "S0308-8146(18)30010-4",
+        doi "10.1016/j.foodchem.2018.01.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0308-8146(18)30010-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.foodchem.2018.01.010"
+        }
+      }
+    },
+    abstract "In this work, we report the phytochemical profile and
+ antioxidant activity of caper berries (Capparis spinosa L.) before and after
+ a fermentation process. The phytochemical profiles were evaluated by
+ high-performance liquid chromatography with UV and electrospray ionization
+ mass spectrometry detection (HPLC-DAD-ESI-MS(n)). Twenty-one compounds were
+ characterized, and seven of them quantified. The main component of
+ non-fermented berries was glucocapparin, which was degraded upon the
+ fermentation process. Most of the compounds were quercetin and kaempferol
+ glycosides, epicatechin, and proanthocyanidins. The main differences observed
+ upon the fermentation process were a decrease in epicatechin concentration,
+ the hydrolysis of quercetin glycosides, and the degradation of
+ glucosinolates. Total phenolic and flavonoid contents, as well as the
+ antioxidant activities by the in vitro antioxidant assays DPPH and ABTS(+),
+ were determined, observing that the values were slightly higher after the
+ fermentation process.",
+    mesh {
+      {
+        term "Antioxidants",
+        qual {
+          {
+            mp TRUE,
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Capparis",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Chromatography, High Pressure Liquid",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Fermentation"
+      },
+      {
+        term "Flavonoids",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Fruit",
+        qual {
+          {
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glucosinolates",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Glycosides",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Kaempferols",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phenols",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Quercetin",
+        qual {
+          {
+            subh "analysis"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Spectrometry, Mass, Electrospray Ionization"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      },
+      {
+        type nameonly,
+        name "Flavonoids"
+      },
+      {
+        type nameonly,
+        name "Glucosinolates"
+      },
+      {
+        type nameonly,
+        name "Glycosides"
+      },
+      {
+        type nameonly,
+        name "Kaempferols"
+      },
+      {
+        type nameonly,
+        name "Phenols"
+      },
+      {
+        type nameonly,
+        name "glucocapparin"
+      },
+      {
+        type cas,
+        cit "731P2LE49E",
+        name "kaempferol"
+      },
+      {
+        type cas,
+        cit "9IKM0I5T1E",
+        name "Quercetin"
+      }
+    },
+    pmid 29412927,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

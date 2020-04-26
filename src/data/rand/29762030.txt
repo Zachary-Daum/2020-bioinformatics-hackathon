@@ -1,0 +1,215 @@
+
+Pubmed-entry ::= {
+  pmid 29762030,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Structure-Function Analysis of the Extended Conformation of a
+ Polyketide Synthase Module."
+      },
+      authors {
+        names std {
+          {
+            name ml "Li X"
+          },
+          {
+            name ml "Sevillano N",
+            affil str "Department of Pharmaceutical Chemistry , University of
+ California San Francisco , San Francisco , California 94158 , United States."
+          },
+          {
+            name ml "La Greca F",
+            affil str "Department of Pharmaceutical Chemistry , University of
+ California San Francisco , San Francisco , California 94158 , United States."
+          },
+          {
+            name ml "Deis L"
+          },
+          {
+            name ml "Liu YC"
+          },
+          {
+            name ml "Deller MC",
+            affil str "Stanford Synchrotron Radiation Lightsource, SLAC
+ National Accelerator Laboratory , Stanford University , Menlo Park ,
+ California 94025 , United States."
+          },
+          {
+            name ml "Mathews II",
+            affil str "Stanford Synchrotron Radiation Lightsource, SLAC
+ National Accelerator Laboratory , Stanford University , Menlo Park ,
+ California 94025 , United States."
+          },
+          {
+            name ml "Matsui T",
+            affil str "Stanford Synchrotron Radiation Lightsource, SLAC
+ National Accelerator Laboratory , Stanford University , Menlo Park ,
+ California 94025 , United States."
+          },
+          {
+            name ml "Cane DE",
+            affil str "Department of Chemistry , Box H, Brown University ,
+ Providence , Rhode Island 02912-9108 , United States."
+          },
+          {
+            name ml "Craik CS",
+            affil str "Department of Pharmaceutical Chemistry , University of
+ California San Francisco , San Francisco , California 94158 , United States."
+          },
+          {
+            name ml "Khosla C"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Am. Chem. Soc.",
+          ml-jta "J Am Chem Soc",
+          issn "1520-5126",
+          name "Journal of the American Chemical Society"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 30
+          },
+          volume "140",
+          issue "21",
+          pages "6518-6521",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29762030,
+        doi "10.1021/jacs.8b02100",
+        other {
+          db "pmc",
+          tag str "PMC6484869"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS1016244"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/jacs.8b02100"
+        }
+      }
+    },
+    abstract "Catalytic modules of assembly-line polyketide synthases (PKSs)
+ have previously been observed in two very different conformations-an ""extend
+ed"" architecture and an ""arch-shaped"" architecture-although the catalytic
+ relevance of neither has been directly established. By the use of a fully
+ human naive antigen-binding fragment (Fab) library, a high-affinity antibody
+ was identified that bound to the extended conformation of a PKS module, as
+ verified by X-ray crystallography and tandem size-exclusion
+ chromatography-small-angle X-ray scattering (SEC-SAXS). Kinetic analysis
+ proved that this antibody-stabilized module conformation was fully competent
+ for catalysis of intermodular polyketide chain translocation as well as
+ intramodular polyketide chain elongation and functional group modification of
+ a growing polyketide chain. Thus, the extended conformation of a PKS module
+ is fully competent for all of its essential catalytic functions.",
+    mesh {
+      {
+        term "Biocatalysis"
+      },
+      {
+        term "Crystallography, X-Ray"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kinetics"
+      },
+      {
+        term "Models, Molecular"
+      },
+      {
+        term "Polyketide Synthases",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Protein Conformation"
+      },
+      {
+        term "Scattering, Small Angle"
+      },
+      {
+        term "X-Ray Diffraction"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "79956-01-7",
+        name "Polyketide Synthases"
+      }
+    },
+    idnum {
+      "R01 GM104659/GM/NIGMS NIH HHS",
+      "R01 GM087934/GM/NIGMS NIH HHS",
+      "P41 CA196276/CA/NCI NIH HHS",
+      "P41 GM103393/GM/NIGMS NIH HHS",
+      "R01 GM022172/GM/NIGMS NIH HHS"
+    },
+    pmid 29762030,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    },
+    status medline
+  }
+}
+
+

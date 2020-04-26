@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 29564553,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "StatsX v2.0: the interactive graphical software for population
+ statistics on X-STR."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lang Y",
+            affil str "Department of Criminal Science and Technology, Criminal
+ Investigation Police University of China, No. 83, Tawan Street, Huanggu
+ District, Shenyang, 110854, Liaoning, People's Republic of China."
+          },
+          {
+            name ml "Guo F",
+            affil str "Department of Forensic Medicine, Criminal Investigation
+ Police University of China, No. 83, Tawan Street, Huanggu District, Shenyang,
+ 110854, Liaoning, People's Republic of China. nevergfaye@gmail.com."
+          },
+          {
+            name ml "Niu Q",
+            affil str "Division of Scientific Research Management, Criminal
+ Investigation Police University of China, No. 83, Tawan Street, Huanggu
+ District, Shenyang, 110854, Liaoning, People's Republic of China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int. J. Legal Med.",
+          ml-jta "Int J Legal Med",
+          issn "1437-1596",
+          name "International journal of legal medicine"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1
+          },
+          volume "133",
+          issue "1",
+          pages "39-44",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29564553,
+        doi "10.1007/s00414-018-1824-6",
+        pii "10.1007/s00414-018-1824-6",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00414-018-1824-6"
+        }
+      }
+    },
+    abstract "StatsX (Statistics for X-STR) v2.0 is developed to facilitate
+ the workflow for analysis of population data on X-chromosomal short tandem
+ repeat (X-STR) marker. The interactive graphical and installable software can
+ estimate allele/haplotype frequencies from female, male, and pooled samples
+ and calculate forensic parameters by importing a single file. In addition, it
+ is able to filter out the invalid raw data and export a series of
+ pre-formatted Arlequin input files that are directly used for testing the
+ significance of the Hardy-Weinberg equilibrium (HWE), linkage disequilibrium
+ (LD), and gender differentiation. As expected, all results of frequencies and
+ forensic parameters can be saved as EXCEL workbooks and also plotted as bar
+ or line graphs. Further, full concordance was obtained by recalculating
+ frequencies and forensic parameters with other established software from a
+ published Han Chinese population.",
+    mesh {
+      {
+        mp TRUE,
+        term "Chromosomes, Human, X"
+      },
+      {
+        mp TRUE,
+        term "Computer Graphics"
+      },
+      {
+        mp TRUE,
+        term "DNA Fingerprinting"
+      },
+      {
+        term "Datasets as Topic"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Frequency"
+      },
+      {
+        mp TRUE,
+        term "Genetics, Population"
+      },
+      {
+        term "Haplotypes"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        mp TRUE,
+        term "Microsatellite Repeats"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        mp TRUE,
+        term "Software"
+      }
+    },
+    pmid 29564553,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

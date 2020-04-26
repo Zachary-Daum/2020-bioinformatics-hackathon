@@ -1,0 +1,158 @@
+
+Pubmed-entry ::= {
+  pmid 29400624,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Performance and activated sludge characteristics at short solid
+ retention time in a submerged MBR: effects of C/N ratio of wastewater."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sari Erkan H",
+            affil str "a Department of Environmental Engineering, Faculty of
+ Civil Engineering, Yildiz Technical University , Istanbul , Turkey."
+          },
+          {
+            name ml "Onkal Engin G",
+            affil str "a Department of Environmental Engineering, Faculty of
+ Civil Engineering, Yildiz Technical University , Istanbul , Turkey."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Environ Technol",
+          ml-jta "Environ Technol",
+          issn "1479-487X",
+          name "Environmental technology"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 7
+          },
+          volume "40",
+          issue "16",
+          pages "2085-2092",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29400624,
+        doi "10.1080/09593330.2018.1437223",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/09593330.2018.1437223"
+        }
+      }
+    },
+    abstract "This study investigated the effect of carbon to nitrogen (C/N)
+ ratio of influent wastewater on performance and activated sludge properties
+ at a sludge retention time of 5 d in a submerged membrane bioreactor. The
+ chemical oxygen demand and ammonia-Nitrogen (NH3-N) removal ef fi ciencies
+ were found to be over 96.3% and 86.9% in the sMBRs having different C/N
+ ratios. It was found that total extracellular polymeric substances and total
+ soluble microbial products increased with an increase in C/N ratio. It was
+ also observed that critical flux, relative hydrophobicity and zeta potential
+ values decreased, and capillary suction time, particle size and viscosity of
+ sludge increased as the C/N ratio increased.",
+    mesh {
+      {
+        term "Bioreactors"
+      },
+      {
+        term "Carbon"
+      },
+      {
+        term "Membranes, Artificial"
+      },
+      {
+        term "Nitrogen"
+      },
+      {
+        mp TRUE,
+        term "Sewage"
+      },
+      {
+        term "Waste Disposal, Fluid"
+      },
+      {
+        mp TRUE,
+        term "Waste Water"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Membranes, Artificial"
+      },
+      {
+        type nameonly,
+        name "Sewage"
+      },
+      {
+        type nameonly,
+        name "Waste Water"
+      },
+      {
+        type cas,
+        cit "7440-44-0",
+        name "Carbon"
+      },
+      {
+        type cas,
+        cit "N762921K75",
+        name "Nitrogen"
+      }
+    },
+    pmid 29400624,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

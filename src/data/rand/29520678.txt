@@ -1,0 +1,266 @@
+
+Pubmed-entry ::= {
+  pmid 29520678,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Intraoperative feasibility of bulbocavernosus reflex monitoring
+ during untethering surgery in infants and children."
+      },
+      authors {
+        names std {
+          {
+            name ml "Shinjo T",
+            affil str "Department of Anesthesiology, Nara Medical University,
+ 840 Shijo-cho, Kashihara, Nara, 634-8522, Japan."
+          },
+          {
+            name ml "Hayashi H",
+            affil str "Department of Anesthesiology, Nara Medical University,
+ 840 Shijo-cho, Kashihara, Nara, 634-8522, Japan. payashi77@hotmail.com."
+          },
+          {
+            name ml "Takatani T",
+            affil str "The Central Clinical Laboratory, Nara Medical
+ University Hospital, 840 Shijo-cho, Kashihara, Nara, 634-8522, Japan."
+          },
+          {
+            name ml "Boku E",
+            affil str "Department of Neurosurgery, Nara Medical University,
+ 840 Shijo-cho, Kashihara, Nara, 634-8522, Japan."
+          },
+          {
+            name ml "Nakase H",
+            affil str "Department of Neurosurgery, Nara Medical University,
+ 840 Shijo-cho, Kashihara, Nara, 634-8522, Japan."
+          },
+          {
+            name ml "Kawaguchi M",
+            affil str "Department of Anesthesiology, Nara Medical University,
+ 840 Shijo-cho, Kashihara, Nara, 634-8522, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Clin Monit Comput",
+          ml-jta "J Clin Monit Comput",
+          issn "1573-2614",
+          name "Journal of clinical monitoring and computing"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 2
+          },
+          volume "33",
+          issue "1",
+          pages "155-163",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29520678,
+        doi "10.1007/s10877-018-0127-2",
+        pii "10.1007/s10877-018-0127-2",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10877-018-0127-2"
+        }
+      }
+    },
+    abstract "Bulbocavernosus reflex (BCR) monitoring is used to assess the
+ integrity of urinary and bowel function. In this study, we evaluated the
+ feasibility of BCR monitoring during untethering surgery in infants and
+ children to predict postoperative urinary and bowel dysfunction. The records
+ of 22 patients ranging from 4 days to 10 years old (mean 2.7 +/- 3.3 years)
+ were reviewed. Anesthesia was maintained by propofol or sevoflurane/opioid
+ without neuromuscular blockade. BCR waveforms induced by electrical
+ stimulation (20-40 mA, train-of-four pulses with 500 Hz) to the penis or
+ clitoris were recorded from bilateral external anal sphincters. To assess the
+ sensitivity and specificity of BCR monitoring, we investigated the
+ association between a significant continuous decrease in BCR amplitude at the
+ end of surgery and postoperative urinary and bowel dysfunction after surgery.
+ Reproducible baseline BCR waveforms were successfully recorded in 20 of 22
+ patients (90.9%). A significant continuous decrease in BCR amplitude was
+ observed in 8 patients. The results of intraoperative BCR monitoring included
+ three true-positives, twelve true-negatives, five false-positives, and zero
+ false-negatives. Therefore, the sensitivity and specificity of BCR monitoring
+ used to predict postoperative urinary and bowel dysfunction were 100 and
+ 70.6%, respectively. BCR monitoring during untethering surgery in infants and
+ children under general anesthesia was found to be a feasible method to
+ prevent postoperative urinary and bowel dysfunction.",
+    mesh {
+      {
+        term "Anal Canal"
+      },
+      {
+        term "Anesthesia",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Anesthetics",
+        qual {
+          {
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Clitoris",
+        qual {
+          {
+            mp TRUE,
+            subh "innervation"
+          }
+        }
+      },
+      {
+        term "Electric Stimulation",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "False Positive Reactions"
+      },
+      {
+        term "Feasibility Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Monitoring, Intraoperative",
+        qual {
+          {
+            mp TRUE,
+            subh "instrumentation"
+          },
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Penis",
+        qual {
+          {
+            mp TRUE,
+            subh "innervation"
+          }
+        }
+      },
+      {
+        term "Reflex"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Sensitivity and Specificity"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Anesthetics"
+      }
+    },
+    pmid 29520678,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

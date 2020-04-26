@@ -1,0 +1,239 @@
+
+Pubmed-entry ::= {
+  pmid 29944714,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Susceptibility of epithelial cells cultured from different
+ regions of human cervix to HPV16-induced immortalization."
+      },
+      authors {
+        names std {
+          {
+            name ml "Deng H",
+            affil str "Department of Biology, Clarkson University, Potsdam,
+ New York, United States of America."
+          },
+          {
+            name ml "Hillpot E",
+            affil str "Department of Biology, Clarkson University, Potsdam,
+ New York, United States of America."
+          },
+          {
+            name ml "Yeboah P",
+            affil str "Department of Biology, Clarkson University, Potsdam,
+ New York, United States of America."
+          },
+          {
+            name ml "Mondal S",
+            affil str "Department of Mathematics, Clarkson University,
+ Potsdam, New York, United States of America."
+          },
+          {
+            name ml "Woodworth CD",
+            affil str "Department of Biology, Clarkson University, Potsdam,
+ New York, United States of America."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 26
+          },
+          volume "13",
+          issue "6",
+          pages "e0199761",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 1
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 13
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29944714,
+        doi "10.1371/journal.pone.0199761",
+        pii "PONE-D-18-03473",
+        other {
+          db "pmc",
+          tag str "PMC6019754"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0199761"
+        }
+      }
+    },
+    abstract "Persistent infection with high-risk human papillomavirus (HPV)
+ is a major risk factor for cervical cancer. Greater than 90% of these cancers
+ originate in the cervical transformation zone (TZ), a narrow region of
+ metaplastic squamous epithelium that develops at the squamocolumnar junction
+ between the ectocervix and endocervix. It is unclear why the TZ has high
+ susceptibility to malignant transformation and few studies have specifically
+ examined cells from this region. We hypothesized that cells cultured from TZ
+ are more susceptible to cellular immortalization, an alteration that
+ contributes to malignant development. We cultured primary epithelial cells
+ from each region of human cervix (ectocervix, endocervix and TZ) and measured
+ susceptibility to immortalization after transfection with the complete HPV-16
+ genome or infection of HPV16 E6/E7 retroviruses. Cells cultured from each
+ cervical region expressed keratin markers (keratin 14 and 18) that confirmed
+ their region of origin. In contrast to our prediction, cells from TZ were
+ equally susceptible to immortalization as cells from ectocervix or
+ endocervix. Thus, increased susceptibility of the TZ to cervical
+ carcinogenesis is not due to increased frequency of immortalization by
+ HPV-16. We developed a series of HPV16-immortalized cell lines from
+ ectocervix, endocervix and TZ that will enable comparisons of how these cells
+ respond to factors that promote cervical carcinogenesis.",
+    mesh {
+      {
+        mp TRUE,
+        term "Cell Transformation, Viral"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        mp TRUE,
+        term "Cervix Uteri",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Epithelial Cells",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Human papillomavirus 16",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Papillomavirus Infections",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Uterine Cervical Neoplasms",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            subh "virology"
+          }
+        }
+      }
+    },
+    pmid 29944714,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

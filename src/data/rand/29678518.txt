@@ -1,0 +1,274 @@
+
+Pubmed-entry ::= {
+  pmid 29678518,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Pattern recognition receptors mediate pro-inflammatory effects
+ of extracellular mitochondrial transcription factor A (TFAM)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Schindler SM",
+            affil str "Department of Biology, University of British Columbia
+ Okanagan Campus, Kelowna, BC, Canada."
+          },
+          {
+            name ml "Frank MG",
+            affil str "Department of Psychology and Neuroscience, University
+ of Colorado, Boulder, CO, USA."
+          },
+          {
+            name ml "Annis JL",
+            affil str "Department of Psychology and Neuroscience, University
+ of Colorado, Boulder, CO, USA."
+          },
+          {
+            name ml "Maier SF",
+            affil str "Department of Psychology and Neuroscience, University
+ of Colorado, Boulder, CO, USA."
+          },
+          {
+            name ml "Klegeris A",
+            affil str "Department of Biology, University of British Columbia
+ Okanagan Campus, Kelowna, BC, Canada. Electronic address:
+ andis.klegeris@ubc.ca."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Mol. Cell. Neurosci.",
+          ml-jta "Mol Cell Neurosci",
+          issn "1095-9327",
+          name "Molecular and cellular neurosciences"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "89",
+          pages "71-79",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 4
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29678518,
+        pii "S1044-7431(17)30338-X",
+        doi "10.1016/j.mcn.2018.04.005",
+        other {
+          db "ELocationID pii",
+          tag str "S1044-7431(17)30338-X"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.mcn.2018.04.005"
+        }
+      }
+    },
+    abstract "Neuroinflammation is a common pathogenic mechanism for a number
+ of neurodegenerative disorders including Alzheimer's and Parkinson's
+ diseases. Microglia, the immune cells of the brain, contribute to the onset
+ and progression of the neuroinflammation observed in these diseases.
+ Microglia become activated and initiate an inflammatory response by
+ interacting with a diverse set of molecules, including the group of
+ endogenous proteins released upon cell damage, termed damage-associated
+ molecular patterns (DAMPs). One of these molecules, mitochondrial
+ transcription factor A (TFAM), has been shown to induce pro-inflammatory and
+ cytotoxic responses of microglia in vitro. Here, we demonstrate that TFAM
+ injected into the cisterna magna of male Sprague-Dawley rats upregulates (i)
+ the expression of monocyte chemotactic protein (MCP)-1, interleukin
+ (IL)-1beta, IL-6, tumor necrosis factor (TNF)-alpha and nuclear factor-kappa
+ B inhibitor alpha (NF-kappaBIA) in the hippocampus; (ii) the expression of
+ MCP-1, IL-1beta and TNF-alpha in the frontal cortex; and (iii) IL-1beta
+ protein concentration in both these brain regions. These same inflammatory
+ mediators are upregulated in isolated rat microglia following their in vitro
+ exposure to extracellular TFAM. Blocking the receptor for advanced glycation
+ endproducts (RAGE) and the macrophage antigen complex (Mac)-1 by specific
+ antibodies inhibited the TFAM-induced secretion of MCP-1 by THP-1 monocytic
+ cells, which were used to model human microglia. Our data support the
+ hypothesis that extracellular TFAM can interact with RAGE and Mac-1 to
+ function as a DAMP that causes pro-inflammatory microglial activation.
+ Blocking this interaction may represent a potential target for attenuating
+ the neuroinflammation observed in neurodegenerative diseases.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cells, Cultured"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Frontal Lobe",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Hippocampus",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Microglia",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Rats"
+      },
+      {
+        term "Rats, Sprague-Dawley"
+      },
+      {
+        term "Receptors, Pattern Recognition",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Transcription Factors",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "Receptors, Pattern Recognition"
+      },
+      {
+        type nameonly,
+        name "Tfam protein, rat"
+      },
+      {
+        type nameonly,
+        name "Transcription Factors"
+      }
+    },
+    pmid 29678518,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

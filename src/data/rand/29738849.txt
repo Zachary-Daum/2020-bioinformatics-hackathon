@@ -1,0 +1,334 @@
+
+Pubmed-entry ::= {
+  pmid 29738849,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "5-HT1A receptor stimulation in the medial prefrontal cortex
+ mediates the antidepressant effects of mGlu2/3 receptor antagonist in mice."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fukumoto K",
+            affil str "Research Headquarters, Taisho Pharmaceutical Co., Ltd.,
+ 1-403 Yoshino-cho, Kita-ku, Saitama, Saitama 331-9530, Japan."
+          },
+          {
+            name ml "Iijima M",
+            affil str "Research Headquarters, Taisho Pharmaceutical Co., Ltd.,
+ 1-403 Yoshino-cho, Kita-ku, Saitama, Saitama 331-9530, Japan."
+          },
+          {
+            name ml "Funakoshi T",
+            affil str "Research Headquarters, Taisho Pharmaceutical Co., Ltd.,
+ 1-403 Yoshino-cho, Kita-ku, Saitama, Saitama 331-9530, Japan."
+          },
+          {
+            name ml "Chaki S",
+            affil str "Research Headquarters, Taisho Pharmaceutical Co., Ltd.,
+ 1-403 Yoshino-cho, Kita-ku, Saitama, Saitama 331-9530, Japan. Electronic
+ address: s-chaki@taisho.co.jp."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neuropharmacology",
+          ml-jta "Neuropharmacology",
+          issn "1873-7064",
+          name "Neuropharmacology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7,
+            day 15
+          },
+          volume "137",
+          pages "96-103",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 19
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29738849,
+        pii "S0028-3908(18)30200-4",
+        doi "10.1016/j.neuropharm.2018.05.001",
+        other {
+          db "ELocationID pii",
+          tag str "S0028-3908(18)30200-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.neuropharm.2018.05.001"
+        }
+      }
+    },
+    abstract "We previously reported that serotonergic transmission is
+ involved in the antidepressant effects of metabotropic glutamate 2/3
+ (mGlu2/3) receptor antagonists. However, the detailed underlying mechanisms
+ had not yet been explored. In the present study, we investigated the role of
+ the 5-HT1A receptor and its signaling cascade in the medial prefrontal cortex
+ (mPFC) in the antidepressant effects of LY341495, an mGlu2/3 receptor
+ antagonist. LY341495 significantly reduced the immobility time in the forced
+ swimming test which sustained for 24 h after administration. The
+ antidepressant effect of LY341495 was attenuated by either intraperitoneal or
+ intra-mPFC injection of WAY100635, a 5-HT1A receptor antagonist. Among the
+ signaling cascades mediated by the 5-HT1A receptor, the role of
+ phosphoinositide-3 kinase (PI3K)/Akt signaling, which has a critical role in
+ neuroplasticity, was investigated. The sustained antidepressant effect of
+ LY341495 was blocked by intra-mPFC injection of LY294002, a PI3K inhibitor.
+ LY341495 increased the phosphorylation of Akt in the mPFC, which was blocked
+ by both intra-mPFC injection of WAY100635 and LY294002. Thus, LY341495
+ activates PI3K/Akt signaling, presumably via stimulation of the 5-HT1A
+ receptor in the mPFC, to exert its sustained antidepressant effect.
+ Involvement of mechanistic target of rapamycin complex-1 (mTORC1) signaling
+ was also demonstrated, as the sustained antidepressant effects of LY341495
+ was attenuated by intra-mPFC injection of rapamycin, an mTORC1 inhibitor.
+ Finally, the sustained antidepressant effect of LY341495 was also attenuated
+ by silencing of the dorsal raphe nucleus (DRN) neurons. These results suggest
+ that stimulation of the 5-HT1A receptor in the mPFC and its signaling
+ cascade, PI3K/Akt/mTORC1 signaling mediate the sustained antidepressant
+ effect of LY341495, and that activation of the DRN neurons is also involved
+ in these processes.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antidepressive Agents",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Dorsal Raphe Nucleus",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Excitatory Amino Acid Antagonists",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mechanistic Target of Rapamycin Complex 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Neurons",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphatidylinositol 3-Kinases",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Phosphoinositide-3 Kinase Inhibitors"
+      },
+      {
+        term "Prefrontal Cortex",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Proto-Oncogene Proteins c-akt",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptor, Serotonin, 5-HT1A",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, Metabotropic Glutamate",
+        qual {
+          {
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Serotonin 5-HT1 Receptor Agonists",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antidepressive Agents"
+      },
+      {
+        type nameonly,
+        name "Excitatory Amino Acid Antagonists"
+      },
+      {
+        type nameonly,
+        name "Htr1a protein, mouse"
+      },
+      {
+        type nameonly,
+        name "Phosphoinositide-3 Kinase Inhibitors"
+      },
+      {
+        type nameonly,
+        name "Receptors, Metabotropic Glutamate"
+      },
+      {
+        type nameonly,
+        name "Serotonin 5-HT1 Receptor Agonists"
+      },
+      {
+        type nameonly,
+        name "metabotropic glutamate receptor 2"
+      },
+      {
+        type nameonly,
+        name "metabotropic glutamate receptor 3"
+      },
+      {
+        type cas,
+        cit "112692-38-3",
+        name "Receptor, Serotonin, 5-HT1A"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Mechanistic Target of Rapamycin Complex 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.1",
+        name "Proto-Oncogene Proteins c-akt"
+      }
+    },
+    pmid 29738849,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

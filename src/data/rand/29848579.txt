@@ -1,0 +1,140 @@
+
+Pubmed-entry ::= {
+  pmid 29848579,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the approach for determining association between changes in
+ marital quality and cardiovascular disease risk factors."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pike MM",
+            affil str "Master of Public Health Program, School of Medicine,
+ Vanderbilt University, Nashville, TN 37203, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Epidemiol Community Health",
+          ml-jta "J Epidemiol Community Health",
+          issn "1470-2738",
+          name "Journal of epidemiology and community health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "72",
+          issue "8",
+          pages "759",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 5
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 24
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29848579,
+        pii "jech-2018-210445",
+        doi "10.1136/jech-2018-210445",
+        other {
+          db "pmc",
+          tag str "PMC6204966"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1136/jech-2018-210445"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Cardiovascular Diseases"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Marital Status"
+      },
+      {
+        term "Marriage"
+      },
+      {
+        term "Prospective Studies"
+      },
+      {
+        term "Risk Factors"
+      }
+    },
+    pmid 29848579,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

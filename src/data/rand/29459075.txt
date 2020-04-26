@@ -1,0 +1,135 @@
+
+Pubmed-entry ::= {
+  pmid 29459075,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Does being overweight reduce accuracy in predicting an acute
+ aortic dissection?"
+      },
+      authors {
+        names std {
+          {
+            name ml "De Paulis R",
+            affil str "Department of Cardiac Surgery, European Hospital, Rome,
+ Italy. Electronic address: rdepaulis58@gmail.com."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Thorac. Cardiovasc. Surg.",
+          ml-jta "J Thorac Cardiovasc Surg",
+          issn "1097-685X",
+          name "The Journal of thoracic and cardiovascular surgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "155",
+          issue "5",
+          pages "1951-1952",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29459075,
+        pii "S0022-5223(17)32749-6",
+        doi "10.1016/j.jtcvs.2017.11.062",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-5223(17)32749-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jtcvs.2017.11.062"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Aneurysm, Dissecting"
+      },
+      {
+        mp TRUE,
+        term "Aortic Aneurysm"
+      },
+      {
+        term "Body Surface Area"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Overweight"
+      }
+    },
+    pmid 29459075,
+    pub-type {
+      "Editorial",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

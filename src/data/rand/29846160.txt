@@ -1,0 +1,279 @@
+
+Pubmed-entry ::= {
+  pmid 29846160,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 31,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Rheumatic diseases and pregnancy: a national survey about
+ practice patterns among rheumatologists and obstetricians."
+      },
+      authors {
+        names std {
+          {
+            name ml "Fayad F",
+            affil str "Department of Rheumatology, Hotel Dieu de France
+ Hospital, Saint Joseph University, Beirut, Lebanon. fouadfayad@yahoo.fr."
+          },
+          {
+            name ml "Ziade N",
+            affil str "Department of Rheumatology, Hotel Dieu de France
+ Hospital, Saint Joseph University, Beirut, Lebanon."
+          },
+          {
+            name ml "Karam GA",
+            affil str "Department of Rheumatology, Hotel Dieu de France
+ Hospital, and Saint Joseph University, Beirut, Lebanon."
+          },
+          {
+            name ml "Ghaname W",
+            affil str "Department of Obstetrics and Gynaecology, Faculty of
+ Medicine, Holy Spirit University of Kaslik, Lebanon."
+          },
+          {
+            name ml "Khamashta M",
+            affil str "Department of Rheumatology, Dubai Hospital, UAE."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin. Exp. Rheumatol.",
+          ml-jta "Clin Exp Rheumatol",
+          issn "0392-856X",
+          name "Clinical and experimental rheumatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 11
+          },
+          volume "36",
+          issue "6",
+          pages "1014-1021",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 5
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 31,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29846160,
+        pii "12348"
+      }
+    },
+    abstract "OBJECTIVES: Management of rheumatic diseases (RD) is often
+ problematic in pregnant patients, hence the need for guideline
+ implementation. This survey-based study aimed to assess beliefs among
+ obstetricians and rheumatologists about managing RD in pregnant Lebanese
+ patients. METHODS: Questionnaires were completed by a representative sample
+ of rheumatologists and obstetricians practicing throughout Lebanon. Collected
+ data included physicians' information, opinion on pregnancy in RD patients,
+ compatible drugs with fertility, pregnancy and breastfeeding, references used
+ in their clinical management, referral to specialists, and knowledge about
+ guidelines. Qualitative variables were analysed using Chi-square or Fisher's
+ exact tests, and quantitative variables using Wilcoxon or Student t-tests.
+ Results were matched against a scoring system based on the EULAR/BSR
+ guidelines. p-value <0.05 indicated statistical significance. RESULTS:
+ Analysis showed high response rates of physicians, especially among
+ rheumatologists. Overall, physicians practice was in concordance with
+ international guidelines and only few misconceptions were reported. Systemic
+ lupus erythematosus (SLE) was associated with risk on fertility, foetal
+ malformation and eclampsia while anti-phospholipid (APL) syndrome was
+ associated with miscarriage and vasculitis with eclampsia. Spondyloarthritis
+ was considered 'safe' in pregnancy. Most physicians think that
+ cyclophosphamide, leflunomide, methotrexate, mycophenolate mofetil and
+ azathioprine compromise fertility, pregnancy, and breastfeeding. CONCLUSIONS:
+ Our data showed relatively good concordance of the physicians' beliefs with
+ the current literature and recommendations. However, we identified
+ misconceptions about anti-rheumatic drugs safety in pregnancy and discrepancy
+ between rheumatologists and obstetricians practices; hence the need for
+ promoting collaboration between both specialties and disseminating knowledge
+ to physicians and patients in the Middle East region.",
+    mesh {
+      {
+        term "Antirheumatic Agents",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Guideline Adherence"
+      },
+      {
+        term "Health Care Surveys"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Lebanon"
+      },
+      {
+        term "Obstetrics",
+        qual {
+          {
+            subh "standards"
+          },
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Practice Guidelines as Topic"
+      },
+      {
+        term "Practice Patterns, Physicians'",
+        qual {
+          {
+            subh "standards"
+          },
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Pregnancy Complications",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Rheumatic Diseases",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "drug therapy"
+          },
+          {
+            subh "immunology"
+          }
+        }
+      },
+      {
+        term "Rheumatologists",
+        qual {
+          {
+            subh "standards"
+          },
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Rheumatology",
+        qual {
+          {
+            subh "standards"
+          },
+          {
+            mp TRUE,
+            subh "trends"
+          }
+        }
+      },
+      {
+        term "Risk Assessment"
+      },
+      {
+        term "Risk Factors"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antirheumatic Agents"
+      }
+    },
+    pmid 29846160,
+    pub-type {
+      "Comparative Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,202 @@
+
+Pubmed-entry ::= {
+  pmid 29442906,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Amine-Functionalized Silica Nanoparticles with Drug and Gene
+ Co-Delivery for Anti-Angiogenesis Therapy of Breast Cancer."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gong X",
+            affil str "Department of Pathology, Second Affiliated Hospital,
+ Xinjiang Medical University, Urumqi, 830063, China."
+          },
+          {
+            name ml "Zhao Q",
+            affil str "Department of Breast Surgery, Affiliated Tumor
+ Hospital, Xinjiang Medical University, Urumqi, 830011, China."
+          },
+          {
+            name ml "Song M",
+            affil str "Department of Oncology, Second Affiliated Hospital,
+ Xinjiang Medical University, Urumqi, 830063, China 4."
+          },
+          {
+            name ml "Xue F",
+            affil str "Department of Breast, Maternal and Child Health Care
+ Hospital of Yili, Yining, 835000, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Nanosci Nanotechnol",
+          ml-jta "J Nanosci Nanotechnol",
+          issn "1533-4880",
+          name "Journal of nanoscience and nanotechnology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 1
+          },
+          volume "18",
+          issue "4",
+          pages "2379-2386",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29442906,
+        doi "10.1166/jnn.2018.14541",
+        other {
+          db "ELocationID doi",
+          tag str "10.1166/jnn.2018.14541"
+        }
+      }
+    },
+    abstract "In our study, we report on the design and characterization of a
+ combined angiogenesis therapy for breast cancer based on well-formed
+ amine-functionalized silica nanoparticles (SLNs). The aminefunctionalized
+ SLNs was employed to simultaneously deliver angiostatin (ANG) plasmid and
+ candesartan (CD) to the same cancer cell. The well-formed ANG/CD/SLNs
+ exhibited small particle size, reasonable positive charges, excellent loading
+ of drug and gene in vitro. Moreover, aminefunctionalized SLNs were almost no
+ cytotoxicity. ANG/CD/SLNs resulted in enhanced gene transfection compared to
+ naked plasmid. More importantly, ANG/CD/SLNs as a co-delivery system achieved
+ a stronger inhibitory effect on angiogenesis in vitro, possibly resulting
+ from significant downregulation of vascular endothelial growth factor (VEGF)
+ expression via different pathways. In particular, in vivo investigation on
+ nude mice bearing MCF-7 xenografts confirmed that ANG/CD/SLNs codelivery
+ system exerted strong anti-tumor efficacy by synergistic antiangiogenic
+ mechanism.",
+    mesh {
+      {
+        term "Amines",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        mp TRUE,
+        term "Drug Delivery Systems"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Gene Transfer Techniques"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Nude"
+      },
+      {
+        mp TRUE,
+        term "Nanoparticles"
+      },
+      {
+        term "Silicon Dioxide",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Vascular Endothelial Growth Factor A"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Amines"
+      },
+      {
+        type nameonly,
+        name "Vascular Endothelial Growth Factor A"
+      },
+      {
+        type cas,
+        cit "7631-86-9",
+        name "Silicon Dioxide"
+      }
+    },
+    pmid 29442906,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

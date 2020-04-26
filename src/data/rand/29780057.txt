@@ -1,0 +1,216 @@
+
+Pubmed-entry ::= {
+  pmid 29780057,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prevalence and Risk Factors of Dengue Infection in Khanh Hoa
+ Province, Viet Nam: A Stratified Cluster Sampling Survey."
+      },
+      authors {
+        names std {
+          {
+            name ml "Mai VQ",
+            affil str "Nha Trang Pasteur Institute."
+          },
+          {
+            name ml "Mai TTX",
+            affil str "Department of Virology, Nha Trang Pasteur Institute."
+          },
+          {
+            name ml "Tam NLM",
+            affil str "Department of Laboratory Biosafety and Quality
+ Assessment, Nha Trang Pasteur Institute."
+          },
+          {
+            name ml "Nghia LT",
+            affil str "Department of Vector Control and Border Quarantine, Nha
+ Trang Pasteur Institute."
+          },
+          {
+            name ml "Komada K",
+            affil str "Bureau of International Health Cooperation, National
+ Center for Global Health and Medicine."
+          },
+          {
+            name ml "Murakami H",
+            affil str "Bureau of International Health Cooperation, National
+ Center for Global Health and Medicine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Epidemiol",
+          ml-jta "J Epidemiol",
+          issn "1349-9092",
+          name "Journal of epidemiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12,
+            day 5
+          },
+          volume "28",
+          issue "12",
+          pages "488-497",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29780057,
+        doi "10.2188/jea.JE20170090",
+        other {
+          db "pmc",
+          tag str "PMC6242784"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.2188/jea.JE20170090"
+        }
+      }
+    },
+    abstract "BACKGROUND: Dengue is a clinically important arthropod-borne
+ viral disease with increasing global incidence. Here we aimed to estimate the
+ prevalence of dengue infections in Khanh Hoa Province, central Viet Nam, and
+ to identify risk factors for infection. METHODS: We performed a stratified
+ cluster sampling survey including residents of 3-60 years of age in Nha Trang
+ City, Ninh Hoa District and Dien Khanh District, Khanh Hoa Province, in
+ October 2011. Immunoglobulin G (IgG) and immunoglobulin M (IgM) against
+ dengue were analyzed using a rapid test kit. Participants completed a
+ questionnaire exploring clinical dengue incidence, socio-economic status, and
+ individual behavior. A household checklist was used to examine environment,
+ mosquito larvae presence, and exposure to public health interventions.
+ RESULTS: IgG positivity was 20.5% (urban, 16.3%; rural, 23.0%), IgM
+ positivity was 6.7% (urban, 6.4%; rural, 6.9%), and incidence of clinically
+ compatible dengue during the prior 3 months was 2.8 per 1,000 persons (urban,
+ 1.7; rural, 3.4). For IgG positivity, the adjusted odds ratio (AOR) was 2.68
+ (95% confidence interval [CI], 1.24-5.81) for mosquito larvae presence in
+ water pooled in old tires and was 3.09 (95% CI, 1.75-5.46) for proximity to a
+ densely inhabited area. For IgM positivity, the AOR was 3.06 (95% CI,
+ 1.50-6.23) for proximity to a densely inhabited area. CONCLUSIONS: Our
+ results indicated rural penetration of dengue infections. Control measures
+ should target densely inhabited areas, and may include clean-up of discarded
+ tires and water-collecting waste.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Child"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "Cluster Analysis"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Dengue",
+        qual {
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Health Surveys"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Rural Population",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Sampling Studies"
+      },
+      {
+        term "Vietnam",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29780057,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

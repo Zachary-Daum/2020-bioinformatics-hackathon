@@ -1,0 +1,147 @@
+
+Pubmed-entry ::= {
+  pmid 29714652,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Real-world evidence in metastatic renal cell carcinoma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Graham J",
+            affil str "Department of Oncology, Tom Baker Cancer Centre,
+ Calgary, Alberta, Canada."
+          },
+          {
+            name ml "Heng DY",
+            affil str "Department of Oncology, Tom Baker Cancer Centre,
+ Calgary, Alberta, Canada."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Tumori",
+          ml-jta "Tumori",
+          issn "2038-2529",
+          name "Tumori"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "104",
+          issue "2",
+          pages "76-82",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29714652,
+        doi "10.1177/0300891618761004",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/0300891618761004"
+        }
+      }
+    },
+    abstract "Real-world evidence has played an important role in expanding
+ our knowledge on the treatment and prognostication of advanced renal cell
+ carcinoma. This type of data has been particularly helpful in providing a
+ better understanding of groups that are traditionally excluded from
+ randomized controlled trials. The International mRCC Database Consortium
+ (IMDC) represents the largest collection of real-world data on patients with
+ advanced kidney cancer treated with targeted therapies. The IMDC prognostic
+ model has been used to stratify patients in contemporary clinical trials and
+ to provide risk-directed treatment selection in everyday clinical practice.
+ More recently, it has been shown to predict response to first-line
+ combination immunotherapy in the phase III CheckMate 214 clinical trial. In
+ this review, we highlight the real-world evidence associated with the
+ treatment of mRCC. We focus on first-line therapy, as well as second-line and
+ third-line therapeutic options, including novel immuno-oncology agents. We
+ also address the real-world evidence for the use of cytoreductive nephrectomy
+ in advanced renal cell carcinoma in the targeted therapy era.",
+    mesh {
+      {
+        term "Carcinoma, Renal Cell",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Clinical Trials, Phase III as Topic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Kidney Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "Randomized Controlled Trials as Topic"
+      }
+    },
+    pmid 29714652,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

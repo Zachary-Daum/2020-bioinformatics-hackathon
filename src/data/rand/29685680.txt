@@ -1,0 +1,373 @@
+
+Pubmed-entry ::= {
+  pmid 29685680,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Effects of salicylic acid, Epi-brassinolide and calcium on
+ stress alleviation and Cd accumulation in tomato plants."
+      },
+      authors {
+        names std {
+          {
+            name ml "Guo J",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China.
+ Electronic address: frankerry@163.com."
+          },
+          {
+            name ml "Zhou R",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China."
+          },
+          {
+            name ml "Ren X",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China."
+          },
+          {
+            name ml "Jia H",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China."
+          },
+          {
+            name ml "Hua L",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China."
+          },
+          {
+            name ml "Xu H",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China."
+          },
+          {
+            name ml "Lv X",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China."
+          },
+          {
+            name ml "Zhao J",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China."
+          },
+          {
+            name ml "Wei T",
+            affil str "School of Environmental Science and Engineering,
+ Shaanxi University of Science & Technology, Xi'an 710021, PR China.
+ Electronic address: weiting@sust.edu.cn."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ecotoxicol. Environ. Saf.",
+          ml-jta "Ecotoxicol Environ Saf",
+          issn "1090-2414",
+          name "Ecotoxicology and environmental safety"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8,
+            day 15
+          },
+          volume "157",
+          pages "491-496",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 29
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 2
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 4
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 7,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29685680,
+        pii "S0147-6513(18)30303-8",
+        doi "10.1016/j.ecoenv.2018.04.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0147-6513(18)30303-8"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ecoenv.2018.04.010"
+        }
+      }
+    },
+    abstract "Salicylic acid (SA), Epi-brassinolide (EBL) and calcium (Ca)
+ play crucial roles in plant development and mediate plant response to biotic
+ and abiotic stress. This study was aimed to investigate the possible
+ mediatory role of SA, EBL, Ca or their combination in protecting tomato
+ plants from cadmium (Cd) toxicity. According to the results, Cd stress
+ resulted in a significant reduction of plant dry mass, photosynthetic pigment
+ content as well as photosynthetic rate. Exogenous application of SA decreased
+ the malondialdehyde (MDA) level by 39.27% and increased catalase (CAT)
+ activity by 81.17%. SA and EBL treatment significantly increased chlorophyll
+ a (Chl a), chlorophyll b (Chl b) content, photosynthetic rate (Pn) as well as
+ water use efficiency (WUE). SA+EBL (1:1)/Ca+SA+EBL (1:1:1) treatment
+ obviously alleviated Cd-induced growth inhibition, the dry mass of different
+ tomato organs were significantly increased (p<0.05). Especially in Ca+SA+EBL
+ treated plants, the dry mass of roots, stems and leaves increased by 141.18%,
+ 128.57% and 118.52%, respectively. Besides, SA+EBL and Ca+SA+EBL treatments
+ reduced the MDA level, but increased photosynthetic pigment concentration and
+ photosynthetic efficiency. CAT activity was increased by 62.92% in Ca+SA+EBL
+ treated plants, the WUE was increased by 557.76% in SA+EBL pretreated plants.
+ Moreover, exogenous application of SA, SA+EBL and Ca+SA+EBL significantly
+ decreased Cd accumulation in tomato organs (p<0.05) compared with Cd-stressed
+ plants. Taken together, our results indicated that exogenous application of
+ SA, EBL and Ca individually or in combination could alleviate Cd toxicity in
+ tomato plants, although the extent varies.",
+    mesh {
+      {
+        term "Brassinosteroids",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Cadmium",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Calcium",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Catalase",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Chlorophyll",
+        qual {
+          {
+            subh "analysis"
+          }
+        }
+      },
+      {
+        term "Chlorophyll A"
+      },
+      {
+        term "Lycopersicon esculentum",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Malondialdehyde",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Photosynthesis",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Plant Leaves",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Plant Roots",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Salicylic Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Seedlings",
+        qual {
+          {
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Steroids, Heterocyclic",
+        qual {
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Stress, Physiological"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Brassinosteroids"
+      },
+      {
+        type nameonly,
+        name "Steroids, Heterocyclic"
+      },
+      {
+        type cas,
+        cit "00BH33GNGH",
+        name "Cadmium"
+      },
+      {
+        type cas,
+        cit "1406-65-1",
+        name "Chlorophyll"
+      },
+      {
+        type cas,
+        cit "4Y8F71G49Q",
+        name "Malondialdehyde"
+      },
+      {
+        type cas,
+        cit "5712ZB110R",
+        name "chlorophyll b"
+      },
+      {
+        type ec,
+        cit "1.11.1.6",
+        name "Catalase"
+      },
+      {
+        type cas,
+        cit "O414PZ4LPZ",
+        name "Salicylic Acid"
+      },
+      {
+        type cas,
+        cit "SY7Q814VUP",
+        name "Calcium"
+      },
+      {
+        type cas,
+        cit "Y9IQ1L53OX",
+        name "brassinolide"
+      },
+      {
+        type cas,
+        cit "YF5Q9EJC8Y",
+        name "Chlorophyll A"
+      }
+    },
+    pmid 29685680,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

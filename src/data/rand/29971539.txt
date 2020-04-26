@@ -1,0 +1,139 @@
+
+Pubmed-entry ::= {
+  pmid 29971539,
+  medent {
+    em std {
+      year 2018,
+      month 7,
+      day 5,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Dementia in hospital, practice and outpatient treatment-a
+ challenge for continuous qualification, education and interdisciplinary
+ cooperation].",
+        trans "Demenz in Klinik, Praxis und ambulanter Versorgung - eine
+ Herausforderung fur standige Qualifikation, Edukation und interdisziplinare
+ Kooperation."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hofmann W",
+            affil str "Geriatrisches Zentrum Neumunster & Bad Bramstedt,
+ Friesenstr. 11, 24534, Neumunster, Deutschland. wehofek@web.de."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Z Gerontol Geriatr",
+          ml-jta "Z Gerontol Geriatr",
+          issn "1435-1269",
+          name "Zeitschrift fur Gerontologie und Geriatrie"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "51",
+          issue "5",
+          pages "493-494",
+          language "ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 7,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 7,
+                day 5,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29971539,
+        doi "10.1007/s00391-018-1404-x",
+        pii "10.1007/s00391-018-1404-x",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s00391-018-1404-x"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Ambulatory Care",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Dementia",
+        qual {
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Germany"
+      },
+      {
+        term "Hospitals, General"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Interdisciplinary Communication"
+      },
+      {
+        term "Outpatients"
+      },
+      {
+        mp TRUE,
+        term "Patient Care Team"
+      }
+    },
+    pmid 29971539,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

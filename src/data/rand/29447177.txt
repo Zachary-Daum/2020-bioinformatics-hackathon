@@ -1,0 +1,247 @@
+
+Pubmed-entry ::= {
+  pmid 29447177,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Physician prescribing of opioid agonist treatments in provincial
+ correctional facilities in Ontario, Canada: A survey."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kouyoumdjian FG",
+            affil str "Department of Family Medicine, McMaster University,
+ Hamilton, Canada.; Centre for Urban Health Solutions, St. Michael's Hospital,
+ Toronto, Canada."
+          },
+          {
+            name ml "Patel A",
+            affil str "University of Toronto, Toronto, Canada."
+          },
+          {
+            name ml "To MJ",
+            affil str "Centre for Urban Health Solutions, St. Michael's
+ Hospital, Toronto, Canada.; Faculty of Medicine, Dalhousie University,
+ Halifax, Canada."
+          },
+          {
+            name ml "Kiefer L",
+            affil str "Ontario Ministry of Community Safety and Correctional
+ Services, Toronto, Canada.; Dalla Lana School of Public Health, University of
+ Toronto, Toronto, Canada."
+          },
+          {
+            name ml "Regenstreif L",
+            affil str "Department of Family Medicine, McMaster University,
+ Hamilton, Canada."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "PLoS ONE",
+          ml-jta "PLoS One",
+          issn "1932-6203",
+          name "PloS one"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 15
+          },
+          volume "13",
+          issue "2",
+          pages "e0192431",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 10
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29447177,
+        doi "10.1371/journal.pone.0192431",
+        pii "PONE-D-17-14329",
+        other {
+          db "pmc",
+          tag str "PMC5813939"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1371/journal.pone.0192431"
+        }
+      }
+    },
+    abstract "BACKGROUND: Substance use and substance use disorders are common
+ in people who experience detention or incarceration in Canada, and opioid
+ agonist treatment (OAT) may reduce the harms associated with substance use
+ disorders. We aimed to define current physician practice in provincial
+ correctional facilities in Ontario with respect to prescribing OAT and to
+ identify potential barriers and facilitators to prescribing OAT. METHODS: We
+ invited all physicians practicing in the 26 provincial correctional
+ facilities for adults in Ontario to participate in an online survey. RESULTS:
+ Twenty-seven physicians participated, with representation from most
+ correctional facilities in Ontario. Of participating physicians, 52% reported
+ prescribing methadone and 48% reported prescribing buprenorphine/naloxone to
+ patients in provincial correctional facilities. Nineteen percent of
+ participants reported initiating methadone treatment and 11% reported
+ initiating buprenorphine/naloxone for patients in custody. Participants
+ identified multiple barriers to initiating OAT in provincial correctional
+ facilities including concerns about medication diversion and safety, concerns
+ about initiating treatment in patients who are not currently using opioids,
+ lack of linkage with community-based providers and the Ministry of Community
+ Safety and Correctional Services policy. Identified facilitators to
+ initiating OAT were support from institutional health care staff and
+ administrative staff, adequate resources for program delivery and access to
+ linkage with community-based OAT providers. CONCLUSIONS: This study
+ identifies opportunities to improve OAT programs and to improve access to OAT
+ for persons in provincial correctional facilities in Ontario.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Buprenorphine",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Methadone",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Naloxone",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Ontario"
+      },
+      {
+        term "Opiate Substitution Treatment",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Opioid-Related Disorders",
+        qual {
+          {
+            mp TRUE,
+            subh "drug therapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Practice Patterns, Physicians'"
+      },
+      {
+        mp TRUE,
+        term "Prisons"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "36B82AMQ7N",
+        name "Naloxone"
+      },
+      {
+        type cas,
+        cit "40D3SCR4GZ",
+        name "Buprenorphine"
+      },
+      {
+        type cas,
+        cit "UC6VBE7V1Z",
+        name "Methadone"
+      }
+    },
+    pmid 29447177,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

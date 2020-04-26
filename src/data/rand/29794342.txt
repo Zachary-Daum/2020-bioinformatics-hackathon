@@ -1,0 +1,163 @@
+
+Pubmed-entry ::= {
+  pmid 29794342,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Multiclass classification of obstructive sleep apnea/hypopnea
+ based on a convolutional neural network from a single-lead electrocardiogram."
+      },
+      authors {
+        names std {
+          {
+            name ml "Urtnasan E",
+            affil str "Department of Biomedical Engineering, College of Health
+ Science, Yonsei University, Wonju-si, Gangwon-do 26493, Republic of Korea."
+          },
+          {
+            name ml "Park JU"
+          },
+          {
+            name ml "Lee KJ"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Physiol Meas",
+          ml-jta "Physiol Meas",
+          issn "1361-6579",
+          name "Physiological measurement"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 20
+          },
+          volume "39",
+          issue "6",
+          pages "065003",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29794342,
+        doi "10.1088/1361-6579/aac7b7",
+        other {
+          db "ELocationID doi",
+          tag str "10.1088/1361-6579/aac7b7"
+        }
+      }
+    },
+    abstract "OBJECTIVE: In this paper, we propose a convolutional neural
+ network (CNN)-based deep learning architecture for multiclass classification
+ of obstructive sleep apnea and hypopnea (OSAH) using single-lead
+ electrocardiogram (ECG) recordings. OSAH is the most common sleep-related
+ breathing disorder. Many subjects who suffer from OSAH remain undiagnosed;
+ thus, early detection of OSAH is important. APPROACH: In this study,
+ automatic classification of three classes-normal, hypopnea, and apnea-based
+ on a CNN is performed. An optimal six-layer CNN model is trained on a
+ training dataset (45 096 events) and evaluated on a test dataset (11 274
+ events). The training set (69 subjects) and test set (17 subjects) were
+ collected from 86 subjects with length of approximately 6 h and segmented
+ into 10 s durations. MAIN RESULTS: The proposed CNN model reaches a mean
+ [Formula: see text]-score of 93.0 for the training dataset and 87.0 for the
+ test dataset. SIGNIFICANCE: Thus, proposed deep learning architecture
+ achieved a high performance for multiclass classification of OSAH using
+ single-lead ECG recordings. The proposed method can be employed in screening
+ of patients suspected of having OSAH.",
+    mesh {
+      {
+        mp TRUE,
+        term "Electrocardiography"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Neural Networks, Computer"
+      },
+      {
+        mp TRUE,
+        term "Signal Processing, Computer-Assisted"
+      },
+      {
+        term "Sleep Apnea Syndromes",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Sleep Apnea, Obstructive",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      }
+    },
+    pmid 29794342,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,163 @@
+
+Pubmed-entry ::= {
+  pmid 29621422,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Fire service instructors' working practices: A UK survey."
+      },
+      authors {
+        names std {
+          {
+            name ml "Watkins ER",
+            affil str "Environmental Extremes Laboratory, Sport and Exercise
+ Science and Medicine (SESaME) Research Group, Welkin Laboratories, University
+ of Brighton, Denton Road, Eastbourne, UK."
+          },
+          {
+            name ml "Hayes M",
+            affil str "Environmental Extremes Laboratory, Sport and Exercise
+ Science and Medicine (SESaME) Research Group, Welkin Laboratories, University
+ of Brighton, Denton Road, Eastbourne, UK."
+          },
+          {
+            name ml "Watt P",
+            affil str "Environmental Extremes Laboratory, Sport and Exercise
+ Science and Medicine (SESaME) Research Group, Welkin Laboratories, University
+ of Brighton, Denton Road, Eastbourne, UK."
+          },
+          {
+            name ml "Richardson AJ",
+            affil str "Environmental Extremes Laboratory, Sport and Exercise
+ Science and Medicine (SESaME) Research Group, Welkin Laboratories, University
+ of Brighton, Denton Road, Eastbourne, UK."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Arch Environ Occup Health",
+          ml-jta "Arch Environ Occup Health",
+          issn "2154-4700",
+          name "Archives of environmental & occupational health"
+        },
+        imp {
+          date std {
+            year 2019
+          },
+          volume "74",
+          issue "6",
+          pages "322-330",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2020,
+                month 2,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29621422,
+        doi "10.1080/19338244.2018.1461601",
+        other {
+          db "ELocationID doi",
+          tag str "10.1080/19338244.2018.1461601"
+        }
+      }
+    },
+    abstract "Analysis of Fire Service Instructors (FSI) working practices and
+ health is needed to minimise health risks related to heat illness,
+ cardiovascular events and immunological stress. Online surveys were
+ distributed to UK FSI and Firefighters (FF). One hundred and thirty FSI (age:
+ 43 +/- 7yrs) and 232 FF (age: 41 +/- 8yrs) responded. FSI experienced 2-10
+ live fires per week, with 45% of FSI reporting management does not set a
+ limit on the number of exposures. Few FSI followed hydration guidelines, or
+ cooling methods. New symptoms of ill health were reported by 41% of FSI and
+ 21% of FF. FSI with >/=11 Breathing Apparatus exposures per month were 4.5
+ times (95% CI 1.33-15.09) more likely to experience new symptoms. A large
+ proportion of FSI are experiencing new symptoms of illness after starting
+ their career, and guidelines on exposure and hydration are not universally in
+ place to reduce the risk of future health problems.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Female"
+      },
+      {
+        mp TRUE,
+        term "Firefighters"
+      },
+      {
+        mp TRUE,
+        term "Health Status"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Occupational Exposure"
+      },
+      {
+        mp TRUE,
+        term "Occupational Health"
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        term "United Kingdom"
+      }
+    },
+    pmid 29621422,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

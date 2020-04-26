@@ -1,0 +1,117 @@
+
+Pubmed-entry ::= {
+  pmid 29518240,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Letter: Visualization of Cranial Nerves Using High-Definition
+ Fiber Tractography."
+      },
+      authors {
+        names std {
+          {
+            name ml "Tang K",
+            affil str "Department of Neurosurgery The 309th Hospital of
+ Chinese People's Liberation Army Beijing, China."
+          },
+          {
+            name ml "Zhao Y",
+            affil str "Department of Neurosurgery The 309th Hospital of
+ Chinese People's Liberation Army Beijing, China."
+          },
+          {
+            name ml "Yuan X",
+            affil str "Department of Radiology The 309th Hospital of Chinese
+ People's Liberation Army Beijing, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Neurosurgery",
+          ml-jta "Neurosurgery",
+          issn "1524-4040",
+          name "Neurosurgery"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 1
+          },
+          volume "82",
+          issue "5",
+          pages "E144",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 7,
+                day 4,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29518240,
+        pii "4922608",
+        doi "10.1093/neuros/nyy025",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/neuros/nyy025"
+        }
+      }
+    },
+    mesh {
+      {
+        mp TRUE,
+        term "Cranial Nerves"
+      },
+      {
+        mp TRUE,
+        term "Diffusion Tensor Imaging"
+      }
+    },
+    pmid 29518240,
+    pub-type {
+      "Journal Article",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

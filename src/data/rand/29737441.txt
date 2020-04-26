@@ -1,0 +1,264 @@
+
+Pubmed-entry ::= {
+  pmid 29737441,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long-Term Supportive Housing is Associated with Decreased Risk
+ for New HIV Diagnoses Among a Large Cohort of Homeless Persons in New York
+ City."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lee CT",
+            affil str "Division of Disease Control, New York City Department
+ of Health and Mental Hygiene, 42-09 28th Street, Long Island City, NY, 11101,
+ USA. clee@resolvetosavelives.org.; Division of Scientific Education and
+ Professional Development, Epidemic Intelligence Service, Centers for Disease
+ Control and Prevention, Atlanta, GA, USA. clee@resolvetosavelives.org."
+          },
+          {
+            name ml "Winquist A",
+            affil str "Division of Scientific Education and Professional
+ Development, Epidemiology Workforce Branch, Centers for Disease Control and
+ Prevention, Atlanta, GA, USA."
+          },
+          {
+            name ml "Wiewel EW",
+            affil str "Division of Disease Control, New York City Department
+ of Health and Mental Hygiene, 42-09 28th Street, Long Island City, NY, 11101,
+ USA."
+          },
+          {
+            name ml "Braunstein S",
+            affil str "Division of Disease Control, New York City Department
+ of Health and Mental Hygiene, 42-09 28th Street, Long Island City, NY, 11101,
+ USA."
+          },
+          {
+            name ml "Jordan HT",
+            affil str "Division of Epidemiology, New York City Department of
+ Health and Mental Hygiene, New York, NY, USA."
+          },
+          {
+            name ml "Gould LH",
+            affil str "Division of Epidemiology, New York City Department of
+ Health and Mental Hygiene, New York, NY, USA."
+          },
+          {
+            name ml "Gwynn RC",
+            affil str "Division of Epidemiology, New York City Department of
+ Health and Mental Hygiene, New York, NY, USA."
+          },
+          {
+            name ml "Lim S",
+            affil str "Division of Epidemiology, New York City Department of
+ Health and Mental Hygiene, New York, NY, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "AIDS Behav",
+          ml-jta "AIDS Behav",
+          issn "1573-3254",
+          name "AIDS and behavior"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "22",
+          issue "9",
+          pages "3083-3090",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29737441,
+        doi "10.1007/s10461-018-2138-x",
+        pii "10.1007/s10461-018-2138-x",
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s10461-018-2138-x"
+        }
+      }
+    },
+    abstract "It is unknown whether providing housing to persons experiencing
+ homelessness decreases HIV risk. Housing, including access to preventive
+ services and counseling, might provide a period of transition for persons
+ with HIV risk factors. We assessed whether the new HIV diagnosis rate was
+ associated with duration of supportive housing. We linked data from a cohort
+ of 21,689 persons without a previous HIV diagnosis who applied to a
+ supportive housing program in New York City (NYC) during 2007-2013 to the NYC
+ HIV surveillance registry. We used time-dependent Cox modeling to compare new
+ HIV diagnoses among recipients of supportive housing (defined a priori, for
+ program evaluation purposes, as persons who spent > 7 days in supportive
+ housing; n = 6447) and unplaced applicants (remainder of cohort), after
+ balancing the groups on baseline characteristics with propensity score
+ weights. Compared with unplaced applicants, persons who received >/= 3
+ continuous years of supportive housing had decreased risk for new HIV
+ diagnosis (HR 0.10; CI 0.01-0.99). Risk of new HIV diagnosis decreased with
+ longer duration placement in supportive housing. Supportive housing might aid
+ in primary HIV prevention.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "HIV Infections",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "prevention & control"
+          },
+          {
+            subh "transmission"
+          }
+        }
+      },
+      {
+        term "Health Services Accessibility"
+      },
+      {
+        mp TRUE,
+        term "Homeless Persons"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Length of Stay",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Long-Term Care"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "New York City"
+      },
+      {
+        term "Population Surveillance"
+      },
+      {
+        term "Preventive Health Services"
+      },
+      {
+        term "Primary Prevention",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Program Evaluation"
+      },
+      {
+        term "Propensity Score"
+      },
+      {
+        term "Proportional Hazards Models"
+      },
+      {
+        mp TRUE,
+        term "Public Housing"
+      },
+      {
+        term "Registries",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Urban Population",
+        qual {
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29737441,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

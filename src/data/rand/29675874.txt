@@ -1,0 +1,175 @@
+
+Pubmed-entry ::= {
+  pmid 29675874,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 21,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prepyloric submucosal tunneling endoscopic resection for a case
+ of inflammatory mass (with video)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chai N",
+            affil str "Department of Gastroenterology, Chinese PLA General
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Zhang W",
+            affil str "Department of Gastroenterology, Chinese PLA General
+ Hospital, Beijing, China."
+          },
+          {
+            name ml "Linghu EQ",
+            affil str "Department of Gastroenterology, Chinese PLA General
+ Hospital, Beijing, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Dig Endosc",
+          ml-jta "Dig Endosc",
+          issn "1443-1661",
+          name "Digestive endoscopy : official journal of the Japan
+ Gastroenterological Endoscopy Society"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "30",
+          issue "4",
+          pages "546-547",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 2,
+                day 19
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 11
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29675874,
+        doi "10.1111/den.13175",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/den.13175"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gastrectomy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Gastroscopy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Stomach Neoplasms",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      }
+    },
+    pmid 29675874,
+    pub-type {
+      "Case Reports",
+      "Journal Article",
+      "Video-Audio Media"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,131 @@
+
+Pubmed-entry ::= {
+  pmid 29771002,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Social media as an educational platform against stigma."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lin TY",
+            affil str "David Geffen School of Medicine, University of
+ California, Los Angeles, CA, USA."
+          },
+          {
+            name ml "Woo BKP",
+            affil str "Department of Psychiatry & Biobehavioral Science,
+ University of California, Los Angeles, CA, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Asia Pac Psychiatry",
+          ml-jta "Asia Pac Psychiatry",
+          issn "1758-5872",
+          name "Asia-Pacific psychiatry : official journal of the Pacific Rim
+ College of Psychiatrists"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 12
+          },
+          volume "10",
+          issue "4",
+          pages "e12320",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 13
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 18
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29771002,
+        doi "10.1111/appy.12320",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/appy.12320"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Social Media"
+      },
+      {
+        term "Social Stigma"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 29771002,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

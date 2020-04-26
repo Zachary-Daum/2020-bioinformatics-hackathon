@@ -1,0 +1,130 @@
+
+Pubmed-entry ::= {
+  pmid 29916819,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 20,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Magnetoresistive sensors based on the elasticity of domain walls."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang X",
+            affil str "Beihang-Goertek Joint Microelectronics Institute,
+ Qingdao Research Institute, Beihang University, 266101 Qingdao, People's
+ Republic of China. Fert Beijing Institute, BDBC, School of Electronic and
+ Information Engineering, Beihang University, 100191 Beijing, People's
+ Republic of China. Centre for Nanoscience and Nanotechnology, University
+ Paris-Saclay, 91405 Orsay, France."
+          },
+          {
+            name ml "Vernier N"
+          },
+          {
+            name ml "Cao Z"
+          },
+          {
+            name ml "Leng Q"
+          },
+          {
+            name ml "Cao A"
+          },
+          {
+            name ml "Ravelosona D"
+          },
+          {
+            name ml "Zhao W"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Nanotechnology",
+          ml-jta "Nanotechnology",
+          issn "1361-6528",
+          name "Nanotechnology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9,
+            day 7
+          },
+          volume "29",
+          issue "36",
+          pages "365502",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 20,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29916819,
+        doi "10.1088/1361-6528/aacd90",
+        other {
+          db "ELocationID doi",
+          tag str "10.1088/1361-6528/aacd90"
+        }
+      }
+    },
+    abstract "Magnetic sensors based on magnetoresistance effects have
+ promising application prospects due to their excellent sensitivity and their
+ advantages in terms of integration. However, the competition between higher
+ sensitivity and a larger measuring range remains a problem. Here, we propose
+ a novel mechanism for designing magnetoresistive sensors: probing the
+ perpendicular field by detecting the expansion of the elastic magnetic domain
+ wall in the free layer of a spin valve or a magnetic tunnel junction. The
+ performances of devices based on this mechanism, such as the sensitivity and
+ the measuring range, can be tuned by manipulating the geometry of the device.
+ This can be achieved without changing the intrinsic properties of the
+ material, thus promising a higher integration level and a better performance.
+ The mechanism is theoretically explained based on the experimental results.
+ Two examples are proposed and their functionality and performances are
+ verified via a micromagnetic simulation.",
+    pmid 29916819,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

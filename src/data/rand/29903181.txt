@@ -1,0 +1,236 @@
+
+Pubmed-entry ::= {
+  pmid 29903181,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Association between SLC22A12 rs1529909 and rs7929627
+ polymorphism and hyperuricemia]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Zhang Y",
+            affil str "Department of Epidemiology And Biostatistics, School of
+ Public Health and Management, Ningxia Medical University, Yinchuan 750004,
+ China."
+          },
+          {
+            name ml "Zhang F",
+            affil str "Department of Epidemiology And Biostatistics, School of
+ Public Health and Management, Ningxia Medical University, Yinchuan 750004,
+ China."
+          },
+          {
+            name ml "Zhao L",
+            affil str "Department of Epidemiology And Biostatistics, School of
+ Public Health and Management, Ningxia Medical University, Yinchuan 750004,
+ China."
+          },
+          {
+            name ml "Du J",
+            affil str "Department of Epidemiology And Biostatistics, School of
+ Public Health and Management, Ningxia Medical University, Yinchuan 750004,
+ China."
+          },
+          {
+            name ml "Wang Y",
+            affil str "Department of Epidemiology And Biostatistics, School of
+ Public Health and Management, Ningxia Medical University, Yinchuan 750004,
+ China."
+          },
+          {
+            name ml "Guo Z",
+            affil str "Department of Epidemiology And Biostatistics, School of
+ Public Health and Management, Ningxia Medical University, Yinchuan 750004,
+ China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Wei Sheng Yan Jiu",
+          ml-jta "Wei Sheng Yan Jiu",
+          issn "1000-8020",
+          name "Wei sheng yan jiu = Journal of hygiene research"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 7
+          },
+          volume "46",
+          issue "4",
+          pages "589-594",
+          language "chi",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29903181
+      }
+    },
+    abstract "OBJECTIVE: To investigate the relationship between SLC22A12 gene
+ rs1529909 and rs7929627 polymorphism and hyperuricemia of residents in
+ Yinchuan, Ningxia province. METHODS: Through retrospective analysis in
+ healthy subjects from April to November in 2014, 365 patients with
+ hyperuricemia were selected. 1ratio 1 matched casecontrol study was carried
+ out, matched with age( +/- 5 years old), gender, race, and selected 365
+ people with normal serum uric acid levels as the control group. All subjects
+ were investigated by questionnaire, had a physical examination, and collected
+ fastingvenous blood for biochemical markers and gene polymorphism detection.
+ Paired t test was used to compare the mean of two samples, and the
+ influencing factors were analyzed by conditional logistic regression. The
+ interaction of two sites on hyperuricemia was analyzed by MDR software.
+ RESULTS: The body mass index, blood uric acid, creatinine, total cholesterol
+ and triglyceride in the case group were higher than those in the control
+ group, the difference was statistically significant( P < 0. 05). There was a
+ significant differences between male cases and control group in the allele
+ frequency of rs1529909( chi~2= 4. 887, P = 0. 027). There had a significant
+ difference in the frequency of rs7929627 between the Hui case and control
+ group( chi~2= 14. 906, P = 0. 002), also a significant difference between the
+ male case and control group( chi~2= 9. 749, P = 0. 021). Additionally,
+ theresult of interaction analysis showed that the distribution of high risk
+ and low risk genotype had a statistically significant difference( chi~2= 8.
+ 338, P = 0. 004). The risk of hyperuricemia with high genotype was 1. 536
+ times of those who had low-risk genotypes( OR = 1. 536, 95% CI1. 147-2. 057).
+ CONCLUSION: rs1529909 and rs7929627 were associated with hyperuricemia among
+ men. rs7929627 was related to it in the Hui. There may be a strong
+ antagonistic effect on hyperuricemia between rs1529909 and rs7929627.",
+    mesh {
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Child, Preschool"
+      },
+      {
+        term "China"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Hyperuricemia",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Organic Anion Transporters",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Organic Cation Transport Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Polymorphism, Genetic",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Polymorphism, Single Nucleotide"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Uric Acid",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Organic Anion Transporters"
+      },
+      {
+        type nameonly,
+        name "Organic Cation Transport Proteins"
+      },
+      {
+        type nameonly,
+        name "SLC22A12 protein, human"
+      },
+      {
+        type cas,
+        cit "268B43MJ25",
+        name "Uric Acid"
+      }
+    },
+    pmid 29903181,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

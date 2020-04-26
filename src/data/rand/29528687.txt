@@ -1,0 +1,244 @@
+
+Pubmed-entry ::= {
+  pmid 29528687,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Peak Lower Extremity Landing Kinematics in Dancers and
+ Nondancers."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hansberger BL",
+            affil str "Towson University, MD."
+          },
+          {
+            name ml "Acocello S",
+            affil str "University of Tennessee, Chattanooga."
+          },
+          {
+            name ml "Slater LV",
+            affil str "University of Virginia, Charlottesville."
+          },
+          {
+            name ml "Hart JM",
+            affil str "University of Virginia, Charlottesville."
+          },
+          {
+            name ml "Ambegaonkar JP",
+            affil str "George Mason University, Manassas, VA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Athl Train",
+          ml-jta "J Athl Train",
+          issn "1938-162X",
+          name "Journal of athletic training"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4
+          },
+          volume "53",
+          issue "4",
+          pages "379-385",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29528687,
+        doi "10.4085/1062-6050-465-16",
+        other {
+          db "pmc",
+          tag str "PMC5967280"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.4085/1062-6050-465-16"
+        }
+      }
+    },
+    abstract "CONTEXT:   Anterior cruciate ligament (ACL) injuries often occur
+ during jump landings and can have detrimental short-term and long-term
+ functional effects on quality of life. Despite frequently performing jump
+ landings, dancers have lower incidence rates of ACL injury than other
+ jump-landing athletes. Planned versus unplanned activities and footwear may
+ explain differing ACL-injury rates among dancers and nondancers. Still, few
+ researchers have compared landing biomechanics between dancers and
+ nondancers. OBJECTIVE:   To compare the landing biomechanics of dancers and
+ nondancers during single-legged (SL) drop-vertical jumps. DESIGN:  
+ Cross-sectional study. SETTING:   Laboratory. PATIENTS OR OTHER PARTICIPANTS:
+   A total of 39 healthy participants, 12 female dancers (age = 20.9 +/- 1.8
+ years, height = 166.4 +/- 6.7 cm, mass = 63.2 +/- 16.4 kg), 14 female
+ nondancers (age = 20.2 +/- 0.9 years, height = 168.9 +/- 5.0 cm, mass = 61.6
+ +/- 7.7 kg), and 13 male nondancers (age = 22.2 +/- 2.7 years, height = 180.6
+ +/- 9.7 cm, mass = 80.8 +/- 13.2 kg). INTERVENTION(S):   Participants
+ performed SL-drop-vertical jumps from a 30-cm-high box in a randomized order
+ in 2 activity (planned, unplanned) and 2 footwear (shod, barefoot) conditions
+ while a 3-dimensional system recorded landing biomechanics. MAIN OUTCOME
+ MEASURE(S):   Overall peak sagittal-plane and frontal-plane ankle-, knee-,
+ and hip-joint kinematics (joint angles) were compared across groups using
+ separate multivariate analyses of variance followed by main-effects testing
+ and pairwise-adjusted Bonferroni comparisons as appropriate ( P < .05).
+ RESULTS:   No 3-way interactions existed for sagittal-plane or frontal-plane
+ ankle (Wilks lambda = 0.85, P = .11 and Wilks lambda = 0.96, P = .55,
+ respectively), knee (Wilks lambda = 1.00, P = .93 and Wilks lambda = 0.94, P
+ = .36, respectively), or hip (Wilks lambda = 0.99, P = .88 and Wilks lambda =
+ 0.97, P = .62, respectively) kinematics. We observed no group x footwear
+ interactions for sagittal-plane or frontal-plane ankle (Wilks lambda = 0.94,
+ P = .43 and Wilks lambda = 0.96, P = .55, respectively), knee (Wilks lambda =
+ 0.97, P = .60 and Wilks lambda = 0.97, P = .66, respectively), or hip (Wilks
+ lambda = 0.99, P = .91 and Wilks lambda = 1.00, P = .93, respectively)
+ kinematics, and no group x activity interactions were noted for ankle
+ frontal-plane (Wilks lambda = 0.92, P = .29) and sagittal- and frontal-plane
+ knee (Wilks lambda = 0.99, P = .81 and Wilks lambda = 0.98, P = .77,
+ respectively) and hip (Wilks lambda = 0.88, P = .13 and Wilks lambda = 0.85,
+ P = .08, respectively) kinematics. A group x activity interaction (Wilks
+ lambda = 0.76, P = .02) was present for ankle sagittal-plane kinematics.
+ Main-effects testing revealed different ankle frontal-plane angles across
+ groups ( F2,28 = 3.78, P = .04), with male nondancers having greater ankle
+ inversion than female nondancers ( P = .05). CONCLUSIONS:   Irrespective of
+ activity type or footwear, female nondancers landed with similar hip and knee
+ kinematics but greater peak ankle eversion and less peak ankle dorsiflexion
+ (ie, positions associated with greater ACL injury risk). Ankle kinematics may
+ differ between groups due to different landing strategies and training used
+ by dancers. Dancers' training should be examined to determine if it results
+ in a reduced occurrence of biomechanics related to ACL injury during SL
+ landing.",
+    mesh {
+      {
+        term "Ankle Joint",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Anterior Cruciate Ligament Injuries",
+        qual {
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Biomechanical Phenomena",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        term "Dancing",
+        qual {
+          {
+            subh "injuries"
+          },
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Hip Joint",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Knee Joint",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Movement",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Quality of Life"
+      },
+      {
+        term "Sex Factors"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29528687,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

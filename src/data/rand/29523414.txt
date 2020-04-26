@@ -1,0 +1,303 @@
+
+Pubmed-entry ::= {
+  pmid 29523414,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 11,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Presynaptic Effects of N-Methyl-D-Aspartate Receptors Enhance
+ Parvalbumin Cell-Mediated Inhibition of Pyramidal Cells in Mouse Prefrontal
+ Cortex."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pafundo DE",
+            affil str "Translational Neuroscience Program, Department of
+ Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh,
+ Pennsylvania."
+          },
+          {
+            name ml "Miyamae T",
+            affil str "Translational Neuroscience Program, Department of
+ Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh,
+ Pennsylvania."
+          },
+          {
+            name ml "Lewis DA",
+            affil str "Translational Neuroscience Program, Department of
+ Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh,
+ Pennsylvania."
+          },
+          {
+            name ml "Gonzalez-Burgos G",
+            affil str "Translational Neuroscience Program, Department of
+ Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh,
+ Pennsylvania. Electronic address: gburgos@pitt.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Biol. Psychiatry",
+          ml-jta "Biol Psychiatry",
+          issn "1873-2402",
+          name "Biological psychiatry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9,
+            day 15
+          },
+          volume "84",
+          issue "6",
+          pages "460-470",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 6,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 12
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 13
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 11,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29523414,
+        pii "S0006-3223(18)30066-0",
+        doi "10.1016/j.biopsych.2018.01.018",
+        other {
+          db "pmc",
+          tag str "PMC6068001"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS938620"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0006-3223(18)30066-0"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.biopsych.2018.01.018"
+        }
+      }
+    },
+    abstract "BACKGROUND: Testing hypotheses regarding the role of
+ N-methyl-D-aspartate receptor (NMDAR) hypofunction in schizophrenia requires
+ understanding the mechanisms of NMDAR regulation of prefrontal cortex (PFC)
+ circuit function. NMDAR antagonists are thought to produce pyramidal cell
+ (PC) disinhibition. However, inhibitory parvalbumin-positive basket cells
+ (PVBCs) have modest NMDAR-mediated excitatory drive and thus are unlikely to
+ participate in NMDAR antagonist-mediated disinhibition. Interestingly, recent
+ studies demonstrated that presynaptic NMDARs enhance transmitter release at
+ central synapses. Thus, if presynaptic NMDARs enhance gamma-aminobutyric acid
+ release at PVBC-to-PC synapses, they could participate in NMDAR-dependent PC
+ disinhibition. Here, we examined whether presynaptic NMDAR effects could
+ modulate gamma-aminobutyric acid release at PVBC-to-PC synapses in mouse PFC.
+ METHODS: Using whole-cell recordings from synaptically connected pairs in
+ mouse PFC, we determined whether NMDA or NMDAR antagonist application affects
+ PVBC-to-PC inhibition in a manner consistent with a presynaptic mechanism.
+ RESULTS: NMDAR activation enhanced by  approximately 40% the synaptic current
+ at PVBC-to-PC pairs. This effect was consistent with a presynaptic mechanism
+ given that it was 1) observed with postsynaptic NMDARs blocked by
+ intracellular MK801, 2) associated with a lower rate of transmission failures
+ and a higher transmitter release probability, and 3) blocked by intracellular
+ MK801 in the PVBC. NMDAR antagonist application did not affect the synaptic
+ currents in PVBC-to-PC pairs, but it reduced the inhibitory currents elicited
+ in PCs with simultaneous glutamate release by extracellular stimulation.
+ CONCLUSIONS: We demonstrate that NMDAR activation enhances PVBC-to-PC
+ inhibition in a manner consistent with presynaptic mechanisms, and we suggest
+ that the functional impact of this presynaptic effect depends on the activity
+ state of the PFC network.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Dizocilpine Maleate",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Excitatory Amino Acid Antagonists",
+        qual {
+          {
+            subh "pharmacology"
+          }
+        }
+      },
+      {
+        term "Excitatory Postsynaptic Potentials",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Organ Culture Techniques"
+      },
+      {
+        term "Parvalbumins"
+      },
+      {
+        term "Patch-Clamp Techniques"
+      },
+      {
+        term "Prefrontal Cortex",
+        qual {
+          {
+            mp TRUE,
+            subh "cytology"
+          }
+        }
+      },
+      {
+        term "Pyramidal Cells",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Receptors, N-Methyl-D-Aspartate",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          }
+        }
+      },
+      {
+        term "Synapses",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "gamma-Aminobutyric Acid",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Excitatory Amino Acid Antagonists"
+      },
+      {
+        type nameonly,
+        name "Parvalbumins"
+      },
+      {
+        type nameonly,
+        name "Receptors, N-Methyl-D-Aspartate"
+      },
+      {
+        type cas,
+        cit "56-12-2",
+        name "gamma-Aminobutyric Acid"
+      },
+      {
+        type cas,
+        cit "6LR8C1B66Q",
+        name "Dizocilpine Maleate"
+      }
+    },
+    idnum {
+      "P50 MH103204/MH/NIMH NIH HHS",
+      "R01 MH051234/MH/NIMH NIH HHS"
+    },
+    pmid 29523414,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

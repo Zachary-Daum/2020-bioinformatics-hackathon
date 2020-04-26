@@ -1,0 +1,223 @@
+
+Pubmed-entry ::= {
+  pmid 29890283,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Quantitative identification of proteins that influence miRNA
+ biogenesis by RNA pull-down-SILAC mass spectrometry (RP-SMS)."
+      },
+      authors {
+        names std {
+          {
+            name ml "Choudhury NR",
+            affil str "Wellcome Trust Centre for Cell Biology, University of
+ Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK; Division of
+ Infection and Pathway Medicine, University of Edinburgh, The Chancellor's
+ Building, 49 Little France Crescent, Edinburgh EH16 4SB, UK."
+          },
+          {
+            name ml "Michlewski G",
+            affil str "Wellcome Trust Centre for Cell Biology, University of
+ Edinburgh, Michael Swann Building, Edinburgh EH9 3BF, UK; Division of
+ Infection and Pathway Medicine, University of Edinburgh, The Chancellor's
+ Building, 49 Little France Crescent, Edinburgh EH16 4SB, UK; Zhejiang
+ University-University of Edinburgh Institute, Zhejiang University, 718 East
+ Haizhou Road, Haining, Zhejiang 314400, PR China. Electronic address:
+ Gracjan.Michlewski@ed.ac.uk."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Methods",
+          ml-jta "Methods",
+          issn "1095-9130",
+          name "Methods (San Diego, Calif.)"
+        },
+        imp {
+          date std {
+            year 2019,
+            month 1,
+            day 1
+          },
+          volume "152",
+          pages "12-17",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 6,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 6
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29890283,
+        pii "S1046-2023(18)30052-5",
+        doi "10.1016/j.ymeth.2018.06.006",
+        other {
+          db "pmc",
+          tag str "PMC6335501"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S1046-2023(18)30052-5"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ymeth.2018.06.006"
+        }
+      }
+    },
+    abstract "RNA-binding proteins mediate and control gene expression. As
+ some examples, they regulate pre-mRNA synthesis and processing; mRNA
+ localisation, translation and decay; and microRNA (miRNA) biogenesis and
+ function. Here, we present a detailed protocol for RNA pull-down coupled to
+ stable isotope labelling by amino acids in cell culture (SILAC) mass
+ spectrometry (RP-SMS) that enables quantitative, fast and specific detection
+ of RNA-binding proteins that regulate miRNA biogenesis. In general, this
+ method allows for the identification of RNA-protein complexes formed using in
+ vitro or chemically synthesized RNAs and protein extracts derived from
+ cultured cells.",
+    mesh {
+      {
+        term "Cell Culture Techniques"
+      },
+      {
+        term "HeLa Cells"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Isotope Labeling",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Mass Spectrometry",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "MicroRNAs",
+        qual {
+          {
+            mp TRUE,
+            subh "biosynthesis"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "RNA-Binding Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          },
+          {
+            subh "isolation & purification"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "MicroRNAs"
+      },
+      {
+        type nameonly,
+        name "RNA-Binding Proteins"
+      }
+    },
+    idnum {
+      "Wellcome Trust",
+      "G1000564/Medical Research Council",
+      "077707 /Wellcome Trust",
+      "092076/Wellcome Trust",
+      "091020/Wellcome Trust"
+    },
+    pmid 29890283,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

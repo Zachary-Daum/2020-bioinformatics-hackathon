@@ -1,0 +1,256 @@
+
+Pubmed-entry ::= {
+  pmid 29936011,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 25,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Circulating lncRNA NEAT1 correlates with increased risk,
+ elevated severity and unfavorable prognosis in sepsis patients."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang Q",
+            affil str "Department of Intensive Care Unit, Zhongshan Hospital
+ Affiliated to Xiamen University, Xiamen, China. Electronic address:
+ huang_qinghe@126.com."
+          },
+          {
+            name ml "Huang C",
+            affil str "Department of Surgery, Yongan Municipal Hospital,
+ Yongan, China."
+          },
+          {
+            name ml "Luo Y",
+            affil str "Department of Intensive Care Unit, Zhongshan Hospital
+ Affiliated to Xiamen University, Xiamen, China."
+          },
+          {
+            name ml "He F",
+            affil str "Department of Intensive Care Unit, Zhongshan Hospital
+ Affiliated to Xiamen University, Xiamen, China."
+          },
+          {
+            name ml "Zhang R",
+            affil str "Department of Intensive Care Unit, Zhongshan Hospital
+ Affiliated to Xiamen University, Xiamen, China."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am J Emerg Med",
+          ml-jta "Am J Emerg Med",
+          issn "1532-8171",
+          name "The American journal of emergency medicine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "36",
+          issue "9",
+          pages "1659-1663",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 19
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 9
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 25,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29936011,
+        pii "S0735-6757(18)30470-4",
+        doi "10.1016/j.ajem.2018.06.008",
+        other {
+          db "ELocationID pii",
+          tag str "S0735-6757(18)30470-4"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ajem.2018.06.008"
+        }
+      }
+    },
+    abstract "OBJECTIVE: To investigate the correlation of circulating long
+ non-coding RNA nuclear-enriched abundant transcript 1 (lncRNA NEAT1)
+ expression with disease risk, severity, prognosis and inflammatory cytokine
+ levels in sepsis patients. METHODS: 152 sepsis patients and 150 health
+ controls (HCs) were enrolled in this study. Plasma and serum samples were
+ obtained from sepsis patients and HCs, and lncRNA NEAT1 expression in plasma
+ was determined by quantitative polymerase chain reaction, while levels of
+ inflammatory cytokines in serum were detected by enzyme linked immune sorbent
+ assay. RESULTS: LncRNA NEAT1 expression was remarkably higher in sepsis
+ patients than in HCs (P<0.001). Receiver operating characteristic (ROC) curve
+ disclosed a good predictive value of lncRNA NEAT1 expression for sepsis risk
+ with area under curve (AUC) of 0.730 (95% CI: 0.740-0.861). Subsequent
+ multivariate logistic regression analysis demonstrated that lncRNA NEAT1
+ expression was independently associated with higher sepsis risk (P<0.001). In
+ sepsis patients, lncRNA NEAT1 expression was also observed to be positively
+ correlated with Acute Physiology and Chronic Health Evaluation (APACHE) II
+ score (P<0.001), serum tumor necrosis factor-alpha (P<0.001), interleukin
+ (IL)-1beta (P=0.043), IL-6 (P=0.001) and IL-8 (P=0.038), while negatively
+ correlated with IL-10 (P<0.001). In addition, lncRNA NEAT1 expression was
+ increased in non-survivors compared to survivors (P=0.006), and ROC curve
+ revealed a good prognostic value of lncRNA NEAT1 for non-survivor risk with
+ AUC 0.641 (95% CI: 0.536-0.746). CONCLUSION: Circulating lncRNA NEAT1
+ correlates with increased disease risk, elevated severity and unfavorable
+ prognosis as well as higher expression of pro-inflammatory cytokines in
+ sepsis patients.",
+    mesh {
+      {
+        term "Biomarkers",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Cytokines",
+        qual {
+          {
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Enzyme-Linked Immunosorbent Assay"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Prognosis"
+      },
+      {
+        term "RNA, Long Noncoding",
+        qual {
+          {
+            mp TRUE,
+            subh "blood"
+          }
+        }
+      },
+      {
+        term "Real-Time Polymerase Chain Reaction"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Sepsis",
+        qual {
+          {
+            subh "blood"
+          },
+          {
+            mp TRUE,
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Severity of Illness Index"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biomarkers"
+      },
+      {
+        type nameonly,
+        name "Cytokines"
+      },
+      {
+        type nameonly,
+        name "NEAT1 long non-coding RNA, human"
+      },
+      {
+        type nameonly,
+        name "RNA, Long Noncoding"
+      }
+    },
+    pmid 29936011,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

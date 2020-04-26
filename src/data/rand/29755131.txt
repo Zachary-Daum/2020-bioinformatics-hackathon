@@ -1,0 +1,361 @@
+
+Pubmed-entry ::= {
+  pmid 29755131,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "KMT2C mediates the estrogen dependence of breast cancer through
+ regulation of ERalpha enhancer function."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gala K",
+            affil str "Louis V. Gerstner, Jr. Graduate School of Biomedical
+ Sciences, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center,
+ New York, USA.; Human Oncology and Pathogenesis Program, Memorial Sloan
+ Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Li Q",
+            affil str "Human Oncology and Pathogenesis Program, Memorial Sloan
+ Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Sinha A",
+            affil str "Basepair, Inc, New York, USA."
+          },
+          {
+            name ml "Razavi P",
+            affil str "Human Oncology and Pathogenesis Program, Memorial Sloan
+ Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Dorso M",
+            affil str "Human Oncology and Pathogenesis Program, Memorial Sloan
+ Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Sanchez-Vega F",
+            affil str "Department of Medicine, Washington University School of
+ Medicine, St. Louis, MO, USA."
+          },
+          {
+            name ml "Chung YR",
+            affil str "Human Oncology and Pathogenesis Program, Memorial Sloan
+ Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Hendrickson R",
+            affil str "Microchemistry and Proteomics Core Facility, Memorial
+ Sloan Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Hsieh JJ",
+            affil str "Department of Medicine, Washington University School of
+ Medicine, St. Louis, MO, USA."
+          },
+          {
+            name ml "Berger M",
+            affil str "Human Oncology and Pathogenesis Program, Memorial Sloan
+ Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Schultz N",
+            affil str "Computational Biology Program, Memorial Sloan Kettering
+ Cancer Center, New York, USA."
+          },
+          {
+            name ml "Pastore A",
+            affil str "Computational Biology Program, Memorial Sloan Kettering
+ Cancer Center, New York, USA."
+          },
+          {
+            name ml "Abdel-Wahab O",
+            affil str "Human Oncology and Pathogenesis Program, Memorial Sloan
+ Kettering Cancer Center, New York, USA."
+          },
+          {
+            name ml "Chandarlapaty S",
+            affil str "Louis V. Gerstner, Jr. Graduate School of Biomedical
+ Sciences, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center,
+ New York, USA. chandars@mskcc.org.; Human Oncology and Pathogenesis Program,
+ Memorial Sloan Kettering Cancer Center, New York, USA. chandars@mskcc.org.;
+ Weill Cornell Medical College, New York, USA. chandars@mskcc.org."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oncogene",
+          ml-jta "Oncogene",
+          issn "1476-5594",
+          name "Oncogene"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 8
+          },
+          volume "37",
+          issue "34",
+          pages "4692-4710",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 26
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 28
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 30
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29755131,
+        doi "10.1038/s41388-018-0273-5",
+        pii "10.1038/s41388-018-0273-5",
+        other {
+          db "pmc",
+          tag str "PMC6107480"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS956042"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41388-018-0273-5"
+        }
+      }
+    },
+    abstract "Estrogen receptor alpha (ERalpha) is a ligand-activated nuclear
+ receptor that directs proliferation and differentiation in selected cancer
+ cell types including mammary-derived carcinomas. These master-regulatory
+ functions of ERalpha require trans-acting elements such as the pioneer factor
+ FOXA1 to establish a genomic landscape conducive to ERalpha control. Here, we
+ identify the H3K4 methyltransferase KMT2C as necessary for hormone-driven
+ ERalpha activity and breast cancer proliferation. KMT2C knockdown suppresses
+ estrogen-dependent gene expression and causes H3K4me1 and H3K27ac loss
+ selectively at ERalpha enhancers. Correspondingly, KMT2C loss impairs
+ estrogen-driven breast cancer proliferation but has no effect on ER- breast
+ cells. Whereas KMT2C loss disrupts estrogen-driven proliferation, it
+ conversely promotes tumor outgrowth under hormone-depleted conditions. In
+ accordance, KMT2C is one of the most frequently mutated genes in ER-positive
+ breast cancer with KMT2C deletion correlating with significantly shorter
+ progression-free survival on anti-estrogen therapy. From a therapeutic
+ standpoint, KMT2C-depleted cells that develop hormone-independence retain
+ their dependence on ERalpha, displaying ongoing sensitivity to ERalpha
+ antagonists. We conclude that KMT2C is a key regulator of ERalpha activity
+ whose loss uncouples breast cancer proliferation from hormone abundance.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Cell Line"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Cell Proliferation",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "DNA-Binding Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Estrogen Receptor alpha",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Estrogens",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Gene Expression Regulation, Neoplastic",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "HEK293 Cells"
+      },
+      {
+        term "Hepatocyte Nuclear Factor 3-alpha",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "MCF-7 Cells"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, Inbred C57BL"
+      },
+      {
+        term "Mice, Transgenic"
+      },
+      {
+        term "Neoplasm Proteins",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Progression-Free Survival"
+      },
+      {
+        term "Signal Transduction",
+        qual {
+          {
+            subh "physiology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "DNA-Binding Proteins"
+      },
+      {
+        type nameonly,
+        name "Estrogen Receptor alpha"
+      },
+      {
+        type nameonly,
+        name "Estrogens"
+      },
+      {
+        type nameonly,
+        name "Hepatocyte Nuclear Factor 3-alpha"
+      },
+      {
+        type nameonly,
+        name "KMT2D protein, human"
+      },
+      {
+        type nameonly,
+        name "Neoplasm Proteins"
+      },
+      {
+        type nameonly,
+        name "estrogen receptor alpha, human"
+      }
+    },
+    idnum {
+      "P30 CA008748/CA/NCI NIH HHS"
+    },
+    pmid 29755131,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

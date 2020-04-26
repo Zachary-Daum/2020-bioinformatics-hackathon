@@ -1,0 +1,200 @@
+
+Pubmed-entry ::= {
+  pmid 29899725,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Long-Term Effect of GPi-DBS in a Patient With Generalized
+ Dystonia Due to GLUT1 Deficiency Syndrome."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hanci I",
+            affil str "Department of Neurodegenerative Diseases, Hertie
+ Institute for Clinical Brain Research, University of Tubingen, Tubingen,
+ Germany.; German Centre of Neurodegenerative Diseases, University of
+ Tubingen, Tubingen, Germany.; Centre for Integrative Neuroscience, University
+ of Tubingen, Tubingen, Germany."
+          },
+          {
+            name ml "Kamm C",
+            affil str "Department of Neurology, University of Rostock,
+ Rostock, Germany."
+          },
+          {
+            name ml "Scholten M",
+            affil str "Department of Neurodegenerative Diseases, Hertie
+ Institute for Clinical Brain Research, University of Tubingen, Tubingen,
+ Germany.; German Centre of Neurodegenerative Diseases, University of
+ Tubingen, Tubingen, Germany.; Centre for Integrative Neuroscience, University
+ of Tubingen, Tubingen, Germany.; Graduate School of Neural and Behavioral
+ Sciences, International Max Planck Research School, University of Tubingen,
+ Tubingen, Germany."
+          },
+          {
+            name ml "Roncoroni LP",
+            affil str "Department of Neurodegenerative Diseases, Hertie
+ Institute for Clinical Brain Research, University of Tubingen, Tubingen,
+ Germany.; German Centre of Neurodegenerative Diseases, University of
+ Tubingen, Tubingen, Germany.; Centre for Integrative Neuroscience, University
+ of Tubingen, Tubingen, Germany."
+          },
+          {
+            name ml "Weber Y",
+            affil str "Centre for Integrative Neuroscience, University of
+ Tubingen, Tubingen, Germany.; Department of Neurology and Epileptology,
+ Hertie Institute for Clinical Brain Research, University of Tubingen,
+ Tubingen, Germany."
+          },
+          {
+            name ml "Kruger R",
+            affil str "Department of Neurodegenerative Diseases, Hertie
+ Institute for Clinical Brain Research, University of Tubingen, Tubingen,
+ Germany.; German Centre of Neurodegenerative Diseases, University of
+ Tubingen, Tubingen, Germany.; Centre for Integrative Neuroscience, University
+ of Tubingen, Tubingen, Germany.; Clinical and Experimental Neuroscience,
+ Luxembourg Centre for Systems Biomedicine, Centre Hospitalier de Luxembourg,
+ University of Luxembourg, Luxembourg, Luxembourg."
+          },
+          {
+            name ml "Plewnia C",
+            affil str "Centre for Integrative Neuroscience, University of
+ Tubingen, Tubingen, Germany.; Department of Psychiatry and Psychotherapy,
+ Neurophysiology and Interventional Neuropsychiatry, University of Tubingen,
+ Tubingen, Germany."
+          },
+          {
+            name ml "Gharabaghi A",
+            affil str "Centre for Integrative Neuroscience, University of
+ Tubingen, Tubingen, Germany.; Division of Functional and Restorative
+ Neurosurgery, Department of Neurosurgery, University of Tubingen, Tubingen,
+ Germany."
+          },
+          {
+            name ml "Weiss D",
+            affil str "Department of Neurodegenerative Diseases, Hertie
+ Institute for Clinical Brain Research, University of Tubingen, Tubingen,
+ Germany.; German Centre of Neurodegenerative Diseases, University of
+ Tubingen, Tubingen, Germany.; Centre for Integrative Neuroscience, University
+ of Tubingen, Tubingen, Germany."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Front Neurol",
+          ml-jta "Front Neurol",
+          issn "1664-2295",
+          name "Frontiers in neurology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 30
+          },
+          volume "9",
+          pages "381",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 3,
+                day 27
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 11
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 15,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29899725,
+        doi "10.3389/fneur.2018.00381",
+        other {
+          db "pmc",
+          tag str "PMC5988881"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3389/fneur.2018.00381"
+        }
+      }
+    },
+    abstract "Treatment outcomes from pallidal deep brain stimulation are
+ highly heterogeneous reflecting the phenotypic and etiologic spectrum of
+ dystonia. Treatment stratification to neurostimulation therapy primarily
+ relies on the phenotypic motor presentation; however, etiology including
+ genetic factors are increasingly recognized as modifiers of treatment
+ outcomes. Here, we describe a 53 year-old female patient with a progressive
+ generalized dystonia since age 25. The patient underwent deep brain
+ stimulation of the globus pallidus internus (GPi-DBS) at age 44. Since the
+ clinical phenotype included mobile choreo-dystonic features, we expected
+ favorable therapeutic outcome from GPi-DBS. Although mobile dystonia
+ components were slightly improved in the long-term outcome from GPi-DBS the
+ overall therapeutic response 9 years from implantation was limited when
+ comparing ""stimulation off"" and ""stimulation on"" despite of proper
+ electrode localization and sufficient stimulation programming. In order to
+ further understand the reason for this limited motor symptom response, we
+ aimed to clarify the etiology of generalized dystonia in this patient.
+ Genetic testing identified a novel heterozygous pathogenic SLC2A1 mutation as
+ cause of glucose transporter type 1 deficiency syndrome (GLUT1-DS). This case
+ report presents the first outcome of GPi-DBS in a patient with GLUT1-DS, and
+ suggests that genotype relations may increasingly complement phenotype-based
+ therapy stratification of GPi-DBS in dystonia.",
+    pmid 29899725,
+    pub-type {
+      "Case Reports"
+    },
+    status premedline
+  }
+}
+
+

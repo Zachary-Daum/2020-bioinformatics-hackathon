@@ -1,0 +1,214 @@
+
+Pubmed-entry ::= {
+  pmid 29780479,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Pentacyclic adenine: a versatile and exceptionally bright
+ fluorescent DNA base analogue."
+      },
+      authors {
+        names std {
+          {
+            name ml "Bood M",
+            affil str "Department of Chemistry and Molecular Biology ,
+ University of Gothenburg , SE-412 96 Gothenburg , Sweden . Email:
+ grotli@chem.gu.se."
+          },
+          {
+            name ml "Fuchtbauer AF",
+            affil str "Department of Chemistry and Chemical Engineering,
+ Chemistry and Biochemistry , Chalmers University of Technology , SE-412 96
+ Gothenburg , Sweden . Email: marcus.wilhelmsson@chalmers.se."
+          },
+          {
+            name ml "Wranne MS",
+            affil str "Department of Chemistry and Chemical Engineering,
+ Chemistry and Biochemistry , Chalmers University of Technology , SE-412 96
+ Gothenburg , Sweden . Email: marcus.wilhelmsson@chalmers.se."
+          },
+          {
+            name ml "Ro JJ",
+            affil str "Department of Chemistry , Division of Advanced
+ Materials Science , Pohang University of Science and Technology (POSTECH) ,
+ Pohang 37673 , South Korea."
+          },
+          {
+            name ml "Sarangamath S",
+            affil str "Department of Chemistry and Chemical Engineering,
+ Chemistry and Biochemistry , Chalmers University of Technology , SE-412 96
+ Gothenburg , Sweden . Email: marcus.wilhelmsson@chalmers.se."
+          },
+          {
+            name ml "El-Sagheer AH",
+            affil str "Chemistry Branch , Faculty of Petroleum and Mining
+ Engineering , Suez University , Suez 43721 , Egypt."
+          },
+          {
+            name ml "Rupert DLM",
+            affil str "Division of Biological Physics , Department of Physics
+ , Chalmers University of Technology , SE-412 96 Gothenburg , Sweden."
+          },
+          {
+            name ml "Fisher RS",
+            affil str "School of Chemistry , University of Edinburgh , The
+ King's Buildings , Edinburgh EH9 3JJ , UK."
+          },
+          {
+            name ml "Magennis SW",
+            affil str "WestCHEM , School of Chemistry , University of Glasgow
+ , Glasgow , G12 8QQ , UK."
+          },
+          {
+            name ml "Jones AC",
+            affil str "School of Chemistry , University of Edinburgh , The
+ King's Buildings , Edinburgh EH9 3JJ , UK."
+          },
+          {
+            name ml "Hook F",
+            affil str "Division of Biological Physics , Department of Physics
+ , Chalmers University of Technology , SE-412 96 Gothenburg , Sweden."
+          },
+          {
+            name ml "Brown T",
+            affil str "Department of Chemistry , Chemistry Research Laboratory
+ , University of Oxford , Oxford , OX1 3TA , UK."
+          },
+          {
+            name ml "Kim BH",
+            affil str "Department of Chemistry , Division of Advanced
+ Materials Science , Pohang University of Science and Technology (POSTECH) ,
+ Pohang 37673 , South Korea."
+          },
+          {
+            name ml "Dahlen A",
+            affil str "AstraZeneca R&D , Innovative Medicines , Cardiovascular
+ & Metabolic Diseases (CVMD) , Pepparedsleden 1, SE-431 83 Molndal ,
+ Gothenburg , Sweden."
+          },
+          {
+            name ml "Wilhelmsson LM",
+            affil str "Department of Chemistry and Chemical Engineering,
+ Chemistry and Biochemistry , Chalmers University of Technology , SE-412 96
+ Gothenburg , Sweden . Email: marcus.wilhelmsson@chalmers.se."
+          },
+          {
+            name ml "Grotli M",
+            affil str "Department of Chemistry and Molecular Biology ,
+ University of Gothenburg , SE-412 96 Gothenburg , Sweden . Email:
+ grotli@chem.gu.se."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Chem Sci",
+          ml-jta "Chem Sci",
+          issn "2041-6520",
+          name "Chemical science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 1
+          },
+          volume "9",
+          issue "14",
+          pages "3494-3502",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 22,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29780479,
+        doi "10.1039/c7sc05448c",
+        pii "c7sc05448c",
+        other {
+          db "pmc",
+          tag str "PMC5934695"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1039/c7sc05448c"
+        }
+      }
+    },
+    abstract "Emissive base analogs are powerful tools for probing nucleic
+ acids at the molecular level. Herein we describe the development and thorough
+ characterization of pentacyclic adenine (pA), a versatile base analog with
+ exceptional fluorescence properties. When incorporated into DNA, pA pairs
+ selectively with thymine without perturbing the B-form structure and is among
+ the brightest nucleobase analogs reported so far. Together with the recently
+ established base analog acceptor qAnitro, pA allows accurate distance and
+ orientation determination via Forster resonance energy transfer (FRET)
+ measurements. The high brightness at emission wavelengths above 400 nm also
+ makes it suitable for fluorescence microscopy, as demonstrated by imaging of
+ single liposomal constructs coated with cholesterol-anchored pA-dsDNA, using
+ total internal reflection fluorescence microscopy. Finally, pA is also highly
+ promising for two-photon excitation at 780 nm, with a brightness (5.3 GM)
+ that is unprecedented for a base analog.",
+    pmid 29780479,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

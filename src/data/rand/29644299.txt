@@ -1,0 +1,122 @@
+
+Pubmed-entry ::= {
+  pmid 29644299,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 13,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Surgical management of compartment syndrome and the gradual
+ closure of a fasciotomy wound using a DermaClose device."
+      },
+      authors {
+        names std {
+          {
+            name ml "Manista GC",
+            affil str "Cook County Trauma Unit, John H. Stroger, Jr. Hospital,
+ Chicago Illinois, United States."
+          },
+          {
+            name ml "Dennis A",
+            affil str "Cook County Trauma Unit, John H. Stroger, Jr. Hospital,
+ Chicago Illinois, United States."
+          },
+          {
+            name ml "Kaminsky M",
+            affil str "Cook County Trauma Unit, John H. Stroger, Jr. Hospital,
+ Chicago Illinois, United States."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Trauma Case Rep",
+          ml-jta "Trauma Case Rep",
+          issn "2352-6440",
+          name "Trauma case reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 1
+          },
+          volume "14",
+          pages "1-4",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 16
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 13,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29644299,
+        doi "10.1016/j.tcr.2017.10.003",
+        pii "S2352-6440(17)30047-X",
+        other {
+          db "pmc",
+          tag str "PMC5887165"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.tcr.2017.10.003"
+        }
+      }
+    },
+    abstract "The immediate recognition and timely response of compartment
+ syndrome due to damage caused by penetrating trauma has immense clinical
+ outcomes. The following is a case report of a complicated fasciotomy in a
+ 33-year-old male who suffered a gunshot wound to his left lower extremity and
+ the surgical management leading to adequate limb salvage and recovery.",
+    pmid 29644299,
+    pub-type {
+      "Case Reports"
+    },
+    status premedline
+  }
+}
+
+

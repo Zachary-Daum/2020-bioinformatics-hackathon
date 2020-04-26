@@ -1,0 +1,139 @@
+
+Pubmed-entry ::= {
+  pmid 29773146,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Posttraumatic growth moderates the effect of posttraumatic
+ stress on quality of life in U.S. military veterans with life-threatening
+ illness or injury."
+      },
+      authors {
+        names std {
+          {
+            name ml "Martz E",
+            affil str "Rehability Oregon, and Veterans Affairs Portland Health
+ Care System, USA. Electronic address: rehabilityoregon@gmail.com."
+          },
+          {
+            name ml "Livneh H",
+            affil str "Rehabilitation Counseling Program, Portland State
+ University, USA."
+          },
+          {
+            name ml "Southwick SM",
+            affil str "U.S. Department of Veterans Affairs National Center for
+ Posttraumatic Stress Disorder, VA Connecticut Healthcare System, West Haven,
+ CT, USA."
+          },
+          {
+            name ml "Pietrzak RH",
+            affil str "Department of Psychiatry, Yale University School of
+ Medicine, New Haven, CT, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Psychosom Res",
+          ml-jta "J Psychosom Res",
+          issn "1879-1360",
+          name "Journal of psychosomatic research"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "109",
+          pages "1-8",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 24
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 8
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 9
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 19,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29773146,
+        pii "S0022-3999(17)31236-9",
+        doi "10.1016/j.jpsychores.2018.03.004",
+        other {
+          db "ELocationID pii",
+          tag str "S0022-3999(17)31236-9"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jpsychores.2018.03.004"
+        }
+      }
+    },
+    pmid 29773146,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

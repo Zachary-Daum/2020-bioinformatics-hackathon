@@ -1,0 +1,161 @@
+
+Pubmed-entry ::= {
+  pmid 29909189,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 18,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "On the quantitativeness of grain boundary chemistry using STEM
+ EDS: A ZrO2 Sigma9 model grain boundary case study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Feng B",
+            affil str "Institute of Engineering Innovation, The University of
+ Tokyo, Tokyo 113-8656, Japan. Electronic address: feng@sigma.t.u-tokyo.ac.jp."
+          },
+          {
+            name ml "Lugg NR",
+            affil str "Institute of Engineering Innovation, The University of
+ Tokyo, Tokyo 113-8656, Japan."
+          },
+          {
+            name ml "Kumamoto A",
+            affil str "Institute of Engineering Innovation, The University of
+ Tokyo, Tokyo 113-8656, Japan."
+          },
+          {
+            name ml "Shibata N",
+            affil str "Institute of Engineering Innovation, The University of
+ Tokyo, Tokyo 113-8656, Japan; Nanostructures Research Laboratory, Japan Fine
+ Ceramics Center, Nagoya 456-8587, Japan."
+          },
+          {
+            name ml "Ikuhara Y",
+            affil str "Institute of Engineering Innovation, The University of
+ Tokyo, Tokyo 113-8656, Japan; Nanostructures Research Laboratory, Japan Fine
+ Ceramics Center, Nagoya 456-8587, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Ultramicroscopy",
+          ml-jta "Ultramicroscopy",
+          issn "1879-2723",
+          name "Ultramicroscopy"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "193",
+          pages "33-38",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 4,
+                day 30
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 29
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 18,
+                hour 6,
+                minute 1
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29909189,
+        pii "S0304-3991(18)30017-2",
+        doi "10.1016/j.ultramic.2018.05.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0304-3991(18)30017-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ultramic.2018.05.010"
+        }
+      }
+    },
+    abstract "Atomic-resolution energy dispersive X-ray spectroscopy (EDS) in
+ scanning transmission electron microscopy (STEM) has recently been shown to
+ be a powerful approach to investigate local chemistry of nanoscale structures
+ quantitatively. While most of the studies have been focused on the
+ quantification of the chemical composition in bulk crystals, few were
+ discussed on interfaces. In this study, we theoretically explored the
+ applicability of STEM EDS for the quantification of local chemistry in grain
+ boundaries (GBs), where the electron channeling can be dramatically changed
+ compared with the bulk due to non-periodic atomic arrangement. We find that:
+ (1) line scan analysis across the GBs or mapping analysis, which have been
+ widely used for interface analysis, sometimes leads to misinterpretation of
+ true interface chemistry. (2) Tilting the specimen, which is effective to
+ reduce the effects of scattering, is not always useful for the quantification
+ of GBs. (3) EDS analysis covering the whole GB structure unit, such as using
+ a box scan, can provide true chemical information. Our study provides useful
+ insights into characterization of interface chemistry using STEM EDS.",
+    pmid 29909189,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status premedline
+  }
+}
+
+

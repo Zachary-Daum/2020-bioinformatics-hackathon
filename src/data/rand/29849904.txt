@@ -1,0 +1,215 @@
+
+Pubmed-entry ::= {
+  pmid 29849904,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Antiskin Inflammatory Activity of Black Ginger (Kaempferia
+ parviflora) through Antioxidative Activity."
+      },
+      authors {
+        names std {
+          {
+            name ml "Lee MH",
+            affil str "Korea Food Research Institute, Wanju-gun, 55365
+ Jeollabuk-do, Republic of Korea."
+          },
+          {
+            name ml "Han AR",
+            affil str "Korea Food Research Institute, Wanju-gun, 55365
+ Jeollabuk-do, Republic of Korea."
+          },
+          {
+            name ml "Jang M",
+            affil str "Korea Food Research Institute, Wanju-gun, 55365
+ Jeollabuk-do, Republic of Korea."
+          },
+          {
+            name ml "Choi HK",
+            affil str "Korea Food Research Institute, Wanju-gun, 55365
+ Jeollabuk-do, Republic of Korea."
+          },
+          {
+            name ml "Lee SY",
+            affil str "The Hormel Institute, University of Minnesota, 801 16th
+ Ave NE, Austin, MN 55912, USA."
+          },
+          {
+            name ml "Kim KT",
+            affil str "Korea Food Research Institute, Wanju-gun, 55365
+ Jeollabuk-do, Republic of Korea."
+          },
+          {
+            name ml "Lim TG",
+            affil str "Korea Food Research Institute, Wanju-gun, 55365
+ Jeollabuk-do, Republic of Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Oxid Med Cell Longev",
+          ml-jta "Oxid Med Cell Longev",
+          issn "1942-0994",
+          name "Oxidative medicine and cellular longevity"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 3
+          },
+          volume "2018",
+          pages "5967150",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 12,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 5
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29849904,
+        doi "10.1155/2018/5967150",
+        other {
+          db "pmc",
+          tag str "PMC5903305"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1155/2018/5967150"
+        }
+      }
+    },
+    abstract "Kaempferia parviflora (Krachaidum (KD)) is a traditional herbal
+ medicine and has properties that are beneficial for human health. In the
+ current study, we sought to investigate the anti-inflammatory properties of
+ KD extract (KPE). In mouse skin tissue, UV light representing solar
+ wavelengths (sUV) increased COX-2 expression, while treatment with KPE
+ reduced this effect. The anti-inflammatory activity of KPE was confirmed in
+ in vitro models. MAPK signaling pathways were activated by sUV irradiation,
+ and this was also repressed in the presence of KPE treatment. It is assumed
+ that the anti-inflammatory activity of KPE is caused by the antioxidative
+ effect. Furthermore, we confirmed the critical role of oxidative stress in
+ sUV-induced COX-2 expression. We analyzed the polyphenol composition of KPE.
+ Of the polyphenols identified, gallic acid, apigenin, and tangeretin were
+ identified as the major polyphenols (at 9.31 +/- 1.27, 2.37 +/- 0.14, and
+ 2.15 +/- 0.19 mug/mg dry weight, resp.). Collectively, these findings show
+ that in the presence of sUV irradiation, KD has anti-inflammatory properties
+ and antioxidative effects in the skin.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Antioxidants",
+        qual {
+          {
+            subh "pharmacology"
+          },
+          {
+            mp TRUE,
+            subh "therapeutic use"
+          }
+        }
+      },
+      {
+        term "Ginger",
+        qual {
+          {
+            mp TRUE,
+            subh "chemistry"
+          }
+        }
+      },
+      {
+        term "Herbal Medicine",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Antioxidants"
+      }
+    },
+    pmid 29849904,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

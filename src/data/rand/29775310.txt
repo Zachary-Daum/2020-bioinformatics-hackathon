@@ -1,0 +1,398 @@
+
+Pubmed-entry ::= {
+  pmid 29775310,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 19,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Fragment-Based Discovery of a Potent, Orally Bioavailable
+ Inhibitor That Modulates the Phosphorylation and Catalytic Activity of ERK1/2."
+      },
+      authors {
+        names std {
+          {
+            name ml "Heightman TD",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Berdini V",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Braithwaite H",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Buck IM",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Cassidy M",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Castro J",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Courtin A",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Day JEH",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "East C",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Fazal L",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Graham B",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Griffiths-Jones CM",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Lyons JF",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Martins V",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Muench S",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Munck JM",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Norton D",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "O'Reilly M",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Palmer N",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Pathuri P",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Reader M",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Rees DC",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Rich SJ",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Richardson C",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Saini H",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Thompson NT",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Wallis NG",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Walton H",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Wilsher NE",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Woolford AJ",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          },
+          {
+            name ml "Cooke M",
+            affil str "Sygnature Discovery Ltd., BioCity , Pennyfoot Street ,
+ Nottingham , NG1 1GF , U.K."
+          },
+          {
+            name ml "Cousin D",
+            affil str "Sygnature Discovery Ltd., BioCity , Pennyfoot Street ,
+ Nottingham , NG1 1GF , U.K."
+          },
+          {
+            name ml "Onions S",
+            affil str "Sygnature Discovery Ltd., BioCity , Pennyfoot Street ,
+ Nottingham , NG1 1GF , U.K."
+          },
+          {
+            name ml "Shannon J",
+            affil str "Sygnature Discovery Ltd., BioCity , Pennyfoot Street ,
+ Nottingham , NG1 1GF , U.K."
+          },
+          {
+            name ml "Watts J",
+            affil str "Sygnature Discovery Ltd., BioCity , Pennyfoot Street ,
+ Nottingham , NG1 1GF , U.K."
+          },
+          {
+            name ml "Murray CW",
+            affil str "Astex Pharmaceuticals , 436 Cambridge Science Park ,
+ Cambridge , CB4 0QA , U.K."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Med. Chem.",
+          ml-jta "J Med Chem",
+          issn "1520-4804",
+          name "Journal of medicinal chemistry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 14
+          },
+          volume "61",
+          issue "11",
+          pages "4978-4992",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 5,
+                day 21,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29775310,
+        doi "10.1021/acs.jmedchem.8b00421",
+        other {
+          db "ELocationID doi",
+          tag str "10.1021/acs.jmedchem.8b00421"
+        }
+      }
+    },
+    abstract "Aberrant activation of the MAPK pathway drives cell
+ proliferation in multiple cancers. Inhibitors of BRAF and MEK kinases are
+ approved for the treatment of BRAF mutant melanoma, but resistance frequently
+ emerges, often mediated by increased signaling through ERK1/2. Here, we
+ describe the fragment-based generation of ERK1/2 inhibitors that block
+ catalytic phosphorylation of downstream substrates such as RSK but also
+ modulate phosphorylation of ERK1/2 by MEK without directly inhibiting MEK.
+ X-ray crystallographic and biophysical fragment screening followed by
+ structure-guided optimization and growth from the hinge into a pocket
+ proximal to the C-alpha helix afforded highly potent ERK1/2 inhibitors with
+ excellent kinome selectivity. In BRAF mutant cells, the lead compound
+ suppresses pRSK and pERK levels and inhibits proliferation at low nanomolar
+ concentrations. The lead exhibits tumor regression upon oral dosing in BRAF
+ mutant xenograft models, providing a promising basis for further optimization
+ toward clinical pERK1/2 modulating ERK1/2 inhibitors.",
+    mesh {
+      {
+        term "Administration, Oral"
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Biocatalysis",
+        qual {
+          {
+            mp TRUE,
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Biological Availability"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        mp TRUE,
+        term "Drug Discovery"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 1",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Mitogen-Activated Protein Kinase 3",
+        qual {
+          {
+            mp TRUE,
+            subh "antagonists & inhibitors"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Models, Molecular"
+      },
+      {
+        term "Phosphorylation",
+        qual {
+          {
+            subh "drug effects"
+          }
+        }
+      },
+      {
+        term "Protein Conformation"
+      },
+      {
+        term "Protein Kinase Inhibitors",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            subh "chemistry"
+          },
+          {
+            subh "pharmacokinetics"
+          },
+          {
+            mp TRUE,
+            subh "pharmacology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Protein Kinase Inhibitors"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 1"
+      },
+      {
+        type ec,
+        cit "2.7.11.24",
+        name "Mitogen-Activated Protein Kinase 3"
+      }
+    },
+    pmid 29775310,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

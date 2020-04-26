@@ -1,0 +1,214 @@
+
+Pubmed-entry ::= {
+  pmid 29452365,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 17,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Indigenous medicine and biomedical health care in fragile
+ settings: insights from Burundi."
+      },
+      authors {
+        names std {
+          {
+            name ml "Falisse JB",
+            affil str "Centre of African Studies, School of Social and
+ Political Science, University of Edinburgh, 15a George Square, EH8 9LD
+ Edinburgh, UK."
+          },
+          {
+            name ml "Masino S",
+            affil str "Department of Economics and Quantitative Methods,
+ University of Westminster, 35 Marylebone Road, London NW1 5LS, UK."
+          },
+          {
+            name ml "Ngenzebuhoro R",
+            affil str "Faculte de Medecine, Aix-Marseille Universite, 58
+ boulevard Charles Livon, 13284 Marseille 7, France."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Health Policy Plan",
+          ml-jta "Health Policy Plan",
+          issn "1460-2237",
+          name "Health policy and planning"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 1
+          },
+          volume "33",
+          issue "4",
+          pages "483-493",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 1
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29452365,
+        pii "4857224",
+        doi "10.1093/heapol/czy002",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/heapol/czy002"
+        }
+      }
+    },
+    abstract "This study contributes to the health policy debate on medical
+ systems integration by describing and analysing the interactions between
+ health-care users, indigenous healers, and the biomedical public health
+ system, in the so far rarely documented case of post-conflict Burundi. We
+ adopt a mixed-methods approach combining (1) data from an existing survey on
+ access to health-care, with 6,690 individuals, and (2) original interviews
+ and focus groups conducted in 2014 with 121 respondents, including indigenous
+ healers, biomedical staff, and health-care users. The findings reveal
+ pluralistic patterns of health-care seeking behaviour, which are not
+ primarily based on economic convenience or level of education. Indigenous
+ healers' diagnosis is shown to revolve around the concept of 'enemy' and the
+ need for protection against it. We suggest ways in which this category may
+ intersect with the widespread experience of trauma following the civil
+ conflict. Finally, we find that, while biomedical staff displays ambivalent
+ attitudes towards healers, cross-referrals occasionally take place between
+ healers and health centres. These findings are interpreted in light of the
+ debate on health systems integration in Sub-Saharan Africa. In particular, we
+ discuss policy options regarding healers' accreditation, technical training,
+ management of cross-referrals as well as of herb-drug interactions; and we
+ emphasise healers' psychological support role in helping communities deal
+ with trauma. In this respect, we argue that the experience of conflict, and
+ the experiences and conceptualizations of mental and physical illness, need
+ to be taken into account when devising appropriate public or international
+ health policy responses.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Anthropology, Cultural"
+      },
+      {
+        term "Armed Conflicts"
+      },
+      {
+        term "Burundi"
+      },
+      {
+        term "Delivery of Health Care",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Developing Countries"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Focus Groups"
+      },
+      {
+        term "Health Personnel",
+        qual {
+          {
+            subh "psychology"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Health Policy"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Medicine, Traditional",
+        qual {
+          {
+            subh "psychology"
+          },
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        mp TRUE,
+        term "Referral and Consultation"
+      },
+      {
+        term "Surveys and Questionnaires"
+      }
+    },
+    pmid 29452365,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

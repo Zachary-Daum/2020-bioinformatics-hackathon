@@ -1,0 +1,278 @@
+
+Pubmed-entry ::= {
+  pmid 29903350,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 16,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Acute Limited Intimal Tears of the Thoracic Aorta."
+      },
+      authors {
+        names std {
+          {
+            name ml "Chin AS",
+            affil str "Department of Radiology, Stanford University School of
+ Medicine, Stanford, California."
+          },
+          {
+            name ml "Willemink MJ",
+            affil str "Department of Radiology, Stanford University School of
+ Medicine, Stanford, California."
+          },
+          {
+            name ml "Kino A",
+            affil str "Department of Radiology, Stanford University School of
+ Medicine, Stanford, California."
+          },
+          {
+            name ml "Hinostroza V",
+            affil str "Department of Radiology, Stanford University School of
+ Medicine, Stanford, California."
+          },
+          {
+            name ml "Sailer AM",
+            affil str "Department of Radiology, Stanford University School of
+ Medicine, Stanford, California."
+          },
+          {
+            name ml "Fischbein MP",
+            affil str "Department of Cardiothoracic Surgery, Stanford
+ University School of Medicine, Stanford, California."
+          },
+          {
+            name ml "Mitchell RS",
+            affil str "Department of Cardiothoracic Surgery, Stanford
+ University School of Medicine, Stanford, California."
+          },
+          {
+            name ml "Berry GJ",
+            affil str "Department of Pathology, Stanford University School of
+ Medicine, Stanford, California; Stanford Cardiovascular Institute, Stanford
+ University School of Medicine, Stanford, California."
+          },
+          {
+            name ml "Miller DC",
+            affil str "Department of Cardiothoracic Surgery, Stanford
+ University School of Medicine, Stanford, California."
+          },
+          {
+            name ml "Fleischmann D",
+            affil str "Department of Radiology, Stanford University School of
+ Medicine, Stanford, California; Stanford Cardiovascular Institute, Stanford
+ University School of Medicine, Stanford, California. Electronic address:
+ d.fleischmann@stanford.edu."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Am. Coll. Cardiol.",
+          ml-jta "J Am Coll Cardiol",
+          issn "1558-3597",
+          name "Journal of the American College of Cardiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 19
+          },
+          volume "71",
+          issue "24",
+          pages "2773-2785",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 18
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 21
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 17,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29903350,
+        pii "S0735-1097(18)34537-6",
+        doi "10.1016/j.jacc.2018.03.531",
+        other {
+          db "pmc",
+          tag str "PMC6004827"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS962117"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0735-1097(18)34537-6"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.jacc.2018.03.531"
+        }
+      }
+    },
+    abstract "BACKGROUND: Limited intimal tears (LITs) of the aorta (Class 3
+ dissection variant) are the least common form of aortic pathology in patients
+ presenting with acute aortic syndrome (AAS). LITs are difficult to detect on
+ imaging and may be underappreciated. OBJECTIVES: This study sought to
+ describe the frequency, pathology, treatment, and outcome of LITs compared
+ with other AAS, and to demonstrate that LITs can be detected pre-operatively
+ by contemporary imaging. METHODS: The authors retrospectively reviewed 497
+ patients admitted for 513 AAS events at a single academic aortic center
+ between 2003 and 2012. AAS were classified into classic dissection (AD),
+ intramural hematoma, LIT, penetrating atherosclerotic ulcer, and rupturing
+ thoracic aortic aneurysm. The prevalence, pertinent risk factors, and
+ detailed imaging findings with surgical and pathological correlation of LITs
+ are described. Management, early outcomes, and late mortality are reported.
+ RESULTS: Among 497 patients with AAS, the authors identified 24 LITs (4.8% of
+ AAS) in 16 men and 8 women (17 type A, 7 type B). Patients with LITs were
+ older than those with AD, and type A LITs had similarly dilated ascending
+ aortas as type A AD. Three patients presented with rupture. Eleven patients
+ underwent urgent surgical aortic replacement, and 2 patients underwent
+ endovascular repair. Medial degeneration was present in all surgical
+ specimens. In-hospital mortality was 4% (1 of 24), and in total, 5 patients
+ with LIT died subsequently at 1.5 years (interquartile range [IQR]: 0.3 to
+ 2.5 years). Computed tomography imaging detected all but 1 LIT, best
+ visualized on volume-rendered images. CONCLUSIONS: LITs are rare acute aortic
+ lesions within the dissection spectrum, with similar presentation,
+ complications, and outcomes compared with AD and intramural hematoma.
+ Awareness of this lesion allows pre-operative diagnosis using high-quality
+ computed tomography angiography.",
+    mesh {
+      {
+        term "Adolescent"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Aorta, Thoracic",
+        qual {
+          {
+            mp TRUE,
+            subh "injuries"
+          }
+        }
+      },
+      {
+        term "Aortic Diseases",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "mortality"
+          },
+          {
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "California",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Computed Tomography Angiography"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "UL1 RR025744/RR/NCRR NIH HHS"
+    },
+    pmid 29903350,
+    pub-type {
+      "Journal Article",
+      "Observational Study",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+
+

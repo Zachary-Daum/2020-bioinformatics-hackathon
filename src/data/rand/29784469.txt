@@ -1,0 +1,244 @@
+
+Pubmed-entry ::= {
+  pmid 29784469,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Duration of post-vaccination immunity to yellow fever in
+ volunteers eight years after a dose-response study."
+      },
+      authors {
+        names std {
+          {
+            name ml "de Menezes Martins R",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil. Electronic address:
+ rmenezes@bio.fiocruz.br."
+          },
+          {
+            name ml "Maia MLS",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil."
+          },
+          {
+            name ml "de Lima SMB",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil."
+          },
+          {
+            name ml "de Noronha TG",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil."
+          },
+          {
+            name ml "Xavier JR",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil."
+          },
+          {
+            name ml "Camacho LAB",
+            affil str "National School of Public Health, Fiocruz, Brazil."
+          },
+          {
+            name ml "de Albuquerque EM",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil."
+          },
+          {
+            name ml "Farias RHG",
+            affil str "Brazilian Army Health Service, Brazil."
+          },
+          {
+            name ml "da Matta de Castro T",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil."
+          },
+          {
+            name ml "Homma A",
+            affil str "Bio-Manguinhos/Fiocruz, Brazil."
+          },
+          {
+            name consortium "Collaborative Group for Studies on Duration of
+ Immunity from Yellow Fever Vaccine"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Vaccine",
+          ml-jta "Vaccine",
+          issn "1873-2518",
+          name "Vaccine"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 27
+          },
+          volume "36",
+          issue "28",
+          pages "4112-4117",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 3,
+                day 13
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 4
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 5,
+                day 7
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 10,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29784469,
+        pii "S0264-410X(18)30661-3",
+        doi "10.1016/j.vaccine.2018.05.041",
+        other {
+          db "pmc",
+          tag str "PMC6026294"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "S0264-410X(18)30661-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.vaccine.2018.05.041"
+        }
+      }
+    },
+    abstract "In 2009, Bio-Manguinhos conducted a dose-response study with the
+ yellow fever vaccine, administering the vaccine in the usual mean dose of
+ 27,476IU (full dose, reference) and in tapered doses (10,447IU, 3013IU,
+ 587IU, 158IU, and 31IU) by the usual subcutaneous route and usual volume
+ (0.5mL). Tapered doses were obtained by dilution in the manufacturer's
+ laboratory, and the test batches presented industrial quality. Doses down to
+ 587IU showed similar immunogenicity to the full dose (27,476, reference),
+ while the 158IU and 31IU doses displayed lower immunogenicity. Seropositivity
+ was maintained at 10months, except in the group that received the 31IU dose.
+ The current study aims to determine whether yellow fever seropositivity was
+ maintained eight years after YF vaccination in non-revaccinated individuals.
+ According to the current study's results, seropositivity was maintained in
+ 85% of 318 participants and was similar across groups. The findings support
+ the use of the yellow fever vaccine in fractional doses during outbreaks, but
+ each fractional dose should have at least 587IU. This study also supports the
+ minimum dose required by WHO, 1000IU. CLINICAL TRIALS REGISTRATION:
+ Clinicaltrials.gov NCT 03338231.",
+    mesh {
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Dose-Response Relationship, Immunologic"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Injections, Subcutaneous"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Military Personnel"
+      },
+      {
+        term "Time Factors"
+      },
+      {
+        term "Volunteers"
+      },
+      {
+        term "Yellow Fever",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Yellow Fever Vaccine",
+        qual {
+          {
+            subh "administration & dosage"
+          },
+          {
+            mp TRUE,
+            subh "immunology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Yellow Fever Vaccine"
+      }
+    },
+    xref {
+    },
+    idnum {
+      "206523/Z/17/Z/Wellcome Trust"
+    },
+    pmid 29784469,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

@@ -1,0 +1,152 @@
+
+Pubmed-entry ::= {
+  pmid 29491873,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 2,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Low-Light Dependence of the Magnetic Field Effect on
+ Cryptochromes: Possible Relevance to Plant Ecology."
+      },
+      authors {
+        names std {
+          {
+            name ml "Vanderstraeten J",
+            affil str "Environmental and Work Health Research Center, School
+ of Public Health, Universite Libre de Bruxelles, Brussels, Belgium."
+          },
+          {
+            name ml "Gailly P",
+            affil str "Institute of Neuroscience, Universite Catholique de
+ Louvain, Brussels, Belgium."
+          },
+          {
+            name ml "Malkemper EP",
+            affil str "Department of General Zoology, Faculty of Biology,
+ University of Duisburg-Essen, Essen, Germany.; Department of Wildlife
+ Management, Faculty of Forestry and Wood Sciences, Czech University of Life
+ Sciences, Praha, Czechia."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Front Plant Sci",
+          ml-jta "Front Plant Sci",
+          issn "1664-462X",
+          name "Frontiers in plant science"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 14
+          },
+          volume "9",
+          pages "121",
+          language "eng",
+          retract {
+            type in-error,
+            exp "Front Plant Sci. 2018 Sep 28;9:1459. PMID: 30310387"
+          },
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 16
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 23
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 2,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 3,
+                day 2,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29491873,
+        doi "10.3389/fpls.2018.00121",
+        other {
+          db "pmc",
+          tag str "PMC5817061"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3389/fpls.2018.00121"
+        }
+      }
+    },
+    abstract "Various responses to static magnetic fields (MF) have been
+ reported in plants, and it has been suggested that the geomagnetic field
+ influences plant physiology. Accordingly, diverse mechanisms have been
+ proposed to mediate MF effects in plants. The currently most probable sensor
+ candidates are cryptochromes (Cry) which are sensitive to submillitesla MF.
+ Here, we propose a quantitative approach of the MF effect on Cry depending on
+ light intensity, and try to link it to a possible functional role for
+ magnetic sensitivity in plants. Based on a theoretical evaluation and on a
+ review of relevant data on Arabidopsis thaliana Cry 1, we point out that the
+ MF effect on the signaling state of Cry, as well as the possible consequences
+ of that effect on certain phenotypes (growth in particular) show parallel
+ dependences on light intensity, being most prominent at low light levels.
+ Based on these findings, we propose that Cry magnetosensitivity in plants
+ could represent an ecological adaptation which regulates the amount of Cry
+ signaling state under low light conditions. That hypothesis would
+ preferentially be tested by studying sensitive and specific endpoints, such
+ as the expression of clock proteins that are downregulated by Cry, but under
+ light intensities lower than those used so far. Finally, we highlight that
+ the low-light dependence of the MF effect described here could also apply to
+ light-dependent functions of animal Cry, in particular magnetoreception
+ which, from the present evaluation, would be based on the magnetic
+ sensitivity of the photoreduction reaction, like in plants.",
+    pmid 29491873,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

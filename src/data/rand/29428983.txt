@@ -1,0 +1,313 @@
+
+Pubmed-entry ::= {
+  pmid 29428983,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Low-grade systemic inflammation is associated with functional
+ disability in elderly people affected by dementia."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cervellati C",
+            affil str "Department of Biomedical and Specialist Surgical
+ Sciences, Section of Medical Biochemistry, Molecular Biology and Genetics,
+ University of Ferrara, Via Luigi Borsari 46, I-44121, Ferrara, Italy."
+          },
+          {
+            name ml "Trentini A",
+            affil str "Department of Biomedical and Specialist Surgical
+ Sciences, Section of Medical Biochemistry, Molecular Biology and Genetics,
+ University of Ferrara, Via Luigi Borsari 46, I-44121, Ferrara, Italy.
+ alessandro.trentini@unife.it."
+          },
+          {
+            name ml "Bosi C",
+            affil str "Geriatrics Operative Unit, Arcispedale S. Anna,
+ Ferrara, Italy."
+          },
+          {
+            name ml "Valacchi G",
+            affil str "Department of Life Sciences and Biotechnology,
+ University of Ferrara, 44121, Ferrara, Italy.; Department of Animal Sciences,
+ Plants for Human Health Institute, NC Research Campus, NC State University,
+ 600 Laureate Way, Kannapolis, NC, 28081, USA."
+          },
+          {
+            name ml "Morieri ML",
+            affil str "Department of Medical Science, University of Ferrara,
+ 44100, Ferrara, Italy."
+          },
+          {
+            name ml "Zurlo A",
+            affil str "Geriatrics Operative Unit, Arcispedale S. Anna,
+ Ferrara, Italy."
+          },
+          {
+            name ml "Brombo G",
+            affil str "Department of Medical Science, University of Ferrara,
+ 44100, Ferrara, Italy."
+          },
+          {
+            name ml "Passaro A",
+            affil str "Department of Medical Science, University of Ferrara,
+ 44100, Ferrara, Italy."
+          },
+          {
+            name ml "Zuliani G",
+            affil str "Department of Morphology, Surgery and Experimental
+ Medicine, University of Ferrara, 44100, Ferrara, Italy."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Geroscience",
+          ml-jta "Geroscience",
+          issn "2509-2723",
+          name "GeroScience"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2
+          },
+          volume "40",
+          issue "1",
+          pages "61-69",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 31
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 13,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 9,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29428983,
+        doi "10.1007/s11357-018-0010-6",
+        pii "10.1007/s11357-018-0010-6",
+        other {
+          db "pmc",
+          tag str "PMC5832662"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1007/s11357-018-0010-6"
+        }
+      }
+    },
+    abstract "The decline in basic and instrumental activities of daily living
+ (BADLs and IADLs, respectively) is a well-established clinical hallmark of
+ dementia. Growing evidence has shown that systemic subclinical inflammation
+ may be related to functional impairment. We evaluated the possible
+ association between low-grade systemic inflammation and functional disability
+ in older individuals affected by dementia. We explored the association
+ between high-sensitivity C-reactive protein (hs-CRP) levels and BADLs/IADLs
+ in older individuals affected by late onset Alzheimer's disease (LOAD; n
+ 110), ""mixed"" dementia (n 135), or mild cognitive impairment (MCI; n 258),
+ and compared them with 75 normal Controls. Independent of age, gender,
+ comorbidity, and other potential confounders, higher hs-CRP was significantly
+ associated with poorer BADLs (loss >/= 1 function) in people with LOAD (odds
+ ratio [OR] 3.14, 95% confidence interval [CI], 1.33-7.33) and mixed dementia
+ (OR 2.48, 95%CI 1.12-5.55), but not in those with MCI (OR 1.38, 95%CI
+ 0.83-2.45) or Controls (OR 2.98, 95%CI 0.54-10.10). No association emerged
+ between hs-CRP and IADLs in any of the sub-group. Our data suggest that
+ systemic low-grade inflammation may contribute to functional disability in
+ older patients with dementia.",
+    mesh {
+      {
+        term "Activities of Daily Living"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Aging",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Alzheimer Disease",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Analysis of Variance"
+      },
+      {
+        term "C-Reactive Protein",
+        qual {
+          {
+            mp TRUE,
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Case-Control Studies"
+      },
+      {
+        term "Cognitive Dysfunction",
+        qual {
+          {
+            subh "etiology"
+          },
+          {
+            mp TRUE,
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Dementia",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Disability Evaluation"
+      },
+      {
+        term "Disease Progression"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Geriatric Assessment",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Homocysteine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Inflammation",
+        qual {
+          {
+            mp TRUE,
+            subh "complications"
+          },
+          {
+            subh "diagnosis"
+          }
+        }
+      },
+      {
+        term "Italy"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Reference Values"
+      },
+      {
+        term "Retrospective Studies"
+      }
+    },
+    substance {
+      {
+        type cas,
+        cit "0LVT1QZ0BA",
+        name "Homocysteine"
+      },
+      {
+        type cas,
+        cit "9007-41-4",
+        name "C-Reactive Protein"
+      }
+    },
+    pmid 29428983,
+    pub-type {
+      "Comparative Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

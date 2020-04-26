@@ -1,0 +1,297 @@
+
+Pubmed-entry ::= {
+  pmid 29496080,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Improving the prediction of lung adenocarcinoma invasive
+ component on CT: Value of a vessel removal algorithm during software
+ segmentation of subsolid nodules."
+      },
+      authors {
+        names std {
+          {
+            name ml "Garzelli L",
+            affil str "Department of Radiology, Seoul National University
+ College of Medicine, and Institute of Radiation Medicine, Seoul National
+ University Medical Research Center, Seoul, Republic of Korea;
+ Pitie-Salpetriere Hospital, Pierre-and-Marie Curie University, Paris, France."
+          },
+          {
+            name ml "Goo JM",
+            affil str "Department of Radiology, Seoul National University
+ College of Medicine, and Institute of Radiation Medicine, Seoul National
+ University Medical Research Center, Seoul, Republic of Korea; Cancer Research
+ Institute, Seoul National University College of Medicine, Seoul, Republic of
+ Korea. Electronic address: jmgoo@plaza.snu.ac.kr."
+          },
+          {
+            name ml "Ahn SY",
+            affil str "Department of Radiology, Seoul National University
+ College of Medicine, and Institute of Radiation Medicine, Seoul National
+ University Medical Research Center, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Chae KJ",
+            affil str "Department of Radiology, Seoul National University
+ College of Medicine, and Institute of Radiation Medicine, Seoul National
+ University Medical Research Center, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Park CM",
+            affil str "Department of Radiology, Seoul National University
+ College of Medicine, and Institute of Radiation Medicine, Seoul National
+ University Medical Research Center, Seoul, Republic of Korea; Cancer Research
+ Institute, Seoul National University College of Medicine, Seoul, Republic of
+ Korea."
+          },
+          {
+            name ml "Jung J",
+            affil str "Department of Software Convergence, Seoul Women's
+ University, Seoul, Republic of Korea."
+          },
+          {
+            name ml "Hong H",
+            affil str "Department of Software Convergence, Seoul Women's
+ University, Seoul, Republic of Korea."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur J Radiol",
+          ml-jta "Eur J Radiol",
+          issn "1872-7727",
+          name "European journal of radiology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3
+          },
+          volume "100",
+          pages "58-65",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 4,
+                day 27
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2017,
+                month 11,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 15
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29496080,
+        pii "S0720-048X(18)30025-1",
+        doi "10.1016/j.ejrad.2018.01.016",
+        other {
+          db "ELocationID pii",
+          tag str "S0720-048X(18)30025-1"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.ejrad.2018.01.016"
+        }
+      }
+    },
+    abstract "PURPOSE: To evaluate the value of a vessel removal algorithm in
+ segmentation of subsolid nodules by comparing the software solid component
+ measurement on CT, before and after vessel removal, with the measurement of
+ the invasive component on pathology in lung adenocarcinomas manifesting as
+ subsolid nodules. MATERIALS AND METHODS: Between January 2014 and June 2015,
+ 73 subsolid nodules with an invasive component of </=10mm on pathology were
+ selected for analyses. For each nodule, semi-automated segmentation was
+ performed by 2 radiologists and 3-dimensional (D) longest, axial longest and
+ effective diameters of solid component were obtained from software, before
+ and after using a vessel removal tool. These measurements were compared with
+ the invasive component diameter on pathology using the paired t-test and
+ Pearson's correlation test. RESULTS: Sixty-eight successfully segmented
+ subsolid nodules were included. The mean maximal diameter of the invasive
+ component on pathology was 4.6mm (range, 0-10mm). The correlation between
+ software and pathology measurements was significant (p<0.01) and the
+ correlation after vessel removal (r=0.49-0.54) was better than before vessel
+ removal (r=0.27-0.41). The mean measurement difference between solid
+ component on CT and invasive tumor on pathology was significantly larger
+ before vessel removal than after vessel removal in all measurements. The
+ smallest mean measurement difference was obtained with 3D longest diameter of
+ solid component after vessel removal in both readers (-0.26mm to 0.10mm),
+ with no significant difference from pathology (p=0.53-0.83). CONCLUSION: By
+ adding a vessel removal algorithm in software segmentation of subsolid
+ nodules, the prediction of invasive component in lung adenocarcinomas can be
+ improved.",
+    mesh {
+      {
+        term "Adenocarcinoma",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Adenocarcinoma of Lung"
+      },
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Algorithms"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Image Processing, Computer-Assisted",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Lung",
+        qual {
+          {
+            subh "diagnostic imaging"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Lung Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Multiple Pulmonary Nodules",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          },
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Neoplasm Invasiveness"
+      },
+      {
+        term "Predictive Value of Tests"
+      },
+      {
+        term "Reproducibility of Results"
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Tomography, X-Ray Computed",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29496080,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

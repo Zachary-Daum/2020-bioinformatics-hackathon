@@ -1,0 +1,120 @@
+
+Pubmed-entry ::= {
+  pmid 29944292,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Opioid consumption from 1985 to 2015 : The situation in
+ Switzerland, with an international comparison].",
+        trans "Consommation d'opioides entre 1985 et 2015 : chiffres suisses
+ et mise en perspective internationale."
+      },
+      authors {
+        names std {
+          {
+            name ml "Ruchat D",
+            affil str "Faculte de Biologie et Medecine, Universite de Lausanne
+ UNIL, 1015 Lausanne."
+          },
+          {
+            name ml "Suter MR",
+            affil str "Centre d'antalgie, Service d'anesthesiologie, CHUV,
+ 1011 Lausanne."
+          },
+          {
+            name ml "Rodondi PY",
+            affil str "Institut fribourgeois de medecine de famille,
+ Universite de Fribourg, Rue de Rome 2, 1700 Fribourg."
+          },
+          {
+            name ml "Berna C",
+            affil str "Centre d'antalgie, Service d'anesthesiologie, CHUV,
+ 1011 Lausanne."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Rev Med Suisse",
+          ml-jta "Rev Med Suisse",
+          issn "1660-9379",
+          name "Revue medicale suisse"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 20
+          },
+          volume "14",
+          issue "612",
+          pages "1262-1266",
+          language "fre",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 6,
+                day 27,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29944292,
+        pii "RMS0612-002"
+      }
+    },
+    abstract "In North America the massive increase in opioid prescriptions
+ for chronic non-cancer pain has been a major health issue for several years.
+ In Switzerland, the situation is less well known. This article aims to
+ present the evolution of the Swiss consumption and replace it in a European
+ and international context using the International Narcotics Control Board
+ database. Between 1985 and 2015, the Swiss opioid consumption raised from 18
+ to 421 mg/person/year, making Switzerland the 7th largest opioid consumer per
+ capita in the world. This increase could be due to more adequate pain
+ management or liberalized opioid prescription for indications unsupported by
+ the current evidence. Given these elements, further research is needed, yet
+ increased caution is recommended when prescribing opioid drugs.",
+    pmid 29944292,
+    pub-type {
+      "English Abstract",
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

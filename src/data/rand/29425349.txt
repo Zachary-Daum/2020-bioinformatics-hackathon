@@ -1,0 +1,92 @@
+
+Pubmed-entry ::= {
+  pmid 29425349,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Fuwai Hospital, Beijing, China: The World's Largest
+ Cardiovascular Science Centre with more than 1200 beds."
+      },
+      authors {
+        names ml {
+          "Duru F"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Eur. Heart J.",
+          ml-jta "Eur Heart J",
+          issn "1522-9645",
+          name "European heart journal"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 7
+          },
+          volume "39",
+          issue "6",
+          pages "428-429",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 2,
+                day 10,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29425349,
+        pii "4840752",
+        doi "10.1093/eurheartj/ehx804",
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/eurheartj/ehx804"
+        }
+      }
+    },
+    pmid 29425349,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

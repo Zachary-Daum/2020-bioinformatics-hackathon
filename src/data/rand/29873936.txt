@@ -1,0 +1,208 @@
+
+Pubmed-entry ::= {
+  pmid 29873936,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Endothelium-dependent responses in the microcirculation observed
+ in vivo."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rosenblum WI",
+            affil str "Department of Pathology, Icahn School of Medicine at Mt
+ Sinai NYC, New York, NY, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Acta Physiol (Oxf)",
+          ml-jta "Acta Physiol (Oxf)",
+          issn "1748-1716",
+          name "Acta physiologica (Oxford, England)"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 10
+          },
+          volume "224",
+          issue "2",
+          pages "e13111",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 30
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 5,
+                day 19
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 4
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 11,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29873936,
+        doi "10.1111/apha.13111",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/apha.13111"
+        }
+      }
+    },
+    abstract "Endothelium-dependent responses were first demonstrated 40 years
+ ago in the aorta. Since then, extensive research has been conducted in vitro
+ using conductance vessels and materials derived from them. However, the
+ microcirculation controls blood flow to vital organs and has been the focus
+ of in vivo studies of endothelium-dependent dilation beginning immediately
+ after the first in vitro report. Initial in vivo studies employed a light/dye
+ technique for selectively damaging the endothelium to unequivocally prove, in
+ vivo, the existence of endothelium-dependent dilation and in the
+ microvasculature. Endothelium-dependent constriction was similarly proven.
+ Endothelium-dependent agonists include acetylcholine (ACh), bradykinin,
+ arachidonic acid, calcium ionophore A-23187, calcitonin gene-related peptide
+ (CGRP), serotonin, histamine and endothelin-1. Normal and disease states have
+ been studied. Endothelial nitric oxide synthase, cyclooxygenase and
+ cytochrome P450 have been shown to generate the mediators of the responses.
+ Some of the key enzyme systems generate reactive oxygen species (ROS) like
+ superoxide which may prevent EDR. However, one ROS, namely H2 O2 , is one of
+ a number of hyperpolarizing factors that cause dilation initiated by
+ endothelium. Depending upon microvascular bed, a single agonist may use
+ different pathways to elicit an endothelium-dependent response.
+ Interpretation of studies using inhibitors of eNOS is complicated by the fact
+ that these inhibitors may also inhibit ATP-sensitive potassium channels.
+ Other in vivo observations of brain arterioles failed to establish nitric
+ oxide as the mediator of responses elicited by CGRP or by ACh and suggest
+ that a nitrosothiol may be a better fit for the latter.",
+    mesh {
+      {
+        term "Acetylcholine",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Animals"
+      },
+      {
+        term "Endothelium, Vascular",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Microcirculation",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Nitric Oxide",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Vasoconstrictor Agents"
+      },
+      {
+        term "Vasodilator Agents"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Vasoconstrictor Agents"
+      },
+      {
+        type nameonly,
+        name "Vasodilator Agents"
+      },
+      {
+        type cas,
+        cit "31C4KY9ESH",
+        name "Nitric Oxide"
+      },
+      {
+        type cas,
+        cit "N9YNS0M02X",
+        name "Acetylcholine"
+      }
+    },
+    pmid 29873936,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

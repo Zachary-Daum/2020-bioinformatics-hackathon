@@ -1,0 +1,227 @@
+
+Pubmed-entry ::= {
+  pmid 29937526,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Risk Factors for Ventricular Septal Defects in Murmansk County,
+ Russia: A Registry-Based Study."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kovalenko AA",
+            affil str "Department of Community Medicine, UiT The Arctic
+ University of Norway, 9037 Tromso, Norway. anton.a.kovalenko@uit.no.;
+ International School of Public Health, Northern State Medical University,
+ 163000 Arkhangelsk, Russia. anton.a.kovalenko@uit.no."
+          },
+          {
+            name ml "Anda EE",
+            affil str "Department of Community Medicine, UiT The Arctic
+ University of Norway, 9037 Tromso, Norway. erik.anda@uit.no."
+          },
+          {
+            name ml "Odland JO",
+            affil str "Department of Community Medicine, UiT The Arctic
+ University of Norway, 9037 Tromso, Norway. jon.oyvind.odland@uit.no."
+          },
+          {
+            name ml "Nieboer E",
+            affil str "Department of Biochemistry and Biomedical Sciences,
+ McMaster University, Hamilton, L9H 6C6 ON, Canada. nieboere@mcmaster.ca."
+          },
+          {
+            name ml "Brenn T",
+            affil str "Department of Community Medicine, UiT The Arctic
+ University of Norway, 9037 Tromso, Norway. tormod.brenn@uit.no."
+          },
+          {
+            name ml "Krettek A",
+            affil str "Department of Community Medicine, UiT The Arctic
+ University of Norway, 9037 Tromso, Norway. alexandra.krettek@uit.no.;
+ Department of Biomedicine and Public Health, School of Health and Education,
+ University of Skovde, 54128 Skovde, Sweden. alexandra.krettek@uit.no.;
+ Department of Internal Medicine and Clinical Nutrition, Institute of
+ Medicine, Sahlgrenska Academy at University of Gothenburg, 41390 Gothenburg,
+ Sweden. alexandra.krettek@uit.no."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Environ Res Public Health",
+          ml-jta "Int J Environ Res Public Health",
+          issn "1660-4601",
+          name "International journal of environmental research and public
+ health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6,
+            day 24
+          },
+          volume "15",
+          issue "7",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 4,
+                day 20
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 6,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 6,
+                day 22
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29937526,
+        pii "ijerph15071320",
+        doi "10.3390/ijerph15071320",
+        other {
+          db "pmc",
+          tag str "PMC6069126"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "E1320"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.3390/ijerph15071320"
+        }
+      }
+    },
+    abstract "Cardiovascular malformations are one of the most common birth
+ defects among newborns and constitute a leading cause of perinatal and infant
+ mortality. Although some risk factors are recognized, the causes of
+ cardiovascular malformations (CVMs) remain largely unknown. In this study, we
+ aim to identify risk factors for ventricular septal defects (VSDs) in
+ Northwest Russia. The study population included singleton births registered
+ in the Murmansk County Birth Registry (MCBR) between 1 January 2006 and 31
+ December 2011. Infants with a diagnosis of VSD in the MCBR and/or in the
+ Murmansk Regional Congenital Defects Registry (up to two years post-delivery)
+ constituted the study sample. Among the 52,253 infants born during the study
+ period there were 744 cases of septal heart defects (SHDs), which corresponds
+ to a prevalence of 14.2 [95% confidence interval (CI) of 13.2(-)15.3] per
+ 1000 infants. Logistic regression analyses were carried out to identify VSD
+ risk factors. Increased risk of VSDs was observed among infants born to
+ mothers who abused alcohol [OR = 4.83; 95% CI 1.88(-)12.41], or smoked during
+ pregnancy [OR = 1.35; 95% CI 1.02(-)1.80]. Maternal diabetes mellitus was
+ also a significant risk factor [OR = 8.72; 95% CI 3.16(-)24.07], while
+ maternal age, body mass index, folic acid and multivitamin intake were not
+ associated with increased risk. Overall risks of VSDs for male babies were
+ lower [OR = 0.67; 95% CI 0.52(-)0.88].",
+    mesh {
+      {
+        term "Female"
+      },
+      {
+        term "Heart Septal Defects, Ventricular",
+        qual {
+          {
+            subh "epidemiology"
+          },
+          {
+            mp TRUE,
+            subh "etiology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Infant, Newborn"
+      },
+      {
+        term "Logistic Models"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Registries"
+      },
+      {
+        term "Risk Factors"
+      },
+      {
+        term "Russia",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      }
+    },
+    pmid 29937526,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

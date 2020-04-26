@@ -1,0 +1,154 @@
+
+Pubmed-entry ::= {
+  pmid 29739669,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 10,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Bullying biosimilars: cheaper drugs stymied in USA."
+      },
+      authors {
+        names ml {
+          "The Lancet Gastroenterology Hepatology"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Lancet Gastroenterol Hepatol",
+          ml-jta "Lancet Gastroenterol Hepatol",
+          issn "2468-1253",
+          name "The lancet. Gastroenterology & hepatology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 6
+          },
+          volume "3",
+          issue "6",
+          pages "371",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29739669,
+        pii "S2468-1253(18)30126-2",
+        doi "10.1016/S2468-1253(18)30126-2",
+        other {
+          db "ELocationID pii",
+          tag str "S2468-1253(18)30126-2"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/S2468-1253(18)30126-2"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Biosimilar Pharmaceuticals",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        term "Cost Savings"
+      },
+      {
+        term "Drug Approval"
+      },
+      {
+        term "Drug Costs"
+      },
+      {
+        term "Drug Development",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        term "Drug Industry",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Economic Competition"
+      },
+      {
+        term "Insurance, Health",
+        qual {
+          {
+            mp TRUE,
+            subh "economics"
+          }
+        }
+      },
+      {
+        term "United States"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Biosimilar Pharmaceuticals"
+      }
+    },
+    pmid 29739669,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

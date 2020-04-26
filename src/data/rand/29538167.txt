@@ -1,0 +1,179 @@
+
+Pubmed-entry ::= {
+  pmid 29538167,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prostatic artery embolization for benign prostatic hyperplasia:
+ a review."
+      },
+      authors {
+        names std {
+          {
+            name ml "Young S",
+            affil str "Division of Interventional Radiology, Department of
+ Radiology, University of Minnesota, Minneapolis, Minnesota, USA."
+          },
+          {
+            name ml "Golzarian J"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Curr Opin Urol",
+          ml-jta "Curr Opin Urol",
+          issn "1473-6586",
+          name "Current opinion in urology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "28",
+          issue "3",
+          pages "284-287",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 8,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29538167,
+        doi "10.1097/MOU.0000000000000495",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/MOU.0000000000000495"
+        }
+      }
+    },
+    abstract "PURPOSE OF REVIEW: Over the last several years prostate artery
+ embolization (PAE) has been developed as a minimally invasive technique for
+ the treatment of benign prostatic hyperplasia induced lower urinary tract
+ symptoms. This review aims to elucidate the data available on this developing
+ technique and identify areas requiring further investigation. RECENT
+ FINDINGS: Recent studies have demonstrated that PAE is able to deliver
+ excellent clinical outcomes in terms of International Prostate Symptom Score,
+ quality-of-life score, maximum urinary flow rate, post-void residual, and
+ prostate volume reduction. These outcomes have been accomplished with a very
+ low complication profile. Several authors have also been able to demonstrate
+ good outcomes with PAE in the setting of large prostates, a challenge for
+ some other minimally invasive techniques. However, it is important to note
+ that the majority of studies published have been retrospective in nature, and
+ the two prospective clinical trials have had several weaknesses. SUMMARY:
+ Initial data on PAE shows it can provide excellent clinical outcomes with
+ patients experiencing minimal complications. However, more high-quality,
+ high-level data are needed particularly in regards to long-term outcomes to
+ determine durability.",
+    mesh {
+      {
+        term "Embolization, Therapeutic",
+        qual {
+          {
+            subh "adverse effects"
+          },
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Organ Size"
+      },
+      {
+        term "Prostate",
+        qual {
+          {
+            mp TRUE,
+            subh "blood supply"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Prostatic Hyperplasia",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            subh "pathology"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Quality of Life"
+      },
+      {
+        term "Randomized Controlled Trials as Topic"
+      },
+      {
+        term "Severity of Illness Index"
+      },
+      {
+        term "Treatment Outcome"
+      }
+    },
+    pmid 29538167,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

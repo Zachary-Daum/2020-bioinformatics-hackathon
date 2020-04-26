@@ -1,0 +1,200 @@
+
+Pubmed-entry ::= {
+  pmid 29471338,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 23,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Transitioning from river blindness control to elimination: steps
+ toward stopping treatment."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cantey PT",
+            affil str "Department of Neglected Tropical Diseases, World Health
+ Organization, Geneva 1211, Switzerland."
+          },
+          {
+            name ml "Roy SL",
+            affil str "Division of Parasitic Diseases and Malaria, U.S.
+ Centers for Disease Control and Prevention, Atlanta, GA 30329, USA."
+          },
+          {
+            name ml "Boakye D",
+            affil str "Parasitology Department, Noguchi Memorial Institute for
+ Medical Research, Accra, LG581, Ghana."
+          },
+          {
+            name ml "Mwingira U",
+            affil str "Neglected Tropical Diseases Control Programme, Ministry
+ of Health, Community Development, Gender, Elderly and Children, Dar es Salaam
+ 11478, Tanzania.; National Institute for Medical Research, Dar es Salaam
+ 11101, Tanzania."
+          },
+          {
+            name ml "Ottesen EA",
+            affil str "Task Force for Global Health, Atlanta, GA 30030, USA."
+          },
+          {
+            name ml "Hopkins AD",
+            affil str "Independent Consultant, Gravesend DA1, UK."
+          },
+          {
+            name ml "Sodahlon YK",
+            affil str "Mectizan Donation Program, Atlanta, GA 30030, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int Health",
+          ml-jta "Int Health",
+          issn "1876-3405",
+          name "International health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 1
+          },
+          volume "10",
+          issue "suppl_1",
+          pages "i7-i13",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 11
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2017,
+                month 10,
+                day 31
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 10,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29471338,
+        pii "4868657",
+        doi "10.1093/inthealth/ihx049",
+        other {
+          db "pmc",
+          tag str "PMC5881257"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1093/inthealth/ihx049"
+        }
+      }
+    },
+    abstract "The transition from onchocerciasis control to elimination
+ requires country programmes to rethink their approach to a variety of
+ activities as they move from addressing morbidity to addressing transmission
+ of the parasite. Although the 2016 WHO guidelines provide extensive
+ recommendations, it was beyond the scope of the document to provide guidance
+ on all aspects of the transition. This paper will discuss some of the
+ important issues that programmes are grappling with as they transition to
+ elimination and provide some potential approaches that programmes can use to
+ address them. Although there are some data to support some aspects of the
+ suggested approaches, operational research will be needed to generate data to
+ support these approaches further and to determine how programmes could best
+ tailor them to their own unique epidemiological challenges. Good
+ communication between the national programmes and the broader global
+ programme will facilitate the clear articulation of programmatic challenges
+ and the development of the evidence to support programme decision-making.",
+    mesh {
+      {
+        term "Communication"
+      },
+      {
+        term "Disease Eradication",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Global Health"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Onchocerciasis",
+        qual {
+          {
+            subh "prevention & control"
+          }
+        }
+      },
+      {
+        term "Onchocerciasis, Ocular",
+        qual {
+          {
+            mp TRUE,
+            subh "prevention & control"
+          }
+        }
+      }
+    },
+    idnum {
+      "001/World Health Organization"
+    },
+    pmid 29471338,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

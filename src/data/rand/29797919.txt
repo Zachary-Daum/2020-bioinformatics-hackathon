@@ -1,0 +1,130 @@
+
+Pubmed-entry ::= {
+  pmid 29797919,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "[Acupoint selection for acupuncture analgesia based on the
+ relationship of ""the opening-closing- pivoting theory"" with meridians and
+ zangfu organs]."
+      },
+      authors {
+        names std {
+          {
+            name ml "Huang W",
+            affil str "College of Acupuncture, Moxibustion and Tuina, Hunan
+ University of CM, Changsha 410007, China."
+          },
+          {
+            name ml "Lou B",
+            affil str "Department of Acupuncture and Moxibustion, First
+ Affiliated Hospital of Hunan University of CM, Changsha 410007."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Zhongguo Zhen Jiu",
+          ml-jta "Zhongguo Zhen Jiu",
+          issn "0255-2930",
+          name "Zhongguo zhen jiu = Chinese acupuncture & moxibustion"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5,
+            day 12
+          },
+          volume "38",
+          issue "5",
+          pages "5353-5358",
+          language "chi",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 8,
+                day 18,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29797919,
+        doi "10.13703/j.0255-2930.2018.05.022",
+        other {
+          db "ELocationID doi",
+          tag str "10.13703/j.0255-2930.2018.05.022"
+        }
+      }
+    },
+    abstract """The opening-closing-pivoting theory"" recorded in Neijing
+ (Internal Classic) visualizes the qi activity of six meridians and indicates
+ the relationship among the six meridians in physiology and pathology. Through
+ the analysis on the classic medical works and modern literature of TCM by the
+ modern medical masters, a specific relationship is discovered among the hand
+ and foot meridians of the same name and among the zangfu organs. The qi is
+ corresponded and interacted among the hand and foot meridians of the same
+ name. Except the exterior and interior relationship among the zangfu organs,
+ the related communication is also existing. Both meridians and zangfu organs
+ are closely related to ""the opening-closing- pivoting"" theory. This
+ discovery is the inheritance and development of ""the
+ opening-closing-pivoting theory"" and plays the important role in the
+ guidance of the acupoint selection of clinical acupuncture analgesia.",
+    mesh {
+      {
+        mp TRUE,
+        term "Acupuncture Analgesia"
+      },
+      {
+        mp TRUE,
+        term "Acupuncture Points"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Meridians"
+      }
+    },
+    pmid 29797919,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

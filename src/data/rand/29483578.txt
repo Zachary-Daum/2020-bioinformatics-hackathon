@@ -1,0 +1,209 @@
+
+Pubmed-entry ::= {
+  pmid 29483578,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 28,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Targeting Ligand Specificity Linked to Tumor Tissue Topological
+ Heterogeneity via Single-Cell Micro-Pharmacological Modeling."
+      },
+      authors {
+        names std {
+          {
+            name ml "Karolak A",
+            affil str "Integrated Mathematical Oncology, H. Lee Moffitt Cancer
+ Center & Research Institute, Tampa, FL, USA."
+          },
+          {
+            name ml "Estrella VC",
+            affil str "Cancer Physiology, H. Lee Moffitt Cancer Center &
+ Research Institute, Tampa, FL, USA."
+          },
+          {
+            name ml "Huynh AS",
+            affil str "Cancer Physiology, H. Lee Moffitt Cancer Center &
+ Research Institute, Tampa, FL, USA."
+          },
+          {
+            name ml "Chen T",
+            affil str "Analytic Microscopy Core, H. Lee Moffitt Cancer Center
+ & Research Institute, Tampa, FL, USA."
+          },
+          {
+            name ml "Vagner J",
+            affil str "Bio5 Institute, The University of Arizona, Tucson, AZ,
+ USA."
+          },
+          {
+            name ml "Morse DL",
+            affil str "Cancer Physiology, H. Lee Moffitt Cancer Center &
+ Research Institute, Tampa, FL, USA.; Department of Oncologic Sciences,
+ University of South Florida, Tampa, FL, USA."
+          },
+          {
+            name ml "Rejniak KA",
+            affil str "Integrated Mathematical Oncology, H. Lee Moffitt Cancer
+ Center & Research Institute, Tampa, FL, USA. kasia@rejniak.net.; Department
+ of Oncologic Sciences, University of South Florida, Tampa, FL, USA.
+ kasia@rejniak.net."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sci Rep",
+          ml-jta "Sci Rep",
+          issn "2045-2322",
+          name "Scientific reports"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 2,
+            day 26
+          },
+          volume "8",
+          issue "1",
+          pages "3638",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 5,
+                day 18
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 13
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 28,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 9,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29483578,
+        doi "10.1038/s41598-018-21883-z",
+        pii "10.1038/s41598-018-21883-z",
+        other {
+          db "pmc",
+          tag str "PMC5827036"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1038/s41598-018-21883-z"
+        }
+      }
+    },
+    abstract "Targeted therapy has held promise to be a successful anticancer
+ treatment due to its specificity towards tumor cells that express the target
+ receptors. However, not all targeting drugs used in the clinic are equally
+ effective in tumor eradication. To examine which biochemical and biophysical
+ properties of targeted agents are pivotal for their effective distribution
+ inside the tumor and their efficient cellular uptake, we combine mathematical
+ micro-pharmacological modeling with in vivo imaging of targeted human
+ xenograft tumors in SCID mice. The mathematical model calibrated to
+ experimental data was used to explore properties of the targeting ligand
+ (diffusion and affinity) and ligand release schemes (rates and
+ concentrations) with a goal to identify the properties of cells and ligands
+ that enable high receptor saturation. By accounting for heterogeneities
+ typical of in vivo tumors, our model was able to identify cell- and
+ tissue-level barriers to efficient drug uptake. This work provides a base for
+ utilizing experimentally measurable properties of a ligand-targeted agent and
+ patient-specific attributes of the tumor tissue to support the development of
+ novel targeted imaging agents and for improvement in their delivery to
+ individual tumor cells.",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Cell Line, Tumor"
+      },
+      {
+        term "Drug Delivery Systems"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Mice, SCID"
+      },
+      {
+        term "Microscopy, Fluorescence"
+      },
+      {
+        mp TRUE,
+        term "Models, Theoretical"
+      },
+      {
+        term "Pancreatic Neoplasms",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      }
+    },
+    idnum {
+      "P30 CA076292/CA/NCI NIH HHS",
+      "R01 CA123547/CA/NCI NIH HHS",
+      "U01 CA202229/CA/NCI NIH HHS"
+    },
+    pmid 29483578,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

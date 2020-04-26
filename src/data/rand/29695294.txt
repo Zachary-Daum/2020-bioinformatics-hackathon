@@ -1,0 +1,196 @@
+
+Pubmed-entry ::= {
+  pmid 29695294,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 27,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "The hologenome concept of evolution after 10 years."
+      },
+      authors {
+        names std {
+          {
+            name ml "Rosenberg E",
+            affil str "Department of Molecular Microbiology and Biotechnology,
+ Tel Aviv University, Ramat Aviv, Israel. eros@post.tau.ac.il."
+          },
+          {
+            name ml "Zilber-Rosenberg I",
+            affil str "Department of Molecular Microbiology and Biotechnology,
+ Tel Aviv University, Ramat Aviv, Israel."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Microbiome",
+          ml-jta "Microbiome",
+          issn "2049-2618",
+          name "Microbiome"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 4,
+            day 25
+          },
+          volume "6",
+          issue "1",
+          pages "78",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 9,
+                day 22
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 4,
+                day 5
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 27,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 1,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29695294,
+        doi "10.1186/s40168-018-0457-9",
+        pii "10.1186/s40168-018-0457-9",
+        other {
+          db "pmc",
+          tag str "PMC5922317"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1186/s40168-018-0457-9"
+        }
+      }
+    },
+    abstract "The holobiont (host with its endocellular and extracellular
+ microbiome) can function as a distinct biological entity, an additional
+ organismal level to the ones previously considered, on which natural
+ selection operates. The holobiont can function as a whole: anatomically,
+ metabolically, immunologically, developmentally, and during evolution.
+ Consideration of the holobiont with its hologenome as an independent level of
+ selection in evolution has led to a better understanding of underappreciated
+ modes of genetic variation and evolution. The hologenome is comprised of two
+ complimentary parts: host and microbiome genomes. Changes in either genome
+ can result in variations that can be selected for or against. The host genome
+ is highly conserved, and genetic changes within it occur slowly, whereas the
+ microbiome genome is dynamic and can change rapidly in response to the
+ environment by increasing or reducing particular microbes, by acquisition of
+ novel microbes, by horizontal gene transfer, and by mutation. Recent
+ experiments showing that microbiota can play an initial role in speciation
+ have been suggested as an additional mode of enhancing evolution. Some of the
+ genetic variations can be transferred to offspring by a variety of
+ mechanisms. Strain-specific DNA analysis has shown that at least some of the
+ microbiota can be maintained across hundreds of thousands of host
+ generations, implying the existence of a microbial core. We argue that rapid
+ changes in the microbiome genome could allow holobionts to adapt and survive
+ under changing environmental conditions thus providing the time necessary for
+ the host genome to adapt and evolve. As Darwin wrote, ""It is not the
+ strongest of the species that survives but the most adaptable"".",
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        mp TRUE,
+        term "Biological Evolution"
+      },
+      {
+        mp TRUE,
+        term "Evolution, Molecular"
+      },
+      {
+        term "Gene Transfer, Horizontal"
+      },
+      {
+        term "Genetic Variation"
+      },
+      {
+        term "Genome",
+        qual {
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Microbiota",
+        qual {
+          {
+            mp TRUE,
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Plants"
+      },
+      {
+        term "Symbiosis",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      }
+    },
+    pmid 29695294,
+    pub-type {
+      "Journal Article",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

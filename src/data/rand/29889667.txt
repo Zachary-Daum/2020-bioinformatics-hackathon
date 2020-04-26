@@ -1,0 +1,182 @@
+
+Pubmed-entry ::= {
+  pmid 29889667,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 12,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Hormone Therapy: Key Points From NAMS 2017 Position Statement."
+      },
+      authors {
+        names std {
+          {
+            name ml "Pinkerton JV",
+            affil str "University of Virginia Health System, Charlottesville,
+ Virginia; The North American Menopause Society, Cleveland, Ohio."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Obstet Gynecol",
+          ml-jta "Clin Obstet Gynecol",
+          issn "1532-5520",
+          name "Clinical obstetrics and gynecology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "61",
+          issue "3",
+          pages "447-453",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 3,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29889667,
+        doi "10.1097/GRF.0000000000000383",
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/GRF.0000000000000383"
+        }
+      }
+    },
+    abstract "The goal of the 2017 North American Menopause Society Hormone
+ Therapy (HT) Position Statement is to remove fear about HT and encourage
+ individualized shared decision making, using best available evidence.
+ Systemic HT is safe and effective for symptomatic menopausal women aged
+ younger than 60 years and within 10 years of menopause. Special populations
+ of early menopause, high risk for fracture, risk of breast or uterine cancer,
+ and extended duration are discussed. With longer duration of use, periodic
+ evaluation and reassessment of health risks are needed. Lowered doses,
+ transdermal therapies or newer options may enhance the benefit:risk ratio for
+ HT.",
+    mesh {
+      {
+        term "Administration, Intravaginal"
+      },
+      {
+        term "Breast Neoplasms",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            subh "genetics"
+          }
+        }
+      },
+      {
+        term "Contraindications, Drug"
+      },
+      {
+        term "Endometrial Neoplasms",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Estrogens",
+        qual {
+          {
+            subh "administration & dosage"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Genital Diseases, Female",
+        qual {
+          {
+            subh "drug therapy"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Hormone Replacement Therapy"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Menopause",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Practice Guidelines as Topic"
+      },
+      {
+        term "Societies, Medical"
+      }
+    },
+    substance {
+      {
+        type nameonly,
+        name "Estrogens"
+      }
+    },
+    pmid 29889667,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    },
+    status medline
+  }
+}
+
+

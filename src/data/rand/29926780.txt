@@ -1,0 +1,174 @@
+
+Pubmed-entry ::= {
+  pmid 29926780,
+  medent {
+    em std {
+      year 2018,
+      month 6,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Tackling inactivity and osteoarthritis through a health and
+ community leisure partnership."
+      },
+      authors {
+        names std {
+          {
+            name ml "Sibley F",
+            affil str "Health Innovation Network."
+          },
+          {
+            name ml "Thompson F",
+            affil str "Health Innovation Network."
+          },
+          {
+            name ml "Carter A",
+            affil str "Health Innovation Network."
+          },
+          {
+            name ml "Hurley M",
+            affil str "Health Innovation Network and University of London."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Perspect Public Health",
+          ml-jta "Perspect Public Health",
+          issn "1757-9147",
+          name "Perspectives in public health"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "138",
+          issue "4",
+          pages "188-189",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 6,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 19,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29926780,
+        doi "10.1177/1757913918778949",
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/1757913918778949"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Community-Institutional Relations"
+      },
+      {
+        term "Exercise Therapy",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Motor Activity",
+        qual {
+          {
+            mp TRUE,
+            subh "physiology"
+          }
+        }
+      },
+      {
+        term "Osteoarthritis",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "therapy"
+          }
+        }
+      },
+      {
+        term "Pain",
+        qual {
+          {
+            subh "complications"
+          }
+        }
+      },
+      {
+        term "Pain Management",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Sedentary Behavior"
+      },
+      {
+        term "United Kingdom"
+      }
+    },
+    pmid 29926780,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

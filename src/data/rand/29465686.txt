@@ -1,0 +1,246 @@
+
+Pubmed-entry ::= {
+  pmid 29465686,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 22,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Prevalence and Detection of Trichomonas vaginalis in
+ HIV-Infected Pregnant Women."
+      },
+      authors {
+        names ml {
+          "Price CM",
+          "Peters RPH",
+          "Steyn J",
+          "Mudau M",
+          "Olivier D",
+          "De Vos L",
+          "Morikawa E",
+          "Kock MM",
+          "Medina-Marino A",
+          "Klausner JD"
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Sex Transm Dis",
+          ml-jta "Sex Transm Dis",
+          issn "1537-4521",
+          name "Sexually transmitted diseases"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 5
+          },
+          volume "45",
+          issue "5",
+          pages "332-336",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 30,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 22,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29465686,
+        doi "10.1097/OLQ.0000000000000756",
+        other {
+          db "pmc",
+          tag str "PMC5897177"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS917434"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1097/OLQ.0000000000000756"
+        }
+      }
+    },
+    abstract "BACKGROUND: Trichomonas vaginalis is a sexually transmitted
+ infection associated with increased transmission of HIV and significant
+ adverse birth outcomes; culture and polymerase chain reaction (PCR) are
+ commonly used in diagnosis. METHODS: Consenting HIV-infected pregnant women
+ were recruited from clinics in South Africa and screened for T. vaginalis
+ using PCR. Polymerase chain reaction-positive women provided an additional
+ sample for culture. We compared T. vaginalis detection between PCR and
+ culture, and investigated how PCR cycle threshold (Ct) values differ among
+ culture results. RESULTS: A total of 359 women were enrolled and 76 (20%)
+ tested T. vaginalis PCR positive. Cultures were obtained from 61 of the
+ PCR-positive women, and 38 (62%) were culture positive. The median baseline
+ Ct of the PCR-positive/culture-positive group was 22.6 versus 38.0 among
+ those who were PCR positive/culture negative (P < 0.001). Culture-positive
+ cases had lower Ct values (higher DNA load); a Ct value less than 30
+ predicted positivity with a sensitivity of 97% and a specificity of 96%.
+ CONCLUSIONS: Culture was positive in roughly half of PCR-positive cases. The
+ culture-negative cases had significantly higher Ct values, indicating a lower
+ concentration of T. vaginalis DNA. A Ct value of 30 provides a reliable
+ threshold for predicting culture positivity. The clinical significance of
+ culture-negative infections detected by PCR is still unclear.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Cohort Studies"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "HIV Infections",
+        qual {
+          {
+            subh "complications"
+          },
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "parasitology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Polymerase Chain Reaction"
+      },
+      {
+        term "Pregnancy"
+      },
+      {
+        term "Pregnancy Complications, Infectious",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "parasitology"
+          },
+          {
+            subh "virology"
+          }
+        }
+      },
+      {
+        term "Prevalence"
+      },
+      {
+        term "Sensitivity and Specificity"
+      },
+      {
+        term "Sexually Transmitted Diseases",
+        qual {
+          {
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "epidemiology"
+          },
+          {
+            subh "parasitology"
+          }
+        }
+      },
+      {
+        term "South Africa",
+        qual {
+          {
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Trichomonas Infections"
+      },
+      {
+        term "Trichomonas Vaginitis",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            mp TRUE,
+            subh "epidemiology"
+          }
+        }
+      },
+      {
+        term "Trichomonas vaginalis",
+        qual {
+          {
+            subh "genetics"
+          },
+          {
+            mp TRUE,
+            subh "isolation & purification"
+          }
+        }
+      },
+      {
+        term "Vaginal Smears"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "R21 HD084274/HD/NICHD NIH HHS",
+      "PEPFAR/PEPFAR"
+    },
+    pmid 29465686,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+
+

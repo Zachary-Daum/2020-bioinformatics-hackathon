@@ -1,0 +1,243 @@
+
+Pubmed-entry ::= {
+  pmid 29603827,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 1,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Differences between acute-onset chronic inflammatory
+ demyelinating polyneuropathy and acute inflammatory demyelinating
+ polyneuropathy in adult patients."
+      },
+      authors {
+        names std {
+          {
+            name ml "Alessandro L",
+            affil str "Department of Neurology, Raul Carrea Institute for
+ Neurological Research (FLENI), Buenos Aires, Argentina."
+          },
+          {
+            name ml "Pastor Rueda JM",
+            affil str "Department of Neurology, Raul Carrea Institute for
+ Neurological Research (FLENI), Buenos Aires, Argentina."
+          },
+          {
+            name ml "Wilken M",
+            affil str "Department of Neurology, Raul Carrea Institute for
+ Neurological Research (FLENI), Buenos Aires, Argentina."
+          },
+          {
+            name ml "Querol L",
+            affil str "Department of Neurology, Hospital Santa Creu I Sant
+ Pau, Barcelona, Spain."
+          },
+          {
+            name ml "Marrodan M",
+            affil str "Department of Neurology, Raul Carrea Institute for
+ Neurological Research (FLENI), Buenos Aires, Argentina."
+          },
+          {
+            name ml "Acosta JN",
+            affil str "Department of Neurology, Raul Carrea Institute for
+ Neurological Research (FLENI), Buenos Aires, Argentina."
+          },
+          {
+            name ml "Rivero A",
+            affil str "Department of Neurology, Raul Carrea Institute for
+ Neurological Research (FLENI), Buenos Aires, Argentina."
+          },
+          {
+            name ml "Barroso F",
+            affil str "Department of Neurology, Raul Carrea Institute for
+ Neurological Research (FLENI), Buenos Aires, Argentina."
+          },
+          {
+            name ml "Farez MF",
+            affil str "Center for Research on Neuroimmunological Diseases
+ (CIEN), Raul Carrea Institute for Neurological Research (FLENI), Buenos
+ Aires, Argentina.; Center for Epidemiology, Biostatistics, and Public Health
+ (CEBES), Raul Carrea Institute for Neurological Research (FLENI), Buenos
+ Aires, Argentina."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J. Peripher. Nerv. Syst.",
+          ml-jta "J Peripher Nerv Syst",
+          issn "1529-8027",
+          name "Journal of the peripheral nervous system : JPNS"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "23",
+          issue "3",
+          pages "154-158",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 3,
+                day 23
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 3,
+                day 26
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 10,
+                day 23,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29603827,
+        doi "10.1111/jns.12266",
+        other {
+          db "ELocationID doi",
+          tag str "10.1111/jns.12266"
+        }
+      }
+    },
+    abstract "Acute inflammatory demyelinating polyneuropathy (AIDP) and
+ acute-onset chronic inflammatory demyelinating polyneuropathy (A-CIDP) are
+ conditions presenting overlapping clinical features during early stages
+ (first 4 weeks), although the latter may progress after 8 weeks. The aim of
+ this study was to identify predictive factors contributing to their
+ differential diagnosis. Clinical records of adult patients with AIDP or
+ A-CIDP diagnosed at our institution between January 2006 and July 2017 were
+ retrospectively reviewed. Demographic characteristics, clinical
+ manifestations, cerebrospinal-fluid (CSF) findings, treatment and clinical
+ evolution were analyzed. Nerve conduction studies were performed in all
+ patients with at least 12 months follow-up. A total of 91 patients were
+ included (AIDP, n = 77; A-CIDP, n = 14). The median age was 55.5 years in
+ patients with A-CIDP vs 43 years in AIDP (P = .07). The history of diabetes
+ mellitus was more frequent in A-CIDP (29% vs 8%, P = .04). No significant
+ differences between groups were observed with respect to: human
+ immunodeficiency virus (HIV) status, presence of auto-immune disorder or
+ oncologic disease. Cranial, motor and autonomic nerve involvement rates were
+ similar in both groups. Patients in the A-CIDP group showed higher frequency
+ of proprioceptive disturbances (83% vs 28%; P < .001), sensory ataxia (46% vs
+ 16%; P = .01), and the use of combined immunotherapy with corticoids (29% vs
+ 3%; P = .005). There were no significant differences in CSF findings,
+ intensive care unit (ICU) admission, or mortality rates. During the first 8
+ weeks both entities are practically indistinguishable. Alterations in
+ proprioception could suggest A-CIDP. Searching for markers that allow early
+ differentiation could favor the onset of corticotherapy without delay.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Aged"
+      },
+      {
+        term "Aged, 80 and over"
+      },
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Guillain-Barre Syndrome",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnosis"
+          },
+          {
+            subh "physiopathology"
+          }
+        }
+      },
+      {
+        term "Retrospective Studies"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    pmid 29603827,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

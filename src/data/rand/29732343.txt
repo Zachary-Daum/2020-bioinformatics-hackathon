@@ -1,0 +1,147 @@
+
+Pubmed-entry ::= {
+  pmid 29732343,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Diagnosis of Tempromandibular Disorders Using Local Binary
+ Patterns."
+      },
+      authors {
+        names std {
+          {
+            name ml "Haghnegahdar AA",
+            affil str "Department of Oral & Maxillofacial Radiology, school of
+ Dentistry, Shiraz University of Medical Sciences, Shiraz, Iran."
+          },
+          {
+            name ml "Kolahi S",
+            affil str "Department of Oral & Maxillofacial Radiology, school of
+ Dentistry, Shiraz University of Medical Sciences, Shiraz, Iran."
+          },
+          {
+            name ml "Khojastepour L",
+            affil str "Department of Oral & Maxillofacial Radiology, school of
+ Dentistry, Shiraz University of Medical Sciences, Shiraz, Iran."
+          },
+          {
+            name ml "Tajeripour F",
+            affil str "Department of Electrical and Computer Engineering,
+ Shiraz University, Shiraz, Iran."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Biomed Phys Eng",
+          ml-jta "J Biomed Phys Eng",
+          issn "2251-7200",
+          name "Journal of biomedical physics & engineering"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 1
+          },
+          volume "8",
+          issue "1",
+          pages "87-96",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2016,
+                month 5,
+                day 15
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2016,
+                month 6,
+                day 26
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 8,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29732343,
+        other {
+          db "pmc",
+          tag str "PMC5928314"
+        }
+      }
+    },
+    abstract "Background: Temporomandibular joint disorder (TMD) might be
+ manifested as structural changes in bone through modification, adaptation or
+ direct destruction. We propose to use Local Binary Pattern (LBP)
+ characteristics and histogram-oriented gradients on the recorded images as a
+ diagnostic tool in TMD assessment. Material and Methods: CBCT images of 66
+ patients (132 joints) with TMD and 66 normal cases (132 joints) were
+ collected and 2 coronal cut prepared from each condyle, although images were
+ limited to head of mandibular condyle. In order to extract features of
+ images, first we use LBP and then histogram of oriented gradients. To reduce
+ dimensionality, the linear algebra Singular Value Decomposition (SVD) is
+ applied to the feature vectors matrix of all images. For evaluation, we used
+ K nearest neighbor (K-NN), Support Vector Machine, Naive Bayesian and Random
+ Forest classifiers. We used Receiver Operating Characteristic (ROC) to
+ evaluate the hypothesis. Results: K nearest neighbor classifier achieves a
+ very good accuracy (0.9242), moreover, it has desirable sensitivity (0.9470)
+ and specificity (0.9015) results, when other classifiers have lower accuracy,
+ sensitivity and specificity. Conclusion: We proposed a fully automatic
+ approach to detect TMD using image processing techniques based on local
+ binary patterns and feature extraction. K-NN has been the best classifier for
+ our experiments in detecting patients from healthy individuals, by 92.42%
+ accuracy, 94.70% sensitivity and 90.15% specificity. The proposed method can
+ help automatically diagnose TMD at its initial stages.",
+    pmid 29732343,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

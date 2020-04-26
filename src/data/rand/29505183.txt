@@ -1,0 +1,135 @@
+
+Pubmed-entry ::= {
+  pmid 29505183,
+  medent {
+    em std {
+      year 2018,
+      month 3,
+      day 6,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Roles and Qualifications of TMS Treatment Team Members."
+      },
+      authors {
+        names std {
+          {
+            name ml "Feifel D",
+            affil str "dfeifel@kadimanp.com.; Kadima Neuropsychiatry Institute
+ and University of California San Diego, La Jolla, California, USA."
+          },
+          {
+            name ml "Dunner DL",
+            affil str "Center for Anxiety and Depression, Mercer Island,
+ Washington, and Department of Psychiatry and Behavioral Sciences, University
+ of Washington, Seattle, Washington, USA."
+          },
+          {
+            name ml "Press DZ",
+            affil str "Berenson-Allen Center for Noninvasive Brain
+ Stimulation, Cognitive Neurology Unit, Department of Neurology, Beth Israel
+ Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts, USA."
+          },
+          {
+            name consortium "Board of Directors and Clinical Standards
+ Committee of the Clinical TMS Society"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Clin Psychiatry",
+          ml-jta "J Clin Psychiatry",
+          issn "1555-2101",
+          name "The Journal of clinical psychiatry"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 1
+          },
+          volume "79",
+          issue "1",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 3,
+                day 6,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 6,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29505183,
+        doi "10.4088/JCP.17lr11887",
+        other {
+          db "ELocationID doi",
+          tag str "10.4088/JCP.17lr11887"
+        },
+        other {
+          db "ELocationID pii",
+          tag str "17lr11887"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Consensus"
+      },
+      {
+        mp TRUE,
+        term "Depression"
+      },
+      {
+        mp TRUE,
+        term "Depressive Disorder"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Patient Care Team"
+      },
+      {
+        term "Transcranial Magnetic Stimulation"
+      }
+    },
+    pmid 29505183,
+    pub-type {
+      "Letter",
+      "Comment"
+    },
+    status medline
+  }
+}
+
+

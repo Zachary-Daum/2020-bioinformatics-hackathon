@@ -1,0 +1,181 @@
+
+Pubmed-entry ::= {
+  pmid 29682438,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 24,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Evaluating a Space-Based Indicator of Surface Ozone-NO x -VOC
+ Sensitivity Over Midlatitude Source Regions and Application to Decadal Trends."
+      },
+      authors {
+        names std {
+          {
+            name ml "Jin X",
+            affil str "Department of Earth and Environmental Sciences,
+ Lamont-Doherty Earth Observatory of Columbia University, Palisades, NY, USA."
+          },
+          {
+            name ml "Fiore AM",
+            affil str "Department of Earth and Environmental Sciences,
+ Lamont-Doherty Earth Observatory of Columbia University, Palisades, NY, USA."
+          },
+          {
+            name ml "Murray LT",
+            affil str "Department of Earth and Environmental Sciences,
+ University of Rochester, Rochester, NY, USA."
+          },
+          {
+            name ml "Valin LC",
+            affil str "U.S. EPA Office of Research and Development, Research
+ Triangle Park, Durham, NC, USA."
+          },
+          {
+            name ml "Lamsal LN",
+            affil str "NASA Goddard Space Flight Center, Greenbelt, MD, USA.;
+ Goddard Earth Sciences Technology and Research, Universities Space Research
+ Association, Columbia, MD, USA."
+          },
+          {
+            name ml "Duncan B",
+            affil str "NASA Goddard Space Flight Center, Greenbelt, MD, USA."
+          },
+          {
+            name ml "Boersma KF",
+            affil str "Royal Netherlands Meteorological Institute, De Bilt,
+ Netherlands.; Wageningen University, Meteorology and Air Quality Group,
+ Wageningen, Netherlands."
+          },
+          {
+            name ml "De Smedt I",
+            affil str "Belgian Institute for Space Aeronomy (BIRA-IASB),
+ Brussels, Belgium."
+          },
+          {
+            name ml "Abad GG",
+            affil str "Harvard-Smithsonian Center for Astrophysics, Cambridge,
+ MA, USA."
+          },
+          {
+            name ml "Chance K",
+            affil str "Harvard-Smithsonian Center for Astrophysics, Cambridge,
+ MA, USA."
+          },
+          {
+            name ml "Tonnesen GS",
+            affil str "United States Environmental Protection Agency, Denver,
+ CO, USA."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Geophys Res Atmos",
+          ml-jta "J Geophys Res Atmos",
+          issn "2169-897X",
+          name "Journal of geophysical research. Atmospheres : JGR"
+        },
+        imp {
+          date std {
+            year 2017,
+            month 10,
+            day 16
+          },
+          volume "122",
+          issue "19",
+          pages "10-461",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 4,
+                day 24,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29682438,
+        doi "10.1002/2017JD026720",
+        other {
+          db "pmc",
+          tag str "PMC5906809"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS954510"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1002/2017JD026720"
+        }
+      }
+    },
+    abstract "Determining effective strategies for mitigating surface ozone
+ (O3) pollution requires knowledge of the relative ambient concentrations of
+ its precursors, NO x , and VOCs. The space-based tropospheric column ratio of
+ formaldehyde to NO2 (FNR) has been used as an indicator to identify NO x
+ -limited versus NO x -saturated O3 formation regimes. Quantitative use of
+ this indicator ratio is subject to three major uncertainties: (1) the split
+ between NO x -limited and NO x -saturated conditions may shift in space and
+ time, (2) the ratio of the vertically integrated column may not represent the
+ near-surface environment, and (3) satellite products contain errors. We use
+ the GEOS-Chem global chemical transport model to evaluate the quantitative
+ utility of FNR observed from the Ozone Monitoring Instrument over three
+ northern midlatitude source regions. We find that FNR in the model surface
+ layer is a robust predictor of the simulated near-surface O3 production
+ regime. Extending this surface-based predictor to a column-based FNR requires
+ accounting for differences in the HCHO and NO2 vertical profiles. We compare
+ four combinations of two OMI HCHO and NO2 retrievals with modeled FNR. The
+ spatial and temporal correlations between the modeled and satellite-derived
+ FNR vary with the choice of NO2 product, while the mean offset depends on the
+ choice of HCHO product. Space-based FNR indicates that the spring transition
+ to NO x -limited regimes has shifted at least a month earlier over major
+ cities (e.g., New York, London, and Seoul) between 2005 and 2015. This
+ increase in NO x sensitivity implies that NO x emission controls will improve
+ O3 air quality more now than it would have a decade ago.",
+    idnum {
+      "EPA999999/Intramural EPA",
+      "EPA999999/Intramural EPA"
+    },
+    pmid 29682438,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+

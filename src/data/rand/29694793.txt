@@ -1,0 +1,174 @@
+
+Pubmed-entry ::= {
+  pmid 29694793,
+  medent {
+    em std {
+      year 2018,
+      month 4,
+      day 26,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Death of the Endothelium in Sepsis: Understanding the Crime
+ Scene."
+      },
+      authors {
+        names std {
+          {
+            name ml "Singla S",
+            affil str "1 Division of Pulmonary, Critical Care, Sleep, and
+ Allergy Medicine University of Illinois at Chicago Chicago, Illinois and."
+          },
+          {
+            name ml "Machado RF",
+            affil str "2 Division of Pulmonary, Critical Care, Sleep, and
+ Occupational Medicine Indiana University Indianapolis, Indiana."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Am. J. Respir. Cell Mol. Biol.",
+          ml-jta "Am J Respir Cell Mol Biol",
+          issn "1535-4989",
+          name "American journal of respiratory cell and molecular biology"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 7
+          },
+          volume "59",
+          issue "1",
+          pages "3-4",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2019,
+                month 4,
+                day 16,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 4,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29694793,
+        doi "10.1165/rcmb.2018-0051ED",
+        other {
+          db "pmc",
+          tag str "PMC6039871"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1165/rcmb.2018-0051ED"
+        }
+      }
+    },
+    mesh {
+      {
+        term "Animals"
+      },
+      {
+        term "Caspase 1",
+        qual {
+          {
+            subh "metabolism"
+          }
+        }
+      },
+      {
+        term "Endothelial Cells",
+        qual {
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Endothelium",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Mice"
+      },
+      {
+        term "Monocytes",
+        qual {
+          {
+            subh "metabolism"
+          },
+          {
+            subh "pathology"
+          }
+        }
+      },
+      {
+        term "Pyroptosis"
+      },
+      {
+        term "Sepsis",
+        qual {
+          {
+            mp TRUE,
+            subh "pathology"
+          }
+        }
+      }
+    },
+    substance {
+      {
+        type ec,
+        cit "3.4.22.36",
+        name "Caspase 1"
+      }
+    },
+    idnum {
+      "R01 HL111656/HL/NHLBI NIH HHS",
+      "R01 HL127342/HL/NHLBI NIH HHS",
+      "R01 HL133951/HL/NHLBI NIH HHS"
+    },
+    pmid 29694793,
+    pub-type {
+      "Editorial"
+    },
+    status medline
+  }
+}
+
+

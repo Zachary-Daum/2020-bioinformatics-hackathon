@@ -1,0 +1,225 @@
+
+Pubmed-entry ::= {
+  pmid 29414520,
+  medent {
+    em std {
+      year 2018,
+      month 2,
+      day 8,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Diagnosing conduit leak after esophagectomy for esophageal
+ cancer by computed tomography leak protocol and standard esophagram: Is old
+ school still the best?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Palacio D",
+            affil str "Department of Medical Imaging, The University of
+ Arizona, Banner Medical Center, Tucson, AZ 85724, United States. Electronic
+ address: dpalacio@radiology.arizona.edu."
+          },
+          {
+            name ml "Marom EM",
+            affil str "Department of Diagnostic Imaging, The Chaim Sheba
+ Medical Center, Ramat Gan, Israel affiliated with the Tel Aviv University,
+ Tel Aviv, Israel."
+          },
+          {
+            name ml "Correa A",
+            affil str "Department of Surgery, Cardiothoracic Surgery Division,
+ The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd,
+ Houston, TX 77005, United States."
+          },
+          {
+            name ml "Betancourt-Cuellar SL",
+            affil str "Department of Radiology, Diagnostic Imaging Division,
+ The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd,
+ Houston, TX 77005, United States."
+          },
+          {
+            name ml "Hofstetter WL",
+            affil str "Department of Surgery, Cardiothoracic Surgery Division,
+ The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd,
+ Houston, TX 77005, United States."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Clin Imaging",
+          ml-jta "Clin Imaging",
+          issn "1873-4499",
+          name "Clinical imaging"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 9
+          },
+          volume "51",
+          pages "23-29",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 11,
+                day 17
+              }
+            },
+            {
+              pubstatus revised,
+              date std {
+                year 2018,
+                month 1,
+                day 17
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 1,
+                day 19
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 12,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 2,
+                day 8,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29414520,
+        pii "S0899-7071(18)30012-3",
+        doi "10.1016/j.clinimag.2018.01.010",
+        other {
+          db "ELocationID pii",
+          tag str "S0899-7071(18)30012-3"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1016/j.clinimag.2018.01.010"
+        }
+      }
+    },
+    abstract "The imaging modalities available to evaluate anastomotic leak
+ complicating esophagectomy include CT-Esophageal Protocol (CTEP) and
+ esophagram. The purpose of this study was to compare the performance of these
+ two modalities, alone or in combination, with the final diagnosis of leak
+ established by endoscopy, surgery and/or the clinical course and evaluate
+ management implications.",
+    mesh {
+      {
+        term "Aged"
+      },
+      {
+        term "Anastomosis, Surgical",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Anastomotic Leak",
+        qual {
+          {
+            mp TRUE,
+            subh "diagnostic imaging"
+          }
+        }
+      },
+      {
+        term "Diagnostic Imaging",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Esophageal Neoplasms",
+        qual {
+          {
+            mp TRUE,
+            subh "surgery"
+          }
+        }
+      },
+      {
+        term "Esophagectomy",
+        qual {
+          {
+            mp TRUE,
+            subh "adverse effects"
+          }
+        }
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Tomography, X-Ray Computed",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 29414520,
+    pub-type {
+      "Comparative Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
+

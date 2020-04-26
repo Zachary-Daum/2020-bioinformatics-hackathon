@@ -1,0 +1,140 @@
+
+Pubmed-entry ::= {
+  pmid 29755723,
+  medent {
+    em std {
+      year 2018,
+      month 5,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "A Novel Method of Color Appearance Simulation Using Achromatic
+ Point Locus With Lightness Dependence."
+      },
+      authors {
+        names std {
+          {
+            name ml "Kuriki I",
+            affil str "Research Institute of Electrical Communication, Tohoku
+ University, Sendai, Japan."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Iperception",
+          ml-jta "Iperception",
+          issn "2041-6695",
+          name "i-Perception"
+        },
+        imp {
+          date std {
+            year 2018,
+            month 3,
+            day 16
+          },
+          volume "9",
+          issue "2",
+          pages "2041669518761731",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2017,
+                month 7,
+                day 28
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2018,
+                month 2,
+                day 5
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2018,
+                month 5,
+                day 15,
+                hour 6,
+                minute 1
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 29755723,
+        doi "10.1177/2041669518761731",
+        pii "10.1177_2041669518761731",
+        other {
+          db "pmc",
+          tag str "PMC5937632"
+        },
+        other {
+          db "ELocationID doi",
+          tag str "10.1177/2041669518761731"
+        }
+      }
+    },
+    abstract "The purpose of the present study is to propose a simple
+ algorithm for color appearance simulation under a color illuminant.
+ Achromatic point is a chromaticity of rays that appear neither red nor green,
+ neither blue nor yellow under a given illuminant condition. Saturation and
+ hue of surface colors are evaluated with respect to the achromatic point of
+ the same lightness, while the achromatic point under a colored illuminant
+ depends on the lightness tested. We previously found that this achromatic
+ point locus can be simply approximated as a line with a parallel offset from
+ the lightness axis of CIE LAB space normalized to daylight. We propose a
+ model that applies shifts in the lightness direction after applying
+ hue/saturation shifts using the cone-response (von Kries) transformation
+ under an iso-lightness constraint, such that achromatic points would be
+ aligned with the lightness axis in the CIE LAB space under daylight
+ normalization. We tested this algorithm, which incorporates evaluation of
+ color appearance in different lightness levels, using #theDress image.
+ Resemblance between our simulation and subjective color-matching results
+ implies that human color vision possibly processes shifts in color and
+ lightness independently, as a previous study reported. Changes in the
+ chromaticity distribution of the images were compared with conventional
+ models, and the proposed model preserved relative color difference better,
+ especially at the lower lightness levels. The better performance in lower
+ lightness levels would be advantageous in displays with wider dynamic range
+ in luminance. This implies that the proposed model is effective in simulating
+ color appearance of images with nonnegligible lightness and color differences.",
+    pmid 29755723,
+    pub-type {
+      "Journal Article"
+    },
+    status premedline
+  }
+}
+
+
