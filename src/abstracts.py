@@ -2,6 +2,7 @@ import nltk
 from nltk import pos_tag
 from nltk import RegexpParser
 import matplotlib.pyplot as plt
+import statistics
 
 def between(value, a, b):
     # Find and validate before-part.
@@ -31,7 +32,7 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
     WperSlist = []
     SentStdevlist = []
     
-    while ( n <= 421 ):
+    while ( n <= 1 ):
         workingid = idlist[n]
         workingfile = "data/fakes/{}.txt"
         currentfile = workingfile.format(workingid)
@@ -44,6 +45,10 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
 
             #sentence count
             senscount = (len(abstract.split('.')))
+
+            #find stdev
+            sentences = abstract.split('.')
+            print(sentences)
 
             text = abstract.split()
             tagged = pos_tag(text)
@@ -122,7 +127,7 @@ with open('data/rand_pmids.txt', 'r') as fakeid:
     WperSlist = []
     SentStdevlist = []
     
-    while ( n <= 499 ):
+    while ( n <= 1 ):
         workingid = idlist[n]
         workingfile = "data/rand/{}.txt"
         currentfile = workingfile.format(workingid)
@@ -166,7 +171,6 @@ with open('data/rand_pmids.txt', 'r') as fakeid:
                 RBperVBlist.append(new_RBperVBlist)
                 new_WperSlist = wdcount / senscount
                 WperSlist.append(new_WperSlist)
-            #find stdev of length of sentences###
             
         n = n+1
 
