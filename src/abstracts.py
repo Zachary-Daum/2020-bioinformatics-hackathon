@@ -2,7 +2,7 @@ import nltk
 from nltk import pos_tag
 from nltk import RegexpParser
 import matplotlib.pyplot as plt
-import statistics
+import pandas as pd
 
 def between(value, a, b):
     # Find and validate before-part.
@@ -78,9 +78,21 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
             WperSlist.append(new_WperSlist)
         n = n+1
 #ranking fakes
+mean_value = sum(JJperNNlist) / len(JJperNNlist)
+#find each difference from mean
+n = 0
+deviation_list = []
+while ( n <= 307):
+    working_value = JJperNNlist[n]
+    deviation = working_value - mean_value
+    deviation_list.append(deviation)
+    n = n+1 
+#add to dataframe
+data = {'PMID': idlist[0:307], 'Deviation':deviation_list[0:307]}
+df = pd.DataFrame(data)
+df.to_csv (r'data/gen-data/export.csv', index = True, header = True)
+print(df)
 
-
-        
 ####################################REAL DATA###################
 with open('data/rand_pmids.txt', 'r') as fakeid:
     fakeid = fakeid.readlines()
