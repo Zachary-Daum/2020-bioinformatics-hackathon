@@ -77,6 +77,10 @@ with open('data/fake_pmids.txt', 'r') as fakeid:
             new_WperSlist = wdcount / senscount
             WperSlist.append(new_WperSlist)
         n = n+1
+#ranking fakes
+
+
+        
 ####################################REAL DATA###################
 with open('data/rand_pmids.txt', 'r') as fakeid:
     fakeid = fakeid.readlines()
@@ -140,7 +144,6 @@ with open('data/rand_pmids.txt', 'r') as fakeid:
                 R_WperSlist.append(R_new_WperSlist)
             
         n = n+1
-
  ##plotting
     plt.subplot(321)
     plt.scatter(R_WperSlist, R_CCperWlist, c = "green", alpha=0.2)
@@ -171,7 +174,13 @@ with open('data/rand_pmids.txt', 'r') as fakeid:
     plt.scatter(WperSlist, RBperVBlist, c = "red", alpha=0.2)
     plt.ylabel('Adverbs Per Verb')
     plt.xlabel('Words Per Sentence')
-    
+
+    plt.subplot(326)
+    plt.scatter(R_CCperWlist, R_JJperNNlist, c = "green", alpha=0.2)
+    plt.scatter(CCperWlist, JJperNNlist, c = "red", alpha=0.2)
+    plt.ylabel('Adjectives Per Noun')
+    plt.xlabel('Coordinating Conjunctions Per Word')
+                
     plt.show()
     
             
